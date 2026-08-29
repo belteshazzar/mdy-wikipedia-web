@@ -1,0 +1,7 @@
+node_modules/
+dist/
+
+# What `--vault` writes: converted articles, a reading session's worth. Output
+# the app produces rather than anything it needs, and it grows every time
+# somebody follows a link.
+vault/
