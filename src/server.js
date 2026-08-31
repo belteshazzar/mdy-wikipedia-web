@@ -13,7 +13,7 @@
  * instant, and the first one costs a fetch.
  */
 
-import {mkdir, readFile, readdir, writeFile} from 'node:fs/promises'
+import {mkdir, readFile, readdir, rm, writeFile} from 'node:fs/promises'
 import {dirname, join} from 'node:path'
 import {documentPath, resolveTarget, wikipediaToMdy} from '@mdy-docs/mdy-wikipedia'
 
@@ -37,7 +37,7 @@ export function createLibrary(options = {}) {
   /** @type {Map<string, object>} */
   const loaded = new Map()
 
-  return {load, list, loaded}
+  return {load, save, forget, list, loaded}
 
   /**
    * @param {string} input
@@ -89,6 +89,83 @@ export function createLibrary(options = {}) {
     }
 
     return {...page, from: 'wikipedia'}
+  }
+
+  /**
+   * Put an edited source back.
+   *
+   * The reader can change a document — taking a link out of it, say — and what
+   * it changed has to outlive the render, or the next visit would arrive at
+   * the version the converter wrote and the edit would have been a trick of
+   * the light. So this writes through both places a document is held: the
+   * session, always, and the vault when there is one.
+   *
+   * Nothing is re-converted. The source given is the source kept, which is the
+   * whole point — a hand edit that the converter then overwrote would be worse
+   * than no edit at all.
+   *
+   * @param {string} input
+   *   A title, a `lang:title`, or a Wikipedia URL — the same as `load` takes.
+   * @param {string} source
+   * @returns {Promise<object>}
+   */
+  async function save(input, source) {
+    const target = resolveTarget(input, {lang: options.lang ?? 'en'})
+    const key = target.lang + ':' + target.title
+    const path = target.lang + '/' + documentPath(target)
+    // Over whatever is already held, so a document keeps the messages its
+    // conversion left on it: an edit answers one of them, it does not make the
+    // rest untrue.
+    const page = {
+      ...(loaded.get(key) ?? {...target, key, path, messages: [], counts: {}}),
+      source
+    }
+
+    loaded.set(key, page)
+
+    if (options.vault) {
+      const file = join(options.vault, path)
+
+      await mkdir(dirname(file), {recursive: true})
+      await writeFile(file, source)
+    }
+
+    // `saved` is the difference between an edit that will be there tomorrow
+    // and one that lasts as long as the tab does, and the reader says which.
+    return {...page, from: 'edited', saved: Boolean(options.vault)}
+  }
+
+  /**
+   * Take a document back out of the library.
+   *
+   * Following a link converts a page and keeps it, which is the whole point
+   * right up until the page was not the one meant. Then keeping it is the
+   * problem: the vault is a reading somebody chose, and a wrong turn is not
+   * part of it.
+   *
+   * Both places it is held, because either one left holding it would put it
+   * back — the session would serve it again as `memory`, and the vault would
+   * serve it again to the next session.
+   *
+   * @param {string} input
+   * @returns {Promise<{key: string, path: string, held: boolean, removed: boolean}>}
+   *   `held` and `removed` say where it actually was, which is the difference
+   *   between undoing a download and undoing nothing.
+   */
+  async function forget(input) {
+    const target = resolveTarget(input, {lang: options.lang ?? 'en'})
+    const key = target.lang + ':' + target.title
+    const path = target.lang + '/' + documentPath(target)
+    const held = loaded.delete(key)
+    let removed = false
+
+    if (options.vault) {
+      removed = await rm(join(options.vault, path))
+        .then(() => true)
+        .catch(() => false)
+    }
+
+    return {...target, key, path, held, removed}
   }
 
   /**

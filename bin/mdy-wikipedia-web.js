@@ -25,7 +25,16 @@ Options:
                    it has loaded.
   --lang <code>    which wiki (default: en)
   --open <title>   the page to show first (default: Babylon)
-  --wikidata       resolve Wikidata claims into the front matter
+  --no-wikidata    do not resolve Wikidata claims into the front matter. They
+                   are resolved by default: the claims are the part of a page
+                   that is already a record, and the Data tab is where this
+                   page shows one. Two more requests on the first read of an
+                   article; nothing on the ones after
+  --keep-pronunciation
+                   keep how the title is said — the IPA and the respelling
+                   that open the lead. Taken out by default here: the reader
+                   is for looking at the conversion, and it is a lot of the
+                   first line that is about the word rather than the subject
   --no-images      leave the image list out of the front matter
   --refs <mode>    footnotes | data | drop (default: footnotes)
   --dist           serve the built page rather than vite's
@@ -38,7 +47,10 @@ const {values} = parseArgs({
     vault: {type: 'string'},
     lang: {type: 'string'},
     open: {type: 'string'},
+    // Accepted and inert: it asks for what already happens.
     wikidata: {type: 'boolean'},
+    'no-wikidata': {type: 'boolean'},
+    'keep-pronunciation': {type: 'boolean'},
     'no-images': {type: 'boolean'},
     refs: {type: 'string'},
     dist: {type: 'boolean'},
@@ -59,9 +71,14 @@ const library = createLibrary({
   vault: values.vault ? resolve(values.vault) : undefined,
   lang: values.lang,
   convert: {
-    wikidata: values.wikidata,
+    wikidata: !values['no-wikidata'],
     images: !values['no-images'],
-    refs: values.refs ?? 'footnotes'
+    refs: values.refs ?? 'footnotes',
+    // On by default, unlike the converter's own default. A lead that opens
+    // `Babylon (/ˈbæbɪlɒn/ BAB-il-on) was` spends its first line on how to
+    // say the word, and this page is for reading what the conversion did to
+    // the article.
+    dropPronunciation: !values['keep-pronunciation']
   }
 })
 
@@ -95,6 +112,26 @@ const server = createServer(async (request, response) => {
   const url = new URL(request.url, 'http://localhost')
 
   try {
+    // Before the GET, which would otherwise answer a POST by converting the
+    // page all over again and throwing the edit away.
+    if (url.pathname === '/api/page' && request.method === 'POST') {
+      const body = await readJson(request)
+
+      if (typeof body?.title !== 'string' || typeof body?.source !== 'string') {
+        return send(response, 400, {error: 'a title and a source are wanted'})
+      }
+
+      return send(response, 200, await library.save(body.title, body.source))
+    }
+
+    if (url.pathname === '/api/page' && request.method === 'DELETE') {
+      const title = url.searchParams.get('title')
+
+      if (!title) return send(response, 400, {error: 'a title is wanted'})
+
+      return send(response, 200, await library.forget(title))
+    }
+
     if (url.pathname === '/api/page') {
       const page = await library.load(url.searchParams.get('title') ?? opening, {
         refresh: url.searchParams.get('refresh') === '1'
@@ -128,6 +165,35 @@ server.listen(port, () => {
  */
 function hmrPort(port) {
   return port < 55000 ? port + 10000 : port - 10000
+}
+
+/**
+ * A JSON request body.
+ *
+ * Capped, because the only thing that posts here is the reader posting back a
+ * document it already has — an edited article is tens of kilobytes, and
+ * anything an order of magnitude past that is not one.
+ *
+ * @param {import('node:http').IncomingMessage} request
+ * @returns {Promise<object | undefined>}
+ */
+async function readJson(request) {
+  const chunks = []
+  let size = 0
+
+  for await (const chunk of request) {
+    size += chunk.length
+
+    if (size > 4_000_000) throw new Error('body too large')
+
+    chunks.push(chunk)
+  }
+
+  try {
+    return JSON.parse(Buffer.concat(chunks).toString('utf8'))
+  } catch {
+    return undefined
+  }
 }
 
 /**

@@ -8,8 +8,12 @@ import {createLibrary} from '../src/server.js'
 /** A wiki of two pages that counts what it was asked for. */
 function wiki() {
   const calls = []
+  // The lead opens the way Wikipedia's do: the title, then how to say it.
+  const said = '<span class="rt-commentedText nowrap"><span class="IPA" lang="en-fonipa">' +
+    '<a rel="mw:WikiLink" href="./Help:IPA/English">/ˈbæbɪlən/</a></span></span>'
   const page = (title, links) =>
-    '<body><section data-mw-section-id="0"><p>About ' + title + '. ' +
+    '<body><section data-mw-section-id="0"><p><b>' + title + '</b> (' + said + ') is a place. ' +
+    'About ' + title + '. ' +
     links
       .map((name) => '<a rel="mw:WikiLink" href="./' + name.replaceAll(' ', '_') + '">' + name + '</a>')
       .join(' ') +
@@ -134,5 +138,107 @@ test('a page that will not fetch reports rather than caching a failure', async (
   const library = createLibrary({convert: convert(fetch)})
 
   await assert.rejects(library.load('Nowhere'), /Could not fetch/)
+  assert.deepEqual(await library.list(), [])
+})
+
+test('an edited source is kept, in memory and in the vault', async () => {
+  const {fetch} = wiki()
+  const vault = await mkdtemp(join(tmpdir(), 'mdy-wikipedia-web-'))
+  const library = createLibrary({vault, convert: convert(fetch)})
+
+  const first = await library.load('Babylon')
+  const saved = await library.save('Babylon', 'Edited.\n')
+
+  assert.equal(saved.from, 'edited')
+  assert.equal(saved.saved, true, 'there is a vault to write to')
+  assert.equal(saved.source, 'Edited.\n')
+  assert.deepEqual(saved.messages, first.messages, 'an edit answers a message, it does not retract the rest')
+  assert.equal(await readFile(join(vault, saved.path), 'utf8'), 'Edited.\n')
+
+  const again = await library.load('Babylon')
+
+  assert.equal(again.from, 'memory')
+  assert.equal(again.source, 'Edited.\n', 'the edit is what the next visit reads')
+})
+
+test('without a vault an edit is remembered but says it was not kept', async () => {
+  const {fetch} = wiki()
+  const library = createLibrary({convert: convert(fetch)})
+
+  await library.load('Babylon')
+
+  const saved = await library.save('Babylon', 'Edited.\n')
+
+  assert.equal(saved.saved, false)
+  assert.equal((await library.load('Babylon')).source, 'Edited.\n')
+})
+
+test('a page can be saved before it has ever been loaded', async () => {
+  const library = createLibrary({})
+  const saved = await library.save('Babylon', 'Written.\n')
+
+  assert.equal(saved.title, 'Babylon')
+  assert.deepEqual(saved.messages, [])
+  assert.deepEqual(
+    (await library.list()).map((page) => page.title),
+    ['Babylon']
+  )
+})
+
+test('the converter options reach the converter', async () => {
+  const {fetch} = wiki()
+  const kept = createLibrary({convert: convert(fetch)})
+  const dropped = createLibrary({convert: {...convert(fetch), dropPronunciation: true}})
+
+  assert.match((await kept.load('Babylon')).source, /ˈbæbɪlən/)
+
+  const source = (await dropped.load('Babylon')).source
+
+  assert.doesNotMatch(source, /ˈbæbɪlən/)
+  assert.match(source, /Babylon!! is a place/, 'and the brackets go with it')
+})
+
+test('a discarded page leaves the vault and the session', async () => {
+  const {fetch, calls} = wiki()
+  const vault = await mkdtemp(join(tmpdir(), 'mdy-wikipedia-web-'))
+  const library = createLibrary({vault, convert: convert(fetch)})
+
+  const first = await library.load('Babylon')
+
+  assert.equal(first.from, 'wikipedia')
+  assert.ok(await readFile(join(vault, first.path), 'utf8'))
+
+  const gone = await library.forget('Babylon')
+
+  assert.equal(gone.held, true, 'it was in the session')
+  assert.equal(gone.removed, true, 'and in the vault')
+  await assert.rejects(() => readFile(join(vault, first.path), 'utf8'), 'the file is gone')
+  assert.deepEqual(await library.list(), [], 'and the shelf does not list it')
+
+  // Neither place is left holding it: the next visit is a fresh download.
+  const again = await library.load('Babylon')
+
+  assert.equal(again.from, 'wikipedia')
+  assert.equal(calls.length, 4, 'the html and the summary, twice each')
+})
+
+test('discarding says when there was nothing to discard', async () => {
+  const vault = await mkdtemp(join(tmpdir(), 'mdy-wikipedia-web-'))
+  const gone = await createLibrary({vault}).forget('Babylon')
+
+  assert.equal(gone.held, false)
+  assert.equal(gone.removed, false)
+})
+
+test('without a vault a discard still empties the session', async () => {
+  const {fetch} = wiki()
+  const library = createLibrary({convert: convert(fetch)})
+
+  await library.load('Babylon')
+
+  const gone = await library.forget('Babylon')
+
+  assert.equal(gone.held, true)
+  assert.equal(gone.removed, false, 'there was no vault to remove it from')
   assert.deepEqual(await library.list(), [])
 })
