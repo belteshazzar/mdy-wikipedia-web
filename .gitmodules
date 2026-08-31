@@ -1,0 +1,6 @@
+[submodule "third-party/mdy-wikipedia"]
+	path = third-party/mdy-wikipedia
+	url = https://github.com/belteshazzar/mdy-wikipedia.git
+[submodule "third-party/mdy-docs"]
+	path = third-party/mdy-docs
+	url = https://github.com/mdy-docs/mdy-docs.git

@@ -14,11 +14,15 @@
     "test": "node --test test/*.test.js"
   },
   "dependencies": {
-    "@mdy-docs/mdy-site": "file:../mdy-site",
-    "@mdy-docs/mdy-wikipedia": "file:../mdy-wikipedia",
-    "mdy-docs": "file:../.."
+    "@mdy-docs/mdy-site": "file:third-party/mdy-docs/packages/mdy-site",
+    "@mdy-docs/mdy-wikipedia": "file:third-party/mdy-wikipedia",
+    "mdy-docs": "file:third-party/mdy-docs"
   },
   "devDependencies": {
     "vite": "^6.0.7"
+  },
+  "allowScripts": {
+    "esbuild@0.25.12": true,
+    "fsevents@2.3.3": true
   }
 }
