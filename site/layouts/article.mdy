@@ -8,6 +8,70 @@
   // and one outside becomes a link to the Wikipedia article it came from,
   // marked as leaving. Neither is guessed — the corpus knows its own slugs,
   // and `link-titles` in the front matter carries the title behind each one.
+  // A rewritten page's figures come from its image plan rather than from
+  // markup, because the rewritten body has none. Walk the prose once, and put
+  // each planned picture in front of the heading of the section it belongs to;
+  // anything for the lead goes at the very top. Done by rebuilding the child
+  // list rather than splicing during a visit, so nothing is inserted into an
+  // array that is being walked.
+  const plan = req.plan ?? []
+
+  if (plan.length) {
+    visit(tree, "element", (node) => {
+      const classes = node.properties?.className ?? []
+      if (!classes.includes || !classes.includes("prose")) return
+
+      const figure = (item) => ({
+        type: "element",
+        tagName: "figure",
+        properties: {className: ["planned", item.role]},
+        children: [
+          {
+            type: "element",
+            tagName: "img",
+            properties: {
+              src: item.src, alt: item.caption, loading: "lazy",
+              width: item.width, height: item.height
+            },
+            children: []
+          },
+          {
+            type: "element",
+            tagName: "figcaption",
+            properties: {},
+            children: [
+              {type: "text", value: item.caption},
+              {
+                type: "element",
+                tagName: "span",
+                properties: {className: ["credit"]},
+                children: [{type: "text", value: item.credit}]
+              }
+            ]
+          }
+        ]
+      })
+
+      const out = []
+
+      for (const item of plan) {
+        if (item.section === "lead") out.push(figure(item))
+      }
+
+      for (const child of node.children) {
+        if (child.type === "element" && child.tagName === "h2") {
+          const id = child.properties?.id
+          for (const item of plan) {
+            if (item.section !== "lead" && item.section === id) out.push(figure(item))
+          }
+        }
+        out.push(child)
+      }
+
+      node.children = out
+    })
+  }
+
   const prefixOf = (src) => {
     const at = String(src).lastIndexOf("/")
     return at === -1 ? String(src) : String(src).slice(0, at)

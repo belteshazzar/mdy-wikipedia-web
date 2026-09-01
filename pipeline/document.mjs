@@ -44,14 +44,30 @@ export const schema = {
   required: ['hook', 'standfirst', 'lead', 'sections', 'key-facts', 'image-plan', 'glossary'],
   properties: {
     hook: {
-      type: 'string',
+      type: 'object',
+      additionalProperties: false,
+      required: ['text', 'from'],
       description:
-        'One or two sentences: the reason a general reader should care, set large under the title. Not a definition. Must be supportable from the article alone.'
+        'One or two sentences: the reason a general reader should care, set large under the title. Not a definition.',
+      properties: {
+        text: {type: 'string'},
+        from: {
+          type: 'string',
+          description:
+            'The sentence or sentences from the article that this compresses, copied VERBATIM. Everything the hook asserts must be visible here. If you cannot quote a passage that supports all of it, the hook claims too much and must be rewritten until you can.'
+        }
+      }
     },
     standfirst: {
-      type: 'string',
+      type: 'object',
+      additionalProperties: false,
+      required: ['text', 'from'],
       description:
-        'About forty words of orientation before the first section: who, where, when, and why this is worth the next ten minutes.'
+        'About forty words of orientation before the first section: who, where, when, and why this is worth the next ten minutes.',
+      properties: {
+        text: {type: 'string'},
+        from: {type: 'string', description: 'The passage it compresses, copied VERBATIM, as for the hook.'}
+      }
     },
     lead: {
       type: 'string',
@@ -95,8 +111,12 @@ export const schema = {
       items: {
         type: 'object',
         additionalProperties: false,
-        required: ['when', 'what'],
-        properties: {when: {type: 'string'}, what: {type: 'string'}}
+        required: ['when', 'what', 'from'],
+        properties: {
+          when: {type: 'string'},
+          what: {type: 'string'},
+          from: {type: 'string', description: 'The passage this is taken from, copied VERBATIM.'}
+        }
       }
     },
     'key-facts': {
@@ -133,8 +153,12 @@ export const schema = {
       items: {
         type: 'object',
         additionalProperties: false,
-        required: ['term', 'gloss'],
-        properties: {term: {type: 'string'}, gloss: {type: 'string'}}
+        required: ['term', 'gloss', 'from'],
+        properties: {
+          term: {type: 'string'},
+          gloss: {type: 'string'},
+          from: {type: 'string', description: 'The passage the gloss is taken from, copied VERBATIM.'}
+        }
       }
     },
     further: {
@@ -187,6 +211,11 @@ HOUSE STYLE
 WHAT YOU ARE PRODUCING
 Fields a magazine page is laid out from, not an essay. The prose matters, but a hook that does not fit above a photograph and a caption that names a file are failures of the same kind.
 
+THE SHORT FIELDS ARE WHERE THIS GOES WRONG
+The hook, standfirst, timeline and glossary are a twentieth of the words and, measured over ten articles, seven times more likely to say something the article does not. The cause is not carelessness, it is compression: the shortest arresting version of a hedged claim is the unhedged one. "Knowledge of it derives principally from funerary texts, among many other sources" does not fit above a photograph; "known only from funerary texts" does, and is false.
+
+So each of those fields carries a \`from\`: the passage it compresses, copied out of the article word for word. Write the quote first and the field second. If what you have written asserts more than the quote does — a hedge dropped, a scope widened, an actor supplied, a cause implied — then it is the field that is wrong, not the quote, and you rewrite it until the quote covers it.
+
 MECHANICS
 - The article's LEAD — the prose above its first heading — is rewritten into "lead". It is the most-read part of the article. The hook and the standfirst do not replace it; they sit above it and are much shorter.
 - Section headings are reproduced verbatim and every section is present, in order, with its original id.
@@ -229,14 +258,23 @@ export function compose(slug, original, rewrite, usage) {
   const data = {
     title: original.data.title,
     description: original.data.description,
-    hook: rewrite.hook,
-    standfirst: rewrite.standfirst,
+    hook: typeof rewrite.hook === 'string' ? rewrite.hook : rewrite.hook.text,
+    standfirst:
+      typeof rewrite.standfirst === 'string' ? rewrite.standfirst : rewrite.standfirst.text,
     'key-facts': rewrite['key-facts'],
     'pull-quotes': rewrite['pull-quotes'],
     timeline: rewrite.timeline,
     'image-plan': rewrite['image-plan'],
     glossary: rewrite.glossary,
     further: rewrite.further,
+    // What each short field is compressing, kept rather than thrown away: it
+    // is what a reviewer checks the field against, and checking a hook against
+    // its own quote is a ten-second job where re-reading the article is not.
+    anchors: {
+      hook: typeof rewrite.hook === 'string' ? undefined : rewrite.hook.from,
+      standfirst:
+        typeof rewrite.standfirst === 'string' ? undefined : rewrite.standfirst.from
+    },
     // Carried across untouched — the rewrite is of the prose.
     coordinates: original.data.coordinates,
     image: original.data.image,
@@ -279,13 +317,47 @@ export const MODEL_ID = MODEL
 export const CORPUS = corpus
 export const OUT = out
 
-/** The two halves of the request, exactly as either transport would send them. */
-export async function request(slug, original, inCorpus) {
-  const houseStyle = await readFile('docs/house-style.md', 'utf8')
+/**
+ * The cheap tier, and it is not the one this plan first proposed.
+ *
+ * The original tiering gave a body-tier article a hook, a standfirst and an
+ * image plan and left the prose as imported — which, measured over ten
+ * articles, is spending the budget on precisely the fields that fail seven
+ * times as often per word, with no rewritten prose around them to anchor
+ * anything. So the cheap tier is the other way up: the prose, which is the
+ * safe part, and none of the short fields, which are the dangerous one. A
+ * body-tier page keeps the article's own description where a standfirst would
+ * go, and looks after itself.
+ */
+const risky = ['hook', 'standfirst', 'pull-quotes', 'timeline', 'glossary']
+
+function forTier(tier) {
+  if (tier !== 'body') return schema
+
+  const properties = {...schema.properties}
+
+  for (const key of risky) delete properties[key]
 
   return {
-    system: system.replace('{{HOUSE_STYLE}}', houseStyle),
+    ...schema,
+    required: schema.required.filter((key) => !risky.includes(key)),
+    properties
+  }
+}
+
+const bodyNote = `
+THIS ARTICLE IS BODY TIER
+You are writing the lead, the sections, the key facts and the image plan, and NOT a hook, a standfirst, pull quotes, a timeline or a glossary — those fields are not in your schema and must not appear in your answer. The page will use the article's own one-line description where a standfirst would go.`
+
+/** The two halves of the request, exactly as either transport would send them. */
+export async function request(slug, original, inCorpus, options = {}) {
+  const houseStyle = await readFile('docs/house-style.md', 'utf8')
+  const tier = options.tier ?? 'pillar'
+
+  return {
+    system: system.replace('{{HOUSE_STYLE}}', houseStyle) + (tier === 'body' ? bodyNote : ''),
     user: prompt(slug, original, inCorpus),
-    schema
+    schema: forTier(tier),
+    tier
   }
 }

@@ -6,6 +6,7 @@
  * same document surgery. Only who makes the call differs.
  *
  *   node pipeline/rewrite.mjs <slug>...              # over the API
+ *   node pipeline/rewrite.mjs --body <slug>...       # the cheaper tier
  *   node pipeline/rewrite.mjs --emit <slug>...       # write the request out
  *   node pipeline/rewrite.mjs --apply <slug> <json>  # take an answer back in
  *
@@ -15,12 +16,22 @@
  * prompt `rewrite.mjs` would have sent, byte for byte.
  */
 
-import {mkdir, readdir, readFile, writeFile} from 'node:fs/promises'
+import {mkdir, readdir, readFile, rm, writeFile} from 'node:fs/promises'
 import {dirname, join} from 'node:path'
+import YAML from 'yaml'
 import {compose, CORPUS, MODEL_ID, OUT, request, split} from './document.mjs'
+
+// Every image the corpus has the rights to, by the name it is filed under.
+// A plan naming anything else is naming a picture that will not appear, and
+// silently: the layout looks it up, misses, and lays out the page without it.
+const manifest = YAML.parse(
+  await readFile(join(CORPUS, '..', 'images.yaml'), 'utf8').catch(() => 'images: {}')
+)
+const licensed = new Set(Object.keys(manifest.images ?? {}))
 
 const args = process.argv.slice(2)
 const mode = args.includes('--emit') ? 'emit' : args.includes('--apply') ? 'apply' : 'api'
+const tier = args.includes('--body') ? 'body' : 'pillar'
 const rest = args.filter((a) => !a.startsWith('--'))
 
 const present = (await readdir(CORPUS))
@@ -38,10 +49,40 @@ async function land(slug, original, rewrite) {
 
   if (lost.length) console.warn(`  ${slug}: sections missing — ${lost.join(', ')}`)
 
+  // A file name is transcribed rather than chosen, and a transcription can
+  // drift — `Akerblad.jpg` for `Åkerblad.jpg` costs a picture and says
+  // nothing. Checked here because it is checkable here.
+  const unknown = (rewrite['image-plan'] ?? [])
+    .filter((entry) => entry.role !== 'drop' && licensed.size && !licensed.has(entry.file))
+    .map((entry) => entry.file)
+
+  if (unknown.length) {
+    console.warn(`  ${slug}: image plan names ${unknown.length} file(s) with no rights record`)
+    for (const file of unknown) console.warn(`    ${file}`)
+  }
+
+  // Each planned picture has to name a section that exists, or it lands
+  // nowhere.
+  const ids = new Set([...wanted, 'lead'])
+  const homeless = (rewrite['image-plan'] ?? [])
+    .filter((entry) => entry.role !== 'drop' && entry.section && !ids.has(entry.section))
+    .map((entry) => `${entry.file} → ${entry.section}`)
+
+  if (homeless.length) {
+    console.warn(`  ${slug}: image plan names ${homeless.length} unknown section(s)`)
+    for (const line of homeless) console.warn(`    ${line}`)
+  }
+
   const target = join(OUT, `${slug}.mdy`)
 
   await mkdir(dirname(target), {recursive: true})
   await writeFile(target, compose(slug, original, rewrite))
+
+  // A re-applied rewrite is new text, so any verdict on the old text is void.
+  // The document loses it by being rewritten; the report beside it has to be
+  // taken away too, or `pipeline/status.mjs` reads a verdict for prose that no
+  // longer exists.
+  await rm(join(OUT, `${slug}.verify.yaml`), {force: true})
 
   console.log(
     `${slug}: ${rewrite.sections.length} sections, ` +
@@ -64,7 +105,7 @@ if (mode === 'apply') {
   await mkdir(dir, {recursive: true})
 
   for (const slug of rest) {
-    const {system, user, schema} = await request(slug, await load(slug), present)
+    const {system, user, schema} = await request(slug, await load(slug), present, {tier})
     const path = join(dir, `${slug}.md`)
 
     await writeFile(
@@ -86,7 +127,9 @@ if (mode === 'apply') {
       ].join('\n')
     )
 
-    console.log(`${path}  (${Math.round((system.length + user.length) / 4000)}k tokens, roughly)`)
+    console.log(
+      `${path}  ${tier} tier, ${Math.round((system.length + user.length) / 4000)}k tokens, roughly`
+    )
   }
 } else {
   const {default: Anthropic} = await import('@anthropic-ai/sdk')
@@ -94,7 +137,7 @@ if (mode === 'apply') {
 
   for (const slug of rest) {
     const original = await load(slug)
-    const {system, user, schema} = await request(slug, original, present)
+    const {system, user, schema} = await request(slug, original, present, {tier})
 
     const stream = client.messages.stream({
       model: MODEL_ID,

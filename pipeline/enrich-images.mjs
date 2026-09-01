@@ -157,22 +157,51 @@ function thumb(src, width) {
 /** @type {Map<string, {src?: string, width?: number, height?: number, used: Set<string>}>} */
 const wanted = new Map()
 
+/** The file a Commons thumbnail URL is a thumbnail OF. */
+function fileOf(src) {
+  // `…/thumb/a/ae/Name.jpg/500px-Name.jpg` — the segment before the size is
+  // the file, percent-encoded, and the front matter spells it decoded.
+  const match = /\/thumb\/[^/]+\/[^/]+\/([^/]+)\//.exec(String(src))
+
+  if (!match) return
+
+  try {
+    return decodeURIComponent(match[1])
+  } catch {
+    return match[1]
+  }
+}
+
 for (const name of (await readdir(join(root, lang))).filter((n) => n.endsWith('.mdy'))) {
   const source = await readFile(join(root, lang, name), 'utf8')
-  const matter = /^\+\+\+\n([\s\S]*?)\n\+\+\+/.exec(source)
+  const matter = /^\+\+\+\n([\s\S]*?)\n\+\+\+\n([\s\S]*)$/.exec(source)
 
   if (!matter) continue
 
-  for (const image of YAML.parse(matter[1]).images ?? []) {
-    if (!image.file) continue
-
-    const entry = wanted.get(image.file) ?? {used: new Set()}
+  const slug = name.slice(0, -'.mdy'.length)
+  const add = (file, image) => {
+    const entry = wanted.get(file) ?? {used: new Set()}
 
     entry.src ??= image.src
     entry.width ??= image.width
     entry.height ??= image.height
-    entry.used.add(name.slice(0, -'.mdy'.length))
-    wanted.set(image.file, entry)
+    entry.used.add(slug)
+    wanted.set(file, entry)
+  }
+
+  for (const image of YAML.parse(matter[1]).images ?? []) {
+    if (image.file) add(image.file, image)
+  }
+
+  // And the ones only the body has. The front matter's `images` list is a
+  // record of the images an article shows, and it is not a complete one: the
+  // bodies of this corpus carry 585 distinct pictures against the front
+  // matter's 536. The missing 49 are why a rewrite's image plan can name a
+  // photograph nothing here has the rights for.
+  for (const [, src] of String(matter[2]).matchAll(/<img [^>]*src="([^"]+)"/g)) {
+    const file = fileOf(src)
+
+    if (file) add(file, {src})
   }
 }
 

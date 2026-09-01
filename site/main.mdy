@@ -102,6 +102,30 @@ baseURL: https://example.invalid
 %   return at === -1 ? String(src) : String(src).slice(0, at)
 % }
 %
+% // The same choice of width, but starting from the manifest rather than from
+% // a front-matter image entry — because an image plan may name a picture the
+% // body shows and the front matter never listed, and 49 of this corpus's
+% // pictures are exactly that.
+% const fromManifest = function (file, want) {
+%   const record = rights[file]
+%   if (!record) return undefined
+%   const sizes = record.sizes || {}
+%   const widths = ["1920", "1280", "960", "500", "330"]
+%   let chosen
+%   for (const w of widths) {
+%     if (sizes[w] && Number(w) >= want) chosen = sizes[w]
+%   }
+%   for (const w of widths) {
+%     if (!chosen && sizes[w]) chosen = sizes[w]
+%   }
+%   if (!chosen) return undefined
+%   return {
+%     src: chosen, alt: "", caption: "",
+%     width: record.width, height: record.height,
+%     licence: record.licence, author: record.author, page: record["descriptor-url"]
+%   }
+% }
+%
 % const creditOf = function (image) {
 %   const who = image.author && image.author !== "unknown" ? image.author + " · " : ""
 %   return who + image.licence
@@ -158,11 +182,13 @@ baseURL: https://example.invalid
 %   for (const image of later) ordered.push(image)
 %   const usable = []
 %   const byPrefix = {}
+%   const byFile = {}
 %   for (const image of ordered) {
 %     const found = pick(image, 1280)
 %     if (!found) continue
 %     usable.push(found)
 %     const inline = pick(image, 960)
+%     if (inline) byFile[image.file] = inline
 %     if (image.src && inline) {
 %       byPrefix[prefixOf(image.src)] = {
 %         src: inline.src, credit: creditOf(inline), width: inline.width, height: inline.height
@@ -209,6 +235,30 @@ baseURL: https://example.invalid
 %
 %   const edited = rewrites[slug]
 %
+%   // The image plan, resolved. A rewritten body carries no `<img>` of its
+%   // own — the prose was rewritten, the markup around it was not — so
+%   // without this a rewritten page shows its hero and no figures at all,
+%   // which is worse than the import it replaced. The plan says which
+%   // picture opens the page, which section each of the rest belongs in,
+%   // what it is for, and what to say under it.
+%   const plan = []
+%   let planned = undefined
+%   for (const entry of (edited && edited["image-plan"]) || []) {
+%     const found = byFile[entry.file] || fromManifest(entry.file, 960)
+%     const isHero = entry.role === "hero" && !planned
+%     if (isHero) planned = found
+%     const place = found && entry.role !== "drop" && !isHero
+%     if (place) plan.push({
+%       src: found.src,
+%       credit: creditOf(found),
+%       caption: entry.caption || found.caption,
+%       section: entry.section || "lead",
+%       role: entry.role,
+%       width: found.width,
+%       height: found.height
+%     })
+%   }
+%
 %   pages.push({
 %     path: edited ? edited.path : doc.path,
 %     originalPath: doc.path,
@@ -219,7 +269,7 @@ baseURL: https://example.invalid
 %     title: doc.title || slug,
 %     description: (edited && edited.standfirst) || doc.description,
 %     eyebrow: eyebrowParts.join(" · "), sections: doc.sections || [],
-%     hero: hero, facts: facts, held: held,
+%     hero: planned || hero, facts: facts, held: held, plan: plan,
 %     isPlace: isPlace, kind: kind, source: doc.source || {},
 %     titles: doc["link-titles"] || {},
 %     figures: byPrefix,
@@ -244,7 +294,7 @@ baseURL: https://example.invalid
 %     title: page.title, description: page.description, eyebrow: page.eyebrow,
 %     hero: page.hero, sections: page.sections,
 %     cards: cards, content: body, here: here, titles: page.titles,
-%     figures: page.figures, hook: page.hook
+%     figures: page.figures, hook: page.hook, plan: page.plan
 %   })
 %   const colophon = $.render({ path: "layouts/colophon.mdy" }, {
 %     title: page.title, source: page.source,

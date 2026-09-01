@@ -70,6 +70,25 @@ The emitted request is the request the driver would have sent, byte for byte,
 so answering it in a console or a subagent exercises the prompt rather than
 approximating it.
 
+Two tiers. `--body` writes the lead, the sections, the key facts and the image
+plan and leaves out the hook, standfirst, pull quotes, timeline and glossary —
+which is the opposite way round from the tiering this plan first proposed, and
+the reason is in [what phase 2 landed](../docs/ancient-plan.md#what-phase-2-landed):
+those five fields are a twentieth of the words and seven times more likely per
+word to say something the article does not. The cheap tier drops the dangerous
+fields, not the safe ones.
+
+```sh
+node pipeline/rewrite.mjs --emit --body akkadian-empire
+node pipeline/status.mjs                       # what state the corpus is in
+node pipeline/status.mjs --stale               # slugs whose source has moved
+node pipeline/findings.mjs                     # where the verifier's findings are
+```
+
+`status.mjs` is the query the phasing asks for: a rewrite names the revision it
+was made from, so re-importing the corpus and then asking which rewrites no
+longer match is a question with an answer rather than something to remember.
+
 `site/edited/` is committed — a rewrite is not reproducible and re-running it
 would not give the same words back. `site/corpus/` still is not.
 

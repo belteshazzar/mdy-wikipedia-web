@@ -551,3 +551,22 @@ figcaption .credit a:hover { color: var(--blue); }
 /* Inside two columns a figure has no measure to break out of. */
 .compare .prose figure { width: 100%; margin-left: 0; margin-right: 0; }
 .compare .prose { font-size: 17px; }
+
+/* ------------------------------------------------- figures from a plan
+ * A rewritten page has no image markup of its own, so its pictures are placed
+ * by the rewrite's image plan instead — which also means each one has a role,
+ * and a role can be a size. */
+
+.prose figure.planned { margin: 2.8rem 0; }
+
+.prose figure.full {
+  width: min(56rem, calc(100vw - 2rem));
+  margin-left: calc((min(56rem, 100vw - 2rem) - 100%) / -2);
+}
+
+.prose figure.inline {
+  width: min(38rem, calc(100vw - 2rem));
+  margin-left: calc((min(38rem, 100vw - 2rem) - 100%) / -2);
+}
+
+.prose figure.planned figcaption { margin: 0 auto; }
