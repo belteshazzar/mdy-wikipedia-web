@@ -1,0 +1,1536 @@
++++
+title: Akkadian Empire
+description: State in Mesopotamia (c. 2334–2154 BC)
+hook: Akkad, the empire's capital, has not yet been located. There has been
+  much speculation about where it stood, and written sources from the Sargonic
+  period are uncommon partly because the city is still missing.
+standfirst: An ancient kingdom established around 2334 BCE and called the
+  first empire in world history, centred on the city of Akkad in modern-day
+  Iraq. It united Akkadian and Sumerian speakers under one rule and sent
+  military expeditions as far south as Dilmun and Magan.
+key-facts:
+  - name: Capital
+    value: Akkad — a city that has not yet been located
+  - name: Founded
+    value: c. 2334 BC, in the Bronze Age
+  - name: Ended
+    value: c. 2154 BC
+  - name: First and last kings
+    value: Sargon (c. 2334–2279 BC) and Shu-turul (c. 2168–2154 BC)
+  - name: Languages
+    value: Akkadian (dominant); Sumerian (vernacular, and honorific and liturgical)
+  - name: Land it covered, today
+    value: Iraq, Iran, Syria, Turkey and Kuwait
+pull-quotes:
+  - text: Naram-Sin, the mighty, king of Agade, when the four quarters together
+      revolted against him, through the love which the goddess Astar showed
+      him, he was victorious in nine battles in one in 1 year, and the kings
+      whom they (the rebels[?]) had raised (against him), he captured.
+    attribution: Inscription on the Bassetki Statue, the copper base of a Narim-Sin statue
+    section: contemporary-epigraphic-sources
+  - text: My changeling mother conceived me, in secret she bore me. She set me in
+      a basket of rushes, with bitumen she sealed my lid. She cast me into the
+      river which rose not over me. The river bore me up and carried me to
+      Akki, the drawer of water.
+    attribution: One legend of Sargon from Neo-Assyrian times
+    section: sargon-of-akkad
+  - text: Enlil brought out of the mountains those who do not resemble other
+      people, who are not reckoned as part of the Land, the Gutians, an
+      unbridled people, with human intelligence but canine instincts and
+      monkeys' features.
+    attribution: Cursing of Agade, composed in the Ur III period
+    section: later-copies-and-literary-compositions
+  - text: Who was king? Who was not king? Irgigi the king; Nanum, the king; Imi
+      the king; Ilulu, the king—the four of them were kings but reigned only
+      three years.
+    attribution: The Sumerian King List
+    section: collapse
+  - text: '"Sargon, the king, to whom Enlil permitted no rival—5,400 warriors ate
+      bread daily before him".'
+    attribution: A tablet quoted in the article's account of the Akkadian economy
+    section: economy
+timeline:
+  - when: Circa 2350 BC
+    what: Akkad is still unexpanded; Sumer is held by its last king, Lugal-Zage-Si.
+    from: Akkad before expansion (in green). The territory of Sumer under its last
+      king Lugal-Zage-Si appears in orange. Circa 2350 BC
+  - when: c. 2340 – c. 2284 BC
+    what: The conquests of Sargon of Akkad.
+    from: "conquests-of-sargon-of-akkad: c. 2340 – c. 2284 BC"
+  - when: c. 2334 BC
+    what: The empire is established.
+    from: "established: c. 2334 BC"
+  - when: c. 2334–2279 BC
+    what: Sargon, the first king.
+    from: "c-2334-2279-bc: Sargon (first)"
+  - when: 2278–2270 BC
+    what: Rimush reigns nine years, fights hard to retain the empire, and is
+      assassinated by some of his own courtiers.
+    from: revolts broke out during the nine-year reign of Rimush (2278–2270 BC),
+      who fought hard to retain the empire, and was successful until he was
+      assassinated by some of his own courtiers.
+  - when: 2269–2255 BC
+    what: Manishtushu, Rimush's elder brother, succeeds him.
+    from: Rimush's elder brother, Manishtushu (2269–2255 BC) succeeded him.
+  - when: 2254–2218 BC
+    what: Naram-Sin assumes the imperial title "King Naram-Sin, king of the
+      four-quarters".
+    from: Manishtushu's son and successor, Naram-Sin (2254–2218 BC), due to vast
+      military conquests, assumed the imperial title "King Naram-Sin, king of
+      the four-quarters" (Lugal Naram-Sîn, Šar kibrat 'arbaim), the
+      four-quarters as a reference to the entire world.
+  - when: 2260 BC
+    what: Victory over the Lullubi from Zagros, celebrated on the Victory Stele of
+      Naram-Sin.
+    from: Victory Stele of Naram-Sin, celebrating victory against the Lullubi from
+      Zagros 2260 BC.
+  - when: At 2200 BC
+    what: A marked increase in aridity and wind circulation, after a volcanic
+      eruption, degrades land-use conditions — Harvey Weiss's reading of the
+      soil data.
+    from: At 2200 BC, a marked increase in aridity and wind circulation,
+      subsequent to a volcanic eruption, induced a considerable degradation of
+      land-use conditions.
+  - when: c. 2168–2154 BC
+    what: Shu-turul, the last king.
+    from: "c-2168-2154-bc: Shu-turul (last)"
+  - when: c. 2154 BC
+    what: The empire is dissolved.
+    from: "disestablished: c. 2154 BC"
+  - when: 2112–2095 BC
+    what: The Sumerian king Ur-Nammu clears the Gutians from Mesopotamia.
+    from: The Sumerian king Ur-Nammu (2112–2095 BC) cleared the Gutians from
+      Mesopotamia during his reign.
+image-plan:
+  - file: Bronze_head_of_an_Akkadian_ruler,_discovered_in_Nineveh_in_1931,_presumably_depicting_either_Sargon_or_Sargon's_grandson_Naram-Sin_(Rijksmuseum_van_Oudheden).jpg
+    role: hero
+    section: lead
+    caption: "A bronze head of an Akkadian ruler, dug up at Nineveh in 1931.
+      Nobody can say for certain who it is: presumably either Sargon or, more
+      probably, his grandson Naram-Sin."
+  - file: Umma2350.PNG
+    role: inline
+    section: pre-sargonic-akkad
+    caption: Akkad before expansion, in green, with the territory of Sumer under
+      its last king Lugal-Zage-Si in orange. Circa 2350 BC.
+  - file: Sargon_on_his_victory_stele.jpg
+    role: full
+    section: sargon-of-akkad
+    caption: 'Sargon on his victory stele: a royal hair bun, a mace, a flounced
+      royal coat over the left shoulder and a large belt, with an attendant
+      behind him holding a royal umbrella. His name in cuneiform, "King
+      Sargon", is still faintly readable in front of his face. Louvre Museum.'
+  - file: Akkadian_official_in_the_retinue_of_Sargon_of_Akkad,_holding_an_axe.jpg
+    role: inline
+    section: sargon-of-akkad
+    caption: An Akkadian official in Sargon's retinue, carrying an axe.
+  - file: Prisoners_on_the_victory_stele_of_an_Akkadian_king_circa_2300_BCE_Louvre_Museum_Sb_3.jpg
+    role: inline
+    section: sargon-of-akkad
+    caption: Prisoners escorted by a soldier on a victory stele of Sargon, circa
+      2300 BC. Their hairstyle — curly on top, short at the sides — is
+      characteristic of Sumerians, as also seen on the Standard of Ur. Louvre
+      Museum.
+  - file: P1150890_Louvre_stèle_de_victoire_Akkad_AO2678_rwk.jpg
+    role: inline
+    section: rimush-and-manishtushu
+    caption: Akkadian soldiers slaying enemies, circa 2300 BC, possibly from a
+      Victory Stele of Rimush — the king who kept meticulous records of his
+      destructions.
+  - file: Stele_of_Naram-Sin_of_Akkad.jpg
+    role: inline
+    section: naram-sin
+    caption: A portrait of Naram-Sin, with an inscription in his name.
+  - file: Victory_stele_of_Naram_Sin_9068.jpg
+    role: full
+    section: naram-sin
+    caption: The Victory Stele of Naram-Sin, celebrating victory against the
+      Lullubi from Zagros, 2260 BC. He wears a horned helmet, a symbol of
+      divinity, and is portrayed on a larger scale than the others to
+      emphasize his superiority. It was carried off from Sippar to Susa as war
+      prize in the 12th century BC.
+  - file: TellBrakNaramsinN.jpg
+    role: inline
+    section: naram-sin
+    caption: The palace of Naram-Sin at Tell Brak, the royal residence he built to
+      better police Syria.
+  - file: The_Gutians_capturing_a_Babylonian_city.jpg
+    role: full
+    section: collapse
+    caption: The Gutians capturing a Babylonian city as the Akkadians make a stand
+      outside it — a 19th century illustration, not an ancient one.
+  - file: Akkadian_-_Cylinder_Seal_with_King_or_God_and_Vanquished_Lion_-_Walters_42674_-_Side_D.jpg
+    role: inline
+    section: seals
+    caption: '"Cylinder Seal with King or God and Vanquished Lion" (Old Akkadian).
+      The Walters Art Museum.'
+  - file: Impression_of_an_Akkadian_cylinder_seal_with_inscription_The_Divine_Sharkalisharri_Prince_of_Akkad_Ibni-Sharrum_the_Scribe_his_servant.jpg
+    role: inline
+    section: foreign-trade
+    caption: A seal of the time of Sharkalisharri (c. 2200 BC), inscribed "The
+      Divine Sharkalisharri Prince of Akkad, Ibni-Sharrum the Scribe his
+      servant". The long-horned buffalo is thought to have come from the Indus
+      Valley, and testifies to exchanges with Meluhha. Circa 2217–2193 BC.
+      Louvre Museum.
+  - file: Akkadian_Empire_soldiers_on_the_victory_stele_of_Naram-Sin_circa_2250_BC.jpg
+    role: inline
+    section: government
+    caption: Akkadian Empire soldiers on the Victory Stele of Naram-Sin, circa
+      2250 BC.
+  - file: Cylinder_seal_of_the_scribe_Kalki_(photograph).jpg
+    role: inline
+    section: economy
+    caption: "The cylinder seal of the scribe Kalki: Prince Ubil-Eshtar, probable
+      brother of Sargon, with an archer in front, the scribe holding a tablet
+      behind him, and two dignitaries with weapons."
+  - file: Murex_Rimush_Louvre_AO21404.jpg
+    role: inline
+    section: economy
+    caption: A murex shell bearing the name of Rimush, king of Kish, c. 2270 BC.
+      It was traded from the Mediterranean coast, where Canaanites used the
+      shells to make a purple dye. Louvre.
+  - file: Moyen_Orient_3mil_aC.svg
+    role: full
+    section: foreign-trade
+    caption: "The foreign lands as the Mesopotamians located them: Elam, Magan,
+      Dilmun, Marhashi and Meluhha."
+  - file: Enheduanna,_daughter_of_Sargon_of_Akkad.jpg
+    role: full
+    section: poetpriestess-enheduanna
+    caption: Enheduanna, daughter of Sargon of Akkad, circa 2300 BC — the first
+      poet in history whose name is known.
+  - file: Ishtar_on_an_Akkadian_seal.jpg
+    role: inline
+    section: poetpriestess-enheduanna
+    caption: The goddess Ishtar on an Akkadian seal, 2350–2150 BC. Enheduanna's
+      hymns to Inanna unite the warlike Akkadian Ishtar's qualities to those
+      of the gentler Sumerian goddess.
+glossary:
+  - term: ensi
+    gloss: Traditionally the highest functionary of a Sumerian city-state; under
+      Sargon the ensis generally kept their positions but were seen more as
+      provincial governors.
+    from: Traditionally, the ensi was the highest functionary of the Sumerian
+      city-states. ... Under Sargon, the ensis generally retained their
+      positions, but were seen more as provincial governors.
+  - term: lugal
+    gloss: "Literally lu = man, gal = Great: the monarch, at first subordinate to
+      the priestly ensi and appointed at times of troubles, but by later
+      dynastic times the preeminent role, with his own palace independent of
+      the temple."
+    from: Initially, the monarchical lugal (lu = man, gal =Great) was subordinate
+      to the priestly ensi, and was appointed at times of troubles, but by
+      later dynastic times, it was the lugal who had emerged as the preeminent
+      role, having his own "é" (= house) or "palace", independent from the
+      temple establishment.
+  - term: šar kiššati
+    gloss: '"King of Kish": whichever dynasty controlled Kish was recognised by
+      this title and considered preeminent in Sumer; under Sargon it became
+      recognised as meaning "lord of the universe".'
+    from: By the time of Mesalim, whichever dynasty controlled the city of Kish
+      was recognised as šar kiššati (= king of Kish), and was considered
+      preeminent in Sumer, possibly because this was where the two rivers
+      approached, and whoever controlled Kish ultimately controlled the
+      irrigation systems of the other cities downstream.
+  - term: year-name
+    gloss: A calendar year named after something that happened in it, used from
+      Sargonic times until the end of the Old Babylonian period — for example,
+      "Year in which the divine Hammu[rabi] the king Esznunna destroyed by a
+      flood."
+    from: Before the Akkadian Empire, calendar years were marked by Regnal
+      Numbers. During Sargonic times, a system of year-names was used. This
+      practice continued until the end of the Old Babylonian period, for
+      example, "Year in which the divine Hammu[rabi] the king Esznunna
+      destroyed by a flood."
+  - term: middle chronology
+    gloss: The dating scheme that puts the Akkadian period at 2334–2154 BC; the
+      rival short-chronology dates of 2270–2083 BC are now considered less
+      likely.
+    from: The Akkadian period is generally dated to 2334–2154 BC (according to the
+      middle chronology). The short-chronology dates of 2270–2083 BC are now
+      considered less likely.
+  - term: 4.2 kiloyear event
+    gloss: A global centennial-scale drought sometimes given this name, which one
+      theory — still controversial — associates with the decline at the end of
+      the Akkadian period.
+    from: One theory, which remains controversial, associates regional decline at
+      the end of the Akkadian period (and of the First Intermediary Period
+      following the Old Kingdom in Ancient Egypt) with rapidly increasing
+      aridity, and failing rainfall in the region of the Ancient Near East,
+      caused by a global centennial-scale drought, sometimes called the 4.2
+      kiloyear event.
+  - term: sprachbund
+    gloss: What scholars have taken to calling Sumerian and Akkadian in the third
+      millennium, given how far each influenced the other — lexical borrowing
+      on a massive scale, and syntactic, morphological and phonological
+      convergence.
+    from: The influence of Sumerian on Akkadian (and vice versa) is evident in all
+      areas, from lexical borrowing on a massive scale, to syntactic,
+      morphological, and phonological convergence. This has prompted scholars
+      to refer to Sumerian and Akkadian in the third millennium as a
+      sprachbund.
+  - term: the Upper Country
+    gloss: The rain-fed farmland of northern Iraq, one of the region's two
+      principal agricultural centres.
+    from: 'The population of Akkad, like nearly all pre-modern states, was
+      entirely dependent upon the agricultural systems of the region, which
+      seem to have had two principal centres: the irrigated farmlands of
+      southern Iraq that traditionally had a yield of 30 grains returned for
+      each grain sown and the rain-fed agriculture of northern Iraq, known as
+      the "Upper Country."'
+further:
+  - slug: gutian-rule-in-mesopotamia
+    why: The Great Rebellion Against Naram-Sin and the Cursing of Agade — the two
+      compositions this article quotes — are told there at length.
+  - slug: gutians
+    why: They took control of central Babylonia in the power vacuum after Akkad,
+      and little is known about their period or how long it endured.
+  - slug: lagash
+    why: As Akkadian power waned, Puzer-Mama achieved independence from
+      Shar-Kali-Sharri, took the title "King of Lagash" and started the Second
+      Dynasty of Lagash.
+anchors:
+  hook: Epigraphic sources from the Sargonic (Akkadian Empire) period are
+    uncommon, partly because the capital Akkad, like the capitals of the later
+    Mitanni and Sealand, has not yet been located, though there has been much
+    speculation.
+  standfirst: The Akkadian Empire or the Kingdom of Akkad/Agade was an ancient
+    kingdom established around 2334 BCE, and the first empire in world
+    history, succeeding the long-lived city-states of Sumer. Centered on the
+    city of Akkad and its surrounding region in modern-day Iraq, the empire
+    united the Semitic Akkadian and Sumerian speakers under one rule and
+    exercised significant influence across Mesopotamia, the Levant, modern-day
+    Iran and Anatolia, sending military expeditions as far south as Dilmun and
+    Magan in the Arabian Peninsula.
+coordinates:
+  lat: 33.1
+  lon: 44.1
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Empire_akkad.svg/1920px-Empire_akkad.svg.png
+images:
+  - file: Bronze_head_of_an_Akkadian_ruler,_discovered_in_Nineveh_in_1931,_presumably_depicting_either_Sargon_or_Sargon's_grandson_Naram-Sin_(Rijksmuseum_van_Oudheden).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bronze_head_of_an_Akkadian_ruler%2C_discovered_in_Nineveh_in_1931%2C_presumably_depicting_either_Sargon_or_Sargon%27s_grandson_Naram-Sin_%28Rijksmuseum_van_Oudheden%29.jpg/250px-thumbnail.jpg
+    width: 2607
+    height: 3761
+    caption: Bronze head of an Akkadian ruler, discovered in Nineveh in 1931,
+      presumably depicting either Sargon or, more probably, Sargon's grandson
+      Naram-Sin.
+  - file: Umma2350.PNG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Umma2350.PNG/250px-Umma2350.PNG
+    width: 628
+    height: 445
+    caption: Akkad before expansion (in green). The territory of Sumer under its
+      last king Lugal-Zage-Si appears in orange. Circa 2350 BC
+  - file: Sargon_on_his_victory_stele.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sargon_on_his_victory_stele.jpg/250px-Sargon_on_his_victory_stele.jpg
+    width: 1979
+    height: 1551
+    caption: Sargon on his victory stele, with a royal hair bun, holding a mace
+      and wearing a flounced royal coat on his left shoulder with a large belt
+      (left), followed by an attendant holding a royal umbrella. The name of
+      Sargon in cuneiform ("King Sargon") appears faintly in front of his
+      face. Louvre Museum.
+  - file: Akkadian_official_in_the_retinue_of_Sargon_of_Akkad,_holding_an_axe.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Akkadian_official_in_the_retinue_of_Sargon_of_Akkad%2C_holding_an_axe.jpg/250px-Akkadian_official_in_the_retinue_of_Sargon_of_Akkad%2C_holding_an_axe.jpg
+    width: 1108
+    height: 2002
+    caption: Akkadian official in the retinue of Sargon of Akkad, holding an axe
+  - file: Prisoners_on_the_victory_stele_of_an_Akkadian_king_circa_2300_BCE_Louvre_Museum_Sb_3.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Prisoners_on_the_victory_stele_of_an_Akkadian_king_circa_2300_BCE_Louvre_Museum_Sb_3.jpg/250px-Prisoners_on_the_victory_stele_of_an_Akkadian_king_circa_2300_BCE_Louvre_Museum_Sb_3.jpg
+    width: 946
+    height: 1276
+    caption: Prisoners escorted by a soldier, on a victory stele of Sargon of
+      Akkad, circa 2300 BC. The hairstyle of the prisoners (curly hair on top
+      and short hair on the sides) is characteristic of Sumerians, as also
+      seen on the Standard of Ur. Louvre Museum.
+  - file: P1150890_Louvre_stèle_de_victoire_Akkad_AO2678_rwk.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/P1150890_Louvre_st%C3%A8le_de_victoire_Akkad_AO2678_rwk.jpg/330px-P1150890_Louvre_st%C3%A8le_de_victoire_Akkad_AO2678_rwk.jpg
+    width: 3000
+    height: 1873
+    caption: Akkadian soldiers slaying enemies, circa 2300 BC, possibly from a
+      Victory Stele of Rimush.
+  - file: Stele_of_Naram-Sin_of_Akkad.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stele_of_Naram-Sin_of_Akkad.jpg/250px-Stele_of_Naram-Sin_of_Akkad.jpg
+    width: 3143
+    height: 4345
+    caption: Portrait of Naram-Sin, with inscription in his name
+  - file: Victory_stele_of_Naram_Sin_9068.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Victory_stele_of_Naram_Sin_9068.jpg/250px-Victory_stele_of_Naram_Sin_9068.jpg
+    width: 2181
+    height: 3258
+    caption: Victory Stele of Naram-Sin, celebrating victory against the Lullubi
+      from Zagros 2260 BC. He is wearing a horned helmet, a symbol of
+      divinity, and is also portrayed in a larger scale in comparison to
+      others to emphasize his superiority. Brought back from Sippar to Susa as
+      war prize in the 12th century BC.
+  - file: TellBrakNaramsinN.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TellBrakNaramsinN.jpg/250px-TellBrakNaramsinN.jpg
+    width: 1920
+    height: 1285
+    caption: Palace of Naram-Sin at Tell Brak.
+  - file: The_Gutians_capturing_a_Babylonian_city.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Gutians_capturing_a_Babylonian_city.jpg/250px-The_Gutians_capturing_a_Babylonian_city.jpg
+    width: 850
+    height: 1156
+    caption: The Gutians capturing a Babylonian city, as the Akkadians are making
+      a stand outside of their city. 19th century illustration.
+  - file: Akkadian_-_Cylinder_Seal_with_King_or_God_and_Vanquished_Lion_-_Walters_42674_-_Side_D.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Akkadian_-_Cylinder_Seal_with_King_or_God_and_Vanquished_Lion_-_Walters_42674_-_Side_D.jpg/250px-Akkadian_-_Cylinder_Seal_with_King_or_God_and_Vanquished_Lion_-_Walters_42674_-_Side_D.jpg
+    width: 1442
+    height: 1800
+    caption: '"Cylinder Seal with King or God and Vanquished Lion" (Old Akkadian).
+      The Walters Art Museum.'
+  - file: Impression_of_an_Akkadian_cylinder_seal_with_inscription_The_Divine_Sharkalisharri_Prince_of_Akkad_Ibni-Sharrum_the_Scribe_his_servant.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Impression_of_an_Akkadian_cylinder_seal_with_inscription_The_Divine_Sharkalisharri_Prince_of_Akkad_Ibni-Sharrum_the_Scribe_his_servant.jpg/500px-Impression_of_an_Akkadian_cylinder_seal_with_inscription_The_Divine_Sharkalisharri_Prince_of_Akkad_Ibni-Sharrum_the_Scribe_his_servant.jpg
+    width: 2310
+    height: 1436
+    caption: 'Impression of a cylinder seal of the time of Akkadian King
+      Sharkalisharri (c. 2200 BC), with central inscription: "The Divine
+      Sharkalisharri Prince of Akkad, Ibni-Sharrum the Scribe his servant".
+      The long-horned buffalo is thought to have come from the Indus Valley,
+      and testifies to exchanges with Meluhha (the Indus Valley civilization)
+      in a case of Indus-Mesopotamia relations. Circa 2217–2193 BC. Louvre
+      Museum.'
+  - file: Akkadian_Empire_soldiers_on_the_victory_stele_of_Naram-Sin_circa_2250_BC.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Akkadian_Empire_soldiers_on_the_victory_stele_of_Naram-Sin_circa_2250_BC.jpg/250px-Akkadian_Empire_soldiers_on_the_victory_stele_of_Naram-Sin_circa_2250_BC.jpg
+    width: 1193
+    height: 1186
+    caption: Akkadian Empire soldiers on the Victory Stele of Naram-Sin, circa 2250 BC
+  - file: Cylinder_seal_of_the_scribe_Kalki_(photograph).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cylinder_seal_of_the_scribe_Kalki_%28photograph%29.jpg/500px-Cylinder_seal_of_the_scribe_Kalki_%28photograph%29.jpg
+    width: 2652
+    height: 1246
+    caption: Cylinder seal of the scribe Kalki, showing Prince Ubil-Eshtar,
+      probable brother of Sargon, with dignitaries (an archer in front, the
+      scribe holding a tablet following the Prince, and two dignitaries with
+      weapons).
+  - file: Murex_Rimush_Louvre_AO21404.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Murex_Rimush_Louvre_AO21404.jpg/250px-Murex_Rimush_Louvre_AO21404.jpg
+    width: 1950
+    height: 1630
+    caption: Sea shell of a murex bearing the name of Rimush, king of Kish, c.
+      2270 BC, Louvre, traded from the Mediterranean coast where it was used
+      by Canaanites to make a purple dye.
+  - file: Moyen_Orient_3mil_aC.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Moyen_Orient_3mil_aC.svg/500px-Moyen_Orient_3mil_aC.svg.png
+    width: 2285
+    height: 1284
+    caption: Location of foreign lands for the Mesopotamians, including Elam,
+      Magan, Dilmun, Marhashi and Meluhha.
+  - file: Enheduanna,_daughter_of_Sargon_of_Akkad.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Enheduanna%2C_daughter_of_Sargon_of_Akkad.jpg/250px-Enheduanna%2C_daughter_of_Sargon_of_Akkad.jpg
+    width: 1138
+    height: 2044
+    caption: Enheduanna, daughter of Sargon of Akkad, circa 2300 BC
+  - file: Ishtar_on_an_Akkadian_seal.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ishtar_on_an_Akkadian_seal.jpg/250px-Ishtar_on_an_Akkadian_seal.jpg
+    width: 1500
+    height: 1670
+    caption: Goddess Ishtar on an Akkadian seal, 2350–2150 BC
+infobox:
+  capital: Akkad
+  official-languages:
+    - Akkadian (de jure)
+    - Sumerian (honorific and liturgical)
+  common-languages:
+    - Akkadian (dominant)
+    - Sumerian (vernacular)
+  religion: Ancient Mesopotamian Polytheism
+  government: Imperial Monarchy
+  c-2334-2279-bc: Sargon (first)
+  c-2168-2154-bc: Shu-turul (last)
+  historical-era: Bronze Age
+  established: c. 2334 BC
+  conquests-of-sargon-of-akkad: c. 2340 – c. 2284 BC
+  disestablished: c. 2154 BC
+  today-part-of:
+    - Iraq
+    - Iran
+    - Syria
+    - Turkey
+    - Kuwait
+sections:
+  - level: 2
+    id: contemporary-epigraphic-sources
+    title: Contemporary epigraphic sources
+  - level: 2
+    id: later-copies-and-literary-compositions
+    title: Later copies and literary compositions
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 2
+    id: dating-and-periodization
+    title: Dating and periodization
+  - level: 3
+    id: timeline-of-rulers
+    title: Timeline of rulers
+  - level: 2
+    id: history-and-development-of-the-empire
+    title: History and development of the empire
+  - level: 3
+    id: pre-sargonic-akkad
+    title: Pre-Sargonic Akkad
+  - level: 3
+    id: sargon-of-akkad
+    title: Sargon of Akkad
+  - level: 3
+    id: rimush-and-manishtushu
+    title: Rimush and Manishtushu
+  - level: 3
+    id: naram-sin
+    title: Naram-Sin
+  - level: 3
+    id: submission-of-sumerian-kings
+    title: Submission of Sumerian kings
+  - level: 3
+    id: collapse
+    title: Collapse
+  - level: 4
+    id: natural-causes-drought-seasonal-weather-patterns
+    title: "Natural causes: drought, seasonal weather patterns"
+  - level: 2
+    id: government
+    title: Government
+  - level: 2
+    id: economy
+    title: Economy
+  - level: 3
+    id: foreign-trade
+    title: Foreign trade
+  - level: 2
+    id: culture
+    title: Culture
+  - level: 3
+    id: akkadian-art
+    title: Akkadian art
+  - level: 4
+    id: seals
+    title: Seals
+  - level: 3
+    id: language
+    title: Language
+  - level: 3
+    id: poetpriestess-enheduanna
+    title: Poet–priestess Enheduanna
+  - level: 2
+    id: technology
+    title: Technology
+wikidata:
+  id: Q4461035
+  label: Akkadian Empire
+  description: ancient empire in the Mesopotamia (2334–2154 BC)
+  claims:
+    commons-category: Akkadian Empire
+    coordinate-location:
+      lat: 33.1
+      lon: 44.1
+    topic-s-main-category: Category:Akkadian Empire
+    locator-map-image: https://commons.wikimedia.org/wiki/Special:FilePath/Empire_akkad.svg
+    inception:
+      - value: 2334 BC
+        sourcing: circa
+      - value: 2270 BC
+        sourcing: circa
+    official-language: Akkadian
+    religion-or-worldview: Sumerian religion
+    capital: Akkad
+    dissolved-abolished-or-demolished:
+      - value: 2154 BC
+      - value: 2083 BC
+        sourcing: circa
+    instance-of: historical country
+    described-by-source:
+      - Otto's encyclopedia
+      - Great Soviet Encyclopedia (1926–1947)
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Jewish Encyclopedia of Brockhaus and Efron
+    continent: Asia
+    language-used:
+      - Sumerian
+      - Akkadian
+    official-religion: Sumerian religion
+    replaces: Kish
+    different-from:
+      - Akkad period
+      - Acadians
+    time-period: Akkad period
+    on-focus-list-of-wikimedia-project:
+      value: Wikipedia:Vital articles/Level/4
+      when: 2022-10-31
+    demonym: Akkadian
+    native-label:
+      - 𒆳𒌵𒆠
+      - 𒀀𒂵𒉈𒆠
+link-titles:
+  4.2-kiloyear-event: 4.2-kiloyear event
+  adab-city: Adab (city)
+  afghanistan: Afghanistan
+  akkad-city: Akkad (city)
+  akkad-region: Akkad (region)
+  akkadian-language: Akkadian language
+  al-jazira-mesopotamia: Al-Jazira, Mesopotamia
+  amarna-period: Amarna Period
+  amorite: Amorite
+  amorites: Amorites
+  anatolia: Anatolia
+  ancient-egypt: Ancient Egypt
+  anshan-persia: Anshan (Persia)
+  arabian-peninsula: Arabian Peninsula
+  arabs: Arabs
+  armanum: Armanum
+  babylonian-chronicles: Babylonian Chronicles
+  bahrain: Bahrain
+  balochistan: Balochistan
+  barley: Barley
+  bassetki-statue: Bassetki statue
+  battle-of-uruk: Battle of Uruk
+  behistun: Behistun
+  burushanda: Burushanda
+  canaan: Canaan
+  cedrus-libani: Cedrus libani
+  centralized-government: Centralized government
+  changeling: Changeling
+  cheese: Cheese
+  city-state: City-state
+  city-states: City-states
+  code-of-ur-nammu: Code of Ur-Nammu
+  copper: Copper
+  crop-residue: Crop residue
+  cultural-integration: Cultural integration
+  cuneiform: Cuneiform
+  cupbearer: Cupbearer
+  cyprus: Cyprus
+  dark-ages-historiography: Dark Ages (historiography)
+  demography: Demography
+  der-sumer: Der (Sumer)
+  dilmun: Dilmun
+  drought: Drought
+  dudu-of-akkad: Dudu of Akkad
+  dumuzi: Dumuzi
+  dynastic: Dynastic
+  ea-babylonian-god: Ea (Babylonian god)
+  eannatum: Eannatum
+  early-dynastic-period-mesopotamia: Early Dynastic Period (Mesopotamia)
+  early-dynastic-period-of-mesopotamia: Early Dynastic Period of Mesopotamia
+  ebla: Ebla
+  elam: Elam
+  elamite-language: Elamite language
+  empire: Empire
+  enheduanna: Enheduanna
+  enkidu: Enkidu
+  enlil: Enlil
+  ensi-sumerian: Ensi (Sumerian)
+  epigraphy: Epigraphy
+  eshnunna: Eshnunna
+  euphrates: Euphrates
+  europe: Europe
+  famine: Famine
+  first-intermediary-period: First Intermediary Period
+  first-sealand-dynasty: First Sealand dynasty
+  gilgamesh: Gilgamesh
+  gutian-dynasty-of-sumer: Gutian dynasty of Sumer
+  gutian-people: Gutian people
+  gutian-period: Gutian period
+  gutian-rule-in-mesopotamia: Gutian rule in Mesopotamia
+  gwendolyn-leick: Gwendolyn Leick
+  hadcm3: HadCM3
+  hair-bun: Hair bun
+  hans-gustav-güterbock: Hans Gustav Güterbock
+  harvey-weiss: Harvey Weiss
+  hattians: Hattians
+  hierodule: Hierodule
+  hittite-language: Hittite language
+  hittites: Hittites
+  hokkaido-university: Hokkaido University
+  hurrian: Hurrian
+  imperial-cult: Imperial cult
+  inanna: Inanna
+  indian-buffalo: Indian Buffalo
+  indus: Indus
+  indus-valley: Indus Valley
+  indus-valley-civilization: Indus Valley civilization
+  indus-mesopotamia-relations: Indus-Mesopotamia relations
+  indusmesopotamia-relations: Indus–Mesopotamia relations
+  iran: Iran
+  iraq: Iraq
+  ishtar: Ishtar
+  israel: Israel
+  joan-oates: Joan Oates
+  kanesh: Kanesh
+  kazallu: Kazallu
+  keftiu: Keftiu
+  khabur-euphrates: Khabur (Euphrates)
+  king-of-the-four-corners: King of the Four Corners
+  kish-sumer: Kish (Sumer)
+  lugal: LUGAL
+  lagash: Lagash
+  language-isolate: Language isolate
+  lapis-lazuli: Lapis lazuli
+  late-bronze-age-collapse: Late Bronze Age collapse
+  lebanon: Lebanon
+  levant: Levant
+  lingua-franca: Lingua franca
+  lost-wax: Lost wax
+  louvre-museum: Louvre Museum
+  lugal-zage-si: Lugal-zage-si
+  lugal-ushumgal: Lugal-ushumgal
+  lullubi: Lullubi
+  magan-civilization: Magan (civilization)
+  majan-civilization: Majan (civilization)
+  manishtushu: Manishtushu
+  marad: Marad
+  marhashi: Marhashi
+  mari-syria: Mari, Syria
+  meat: Meat
+  medieval: Medieval
+  mediterranean: Mediterranean
+  mediterranean-sea: Mediterranean Sea
+  meluhha: Meluhha
+  mesalim: Mesalim
+  meskigal: Meskigal
+  mesopotamia: Mesopotamia
+  middle-chronology: Middle chronology
+  military-conquest: Military conquest
+  milk: Milk
+  mitanni: Mitanni
+  murex: Murex
+  musée-du-louvre: Musée du Louvre
+  naram-sin-of-akkad: Naram-Sin of Akkad
+  neo-assyrian: Neo-Assyrian
+  nineveh: Nineveh
+  nippur: Nippur
+  nomad: Nomad
+  north-atlantic-oscillation: North Atlantic Oscillation
+  nurdaggalactioneditredlink1: Nurdaggal?action=edit&redlink=1
+  nuzi: Nuzi
+  old-kingdom: Old Kingdom
+  oman: Oman
+  pamba-king: Pamba (king)
+  persia: Persia
+  persian-gulf: Persian Gulf
+  planned-economy: Planned economy
+  priestess-religious-honorific: Priestess (religious honorific)
+  puzer-mama: Puzer-Mama
+  rabshakeh: Rabshakeh
+  reform: Reform
+  richard-l.-zettler: Richard L. Zettler
+  rimush: Rimush
+  rimush-akkad: Rimush (Akkad)
+  royal-cemetery-at-ur: Royal Cemetery at Ur
+  sargon-of-akkad: Sargon of Akkad
+  sarlak: Sarlak
+  semitic-languages: Semitic languages
+  shamal-wind: Shamal (wind)
+  shamash: Shamash
+  shar-kali-sharri: Shar-kali-sharri
+  sharkalisharri: Sharkalisharri
+  short-chronology: Short chronology
+  shu-suen: Shu-Suen
+  shu-turul: Shu-turul
+  silver: Silver
+  sin-mythology: Sin (mythology)
+  sippar: Sippar
+  soil-salinity: Soil salinity
+  sprachbund: Sprachbund
+  standard-of-ur: Standard of Ur
+  stele-of-the-vultures: Stele of the Vultures
+  sumer: Sumer
+  sumerian-king-list: Sumerian King List
+  sumerian-art: Sumerian art
+  sumerian-language: Sumerian language
+  sumero-akkadian: Sumero-Akkadian
+  susa: Susa
+  syria: Syria
+  taurus-mountains: Taurus Mountains
+  tax-collector: Tax collector
+  tell-agrab: Tell Agrab
+  tell-brak: Tell Brak
+  tell-leilan: Tell Leilan
+  tell-suleimah: Tell Suleimah
+  temple-hymnsactioneditredlink1: Temple Hymns?action=edit&redlink=1
+  third-dynasty-of-ur: Third Dynasty of Ur
+  tigris: Tigris
+  turkey: Turkey
+  tutub: Tutub
+  umma: Umma
+  united-arab-emirates: United Arab Emirates
+  ur: Ur
+  ur-iii-period: Ur III period
+  ur-nammu: Ur-Nammu
+  ur-zababa: Ur-Zababa
+  ur-nigin: Ur-nigin
+  urkesh: Urkesh
+  uruk: Uruk
+  victory-stele-of-naram-sin: Victory Stele of Naram-Sin
+  warfare-in-ancient-sumeria: Warfare in Ancient Sumeria
+  water-table: Water table
+  wheat: Wheat
+  wool: Wool
+  zabala-sumer: Zabala (Sumer)
+  zagros: Zagros
+  zu-mythology: Zu (mythology)
+source:
+  site: Wikipedia
+  lang: en
+  title: Akkadian Empire
+  url: https://en.wikipedia.org/wiki/Akkadian_Empire
+  page-id: 1566
+  revision: "1371920533"
+  modified: 2026-08-29T09:56:19Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Akkadian
+    Empire" (revision 1371920533), by Wikipedia contributors, used under CC
+    BY-SA 4.0.
+rewritten:
+  of: corpus/en/akkadian-empire.mdy
+  source-revision: "1371920533"
+  model: claude-opus-5
+  left-out: 'Two headings, "History and development of the empire" and
+    "Culture", have no prose of their own in the source — they sit directly
+    above their subsections — so their bodies are empty rather than invented.
+    In "Timeline of rulers" the ruler table is kept, but reduced to the Ruler
+    and Middle chronology columns: the portrait thumbnails and the family-tree
+    image were images rather than text, and no caption or citation went with
+    them. Images that appear in the article body but are not in the front
+    matter image list are not in the image plan, since only the listed file
+    names were available: the two Manishtushu Obelisk photographs and their
+    caption line ("Manishtushu Obelisk, with close-up of the text. 2270–2255
+    BC, Louvre Museum"), the two Nasiriyah stele photographs, and the picture
+    galleries in "Akkadian art" and "Seals". Where those captions carried text
+    and citations, the text is kept in the section bodies as short lists.
+    Footnotes 25, 26, 51, 52, 53, 60, 61, 62, 65, 69, 88, 95, 96, 97 and 116
+    occur only in figure captions in the source; those that ride on caption
+    text kept in the body are carried there, and the rest travel with the
+    images in the image plan rather than in prose. The "from" quotes are
+    word-for-word, but MDY link and italic markup and footnote markers are
+    stripped from them, so "[[ Akkad | akkad-city ]]" reads as "Akkad"; the
+    ensi gloss joins two sentences from the same section with an ellipsis.'
+  verified: false
+  reviewed: false
++++
+Established around 2334 BCE by [[ Sargon of Akkad ]] after he defeated the Sumerian king [[ Lugal-zage-si ]], the !!Akkadian Empire!! — the !!Kingdom of Akkad/Agade!![[ ^1 ]] — replaced the system of independent [[ Sumero-Akkadian ]] [[ city-states ]] with a single state stretching from the [[ Mediterranean ]] to [[ Iran ]] and from [[ Anatolia ]] to the [[ Persian Gulf ]], under a [[ centralized government ]]. It is reckoned the first [[ empire ]] in world history,[[ ^2 ]] succeeding the long-lived [[ city-states | city-state ]] of [[ Sumer ]]. Centered on the city of [[ Akkad | akkad-city ]] [[ ^3 ]] and its surrounding region in modern-day [[ Iraq ]], it united the Semitic [[ Akkadian | akkadian-language ]] and [[ Sumerian | sumerian-language ]] speakers under one rule and exercised significant influence across [[ Mesopotamia ]], the [[ Levant ]], modern-day [[ Iran ]] and [[ Anatolia ]], sending military expeditions as far south as [[ Dilmun ]] and [[ Magan | magan-civilization ]] in the [[ Arabian Peninsula ]].[[ ^4 ]]
+
+Sargon and his successors, especially his grandson [[ Naram-Sin | naram-sin-of-akkad ]], expanded the empire through [[ military conquest ]], administrative [[ reforms | reform ]], and [[ cultural integration ]]. Naram-Sin took the unprecedented step of declaring himself a [[ living god | imperial-cult ]] and adopted the title "King of the Four Quarters." The [[ Semitic | semitic-languages ]] Akkadian language became the empire's [[ lingua franca ]], although Sumerian (a [[ language isolate ]]) remained important in religion and literature. What is known of the empire comes from inscriptions, administrative tablets, and seals, including notable sources like the [[ Bassetki Statue ]]. [[ Enheduanna ]], Sargon's daughter, served as high [[ priestess | priestess-religious-honorific ]] and is recognized as the first known named author in history.
+
+The empire reached its political peak between the 24th and 22nd centuries BC, following the conquests by its founder Sargon. Under Sargon and his successors, the Akkadian language was briefly imposed on neighbouring conquered states such as [[ Elam ]], [[ Lullubi ]], [[ Hatti | hattians ]] and [[ Gutium | gutian-people ]]. Akkad is sometimes regarded as the first empire in history, though the meaning of this term is not precise, and there are earlier Sumerian claimants.[[ ^5 ]][[ ^6 ]]
+
+The Akkadian state was characterized by a [[ planned economy ]] supported by agriculture, taxation, and conquest, and it saw developments in art, technology, and long-distance trade, including connections with the [[ Indus Valley ]]. Despite its strength, the empire faced internal revolts, [[ dynastic ]] instability, and external threats. Sargon's sons, [[ Rimush ]] and [[ Manishtushu ]], struggled to maintain control; both died violently. Naram-Sin's successors were weaker, leading to fragmentation and vulnerability. The empire eventually collapsed due to a combination of internal unrest and severe environmental and economic stress caused by a major drought associated with the [[ 4.2-kiloyear climate event | 4.2-kiloyear-event ]], which led to crop failures, famine, urban decline, and population displacement, followed by an invasion by the Gutians.
+
+== Contemporary epigraphic sources
+
+[[ Epigraphic | epigraphy ]] sources from the Sargonic (Akkadian Empire) period are uncommon, partly because the capital [[ Akkad | akkad-city ]], like the capitals of the later [[ Mitanni ]] and [[ Sealand | first-sealand-dynasty ]], has not yet been located, though there has been much speculation.[[ ^7 ]][[ ^8 ]] Some cuneiform tablets have been excavated at cities under Akkadian Empire control such as [[ Eshnunna ]] and [[ Tell Agrab ]].[[ ^9 ]]
+
+Other tablets have become available on the antiquities market and are held in museums and private collections, such as those from the Akkadian governor in [[ Adab | adab-city ]].[[ ^10 ]] Internal evidence allows their dating to the Sargonic period and sometimes to the original location. Archives are especially important to historians and only a few have become available.[[ ^11 ]]
+
+The Me-sag Archive, which commenced publication in 1958, is considered one of the most significant collections. The tablets, about 500 in number with about half published, are held primarily at the Babylonian Collection of the Yale University and Baghdad Museum with a few others scattered about. They date to the period of late in the reign of Naram-Sin to early in the reign of Shar-kali-shari, and are believed to be from a town between Umma and Lagash, with Me-sag the governor of Umma.[[ ^12 ]][[ ^13 ]][[ ^14 ]] An archive of 47 tablets was found at the excavation of [[ Tell Suleimah ]] in the Hamrin Basin.[[ ^15 ]]
+
+Various royal inscriptions by the Akkadian rulers have also been found. Most of the original examples are short, or very fragmentary like the [[ Victory Stele of Naram-Sin ]] and the Sargonic victory stele from Telloh.[[ ^16 ]] A few longer ones are known because of later copies made, often from the much later Old Babylonian period. While these are assumed to be mostly accurate, it is difficult to know if they had been edited to reflect current political conditions.[[ ^17 ]] One of the longer surviving examples is the [[ Bassetki Statue ]], the [[ copper ]] base of a Narim-Sin statue:
+
+<blockquote
+  "Naram-Sin, the mighty, king of Agade, when the four quarters together
+  revolted against him, through the love which the goddess Astar showed him, he
+  was victorious in nine battles in one in 1 year, and the kings whom they (the
+  rebels[?]) had raised (against him), he captured. In view of the fact that he
+  protected the foundations of his city from danger, (the citizens of his city
+  requested from Astar in Eanna, Enlil in Nippur, Dagan in Tuttul, Ninhursag in
+  Kes, Ea in Eridu, Sin in Ur, Samas in Sippar, (and) Nergal in Kutha, that
+  (Naram-Sin) be (made) the god of their city, and they built within Agade a
+  temple (dedicated) to him. As for the one who removes this inscription, may
+  the gods Samas, Astar, Nergal, the bailiff of the king, namely all those gods
+  (mentioned above) tear out his foundations and destroy his progeny."[[ ^17 ]]
+
+Manishtushu is thinner still. A number of fragments of royal statues of his all bear portions of a "standard inscription", and aside from a few minor short inscriptions this is the only known contemporary source for the ruler.[[ ^18 ]] An excerpt:
+
+<blockquote
+  "Man-istusu, king of the world: when he conquered Ansan and Sirihum, had \...
+  ships cross the Lower Sea. The cities across the Sea, thirty-two (in number),
+  assembled for battle, but he was victorious (over them). Further, he conquered
+  their cities, [st]ru[c]k down their rulers and aft[er] he [roused them (his
+  troops)], plundered as far as the Silver Mines. He quarried the black stone of
+  the mountains across the Lower Sea, loaded (it) on ships, and moored (the
+  ships) at the quay of Agade"[[ ^17 ]]
+
+Before the Akkadian Empire, calendar years were marked by Regnal Numbers. During Sargonic times, a system of year-names was used. This practice continued until the end of the Old Babylonian period, for example, "Year in which the divine Hammu[rabi] the king Esznunna destroyed by a flood."[[ ^19 ]] Afterwards, Regnal Numbers were used by all succeeding kingdoms.[[ ^20 ]] From the Akkadian Empire, 3 of the presumed 40 Sargon year-names are known, 1 (presumed 9) of Rimush, 20 (presumed 56) of Naram-Sin, and 18 (presumed 18) of Shar-kali-shari.[[ ^21 ]] Recently, a single year-name had been found "In the year that Dūr-Maništusu was established."[[ ^22 ]] There are also, perhaps, a dozen more known, which cannot be firmly linked to a ruler.
+
+Especially with the paucity of other inscriptions, year-names are extremely important in determining the history of the Akkadian Empire. As an example, from one year-name, we know that the empire was in conflict with the Gutians long before its end. It attests the name of a Gutian ruler and marks the construction of two temples in Babylon as recognition of Akkadian victory.
+
+<blockquote
+  "In the year in which Szarkaliszarri laid the foundations of the temples of
+  the goddess Annunitum and of the god Aba in Babylon and when he defeated
+  Szarlak, king of Gutium"[[ ^23 ]]
+
+The final contemporary source are seals and their sealing dates. These are especially important here, as markers, with the shortage of other Akkadian Empire epigraphics, and very useful to historians. Two seals and one sealing were found in the [[ Royal Cemetery at Ur ]] which contained the name of Sargons's daughter En-hedu-ana; this provided confirmation of her existence. The seals read "En-hedu-ana, daughter of Sargon: Ilum-pal[il] (is) her coiffeur" and "Adda, estate supervisor/majordomo of En-hedu-ana".[[ ^17 ]] At [[ Tell Mozan | urkesh ]] (ancient Urkesh) excavation brought to light a clay sealing of Tar'am-Agade (Akkad loves <her>), a previously unknown daughter of [[ Naram-Sin | naram-sin-of-akkad ]], who was possibly married to an unidentified local //endan// (ruler).[[ ^24 ]]
+
+== Later copies and literary compositions
+
+The legacy of the Akkadian Empire, particularly the reigns of Sargon and Narim-Sin, was preserved and elaborated upon for millennia in Mesopotamian literary tradition. This ranged on one end to purported copies of still existing Sargonic period inscriptions, and to literary tales made up from the whole cloth at the other.[[ ^27 ]] A few examples:
+
+- [[ Great Rebellion Against Naram-Sin | gutian-rule-in-mesopotamia#great-revolt-against-naram-sin ]] – At one point in his reign much of the Empire, especially in the old mainly Sumerian city-states, rose up against Naram-Sin. The revolt was crushed but the echoes of the event were passed down in history. Some of the tales, like "Naram-Sin and the Enemy Hordes" (Old Babylonian – purported to be a copy of an inscription at the temple of Nergal in Cutha) and "Gula-AN and the Seventeen Kings against Naram-Sin" were literary compositions which further developed and changed the themes. The earliest examplar, from the Old Babylonian period, is found in several incomplete tablets and fragments, which differ somewhat, purporting to be copies of an inscription on a statue of Naram-Sin standing in the Ekur temple of [[ Enlil ]] at [[ Nippur ]]. Because it aligns with known contemporary inscriptions and year name it is considered authentic, with the usual Mesopotamian slant that something going wrong means you displeased the gods.[[ ^28 ]][[ ^29 ]][[ ^30 ]]
+
+<blockquote
+  "\... By the verdict of the goddess Astar-Annunltum, Naram-Sin, the mighty,
+  [was vic]torious over the Kisite in battle at TiWA. [Further], Ili-resi, the
+  general; Ilum-muda, Ibbi-Zababa, Imtalik, (and) Puzur-Asar, captains of Kis;
+  and Puzur-Ningal, governor of TiWA; Ili-re'a, his captain; Kullizum, captain
+  of Eres; Edam'u, captain of Kutha \..."[[ ^17 ]]
+
+- [[ Cursing of Agade | gutian-rule-in-mesopotamia#curse-of-akkad ]] – A purely literary composition which was handed down for millennia in Mesopotamia. Composed in the Ur III period, a century or at most two after the events, it is essentially artistic propaganda. After a long period of Akkadian dominance the Sumerians from the south are back in ascendancy; the Ur rule is sometimes called the Neo-Sumerian Empire. This composition lays all the troubles before the rise of Ur at the feet of the Akkadian Empire, because Naram-Sin leveled the Ekur temple of Enlil while rebuilding it, causing the eight chief deities of Mesopotamia to withdraw their support and protection from Akkad. While basically fiction, it is still useful to historians.[[ ^31 ]]
+
+<blockquote
+  "\...Enlil brought out of the mountains those who do not resemble other
+  people, who are not reckoned as part of the Land, the Gutians, an unbridled
+  people, with human intelligence but canine instincts and monkeys' features.
+  Like small birds they swooped on the ground in great flocks. Because of Enlil,
+  they stretched their arms out across the plain like a net for animals. Nothing
+  escaped their clutches, no one left their grasp. Messengers no longer traveled
+  the highways, the courier's boat no longer passed along the rivers. The
+  Gutians drove the trusty (?) goats of Enlil out of their folds and compelled
+  their herdsmen to follow them, they drove the cows out of their pens and
+  compelled their cowherds to follow them. Prisoners manned the watch. Brigands
+  occupied the highways. The doors of the city gates of the Land lay dislodged
+  in mud, and all the foreign lands uttered bitter cries from the walls of their
+  cities \..."[[ ^32 ]][[ ^33 ]]
+
+There were a number of these, passed down as part of scribel tradition including The Birth Legend of Sargon ([[ Neo-Assyrian ]]), Weidner Chronicle, and the Geographical Treatise on Sargon of Akkad's Empire.[[ ^34 ]][[ ^35 ]][[ ^36 ]][[ ^37 ]]
+
+== Archaeology
+
+Identifying architectural remains is hindered by the fact that there are sometimes no clear distinctions between features thought to stem from the preceding [[ Early Dynastic period | early-dynastic-period-mesopotamia ]], and those thought to be Akkadian. Likewise, material that is thought to be Akkadian continues to be in use into the [[ Ur III period | third-dynasty-of-ur ]].[[ ^38 ]] There is a similar issue with cuneiform tablets: in the early Akkadian Empire, tablets and the signs on them are much like those from earlier periods, before developing into the much different Classical Sargonic style.[[ ^11 ]]
+
+With the capital, Akkad, still unlocated, archaeological remains of the empire are still to be found, mainly at the cities where they established regional governors. An example is [[ Adab | adab-city ]] where Naram-Sin established direct imperial control after Adab joined the "great revolt".[[ ^39 ]] After destroying the city of [[ Mari | mari-syria ]] the Akkadian Empire rebuilt it as an administrative center with an imperial governor.[[ ^40 ]] The city of [[ Nuzi ]] was established by the Akkadians and a number of economic and administrative texts were found there.[[ ^41 ]] Similarly, there are [[ Marad ]], [[ Nippur ]], [[ Tutub ]] and [[ Ebla ]].[[ ^42 ]][[ ^43 ]]
+
+Excavation at the modern site of [[ Tell Brak ]] has suggested that the Akkadians rebuilt a city ("Brak" or "Nagar") on this site, for use as an administrative center. The city included two large buildings including a complex with temple, offices, courtyard, and large ovens.[[ ^44 ]][[ ^45 ]]
+
+== Dating and periodization
+
+The Akkadian period is generally dated to 2334–2154 BC (according to the [[ middle chronology ]]). The [[ short-chronology ]] dates of 2270–2083 BC are now considered less likely. It was preceded by the [[ Early Dynastic Period of Mesopotamia ]] (ED) and succeeded by the [[ Ur III Period ]], although both transitions are blurry. For example, it is likely that the rise of [[ Sargon of Akkad ]] coincided with the late ED Period and that the final Akkadian kings ruled simultaneously with the [[ Gutian | gutian-dynasty-of-sumer ]] kings alongside rulers at the city-states of both [[ Uruk ]] and [[ Lagash ]]. The Akkadian Period is contemporary with Early Bronze (EB) IV (in [[ Israel ]]), EB IVA and EJ IV (in Syria), and EB IIIB (in [[ Turkey ]]).[[ ^46 ]][[ ^47 ]]
+
+== Timeline of rulers
+
+The relative order of Akkadian kings is clear, while noting that the Ur III version of the Sumerian King List inverts the order of Rimush and Manishtushu.[[ ^48 ]][[ ^49 ]] The absolute dates of their reigns are approximate (as with all dates prior to the [[ Late Bronze Age collapse ]] //c.// 1200 BC).[[ ^50 ]]
+
+<table
+  <tbody
+    <tr
+      <th>Ruler
+
+      <th>Middle chronology
+        <br
+
+        All dates BC
+
+    <tr
+      <td>[[ Sargon | sargon-of-akkad ]]
+
+      <td>2334–2279
+
+    <tr
+      <td>[[ Rimush ]]
+
+      <td>2279–2270
+
+    <tr
+      <td>[[ Manishtushu ]]
+
+      <td>2270–2255
+
+    <tr
+      <td>[[ Naram-Sin | naram-sin-of-akkad ]]
+
+      <td>2255–2218
+
+    <tr
+      <td>[[ Shar-Kali-Sharri ]]
+
+      <td>2218–2193
+
+    <tr
+      <td>[[ Dudu | dudu-of-akkad ]]
+
+      <td>2189–2168
+
+    <tr
+      <td>[[ Shu-turul ]]
+
+      <td>2168–2154
+
+== History and development of the empire
+
+
+
+== Pre-Sargonic Akkad
+
+The Akkadian Empire takes its name from the [[ region | akkad-region ]] and the city of Akkad, both of which were localized in the general confluence area of the [[ Tigris ]] and [[ Euphrates ]] Rivers. Although the city of Akkad has not yet been identified on the ground, it is known from various textual sources. Among these is at least one text predating the reign of Sargon. Together with the fact that the name Akkad is of non-[[ Akkadian | akkadian-language ]] origin, this suggests that the city of Akkad may have already been occupied in pre-Sargonic times.[[ ^7 ]][[ ^54 ]]
+
+== Sargon of Akkad
+
+The earliest records in the Akkadian language date to the time of Sargon of Akkad, who defeated the [[ Sumerian | sumer ]] king [[ Lugal-zage-si ]] at the [[ Battle of Uruk ]] and conquered his former territory, establishing the Akkadian Empire. Where he came from is a matter of legend rather than record. The [[ Sumerian King List ]] claimed he was the son of a gardener; later legends named his father as La'ibum or Itti-Bel and his birth mother as a priestess (or possibly even a [[ hierodule ]]) of [[ Ishtar ]], the Akkadian equivalent of the Sumerian goddess [[ Inanna ]]. One legend of Sargon from [[ Neo-Assyrian ]] times quotes him as saying
+
+<blockquote
+  My mother was a [[ changeling ]], my father I knew not. The brothers of my
+  father loved the hills. My city is Azurpiranu (the wilderness herb fields),
+  which is situated on the banks of the Euphrates. My changeling mother
+  conceived me, in secret she bore me. She set me in a basket of rushes, with
+  bitumen she sealed my lid. She cast me into the river which rose not over me.
+  The river bore me up and carried me to Akki, the drawer of water. Akki, the
+  drawer of water, took me as his son and reared me. Akki the drawer of water,
+  appointed me as his gardener. While I was gardener Ishtar granted me her love,
+  and for four and (fifty?) \... years I exercised kingship.[[ ^55 ]]
+
+Later claims made on behalf of Sargon were that his mother was an "//entu//" priestess (high priestess). The claims might have been made to ensure a pedigree of nobility, since only a highly placed family could achieve such a position.[[ ^56 ]]
+
+Originally a [[ cupbearer ]] ([[ Rabshakeh ]]) to a king of [[ Kish | kish-sumer ]] with a [[ Semitic | semitic-languages ]] name, [[ Ur-Zababa ]], Sargon thus became a gardener, responsible for the task of clearing out irrigation canals. The royal cupbearer at this time was in fact a prominent political position, close to the king and with various high level responsibilities not suggested by the title of the position itself.[[ ^57 ]] The gardening gave him access to a disciplined corps of workers, who also may have served as his first soldiers. Displacing Ur-Zababa, Sargon was crowned king, and he entered upon a career of foreign conquest.[[ ^58 ]] Four times he invaded [[ Syria ]] and [[ Canaan ]], and he spent three years thoroughly subduing the countries of "the west" to unite them with Mesopotamia "into a single empire".
+
+However, Sargon took this process further, conquering many of the surrounding regions to create an empire that reached westward as far as the [[ Mediterranean Sea ]] and perhaps [[ Cyprus ]] (//Kaptara//); northward as far as the mountains (a later [[ Hittite | hittite-language ]] text asserts he fought the [[ Hattian | hattians ]] king Nurdaggal of [[ Burushanda ]], well into [[ Anatolia ]]); eastward over [[ Elam ]]; and as far south as [[ Magan | magan-civilization ]] ([[ Oman ]]) — a region over which he reigned for purportedly 56 years, though only four "year-names" survive. He consolidated his dominion over his territories by replacing the earlier opposing rulers with noble citizens of Akkad, his native city where loyalty was thus ensured.[[ ^59 ]]
+
+Trade extended from the [[ silver ]] mines of Anatolia to the [[ lapis lazuli ]] mines in modern [[ Afghanistan ]], the [[ cedars | cedrus-libani ]] of [[ Lebanon ]] and the [[ copper ]] of [[ Magan | magan-civilization ]]. This consolidation of the city-states of Sumer and Akkad reflected the growing economic and political power of Mesopotamia. The empire's breadbasket was the rain-fed agricultural system, and a chain of fortresses was built to control the imperial wheat production.
+
+Images of Sargon were erected on the shores of the Mediterranean, in token of his victories, and cities and palaces were built at home with the spoils of the conquered lands. Elam and the northern part of Mesopotamia were also subjugated, and rebellions in [[ Sumer ]] were put down. Contract tablets have been found dated in the years of the campaigns against [[ Canaan ]] and against [[ Sarlak ]], king of [[ Gutium | gutian-period ]]. He also boasted of having subjugated the "four-quarters" — the lands surrounding Akkad to the north, the south (Sumer), the east (Elam), and the west ([[ Martu | amorites ]]). Some of the earliest historiographic texts ([[ ABC 19, 20 | babylonian-chronicles ]]) suggest he rebuilt the city of Babylon (//Bab-ilu//) in its new location near Akkad.[[ ^63 ]]
+
+Troubles multiplied toward the end of his reign. A later Babylonian text states:
+
+<blockquote
+  In his old age, all the lands revolted against him, and they besieged him in
+  Akkad (the city) [but] he went forth to battle and defeated them, he knocked
+  them over and destroyed their vast army.
+
+It refers to his campaign in "Elam", where he defeated a coalition army led by the King of Awan and forced the vanquished to become his vassals.[[ ^64 ]]
+
+Also shortly after, another revolt took place:
+
+<blockquote
+  the Subartu the upper country—in their turn attacked, but they submitted to
+  his arms, and Sargon settled their habitations, and he smote them grievously.
+
+== Rimush and Manishtushu
+
+Sargon had crushed opposition even at old age. These difficulties broke out again in the reign of his sons. Revolts broke out during the nine-year reign of [[ Rimush | rimush-akkad ]] (2278–2270 BC), who fought hard to retain the empire, and was successful until he was assassinated by some of his own courtiers. According to his inscriptions, he faced widespread revolts, and had to reconquer the cities of [[ Ur ]], [[ Umma ]], [[ Adab | adab-city ]], [[ Lagash ]], [[ Der | der-sumer ]], and [[ Kazallu ]] from rebellious //[[ ensis | ensi-sumerian ]]//:[[ ^66 ]] Rimush introduced mass slaughter and large scale destruction of the Sumerian city-states, and maintained meticulous records of his destructions. Most of the major Sumerian cities were destroyed, and Sumerian human losses were enormous:[[ ^66 ]][[ ^67 ]]
+
+<table
+  <tbody
+    <tr
+      <td colspan="7">Sumerian casualties from the campaigns of Rimush[[ ^66 ]]
+
+    <tr
+      <td>Destroyed cities:
+
+      <td rowspan="1">!![[ Adab | adab-city ]]!! and !![[ Zabala | zabala-sumer ]]!!
+
+      <td rowspan="1">!![[ Umma ]]!! and !!KI.AN!!
+
+      <td colspan="1">!![[ Ur ]]!! and !![[ Lagash ]]!!
+
+      <td colspan="1">!![[ Kazallu ]]!!
+
+      <td colspan="1">!!(Three battles in [[ Sumer ]])!!
+
+      <td colspan="1">TOTAL
+
+    <tr
+      <td>Killed
+
+      <td>15,718
+
+      <td>8,900
+
+      <td>8,049
+
+      <td>12,052
+
+      <td>11,322
+
+      <td>56,041
+
+    <tr
+      <td>Captured and enslaved
+
+      <td>14,576
+
+      <td>3,540
+
+      <td>5,460
+
+      <td>5,862
+
+      <td>_
+
+      <td>29,438
+
+    <tr
+      <td>"Expelled and annihilated"
+
+      <td>_
+
+      <td>5,600
+
+      <td>5,985
+
+      <td>_
+
+      <td>14,100
+
+      <td>25,685
+
+Rimush's elder brother, [[ Manishtushu ]] (2269–2255 BC) succeeded him. The latter seems to have fought a sea battle against 32 kings who had gathered against him and took control over their pre-[[ Arab | arabs ]] country, consisting of modern-day [[ United Arab Emirates ]] and [[ Oman ]]. Despite the success, like his brother he seems to have been assassinated in a palace conspiracy.[[ ^68 ]][[ ^66 ]]
+
+== Naram-Sin
+
+Manishtushu's son and successor, [[ Naram-Sin | naram-sin-of-akkad ]] (2254–2218 BC), due to vast military conquests, assumed the imperial title "King Naram-Sin, [[ king of the four-quarters | king-of-the-four-corners ]]" (//Lugal Naram-Sîn, Šar kibrat 'arbaim//), the four-quarters as a reference to the entire world. He was also for the first time in Sumerian culture, addressed as "the god (Sumerian = DINGIR, Akkadian = //ilu//) of Agade" (Akkad), in opposition to the previous religious belief that kings were only representatives of the people towards the gods.[[ ^69 ]][[ ^70 ]] He also faced revolts at the start of his reign,[[ ^71 ]] but quickly crushed them.
+
+Naram-Sin also recorded the Akkadian conquest of [[ Ebla ]] as well as [[ Armanum ]] and its king.[[ ^72 ]]
+
+To better police Syria, he built a royal residence at Tell Brak, a crossroads at the heart of the [[ Khabur River | khabur-euphrates ]] basin of the [[ Jezirah | al-jazira-mesopotamia ]]. Naram-Sin campaigned against Magan which also revolted; Naram-Sin "marched against [[ Magan | majan-civilization ]] and personally caught Mandannu, its king", where he instated garrisons to protect the main roads. The chief threat seemed to be coming from the northern Zagros Mountains, the Lulubis and the Gutians. A campaign against the [[ Lullubi ]] led to the carving of the "Victory Stele of Naram-Suen", now in the [[ Louvre | musée-du-louvre ]]. [[ Hittite | hittites ]] sources claim Naram-Sin of Akkad even ventured into [[ Anatolia ]], battling the Hittite and [[ Hurrian ]] kings [[ Pamba | pamba-king ]] of [[ Hatti | hattians ]], Zipani of [[ Kanesh ]], and 15 others.
+
+The economy was highly planned. Grain was cleaned, and rations of grain and oil were distributed in standardized vessels made by the city's potters. Taxes were paid in produce and labour on public walls, including city walls, temples, irrigation canals and waterways, producing huge agricultural surpluses.[[ ^73 ]] This newfound Akkadian wealth may have been based upon benign climatic conditions, huge agricultural surpluses and the confiscation of the wealth of other peoples.[[ ^74 ]]
+
+In later Assyrian and Babylonian texts, the name //Akkad//, together with //Sumer//, appears as part of the royal title, as in the Sumerian [[ LUGAL ]] KI-EN-GI KI-URI or Akkadian //Šar māt Šumeri u Akkadi//,[[ ^50 ]] translating to "king of Sumer and Akkad".[[ ^75 ]] This title was assumed by the king who seized control of [[ Nippur ]], the intellectual and religious center of southern Mesopotamia.
+
+During the Akkadian period, the Akkadian language became the [[ lingua franca ]] of the Middle East, and was officially used for administration, although Sumerian remained as a spoken and literary language. The spread of Akkadian stretched from Syria to Elam, and even the [[ Elamite language ]] was temporarily written in Mesopotamian [[ cuneiform ]]. Akkadian texts later found their way to far-off places, from [[ Egypt | ancient-egypt ]] (in the [[ Amarna Period ]]) and [[ Anatolia ]], to [[ Persia ]] ([[ Behistun ]]).
+
+== Submission of Sumerian kings
+
+The submission of some Sumerian rulers to the Akkadian Empire is recorded in the seal inscriptions of Sumerian rulers such as [[ Lugal-ushumgal ]], governor ([[ ensi | ensi-sumerian ]]) of [[ Lagash ]] ("Shirpula"), circa 2230–2210 BC. Several inscriptions of Lugal-ushumgal are known, particularly seal impressions, which refer to him as governor of [[ Lagash ]] and at the time a vassal (𒀵, //arad//, "servant" or "slave") of Naram-Sin, as well as his successor [[ Shar-kali-sharri ]].[[ ^76 ]][[ ^77 ]][[ ^78 ]][[ ^79 ]] One of these seals proclaims:
+
+<blockquote
+  "Naram-Sin, the mighty God of Agade, king of the four corners of the world,
+  Lugal-ushumgal, the scribe, //[[ ensi | ensi-sumerian ]]// of [[ Lagash ]], is
+  thy servant."
+
+— [[ Seal of Lugal-ushumgal as vassal of Naram-sin | https://en.wikipedia.org/wiki/File%3ALugal-ushumgal_servant_of_Naram-sin_(with_transcription).jpg ]].[[ ^77 ]][[ ^80 ]]
+
+It can be considered that Lugal-ushumgal was a collaborator of the Akkadian Empire, as was [[ Meskigal ]], ruler of [[ Adab | adab-city ]].[[ ^81 ]] Later however, Lugal-ushumgal was succeeded by [[ Puzer-Mama ]] who, as Akkadian power waned, achieved independence from [[ Shar-Kali-Sharri ]], assuming the title of "King of Lagash" and starting the illustrious Second Dynasty of Lagash.[[ ^82 ]][[ ^83 ]]
+
+== Collapse
+
+The empire of Akkad likely fell in the 22nd century BC, within 180 years of its founding, ushering in a "[[ Dark Age | dark-ages-historiography ]]" with no prominent imperial authority until the [[ Third Dynasty of Ur ]]. The region's political structure may have reverted to the //status quo ante// of local governance by [[ city-states | city-state ]].[[ ^84 ]]
+
+By the end of Sharkalisharri's reign, the empire had begun to unravel. After several years of chaos (and four kings), [[ Shu-turul ]] and Dudu appear to have restored some centralized authority for several decades; however, they were unable to prevent the empire from eventually collapsing outright. In the resulting power vacuum the [[ Gutians | gutian-period ]], who had been conquered by Akkad during the reign of Sharkalisharri, took control of central Babylonia as far as Adab and Umma, and [[ Anshan | anshan-persia ]] briefly controlled the Diyalla region and the city of Akkad itself. Estimates of the length of this interregnum have ranged from 40 years to 100 years. In the preamble of the [[ Code of Ur-Nammu ]] he claims to have liberated Akšak, Marada, Girikal, [[ Kazallu ]], and Uṣarum from Anshan.[[ ^85 ]][[ ^86 ]]
+
+Little is known about the Gutian period, or how long it endured. Cuneiform sources suggest that the Gutians' administration showed little concern for maintaining agriculture, written records, or public safety; they reputedly released all farm animals to roam about Mesopotamia freely and soon brought about [[ famine ]] and rocketing grain prices. The Sumerian king [[ Ur-Nammu ]] (2112–2095 BC) cleared the Gutians from Mesopotamia during his reign.
+
+The //Sumerian King List//, describing the Akkadian Empire after the death of Shar-kali-shari, states:
+
+<blockquote
+  Who was king? Who was not king? Irgigi the king; Nanum, the king; Imi the
+  king; Ilulu, the king—the four of them were kings but reigned only three
+  years. Dudu reigned 21 years; Shu-Turul, the son of Dudu, reigned 15 years.
+  \... Agade was defeated and its kingship carried off to Uruk. In Uruk,
+  [[ Ur-ningin | ur-nigin ]] reigned 7 years, Ur-gigir, son of Ur-ningin,
+  reigned 6 years; Kuda reigned 6 years; Puzur-ili reigned 5 years, Ur-Utu
+  reigned 6 years. Uruk was smitten with weapons and its kingship carried off by
+  the Gutian hordes.
+
+However, there are no known year-names or other archaeological evidence verifying any of these later kings of Akkad or Uruk, apart from several artefact referencing king [[ Dudu of Akkad ]] and [[ Shu-turul ]].[[ ^87 ]] The named kings of Uruk may have been contemporaries of the last kings of Akkad, but in any event could not have been very prominent.
+
+<blockquote
+  In the Gutian hordes, (first reigned) a nameless king; (then) Imta reigned 3
+  years as king; Shulme reigned 6 years; Elulumesh reigned 6 years; Inimbakesh
+  reigned 5 years; Igeshuash reigned 6 years; Iarlagab reigned 15 years; Ibate
+  reigned 3 years; \... reigned 3 years; Kurum reigned 1 year; \... reigned 3
+  years; \... reigned 2 years; Iararum reigned 2 years; Ibranum reigned 1 year;
+  Hablum reigned 2 years; Puzur-Sin son of Hablum reigned 7 years; Iarlaganda
+  reigned 7 years; \... reigned 7 years; \... reigned 40 days. Total 21 kings
+  reigned 91 years, 40 days.
+
+The period between c. 2112 BC and 2004 BC is known as the Ur III period. Documents again began to be written in [[ Sumerian | sumerian-language ]], although Sumerian was becoming a purely literary or liturgical language, much as Latin later became in [[ Medieval ]] [[ Europe ]].[[ ^55 ]]
+
+One explanation for the end of the Akkadian empire is simply that the Akkadian dynasty could not maintain its political supremacy over other independently powerful city-states.[[ ^84 ]][[ ^89 ]]
+
+== Natural causes: drought, seasonal weather patterns
+
+One theory, which remains controversial, associates regional decline at the end of the Akkadian period (and of the [[ First Intermediary Period ]] following the [[ Old Kingdom ]] in [[ Ancient Egypt ]]) with rapidly increasing aridity, and failing rainfall in the region of the Ancient Near East, caused by a global centennial-scale [[ drought ]], sometimes called the [[ 4.2 kiloyear event ]].[[ ^90 ]][[ ^91 ]][[ ^92 ]] [[ Harvey Weiss ]] has shown that
+
+<blockquote
+  [A]rchaeological and soil-stratigraphic data define the origin, growth, and
+  collapse of Subir, the third millennium rain-fed agriculture civilization of
+  northern Mesopotamia on the Habur Plains of Syria. At 2200 BC, a marked
+  increase in aridity and wind circulation, subsequent to a volcanic eruption,
+  induced a considerable degradation of land-use conditions. After four
+  centuries of urban life, this abrupt climatic change evidently caused
+  abandonment of Tell Leilan, regional desertion, and the collapse of the
+  Akkadian empire based in southern Mesopotamia. Synchronous collapse in
+  adjacent regions suggests that the impact of the abrupt climatic change was
+  extensive.[[ ^91 ]]
+
+Peter B. de Menocal has shown "there was an influence of the [[ North Atlantic Oscillation ]] on the streamflow of the Tigris and Euphrates at this time, which led to the collapse of the Akkadian Empire".[[ ^93 ]] More recent analysis of simulations from the [[ HadCM3 ]] climate model indicate that there was a shift to a more arid climate on a timescale that is consistent with the collapse of the empire.[[ ^94 ]]
+
+Excavation at [[ Tell Leilan ]] suggests that this site was abandoned soon after the city's massive walls were constructed, its temple rebuilt and its grain production reorganized. The debris, dust, and sand that followed show no trace of human activity. Soil samples show fine wind-blown sand, no trace of earthworm activity, reduced rainfall and indications of a drier and windier climate. Evidence shows that skeleton-thin sheep and cattle died of drought, and up to 28,000 people abandoned the site, presumably seeking wetter areas elsewhere. Tell Brak shrank in size by 75%. Trade collapsed. [[ Nomadic | nomad ]] herders such as the [[ Amorites | amorite ]] moved herds closer to reliable water suppliers, bringing them into conflict with Akkadian populations. This climate-induced collapse seems to have affected the whole of the Middle East, and to have coincided with the collapse of the Egyptian Old Kingdom.[[ ^91 ]]
+
+This collapse of rain-fed agriculture in the Upper Country meant the loss to southern Mesopotamia of the agrarian subsidies which had kept the Akkadian Empire solvent. Water levels within the Tigris and Euphrates fell 1.5 meters beneath the level of 2600 BC, and although they stabilized for a time during the following Ur III period, rivalries between pastoralists and farmers increased. Attempts were undertaken to prevent the former from herding their flocks in agricultural lands, such as the building of a 180 km (112 mi) wall known as the "Repeller of the Amorites" between the Tigris and Euphrates under the Ur III ruler [[ Shu-Sin | shu-suen ]]. Such attempts led to increased political instability; meanwhile, severe depression occurred to re-establish [[ demographic equilibrium | demography ]] with the less favorable climatic conditions.[[ ^98 ]][[ ^99 ]][[ ^100 ]]
+
+[[ Richard Zettler | richard-l.-zettler ]] has critiqued the drought theory, observing that the chronology of the Akkadian empire is very uncertain and that available evidence is not sufficient to show its economic dependence on the northern areas excavated by Weiss and others. He also criticizes Weiss for taking Akkadian writings literally to describe certain catastrophic events.[[ ^101 ]]
+
+According to [[ Joan Oates ]], at Tell Brak, the soil "signal" associated with the drought lies below the level of Naram-Sin's palace. However, evidence may suggest a tightening of Akkadian control following the Brak 'event', for example, the construction of the heavily fortified 'palace' itself and the apparent introduction of greater numbers of Akkadian as opposed to local officials, perhaps a reflection of unrest in the countryside of the type that often follows some natural catastrophe. Furthermore, Brak remained occupied and functional after the fall of the Akkadians.[[ ^102 ]]
+
+In 2019, a study by [[ Hokkaido University ]] on fossil corals in [[ Oman ]] provides an evidence that prolonged winter [[ shamal | shamal-wind ]] seasons led to the [[ salinization | soil-salinity ]] of the irrigated fields; hence, a dramatic decrease in crop production triggered a widespread famine and eventually the collapse of the ancient Akkadian Empire.[[ ^103 ]][[ ^104 ]]
+
+== Government
+
+The Akkadian government formed a "classical standard" with which all future Mesopotamian states compared themselves. Traditionally, the //ensi// was the highest functionary of the Sumerian [[ city-states | city-state ]]. In later traditions, one became an //ensi// by marrying the goddess Inanna, legitimising the rulership through divine consent.
+
+Initially, the monarchical //lugal// (//lu// = man, //gal// =Great) was subordinate to the priestly //ensi//, and was appointed at times of troubles, but by later dynastic times, it was the //lugal// who had emerged as the preeminent role, having his own //"é"// (= house) or "palace", independent from the temple establishment. By the time of [[ Mesalim ]], whichever dynasty controlled the city of Kish was recognised as //šar kiššati// (= king of Kish), and was considered preeminent in Sumer, possibly because this was where the two rivers approached, and whoever controlled Kish ultimately controlled the irrigation systems of the other cities downstream.
+
+As Sargon extended his conquest from the "Lower Sea" (Persian Gulf), to the "Upper Sea" (Mediterranean), it was felt that he ruled "the totality of the lands under heaven", or "from sunrise to sunset", as contemporary texts put it. Under Sargon, the //ensi//s generally retained their positions, but were seen more as provincial governors. The title //šar kiššati// became recognised as meaning "lord of the universe". Sargon is even recorded as having organised naval expeditions to [[ Dilmun ]] ([[ Bahrain ]]) and Magan, amongst the first organised military naval expeditions in history. Whether he also did in the case of the Mediterranean with the kingdom of [[ Kaptara | keftiu ]] (possibly [[ Cyprus ]]), as claimed in later documents, is more questionable.
+
+With Naram-Sin, Sargon's grandson, this went further than with Sargon, with the king not only being called "Lord of the Four-Quarters (of the Earth)", but also elevated to the ranks of the //dingir// (= gods), with his own temple establishment. Previously a ruler could, like [[ Gilgamesh ]], become divine after death, but the Akkadian kings, from Naram-Sin onward, were considered gods on earth in their lifetimes. Their portraits showed them of larger size than mere mortals and at some distance from their retainers.[[ ^105 ]]
+
+One strategy adopted by both Sargon and Naram-Sin, to maintain control of the country, was to install their daughters, Enheduanna and Emmenanna respectively, as high priestess to Sin, the Akkadian version of the Sumerian moon deity, Nanna, at Ur, in the extreme south of Sumer; to install sons as provincial //ensi// governors in strategic locations; and to marry their daughters to rulers of peripheral parts of the Empire ([[ Urkesh ]] and Marhashe). A well documented case of the latter is that of Naram-Sin's daughter Tar'am-Agade at Urkesh.[[ ^106 ]]
+
+Records at the Brak administrative complex suggest that the Akkadians appointed locals as [[ tax collectors | tax-collector ]].[[ ^107 ]]
+
+== Economy
+
+The population of Akkad, like nearly all pre-modern states, was entirely dependent upon the agricultural systems of the region, which seem to have had two principal centres: the irrigated farmlands of southern Iraq that traditionally had a yield of 30 grains returned for each grain sown, and the rain-fed agriculture of northern Iraq, known as the "Upper Country."
+
+Southern Iraq during Akkadian period seems to have been approaching its modern rainfall level of less than 20 mm (0.8 in) per year, with the result that agriculture was totally dependent upon irrigation. Before the Akkadian period, the progressive [[ salinisation | soil-salinity ]] of the soils, produced by poorly drained irrigation, had been reducing yields of [[ wheat ]] in the southern part of the country, leading to the conversion to more salt-tolerant [[ barley ]] growing. Urban populations there had peaked already by 2,600 BC, and [[ demographic pressures | demography ]] were high, contributing to the rise of militarism apparent immediately before the Akkadian period (as seen in the [[ Stele of the Vultures ]] of [[ Eannatum ]]). [[ Warfare | warfare-in-ancient-sumeria ]] between city states had led to a population decline, from which Akkad provided a temporary respite.[[ ^108 ]] It was this high degree of agricultural productivity in the south that enabled the growth of the highest population densities in the world at this time, giving Akkad its military advantage.
+
+The [[ water table ]] in this region was very high and replenished regularly—by winter storms in the headwaters of the Tigris and Euphrates from October to March and from snow-melt from March to July. Flood levels, that had been stable from about 3,000 to 2,600 BC, had started falling, and by the Akkadian period were a half-meter to a meter lower than recorded previously. Even so, the flat country and weather uncertainties made flooding much more unpredictable than in the case of the Nile; serious deluges seem to have been a regular occurrence, requiring constant maintenance of irrigation ditches and drainage systems. Farmers were recruited into regiments for this work from August to October—a period of food shortage—under the control of city temple authorities, thus acting as a form of unemployment relief. [[ Gwendolyn Leick ]] has[[ ^109 ]] suggested that this was Sargon's original employment for the king of Kish, giving him experience in effectively organising large groups of men; a tablet reads, "Sargon, the king, to whom Enlil permitted no rival—5,400 warriors ate bread daily before him".[[ ^110 ]]
+
+Harvest was in the late spring and during the dry summer months. [[ Nomadic | nomad ]] [[ Amorites ]] from the northwest pastured their flocks of sheep and goats to graze on the [[ crop residue ]] and were watered from the river and irrigation canals. For this privilege, they had to pay a tax in [[ wool ]], [[ meat ]], [[ milk ]], and [[ cheese ]] to the temples, who distributed these products to the bureaucracy and priesthood. In good years, all went well, but in bad years, wild winter pastures were in short supply, nomads sought to pasture their flocks in the grain fields, resulting in conflicts with farmers. It appeared that the subsidizing of southern populations by the import of wheat from the north of the Empire temporarily overcame this problem,[[ ^111 ]] and it seems to have allowed economic recovery and a growing population within this region.
+
+== Foreign trade
+
+As a result of their economic and agricultural policies, Sumer and Akkad had a surplus of agricultural products but was short of almost everything else, particularly metal ores, timber and building stone, all of which had to be imported. The spread of the Akkadian state as far as the "silver mountain" (possibly the [[ Taurus Mountains ]]), the "cedars" of Lebanon, and the copper deposits of Magan, was largely motivated by the goal of securing control over these imports. One tablet, an Old Babylonian Period copy of an original inscription, reads:
+
+<blockquote
+  "Sargon, the king of Kish, triumphed in thirty-four battles (over the cities)
+  up to the edge of the sea (and) destroyed their walls. He made the ships from
+  [[ Meluhha ]], the ships from [[ Magan | magan-civilization ]] (and) the ships
+  from [[ Dilmun ]] tie up alongside the quay of Agade. Sargon the king
+  prostrated himself before (the god) Dagan (and) made supplication to him;
+  (and) he (Dagan) gave him the upper land, namely Mari, Yarmuti, (and) Ebla, up
+  to the Cedar Forest (and) up to the Silver Mountain"
+
+— Inscription by [[ Sargon of Akkad ]] (ca.2270–2215 BC)[[ ^112 ]][[ ^113 ]][[ ^114 ]][[ ^115 ]]
+
+International trade developed during the Akkadian period. [[ Indus–Mesopotamia relations ]] also seem to have expanded: [[ Sargon of Akkad ]] (circa 2300 or 2250 BC), was the first Mesopotamian ruler to make an explicit reference to the region of [[ Meluhha ]], which is generally understood as being the [[ Balochistan ]] or the [[ Indus ]] area.[[ ^114 ]]
+
+== Culture
+
+
+
+== Akkadian art
+
+In art, there was a great emphasis on the kings of the dynasty, alongside much that continued earlier Sumerian art. Little architecture remains. In large works and small ones such as seals, the degree of realism was considerably increased,[[ ^117 ]] but the seals show a "grim world of cruel conflict, of danger and uncertainty, a world in which man is subjected without appeal to the incomprehensible acts of distant and fearful divinities who he must serve but cannot love. This sombre mood \... remained characteristic of Mesopotamian art\..."[[ ^118 ]]
+
+Akkadian sculpture is remarkable for its fineness and realism, which shows a clear advancement compared to the previous period of [[ Sumerian art ]].[[ ^119 ]][[ ^120 ]] Surviving examples include:
+
+- The Nasiriyah Victory Stele of Naram-Sin: a soldier with sword, naked captives, on the Nasiriyah stele of [[ Naram-Sin | naram-sin-of-akkad ]].[[ ^116 ]]
+
+- The [[ Bassetki statue ]], another example of Akkadian artistic realism
+
+- The [[ Manishtushu ]] statue
+
+- Statue of an Akkadian ruler. From Assur, Iraq, c. 2300 BC. Pergamon Museum.
+
+- Fragment of the statue of a devotee, with inscription in the name of Naram-Sin: "To the god Erra, for the life of Naram-Sin, the powerful, his companion, the king of the four regions, Shu'astakkal, the scribe, the majordomo, has dedicated his statue".[[ ^121 ]]
+
+== Seals
+
+The Akkadians used visual arts as a vehicle of ideology. They developed a new style for cylinder seals by reusing traditional animal decorations but organizing them around inscriptions, which often became central parts of the layout. The figures also became more sculptural and naturalistic. New elements were also included, especially in relation to the rich Akkadian mythology. Among the surviving seals:
+
+- Inscription "Adda, the scribe", hunting god with bow and an arrow, [[ Ishtar ]] with weapons rising from her shoulders, emerging sun-god [[ Shamash ]], [[ Zu | zu-mythology ]] bird of destiny, water god [[ Ea | ea-babylonian-god ]] with bull between legs, two-faced attendant god Usimu with right hand raised.[[ ^122 ]]
+
+- Akkadian seal depicting an agricultural scene. Louvre Museum
+
+- Summer God and [[ Dumuzi ]]. Louvre Museum
+
+- [[ Ea | ea-babylonian-god ]] wrestling with a water buffalo, and bull-man [[ Enkidu ]] fighting with a lion.
+
+== Language
+
+During the 3rd millennium BC, there developed a very intimate cultural symbiosis between the Sumerians and the Akkadians, which included widespread [[ bilingualism | https://en.wiktionary.org/wiki/bilingualism ]].[[ ^123 ]] The influence of Sumerian on [[ Akkadian | akkadian-language ]] (and vice versa) is evident in all areas, from lexical borrowing on a massive scale, to syntactic, morphological, and phonological convergence.[[ ^123 ]] This has prompted scholars to refer to Sumerian and Akkadian in the third millennium as a //[[ sprachbund ]]//.[[ ^123 ]]
+
+Akkadian gradually replaced Sumerian as a spoken language somewhere around 2000 BC (the exact dating being a matter of debate),[[ ^124 ]] but Sumerian continued to be used as a sacred, ceremonial, literary, and scientific language in Mesopotamia until the 1st century AD.[[ ^125 ]][[ ^126 ]]
+
+== Poet–priestess Enheduanna
+
+Sumerian literature continued in rich development during the Akkadian period. [[ Enheduanna ]], the "wife (Sumerian //dam// = high priestess) of [[ Nanna | sin-mythology ]] [the Sumerian moon god] and daughter of Sargon"[[ ^127 ]] of the temple of Sin at Ur, who lived c. 2285–2250 BC, is the first poet in history whose name is known. Her known works include hymns to the goddess [[ Inanna ]], the //Exaltation of Inanna// and //In-nin sa-gur-ra//. A third work, the //Temple Hymns//, a collection of specific hymns, addresses the temples and their occupants, the deities to whom they were consecrated. The works of this poet are significant, because although they start out using the third person, they shift to the first person voice of the poet herself, and they mark a significant development in the use of cuneiform. As poet, princess, and priestess, she was a person who, according to William W. Hallo, "set standards in all three of her roles for many succeeding centuries"[[ ^128 ]]
+
+In the //Exultation of Inanna//,
+
+<blockquote
+  Enheduanna depicts Inanna as disciplining mankind as a goddess of battle. She
+  thereby unites the warlike Akkadian Ishtar's qualities to those of the gentler
+  Sumerian goddess of love and fecundity. She likens Inanna to a great storm
+  bird who swoops down on the lesser gods and sends them fluttering off like
+  surprised bats. Then, in probably the most interesting part of the hymn,
+  Enheduanna herself steps forward in the first person to recite her own past
+  glories, establishing her credibility, and explaining her present plight. She
+  has been banished as high priestess from the temple in the city of Ur and from
+  Uruk and exiled to the steppe. She begs the moon god Nanna to intercede for
+  her because the city of Uruk, under the ruler Lugalanne, has rebelled against
+  Sargon. The rebel, Lugalanne, has even destroyed the temple Eanna, one of the
+  greatest temples in the ancient world, and then made advances on his
+  sister-in-law.[[ ^129 ]]
+
+The kings of Akkad were legendary among later Mesopotamian civilizations, with Sargon understood as the prototype of a strong and wise leader, and his grandson Naram-Sin considered the wicked and impious leader (//Unheilsherrscher(ruler of mischief)// in the analysis of [[ Hans Gustav Güterbock ]]) who brought ruin upon his kingdom.[[ ^130 ]][[ ^131 ]]
+
+== Technology
+
+A tablet from the periods reads, "(From the earliest days) no-one had made a statue of lead, (but) Rimush king of Kish, had a statue of himself made of lead. It stood before Enlil; and it recited his (Rimush's) virtues to the idu of the gods". The copper [[ Bassetki Statue ]], cast with the [[ lost wax ]] method, testifies to the high level of skill that craftsmen achieved during the Akkadian period.[[ ^50 ]]
+
+[[ ^1 ]]: [[ Akkadian | akkadian-language ]]: //^^[[ URU | uru-cuneiform ]]^^Akkad [[ KI | ki-cuneiform ]]// "(city of) Akkad"; [[ Biblical Hebrew | biblical-hebrew-language ]]: אַכַּד //Akkad//.
+
+[[ ^2 ]]: Podany, Amanda H.; McGee, Marni (2005). [[ //The Ancient Near Eastern World// | https://books.google.se/books?id=vtiZFkkq6NkC&pg=PA59&dq=Sargon+first+empire&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&ovdme=1&sa=X&ved=2ahUKEwiZg4b9gr-UAxWCU1UIHS3LGkYQ6wF6BAgNEAU#v=onepage&q&f=false ]]. Oxford University Press. p. 60. ISBN [[ 978-0-19-522245-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-522245-6 ]].
+
+[[ ^3 ]]: [[ "Akkad" | https://www.collinsdictionary.com/dictionary/english/Akkad ]]. //[[ Collins English Dictionary ]]//. HarperCollins. OCLC [[ 1120411289 | https://search.worldcat.org/oclc/1120411289 ]].[[ "Akkad" | https://www.dictionary.com/browse/Akkad ]]. //[[ Dictionary.com Unabridged | dictionary.com ]]// (Online). n.d.Sumerian: //Agade//
+
+[[ ^4 ]]: Mish, Frederick C., Editor in Chief. "Akkad" //[[ Webster's Ninth New Collegiate Dictionary | //archive.org/details/webstersninthne000merr ]]//. ninth ed. Springfield, MA: Merriam-Webster 1985. ISBN [[ 0-87779-508-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-87779-508-8 ]]).
+
+[[ ^5 ]]: F Leo Oppenhiem – Ancient Mesopotamia
+
+[[ ^6 ]]: Liverani (1993), p. 3. "The factual criticism is that empires existed even before Akkad: or more properly that the term and concept of 'empire' has been recently applied (on not worse grounds than in the case of Akkad) to other older cases, from the Uruk of the late-Uruk period to the Ebla of the royal archives, to the very state formations of the Sumerian south in the period called in fact 'proto-imperial'. In no case is the Akkad empire an absolute novelty [\...] 'Akkad the first empire' is therefore subject to criticism not only as for the adjective 'first' but especially as for the noun 'empire'.
+
+[[ ^7 ]]: Wall-Romana, Christophe (1990). "An Areal Location of Agade". //Journal of Near Eastern Studies//. !!49!! (3): 205–245. doi:[[ 10.1086/373442 | https://doi.org/10.1086%2F373442 ]]. JSTOR [[ 546244 | https://www.jstor.org/stable/546244 ]]. S2CID [[ 161165836 | https://api.semanticscholar.org/CorpusID:161165836 ]].
+
+[[ ^8 ]]: [[ Weiss, Harvey | harvey-weiss ]] (1975), "Kish, Akkad and Agade", //Journal of the American Oriental Society//, !!95!! (3): 434–453, doi:[[ 10.2307/599355 | https://doi.org/10.2307%2F599355 ]], JSTOR [[ 599355 | https://www.jstor.org/stable/599355 ]]
+
+[[ ^9 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/mad1.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/mad1.pdf ]] I.J. Gelb, "Sargon Texts from the Diyala Region", Materials for the Assyrian Dictionary, vol. 1, Chicago, 1961
+
+[[ ^10 ]]: M. Molina, "Sargonic Cuneiform Tablets in the Real Academia de la Historia : The Carl L. Lippmann Collection", Real Academia de la Historia, 2014 ISBN [[ 978-8415069713 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-8415069713 ]]
+
+[[ ^11 ]]: Foster, Benjamin R., "Archives and Record-keeping in Sargonic Mesopotamia", ZAVA, vol. 72, no. 1, pp. 1–27, 1982
+
+[[ ^12 ]]: Markina, Ekaterina, "Akkadian of the Me-ság Archive", in Babel und Bibel 6, edited by Leonid E. Kogan, N. Koslova, S. Loesov and S. Tishchenko, University Park, US: Penn State University Press, pp. 169–188, 2012
+
+[[ ^13 ]]: Susan Jane Bridges, The Mesag Archive: A Study of Sargonic Society and Economy, Yale University Dissertation, 1981
+
+[[ ^14 ]]: Robson, Eleanor, and Gábor Zólyomi, "Mesag reports a murder: cuneiform tablets in the collections of Norwich Castle Museum and Cambridge University Library", Iraq 76, pp. 189–203, 2014
+
+[[ ^15 ]]: Visicato, Giuseppe, "The Sargonic Archive of Tell El-Suleimah", Journal of Cuneiform Studies, vol. 51, pp. 17–30, 1999
+
+[[ ^16 ]]: Foster, Benjamin R., "The Sargonic Victory Stele from Telloh", Iraq, vol. 47, pp. 15–30, 1985
+
+[[ ^17 ]]: Douglas R. Frayne, The Sargonic and Gutian Periods (2334–2113), University of Toronto Press, 1993, ISBN [[ 0-8020-0593-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8020-0593-4 ]]
+
+[[ ^18 ]]: Eppihimer, Melissa, "Assembling King and State: The Statues of Manishtushu and the Consolidation of Akkadian Kingship", American Journal of Archaeology, vol. 114, no. 3, pp. 365–80, 2010
+
+[[ ^19 ]]: Ebeling, E. and Meissner, B., "Reallexikon der Assyriologie (RIA-2), Berlin, 1938
+
+[[ ^20 ]]: Horsnell, Malcolm J. A., "Why Year-Names? An Exploration into the Reasons for Their Use", Orientalia, vol. 72, no. 2, pp. 196–203, 2003
+
+[[ ^21 ]]: [[ Marcel Sigrist and Peter Damerow, "Mesopotamian Year Names", Cuneiform Digital Library Initiative, 2001 | https://cdli-gh.github.io/year-names/HTML/T2K1.htm ]]
+
+[[ ^22 ]]: Alkhafaji, Nashat Ali Omran, "A Double Date Formula of the Old Akkadian King Manishtusu", Journal of Cuneiform Studies, vol. 71, pp. 3–9, 2019
+
+[[ ^23 ]]: Lambert, Wilfred G., "Babylon: Origins". Babylon: Wissenskultur in Orient und Okzident", edited by Eva Cancik-Kirschbaum, Margarete van Ess and Joachim Marzahn, Berlin, Boston: De Gruyter, pp. 71–76, 2011
+
+[[ ^24 ]]: Buccellati, Giorgio; Kelly-Buccellati, Marilyn (2002). [[ "Tar'am-Agade, Daughter of Naram-Sin, at Urkesh" | https://urkesh.org/EL-MZ/Buccellati_and_Kelly-Buccellati_2002_Taram_Agade_Daughter_-_MDOG_133.pdf ]] (PDF). In Al-Gailani Werr, Lamia (ed.). //Of Pots and Plans. Papers on the Archaeology and History of Mesopotamia and Syria presented to David Oates in Honour of his 75th Birthday//. London: Nabu. pp. 11–31. ISBN [[ 978-1-897750-62-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-897750-62-9 ]].
+
+[[ ^25 ]]: Mallowan, M. E. L. (1936). "The Bronze Head of the Akkadian Period from Nineveh". //Iraq//. !!3!! (1): 104–110. doi:[[ 10.2307/4241589 | https://doi.org/10.2307%2F4241589 ]]. JSTOR [[ 4241589 | https://www.jstor.org/stable/4241589 ]]. S2CID [[ 130446624 | https://api.semanticscholar.org/CorpusID:130446624 ]].
+
+[[ ^26 ]]: Kidner, Frank L.; Bucur, Maria; Mathisen, Ralph; McKee, Sally; Weeks, Theodore R. (2007). [[ //Making Europe: People, Politics, and Culture// | https://books.google.com/books?id=HumKY7fn9cMC&pg=PA15 ]]. Cengage Learning. p. 15. ISBN [[ 978-0-618-00479-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-618-00479-9 ]].
+
+[[ ^27 ]]: Westenholz, Joan Goodnick, "Heroes of Akkad", Journal of the American Oriental Society, vol. 103, no. 1, pp. 327–36, 1983
+
+[[ ^28 ]]: Tinney, Steve, "A New Look at Naram-Sin and the 'Great Rebellion'", Journal of Cuneiform Studies, vol. 47, pp. 1–14, 1995
+
+[[ ^29 ]]: Michalowski, Piotr, "New Sources Concerning the Reign of Naram-Sin", Journal of Cuneiform Studies, vol. 32, no. 4, pp. 233–46, 1980
+
+[[ ^30 ]]: Westenholz, Joan Goodnick, "Naram-Sin and the Enemy Hordes": The "Cuthean Legend" of Naram-Sin", Legends of the Kings of Akkade: The Texts, University Park, USA: Penn State University Press, pp. 263–368, 1997
+
+[[ ^31 ]]: [[ "The Electronic Text Corpus of Sumerian Literature" | http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.1.5 ]].
+
+[[ ^32 ]]: Cooper, Jerrold S., The Curse of Agade., The Johns Hopkins University Press: Baltimore/London, 1983
+
+[[ ^33 ]]: Jacobsen, Thorkild, The Harps that Once .... Sumerian Poetry in Translation. Yale University Press: New Haven/London, 1987
+
+[[ ^34 ]]: Lenzi, Alan, "Legends of Akkadian Kings", in An Introduction to Akkadian Literature: Contexts and Content, University Park, US: Penn State University Press, pp. 123–132, 2019
+
+[[ ^35 ]]: E. A. Speiver, "Akkadian Myths and Epics", in Ancient Near Eastern Texts Relating to the Old Testament with Supplement, edited by James B. Pritchard, Princeton: Princeton University Press, pp. 60–119, 1955
+
+[[ ^36 ]]: Albright, W. F., "A Babylonian Geographical Treatise on Sargon of Akkad's Empire", Journal of the American Oriental Society, vol. 45, pp. 193–245, 1925
+
+[[ ^37 ]]: Al-Rawi, F. N. H. "Tablets from the Sippar Library. I. The 'Weidner Chronicle': A Supposititious Royal Letter Concerning a Vision." Iraq, vol. 52, pp. 1–13, 1990
+
+[[ ^38 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip129.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip129.pdf ]] Augusta McMahon, "Nippur V. The Early Dynastic to Akkadian Transition: The Area WF Sounding at Nippur", Oriental Institute Publications 129, Chicago: The Oriental Institute, 2006 ISBN [[ 1-885923-38-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-885923-38-4 ]]
+
+[[ ^39 ]]: [[ https://digital.csic.es/bitstream/10261/234857/1/2019-Palace_Adab_Sargonic_period.pdf | https://digital.csic.es/bitstream/10261/234857/1/2019-Palace_Adab_Sargonic_period.pdf ]] M. Molina, "The palace of Adab during the Sargonic period", D. Wicke (ed.), Der Palast im antiken und islamischen Orient, Colloquien der Deutschen Orient-Gesellschaft 9, Wiesbaden: Harrassowitz, pp. 151–20, 2019
+
+[[ ^40 ]]: Margueron, Jean-Claude, "The Kingdom of Mari", In Crawford, Harriet (ed.). The Sumerian World. Translated by Crawford, Harriet. Routledge, 2013 ISBN [[ 978-1-136-21912-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-136-21912-2 ]]
+
+[[ ^41 ]]: Freedman, Nadezhda, "The Nuzi Ebla", The Biblical Archaeologist, 40 (1), pp. 32–33, 1977
+
+[[ ^42 ]]: Archi, Alfonso, "Ebla and Its Archives: Texts, History, and Society", Walter de Gruyter, 2015 ISBN [[ 978-1-61451-788-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61451-788-7 ]]
+
+[[ ^43 ]]: Gibson, McGuire, "A Re-Evaluation of the Akkad Period in the Diyala Region on the Basis of Recent Excavations at Nippur and in the Hamrin", American Journal of Archaeology, vol. 86, no. 4, pp. 531–38, 1982
+
+[[ ^44 ]]: J. Oates (2004), pp. [[ 5 | https://books.google.com/books?id=EnQ8W6AmCq0C&pg=PA5 ]]–8. "Following the destruction of the city sometime in the twenty-third century BC, Nagar was rebuilt by officials of the Akkadian Dynasty as a major centre of their provincial administration, a fact clearly attested in the cuneiform documents from this site."
+
+[[ ^45 ]]: Oates, David; Oates, Joan (1989). "Akkadian Buildings at Tell Brak". //Iraq//. !!51!!: 193–211. doi:[[ 10.2307/4200303 | https://doi.org/10.2307%2F4200303 ]]. JSTOR [[ 4200303 | https://www.jstor.org/stable/4200303 ]]. S2CID [[ 162449952 | https://api.semanticscholar.org/CorpusID:162449952 ]].
+
+[[ ^46 ]]: Schrakamp, Ingo (2013). "Sargon of Akkad and his dynasty". In Bagnall, Roger S. (ed.). //The Encyclopedia of Ancient History//. Chicago: Blackwell. pp. 6045–6047. doi:[[ 10.1002/9781444338386.wbeah24182 | https://doi.org/10.1002%2F9781444338386.wbeah24182 ]]. ISBN [[ 978-1-4443-3838-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4443-3838-6 ]].
+
+[[ ^47 ]]: Pruß, Alexander (2004), "Remarks on the Chronological Periods", in Lebeau, Marc; Sauvage, Martin (eds.), //Atlas of Preclassical Upper Mesopotamia//, Subartu, vol. 13, pp. 7–21, ISBN [[ 978-2-503-99120-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-2-503-99120-7 ]]
+
+[[ ^48 ]]: Steinkeller, P., "An Ur III manuscript of the Sumerian King List", in: W. Sallaberger [e.a.] (ed.), Literatur, Politik und Recht in Mesopotamien. Festschrift fü r Claus Wilcke. OBC 14. Wiesbaden, 267–29, 2003
+
+[[ ^49 ]]: Thomas, Ariane. "The Akkadian Royal Image: On a Seated Statue of Manishtushu" Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 105, no. 1-2, 2015, pp. 86–117
+
+[[ ^50 ]]: [[ van de Mieroop, M. | marc-van-de-mieroop ]] (2007). //A History of the Ancient Near East, ca. 3000–323 BC//. Malden: Blackwell. ISBN [[ 978-0-631-22552-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-631-22552-2 ]].
+
+[[ ^51 ]]: Foster, Benjamin R. (2015). [[ //The Age of Agade: Inventing Empire in Ancient Mesopotamia// | https://books.google.com/books?id=O680CwAAQBAJ&pg=PA3 ]]. Routledge. p. 3. ISBN [[ 978-1-317-41552-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-317-41552-7 ]].
+
+[[ ^52 ]]: Nigro, Lorenzo (1998). "The Two Steles of Sargon: Iconology and Visual Propaganda at the Beginning of Royal Akkadian Relief". //Iraq//. !!60!!. British Institute for the Study of Iraq: 92. doi:[[ 10.2307/4200454 | https://doi.org/10.2307%2F4200454 ]]. hdl:[[ 11573/109737 | https://hdl.handle.net/11573%2F109737 ]]. JSTOR [[ 4200454 | https://www.jstor.org/stable/4200454 ]]. S2CID [[ 193050892 | https://api.semanticscholar.org/CorpusID:193050892 ]].
+
+[[ ^53 ]]: Nigro, Lorenzo (1998). "The Two Steles of Sargon: Iconology and Visual Propaganda at the Beginning of Royal Akkadian Relief". //Iraq//. !!60!!. British Institute for the Study of Iraq: 93–94. doi:[[ 10.2307/4200454 | https://doi.org/10.2307%2F4200454 ]]. hdl:[[ 11573/109737 | https://hdl.handle.net/11573%2F109737 ]]. JSTOR [[ 4200454 | https://www.jstor.org/stable/4200454 ]]. S2CID [[ 193050892 | https://api.semanticscholar.org/CorpusID:193050892 ]].
+
+[[ ^54 ]]: Foster, Benjamin R. (2013), "Akkad (Agade)", in Bagnall, Roger S. (ed.), //The Encyclopedia of Ancient History//, Chicago: Blackwell, pp. 266–267, doi:[[ 10.1002/9781444338386.wbeah01005 | https://doi.org/10.1002%2F9781444338386.wbeah01005 ]], ISBN [[ 978-1-4443-3838-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4443-3838-6 ]]
+
+[[ ^55 ]]: [[ Georges Roux ]] (1996), //Ancient Iraq// (3rd Edition)(Penguin Harmondsworth)
+
+[[ ^56 ]]: Stiebing, H. William Jr. (2009). //Ancient Near Eastern History and Culture//. Pearson Longman; University of New Orleans. p. 69.
+
+[[ ^57 ]]: //Sargon//, doi:[[ 10.1163/1574-9347_bnp_e1101500 | https://doi.org/10.1163%2F1574-9347_bnp_e1101500 ]]
+
+[[ ^58 ]]: Samuel Noah Kramer, //The Sumerians//, Chicago University Press, 1971, ISBN [[ 0-226-45238-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-226-45238-7 ]]
+
+[[ ^59 ]]: Stiebing, H. William Jr. (2009). //Ancient Near Eastern History and Culture//. Pearson Longman; University of New Orleans. p. 70.
+
+[[ ^60 ]]: Potts, D. T. (1999). [[ //The Archaeology of Elam: Formation and Transformation of an Ancient Iranian State// | https://books.google.com/books?id=mc4cfzkRVj4C&pg=PA104 ]]. Cambridge University Press. p. 104. ISBN [[ 978-0-521-56496-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-521-56496-0 ]].
+
+[[ ^61 ]]: Harper, Prudence O. (1992). [[ //Royal City of Susa: Ancient Near Eastern Treasures in the Louvre// | https://archive.org/details/RoyalCityofSusaAncientNearEasternTreasuresintheLouvre ]]. Metropolitan Museum of Art. pp. [[ 162 | https://archive.org/details/RoyalCityofSusaAncientNearEasternTreasuresintheLouvre/page/n182 ]]–163.
+
+[[ ^62 ]]: Nigro, Lorenzo (1998). "The Two Steles of Sargon: Iconology and Visual Propaganda at the Beginning of Royal Akkadian Relief". //Iraq//. !!60!!. British Institute for the Study of Iraq: 85–102. doi:[[ 10.2307/4200454 | https://doi.org/10.2307%2F4200454 ]]. hdl:[[ 11573/109737 | https://hdl.handle.net/11573%2F109737 ]]. JSTOR [[ 4200454 | https://www.jstor.org/stable/4200454 ]]. S2CID [[ 193050892 | https://api.semanticscholar.org/CorpusID:193050892 ]].
+
+[[ ^63 ]]: Dalley proposes that these sources may have originally referred to [[ Sargon II ]] of the Assyria rather than Sargon of Akkad. Stephanie Dalley, "Babylon as a Name for Other Cities Including Nineveh", in [[ http://oi.uchicago.edu/pdf/saoc62.pdf | http://oi.uchicago.edu/pdf/saoc62.pdf ]] Archived 30 July 2012 at the [[ Wayback Machine ]]// Proceedings of the 51st [[ Rencontre Assyriologique Internationale ]]//, Oriental Institute SAOC 62, pp. 25–33, 2005
+
+[[ ^64 ]]: Stiebing, H. William Jr. (2009). //Ancient Near Eastern History and Culture//. Pearson Longman; University of New Orleans. p. 71.
+
+[[ ^65 ]]: [[ "Musée du Louvre-Lens – Portail documentaire – Stèle de victoire du roi Rimush (?)" | http://ressources.louvrelens.fr/EXPLOITATION/oeuvre-ao-2678.aspx ]]. //ressources.louvrelens.fr// (in French).
+
+[[ ^66 ]]: Hamblin, William J. (2006). [[ //Warfare in the Ancient Near East to 1600 BC: Holy Warriors at the Dawn of History// | https://books.google.com/books?id=biyDDd0uKGMC&pg=PT93 ]]. Routledge. pp. 93–94. ISBN [[ 978-1-134-52062-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-134-52062-6 ]].
+
+[[ ^67 ]]: Crowe, D. (2014). [[ //War Crimes, Genocide, and Justice: A Global History// | https://books.google.com/books?id=tSnFAgAAQBAJ&pg=PT10 ]]. Springer. p. 10. ISBN [[ 978-1-137-03701-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-137-03701-5 ]].
+
+[[ ^68 ]]: Stiebing, H. William Jr. (2009). //Ancient Near Eastern History and Culture//. Pearson Longman; University of New Orleans. p. 72.
+
+[[ ^69 ]]: Stiebing, H. William Jr. (2009). //Ancient Near Eastern History and Culture//. Pearson Longman. p. 74. ISBN [[ 978-0-321-42297-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-321-42297-2 ]].
+
+[[ ^70 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/ois4.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/ois4.pdf ]] Piotr Michalowski, "The Mortal Kings of Ur: A Short Century of Divine Rule in Ancient Mesopotamia", in Religion and Power: Divine Kingship in the Ancient World and Beyond – Nicole Brisch ed., pp. 33–45, Oriental Institute Seminars 4, Chicago: The Oriental Institute, 2012 ISBN [[ 978-1-885923-55-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-885923-55-4 ]]
+
+[[ ^71 ]]: Tinney, Steve (1995). "A New Look at Naram-Sin and the Great Rebellion". //Journal of Cuneiform Studies//. !!47!!: 1–14. doi:[[ 10.2307/1359810 | https://doi.org/10.2307%2F1359810 ]]. JSTOR [[ 1359810 | https://www.jstor.org/stable/1359810 ]]. S2CID [[ 163629316 | https://api.semanticscholar.org/CorpusID:163629316 ]].
+
+[[ ^72 ]]: Otto, Adelheid (2006). "Archaeological Perspectives on the Localization of Naram-Sin's Armanum". //Journal of Cuneiform Studies//. !!58!!: 1–26. doi:[[ 10.1086/JCS40025220 | https://doi.org/10.1086%2FJCS40025220 ]]. S2CID [[ 163490130 | https://api.semanticscholar.org/CorpusID:163490130 ]].
+
+[[ ^73 ]]: Fagan, Brian (2004). //The Long Summer: how climate changed civilisation//. Granta Books. ISBN [[ 1-86207-644-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-86207-644-8 ]].
+
+[[ ^74 ]]: Burroughs, William J. (2008). //Climate Change in Prehistory: The end of the age of chaos//. Cambridge University Press. ISBN [[ 978-0-521-07010-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-521-07010-2 ]].
+
+[[ ^75 ]]: Ulanowski, Krzysztof, "The Rituals of Power: The Akkadian Tradition in Neo-Assyrian Policy", Tradition and Innovation in the Ancient Near East. Ed. by A. Arch, Winona Lake, Indiana Eisenbrauns, pp. 237-250, 2015
+
+[[ ^76 ]]: [[ "Sumerian Dictionary" | https://web.archive.org/web/20200301170519/http://oracc.iaas.upenn.edu/epsd2/cbd/sux/A.html ]]. //oracc.iaas.upenn.edu//. Archived from [[ the original | http://oracc.iaas.upenn.edu/epsd2/cbd/sux/A.html ]] on 1 March 2020. Retrieved 3 April 2020.
+
+[[ ^77 ]]: Radau, Hugo (2005). [[ //Early Babylonian History: Down to the End of the Fourth Dynasty of Ur// | https://books.google.com/books?id=8HVLAwAAQBAJ&pg=PA7 ]]. Wipf and Stock Publishers. pp. 6–7. ISBN [[ 978-1-59752-381-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-59752-381-3 ]].
+
+[[ ^78 ]]: Woolley, Leonard (1938). [[ //The Summerians// | https://archive.org/details/in.ernet.dli.2015.166848 ]]. p. [[ 83 | https://archive.org/details/in.ernet.dli.2015.166848/page/n130 ]].
+
+[[ ^79 ]]: //The Art Of Ancient Mesopotamia ( Art Ebook)//. p. 53.
+
+[[ ^80 ]]: [[ "CDLI-Archival View RT 165" | https://cdli.ucla.edu/search/archival_view.php?ObjectID=P216941 ]]. //cdli.ucla.edu//.
+
+[[ ^81 ]]: [[ //The Cambridge Ancient History// | https://books.google.com/books?id=KorxAAAAMAAJ ]]. Cambridge University Press. 1971. p. 436. ISBN [[ 978-0-521-07791-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-521-07791-0 ]].
+
+[[ ^82 ]]: Álvarez-Mon, Javier; Basello, Gian Pietro; Wicks, Yasmina (2018). [[ //The Elamite World// | https://books.google.com/books?id=yClKDwAAQBAJ&pg=PT254 ]]. Routledge. p. 254. ISBN [[ 978-1-317-32983-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-317-32983-1 ]].
+
+[[ ^83 ]]: [[ //The Cambridge Ancient History// | https://books.google.com/books?id=KorxAAAAMAAJ ]]. Cambridge University Press. 1971. p. 998. ISBN [[ 978-0-521-07791-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-521-07791-0 ]].
+
+[[ ^84 ]]: Zettler (2003), pp. 24–25.
+
+[[ ^85 ]]: Kraus, Nicholas, "The Weapon of Blood: Politics and Intrigue at the Decline of Akkad", Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 108, no. 1, pp. 1–9, 2018
+
+[[ ^86 ]]: Badamchi, Hossein, "The Burden of Proof in Neo-Sumerian Law: A New Look at the Gutian Period in Codex Ur-Namma", Journal of Near Eastern Studies 84.2, pp. 315-332, 2025
+
+[[ ^87 ]]: [[ "CDLI-Found Texts" | https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&requestFrom=Search&DatesReferenced=dudu ]]. //cdli.ucla.edu//.
+
+[[ ^88 ]]: [[ "Cylinder Seal with King or God and Vanquished Lion" | http://art.thewalters.org/detail/4594 ]]. [[ The Walters Art Museum ]].
+
+[[ ^89 ]]: Norman Yoffee, "The Collapse of Ancient Mesopotamian States and Civilization", in The Collapse of Ancient States and Civilizations, ed. Norman Yoffee and George L. Cowgill, University of Arizona Press, 1991
+
+[[ ^90 ]]: Richard A. Kerr (1998). "Sea-Floor Dust Shows Drought Felled Akkadian Empire". //Science//. !!279!! (5349): 325–326. Bibcode:[[ 1998Sci\...279..325K | https://ui.adsabs.harvard.edu/abs/1998Sci...279..325K ]]. doi:[[ 10.1126/science.279.5349.325 | https://doi.org/10.1126%2Fscience.279.5349.325 ]]. S2CID [[ 140563513 | https://api.semanticscholar.org/CorpusID:140563513 ]].
+
+[[ ^91 ]]: Weiss, H; et al. (1993). [[ "The Genesis and Collapse of Third Millennium North Mesopotamian Civilization" | http://revistas.ucm.es/index.php/ILUR/article/view/61022 ]]. //Science//. !!261!! (5124): 995–1004. Bibcode:[[ 1993Sci\...261..995W | https://ui.adsabs.harvard.edu/abs/1993Sci...261..995W ]]. doi:[[ 10.1126/science.261.5124.995 | https://doi.org/10.1126%2Fscience.261.5124.995 ]]. PMID [[ 17739617 | https://pubmed.ncbi.nlm.nih.gov/17739617 ]]. S2CID [[ 31745857 | https://api.semanticscholar.org/CorpusID:31745857 ]].
+
+[[ ^92 ]]: Wiener, Malcolm H. (2014). "The Interaction of Climate Change and Agency in the Collapse of Civilizations ca. 2300–2000 BC". //Radiocarbon//. !!56!! (4): S1–S16. Bibcode:[[ 2014Radcb..56S\...1W | https://ui.adsabs.harvard.edu/abs/2014Radcb..56S...1W ]]. doi:[[ 10.2458/azu_rc.56.18325 | https://doi.org/10.2458%2Fazu_rc.56.18325 ]]. S2CID [[ 128775473 | https://api.semanticscholar.org/CorpusID:128775473 ]].
+
+[[ ^93 ]]: de Menocal, P.B. (30 June 2000). "North Atlantic influence on Tigris–Euphrates streamflow". //International Journal of Climatology//. !!20!! (8): 853–863. Bibcode:[[ 2000IJCli..20..853C | https://ui.adsabs.harvard.edu/abs/2000IJCli..20..853C ]]. doi:[[ 10.1002/1097-0088(20000630)20:8<853::AID-JOC497>3.0.CO;2-M | https://doi.org/10.1002%2F1097-0088%2820000630%2920%3A8%3C853%3A%3AAID-JOC497%3E3.0.CO%3B2-M ]].
+
+[[ ^94 ]]: Cookson, Evangeline; Hill, Daniel J.; Lawrence, Dan (1 June 2019). [[ "Impacts of long term climate change during the collapse of the Akkadian Empire" | http://eprints.whiterose.ac.uk/145596/ ]]. //Journal of Archaeological Science//. !!106!!: 1–9. Bibcode:[[ 2019JArSc.106....1C | https://ui.adsabs.harvard.edu/abs/2019JArSc.106....1C ]]. doi:[[ 10.1016/j.jas.2019.03.009 | https://doi.org/10.1016%2Fj.jas.2019.03.009 ]]. ISSN [[ 0305-4403 | https://search.worldcat.org/issn/0305-4403 ]]. S2CID [[ 133772098 | https://api.semanticscholar.org/CorpusID:133772098 ]]. Archived from [[ the original | http://www.sciencedirect.com/science/article/pii/S0305440318306198 ]] on 2 May 2019.
+
+[[ ^95 ]]: [[ "Cylinder Seal of Ibni-Sharrum" | https://www.louvre.fr/en/oeuvre-notices/cylinder-seal-ibni-sharrum ]]. //Louvre Museum//.
+
+[[ ^96 ]]: [[ "Site officiel du musée du Louvre" | http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=12067 ]]. //cartelfr.louvre.fr//.
+
+[[ ^97 ]]: Brown, Brian A.; Feldman, Marian H. (2013). [[ //Critical Approaches to Ancient Near Eastern Art// | https://books.google.com/books?id=F4DoBQAAQBAJ&pg=PA187 ]]. Walter de Gruyter. p. 187. ISBN [[ 978-1-61451-035-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61451-035-2 ]].
+
+[[ ^98 ]]: Christie, Peter (2008) //The Curse of Akkad: Climate upheavals that rocked human history//, Annick Press, pp. 31–48
+
+[[ ^99 ]]: deMenocal, Peter B. (2001). [[ "Cultural responses to climate change during the late Holocene" | https://www.ldeo.columbia.edu/~peter/site/Papers_files/deMenocal.2001.pdf ]] (PDF). //Science//. !!292!! (5517): 667–673. Bibcode:[[ 2001Sci\...292..667D | https://ui.adsabs.harvard.edu/abs/2001Sci...292..667D ]]. doi:[[ 10.1126/science.1059827 | https://doi.org/10.1126%2Fscience.1059827 ]]. PMID [[ 11303088 | https://pubmed.ncbi.nlm.nih.gov/11303088 ]]. S2CID [[ 18642937 | https://api.semanticscholar.org/CorpusID:18642937 ]].
+
+[[ ^100 ]]: "[[ Climate change and the collapse of the Akkadian empire: Evidence from the deep sea | https://www.ldeo.columbia.edu/~peter/site/Papers_files/Cullen.et.al.2000.pdf ]]" //Geology// 28(4), April 2000.
+
+[[ ^101 ]]: Zettler (2003), pp. 18–21.
+
+[[ ^102 ]]: J. Oates (2004), p. [[ 11 | https://books.google.com/books?id=EnQ8W6AmCq0C&pg=PA11 ]]–13. "A French soil-micromorphologist, Marie-Agnès Courty, a leading figure in assessing the evidence for this 'event', has now identified at Brak the earliest clearly dated Near Eastern soil 'signal' in a level unquestionably preceding the construction of Naram-Sin's Palace, that is, well before the collapse of the Akkadian Empire (see Courty 2001 and associated bibliography)."
+
+[[ ^103 ]]: Watanabe, Takaaki K.; Watanabe, Tsuyoshi; Yamazaki, Atsuko; Pfeiffer, Miriam (2019). [[ "Oman corals suggest that a stronger winter shamal season caused the Akkadian Empire (Mesopotamia) collapse" | https://pubs.geoscienceworld.org/gsa/geology/article-pdf/47/12/1141/4870170/1141.pdf ]] (PDF). //Geology//. !!47!! (12). GeoScienceWorld: 1141–1145. Bibcode:[[ 2019Geo....47.1141W | https://ui.adsabs.harvard.edu/abs/2019Geo....47.1141W ]]. doi:[[ 10.1130/G46604.1 | https://doi.org/10.1130%2FG46604.1 ]]. S2CID [[ 204781389 | https://api.semanticscholar.org/CorpusID:204781389 ]].
+
+[[ ^104 ]]: [[ "Strong winter dust storms may have caused the collapse of the Akkadian Empire" | https://www.global.hokudai.ac.jp/blog/strong-winter-dust-storms-may-have-caused-the-collapse-of-the-akkadian-empire/ ]]. //Hokkaido University// (Press release). 24 October 2019.
+
+[[ ^105 ]]: Leick, Gwendolyn (2001) "Mesopotamia: Invention of the City" (Penguin Books)
+
+[[ ^106 ]]: [[ http://128.97.6.202/attach/Buccellati%202002%20Taram%20Agade%20Daughter%20of%20Naram%20Sin.pdf | http://128.97.6.202/attach/Buccellati%202002%20Taram%20Agade%20Daughter%20of%20Naram%20Sin.pdf ]] Archived 10 October 2017 at the [[ Wayback Machine ]] Tar'am-Agade, Daughter of Naram-Sin, at Urkesh, Buccellati, Giorgio and Marilyn Kelly-Buccellati, in of Pots and Plans. Papers on the Archaeology and History of Mesopotamia and Syria presented to David Oates in Honour of his 75th Birthday, London: Nabu Publications, 2002
+
+[[ ^107 ]]: J. Oates (2004), p. [[ 10 | https://books.google.com/books?id=EnQ8W6AmCq0C&pg=PA10 ]].
+
+[[ ^108 ]]: Thompson, William J. (2003), "Complexity, Diminishing Marginal Returns and Serial Mesopotamian Fragmentation," //Journal of World Systems Research//
+
+[[ ^109 ]]: Leick Gwendolyn (2003), "Mesopotamia: The invention of the city" (Penguin)
+
+[[ ^110 ]]: Kramer 1963:324, quoted in Charles Keith Maisels, //The Emergence of Civilization// ch. "The institutions of urbanism", 1990:179.
+
+[[ ^111 ]]: Bourke, Stephen (2008). //The Middle East: the cradle of civilization revealed//. Thames & Hudson. p. 89. ISBN [[ 978-0-500-25147-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-500-25147-8 ]].
+
+[[ ^112 ]]: Ray, Himanshu Prabha (2003). [[ //The Archaeology of Seafaring in Ancient South Asia// | https://books.google.com/books?id=iHHzP4uVpn4C&pg=PA85 ]]. Cambridge University Press. p. 85. ISBN [[ 978-0-521-01109-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-521-01109-9 ]].
+
+[[ ^113 ]]: [[ "The Indus Civilization and Dilmun, the Sumerian Paradise Land" | https://www.penn.museum/sites/expedition/the-indus-civilization-and-dilmun-the-sumerian-paradise-land/ ]]. //www.penn.museum//.
+
+[[ ^114 ]]: Reade, Julian E. (2008). [[ //The Indus-Mesopotamia relationship reconsidered (Gs Elisabeth During Caspers)// | https://www.academia.edu/28245304 ]]. Archaeopress. pp. 14–17. ISBN [[ 978-1-4073-0312-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4073-0312-3 ]].
+
+[[ ^115 ]]: Stein, Stephen K. (2017). //The Sea in World History: Exploration, Travel, and Trade [2 volumes]//. ABC-CLIO. p. 38. ISBN [[ 978-1-4408-3551-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4408-3551-3 ]].
+
+[[ ^116 ]]: McKeon, John F. X. (1970). "An Akkadian Victory Stele". //Boston Museum Bulletin//. !!68!! (354): 239. ISSN [[ 0006-7997 | https://search.worldcat.org/issn/0006-7997 ]]. JSTOR [[ 4171539 | https://www.jstor.org/stable/4171539 ]].
+
+[[ ^117 ]]: [[ Frankfort, Henri | henri-frankfort ]] (1970). //The art and architecture of the ancient Orient// (4th rev. impression with additional bibliography ed.). Penguin Books (now Yale History of Art). pp. 83–91. ISBN [[ 0-14-056107-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-14-056107-2 ]].
+
+[[ ^118 ]]: Frankfort 1970, p. 71.
+
+[[ ^119 ]]: [[ //Art of the First Cities: The Third Millennium B.C. from the Mediterranean to the Indus// | https://books.google.com/books?id=8l9X_3rHFdEC&pg=PA204 ]]. Metropolitan Museum of Art. 2003. pp. 204–205. ISBN [[ 978-1-58839-043-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-58839-043-1 ]].
+
+[[ ^120 ]]: McKeon, John F. X. (1970). "An Akkadian Victory Stele". //Boston Museum Bulletin//. !!68!! (354): 226–243. JSTOR [[ 4171539 | https://www.jstor.org/stable/4171539 ]].
+
+[[ ^121 ]]: [[ "Site officiel du musée du Louvre" | http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not&idNotice=12209 ]]. //cartelfr.louvre.fr//.
+
+[[ ^122 ]]: [[ "The Adda Seal" | https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=368706&partId=1&searchText=89115&page=1 ]]. //British Museum//.
+
+[[ ^123 ]]: [[ Deutscher, Guy | guy-deutscher-linguist ]] (2007). //Syntactic Change in Akkadian: The Evolution of Sentential Complementation//. [[ Oxford University Press US | oxford-university-press ]]. pp. 20–21. ISBN [[ 978-0-19-953222-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-953222-3 ]].
+
+[[ ^124 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/ois2_2007.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/ois2_2007.pdf ]], Christopher Woods, "Bilingualism, Scribal Learning, and the Death of Sumerian", in S.L. Sanders (ed) Margins of Writing, Origins of Culture, pp. 91–120, Oriental Institute Seminars 2, Chicago: The Oriental Institute, 2007 ISBN [[ 1-885923-39-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-885923-39-2 ]]
+
+[[ ^125 ]]: Cooper, J. S., "Sumerian and Akkadian in Sumer and Akkad", Orientalia, n.s., 42, pp. 239–46, 1973
+
+[[ ^126 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/ois2_2007.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/ois2_2007.pdf ]], Piotr Michalowski, "The Lives of the Sumerian Language", in S.L. Sanders (ed) Margins of Writing, Origins of Culture, pp. 163–190, Oriental Institute Seminars 2, Chicago: The Oriental Institute, 2007 ISBN [[ 1-885923-39-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-885923-39-2 ]]
+
+[[ ^127 ]]: Winter, Irene J. (1987), "Women in Public: The Disk of Enheduanna, The Beginning of the Office of En-Priestess, the Weight of the Visual Evidence". //La Femme dans le Proche-Orient Antique//. (Paris: Editions Recherche sur les Civilisations)
+
+[[ ^128 ]]: Enheduanna, //The Exaltation of Inanna//. Translated by William W. Hallo and J. J. A. Van Dijk,
+Ams Pr Inc, 1979, ISBN [[ 0-404-60263-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-404-60263-0 ]]
+
+[[ ^129 ]]: [[ https://www.feminism.researche-editions.cddc.vt.edu/Enheduanna.html | https://www.feminism.researche-editions.cddc.vt.edu/Enheduanna.html ]] Binkley, Roberta, "Enheduanna: An Overview of Her Writings", Feminist Theory Website, 1998
+
+[[ ^130 ]]: Jerrold S. Cooper, "Paradigm and Propaganda: The Dynasty of Akkade in the 21st Century", in Liverani, Mario, ed. Akkad: The First World Empire: Structure, Ideology Traditions, Padova: Sargon srl, 1993 ISBN [[ 978-8-81120-468-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-8-81120-468-8 ]]
+
+[[ ^131 ]]: Bill T. Arnold, "The Weidner Chronicle and the Idea of History in Israel and Mesopotamia"; in //Faith, Tradition, and History: Old Testament Historiography in Its Near Eastern Context//; [[ Millard | alan-millard ]], Hoffmeier & Baker, eds.; Winona Lake, Indiana: Eisenbrauns, 1994; ISBN [[ 0-931464-82-X | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-931464-82-X ]]; p. [[ 138 | https://books.google.com/books?id=qYudy66ymrUC&pg=PA138 ]].

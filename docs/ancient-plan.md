@@ -547,8 +547,64 @@ That is an honest answer and not a good one, and it is the single clearest
 argument for the rewrite schema: `image-plan` is the field that turns this
 section into figures where the words are.
 
+### Where it stopped
+
+**38 of 41 rewritten, and the session's model quota ran out.** Four pillar
+articles were in flight when the account hit its limit: `empire` had already
+written a complete answer and was salvaged, `assyria` had written a truncated
+one and was discarded, and `neo-assyrian-empire` and
+`ancient-egyptian-religion` had written nothing. Their requests are emitted and
+waiting; `node pipeline/rewrite.mjs --apply` finishes each the moment an answer
+exists.
+
+**The verification pass did not run on 28 of the 38.** Only the ten from phase
+2 carry a verdict, three of those re-checked after anchoring. Every other
+rewrite is `unverified`, which `pipeline/status.mjs` says plainly. Phase 3's
+exit asked for verification on everything and does not have it.
+
+What *is* checked on all 38 is what can be checked without a model: every
+document parses and renders, every planned image resolves to a licensed file or
+is named as not resolving, every planned section exists, and every footnote
+reference is counted against the source — **76 lost of 3,580, 2.1%**, all of
+them on figure captions.
+
+### The caption citation gap, now with a number
+
+A footnote on a figure caption has nowhere to go: a caption becomes an
+`image-plan` caption, which is plain text. That is the whole of the 2.1%.
+
+Two rewrites found the same workaround unprompted — History of the Assyrians
+and Macedonia both folded a cited caption's content into the prose so the
+reference survived, and dropped uncited ones. The fix is a `cite` field on
+image-plan entries, and it is deliberately **not** added here: every one of the
+41 requests was emitted before the gap had a number, so nothing in this corpus
+could exercise it, and shipping an untested field to a schema this one depends
+on is worse than recording the evidence.
+
+### `--drop-pronunciation` removes more than it says
+
+The flag's own help says it takes out "the IPA and the respelling that open the
+lead". The rule behind it matches `class="IPA"` anywhere in the document, so on
+a language article it guts the phonology:
+
+> The diphthong οι fronted to , merging with υ.
+> The word is pronounced , , or in US English and in UK English
+
+Koine Greek reported it in full; Thoth had already reported the symptom. Both
+rewrites handled it correctly — dropped the sentences that were only empty
+brackets, reworded the bullets pointing at absent symbols, and said so.
+
+Not fixed, and deliberately not re-imported to avoid: re-importing changes
+every source revision and would mark all 38 rewrites stale at once. That is
+exactly the situation `status.mjs` exists to manage and not one to walk into
+mid-phase. It goes to phase 4 with the re-import, where the fix is positional —
+a pronunciation rule that only fires before the first heading.
+
 ### What is knowingly left
 
+- **Four articles, and verification on 28.** Both blocked on quota, both
+  resumable with no rework: the requests are written and the applies are one
+  command each.
 - **A search index.** `$.tokenize` is there for it; nothing uses it yet.
 - **Era hubs, timelines and maps.** Phase 4, and the corpus is large enough now
   to make them worth building.
