@@ -5,3 +5,13 @@ dist/
 # the app produces rather than anything it needs, and it grows every time
 # somebody follows a link.
 vault/
+
+# Image derivatives, fetched from Commons' thumbnailer by
+# pipeline/enrich-images.mjs --download. corpus/images.yaml records where each
+# one came from, so they are reproducible and not worth committing.
+static/img/
+
+# The corpus, for the same reason: `pipeline/` holds what it is made from —
+# the query, the titles, the tools — and two commands rebuild it, with every
+# document recording the revision it came from. See docs/ancient-plan.md.
+corpus/

@@ -1,0 +1,49 @@
+# Which articles are in the corpus.
+#
+# Wikipedia's categories are the obvious handle and the wrong one: the graph is
+# a folksonomy with cycles and no consistent depth, and a walk from "Ancient
+# history" collects the Epic of Gilgamesh alongside films about it. Wikidata
+# answers the question the corpus is actually asking, because it is a question
+# about the subjects rather than about the filing.
+#
+# Two things this query does that a first draft did not.
+#
+# `wdt:P31/wdt:P279*` — instance of anything that is eventually a subclass of
+# these — times the service out (504). Direct `wdt:P31` returns in a second and
+# loses very little, because the classes below are the ones Wikidata actually
+# tags places with.
+#
+# The date bound is what makes it an ANCIENT history corpus. Without it the top
+# of the list is Cairo (founded 969) and Damascus, both tagged `ancient city`
+# for their origins. 500 CE is a placeholder for a decision that is still open:
+# a single cutoff is a European one, and the Sasanians and the Gupta empire do
+# not respect it.
+#
+# `MIN(?inception)` because a site can carry several: Stonehenge is dated both
+# 3000 BC and 1848 BC, and without grouping it arrives twice.
+#
+#   curl -G https://query.wikidata.org/sparql \
+#     --data-urlencode query@pipeline/select.rq \
+#     -H 'Accept: text/csv' -H 'User-Agent: … (you@example.com)' \
+#     | tail -n +2 | cut -d, -f1 > pipeline/titles.txt
+
+SELECT DISTINCT ?title (MIN(?inception) AS ?from) ?sitelinks WHERE {
+  # ancient city, archaeological site
+  VALUES ?kind { wd:Q15661340 wd:Q839954 }
+
+  ?item wdt:P31 ?kind ;
+        wikibase:sitelinks ?sitelinks ;
+        wdt:P571 ?inception .
+
+  ?article schema:about ?item ;
+           schema:isPartOf <https://en.wikipedia.org/> ;
+           schema:name ?title .
+
+  # Sitelink count is a usable stand-in for how much of the world cares, and it
+  # is the number that decides which tier an article is rewritten at.
+  FILTER(?sitelinks > 30)
+  FILTER(YEAR(?inception) < 500)
+}
+GROUP BY ?title ?sitelinks
+ORDER BY DESC(?sitelinks)
+LIMIT 400
