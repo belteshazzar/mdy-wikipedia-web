@@ -131,6 +131,7 @@ source:
     CC BY-SA 4.0.
 rewritten:
   of: corpus/en/rosetta-stone-decree.mdy
+  source-digest: b583192cf4221b31
   source-revision: "1353281085"
   model: claude-opus-5
   left-out: The two passages the source sets as block quotations (the opening

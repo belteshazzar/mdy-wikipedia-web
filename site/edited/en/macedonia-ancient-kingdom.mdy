@@ -1795,6 +1795,7 @@ source:
     under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/macedonia-ancient-kingdom.mdy
+  source-digest: 1f88117294f15532
   source-revision: "1369660498"
   model: claude-opus-5
   left-out: 'Five headings in the source carry no prose of their own — History,

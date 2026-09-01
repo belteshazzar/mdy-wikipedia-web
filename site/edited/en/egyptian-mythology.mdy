@@ -502,6 +502,7 @@ source:
     BY-SA 4.0.
 rewritten:
   of: corpus/en/egyptian-mythology.mdy
+  source-digest: 115e6d666f68195c
   source-revision: "1370206969"
   model: claude-opus-5
   left-out: The heading "Influence in Egyptian culture" has no prose of its own

@@ -4,9 +4,10 @@
  * Three questions, all of them answered by querying the documents rather than
  * by remembering:
  *
- *   Which rewrites are STALE — their source has been re-imported at a
- *   revision they were not made from. This is the whole reason a rewrite is a
- *   separate document naming the revision it came from.
+ *   Which rewrites are STALE — the prose they were made from is not the prose
+ *   in the corpus now. Two different things can cause that and only one of
+ *   them has a revision number: Wikipedia editing the article, and this
+ *   pipeline importing the same revision differently. Both are checked.
  *
  *   Which are BLOCKED — the verifier found something a reader would be
  *   misled by, so they are not publishable.
@@ -20,6 +21,7 @@
 import {readdir, readFile} from 'node:fs/promises'
 import {join} from 'node:path'
 import YAML from 'yaml'
+import {digest, split} from './document.mjs'
 
 const corpus = 'site/corpus/en'
 const edited = 'site/edited/en'
@@ -44,10 +46,18 @@ for (const slug of written) {
   const source = await matter(join(corpus, `${slug}.mdy`)).catch(() => ({}))
   const was = rewrite.rewritten?.['source-revision']
   const is = source.source?.revision
+  const wasDigest = rewrite.rewritten?.['source-digest']
+  const isDigest = await readFile(join(corpus, `${slug}.mdy`), 'utf8')
+    .then((text) => digest(split(text).prose))
+    .catch(() => undefined)
+
+  const movedOn = Boolean(was && is && String(was) !== String(is))
+  const importedDifferently = Boolean(wasDigest && isDigest && wasDigest !== isDigest)
 
   rows.push({
     slug,
-    stale: Boolean(was && is && String(was) !== String(is)),
+    stale: movedOn || importedDifferently,
+    why: movedOn ? 'wikipedia moved' : importedDifferently ? 'imported differently' : '',
     was,
     is,
     verdict: rewrite.rewritten?.verdict ?? 'unverified',
@@ -86,8 +96,12 @@ console.log(`  anchored fields  ${count((r) => r.anchored)}`)
 console.log(`  read by a person ${count((r) => r.reviewed)}`)
 
 if (stale.length) {
-  console.log(`\nSTALE — the source moved under them:`)
-  for (const r of stale) console.log(`  ${r.slug}: rewritten from ${r.was}, corpus now ${r.is}`)
+  console.log(`\nSTALE — the prose they were made from is not the prose in the corpus now:`)
+  for (const r of stale) {
+    console.log(
+      `  ${r.slug.padEnd(30)} ${r.why === 'wikipedia moved' ? `revision ${r.was} → ${r.is}` : 'same revision, different import'}`
+    )
+  }
   console.log(`\n  node pipeline/rewrite.mjs --emit $(node pipeline/status.mjs --stale)`)
 }
 

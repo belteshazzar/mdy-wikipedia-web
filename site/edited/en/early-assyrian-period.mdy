@@ -229,6 +229,7 @@ source:
     under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/early-assyrian-period.mdy
+  source-digest: 2bbb40358d94aa04
   source-revision: "1355578968"
   model: claude-opus-5
   left-out: The "History" and "Society" headings carry no prose of their own in

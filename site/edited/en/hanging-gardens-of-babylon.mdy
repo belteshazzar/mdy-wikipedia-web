@@ -367,6 +367,7 @@ source:
     under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/hanging-gardens-of-babylon.mdy
+  source-digest: 78f83b34de28effc
   source-revision: "1349392265"
   model: claude-opus-5
   left-out: "Nothing in the article is unrepresented now that the lead has a

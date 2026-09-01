@@ -408,6 +408,7 @@ source:
     BY-SA 4.0.
 rewritten:
   of: corpus/en/book-of-the-dead.mdy
+  source-digest: cb3c219e1197d150
   source-revision: "1371410433"
   model: claude-opus-5
   left-out: "The lead's hieroglyphic infobox could not be carried over: it is a

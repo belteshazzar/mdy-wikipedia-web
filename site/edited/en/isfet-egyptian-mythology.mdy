@@ -81,6 +81,7 @@ source:
     used under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/isfet-egyptian-mythology.mdy
+  source-digest: 6008c2e388da2fd8
   source-revision: "1368623002"
   model: claude-opus-5
   left-out: The article's front matter lists no images, so the image plan is

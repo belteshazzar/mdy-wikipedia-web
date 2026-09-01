@@ -282,6 +282,7 @@ source:
     (revision 1364787007), by Wikipedia contributors, used under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/gutians.mdy
+  source-digest: f4c42f8db768e5b7
   source-revision: "1364787007"
   model: claude-opus-5
   left-out: Two things. (1) Four images embedded in the body — the Tablet of

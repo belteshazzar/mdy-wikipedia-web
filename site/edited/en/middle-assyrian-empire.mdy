@@ -614,6 +614,7 @@ source:
     under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/middle-assyrian-empire.mdy
+  source-digest: 08d97f51ece2ea12
   source-revision: "1370959309"
   model: claude-opus-5
   left-out: "Eight of the headings — History, First period of expansion and

@@ -239,6 +239,7 @@ source:
     CC BY-SA 4.0.
 rewritten:
   of: corpus/en/nun-mythology.mdy
+  source-digest: 47d59611f7795e4d
   source-revision: "1360696989"
   model: claude-opus-5
   left-out: "The Iconography section in the source is partly broken markup

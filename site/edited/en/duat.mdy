@@ -338,6 +338,7 @@ source:
     (revision 1367163030), by Wikipedia contributors, used under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/duat.mdy
+  source-digest: 04102bbbc11339b2
   source-revision: "1367163030"
   model: claude-opus-5
   left-out: "The 'Mythological significance' heading has no prose of its own in

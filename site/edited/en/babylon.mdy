@@ -1047,6 +1047,7 @@ source:
     (revision 1369395047), by Wikipedia contributors, used under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/babylon.mdy
+  source-digest: a3744e78ea7dbe16
   source-revision: "1369395047"
   model: claude-opus-5
   left-out: A few things in the document had no place in the fields. The

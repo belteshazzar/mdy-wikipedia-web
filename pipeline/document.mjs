@@ -25,6 +25,7 @@
  * */
 
 import {readFile} from 'node:fs/promises'
+import {createHash} from 'node:crypto'
 import YAML from 'yaml'
 
 const MODEL = 'claude-opus-5'
@@ -192,7 +193,13 @@ export function split(source) {
   // are carried over untouched: they are the citations the prose points at,
   // and a model retyping a hundred bibliography lines is a model with a
   // hundred chances to get one wrong.
-  const at = body.search(/^\[\[ \^\d+ \]\]:/m)
+  //
+  // ANY label, not just a number. Wikipedia's explanatory notes are lettered,
+  // and in 7 of these 41 documents the block starts with one — so searching
+  // for the first NUMBERED definition put every lettered note above it into
+  // the prose instead: fed to the model as noise, and not carried across.
+  // Koine Greek lost two of its three that way, which is how this was found.
+  const at = body.search(/^\[\[ \^\w+ \]\]:/m)
 
   return {
     data,
@@ -288,6 +295,10 @@ function anchored(rewrite) {
   return Object.keys(out).length ? out : undefined
 }
 
+/** What the prose was, in sixteen characters. */
+export const digest = (prose) =>
+  createHash('sha256').update(String(prose)).digest('hex').slice(0, 16)
+
 /** The edited document: the rewrite, with the records and notes carried over. */
 export function compose(slug, original, rewrite, usage) {
   const data = {
@@ -316,6 +327,21 @@ export function compose(slug, original, rewrite, usage) {
     source: original.data.source,
     rewritten: {
       of: `corpus/en/${slug}.mdy`,
+      // The corpus prose this document was last composed against.
+      //
+      // A currency marker, not a provenance claim — it says "this rewrite is
+      // up to date with respect to that source", which is the question
+      // `status.mjs` asks. Re-composing an unchanged answer against a
+      // corrected corpus refreshes it without the model having run again, and
+      // that is correct: the rewrite IS current with the new source.
+      //
+      // It exists because the revision below is not enough. That catches
+      // Wikipedia moving under us; it does not catch this pipeline importing
+      // the same revision differently — and it did. Turning off
+      // `--drop-pronunciation` gave Koine Greek back 5,804 characters of
+      // phonology at an unchanged revision. Both kinds of drift are real and
+      // only one of them has a revision number.
+      'source-digest': digest(original.prose),
       // What a stale rewrite is found by: re-import, then query for a source
       // revision that no longer matches this one.
       'source-revision': original.data.source?.revision,

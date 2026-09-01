@@ -825,6 +825,7 @@ source:
     under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/ancient-egyptian-religion.mdy
+  source-digest: 6e088bae4ea2f07b
   source-revision: "1369276138"
   model: claude-opus-5
   left-out: The "Practices" section (id practices) has no prose of its own in

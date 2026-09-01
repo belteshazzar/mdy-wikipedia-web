@@ -224,6 +224,7 @@ source:
     under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/ptolemaic-synodal-decrees.mdy
+  source-digest: 1c9e71070284a4a3
   source-revision: "1363308735"
   model: claude-opus-5
   left-out: "One lead sentence I could carry but could not assign to a section:

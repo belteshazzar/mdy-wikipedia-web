@@ -1735,6 +1735,7 @@ source:
     BY-SA 4.0.
 rewritten:
   of: corpus/en/alexander-the-great.mdy
+  source-digest: b82743b63063ad61
   source-revision: "1371190614"
   model: claude-opus-5
   left-out: Six headings in the original carry no prose of their own — Early

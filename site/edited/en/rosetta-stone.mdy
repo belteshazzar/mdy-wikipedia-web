@@ -664,6 +664,7 @@ source:
     BY-SA 4.0.
 rewritten:
   of: corpus/en/rosetta-stone.mdy
+  source-digest: 7d15dc808328d900
   source-revision: "1370483867"
   model: claude-opus-5
   left-out: Three notes. (1) In "Original stele" the source embeds a wikihiero

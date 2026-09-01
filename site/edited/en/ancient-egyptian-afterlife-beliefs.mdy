@@ -320,6 +320,7 @@ source:
     contributors, used under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/ancient-egyptian-afterlife-beliefs.mdy
+  source-digest: 0f2680e68a39b4b7
   source-revision: "1356193620"
   model: claude-opus-5
   left-out: Nothing was dropped. Some sentences carried across from the article

@@ -1,10 +1,11 @@
 slug: ennead
 findings:
   - kind: unsupported
-    quote: Nine is the count, but not always the same nine.
-    why: The source says only that "The Ennead sometimes includes Horus the
-      Elder". It never says the membership varies while the count stays at
-      nine, nor that Horus the Elder substitutes for one of the named nine
-      rather than being added to them.
+    quote: Nine gods in four generations, all of them descended from one.
+    why: The source never counts generations, and its genealogy makes Atum a
+      member of the nine rather than an ancestor outside them (the Mythology
+      section calls him self-begotten), so the nine are not all descended from
+      one — eight of them are. The count is derivable from the source's list,
+      but the framing is not something the source states.
     severity: minor
 verdict: minor-only

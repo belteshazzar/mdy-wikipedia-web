@@ -74,15 +74,43 @@ async function land(slug, original, rewrite) {
   }
 
   const target = join(OUT, `${slug}.mdy`)
+  const before = await readFile(target, 'utf8').catch(() => undefined)
+  const composed = compose(slug, original, rewrite)
 
   await mkdir(dirname(target), {recursive: true})
-  await writeFile(target, compose(slug, original, rewrite))
+  await writeFile(target, composed)
 
-  // A re-applied rewrite is new text, so any verdict on the old text is void.
-  // The document loses it by being rewritten; the report beside it has to be
-  // taken away too, or `pipeline/status.mjs` reads a verdict for prose that no
-  // longer exists.
-  await rm(join(OUT, `${slug}.verify.yaml`), {force: true})
+  // A re-applied rewrite is usually new text, and a verdict on the old text is
+  // void — the document loses it by being rewritten, and the report beside it
+  // has to go too or `status.mjs` reads a verdict for prose that is gone.
+  //
+  // Usually, not always. Re-applying an unchanged answer after a fix to the
+  // pipeline — recovering the lettered footnote definitions, say — leaves the
+  // prose identical, and throwing away 41 verdicts to re-earn them unchanged
+  // is not diligence. So the prose decides, not the act of applying.
+  const same = before !== undefined && split(before).prose === split(composed).prose
+
+  if (!same) {
+    await rm(join(OUT, `${slug}.verify.yaml`), {force: true})
+  } else {
+    // Keeping the report on disk is not enough: `compose` writes a fresh
+    // `verified: false` every time, so the verdict has to be put back into the
+    // document too or `status.mjs` reads 41 unverified rewrites that were all
+    // verified a minute ago.
+    const report = await readFile(join(OUT, `${slug}.verify.yaml`), 'utf8').catch(() => undefined)
+
+    if (report) {
+      const parsed = YAML.parse(report)
+      const restored = composed.replace(
+        /^(\s*)verified: false$/m,
+        `$1verified: ${parsed.verdict === 'blocked' ? 'false' : 'true'}\n$1verdict: ${parsed.verdict}` +
+          ((parsed.findings ?? []).length ? `\n$1findings: ${parsed.findings.length}` : '')
+      )
+
+      await writeFile(target, restored)
+      console.log(`  ${slug}: prose unchanged, verdict ${parsed.verdict} kept`)
+    }
+  }
 
   console.log(
     `${slug}: ${rewrite.sections.length} sections, ` +

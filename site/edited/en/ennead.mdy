@@ -7,29 +7,30 @@ key-facts:
   - name: Worshipped at
     value: Heliopolis
   - name: Egyptian name
-    value: psḏt, conventionally transcribed Pesedjet
+    value: psḏt, "the Nine", transcribed by Egyptologists as Pesedjet
   - name: Greek name
-    value: enneás (ἐννεάς), "the nine"
+    value: enneás (ἐννεάς), meaning "the nine"
+  - name: How long it thrived
+    value: From the Old Kingdom to the Ptolemaic period
   - name: Canaanite equivalent
     value: El's Divine Council
-  - name: Not to be confused with
-    value: Enneads, Aeneads
 image-plan:
   - file: The_Ennead.svg
     role: hero
     section: lead
     caption: "The members of the Ennead: Atum, Shu, Tefnut, Geb, Nut, Osiris,
-      Isis, Set and Nephthys."
+      Isis, Set, Nephthys."
 further:
   - slug: ancient-egyptian-creation-myths
-    why: The Heliopolitan story is only one of many creation stories, and the
-      Egyptians held that no single one was more correct than another.
+    why: The Heliopolitan story is only one of many creation stories; the Memphite
+      Theology and the Hermopolitan Ogdoad are the other major traditions.
   - slug: osiris
-    why: God of vegetation and the afterlife, and the most prominent deity the
-      Heliopolitan priesthood folded into the ennead, as Atum's
-      great-grandson.
-  - slug: ancient-egyptian-afterlife-beliefs
-    why: The other half of what Osiris governed, alongside vegetation.
+    why: God of vegetation and the afterlife, the most prominent of the gods the
+      Heliopolitan priesthood is traditionally said to have folded in - here
+      as Atum's great-grandson.
+  - slug: egyptian-mythology
+    why: A mythology that kept several explanations of the same phenomenon at
+      once, with no single story more accurate than another.
 infobox:
   image:
     src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Ennead.svg/250px-The_Ennead.svg.png
@@ -163,72 +164,963 @@ source:
     (revision 1365520519), by Wikipedia contributors, used under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/ennead.mdy
+  source-digest: 5cd34455b5b85a46
   source-revision: "1365520519"
   model: claude-opus-5
-  left-out: Three things. (1) The "Hieroglyphs" section has no prose of its own
-    in the source - everything under it sits in its two subsections - so its
-    body is empty rather than invented. (2) The "Family tree" and both
-    hieroglyph sections are tables of images with no running prose; the
-    source's hieroglyphic groups are wikihiero image files with only sign
-    codes as alt text, so I reduced the family tree to the generations it
-    lists (keeping its own [[ Set | set-mythology ]] link, which differs from
-    the lead's [[ Set | set-deity ]]) and did not attempt to transcribe or
-    interpret the sign groups. The nine deity figures inside the family-tree
-    table (Atum, Shu, Tefnut, Geb, Nut, Osiris, Isis, Set, Nephthys) were left
-    in place there rather than added to the image plan, which the front matter
-    lists as empty apart from the infobox picture. (3) In "Name in Egyptian,
-    Greek, and Latin" the source's reconstructed pronunciations for Old,
-    Middle and Late Egyptian are missing from the document - the sentence
-    reads "may have been in Old Egyptian, in Middle Egyptian, and in Late
-    Egyptian" with the forms stripped out - so I kept the hedge and the three
-    stages without supplying any vocalisation.
+  left-out: The "Family tree", "Variant hieroglyphs for the Ennead" and
+    "Hieroglyphs of individual members" sections are tables of images rather
+    than prose, so they are carried across unchanged rather than rewritten.
+    The "Hieroglyphs" heading has no prose of its own in the source, only its
+    two subsections; the single line under it says no more than the subsection
+    titles and the infobox ("Other spellings", "Names of individual members")
+    already do. The front matter lists no images, so the image plan uses only
+    the infobox picture. Several passages — parts of the lead, of "History"
+    and all of "In popular culture" — carry no footnote reference in the
+    source, so none could be carried with them.
   verified: true
   verdict: minor-only
   findings: 1
   reviewed: false
 +++
-The !!Ennead!!, or !!Great Ennead!!, is a family tree with nine names on it: the [[ deities | egyptian-pantheon ]] of [[ Egyptian mythology ]] worshipped together at [[ Heliopolis | heliopolis-ancient-egypt ]]. The [[ sun god ]] [[ Atum ]] stands at the top; then his children [[ Shu | shu-god ]] and [[ Tefnut ]]; then their children [[ Geb ]] and [[ Nut | nut-goddess ]]; then their children [[ Osiris ]], [[ Isis ]], [[ Set | set-deity ]] and [[ Nephthys ]].[[ ^2 ]] Nine is the count, but not always the same nine. The Ennead sometimes includes [[ Horus the Elder ]], an ancient form of the falcon god, not the son of Osiris and Isis.
+Nine gods in four generations, all of them descended from one. The !!Ennead!! or !!Great Ennead!! was a group of nine [[ deities | egyptian-pantheon ]] in [[ Egyptian mythology ]] worshipped at [[ Heliopolis | heliopolis-ancient-egypt ]]: the [[ sun god ]] [[ Atum ]]; his children [[ Shu | shu-god ]] and [[ Tefnut ]]; their children [[ Geb ]] and [[ Nut | nut-goddess ]]; and their children [[ Osiris ]], [[ Isis ]], [[ Set | set-deity ]], and [[ Nephthys ]].[[ ^2 ]]
+
+The list is not quite fixed. The Ennead sometimes includes [[ Horus the Elder ]], an ancient form of the falcon god, not the son of Osiris and Isis.
 
 == Status within ancient Egypt
 
-The Great Ennead was only one of several such groupings of nine deities in ancient Egypt, and the claims to preeminence made by its Heliopolitan priests were not respected throughout Egypt. Each [[ nome | nome-egypt ]] typically had its own local deities, whose priests insisted stood above all others.[[ ^3 ]] Even in the nearby city of [[ Memphis | memphis-egypt ]], which along with Heliopolis is contained within the limits of modern [[ Cairo ]], the priests of [[ Ptah ]] celebrated him as singularly superior to the Nine. Memphis had its own creation myth, and the contemporaneous city of [[ Hermopolis ]] had another creation story again, the //[[ Ogdoad | ogdoad-egyptian ]]//, which accounted for the physical creation of the universe by eight (different) primordial gods.[[ ^3 ]]
+The Great Ennead was only one of several such groupings of nine deities in ancient Egypt, and the claims to preeminence made by its Heliopolitan priests were not respected throughout Egypt. Each [[ nome | nome-egypt ]] typically had its own local deities, whose priests insisted stood above all others.[[ ^3 ]]
+
+Even in the nearby city of [[ Memphis | memphis-egypt ]], which along with Heliopolis is contained within the limits of modern [[ Cairo ]], the priests of [[ Ptah ]] celebrated him as singularly superior to the Nine. Memphis had its own creation myth, and the contemporaneous city of [[ Hermopolis ]] had another creation story, the //[[ Ogdoad | ogdoad-egyptian ]]//, that accounted for the physical creation of the universe by eight (different) primordial gods.[[ ^3 ]]
 
 == Name in Egyptian, Greek, and Latin
 
-The English name //ennead// is a borrowing via [[ Latin ]] of the [[ Greek | ancient-greek-language ]] name //enneás// (ἐννεάς), meaning "the nine".[[ ^4 ]] That name was a [[ calque ]] of the Egyptian one, written //[[ psḏt | https://en.wiktionary.org/wiki/psḏt#Egyptian ]]// and also meaning "the Nine". Its original pronunciation is uncertain, since hieroglyphs do not record vowels, but it may have taken different forms in [[ Old Egyptian ]], in [[ Middle Egyptian ]], and in [[ Late Egyptian ]]. [[ Egyptologists | egyptologist ]] conventionally transcribe it as !!Pesedjet!!.
+The English name //ennead// is a borrowing via [[ Latin ]] of the [[ Greek | ancient-greek-language ]] name //enneás// (ἐννεάς), meaning "the nine".[[ ^4 ]] The term was a [[ calque ]] of the Egyptian name, written //[[ psḏt | https://en.wiktionary.org/wiki/psḏt#Egyptian ]]// and also meaning "the Nine".
+
+How it sounded is uncertain, since hieroglyphs do not record vowels, but it may have been /piˈsiːcʼat/ in [[ Old Egyptian ]], /piˈsiːtʼaʔ/ in [[ Middle Egyptian ]], and /pəˈsiːtʼə/ in [[ Late Egyptian ]]. [[ Egyptologists | egyptologist ]] conventionally transcribe it as !!Pesedjet!!.
 
 == History
 
-The [[ ancient Egyptians ]] created several enneads as their [[ unification | unification-of-egypt ]] under [[ Dynasty I ]] brought numerous local cults into contact with one another. Ancient Egyptian mythology often had many different explanations for the same phenomenon, and no single story was more accurate than another: the truth was a mix of them all.[[ ^2 ]] The [[ Pyramid Texts ]] of [[ Dynasties V | dynasty-v ]] and [[ VI | dynasty-vi ]] mention the "Great Ennead", the "Lesser Ennead", the "Dual Ennead", and the "Seven Enneads". Some [[ pharaohs | pharaoh ]] established enneads that [[ incorporated themselves as gods | apotheosis ]]. The most notable case is [[ Seti I ]] of [[ Dynasty XIX ]], whose [[ mortuary temple at Redesiyah | mortuary-temple-of-seti-i ]] celebrated an ennead of six major gods and three deified forms of himself. The //ennead// mentioned in the [[ Egyptian calendar of lucky and unlucky days | egyptian-calendar#lucky-and-unlucky-days ]],[[ ^5 ]] may reference the [[ Pleiades ]].[[ ^6 ]]
+Egypt made enneads more than once. The [[ ancient Egyptians ]] created several as their [[ unification | unification-of-egypt ]] under [[ Dynasty I ]] brought numerous local cults into contact with one another, and ancient Egyptian mythology often had many different explanations for the same phenomenon. This concept is especially unique because no single story was more accurate than another, but rather the truth was a mix of them all.[[ ^2 ]] The [[ Pyramid Texts ]] of [[ Dynasties V | dynasty-v ]] and [[ VI | dynasty-vi ]] mention the "Great Ennead", the "Lesser Ennead", the "Dual Ennead", and the "Seven Enneads". Some [[ pharaohs | pharaoh ]] established enneads that [[ incorporated themselves as gods | apotheosis ]]. The most notable case is [[ Seti I ]] of [[ Dynasty XIX ]], whose [[ mortuary temple at Redesiyah | mortuary-temple-of-seti-i ]] celebrated an ennead of six major gods and three deified forms of himself. The //ennead// mentioned in the [[ Egyptian calendar of lucky and unlucky days | egyptian-calendar#lucky-and-unlucky-days ]][[ ^5 ]] may reference the [[ Pleiades ]].[[ ^6 ]]
 
-The most important was the "Great" or "Heliopolitan Ennead" of Awanu (Ancient Egyptian: //I͗wnw//), known under the [[ Greeks | ptolemaic-egypt ]] and [[ Romans | roman-egypt ]] as [[ Heliopolis | heliopolis-ancient-egypt ]]. It celebrated the family of the [[ sun god ]] [[ Atum ]], sometimes referred to as [[ Atum-re ]],[[ ^3 ]] and thrived from the [[ Old Kingdom ]] to the [[ Ptolemaic period | ptolemaic-egypt ]].
+The most important was the "Great" or "Heliopolitan Ennead" of Awanu (Ancient Egyptian: //I͗wnw//), known under the [[ Greeks | ptolemaic-egypt ]] and [[ Romans | roman-egypt ]] as [[ Heliopolis | heliopolis-ancient-egypt ]]. It celebrated the family of the [[ sun god ]] [[ Atum ]] (sometimes referred to as [[ Atum-re ]][[ ^3 ]]) and thrived from the [[ Old Kingdom ]] to the [[ Ptolemaic period | ptolemaic-egypt ]].
 
-Its development remains uncertain, although it appears to have first appeared when [[ Ra ]]'s cult, supreme under [[ Dynasty V ]], declined in importance under [[ Dynasty VI ]]. [[ Egyptologists | egyptologist ]] have traditionally theorized that the Heliopolitan priesthood established it to establish the preeminence of Atum over the others, incorporating some major gods in lesser positions and omitting others entirely. The most prominent of such deities was [[ Osiris ]], [[ god of vegetation ]] and the [[ afterlife | ancient-egyptian-afterlife-beliefs ]], who was incorporated into the ennead as Atum's great-grandson. In the 20th century, however, some Egyptologists question the whole scenario. After the Great Ennead was well established, the cult of Ra, [[ identified with | syncretization ]] Atum, recovered much of its importance until it was superseded by the cult of [[ Horus ]]. The two were then combined as //Ra-Horus of the Horizons//.
+Its development remains uncertain, although it appears to have first appeared when [[ Ra ]]'s cult – supreme under [[ Dynasty V ]] – declined in importance under [[ Dynasty VI ]]. [[ Egyptologists | egyptologist ]] have traditionally theorized that the Heliopolitan priesthood established it to establish the preeminence of Atum over the others, incorporating some major gods in lesser positions and omitting others entirely. The most prominent of such deities was [[ Osiris ]], [[ god of vegetation ]] and the [[ afterlife | ancient-egyptian-afterlife-beliefs ]], who was incorporated into the ennead as Atum's great-grandson. However, in the 20th century, some Egyptologists question the whole scenario. After the Great Ennead was well established, the cult of Ra – [[ identified with | syncretization ]] Atum – recovered much of its importance until superseded by the cult of [[ Horus ]]. The two were then combined as //Ra-Horus of the Horizons//.
 
 == Mythology
 
-According to the [[ creation story ]] of the Heliopolitan priests, the world originally consisted of the primordial waters of precreation, personified as [[ Nun | naunet ]].[[ ^2 ]] From it arose a mound on the First Occasion.[[ ^2 ]] Upon the mound sat the self-begotten god [[ Atum ]], who was equated with the [[ sun god ]] [[ Ra ]] and who evolved from Nun through self-creation.[[ ^2 ]] Atum either spat or masturbated, producing [[ air | air-classical-element ]] personified as [[ Shu | shu-god ]] and [[ moisture | humidity ]] personified as [[ Tefnut ]]. The siblings Shu and Tefnut mated to produce the earth personified as [[ Geb ]] and the nighttime sky personified as [[ Nut | nut-goddess ]].
+According to the [[ creation story ]] of the Heliopolitan priests, the world originally consisted of the primordial waters of precreation personified as [[ Nun | naunet ]].[[ ^2 ]] From it arose a mound on the First Occasion.[[ ^2 ]] Upon the mound sat the self-begotten god [[ Atum ]], who was equated with the [[ sun god ]] [[ Ra ]] and who evolved from Nun through self-creation.[[ ^2 ]] Atum either spat or masturbated, producing [[ air | air-classical-element ]] personified as [[ Shu | shu-god ]] and [[ moisture | humidity ]] personified as [[ Tefnut ]]. The siblings Shu and Tefnut mated to produce the earth personified as [[ Geb ]] and the nighttime sky personified as [[ Nut | nut-goddess ]].
 
-Geb and Nut were the parents of [[ Osiris ]] and [[ Isis ]] and of [[ Set | set-god ]] and [[ Nephthys ]], who became respective couples in turn. Osiris and Isis represent fertility and order, while Set and Nephthys represent chaos to balance out Osiris and Isis.[[ ^3 ]] [[ Horus ]], the son of Osiris and Isis, is often included in this creation tradition.[[ ^2 ]] Due to the duality of Ancient Egyptian myths, this is only one of [[ many creation stories | ancient-egyptian-creation-myths ]].[[ ^3 ]] The Egyptians believed no specific myth was more correct than the other, rather that some combination of these myths was correct.[[ ^2 ]] This creation story, the Heliopolitan tradition, is one of physiological creation.[[ ^3 ]] The other major creation traditions are the [[ Memphite Theology ]] and the [[ Hermopolitian | hermopolis ]] [[ Ogdoad creation myth ]].[[ ^3 ]]
+Geb and Nut were the parents of [[ Osiris ]] and [[ Isis ]] and of [[ Set | set-god ]] and [[ Nephthys ]], who became respective couples in turn. Osiris and Isis represent fertility and order, while Set and Nephthys represent chaos to balance out Osiris and Isis.[[ ^3 ]] [[ Horus ]], the son of Osiris and Isis, is often included in this creation tradition.[[ ^2 ]]
+
+Due to the duality of Ancient Egyptian myths, this is only one of [[ many creation stories | ancient-egyptian-creation-myths ]].[[ ^3 ]] The Egyptians believed no specific myth was more correct than the other, rather that some combination of these myths was correct.[[ ^2 ]] This creation story, the Heliopolitan tradition, is one of physiological creation.[[ ^3 ]] The other major creation traditions are the [[ Memphite Theology ]] and [[ Hermopolitian | hermopolis ]] [[ Ogdoad creation myth ]].[[ ^3 ]]
 
 == Family tree
 
-- [[ Atum ]]
-- [[ Shu | shu-god ]] and [[ Tefnut ]]
-- [[ Geb ]] and [[ Nut | nut-goddess ]]
-- [[ Osiris ]] and [[ Isis ]]; [[ Set | set-mythology ]] and [[ Nephthys ]]
+<tbody
+  <tr
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="6" rowspan="2"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Atum_with_Double_Crown_%28Pschent%2C_based_on_paintings%29.svg/40px-Atum_with_Double_Crown_%28Pschent%2C_based_on_paintings%29.svg.png" height="100" width="35"
+
+      <br
+
+      <strong>[[ Atum ]]
+
+  <tr
+
+  <tr
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td
+
+    <td
+
+    <td
+
+    <td
+
+    <td
+
+    <td rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+  <tr
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td
+
+  <tr
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="6" rowspan="2"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shu_with_feather.svg/60px-Shu_with_feather.svg.png" height="100" width="46"
+
+      <br
+
+      <strong>[[ Shu | shu-god ]]
+
+    <td colspan="2"
+
+    <td colspan="6" rowspan="2"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tefnut.svg/40px-Tefnut.svg.png" height="100" width="36"
+
+      <br
+
+      <strong>[[ Tefnut ]]
+
+  <tr
+    <td
+
+    <td
+
+  <tr
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td
+
+    <td rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+  <tr
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td
+
+  <tr
+    <td colspan="2" rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="6" rowspan="2"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Geb.svg/40px-Geb.svg.png" height="100" width="38"
+
+      <br
+
+      <strong>[[ Geb ]]
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="6" rowspan="2"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nut.svg/60px-Nut.svg.png" height="100" width="49"
+
+      <br
+
+      <strong>[[ Nut | nut-goddess ]]
+
+  <tr
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+  <tr
+    <td colspan="2" rowspan="2"
+
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td
+
+    <td rowspan="2"
+
+    <td colspan="2" rowspan="2"
+
+  <tr
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td
+
+    <td
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td colspan="2"
+
+    <td
+
+  <tr
+    <td colspan="6" rowspan="2"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Standing_Osiris.svg/60px-Standing_Osiris.svg.png" height="100" width="46"
+
+      <br
+
+      <strong>[[ Osiris ]]
+
+    <td colspan="2"
+
+    <td colspan="6" rowspan="2"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Isis.svg/60px-Isis.svg.png" height="100" width="45"
+
+      <br
+
+      <strong>[[ Isis ]]
+
+    <td colspan="2" rowspan="2"
+
+    <td colspan="6" rowspan="2"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Set.svg/60px-Set.svg.png" height="100" width="48"
+
+      <br
+
+      <strong>[[ Set | set-mythology ]]
+
+    <td colspan="2"
+
+    <td colspan="6" rowspan="2"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nepthys.svg/60px-Nepthys.svg.png" height="100" width="45"
+
+      <br
+
+      <strong>[[ Nephthys ]]
+
+  <tr
+    <td colspan="2"
+
+    <td colspan="2"
 
 == Hieroglyphs
 
-
+The name has more than one written form, and each of the nine members has a spelling of its own.
 
 == Variant hieroglyphs for the Ennead
 
-A dual Ennead (//Psḏty//) was written as a row of six repeated signs.[[ ^1 ]]
+<dl
+  <dd
+    <table
+      <tbody
+        <tr
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N6.png?4f1ba" height="20" alt="N6"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_D46.png?1dee4" height="12" alt="d"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_G7.png?aff71" height="38" alt="G7"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_Z3.png?25d86" height="38" alt="Z3"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N9.png?7f211" height="18" alt="pzD"
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Z2.png?805ea" height="11" alt="Z2"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8.png?c3d74" height="38" alt="nTr"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N6.png?4f1ba" height="20" alt="N6"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_A40.png?3f15b" height="36" alt="A40"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_Z3.png?25d86" height="38" alt="Z3"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N6.png?4f1ba" height="20" alt="N6"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Z4.png?dbdf8" height="14" alt="y"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_G7.png?aff71" height="38" alt="G7"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_Z3.png?25d86" height="38" alt="Z3"
+
+            <sup
+
+        <tr
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N9.png?7f211" height="18" alt="pzD"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8.png?c3d74" height="38" alt="nTr"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_Z3.png?25d86" height="38" alt="Z3"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N6.png?4f1ba" height="20" alt="N6"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N9.png?7f211" height="18" alt="pzD"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_A40.png?3f15b" height="36" alt="A40"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_Z3.png?25d86" height="38" alt="Z3"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N9.png?7f211" height="18" alt="pzD"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_A40.png?3f15b" height="30" alt="A40"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Z2.png?805ea" height="9" alt="Z2"
+
+        <tr
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N9.png?7f211" height="18" alt="pzD"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_G7.png?aff71" height="38" alt="G7"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N9.png?7f211" height="18" alt="pzD"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N9.png?7f211" height="18" alt="pzD"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Y1.png?22c01" height="10" alt="mDAt"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N10.png?adb19" height="18" alt="N10"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Y1.png?22c01" height="10" alt="mDAt"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_G7.png?aff71" height="38" alt="G7"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_Z93.png?c6659" height="26" alt="Z93"
+
+            <sup
+
+        <tr
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N9.png?7f211" height="18" alt="pzD"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Y1.png?22c01" height="10" alt="mDAt"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N9.png?7f211" height="16" alt="pzD"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Z93.png?c6659" height="23" alt="Z93"
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Z93.png?c6659" height="23" alt="Z93"
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Z93.png?c6659" height="23" alt="Z93"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+            <sup
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_F37B.png?f4ad6" height="19" alt="F37B"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_Z2.png?805ea" height="11" alt="Z2"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Z2.png?805ea" height="11" alt="Z2"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_Z2.png?805ea" height="11" alt="Z2"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+            <sup
+
+A dual Ennead (//Psḏty//) was written
+
+<table dir="ltr"
+  <tbody
+    <tr
+      <td
+        <table
+          <tbody
+            <tr
+              <td
+                <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+              <td
+                <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+              <td
+                <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+              <td
+                <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+              <td
+                <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+              <td
+                <img src="/w/extensions/wikihiero/img/hiero_R8A.png?46719" height="38" alt="nTrw"
+
+[[ ^1 ]]
 
 == Hieroglyphs of individual members
 
-Hieroglyphic spellings are given for each of the nine: Atum, Shu, Tefnut, Geb, Nut, Osiris, Isis, Set and Nephthys.
+<dl
+  <dd
+    <table
+      <tbody
+        <tr
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_U15.png?0a5d1" height="16" alt="tm"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_A40.png?3f15b" height="36" alt="A40"
+
+            Atum
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N37.png?33374" height="12" alt="S"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_H6.png?2f03d" height="38" alt="Sw"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_G43.png?6eb40" height="38" alt="w"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_A40.png?3f15b" height="36" alt="A40"
+
+            Shu
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_I9.png?fe540" height="12" alt="f"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_N35.png?fcc27" height="5" alt="n"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_I13.png?f52e8" height="38" alt="I13"
+
+            Tefnut
+
+        <tr
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_G38.png?e0ffb" height="38" alt="gb"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_D58.png?12f84" height="35" alt="b"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_A40.png?3f15b" height="36" alt="A40"
+
+            Geb
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_W24.png?55bf4" height="17" alt="nw"
+
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_N1.png?b4d26" height="11" alt="pt"
+
+            Nut
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_Q1.png?30a23" height="30" alt="st"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_D4.png?e1f5d" height="9" alt="ir"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_A40.png?3f15b" height="36" alt="A40"
+
+            Osiris
+
+        <tr
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_Q1.png?30a23" height="38" alt="st"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_H8.png?530f1" height="18" alt="H8"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_B1.png?ca40a" height="38" alt="B1"
+
+            Isis
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_S29.png?58979" height="38" alt="s"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_N37.png?33374" height="12" alt="S"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_E20.png?98104" height="38" alt="E20"
+
+            Set
+
+          <td
+            <table dir="ltr"
+              <tbody
+                <tr
+                  <td
+                    <table
+                      <tbody
+                        <tr
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_O9.png?1bb39" height="38" alt="O9"
+
+                          <td
+                            <img src="/w/extensions/wikihiero/img/hiero_X1.png?f2a8c" height="11" alt="t"
+
+                            <br
+
+                            <img src="/w/extensions/wikihiero/img/hiero_H8.png?530f1" height="18" alt="H8"
+
+            Nephthys
 
 == In popular culture
 

@@ -368,6 +368,7 @@ source:
     (revision 1368209081), by Wikipedia contributors, used under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/tigris.mdy
+  source-digest: c6ea8f40494629d8
   source-revision: "1368209081"
   model: claude-opus-5
   left-out: 'Three different lengths for the river appear in the document: 1,900

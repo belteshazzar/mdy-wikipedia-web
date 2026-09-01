@@ -1,11 +1,12 @@
 slug: thoth
 findings:
-  - kind: dropped-hedge
-    quote: Egyptian scribes worshipped him universally and kept his picture in
-      their offices; the Greeks related him to their own Hermes.
-    why: "The source qualifies the picture claim: \"Many scribes had a painting or
-      a picture of Thoth in their 'office'.\" Only the worship is described as
-      universal; the standfirst carries \"universally\" across into a flat
-      claim that Egyptian scribes kept his picture in their offices."
+  - kind: lost-citation
+    quote: An Achaemenid cylinder seal from Iran carries Egyptian hieroglyphs
+      reading "Thoth is a protection over me".
+    why: In the source this claim appears only in the cylinder-seal figure
+      caption, where it carries the footnote [[ ^31 ]]. The rewrite drops the
+      figure and promotes the claim into the timeline and a pull-quote with no
+      reference; ^31 is the only footnote in the source that appears nowhere
+      in the rewrite.
     severity: minor
 verdict: minor-only

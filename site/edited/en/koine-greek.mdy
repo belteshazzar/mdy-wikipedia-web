@@ -1,14 +1,18 @@
 +++
 title: Koine Greek
 description: Dialect of Greek in the ancient world
-hook: A dialect that arose in the armies of Alexander the Great ended up
-  spoken from Ptolemaic Egypt to Seleucid Mesopotamia, replacing existing
-  Greek dialects with an everyday form that people anywhere could understand.
-standfirst: The common form of Greek spoken and written during the Hellenistic
-  period, the Roman Empire and the early Byzantine Empire. It spread with
-  Alexander the Great's conquests in the fourth century BC and served as the
-  lingua franca of much of the Mediterranean region and the Middle East.
+hook: The same Greek carried the Septuagint, the Christian New Testament and
+  the private thoughts of a Roman emperor. It is still the language of
+  services in the Greek Orthodox Church.
+standfirst: The common Greek that spread with Alexander's conquests in the
+  fourth century BC, and served as the lingua franca of much of the
+  Mediterranean region and the Middle East for centuries afterwards. It was
+  built mainly on Attic and Ionic speech, with admixtures from contact with
+  other varieties.
 key-facts:
+  - name: Also called
+    value: Hellenistic Greek, Biblical Greek, Septuagint Greek or New Testament
+      Greek
   - name: In use
     value: c. 300 BC – AD 600 (developed into Medieval Greek, survives as the
       liturgical language of the Greek Orthodox and the Greek Catholic
@@ -20,94 +24,57 @@ key-facts:
     value: Greeks
   - name: Written in
     value: Greek alphabet
-  - name: Where it sits in the family
-    value: Hellenic → Greek → Attic–Ionic → Attic → Koine Greek; earlier forms
-      Proto-Greek and Ancient Greek
-  - name: Language codes
-    value: Glottolog koin1234; a proposal to use the ISO 639-3 code ecg was
-      rejected in 2023
+  - name: ISO 639-3 code
+    value: ecg (a proposal to use ecg was rejected in 2023)
 pull-quotes:
-  - text: In the beginning was the Word, and the Word was with God, and the Word
-      was God.
-    attribution: the beginning of the Gospel of John, in the translation given
-      with the Koine sample
-    section: sample-2--greek-new-testament
-  - text: Concerning those matters about which the citizens of Thisbae made
-      representations.
-    attribution: a decree of the Roman Senate to the town of Thisbae in Boeotia in 170 BC
-    section: sample-1--a-roman-decree
+  - text: ἡ ἐκ τῶν τεττάρων συνεστῶσα
+    attribution: Hellenistic scholars, on Koine as the composition of the four
+      main Ancient Greek dialects
+    section: origins-and-history
   - text: He maintains that ἐκκλησία is merely used for designating the notion of
       meeting and gathering of men, without any particular character.
       Therefore, etymologizing this word could be needless, or even
       misleading, when it could guide to false meanings, for example that
       ἐκκλησία is a name used for the people of God, Israel.
-    attribution: Kyriakoula Papademetriou, explaining James Barr's criticism of
-      etymological arguments
+    attribution: Kyriakoula Papademetriou, on James Barr
     section: septuagint-greek
 timeline:
-  - when: early 4th century BC
-    what: Macedonian coinage of Amyntas III attests the first-declension genitive
-      in -as (ΑΜΥΝΤΑ) that Koine took up in place of the Attic ΑΜΥΝΤΟΥ.
-    from: Among the many contributions were the general use of the [[ first
-      declension ]] grammar for male and female nouns with an -as ending,
-      attested in the [[ genitive | genitive-case ]] of Macedonian coinage
-      from the early 4th century BC of [[ Amyntas III | amyntas-iii-of-macedon
-      ]] (ΑΜΥΝΤΑ in the genitive; the Attic form that fell into disuse would
-      be ΑΜΥΝΤΟΥ).
   - when: 4th century BC
-    what: Wikidata's start time for Koine Greek.
+    what: The start of Koine Greek.
     from: "start-time: 4th century BC"
   - when: 323 BC
-    what: Alexander the Great dies; the post-Classical period of Greek is defined
-      as beginning here, as cultures under Greek sway begin in turn to
-      influence the language.
-    from: the post-Classical period of Greek is defined as beginning with the
-      death of Alexander the Great in 323 BC, when cultures under Greek sway
-      in turn began to influence the language.
-  - when: 303 BC
-    what: The Successor kingdoms stand as mapped, before the battle of Ipsus.
-    from: The Successor kingdoms before the battle of Ipsus, 303 BC
+    what: The death of Alexander the Great, the conventional beginning of the
+      post-Classical period of Greek.
+    from: Though elements of Koine Greek took shape in Classical Greece, the
+      post-Classical period of Greek is defined as beginning with the death of
+      Alexander the Great in 323 BC, when cultures under Greek sway in turn
+      began to influence the language.
   - when: 3rd century BC
-    what: The Septuagint, the Greek translation of the Hebrew Bible, is made in
-      Koine.
-    from: Koine is also the language of the [[ Septuagint ]] (the 3rd century BC
-      Greek translation of the [[ Hebrew Bible ]]), the Christian [[ New
-      Testament ]], and of most early Christian theological writing by the [[
-      Church Fathers ]].
-  - when: 170 BC
-    what: The Roman Senate issues a decree to the town of Thisbae in Boeotia – one
-      of the two sample texts.
-    from: The following excerpt, from a decree of the Roman Senate to the town of
-      [[ Thisbae ]] in [[ Boeotia ]] in 170 BC, is rendered in a reconstructed
-      pronunciation representing a hypothetical conservative variety of
-      mainland Greek Koiné in the early Roman period.[[ ^36 ]]
+    what: The Septuagint, the Greek translation of the Hebrew Bible, is made.
+    from: Koine is also the language of the Septuagint (the 3rd century BC Greek
+      translation of the Hebrew Bible), the Christian New Testament, and of
+      most early Christian theological writing by the Church Fathers.
   - when: second century BC
-    what: The ancient distinction between long and short vowels is gradually lost;
-      from now on all vowels are isochronic, of equal length.
+    what: The Ancient Greek pitch accent is replaced with a stress accent, and all
+      vowels become isochronic.
     from: The ancient distinction between long and short vowels was gradually
       lost, and from the second century BC all vowels were isochronic (having
-      equal length).[[ ^26 ]][[ ^13 ]]
-  - when: second century BC
-    what: The Ancient Greek pitch accent is replaced with a stress accent.
-    from: From the second century BC, the [[ Ancient Greek pitch accent |
-      ancient-greek-accent ]] was replaced with a [[ stress accent |
-      stress-linguistics ]].[[ ^26 ]][[ ^13 ]]
+      equal length). From the second century BC, the Ancient Greek pitch
+      accent was replaced with a stress accent.
+  - when: 170 BC
+    what: A decree of the Roman Senate to the town of Thisbae in Boeotia, the
+      article's sample of conservative mainland Koiné.
+    from: The following excerpt, from a decree of the Roman Senate to the town of
+      Thisbae in Boeotia in 170 BC, is rendered in a reconstructed
+      pronunciation representing a hypothetical conservative variety of
+      mainland Greek Koiné in the early Roman period.
   - when: 1st century BC
     what: Koine Greek becomes a language of literature, and some people begin to
-      distinguish a literary post-classical form from the vernacular.
+      distinguish a literary form from the vernacular.
     from: "When Koine Greek became a language of literature by the 1st century BC,
       some people distinguished two forms: written as the literary
-      post-classical form (which should not be confused with [[ Atticism ]])
-      and the [[ vernacular ]].[[ ^13 ]]"
-  - when: 2nd century
-    what: Apollonius Dyscolus and Aelius Herodianus use //koine// to mean the
-      Proto-Greek language, while others use it for any vernacular Greek
-      unlike the literary language.
-    from: In the 2nd century, scholars such as [[ Apollonius Dyscolus ]] and [[
-      Aelius Herodianus ]] maintained the term //koine// to refer to the [[
-      Proto-Greek language ]], while others used it to refer to any vernacular
-      form of Greek speech which differed somewhat from the literary
-      language.[[ ^13 ]]
+      post-classical form (which should not be confused with Atticism) and the
+      vernacular."
   - when: between 175 and 225
     what: The 'most probable date' of Papyrus 46, one of the oldest extant New
       Testament manuscripts in Greek.
@@ -118,24 +85,25 @@ timeline:
     what: Constantine the Great founds Constantinople; the passage into Medieval
       Greek is sometimes dated from here, but often only from the end of late
       antiquity.
-    from: The passage into the next period, known as [[ Medieval Greek ]], is
-      sometimes dated from the foundation of [[ Constantinople ]] by [[
-      Constantine the Great ]] in 330 AD, but often only from the end of [[
-      late antiquity ]].
+    from: The passage into the next period, known as Medieval Greek, is sometimes
+      dated from the foundation of Constantinople by Constantine the Great in
+      330 AD, but often only from the end of late antiquity.
   - when: After the 4th century
     what: Christianity becomes the state church of the Roman Empire, and more
-      learned registers of Koiné come to be used by Christian writers.
-    from: After the 4th century, when Christianity became the [[ state church of
-      the Roman Empire ]], more learned registers of Koiné also came to be
-      used.[[ ^24 ]]
+      learned registers of Koiné come into use.
+    from: Christian writers in the earliest time tended to use a simple register
+      of Koiné, relatively close to the spoken language of their time,
+      following the model of the Bible. After the 4th century, when
+      Christianity became the state church of the Roman Empire, more learned
+      registers of Koiné also came to be used.
   - when: 6th century
-    what: Wikidata's end time for Koine Greek.
+    what: The end of Koine Greek.
     from: "end-time: 6th century"
   - when: 10th century AD
-    what: υ/οι unround to merge with ι – the last of the changes known as iotacism.
-    from: η (classically pronounced) was raised and merged with ι. In the 10th
-      century AD, υ/οι unrounded to merge with ι. These changes are known as
-      [[ iotacism ]].[[ ^13 ]]
+    what: υ and οι unround to merge with ι, completing the changes known as
+      iotacism.
+    from: In the 10th century AD, υ/οι/y/ unrounded to merge with ι. These changes
+      are known as iotacism.
 image-plan:
   - file: Greek_Script_from_Rosetta_Stone_(36140196440).jpg
     role: hero
@@ -145,9 +113,9 @@ image-plan:
   - file: Diadoch.png
     role: inline
     section: origins-and-history
-    caption: The Successor kingdoms before the battle of Ipsus, 303 BC. The
-      armies' newly formed common variety was spoken from the Ptolemaic
-      Kingdom of Egypt to the Seleucid Empire of Mesopotamia.
+    caption: The Successor kingdoms before the battle of Ipsus, 303 BC. The new
+      common variety was spoken from the Ptolemaic Kingdom of Egypt to the
+      Seleucid Empire of Mesopotamia.
   - file: Linguistic_map_of_the_Roman_Empire_c._400.svg
     role: full
     section: origins-and-history
@@ -162,79 +130,79 @@ image-plan:
       225.
 glossary:
   - term: Koine
-    gloss: From ἡ κοινὴ διάλεκτος, 'the common dialect'; the Greek word κοινή
-      itself means 'common'.
-    from: The English-language name //Koine// is derived from the Koine Greek term
-      ἡ κοινὴ διάλεκτος (//hē koinḕ diálektos//), meaning "the common
-      dialect".[[ ^5 ]] The Greek word [[ κοινή |
-      https://en.wiktionary.org/wiki/κοινή#Ancient_Greek ]] (//koinḗ//) itself
-      means "common".
+    gloss: 'Greek for "common": the name comes from ἡ κοινὴ διάλεκτος, "the common
+      dialect".'
+    from: The English-language name Koine is derived from the Koine Greek term ἡ
+      κοινὴ διάλεκτος (hē koinḕ diálektos), meaning "the common dialect".[[ ^5
+      ]] The Greek word κοινή (koinḗ) itself means "common".
   - term: Septuagint
-    gloss: The 3rd-century BC Greek translation of the Hebrew Bible (Old
-      Testament) and of texts not included in the Hebrew Bible.
-    from: The [[ Septuagint ]], a 3rd-century BC Greek translation of the [[
-      Hebrew Bible ]] (Old Testament) and [[ texts not included in the Hebrew
-      Bible | development-of-the-hebrew-bible-canon ]];
-  - term: Attic Koine
-    gloss: The literary Koine of the Hellenistic age, which resembles Attic so
-      closely that it is often called by this name.
-    from: The literary Koine of the Hellenistic age resembles Attic in such a
-      degree that it is often mentioned as //Attic Koine//.[[ ^13 ]]
-  - term: Historical present
-    gloss: Present-tense verbs used in some narrative sections of the New
-      Testament for events that are in the past with respect to the speaker.
-    from: The "[[ historical present ]]" tense is a term used for present tense
-      verbs that are used in some narrative sections of the New Testament to
-      describe events that are in the past with respect to the speaker.
-  - term: Iotacism
-    gloss: The name for the changes by which η was raised and merged with ι, and
-      by which υ/οι unrounded to merge with ι in the 10th century AD.
-    from: η (classically pronounced) was raised and merged with ι. In the 10th
-      century AD, υ/οι unrounded to merge with ι. These changes are known as
-      [[ iotacism ]].[[ ^13 ]]
-  - term: Psilosis
-    gloss: Loss of the rough breathing, which had already gone from the Ionic
-      Greek varieties of Anatolia and the Aeolic Greek of Lesbos.
-    from: "[[ Psilosis ]]: loss of [[ rough breathing ]], . Rough breathing had
-      already been lost in the [[ Ionic Greek ]] varieties of [[ Anatolia ]]
-      and the [[ Aeolic Greek ]] of [[ Lesbos ]].[[ ^13 ]]"
+    gloss: A 3rd-century BC Greek translation of the Hebrew Bible (Old Testament)
+      and texts not included in the Hebrew Bible.
+    from: The Septuagint, a 3rd-century BC Greek translation of the Hebrew Bible
+      (Old Testament) and texts not included in the Hebrew Bible;
   - term: Patristic Greek
     gloss: A term sometimes used for the Greek written by the Greek Church
       Fathers, the Early Christian theologians in late antiquity.
-    from: The term //patristic Greek// is sometimes used for the Greek written by
-      the [[ Greek Church Fathers | church-fathers#greek-fathers ]], the [[
-      Early Christian | early-christianity ]] theologians in late antiquity.
+    from: The term patristic Greek is sometimes used for the Greek written by the
+      Greek Church Fathers, the Early Christian theologians in late antiquity.
+  - term: Historical present
+    gloss: Present tense verbs used in some narrative sections of the New
+      Testament to describe events that are in the past with respect to the
+      speaker.
+    from: The "historical present" tense is a term used for present tense verbs
+      that are used in some narrative sections of the New Testament to
+      describe events that are in the past with respect to the speaker.
   - term: Isochronic
     gloss: "Having equal length: from the second century BC all Greek vowels were
-      isochronic, the old long/short distinction having gradually been lost."
+      pronounced this way, the ancient long/short distinction having been
+      lost."
     from: The ancient distinction between long and short vowels was gradually
       lost, and from the second century BC all vowels were isochronic (having
-      equal length).[[ ^26 ]][[ ^13 ]]
+      equal length).
+  - term: Psilosis
+    gloss: Loss of rough breathing, /h/ — already gone from the Ionic Greek
+      varieties of Anatolia and the Aeolic Greek of Lesbos.
+    from: "Psilosis: loss of rough breathing, /h/. Rough breathing had already
+      been lost in the Ionic Greek varieties of Anatolia and the Aeolic Greek
+      of Lesbos."
+  - term: Iotacism
+    gloss: The changes by which η, and later υ and οι, came to be pronounced as ι.
+    from: Simple vowels mostly preserved their ancient pronunciations. η/e/
+      (classically pronounced /ɛː/) was raised and merged with ι. In the 10th
+      century AD, υ/οι/y/ unrounded to merge with ι. These changes are known
+      as iotacism.
+  - term: Attic Koine
+    gloss: The literary Koine of the Hellenistic age, so called because it
+      resembles Attic to such a degree.
+    from: The literary Koine of the Hellenistic age resembles Attic in such a
+      degree that it is often mentioned as Attic Koine.
 further:
   - slug: alexander-the-great
     why: Koine arose as a common dialect within his armies, and the post-Classical
       period of Greek is dated from his death in 323 BC.
   - slug: macedonia-ancient-kingdom
-    why: It was under Macedon's leadership that the new common variety spread, and
-      Ancient Macedonian contributed considerable elements to it.
+    why: Under the leadership of Macedon the new common variety spread from Egypt
+      to Mesopotamia, and Ancient Macedonian contributed considerable elements
+      to it.
   - slug: rosetta-stone
-    why: Its Greek section is a Ptolemaic decree of the 2nd century BC – Koine as
-      it was actually cut into stone.
+    why: The Greek script this page opens on comes from its decree, issued in the
+      Ptolemaic Kingdom in the 2nd century BC.
 anchors:
-  hook: Koine [[ Greek | greek-language ]] arose as a common dialect within the
-    armies of [[ Alexander the Great ]].[[ ^13 ]] Under the leadership of [[
-    Macedon | macedonia-ancient-kingdom ]], their newly formed common variety
-    was spoken from the [[ Ptolemaic Kingdom ]] of Egypt to the [[ Seleucid
-    Empire ]] of [[ Mesopotamia ]].[[ ^13 ]] It replaced existing [[ ancient
-    Greek dialects ]] with an everyday form that people anywhere could
-    understand.[[ ^15 ]]
-  standfirst: was the [[ common supra-regional form | koiné-language ]] of [[
-    Greek | greek-language ]] spoken and written during the [[ Hellenistic
-    period ]], the [[ Roman Empire ]], and the early [[ Byzantine Empire ]].
-    It evolved from the spread of Greek following the conquests of [[
-    Alexander the Great ]] in the fourth century BC, and served as the [[
-    lingua franca ]] of much of the Mediterranean region and [[ the Middle
-    East ]] during the following centuries.
+  hook: Koine is also the language of the Septuagint (the 3rd century BC Greek
+    translation of the Hebrew Bible), the Christian New Testament, and of most
+    early Christian theological writing by the Church Fathers. In this
+    context, Koine Greek is also known as "Biblical", "New Testament",
+    "ecclesiastical", or "patristic" Greek. The Roman Emperor Marcus Aurelius
+    wrote his private thoughts in Koine Greek in a work that is now known as
+    Meditations. Koine Greek continues to be used as the liturgical language
+    of services in the Greek Orthodox Church and in some Greek Catholic
+    churches.
+  standfirst: It evolved from the spread of Greek following the conquests of
+    Alexander the Great in the fourth century BC, and served as the lingua
+    franca of much of the Mediterranean region and the Middle East during the
+    following centuries. It was based mainly on Attic and related Ionic speech
+    forms, with various admixtures brought about through dialect levelling
+    with other varieties.
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Greek_Script_from_Rosetta_Stone_%2836140196440%29.jpg/3840px-Greek_Script_from_Rosetta_Stone_%2836140196440%29.jpg
 images:
   - file: Greek_Script_from_Rosetta_Stone_(36140196440).jpg
@@ -487,36 +455,40 @@ source:
     BY-SA 4.0.
 rewritten:
   of: corpus/en/koine-greek.mdy
+  source-digest: 755cf79524a33ffc
   source-revision: "1371790987"
   model: claude-opus-5
-  left-out: 'Two headings had nothing to rewrite and are kept with empty bodies:
-    "Types" contains only the Papyrus 46 figure, which is in the image plan,
-    and "Differences in grammar" has no prose at all in the document. Every
-    phonetic value in the document is missing. The IPA brackets in footnotes
-    ^a and ^b, in the Name section ("The word is pronounced , , or in US
-    English and in UK English"), throughout the Phonology bullets, and the
-    entire IPA column of the New Testament Greek phonology table are empty, so
-    the sound changes are described but never given a value. I dropped the
-    pronunciation sentence that consisted only of empty brackets, reworded the
-    Phonology bullets so they do not point at absent symbols, and reproduced
-    the table as it stands. The two sample texts appear in the source as one
-    Greek word per paragraph, an artefact of a stripped transcription table; I
-    joined each into a single paragraph, words unchanged and in the same
-    order.'
+  left-out: "Two headings have no prose under them in the source and so have
+    empty bodies here: \"Differences in grammar\" (a heading with nothing
+    beneath it) and \"Types\" (which carries only the Papyrus 46 figure,
+    placed in the image plan). Nothing could be written for either without
+    inventing content that carries no citation. The Koine/Latin interlinear
+    transcriptions of both sample texts, the New Testament phonology table and
+    the Biblical Koine source list are reproduced as they stand rather than
+    rewritten, since they are word-lists and tables, not prose; the two sample
+    translations are likewise kept verbatim as quoted matter. The article's
+    footnote definitions for [[ ^a ]] and [[ ^b ]] (the English and Greek
+    pronunciations of the name) have no field in the schema, so they are not
+    reproduced; their content is partly duplicated in the Name section, which
+    the source itself does. Footnote markers [[ ^e ]], and references numbered
+    from ^5 upward, are carried on the claims they support, but the article
+    supplies no footnote text for them, so the sources themselves cannot be
+    named."
   verified: true
-  verdict: minor-only
-  findings: 2
+  verdict: clean
   reviewed: false
 +++
-!!Koine Greek!![[ ^a ]] (ἡ κοινὴ διάλεκτος, //hē koinḕ diálektos//, lit. 'the common dialect'),[[ ^b ]] also variously known as !!Hellenistic Greek!!, !!Biblical Greek!!, !!Septuagint Greek!! or !!New Testament Greek!!, evolved from the spread of Greek following the conquests of [[ Alexander the Great ]] in the fourth century BC, and served as the [[ lingua franca ]] of much of the Mediterranean region and [[ the Middle East ]] during the following centuries. It was the [[ common supra-regional form | koiné-language ]] of [[ Greek | greek-language ]] spoken and written during the [[ Hellenistic period ]], the [[ Roman Empire ]], and the early [[ Byzantine Empire ]], based mainly on [[ Attic | attic-greek ]] and related [[ Ionic | ionic-greek ]] speech forms, with various admixtures brought about through [[ dialect levelling ]] with other varieties.[[ ^6 ]]
+!!Koine Greek!![[ ^a ]] (ἡ κοινὴ διάλεκτος, //hē koinḕ diálektos//, lit. 'the common dialect'),[[ ^b ]] also variously known as !!Hellenistic Greek!!, !!Biblical Greek!!, !!Septuagint Greek!! or !!New Testament Greek!!, was the [[ common supra-regional form | koiné-language ]] of [[ Greek | greek-language ]] spoken and written during the [[ Hellenistic period ]], the [[ Roman Empire ]], and the early [[ Byzantine Empire ]]. It evolved from the spread of Greek following the conquests of [[ Alexander the Great ]] in the fourth century BC, and served as the [[ lingua franca ]] of much of the Mediterranean region and [[ the Middle East ]] during the following centuries. It was based mainly on [[ Attic | attic-greek ]] and related [[ Ionic | ionic-greek ]] speech forms, with various admixtures brought about through [[ dialect levelling ]] with other varieties.[[ ^6 ]]
 
-It was never one register. Koine Greek included styles ranging from conservative literary forms to the spoken vernaculars of the time.[[ ^7 ]] As the dominant language of the Byzantine Empire, it developed further into [[ Medieval Greek ]], which informed [[ Modern Greek ]].[[ ^8 ]]
+It was not one register but a range, from conservative literary forms to the spoken vernaculars of the time.[[ ^7 ]] As the dominant language of the Byzantine Empire, it developed further into [[ Medieval Greek ]], which informed [[ Modern Greek ]].[[ ^8 ]]
 
-Literary Koine was the medium of much [[ post-classical | greece-in-the-roman-era ]] Greek literary and scholarly writing, such as the works of [[ Plutarch ]] and [[ Polybius ]].[[ ^6 ]] Koine is also the language of the [[ Septuagint ]] (the 3rd century BC Greek translation of the [[ Hebrew Bible ]]), the Christian [[ New Testament ]], and of most early Christian theological writing by the [[ Church Fathers ]]; in this context it is also known as "Biblical", "New Testament", "ecclesiastical", or "patristic" Greek.[[ ^9 ]] The [[ Roman Emperor ]] [[ Marcus Aurelius ]] wrote his private thoughts in Koine Greek in a work that is now known as //[[ Meditations ]]//.[[ ^10 ]] Koine Greek continues to be used as the [[ liturgical language | sacred-language ]] of services in the [[ Greek Orthodox Church ]] and in some [[ Greek Catholic churches | greek-catholic-church ]].[[ ^11 ]]
+Literary Koine was the medium of much [[ post-classical | greece-in-the-roman-era ]] Greek literary and scholarly writing, such as the works of [[ Plutarch ]] and [[ Polybius ]].[[ ^6 ]] Koine is also the language of the [[ Septuagint ]] (the 3rd century BC Greek translation of the [[ Hebrew Bible ]]), the Christian [[ New Testament ]], and of most early Christian theological writing by the [[ Church Fathers ]]. In this context, Koine Greek is also known as "Biblical", "New Testament", "ecclesiastical", or "patristic" Greek.[[ ^9 ]] The [[ Roman Emperor ]] [[ Marcus Aurelius ]] wrote his private thoughts in Koine Greek in a work that is now known as //[[ Meditations ]]//.[[ ^10 ]] Koine Greek continues to be used as the [[ liturgical language | sacred-language ]] of services in the [[ Greek Orthodox Church ]] and in some [[ Greek Catholic churches | greek-catholic-church ]].[[ ^11 ]]
 
 == Name
 
-The English-language name //Koine// is derived from the Koine Greek term ἡ κοινὴ διάλεκτος (//hē koinḕ diálektos//), meaning "the common dialect".[[ ^5 ]] The Greek word [[ κοινή | https://en.wiktionary.org/wiki/κοινή#Ancient_Greek ]] (//koinḗ//) itself means "common". The pronunciation of the word //koine// changed gradually over the centuries, from a sound close to the [[ Classical Attic | attic-greek#classical-attic ]] pronunciation to one close to the [[ Modern Greek ]]. In Modern Greek, the language is referred to as Ελληνιστική Κοινή, "Hellenistic Koiné", in the sense of "Hellenistic [[ supraregional language | koiné-language ]]".[[ ^12 ]]
+The English-language name //Koine// is derived from the Koine Greek term ἡ κοινὴ διάλεκτος (//hē koinḕ diálektos//), meaning "the common dialect".[[ ^5 ]] The Greek word [[ κοινή | https://en.wiktionary.org/wiki/κοινή#Ancient_Greek ]] (//koinḗ//) itself means "common". The word is pronounced [[ /kɔɪˈneɪ/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]], [[ /ˈkɔɪneɪ/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]], or [[ /kiːˈniː/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]] in US English and [[ /ˈkɔɪniː/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]] in UK English.
+
+The name's own pronunciation did not stand still. The pronunciation of the word //koine// itself gradually changed from [[ [koinéː\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FGreek ]] (close to the [[ Classical Attic | attic-greek#classical-attic ]] pronunciation [[ [koi̯.nɛ̌ː\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FGreek ]]) to [[ [cyˈni\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FGreek ]] (close to the [[ Modern Greek ]] [[ [ciˈni\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FGreek ]]). In Modern Greek, the language is referred to as Ελληνιστική Κοινή, "Hellenistic Koiné", in the sense of "Hellenistic [[ supraregional language | koiné-language ]]".[[ ^12 ]]
 
 Ancient scholars did not agree on what the word covered. In the 2nd century, scholars such as [[ Apollonius Dyscolus ]] and [[ Aelius Herodianus ]] maintained the term //koine// to refer to the [[ Proto-Greek language ]], while others used it to refer to any vernacular form of Greek speech which differed somewhat from the literary language.[[ ^13 ]]
 
@@ -524,17 +496,17 @@ When Koine Greek became a language of literature by the 1st century BC, some peo
 
 == Origins and history
 
-Koine [[ Greek | greek-language ]] arose as a common dialect within the armies of [[ Alexander the Great ]].[[ ^13 ]] Under the leadership of [[ Macedon | macedonia-ancient-kingdom ]], their newly formed common variety was spoken from the [[ Ptolemaic Kingdom ]] of Egypt to the [[ Seleucid Empire ]] of [[ Mesopotamia ]].[[ ^13 ]] It replaced existing [[ ancient Greek dialects ]] with an everyday form that people anywhere could understand.[[ ^15 ]] Elements of Koine Greek had taken shape already in [[ Classical Greece ]], but the post-Classical period of Greek is defined as beginning with the death of Alexander the Great in 323 BC, when cultures under Greek sway in turn began to influence the language.
+Koine [[ Greek | greek-language ]] arose as a common dialect within the armies of [[ Alexander the Great ]].[[ ^13 ]] Under the leadership of [[ Macedon | macedonia-ancient-kingdom ]], their newly formed common variety was spoken from the [[ Ptolemaic Kingdom ]] of Egypt to the [[ Seleucid Empire ]] of [[ Mesopotamia ]].[[ ^13 ]] It replaced existing [[ ancient Greek dialects ]] with an everyday form that people anywhere could understand.[[ ^15 ]] Though elements of Koine Greek took shape in [[ Classical Greece ]], the post-Classical period of Greek is defined as beginning with the death of Alexander the Great in 323 BC, when cultures under Greek sway in turn began to influence the language.
 
 In its eastern provinces, the Roman Empire communicated almost exclusively in Greek, even in areas where Greek was not the dominant spoken language. Local elites and communities, including those in [[ Asia Minor | classical-anatolia ]], [[ Arabia | arabia-petraea ]], [[ Judaea | judaea-roman-province ]], [[ Syria | roman-syria ]], and [[ Egypt | roman-egypt ]], used Greek in inscriptions, documents, and official announcements.[[ ^16 ]]
 
-Where the period ends is a matter of convention. The passage into the next period, known as [[ Medieval Greek ]], is sometimes dated from the foundation of [[ Constantinople ]] by [[ Constantine the Great ]] in 330 AD, but often only from the end of [[ late antiquity ]]. The post-Classical period of Greek thus refers to the creation and evolution of Koine Greek throughout the entire Hellenistic and Roman eras of history until the start of the Middle Ages.[[ ^13 ]]
+Where the period ends is a matter of choice. The passage into the next period, known as [[ Medieval Greek ]], is sometimes dated from the foundation of [[ Constantinople ]] by [[ Constantine the Great ]] in 330 AD, but often only from the end of [[ late antiquity ]]. The post-Classical period of Greek thus refers to the creation and evolution of Koine Greek throughout the entire Hellenistic and Roman eras of history until the start of the Middle Ages.[[ ^13 ]]
 
-Where it came from was argued over for much longer. The linguistic roots of the Common Greek dialect had been unclear since ancient times. During the [[ Hellenistic period ]], most scholars thought of Koine as the result of the mixture of the four main Ancient Greek dialects, "ἡ ἐκ τῶν τεττάρων συνεστῶσα" (the composition of the Four). This view was supported in the early twentieth century by [[ Paul Kretschmer ]] in his book //Die Entstehung der Koine// (1901), while [[ Ulrich von Wilamowitz-Moellendorff ]] and [[ Antoine Meillet ]], based on the intense Ionic elements of the Koine – σσ instead of ττ and ρσ instead of ρρ (θάλασσα – θάλαττα, 'sea'; ἀρσενικός – ἀρρενικός, 'potent, virile') – considered Koine to be a simplified form of [[ Ionic | ionic-greek ]].[[ ^13 ]]
+The linguistic roots of the Common Greek dialect had been unclear since ancient times. During the [[ Hellenistic period ]], most scholars thought of Koine as the result of the mixture of the four main Ancient Greek dialects, "ἡ ἐκ τῶν τεττάρων συνεστῶσα" (the composition of the Four). This view was supported in the early twentieth century by [[ Paul Kretschmer ]] in his book //Die Entstehung der Koine// (1901), while [[ Ulrich von Wilamowitz-Moellendorff ]] and [[ Antoine Meillet ]], based on the intense Ionic elements of the Koine – σσ instead of ττ and ρσ instead of ρρ (θάλασσα – θάλαττα, 'sea'; ἀρσενικός – ἀρρενικός, 'potent, virile') – considered Koine to be a simplified form of [[ Ionic | ionic-greek ]].[[ ^13 ]]
 
 The view accepted by most scholars today was given by the Greek linguist [[ Georgios Hatzidakis ]], who showed that despite the "composition of the Four", the "stable nucleus" of Koine Greek is Attic. In other words, Koine Greek can be regarded as Attic with the admixture of elements especially from Ionic, but also from other dialects. The degree of importance of the non-Attic linguistic elements on Koine can vary depending on the region of the Hellenistic world.[[ ^13 ]]
 
-In that respect, the varieties of Koine spoken in the [[ Ionian | ionia ]] colonies of [[ Anatolia ]] (e.g. [[ Pontus | pontus-region ]], cf. [[ Pontic Greek ]]) would have more intense [[ Ionic | ionic-greek ]] characteristics than others, and those of Laconia and Cyprus would preserve some [[ Doric | doric-greek ]] and [[ Arcadocypriot | arcadocypriot-greek ]] characteristics, respectively. The literary Koine of the Hellenistic age resembles Attic in such a degree that it is often mentioned as //Attic Koine//.[[ ^13 ]]
+In that respect, the varieties of Koine spoken in the [[ Ionian | ionia ]] colonies of [[ Anatolia ]] (e.g. [[ Pontus | pontus-region ]], cf. [[ Pontic Greek ]]) would have more intense [[ Ionic | ionic-greek ]] characteristics than others and those of Laconia and Cyprus would preserve some [[ Doric | doric-greek ]] and [[ Arcadocypriot | arcadocypriot-greek ]] characteristics, respectively. The literary Koine of the Hellenistic age resembles Attic in such a degree that it is often mentioned as //Attic Koine//.[[ ^13 ]]
 
 == Types
 
@@ -549,7 +521,7 @@ In that respect, the varieties of Koine spoken in the [[ Ionian | ionia ]] colon
 
 == Septuagint Greek
 
-How much of Biblical Greek is the mainstream of contemporary spoken Koine, and how much of it carries specifically [[ Semitic | semitic-languages ]] [[ substratum | stratum-linguistics#substratum ]] features, has been debated. Those features could have been induced either through the practice of translating closely from [[ Biblical Hebrew ]] or [[ Aramaic | aramaic-language ]] originals, or through the influence of the regional non-standard Greek spoken by originally Aramaic-speaking [[ Hellenized Jews | hellenistic-judaism ]].
+How much of Biblical Greek is ordinary spoken Koine, and how much is the shape of another language showing through, is an open question. There has been some debate to what degree Biblical Greek represents the mainstream of contemporary spoken Koine and to what extent it contains specifically [[ Semitic | semitic-languages ]] [[ substratum | stratum-linguistics#substratum ]] features. These could have been induced either through the practice of translating closely from [[ Biblical Hebrew ]] or [[ Aramaic | aramaic-language ]] originals, or through the influence of the regional non-standard Greek spoken by originally Aramaic-speaking [[ Hellenized Jews | hellenistic-judaism ]].
 
 Some of the features discussed in this context are the Septuagint's normative absence of the particles μέν and δέ, and the use of ἐγένετο to denote "it came to pass". Some features of Biblical Greek which are thought to have originally been non-standard elements eventually found their way into the main of the Greek language.
 
@@ -592,12 +564,12 @@ The three most significant changes were the loss of vowel length distinction, th
 
 - The ancient distinction between long and short vowels was gradually lost, and from the second century BC all vowels were isochronic (having equal length).[[ ^26 ]][[ ^13 ]]
 - From the second century BC, the [[ Ancient Greek pitch accent | ancient-greek-accent ]] was replaced with a [[ stress accent | stress-linguistics ]].[[ ^26 ]][[ ^13 ]]
-- [[ Psilosis ]]: loss of [[ rough breathing ]]. Rough breathing had already been lost in the [[ Ionic Greek ]] varieties of [[ Anatolia ]] and the [[ Aeolic Greek ]] of [[ Lesbos ]].[[ ^13 ]]
-- The diphthongs ᾳ, ῃ, ῳ were respectively simplified to the long vowels ᾱ, η, ω.[[ ^13 ]]
-- The diphthongs αι, ει, and οι became [[ monophthongs | monophthong ]]. αι, which had already been pronounced that way by the Boeotians since the 4th century BC and written η (e.g. πῆς, χῆρε, μέμφομη), became in Koine, too, first a long vowel and then, with the loss of distinctive vowel length and openness distinction, merging with ε. The diphthong ει had already merged with ι in the 5th century BC in [[ Argos | ancient-argos ]], and by the 4th century BC in [[ Corinth | ancient-corinth ]] (e.g. ΛΕΓΙΣ), and it acquired this pronunciation also in Koine. The diphthong οι fronted, merging with υ. The diphthong υι came to be pronounced as a diphthong, but eventually lost its final element and also merged with υ.[[ ^27 ]] The diphthong ου had been already raised in the 6th century BC, and remains so in Modern Greek.[[ ^13 ]]
-- The diphthongs αυ and ευ came to be pronounced with a fricative second element, but are partly [[ assimilated | assimilation-phonology ]] before the [[ voiceless | voicelessness ]] consonants θ, κ, ξ, π, σ, τ, φ, χ, and ψ.[[ ^13 ]]
-- Simple vowels mostly preserved their ancient pronunciations. η was raised and merged with ι. In the 10th century AD, υ/οι unrounded to merge with ι. These changes are known as [[ iotacism ]].[[ ^13 ]]
-- The consonants also preserved their ancient pronunciations to a great extent, except β, γ, δ, φ, θ, χ and ζ. Β, Γ, Δ became fricatives, which they still are today, except when preceded by a nasal consonant (μ, ν); in that case, they retain their ancient pronunciations (e.g. γαμβρός > γαμπρός, ἄνδρας > άντρας, ἄγγελος > άγγελος). The latter three (Φ, Θ, Χ), which were initially pronounced as [[ aspirates | aspirated-consonant ]], developed into fricatives. Finally ζ, which is still metrically categorised as a double consonant with ξ and ψ because it may have initially been pronounced as σδ or δσ, later acquired its modern-day value.[[ ^13 ]]
+- [[ Psilosis ]]: loss of [[ rough breathing ]], /h/. Rough breathing had already been lost in the [[ Ionic Greek ]] varieties of [[ Anatolia ]] and the [[ Aeolic Greek ]] of [[ Lesbos ]].[[ ^13 ]]
+- The diphthongs ᾱͅ,ῃ, ῳ/aːieːioːi/ were respectively simplified to the long vowels ᾱ, η, ω/aːeːoː/.[[ ^13 ]]
+- The diphthongs αι, ει, and οι became [[ monophthongs | monophthong ]]. αι, which had already been pronounced as /ɛː/ by the Boeotians since the 4th century BC and written η (e.g. πῆς, χῆρε, μέμφομη), became in Koine, too, first a long vowel /ɛː/ and then, with the loss of distinctive vowel length and openness distinction /e/, merging with ε. The diphthong ει had already merged with ι in the 5th century BC in [[ Argos | ancient-argos ]], and by the 4th century BC in [[ Corinth | ancient-corinth ]] (e.g. ΛΕΓΙΣ), and it acquired this pronunciation also in Koine. The diphthong οι fronted to /y/, merging with υ. The diphthong υι came to be pronounced [yj], but eventually lost its final element and also merged with υ.[[ ^27 ]] The diphthong ου had been already raised to /u/ in the 6th century BC, and remains so in Modern Greek.[[ ^13 ]]
+- The diphthongs αυ and ευ came to be pronounced [avev] (via [aβeβ]), but are partly [[ assimilated | assimilation-phonology ]] to [afef] before the [[ voiceless | voicelessness ]] consonants θ, κ, ξ, π, σ, τ, φ, χ, and ψ.[[ ^13 ]]
+- Simple vowels mostly preserved their ancient pronunciations. η/e/ (classically pronounced /ɛː/) was raised and merged with ι. In the 10th century AD, υ/οι/y/ unrounded to merge with ι. These changes are known as [[ iotacism ]].[[ ^13 ]]
+- The consonants also preserved their ancient pronunciations to a great extent, except β, γ, δ, φ, θ, χ and ζ. Β, Γ, Δ, which were originally pronounced /bɡd/, became the fricatives /v/ (via [β]), /ɣ/, /ð/, which they still are today, except when preceded by a nasal consonant (μ, ν); in that case, they retain their ancient pronunciations (e.g. γαμβρός > γαμπρός[ɣamˈbros], ἄνδρας > άντρας[ˈandras], ἄγγελος > άγγελος[ˈaŋɟelos]). The latter three (Φ, Θ, Χ), which were initially pronounced as [[ aspirates | aspirated-consonant ]] (/pʰtʰkʰ/ respectively), developed into the fricatives /f/ (via [ɸ]), /θ/, and /x/. Finally ζ, which is still metrically categorised as a double consonant with ξ and ψ because it may have initially been pronounced as σδ [zd] or δσ [dz], later acquired its modern-day value of /z/.[[ ^13 ]]
 
 == New Testament Greek phonology
 
@@ -605,7 +577,7 @@ The Koine-period Greek in the table is taken from a reconstruction by Benjamin K
 
 More general Koine phonological developments include the spirantization of Γ, with palatal allophone before front-vowels and a plosive allophone after nasals, and β.[[ ^29 ]] φ, θ and χ still preserve their ancient aspirated plosive values, while the unaspirated stops π, τ, κ have perhaps begun to develop voiced allophones after nasals.[[ ^30 ]] Initial aspiration has also likely become an optional sound for many speakers of the popular variety.[[ ^31 ]][[ ^e ]] Monophthongization (including the initial stage in the fortition of the second element in the αυ/ευ diphthongs) and the loss of vowel-timing distinctions are carried through.
 
-On the other hand, Kantor argues for certain vowel qualities differing from the rest of the Koine in the Judean dialect. Although it is impossible to know the exact realizations of vowels, it is tentatively argued that the mid-vowels ε/αι and η had a more open pronunciation than other Koine dialects, distinguished as open-mid vs. close-mid,[[ ^32 ]] rather than as true-mid vs. close-mid as has been suggested for other varieties such as Egyptian.[[ ^33 ]] This is evidenced on the basis of Hebrew transcriptions of ε with //pataḥ/qamets// and not //tsere/segol//. Additionally, it is posited that α perhaps had a back vowel pronunciation, dragged backwards due to the opening of ε. Influence of the Aramaic substrate could have also caused confusion between α and ο, providing further evidence for the back vowel realization.[[ ^32 ]]
+The vowels are where this variety parts company with the rest. Kantor argues for certain vowel qualities differing from the rest of the Koine in the Judean dialect. Although it is impossible to know the exact realizations of vowels, it is tentatively argued that the mid-vowels ε/αι and η had a more open pronunciation than other Koine dialects, distinguished as open-mid /ɛ/ vs. close-mid /e/,[[ ^32 ]] rather than as true-mid /e̞/ vs. close-mid /e̝/ as has been suggested for other varieties such as Egyptian.[[ ^33 ]] This is evidenced on the basis of Hebrew transcriptions of ε with //pataḥ/qamets// /a/ and not //tsere/segol// /e/. Additionally, it is posited that α perhaps had a back vowel pronunciation as /ɑ/, dragged backwards due to the opening of ε. Influence of the Aramaic substrate could have also caused confusion between α and ο, providing further evidence for the back vowel realization.[[ ^32 ]]
 
 <table
   <tbody
@@ -625,7 +597,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//a//
 
-      <td
+      <td>/ɑ/
 
     <tr
       <td>Beta
@@ -634,7 +606,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//b//
 
-      <td
+      <td>/b/ ([b, β])
 
     <tr
       <td>Gamma
@@ -643,7 +615,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//g//
 
-      <td
+      <td>/ɣ/ ([ɣ, g, ʝ])
 
     <tr
       <td>Delta
@@ -652,7 +624,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//d//
 
-      <td
+      <td>/d/
 
     <tr
       <td>Epsilon
@@ -661,7 +633,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//e//
 
-      <td
+      <td>/ɛ/
 
     <tr
       <td>Zeta
@@ -670,7 +642,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//z//
 
-      <td
+      <td>/z/
 
     <tr
       <td>Eta
@@ -679,7 +651,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ē//
 
-      <td
+      <td>/e/
 
     <tr
       <td>Theta
@@ -688,7 +660,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//th//
 
-      <td
+      <td>/tʰ/
 
     <tr
       <td>Iota
@@ -697,7 +669,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//i//
 
-      <td
+      <td>/i/
 
     <tr
       <td>Kappa
@@ -706,7 +678,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//k//
 
-      <td
+      <td>/k/ ([k, g])
 
     <tr
       <td>Lambda
@@ -715,7 +687,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//l//
 
-      <td
+      <td>/l/ ([ʎ](?)
 
     <tr
       <td>Mu
@@ -724,7 +696,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//m//
 
-      <td
+      <td>/m/
 
     <tr
       <td>Nu
@@ -733,7 +705,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//n//
 
-      <td
+      <td>/n/ ([n, m])
 
     <tr
       <td>Xi
@@ -742,7 +714,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//x//
 
-      <td
+      <td>/ks/
 
     <tr
       <td>Omicron
@@ -751,7 +723,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//o//
 
-      <td
+      <td>/o̞/
 
     <tr
       <td>Pi
@@ -760,7 +732,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//p//
 
-      <td
+      <td>/p/ ([p, b])
 
     <tr
       <td>Rho
@@ -769,7 +741,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//r//
 
-      <td
+      <td>/r/
 
     <tr
       <td>Sigma
@@ -778,7 +750,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//s (-s-/-ss-)//
 
-      <td
+      <td>/s/ ([s, z])
 
     <tr
       <td>Tau
@@ -787,7 +759,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//t//
 
-      <td
+      <td>/t/ ([t, d])
 
     <tr
       <td>Upsilon
@@ -796,7 +768,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//y//
 
-      <td
+      <td>/y/
 
     <tr
       <td>Phi
@@ -805,7 +777,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ph//
 
-      <td
+      <td>/pʰ/
 
     <tr
       <td>Chi
@@ -814,7 +786,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ch//
 
-      <td
+      <td>/kʰ/
 
     <tr
       <td>Psi
@@ -823,7 +795,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ps//
 
-      <td
+      <td>/ps/
 
     <tr
       <td>Omega
@@ -832,7 +804,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ō//
 
-      <td
+      <td>/o/
 
     <tr
       <td>.
@@ -841,7 +813,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ai//
 
-      <td
+      <td>/ɛ/
 
     <tr
       <td>.
@@ -850,7 +822,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ei//
 
-      <td
+      <td>/i/
 
     <tr
       <td>.
@@ -859,7 +831,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//oi//
 
-      <td
+      <td>/y/
 
     <tr
       <td>.
@@ -868,7 +840,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//yi//
 
-      <td
+      <td>/yi/ (or /y/)
 
     <tr
       <td>.
@@ -877,7 +849,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//au//
 
-      <td
+      <td>[ɑɸ(ʷ), ɑβ(ʷ)]
 
     <tr
       <td>.
@@ -886,7 +858,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//eu//
 
-      <td
+      <td>[ɛɸ(ʷ), ɛβ(ʷ)]
 
     <tr
       <td>.
@@ -895,7 +867,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ou//
 
-      <td
+      <td>/u/
 
     <tr
       <td>.
@@ -904,7 +876,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//āi//
 
-      <td
+      <td>/ɑ/
 
     <tr
       <td>.
@@ -913,7 +885,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ēi//
 
-      <td
+      <td>/i/
 
     <tr
       <td>.
@@ -922,7 +894,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//ōi//
 
-      <td
+      <td>/o/
 
     <tr
       <td>.
@@ -931,7 +903,7 @@ On the other hand, Kantor argues for certain vowel qualities differing from the 
 
       <td>//h//
 
-      <td
+      <td>(/h/)
 
 == Ancient Macedonian Contribution
 
@@ -939,25 +911,496 @@ As a consequence of the [[ Macedonians | ancient-macedonians ]]' role in the for
 
 == Sample Koine texts
 
-The two texts below show differences from Attic Greek in all aspects – grammar, morphology, vocabulary – and can be inferred to show differences in phonology.
+The following texts show differences from Attic Greek in all aspects – grammar, morphology, vocabulary and can be inferred to show differences in phonology.
 
-The comments that go with them illustrate the phonological development within the period of Koine. The phonetic transcriptions are tentative and are intended to illustrate two different stages in the reconstructed development: an early conservative variety still relatively close to Classical Attic, and a somewhat later, more progressive variety approaching Modern Greek in some respects.
+The following comments illustrate the phonological development within the period of Koine. The phonetic transcriptions are tentative and are intended to illustrate two different stages in the reconstructed development, an early conservative variety still relatively close to Classical Attic, and a somewhat later, more progressive variety approaching Modern Greek in some respects.
 
 == Sample 1 – A Roman decree
 
-The following excerpt, from a decree of the Roman Senate to the town of [[ Thisbae ]] in [[ Boeotia ]] in 170 BC, is rendered in a reconstructed pronunciation representing a hypothetical conservative variety of mainland Greek Koiné in the early Roman period.[[ ^36 ]] The transcription shows raising of η, partial (pre-consonantal/word-final) raising of ῃ and ει, retention of pitch accent, and retention of the word-initial [[ rough breathing ]].
+The following excerpt, from a decree of the Roman Senate to the town of [[ Thisbae ]] in [[ Boeotia ]] in 170 BC, is rendered in a reconstructed pronunciation representing a hypothetical conservative variety of mainland Greek Koiné in the early Roman period.[[ ^36 ]] The transcription shows raising of η to /eː/, partial (pre-consonantal/word-final) raising of ῃ and ει to /iː/, retention of pitch accent, and retention of word-initial /h/ (the [[ rough breathing ]]).
 
-<p lang="grc-x-koine">περὶ ὧν Θισ[β]εῖς λόγους ἐποιήσαντο· περὶ τῶν καθ᾿ αὑ[τ]οὺς πραγμάτων, οἵτινες ἐν τῇ φιλίᾳ τῇ ἡμετέρᾳ ἐνέμειναν, ὅπως αὐτοῖς δοθῶσιν [ο]ἷς τὰ καθ᾿ αὑτοὺς πράγματα ἐξηγήσωνται, περὶ τούτου τοῦ πράγματος οὕτως ἔδοξεν· ὅπως Κόιντος Μαίνιος στρατηγὸς τῶν ἐκ τῆς συνκλήτου [π]έντε ἀποτάξῃ οἳ ἂν αὐτῷ ἐκ τῶν δημοσίων πρα[γμ]άτων καὶ τῆς ἰδίας πίστεως φαίνωνται.
+<p lang="grc-x-koine">περὶ
 
-Concerning those matters about which the citizens of Thisbae made representations. Concerning their own affairs: the following decision was taken concerning the proposal that those who remained true to our friendship should be given the facilities to conduct their own affairs; that our praetor/governor Quintus Maenius should delegate five members of the senate who seemed to him appropriate in the light of their public actions and individual good faith.
+<p lang="grc-x-koine-Latn">peri
+
+<p lang="grc-x-koine">ὧν
+
+<p lang="grc-x-koine-Latn">hoːn
+
+<p lang="grc-x-koine">Θισ[β]εῖς
+
+<p lang="grc-x-koine-Latn">tʰizbîːs
+
+<p lang="grc-x-koine">λόγους
+
+<p lang="grc-x-koine-Latn">lóɡuːs
+
+<p lang="grc-x-koine">ἐποιήσαντο·
+
+<p lang="grc-x-koine-Latn">epojéːsanto;
+
+<p lang="grc-x-koine">περὶ
+
+<p lang="grc-x-koine-Latn">peri
+
+<p lang="grc-x-koine">τῶν
+
+<p lang="grc-x-koine-Latn">toːn
+
+<p lang="grc-x-koine">καθ᾿
+
+<p lang="grc-x-koine-Latn">katʰ
+
+<p lang="grc-x-koine">αὑ[τ]οὺς
+
+<p lang="grc-x-koine-Latn">hautùːs
+
+<p lang="grc-x-koine">πραγμάτων,
+
+<p lang="grc-x-koine-Latn">praːɡmátoːn,
+
+<p lang="grc-x-koine">οἵτινες
+
+<p lang="grc-x-koine-Latn">hoítines
+
+<p lang="grc-x-koine">ἐν
+
+<p lang="grc-x-koine-Latn">en
+
+<p lang="grc-x-koine">τῇ
+
+<p lang="grc-x-koine-Latn">tiː
+
+<p lang="grc-x-koine">φιλίᾳ
+
+<p lang="grc-x-koine-Latn">pʰilíaːi
+
+<p lang="grc-x-koine">τῇ
+
+<p lang="grc-x-koine-Latn">tiː
+
+<p lang="grc-x-koine">ἡμετέρᾳ
+
+<p lang="grc-x-koine-Latn">heːmetéraːi
+
+<p lang="grc-x-koine">ἐνέμειναν,
+
+<p lang="grc-x-koine-Latn">enémiːnan,
+
+<p lang="grc-x-koine">ὅπως
+
+<p lang="grc-x-koine-Latn">hópoːs
+
+<p lang="grc-x-koine">αὐτοῖς
+
+<p lang="grc-x-koine-Latn">autois
+
+<p lang="grc-x-koine">δοθῶσιν
+
+<p lang="grc-x-koine-Latn">dotʰôːsin
+
+<p lang="grc-x-koine">[ο]ἷς
+
+<p lang="grc-x-koine-Latn">hois
+
+<p lang="grc-x-koine">τὰ
+
+<p lang="grc-x-koine-Latn">ta
+
+<p lang="grc-x-koine">καθ᾿
+
+<p lang="grc-x-koine-Latn">katʰ
+
+<p lang="grc-x-koine">αὑτοὺς
+
+<p lang="grc-x-koine-Latn">hautùːs
+
+<p lang="grc-x-koine">πράγματα
+
+<p lang="grc-x-koine-Latn">práːɡmata
+
+<p lang="grc-x-koine">ἐξηγήσωνται,
+
+<p lang="grc-x-koine-Latn">ekseːɡéːsoːntai,
+
+<p lang="grc-x-koine">περὶ
+
+<p lang="grc-x-koine-Latn">peri
+
+<p lang="grc-x-koine">τούτου
+
+<p lang="grc-x-koine-Latn">túːtuː
+
+<p lang="grc-x-koine">τοῦ
+
+<p lang="grc-x-koine-Latn">tuː
+
+<p lang="grc-x-koine">πράγματος
+
+<p lang="grc-x-koine-Latn">práːɡmatos
+
+<p lang="grc-x-koine">οὕτως
+
+<p lang="grc-x-koine-Latn">húːtoːs
+
+<p lang="grc-x-koine">ἔδοξεν·
+
+<p lang="grc-x-koine-Latn">édoksen;
+
+<p lang="grc-x-koine">ὅπως
+
+<p lang="grc-x-koine-Latn">hópoːs
+
+<p lang="grc-x-koine">Κόιντος
+
+<p lang="grc-x-koine-Latn">ˈkʷintos
+
+<p lang="grc-x-koine">Μαίνιος
+
+<p lang="grc-x-koine-Latn">ˈmainios
+
+<p lang="grc-x-koine">στρατηγὸς
+
+<p lang="grc-x-koine-Latn">strateːɡòs
+
+<p lang="grc-x-koine">τῶν
+
+<p lang="grc-x-koine-Latn">toːn
+
+<p lang="grc-x-koine">ἐκ
+
+<p lang="grc-x-koine-Latn">ek
+
+<p lang="grc-x-koine">τῆς
+
+<p lang="grc-x-koine-Latn">teːs
+
+<p lang="grc-x-koine">συνκλήτου
+
+<p lang="grc-x-koine-Latn">syŋkléːtuː
+
+<p lang="grc-x-koine">[π]έντε
+
+<p lang="grc-x-koine-Latn">pénte
+
+<p lang="grc-x-koine">ἀποτάξῃ
+
+<p lang="grc-x-koine-Latn">apotáksiː,
+
+<p lang="grc-x-koine">οἳ
+
+<p lang="grc-x-koine-Latn">hoi
+
+<p lang="grc-x-koine">ἂν
+
+<p lang="grc-x-koine-Latn">an
+
+<p lang="grc-x-koine">αὐτῷ
+
+<p lang="grc-x-koine-Latn">autoːi
+
+<p lang="grc-x-koine">ἐκ
+
+<p lang="grc-x-koine-Latn">ek
+
+<p lang="grc-x-koine">τῶν
+
+<p lang="grc-x-koine-Latn">toːn
+
+<p lang="grc-x-koine">δημοσίων
+
+<p lang="grc-x-koine-Latn">deːmosíoːn
+
+<p lang="grc-x-koine">πρα[γμ]άτων
+
+<p lang="grc-x-koine-Latn">praːɡmátoːn
+
+<p lang="grc-x-koine">καὶ
+
+<p lang="grc-x-koine-Latn">kai
+
+<p lang="grc-x-koine">τῆς
+
+<p lang="grc-x-koine-Latn">teːs
+
+<p lang="grc-x-koine">ἰδίας
+
+<p lang="grc-x-koine-Latn">idíaːs
+
+<p lang="grc-x-koine">πίστεως
+
+<p lang="grc-x-koine-Latn">písteoːs
+
+<p lang="grc-x-koine">φαίνωνται.
+
+<p lang="grc-x-koine-Latn">pʰaínoːntai
+
+Concerning those matters about which the citizens of Thisbae made
+representations. Concerning their own affairs: the following decision was
+taken concerning the proposal that those who remained true to our friendship
+should be given the facilities to conduct their own affairs; that our
+praetor/governor Quintus Maenius should delegate five members of the senate
+who seemed to him appropriate in the light of their public actions and
+individual good faith.
 
 == Sample 2 – Greek New Testament
 
-The following excerpt, [[ the beginning of the Gospel of John | john-1 ]], is rendered in a reconstructed pronunciation representing a progressive popular variety of Koiné in the early Christian era.[[ ^37 ]] Modernizing features include the loss of vowel length distinction, monophthongization, transition to stress accent, and raising of η. Also seen here are the bilabial fricative pronunciation of diphthongs αυ and ευ, loss of initial aspiration, fricative values for β and γ, and partial post-nasal voicing of voiceless stops.
+The following excerpt, [[ the beginning of the Gospel of John | john-1 ]], is rendered in a reconstructed pronunciation representing a progressive popular variety of Koiné in the early Christian era.[[ ^37 ]] Modernizing features include the loss of vowel length distinction, monophthongization, transition to stress accent, and raising of η to /i/. Also seen here are the bilabial fricative pronunciation of diphthongs αυ and ευ, loss of initial /h/, fricative values for β and γ, and partial post-nasal voicing of voiceless stops.
 
-<p lang="grc-x-biblical">Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος. οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν. πάντα δι᾽ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν ὃ γέγονεν. ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων. καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.
+<p lang="grc-x-biblical">Ἐν
 
-[[ In the beginning was the Word, and the Word was with God, and the Word was God. | john-11 ]] He was in the beginning with God. All things were made by Him; and without Him was not anything made that was made. In Him was life, and the life was the light of men. And the light shines in darkness; and the darkness comprehended it not (ESV translation uses alternate wording: "the darkness has not overcome it".)
+<p lang="grc-x-biblical-Latn">ˈen
+
+<p lang="grc-x-biblical">ἀρχῇ
+
+<p lang="grc-x-biblical-Latn">arˈkʰi
+
+<p lang="grc-x-biblical">ἦν
+
+<p lang="grc-x-biblical-Latn">in
+
+<p lang="grc-x-biblical">ὁ
+
+<p lang="grc-x-biblical-Latn">o
+
+<p lang="grc-x-biblical">λόγος,
+
+<p lang="grc-x-biblical-Latn">ˈloɣos,
+
+<p lang="grc-x-biblical">καὶ
+
+<p lang="grc-x-biblical-Latn">ke
+
+<p lang="grc-x-biblical">ὁ
+
+<p lang="grc-x-biblical-Latn">o
+
+<p lang="grc-x-biblical">λόγος
+
+<p lang="grc-x-biblical-Latn">ˈloɣos
+
+<p lang="grc-x-biblical">ἦν
+
+<p lang="grc-x-biblical-Latn">im
+
+<p lang="grc-x-biblical">πρὸς
+
+<p lang="grc-x-biblical-Latn">bros
+
+<p lang="grc-x-biblical">τὸν
+
+<p lang="grc-x-biblical-Latn">to(n)
+
+<p lang="grc-x-biblical">θεόν,
+
+<p lang="grc-x-biblical-Latn">tʰeˈo(n),
+
+<p lang="grc-x-biblical">καὶ
+
+<p lang="grc-x-biblical-Latn">ke
+
+<p lang="grc-x-biblical">θεὸς
+
+<p lang="grc-x-biblical-Latn">tʰeˈos
+
+<p lang="grc-x-biblical">ἦν
+
+<p lang="grc-x-biblical-Latn">in
+
+<p lang="grc-x-biblical">ὁ
+
+<p lang="grc-x-biblical-Latn">o
+
+<p lang="grc-x-biblical">λόγος.
+
+<p lang="grc-x-biblical-Latn">ˈloɣos.
+
+<p lang="grc-x-biblical">οὗτος
+
+<p lang="grc-x-biblical-Latn">ˈutos
+
+<p lang="grc-x-biblical">ἦν
+
+<p lang="grc-x-biblical-Latn">in
+
+<p lang="grc-x-biblical">ἐν
+
+<p lang="grc-x-biblical-Latn">en
+
+<p lang="grc-x-biblical">ἀρχῇ
+
+<p lang="grc-x-biblical-Latn">arˈkʰi
+
+<p lang="grc-x-biblical">πρὸς
+
+<p lang="grc-x-biblical-Latn">pros
+
+<p lang="grc-x-biblical">τὸν
+
+<p lang="grc-x-biblical-Latn">to(n)
+
+<p lang="grc-x-biblical">θεόν.
+
+<p lang="grc-x-biblical-Latn">tʰeˈo(n).
+
+<p lang="grc-x-biblical">πάντα
+
+<p lang="grc-x-biblical-Latn">ˈpanda
+
+<p lang="grc-x-biblical">δι᾽
+
+<p lang="grc-x-biblical-Latn">di
+
+<p lang="grc-x-biblical">αὐτοῦ
+
+<p lang="grc-x-biblical-Latn">aɸˈtu
+
+<p lang="grc-x-biblical">ἐγένετο,
+
+<p lang="grc-x-biblical-Latn">eˈʝeneto,
+
+<p lang="grc-x-biblical">καὶ
+
+<p lang="grc-x-biblical-Latn">ke
+
+<p lang="grc-x-biblical">χωρὶς
+
+<p lang="grc-x-biblical-Latn">kʰoˈris
+
+<p lang="grc-x-biblical">αὐτοῦ
+
+<p lang="grc-x-biblical-Latn">aɸˈtu
+
+<p lang="grc-x-biblical">ἐγένετο
+
+<p lang="grc-x-biblical-Latn">eˈʝeneto
+
+<p lang="grc-x-biblical">οὐδὲ
+
+<p lang="grc-x-biblical-Latn">ude
+
+<p lang="grc-x-biblical">ἕν
+
+<p lang="grc-x-biblical-Latn">ˈen
+
+<p lang="grc-x-biblical">ὃ
+
+<p lang="grc-x-biblical-Latn">o
+
+<p lang="grc-x-biblical">γέγονεν.
+
+<p lang="grc-x-biblical-Latn">ˈʝeɣonen.
+
+<p lang="grc-x-biblical">ἐν
+
+<p lang="grc-x-biblical-Latn">en
+
+<p lang="grc-x-biblical">αὐτῷ
+
+<p lang="grc-x-biblical-Latn">aɸˈto
+
+<p lang="grc-x-biblical">ζωὴ
+
+<p lang="grc-x-biblical-Latn">zoˈi
+
+<p lang="grc-x-biblical">ἦν,
+
+<p lang="grc-x-biblical-Latn">in,
+
+<p lang="grc-x-biblical">καὶ
+
+<p lang="grc-x-biblical-Latn">ke
+
+<p lang="grc-x-biblical">ἡ
+
+<p lang="grc-x-biblical-Latn">i
+
+<p lang="grc-x-biblical">ζωὴ
+
+<p lang="grc-x-biblical-Latn">zoˈi
+
+<p lang="grc-x-biblical">ἦν
+
+<p lang="grc-x-biblical-Latn">in
+
+<p lang="grc-x-biblical">τὸ
+
+<p lang="grc-x-biblical-Latn">to
+
+<p lang="grc-x-biblical">φῶς
+
+<p lang="grc-x-biblical-Latn">pʰos
+
+<p lang="grc-x-biblical">τῶν
+
+<p lang="grc-x-biblical-Latn">ton
+
+<p lang="grc-x-biblical">ἀνθρώπων.
+
+<p lang="grc-x-biblical-Latn">anˈtʰropon;
+
+<p lang="grc-x-biblical">καὶ
+
+<p lang="grc-x-biblical-Latn">ke
+
+<p lang="grc-x-biblical">τὸ
+
+<p lang="grc-x-biblical-Latn">to
+
+<p lang="grc-x-biblical">φῶς
+
+<p lang="grc-x-biblical-Latn">pʰos
+
+<p lang="grc-x-biblical">ἐν
+
+<p lang="grc-x-biblical-Latn">en
+
+<p lang="grc-x-biblical">τῇ
+
+<p lang="grc-x-biblical-Latn">di
+
+<p lang="grc-x-biblical">σκοτίᾳ
+
+<p lang="grc-x-biblical-Latn">skoˈtia
+
+<p lang="grc-x-biblical">φαίνει,
+
+<p lang="grc-x-biblical-Latn">ˈpʰeni,
+
+<p lang="grc-x-biblical">καὶ
+
+<p lang="grc-x-biblical-Latn">ke
+
+<p lang="grc-x-biblical">ἡ
+
+<p lang="grc-x-biblical-Latn">i
+
+<p lang="grc-x-biblical">σκοτία
+
+<p lang="grc-x-biblical-Latn">skoˈti(a)
+
+<p lang="grc-x-biblical">αὐτὸ
+
+<p lang="grc-x-biblical-Latn">a(ɸ)ˈto
+
+<p lang="grc-x-biblical">οὐ
+
+<p lang="grc-x-biblical-Latn">u
+
+<p lang="grc-x-biblical">κατέλαβεν.
+
+<p lang="grc-x-biblical-Latn">kaˈtelaβen
+
+[[ In the beginning was the Word, and the Word was with God, and the Word was God. | john-11 ]]
+He was in the beginning with God. All things were made by Him; and without Him
+was not anything made that was made. In Him was life, and the life was the
+light of men. And the light shines in darkness; and the darkness comprehended
+it not (ESV translation uses alternate wording: "the darkness has not overcome
+it".)
+
+[[ ^a ]]: Pronunciation: [[ UK | british-english ]]: [[ /ˈkɔɪ.ni/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]] [[ //KOY-nee// | https://en.wikipedia.org/wiki/Help%3APronunciation_respelling_key ]], [[ US | american-english ]]: [[ /ˈkɔɪ.neɪ/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]] [[ //KOY-nay// | https://en.wikipedia.org/wiki/Help%3APronunciation_respelling_key ]] or [[ /kɔɪ.ˈneɪ/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]] [[ //koy-NAY// | https://en.wikipedia.org/wiki/Help%3APronunciation_respelling_key ]].
+
+[[ ^b ]]: Pronunciation: [[ [(h)e̝ kyˈne̝ diˈalektos\] | https://en.wikipedia.org/wiki/Help%3AIPA ]], later [[ [i cyˈni ðiˈalektos\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FGreek ]].
 
 [[ ^6 ]]: Bubenik, V. (2007). "The rise of Koiné". In A. F. Christidis (ed.). //A history of Ancient Greek: from the beginnings to late antiquity//. Cambridge: University Press. pp. 342–345.
 
@@ -1011,7 +1454,7 @@ The following excerpt, [[ the beginning of the Gospel of John | john-1 ]], is re
 
 [[ ^31 ]]: Horrocks (2010): 171, 179.
 
-[[ ^e ]]: For convenience, the rough breathing mark represents , even if it was not commonly used in contemporary orthography. Parentheses denote the loss of the sound.
+[[ ^e ]]: For convenience, the rough breathing mark represents /h/, even if it was not commonly used in contemporary orthography. Parentheses denote the loss of the sound.
 
 [[ ^32 ]]: Kantor 2023:613
 

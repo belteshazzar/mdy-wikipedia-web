@@ -369,6 +369,7 @@ source:
     BY-SA 4.0.
 rewritten:
   of: corpus/en/nile-delta.mdy
+  source-digest: cc304abe8e65bb07
   source-revision: "1368797517"
   model: claude-opus-5
   left-out: 'The George of Cyprus heading is a link in the source markup ([[

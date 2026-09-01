@@ -160,6 +160,7 @@ source:
     used under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/ancient-egyptian-creation-myths.mdy
+  source-digest: ef4066987cd4712c
   source-revision: "1321979612"
   model: claude-opus-5
   left-out: Nothing had to be dropped. Two link targets are inconsistent in the

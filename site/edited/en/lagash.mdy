@@ -461,6 +461,7 @@ source:
     (revision 1371073616), by Wikipedia contributors, used under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/lagash.mdy
+  source-digest: b0cd8a52efc37ce4
   source-revision: "1371073616"
   model: claude-opus-5
   left-out: "Two headings have no prose of their own in the source —

@@ -582,6 +582,7 @@ source:
     under CC BY-SA 4.0.
 rewritten:
   of: corpus/en/ancient-egyptian-deities.mdy
+  source-digest: cecfe1af2571fa5c
   source-revision: "1370966460"
   model: claude-opus-5
   left-out: 'The "Interactions with humans" heading has no prose of its own in
