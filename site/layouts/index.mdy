@@ -1,0 +1,22 @@
+< section class="index-head"
+  <p class="eyebrow">{{ req.count }} articles · {{ req.images }} images, all credited
+  <h1>{{ req.site.title }}
+  <p>{{ req.site.description }}
+
+< section class="browse"
+  % for (const a of req.articles) {
+  < article class="browse-item"
+    < a href="{{ a.url }}"
+      % if (a.image) {
+      <img src="{{ a.image }}" alt="" loading="lazy" width="600" height="450"
+      % } else {
+      <div class="noimage">No free image
+      % }
+      <h2>{{ a.title }}
+    % if (a.description) {
+    <p>{{ a.description }}
+    % }
+    % if (a.meta) {
+    <p class="browse-meta">{{ a.meta }}
+    % }
+  % }

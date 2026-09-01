@@ -1,0 +1,23 @@
+% // A place knows two things an article does not: where it is, and who held
+% // it. Both are already in the front matter — the coordinates from the page,
+% // and `country` from Wikidata with the years each claim held for, which is
+% // the whole reason that record was worth importing dated.
+< div class="card"
+  <h3>{{ req.kind ?? "The place" }}
+
+  % if (req.facts.length) {
+  < dl class="facts"
+    % for (const f of req.facts) {
+    <dt>{{ f.name }}
+    <dd>{{ f.value }}
+    % }
+  % }
+
+  % if (req.held.length) {
+  < div class="held"
+    % for (const h of req.held) {
+    < div class="held-row"
+      <p class="held-when">{{ h.when }}
+      <p class="held-what">{{ h.what }}
+    % }
+  % }

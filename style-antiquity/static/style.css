@@ -1,0 +1,467 @@
+/*
+ * A vitrine.
+ *
+ * The subjects here survive as stone and clay: reliefs, steles, tablets,
+ * photographed the way museums photograph them — against near-black, under
+ * raking light. So the page is dark first and the images are the lit thing on
+ * it, which is also what lets a photograph run full-bleed without the page
+ * having to shout to be seen beside it.
+ *
+ * The two accents are the two pigments on the objects themselves. Egyptian
+ * blue is calcium copper silicate, made in Egypt around 2500 BC and traded as
+ * far as Mesopotamia — the first synthetic pigment there was. Red ochre is
+ * the other one, and it is used here for one thing only: time.
+ *
+ * Type is the reading and the apparatus, kept apart. Spectral does the prose
+ * and the headlines; Archivo, uppercase and tracked and small, does everything
+ * that is a museum's voice rather than the article's — object labels, credits,
+ * dates, navigation.
+ */
+
+:root {
+  --ground: #131110;
+  --surface: #1c1917;
+  --raised: #262220;
+  --ink: #e9e3d9;
+  --muted: #9c9289;
+  --faint: #6d655e;
+  --rule: #2e2924;
+  --blue: #5b8fd9;      /* Egyptian blue */
+  --blue-dim: #24344d;
+  --ochre: #c9673f;     /* red ochre — time, and nothing else */
+  --measure: 34rem;
+  --shadow: 0 2px 4px rgb(0 0 0 / 40%), 0 20px 50px -30px rgb(0 0 0 / 90%);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --ground: #e2e4e1;
+    --surface: #edeeec;
+    --raised: #f8f9f7;
+    --ink: #15181a;
+    --muted: #53585b;
+    --faint: #7b8184;
+    --rule: #c9ccc8;
+    --blue: #1f4d94;
+    --blue-dim: #ccd6e6;
+    --ochre: #8f3d1c;
+    --shadow: 0 1px 2px rgb(21 24 26 / 8%), 0 16px 40px -28px rgb(21 24 26 / 40%);
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: Spectral, Georgia, "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.68;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+img { max-width: 100%; height: auto; display: block; }
+
+a { color: var(--blue); text-decoration: none; border-bottom: 1px solid var(--blue-dim); }
+a:hover { border-bottom-color: var(--blue); }
+a:focus-visible { outline: 2px solid var(--blue); outline-offset: 3px; border-radius: 2px; }
+
+/* A link that leaves the fork. Not broken and not hidden — this corpus is 41
+   articles and most of what they mention is still on Wikipedia, so the honest
+   thing is to say which door a link goes through. */
+.prose a.out {
+  color: var(--ink);
+  border-bottom: 1px solid var(--rule);
+}
+
+.prose a.out:hover { border-bottom-color: var(--muted); }
+
+/* No outbound marker glyph: at 96.6% outbound it littered every paragraph
+   with arrows. The quiet rule under the words is difference enough, and the
+   page's boldness is meant to be spent on the photographs. */
+
+/* ---------------------------------------------------------------- apparatus
+ * Archivo, uppercase, tracked: the museum's voice, never the article's. */
+
+.label, .site-nav, figcaption .credit, .eyebrow, .card h3, .toc-head,
+.era-year, .plates-head, .colophon, .browse-meta, .held-when {
+  font-family: Archivo, "Helvetica Neue", Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.13em;
+  font-size: 0.66rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+/* ------------------------------------------------------------------- chrome */
+
+.site-head {
+  display: flex;
+  align-items: baseline;
+  gap: 1.5rem;
+  padding: 1.4rem clamp(1rem, 4vw, 3rem);
+  border-bottom: 1px solid var(--rule);
+  position: relative;
+  z-index: 2;
+}
+
+.site-head a { border: 0; }
+
+.wordmark {
+  font-family: Spectral, Georgia, serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.site-nav { color: var(--muted); display: flex; gap: 1.2rem; }
+.site-nav a { color: var(--muted); border: 0; }
+.site-nav a:hover { color: var(--blue); }
+
+/* --------------------------------------------------------------------- hero
+ * The article opens on the object, not on a headline over a colour. */
+
+.hero { position: relative; background: #000; }
+
+.hero-img {
+  width: 100%;
+  height: clamp(20rem, 56vh, 34rem);
+  object-fit: cover;
+  opacity: 0.82;
+  filter: saturate(0.92);
+}
+
+/* A scrim, not a fade into the page. Fading to the ground colour meant naming
+   the dark ground inside the gradient, which then bled a muddy grey across
+   the bottom of every hero in the light theme. Black over a photograph is
+   correct in both, and the photograph simply ends. */
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgb(0 0 0 / 42%) 0%,
+    rgb(0 0 0 / 8%) 32%,
+    rgb(0 0 0 / 62%) 80%,
+    rgb(0 0 0 / 78%) 100%
+  );
+  pointer-events: none;
+}
+
+.hero-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  padding: 0 clamp(1rem, 4vw, 3rem) clamp(1.6rem, 4vw, 3rem);
+  max-width: 52rem;
+}
+
+.eyebrow { color: var(--ochre); margin-bottom: 0.7rem; }
+.eyebrow .sep { color: var(--faint); margin: 0 0.5em; }
+
+.hero h1 {
+  font-size: clamp(2.5rem, 7.5vw, 5rem);
+  font-weight: 700;
+  line-height: 0.98;
+  letter-spacing: -0.025em;
+  margin: 0;
+  text-wrap: balance;
+  color: #fff;
+  text-shadow: 0 2px 30px rgb(0 0 0 / 60%);
+}
+
+.standfirst {
+  margin: 1rem 0 0;
+  font-size: clamp(1.1rem, 2.2vw, 1.4rem);
+  line-height: 1.45;
+  font-weight: 300;
+  font-style: italic;
+  color: var(--ink);
+  max-width: 34rem;
+}
+
+/* A page with no image to open on still opens deliberately. */
+.hero.textual { padding: clamp(3rem, 9vw, 7rem) 0 0; }
+.hero.textual .hero-text { position: static; padding-bottom: 0; }
+.hero.textual h1 { color: var(--ink); text-shadow: none; }
+.hero.textual::after { display: none; }
+
+/* ------------------------------------------------------------------ measure */
+
+.page {
+  display: grid;
+  grid-template-columns: 1fr min(var(--measure), calc(100% - 2rem)) 1fr;
+  padding: clamp(1.8rem, 4vw, 3rem) 0 5rem;
+  row-gap: 1.4rem;
+}
+
+.page > * { grid-column: 2; }
+
+/* Three ways out of the column, all of them deliberate. */
+.page > .wide { grid-column: 2; width: min(56rem, calc(100vw - 2rem)); justify-self: center; }
+.page > .full { grid-column: 1 / -1; width: 100%; }
+
+.prose > * { margin: 0 0 1.35rem; }
+.prose > *:last-child { margin-bottom: 0; }
+
+.prose h2 {
+  font-size: 1.85rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  margin: 3.4rem 0 1.1rem;
+  text-wrap: balance;
+}
+
+.prose h3 {
+  font-size: 1.22rem;
+  font-weight: 600;
+  margin: 2.2rem 0 0.7rem;
+}
+
+.prose h2 + h3 { margin-top: 1.2rem; }
+
+/* A heading is an anchor, and says so on hover rather than always. */
+.prose h2 a, .prose h3 a { color: inherit; border: 0; }
+.prose h2:hover a::after, .prose h3:hover a::after {
+  content: " §";
+  color: var(--faint);
+  font-size: 0.7em;
+  vertical-align: 0.15em;
+}
+
+.prose ul, .prose ol { padding-left: 1.4rem; }
+.prose li { margin-bottom: 0.4rem; }
+
+.prose blockquote {
+  border-left: 2px solid var(--ochre);
+  padding-left: 1.3rem;
+  font-style: italic;
+  color: var(--muted);
+}
+
+.prose sup a { border: 0; font-size: 0.7em; padding: 0 0.1em; }
+
+.prose table { border-collapse: collapse; width: 100%; font-size: 0.86rem; }
+.prose th, .prose td { text-align: left; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--rule); }
+
+/* The footnotes the converter made are apparatus, not prose. */
+.prose .footnotes, .prose ol.footnotes { font-size: 0.84rem; color: var(--muted); }
+
+/* ----------------------------------------------------------------- figures */
+
+figure { margin: 0; }
+
+.page > figure.full { margin: 3rem 0; }
+.page > figure.wide { margin: 2.4rem auto; }
+
+figure img { width: 100%; background: var(--surface); }
+
+figcaption {
+  padding: 0.75rem clamp(1rem, 4vw, 3rem) 0;
+  max-width: 44rem;
+  margin: 0 auto;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+figure.wide figcaption { padding-left: 0; padding-right: 0; }
+
+/* Who made it and on what terms — the thing phase 0 went and got. */
+figcaption .credit {
+  display: block;
+  margin-top: 0.45rem;
+  color: var(--faint);
+  letter-spacing: 0.11em;
+}
+
+figcaption .credit a { color: var(--faint); border-bottom-color: var(--rule); }
+figcaption .credit a:hover { color: var(--blue); }
+
+/* -------------------------------------------------------------------- cards
+ * Data the article already carried, shown as an object label beside it. */
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 1.3rem 1.4rem;
+  box-shadow: var(--shadow);
+}
+
+.card h3 { margin: 0 0 0.9rem; color: var(--ochre); }
+
+.facts { margin: 0; display: grid; grid-template-columns: 9.5rem 1fr; gap: 0.55rem 1.1rem; font-size: 0.92rem; }
+.facts dt { color: var(--faint); font-family: Archivo, Arial, sans-serif; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.09em; padding-top: 0.28em; }
+.facts dd { margin: 0; }
+
+@media (max-width: 34rem) {
+  .facts { grid-template-columns: 1fr; gap: 0.15rem 0; }
+  .facts dd { margin-bottom: 0.65rem; }
+}
+
+/* ------------------------------------------------------- who held it, when
+ * Wikidata's `country` claims are dated, so this is three thousand years of
+ * rule rather than a list of twelve countries the place is somehow in. */
+
+.held { display: flex; flex-direction: column; gap: 0; }
+
+.held-row {
+  display: grid;
+  grid-template-columns: 10rem 1fr;
+  gap: 1rem;
+  padding: 0.55rem 0;
+  border-top: 1px solid var(--rule);
+  align-items: baseline;
+}
+
+.held-row:first-of-type { border-top: 0; }
+.held-when { color: var(--ochre); font-variant-numeric: tabular-nums; }
+.held-what { font-size: 0.95rem; }
+
+@media (max-width: 34rem) {
+  .held-row { grid-template-columns: 1fr; gap: 0.1rem; }
+}
+
+/* ------------------------------------------------------------------ the toc
+ * A slim outline in the margin, and out of the way entirely when there is no
+ * margin to put it in. */
+
+.toc {
+  display: none;
+  grid-column: 1;
+  justify-self: end;
+  align-self: start;
+  position: sticky;
+  top: 2.5rem;
+  width: 11rem;
+  margin-right: 2.5rem;
+  max-height: calc(100vh - 5rem);
+  overflow-y: auto;
+}
+
+/* Only where there is a margin to put it in. Fixed to the viewport it sat on
+   top of the hero, which is a full-bleed photograph and not a background. */
+@media (min-width: 82rem) { .toc { display: block; } }
+
+.toc-head { color: var(--faint); margin-bottom: 0.7rem; }
+.toc ol { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.42rem; }
+.toc a {
+  color: var(--muted);
+  border: 0;
+  font-size: 0.82rem;
+  line-height: 1.3;
+  display: block;
+  border-left: 1px solid var(--rule);
+  padding-left: 0.7rem;
+}
+.toc a:hover { color: var(--ink); border-left-color: var(--blue); }
+.toc .depth-3 a { padding-left: 1.4rem; opacity: 0.75; }
+
+/* ------------------------------------------------------------------- plates
+ * A printed history puts its pictures in a plate section because it cannot
+ * put them where the words are. Neither can this, yet — the importer records
+ * an article's images without recording which paragraph each belongs to. So
+ * the page says so, rather than scattering them and hoping. */
+
+.plates-head { color: var(--faint); border-top: 1px solid var(--rule); padding-top: 1.2rem; margin-bottom: 0.5rem; }
+.plates-note { color: var(--faint); font-size: 0.86rem; font-style: italic; margin: 0 0 1.8rem; max-width: 42rem; }
+
+.plates {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+  gap: 1.8rem 1.4rem;
+}
+
+/* The plates stay inside the measure rather than breaking out of it. Breaking
+   out meant running under the contents rail, which is sticky for the length of
+   the article and so cannot be cleared by any width worth having. Two up in
+   the column is what a printed plate section looks like anyway. */
+
+/* Every plate the same shape. The images are a statue, a lithograph and a
+   cylinder seal — three aspect ratios — and left to themselves they made a
+   ragged edge with captions stranded halfway down it. A plate section is
+   ordered; that is most of what makes it read as one. */
+.plates figure { display: flex; flex-direction: column; }
+.plates img { aspect-ratio: 4 / 3; object-fit: cover; border-radius: 2px; }
+.plates figcaption { padding: 0.65rem 0 0; font-size: 0.82rem; max-width: none; margin: 0; }
+
+/* -------------------------------------------------------------------- index */
+
+.browse {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr));
+  gap: 2rem 1.6rem;
+  padding: 0 clamp(1rem, 4vw, 3rem) 6rem;
+}
+
+.browse-item a { border: 0; display: block; }
+.browse-item { display: flex; flex-direction: column; }
+.browse-item img,
+.browse-item .noimage {
+  aspect-ratio: 4 / 3;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 2px;
+  background: var(--surface);
+  display: block;
+}
+
+/* No picture is a fact about the article, not a hole in the grid. */
+.browse-item .noimage {
+  border: 1px solid var(--rule);
+  display: grid;
+  place-items: center;
+  color: var(--faint);
+  font-family: Archivo, Arial, sans-serif;
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.browse-item h2 {
+  font-size: 1.32rem;
+  font-weight: 700;
+  line-height: 1.15;
+  margin: 0.8rem 0 0.3rem;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+.browse-item a:hover h2 { color: var(--blue); }
+.browse-item p { margin: 0; color: var(--muted); font-size: 0.93rem; line-height: 1.45; }
+.browse-meta { color: var(--ochre); margin-top: 0.5rem; }
+
+.index-head { padding: clamp(3rem, 8vw, 6rem) clamp(1rem, 4vw, 3rem) 2.5rem; max-width: 46rem; }
+.index-head h1 { font-size: clamp(2.4rem, 6vw, 4rem); font-weight: 700; line-height: 1; letter-spacing: -0.025em; margin: 0.6rem 0 0; }
+.index-head p { color: var(--muted); font-size: 1.15rem; font-style: italic; font-weight: 300; margin: 1rem 0 0; }
+
+/* ----------------------------------------------------------------- colophon
+ * Wikipedia's licence is share-alike and its attribution is a requirement.
+ * It is also, on a fork, the thing that says where this came from. */
+
+.colophon {
+  border-top: 1px solid var(--rule);
+  margin-top: 4rem;
+  padding: 1.6rem clamp(1rem, 4vw, 3rem) 3rem;
+  color: var(--faint);
+  letter-spacing: 0.09em;
+  line-height: 1.9;
+  text-transform: none;
+  font-size: 0.7rem;
+}
+
+.colophon a { color: var(--muted); border-bottom-color: var(--rule); }
+.colophon strong { color: var(--muted); font-weight: 500; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

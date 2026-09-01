@@ -332,7 +332,7 @@ image manifest where every entry names its licence and its author. ✅ — see
 *unrewritten* documents, which is the point: it proves the design with the
 model risk nowhere near it, and it is what settles the schema phase 2 asks
 for. Exit: a built site of the phase 0 corpus, article and place archetypes,
-that is worth looking at.
+that is worth looking at. ✅ — see [what phase 1 landed](#what-phase-1-landed).
 
 **Phase 2 — ten rewrites, read side by side.** The house style, the schema,
 the verifier, and ten articles put through all three, compared against their
@@ -437,12 +437,19 @@ front matter would mean a re-import — the thing the pipeline exists to make
 cheap — throwing them away again. A `.yaml` file in a site directory has its
 fields merged into `meta`, so the manifest is as queryable as front matter.
 
-**Derivatives come from Commons' thumbnailer, not from a local resize.** The
-service renders any width on request; the `500px-` in an imported `src` already
-is one. Asking it for 400/800/1600/2400 is less bandwidth than fetching a
-7,502-pixel original to shrink it, needs no codec here — and **disposes of the
-`$.resize` PNG-only problem entirely** for imported images, which was listed
-above as a constraint on the design and is not one.
+**Derivatives come from Commons' thumbnailer, not from a local resize.**
+Asking it for a width is less bandwidth than fetching a 7,502-pixel original to
+shrink it, and needs no codec here — which **disposes of the `$.resize`
+PNG-only problem entirely** for imported images, listed above as a constraint
+on the design and not one.
+
+> Corrected in phase 1. This first said the service renders *any* width on
+> request. It does not, any more: anything off a fixed list answers `400 Use
+> thumbnail sizes listed on https://w.wiki/GHai`, and a page of 1600-pixel
+> heroes is a page of broken images. Probed across files of different sizes,
+> the list is **120, 250, 330, 500, 960, 1280, 1920, 3840** — so 1920 is a
+> hero and 1600 is nothing. The conclusion survives the correction; the widths
+> did not.
 
 ### What is knowingly left
 
@@ -454,6 +461,99 @@ above as a constraint on the design and is not one.
 - **One pre-existing test failure** in `mdy-wikipedia` — *every mdy document in
   the repo survives the round trip* — which fails on a clean checkout too and
   is nothing to do with any of this.
+
+## What phase 1 landed
+
+42 pages, built by `mdy build site`. `site/` is the entry document and its
+layouts with the corpus under it; `style-antiquity/` is the look, a package of
+its own, imported by path — the `examples/blog` ÷ `examples/blog-style-x` split
+copied deliberately, so design iteration never touches the pipeline.
+
+### The design
+
+A **vitrine**. These subjects survive as stone and clay, and museums photograph
+stone against near-black under raking light, so the page is dark first and the
+photograph is the lit thing on it — which is also what lets an image run
+full-bleed without the page having to shout beside it. A light theme exists and
+is a cool limestone rather than a cream, because a two-hour read should not
+have to be dark.
+
+The two accents are the two pigments on the objects themselves: **Egyptian
+blue**, the first synthetic pigment, made around 2500 BC and traded from Egypt
+into Mesopotamia — and **red ochre**, used for one thing only, which is time.
+
+Type is the reading and the apparatus, kept apart: **Spectral** for prose and
+headlines, **Archivo** — uppercase, tracked, small — for everything that is a
+museum's voice rather than the article's: object labels, dates, credits,
+navigation.
+
+### What the data already pays for
+
+The point of the conversion shows up on the page before any rewriting happens.
+
+- **The eyebrow over every title** — `bilingual inscription · 196 BC` — is
+  Wikidata's `instance-of` and `inception`, not prose.
+- **Every image carries its author and licence** under it, because phase 0 went
+  and got them.
+- **Babylon has a table of who held it**, twelve rows, Neo-Assyrian through
+  Rashidun, with Parthia appearing twice because Parthia held Babylon, lost it
+  and took it back. Nobody wrote that table. It is `country` with the years
+  each statement held for, which is exactly the thing the importer's own plan
+  argues is the difference between a record and a wrong one.
+- **The archetype is chosen from data**: coordinates mean a place, and a place
+  gets that table where an article gets a plain object label.
+
+### Three things running it taught
+
+**Every link in the corpus was pointing at nothing.** `--links wiki` writes
+`[[ fort-julien ]]`, which is a relative href to a document that exists for
+3.4% of links and not for the other 96.6%. The fix needed information the
+converter was computing and throwing away, so `link-titles` — slug to the title
+behind it — now goes into the front matter under `--links wiki`, where it is
+both needed and small enough to be worth having. With it a layout can send a
+link into the fork or out to the Wikipedia article it came from, and neither is
+guessed. (It cannot be called `links`: mdy's own parser writes the slugs it
+sees to `res.data.links`, and the first spelling silently overwrote them.)
+
+Outbound links are marked, quietly — a rule under the words rather than the
+blue of an internal link. They were marked with an arrow first, and at 96.6%
+outbound that littered every paragraph; the page's boldness is meant to be
+spent on the photographs.
+
+**A map is not a hero.** The first image in an article is whatever came first
+in the page, which for a good many is a plan or a timeline. The lead image the
+summary endpoint names comes first now, and a diagram sorts behind a
+photograph. It does not save every page — Babylon's own lead image really is a
+satellite photograph of the modern site — and the pages it does not save are
+the argument for phase 2's image plan.
+
+**Wikidata's labels fall back to another language silently.** The Rosetta Stone
+is an `instance-of` `[Überrest, bilingual inscription, stele]`, and taking the
+first put a German word at the top of the page. Where a property offers several
+values the site now prefers one that reads as English. The real fix belongs in
+the importer, which asks for labels in the wiki's language and cannot currently
+say which ones it did not get.
+
+### Where the images go is still the open question
+
+The importer records an article's images without recording which paragraph each
+belongs to, so the page cannot interleave them. Rather than scatter them and
+hope, it gathers them into a **plate section** and says why — the way a printed
+history gathers its plates, and for exactly the same reason.
+
+That is an honest answer and not a good one, and it is the single clearest
+argument for the rewrite schema: `image-plan` is the field that turns this
+section into figures where the words are.
+
+### What is knowingly left
+
+- **A search index.** `$.tokenize` is there for it; nothing uses it yet.
+- **Era hubs, timelines and maps.** Phase 4, and the corpus is large enough now
+  to make them worth building.
+- **`--download`.** Still not run: the site points at Commons, which is fine
+  for 41 articles and not for a launch.
+- **Build time.** 65 seconds for 42 pages, most of it the link-rewriting
+  transform over 41 large trees. Fine now, worth watching at 5,000.
 
 ## Open questions
 

@@ -46,7 +46,18 @@ const agent =
 
 // The widths a page might ask for: a thumbnail in a list, an inline figure, a
 // hero on a laptop, a hero on a display that costs more than the laptop.
-const widths = [400, 800, 1600, 2400]
+//
+// They are not free choices. The thumbnail service used to render any width
+// asked of it and now answers `400 Use thumbnail sizes listed on
+// https://w.wiki/GHai` for anything off a fixed list, which — probed across
+// files of different sizes, since the documentation is a wiki page and the
+// behaviour is the thing that has to be true — is exactly:
+//
+//   120  250  330  500  960  1280  1920  3840
+//
+// So 1600 is a broken image and 1920 is a hero. Anything not on this list will
+// silently produce a page of broken pictures, which is how this was found.
+const widths = [330, 500, 960, 1280, 1920]
 
 /** Wikipedia's own words for "you may not reuse this". */
 const unfree = /non-?free|fair use|with permission|all rights reserved/i

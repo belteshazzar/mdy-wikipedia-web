@@ -1,6 +1,6 @@
 import {readFile} from 'node:fs/promises'
 import YAML from 'yaml'
-const m = YAML.parse(await readFile('corpus/images.yaml', 'utf8'))
+const m = YAML.parse(await readFile('site/corpus/images.yaml', 'utf8'))
 const rows = Object.entries(m.images)
 const noLicence = rows.filter(([, i]) => i.licence === 'unknown')
 const noAuthor = rows.filter(([, i]) => i.author === 'unknown')

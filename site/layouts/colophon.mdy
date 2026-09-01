@@ -1,0 +1,8 @@
+% const s = req.source ?? {}
+<p>!!{{ req.title }}!! is a rewriting of the Wikipedia article [[ {{ s.title }} | {{ s.url }} ]], revision {{ s.revision }}, retrieved {{ s.retrieved }}. Its text is by Wikipedia contributors, used under [[ CC BY-SA 4.0 | {{ s['license-url'] }} ]], and this page is under the same licence.
+% if (req.rewritten) {
+<p>Rewritten with AI assistance. {{ req.rewritten }}
+% } else {
+<p>Not yet rewritten: this page is the imported article, laid out. Nothing on it has been through a model.
+% }
+<p>Images are credited individually above; each is on Wikimedia Commons under the licence named beside it.

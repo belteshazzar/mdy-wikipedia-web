@@ -1,0 +1,8 @@
+% // An infobox, said as an object label rather than shown as a wall of rows.
+< div class="card"
+  <h3>{{ req.kind ?? "In brief" }}
+  < dl class="facts"
+    % for (const f of req.facts) {
+    <dt>{{ f.name }}
+    <dd>{{ f.value }}
+    % }

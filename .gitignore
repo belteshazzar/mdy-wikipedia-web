@@ -14,4 +14,4 @@ static/img/
 # The corpus, for the same reason: `pipeline/` holds what it is made from —
 # the query, the titles, the tools — and two commands rebuild it, with every
 # document recording the revision it came from. See docs/ancient-plan.md.
-corpus/
+site/corpus/

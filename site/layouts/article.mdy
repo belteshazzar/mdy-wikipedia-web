@@ -1,0 +1,88 @@
+% // The archetype every page shares. What differs between an article and a
+% // place is which cards arrive in `req.cards`, already rendered — so a place
+% // adds where it is and who held it without this file knowing either exists.
+%% transform((tree) => {
+  // Every link in an imported article is a slug — `[[ fort-julien ]]` — and
+  // 96.6% of them name a page this corpus does not hold. Left alone they are
+  // relative hrefs to nothing. So: one in the corpus becomes a link to it,
+  // and one outside becomes a link to the Wikipedia article it came from,
+  // marked as leaving. Neither is guessed — the corpus knows its own slugs,
+  // and `link-titles` in the front matter carries the title behind each one.
+  visit(tree, "element", (node) => {
+    if (node.tagName !== "a") return
+    const href = node.properties.href
+    if (typeof href !== "string" || !href || href.indexOf(":") !== -1) return
+    if (href.charAt(0) === "#" || href.charAt(0) === "/") return
+    const slug = href.split("#")[0]
+    const fragment = href.indexOf("#") === -1 ? "" : href.slice(href.indexOf("#"))
+    if (req.here[slug]) {
+      node.properties.href = "/" + slug + "/" + fragment
+      return
+    }
+    const title = req.titles[slug]
+    if (title) {
+      node.properties.href = "https://en.wikipedia.org/wiki/" + title.split(" ").join("_")
+      node.properties.className = ["out"]
+      node.properties.rel = "noopener"
+    }
+  })
+})
+% const hero = req.hero
+% const sections = req.sections ?? []
+% const plates = req.plates ?? []
+
+% if (hero) {
+< section class="hero"
+  <img class="hero-img" src="{{ hero.src }}" alt="{{ hero.alt }}" width="{{ hero.width }}" height="{{ hero.height }}"
+  < div class="hero-text"
+    % if (req.eyebrow) {
+    <p class="eyebrow">{{ req.eyebrow }}
+    % }
+    <h1>{{ req.title }}
+    % if (req.description) {
+    <p class="standfirst">{{ req.description }}
+    % }
+% } else {
+< section class="hero textual"
+  < div class="hero-text"
+    % if (req.eyebrow) {
+    <p class="eyebrow">{{ req.eyebrow }}
+    % }
+    <h1>{{ req.title }}
+    % if (req.description) {
+    <p class="standfirst">{{ req.description }}
+    % }
+% }
+
+< div class="page"
+  % if (sections.length > 2) {
+  < nav class="toc" aria-label="Contents"
+    <p class="toc-head">Contents
+    < ol
+      % for (const s of sections) {
+      < li class="depth-{{ s.level }}"
+        <a href="#{{ s.id }}">{{ s.title }}
+      % }
+  % }
+
+  % if (req.cards) {
+  {{ req.cards }}
+  % }
+
+  < div class="prose"
+    {{ req.content }}
+
+  % if (plates.length) {
+  < div
+    <p class="plates-head">Plates
+    < div class="plates-intro"
+      <p class="plates-note">{{ plates.length }} more images belong to this article. Where in it they belong is the one thing the import could not record — so they are gathered here, the way a printed history gathers its plates, until something has read the article and said which paragraph each one is about.
+    < div class="plates"
+      % for (const p of plates) {
+      < figure
+        <img src="{{ p.src }}" alt="{{ p.alt }}" loading="lazy"
+        < figcaption
+          {{ p.caption }}
+          {{ p.credit }}
+      % }
+  % }

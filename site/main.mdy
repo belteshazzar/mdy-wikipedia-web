@@ -1,0 +1,242 @@
++++
+title: The Ancient World
+description: A fork of Wikipedia about antiquity — the same scholarship, laid out to be read.
+baseURL: https://example.invalid
++++
+% // One entry document decides everything: which files are articles, what URL
+% // each gets, which archetype it is, and where its images come from. The look
+% // is none of this file's business — it is `style-antiquity`, imported by
+% // path, and swapping that line changes the site's appearance and nothing
+% // else.
+% import style from "../style-antiquity"
+%
+% const self = res.data
+% const site = { title: self.title, description: self.description, baseURL: self.baseURL }
+%
+% // The rights manifest is a .yaml file in the site directory, so its fields
+% // are merged into `meta` and it is queryable like any document. Joining on
+% // it here is what puts a credit under every photograph.
+% const manifest = $.findOne({ path: "corpus/images.yaml" })
+% const rights = (manifest && manifest.images) || {}
+%
+% const docs = $.find({}).filter(function (d) {
+%   return d.path && d.path.indexOf("corpus/en/") === 0 && d.ext === ".mdy"
+% })
+%
+% const slugOf = function (path) { return path.slice("corpus/en/".length, -".mdy".length) }
+%
+% // One value out of a Wikidata claim, which is a string, a dated record, or a
+% // list of either. `even()` in the importer guarantees a property is one
+% // shape throughout, so asking once per property is enough.
+% const claimValue = function (claim) {
+%   const one = Array.isArray(claim) ? claim[0] : claim
+%   if (one === undefined || one === null) return undefined
+%   return typeof one === "object" ? one.value : one
+% }
+%
+% // Wikidata answers with a label in the wiki's language and falls back to
+% // whatever it has when there is none — with nothing in the record to say
+% // which happened. The Rosetta Stone is an `instance-of`
+% // [Überrest, bilingual inscription, stele], and taking the first of those
+% // put a German word at the top of the page. Where a property offers several
+% // values, prefer one that reads as English; the fallbacks are the ones
+% // carrying letters English does not use.
+% const english = /^[\x20-\x7E]+$/
+% const bestValue = function (claim) {
+%   if (!Array.isArray(claim)) return claimValue(claim)
+%   for (const item of claim) {
+%     const value = typeof item === "object" ? item.value : item
+%     if (typeof value === "string" && english.test(value)) return value
+%   }
+%   return claimValue(claim)
+% }
+%
+% const claimList = function (claim) {
+%   if (claim === undefined || claim === null) return []
+%   return Array.isArray(claim) ? claim : [claim]
+% }
+%
+% // A picture at the width the layout will actually show it at, from Commons'
+% // thumbnailer via the manifest — never the 250px sidebar thumbnail the
+% // import recorded, and never wider than the file really is.
+% const pick = function (image, want) {
+%   const record = rights[image.file]
+%   if (!record) return undefined
+%   const sizes = record.sizes || {}
+%   const widths = ["1920", "1280", "960", "500", "330"]
+%   let chosen
+%   for (const w of widths) {
+%     if (sizes[w] && Number(w) >= want) chosen = sizes[w]
+%   }
+%   if (!chosen) { for (const w of widths) { if (!chosen && sizes[w]) chosen = sizes[w] } }
+%   if (!chosen) return undefined
+%   return {
+%     src: chosen,
+%     alt: image.caption ? String(image.caption).slice(0, 180) : "",
+%     caption: image.caption || "",
+%     width: record.width,
+%     height: record.height,
+%     licence: record.licence,
+%     author: record.author,
+%     page: record["descriptor-url"]
+%   }
+% }
+%
+% const creditOf = function (image) {
+%   const who = image.author && image.author !== "unknown" ? image.author + " · " : ""
+%   return who + image.licence
+% }
+%
+% const pages = []
+%
+% for (const doc of docs) {
+%   const slug = slugOf(doc.path)
+%   const wikidata = doc.wikidata || {}
+%   const claims = wikidata.claims || {}
+%   const infobox = doc.infobox || {}
+%
+%   // Which archetype. A thing with coordinates is somewhere, and being
+%   // somewhere is most of what there is to say about a city or a site.
+%   const isPlace = Boolean(doc.coordinates && doc.coordinates.lat !== undefined)
+%
+%   const kind = infobox.type || bestValue(claims["instance-of"])
+%   const when = claimValue(claims.inception) || (infobox.history && infobox.history.built)
+%   const eyebrowParts = []
+%   if (kind) eyebrowParts.push(kind)
+%   if (when) eyebrowParts.push(when)
+%
+%   // The images, best first: the front matter's own `image` if it named one,
+%   // otherwise the first that survived the rights check.
+%   // `image` in the front matter is the lead image the summary endpoint
+%   // names — the one the article itself leads with. Without it the hero is
+%   // whichever picture happens to come first in the page, which for Babylon
+%   // is a satellite photograph of the modern site.
+%   // Matched on the encoded last segment rather than the decoded file name:
+%   // the VM has no `decodeURIComponent`, and it does not need one — every
+%   // image's own `src` is a thumbnail of the same file and carries the same
+%   // encoded segment inside it.
+%   let leadSegment
+%   if (doc.image) {
+%     const parts = String(doc.image).split("/")
+%     leadSegment = parts[parts.length - 1]
+%   }
+%   // A map is not a hero. Until something has read the article and said which
+%   // picture it opens on — which is exactly what phase 2's image plan is for —
+%   // a photograph beats a diagram, and the article's own lead image beats
+%   // both. Babylon's lead image really is a satellite photograph of the
+%   // modern site, so this does not save every page; it saves a good many.
+%   const flat = /(^|[ _])(map|plan|diagram|chart|timeline|graph|tree|scheme)([ _.]|$)/i
+%   const ordered = []
+%   const later = []
+%   for (const image of doc.images || []) {
+%     const isLead = leadSegment && image.src && String(image.src).indexOf(leadSegment) !== -1
+%     const isFlat = flat.test(String(image.file || "")) || flat.test(String(image.caption || ""))
+%     if (isLead) ordered.unshift(image)
+%     else if (isFlat) later.push(image)
+%     else ordered.push(image)
+%   }
+%   for (const image of later) ordered.push(image)
+%   const usable = []
+%   for (const image of ordered) {
+%     const found = pick(image, 1280)
+%     if (found) usable.push(found)
+%   }
+%   const hero = usable.length ? usable[0] : undefined
+%   const plates = usable.slice(1, 13)
+%
+%   const platesOut = []
+%   for (const p of plates) {
+%     platesOut.push({
+%       src: p.src, alt: p.alt, caption: p.caption,
+%       credit: $.node({ type: "element", tagName: "span", properties: { className: ["credit"] }, children: [{ type: "text", value: creditOf(p) }] })
+%     })
+%   }
+%
+%   // An infobox is a record of nested groups. Only its scalars make an object
+%   // label; the groups are where a reader would drown.
+%   const facts = []
+%   for (const name of Object.keys(infobox)) {
+%     const value = infobox[name]
+%     if (typeof value === "object") continue
+%     if (facts.length >= 8) continue
+%     facts.push({ name: String(name).replace(/-/g, " "), value: value })
+%   }
+%
+%   // Who held it, and when. Twelve `country` statements flattened would say
+%   // the place is in twelve countries; with the years each held for they are
+%   // three thousand years of rule.
+%   const held = []
+%   for (const statement of claimList(claims.country)) {
+%     if (typeof statement !== "object" || !statement.value) continue
+%     // Wikidata writes `911 BC` and, for a year after it, a bare `226`. Side
+%     // by side in the same column that reads as a typo rather than as an era,
+%     // so the ones without a marker get the one they mean.
+%     const era = function (year) {
+%       const value = String(year)
+%       return /^\d{1,4}$/.test(value) ? value + " AD" : value
+%     }
+%     const from = statement.from ? era(statement.from) : ""
+%     const to = statement.to ? era(statement.to) : ""
+%     const span = from && to ? from + " – " + to : from || to
+%     if (!span) continue
+%     held.push({ when: span, what: statement.value })
+%   }
+%
+%   pages.push({
+%     path: doc.path, slug: slug, url: "/" + slug + "/",
+%     title: doc.title || slug, description: doc.description,
+%     eyebrow: eyebrowParts.join(" · "), sections: doc.sections || [],
+%     hero: hero, plates: platesOut, facts: facts, held: held,
+%     isPlace: isPlace, kind: kind, source: doc.source || {},
+%     titles: doc["link-titles"] || {},
+%     sitelinks: (doc["lang-links"] || []).length
+%   })
+% }
+%
+% pages.sort(function (a, b) { return a.title < b.title ? -1 : 1 })
+%
+% // Which slugs this corpus actually holds. A link to one of them is a link
+% // into the fork; every other link leaves it, and says so.
+% const here = {}
+% for (const page of pages) here[page.slug] = true
+%
+% for (const page of pages) {
+%   const cards = page.isPlace && (page.facts.length || page.held.length)
+%     ? $.render({ path: "layouts/place.mdy" }, { kind: "Where, and whose", facts: page.facts, held: page.held })
+%     : (page.facts.length ? $.render({ path: "layouts/facts.mdy" }, { kind: "In brief", facts: page.facts }) : undefined)
+%
+%   const body = $.render({ path: page.path })
+%   const article = $.render({ path: "layouts/article.mdy" }, {
+%     title: page.title, description: page.description, eyebrow: page.eyebrow,
+%     hero: page.hero, sections: page.sections, plates: page.plates,
+%     cards: cards, content: body, here: here, titles: page.titles
+%   })
+%   const colophon = $.render({ path: "layouts/colophon.mdy" }, { title: page.title, source: page.source })
+%
+%   $.emit(page.slug + "/index.html", style.render({ path: "layouts/base.mdy" }, {
+%     content: article, colophon: colophon, site: site,
+%     page: { title: page.title, url: page.url, description: page.description }
+%   }))
+% }
+%
+% const listed = []
+% let credited = 0
+% for (const key of Object.keys(rights)) credited = credited + 1
+% for (const page of pages) {
+%   listed.push({
+%     url: page.url, title: page.title, description: page.description,
+%     image: page.hero ? page.hero.src : undefined, meta: page.eyebrow
+%   })
+% }
+%
+% const index = $.render({ path: "layouts/index.mdy" }, {
+%   site: site, articles: listed, count: pages.length, images: credited
+% })
+% const indexColophon = $.render({ path: "layouts/colophon.mdy" }, {
+%   title: site.title,
+%   source: { title: "Wikipedia", url: "https://en.wikipedia.org/", revision: "various", retrieved: "2026-09-01", "license-url": "https://creativecommons.org/licenses/by-sa/4.0/" }
+% })
+% $.emit("index.html", style.render({ path: "layouts/base.mdy" }, {
+%   content: index, colophon: indexColophon, site: site,
+%   page: { title: site.title, url: "/", description: site.description }
+% }))
