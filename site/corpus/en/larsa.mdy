@@ -1,0 +1,1024 @@
++++
+title: Larsa
+description: City-state in ancient Sumer
+coordinates:
+  lat: 31.28583333
+  lon: 45.85361111
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hammurabi%27s_Babylonia_1.svg/960px-Hammurabi%27s_Babylonia_1.svg.png
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/250px-Iraq_physical_map.svg.png
+  type: Settlement
+  location: Tell as-Senkereh, Dhi Qar Governorate, Iraq
+  region: Mesopotamia
+images:
+  - file: Hammurabi's_Babylonia_1.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hammurabi%27s_Babylonia_1.svg/250px-Hammurabi%27s_Babylonia_1.svg.png
+    width: 655
+    height: 570
+    caption: Mesopotamia in the time of Hammurabi
+  - file: Worshipper_Larsa_Louvre_AO15704.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Worshipper_Larsa_Louvre_AO15704.jpg/250px-Worshipper_Larsa_Louvre_AO15704.jpg
+    width: 4004
+    height: 6000
+    caption: The Worshipper of Larsa, a votive statuette dedicated to the god Amurru
+      for Hammurabi's life, early 2nd millennium BC, Louvre
+  - file: Detail_of_a_terracotta_cylinder_of_Nabonidus,_recording_the_restoration_work_on_the_temple_of_Shamash_at_Larsa._555-539_BCE._Probably_from_Larsa,_Iraq,_housed_in_the_British_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Detail_of_a_terracotta_cylinder_of_Nabonidus%2C_recording_the_restoration_work_on_the_temple_of_Shamash_at_Larsa._555-539_BCE._Probably_from_Larsa%2C_Iraq%2C_housed_in_the_British_Museum.jpg/250px-thumbnail.jpg
+    width: 4288
+    height: 2848
+    caption: Detail of a terracotta cylinder of Nabonidus, recording the restoration
+      work on the temple of Shamash at Larsa. Dated to 555–539 BC. Probably from
+      Larsa, Iraq. Housed in the British Museum
+  - file: Kings_Larsa_Louvre_AO7025.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kings_Larsa_Louvre_AO7025.jpg/250px-Kings_Larsa_Louvre_AO7025.jpg
+    width: 1200
+    height: 2150
+    caption: List of the kings of Larsa, 39th year of Hammurabi's reign, Louvre
+  - file: Compilation_of_plane_geometry_problems_from_Larsa.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Compilation_of_plane_geometry_problems_from_Larsa.jpg/250px-Compilation_of_plane_geometry_problems_from_Larsa.jpg
+    width: 1979
+    height: 2255
+    caption: Compilation of plane geometry problems from Larsa, Old Babylonian period.
+wikidata:
+  id: Q244746
+  label: Larsa
+  description: human settlement
+  claims:
+    commons-category: Larsa
+    coordinate-location:
+      - lat: 31.285833333333
+        lon: 45.853611111111
+      - lat: 31.2833
+        lon: 45.8498
+    country: Iraq
+    instance-of:
+      - human settlement
+      - archaeological site
+      - hill
+      - city-state
+    image:
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Hammurabi's_Babylonia_1.svg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Hammurabi's_Babylonia_UA.svg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Hammurabi_Babilonia_CA.svg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Hammurabi's_Babylonia_1-ar.svg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Hammurabi's_Babylonia_RU.svg
+    significant-event:
+      - value: archaeological excavation
+        when: "1850"
+      - value: archaeological excavation
+        when: "1903"
+    described-by-source:
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Encyclopædia Britannica 11th edition
+      - Great Soviet Encyclopedia (1926–1947)
+    culture: Sumer
+    located-in-the-administrative-territorial-entity: Dhi Qar Governorate
+    topic-s-main-category: Category:Larsa
+    start-time: 4th millennium BC
+    end-time: 1st century BC
+    participant-in: Q3119177
+categories:
+  - 1850 archaeological discoveries
+  - Archaeological sites in Iraq
+  - City-states
+  - Former populated places in Iraq
+  - History of Dhi Qar Governorate
+  - Isin-Larsa period
+  - Larsa
+  - Populated places established in the 3rd millennium BC
+  - States and territories disestablished in the 17th century BC
+  - States and territories established in the 20th century BC
+  - Sumerian cities
+langlinks:
+  am: ላርሳ
+  ar: لارسا
+  az: Larsa
+  ba: Ларса
+  be: Ларса
+  ca: Larsa
+  ceb: Şankarah
+  ckb: لارسا
+  cs: Larsa
+  cv: Ларса
+  de: Larsa
+  eo: Larsa
+  es: Larsa
+  eu: Larsa
+  fa: لارسا
+  fi: Larsa
+  fr: Larsa
+  gl: Larsa
+  he: לרסה
+  hu: Larsza
+  id: Larsa
+  it: Larsa
+  ja: ラルサ
+  ka: ლარსა
+  ko: 라르사
+  lt: Larsa
+  nl: Larsa
+  nb: Larsa
+  oc: Larsa
+  pl: Larsa
+  pt: Larsa
+  ro: Larsa
+  ru: Ларса
+  sh: Larsa
+  sk: Larsa
+  sl: Larsa
+  sr: Ларса
+  sv: Larsa
+  ta: லார்சா
+  tl: Larsa
+  tr: Larsa
+  uk: Ларса
+  ur: لارسا
+  vi: Larsa
+  zh: 拉爾薩
+link-titles:
+  2nd-millennium-bc: 2nd millennium BC
+  abisare: Abisare
+  amorite: Amorite
+  amorite-dynasty: Amorite dynasty
+  amurru-god: Amurru (god)
+  andré-parrot: André Parrot
+  anshan-persia: Anshan (Persia)
+  arioch: Arioch
+  babylon: Babylon
+  babylonian-mathematics: Babylonian mathematics
+  bad-tibira: Bad-Tibira
+  berossus: Berossus
+  bur-suen: Bur-Suen
+  burna-buriash-ii: Burna-Buriash II
+  city-state: City-state
+  cult-religious-practice: Cult (religious practice)
+  dhi-qar-governorate: Dhi Qar Governorate
+  eannatum: Eannatum
+  edgar-james-banks: Edgar James Banks
+  elamite: Elamite
+  emisum: Emisum
+  emutbal: Emutbal
+  enheduanna: Enheduanna
+  enlil-bani: Enlil-bani
+  entemena: Entemena
+  first-babylonian-dynasty: First Babylonian dynasty
+  girsu: Girsu
+  gungunum: Gungunum
+  hammurabi: Hammurabi
+  hellenistic: Hellenistic
+  ibbi-sin: Ibbi-Sin
+  ibbi-suen: Ibbi-Suen
+  iddin-dagan: Iddin-Dagan
+  iraq: Iraq
+  ishbi-erra: Ishbi-Erra
+  ishme-dagan: Ishme-Dagan
+  isin: Isin
+  isin-larsa-period: Isin-Larsa period
+  iter-pisha: Iter-pisha
+  kassite-dynasty: Kassite dynasty
+  king-of-sumer-and-akkad: King of Sumer and Akkad
+  king-of-the-four-corners: King of the Four Corners
+  kohl-cosmetics: Kohl (cosmetics)
+  kudur-mabuk: Kudur-Mabuk
+  lagash: Lagash
+  lipit-eshtar: Lipit-Eshtar
+  louvre: Louvre
+  lugal: Lugal
+  malgium: Malgium
+  mashkan-shapir: Mashkan-shapir
+  mesopotamia: Mesopotamia
+  middle-chronology: Middle chronology
+  naplanum: Naplanum
+  naram-sin-of-assyria: Naram-Sin of Assyria
+  nebuchadnezzar-ii: Nebuchadnezzar II
+  neo-babylonian-empire: Neo-Babylonian Empire
+  nur-adad: Nur-Adad
+  old-babylonian-period: Old Babylonian period
+  persian-gulf: Persian Gulf
+  philip-arrhidaeus: Philip Arrhidaeus
+  plimpton-322: Plimpton 322
+  proto-cuneiform: Proto-cuneiform
+  pythagorean-triples: Pythagorean triples
+  rim-sin-i: Rim-Sin I
+  rim-sîn-ii: Rim-Sîn II
+  sabium: Sabium
+  samium: Samium
+  samsu-iluna: Samsu-iluna
+  sargon-of-akkad: Sargon of Akkad
+  sealand-dynasty: Sealand Dynasty
+  shamash: Shamash
+  short-chronology: Short chronology
+  shu-ilishu: Shu-Ilishu
+  silli-adad: Silli-Adad
+  sin-eribam: Sin-Eribam
+  sin-iddinam: Sin-Iddinam
+  sin-iqisham: Sin-Iqisham
+  sin-muballit: Sin-Muballit
+  siwe-palar-khuppak: Siwe-Palar-Khuppak
+  sumer: Sumer
+  sumerian-language: Sumerian language
+  sumu-la-el: Sumu-la-El
+  sumuel: Sumuel
+  sun-god: Sun god
+  temple-hymnsactioneditredlink1: Temple Hymns?action=edit&redlink=1
+  tempore: Tempore
+  third-dynasty-of-ur: Third Dynasty of Ur
+  ur: Ur
+  ur-iii-period: Ur III period
+  ur-nammu: Ur-Nammu
+  ur-ninurta: Ur-Ninurta
+  ur-du-kuga: Ur-du-kuga
+  uruk: Uruk
+  utu: Utu
+  walter-andrae: Walter Andrae
+  warad-sin: Warad-Sin
+  william-loftus-archaeologist: William Loftus (archaeologist)
+  worshipper-of-larsa: Worshipper of Larsa
+  zabaia: Zabaia
+  zambiya: Zambiya
+  zimri-lim: Zimri-Lim
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: early-bronze-age
+    title: Early Bronze Age
+  - level: 4
+    id: early-dynastic-iiib
+    title: Early Dynastic IIIB
+  - level: 4
+    id: akkadian-period
+    title: Akkadian period
+  - level: 4
+    id: ur-iii-period
+    title: Ur III period
+  - level: 3
+    id: middle-bronze-age
+    title: Middle Bronze Age
+  - level: 3
+    id: iron-age
+    title: Iron Age
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+  - level: 2
+    id: archaeology
+    title: Archaeology
+source:
+  site: Wikipedia
+  lang: en
+  title: Larsa
+  url: https://en.wikipedia.org/wiki/Larsa
+  page-id: 85439
+  revision: "1365143644"
+  modified: 2026-07-20T14:45:22Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Larsa"
+    (revision 1365143644), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hammurabi%27s_Babylonia_1.svg/250px-Hammurabi%27s_Babylonia_1.svg.png" height="218" width="250"
+
+  <figcaption>[[ Mesopotamia ]] in the time of [[ Hammurabi ]]
+
+!!Larsa!! (Sumerian: 𒌓𒀕𒆠, romanized: //UD.UNUG^^KI^^//,[[ ^1 ]] read
+//Larsam^^ki^^//[[ ^2 ]]), also referred to as !!Larancha/Laranchon!! (Gk.
+Λαραγχων) by [[ Berossos | berossus ]] and connected with the biblical
+[[ Ellasar | arioch ]], was an important [[ city-state ]] of ancient
+[[ Sumer ]], the center of the [[ cult | cult-religious-practice ]] of the
+[[ sun god ]] [[ Utu ]] with his temple E-babbar. It lies some 25 km (16 mi)
+southeast of [[ Uruk ]] in [[ Iraq ]]'s [[ Dhi Qar Governorate ]], near the
+east bank of the Shatt-en-Nil canal at the site of the modern settlement
+!!Tell as-Senkereh!! or !!Sankarah!!.
+
+Larsa is thought to be the source of a number of tablets involving
+[[ Babylonian mathematics ]], including the [[ Plimpton 322 ]] tablet that
+contains patterns of [[ Pythagorean triples ]].[[ ^3 ]]
+
+== History
+
+Larsa is found (as UD.UNUG) on [[ Proto-cuneiform ]] lexical lists from the
+Uruk 4 period (late 4th millennium BC). A few Proto-cuneiform tablets were
+also found there.[[ ^4 ]] Three Neolithic clay tokens, from a slightly early
+period, were also found at Larsa.[[ ^5 ]][[ ^6 ]] For most of its history
+Larsa was primarily a cult site for the god Utu. In the early part of the 2nd
+millennium BC the
+[[ First Dynasty of Lagash | lagash#first-dynasty-of-lagashc.-25002300-bc ]]
+made it a major power for perhaps two centuries. The last known occupation was
+in the [[ Hellenistic ]] period.
+
+=== Early Bronze Age
+
+==== Early Dynastic IIIB
+
+The historical "Larsa" was already in existence as early as the reign of Early
+Dynastic ruler [[ Eannatum ]] of [[ Lagash ]] (circa 2500–2400 BC), who
+annexed it to his empire. In a large victory stele found at [[ Girsu ]] he
+wrote:
+
+<blockquote
+  "\... E-anatum was very clever indeed and he made up the eyes of two doves
+  with [[ kohl | kohl-cosmetics ]], and adorned their heads with cedar (resin).
+  For the god Utu, master of vegetation, in the E-babbar at Larsa, he had them
+  offered as sacrificial bulls."[[ ^7 ]]
+
+A later ruler, [[ Entemena ]], nephew of Eannatum, is recorded on a foundation
+cone found at nearby [[ Bad-Tibira ]] as cancelling the debts of the citizens
+of Larsa "He cancelled [oblig]ations for the citizens of Uruk, Larsa, and
+Pa-tibira \... He restored (the second) to the god Utu’s control in Larsa
+\...".[[ ^7 ]]
+
+==== Akkadian period
+
+Larsa is attested in the Akkadian Empire in the //Temple Hymns// of
+[[ Enheduanna ]], daughter of [[ Sargon of Akkad ]].
+
+<blockquote
+  "\... Your lord is the soaring sunlight, the ruler \... righteous voice. He
+  lights up the horizon, he lights up the zenith of heaven. Utu, lord of the
+  Shining House, has built a home in your holy court, House of Larsa, and has
+  taken his seat upon your throne."[[ ^8 ]]
+
+==== Ur III period
+
+In the Ur III empire period that ended the millennium, its first ruler
+[[ Ur-Nammu ]] recorded, in a brick inscription found at Larsa, rebuilding the
+E-babbar temple of Utu there.[[ ^9 ]]
+
+=== Middle Bronze Age
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Worshipper_Larsa_Louvre_AO15704.jpg/250px-Worshipper_Larsa_Louvre_AO15704.jpg" height="375" width="250"
+
+  <figcaption>The [[ Worshipper of Larsa ]], a votive statuette dedicated to the god [[ Amurru | amurru-god ]] for [[ Hammurabi ]]'s life, early [[ 2nd millennium BC ]], [[ Louvre ]]
+
+The city became a political force during the [[ Isin-Larsa period ]]. After
+the [[ Third Dynasty of Ur ]] collapsed c. 2004 BC, [[ Ishbi-Erra ]], an
+official of the last king of the Third Dynasty of Ur, [[ Ibbi-Sin ]],
+relocated to [[ Isin ]] and set up a government which purported to be the
+successor to the Third Dynasty of Ur. From there, Ishbi-Erra recaptured
+[[ Ur ]] as well as the cities of [[ Uruk ]] and Lagash, which Larsa was
+subject to. Subsequent rulers of Isin appointed governors to rule over Larsa;
+one such governor was an [[ Amorite ]] named [[ Gungunum ]]. He eventually
+broke with Isin and established an independent dynasty in Larsa. To legitimize
+his rule and deliver a blow to Isin, Gungunum captured the city of Ur. In his
+year names he recorded the defeat of the distant [[ Anshan | anshan-persia ]]
+in Elam as well as city-states closer to Larsa such as [[ Malgium ]]. As the
+region of Larsa was the main center of trade via the [[ Persian Gulf ]], Isin
+lost an enormously profitable trade route, as well as a city with much cultic
+significance.
+
+Gungunum's two successors, [[ Abisare ]] (c. 1905–1894 BC) and [[ Sumuel ]]
+(c. 1894–1865 BC), both took steps to cut Isin completely off from access to
+canals. Isin quickly lost political and economic influence.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Detail_of_a_terracotta_cylinder_of_Nabonidus%2C_recording_the_restoration_work_on_the_temple_of_Shamash_at_Larsa._555-539_BCE._Probably_from_Larsa%2C_Iraq%2C_housed_in_the_British_Museum.jpg/250px-thumbnail.jpg" height="166" width="250"
+
+  <figcaption>Detail of a terracotta cylinder of Nabonidus, recording the restoration work on the temple of Shamash at Larsa. Dated to 555–539 BC. Probably from Larsa, Iraq. Housed in the British Museum
+
+Larsa grew powerful, but never accumulated a large territory. At its peak
+under king [[ Rim-Sin I ]] (c. 1822–1763 BC), Larsa controlled about 10–15
+other city-states. In the latter half of this period the city of
+[[ Mashkan-shapir ]] acted as a second capital of the
+city-state.[[ ^10 ]][[ ^11 ]] Nevertheless, huge building projects and
+agricultural undertakings can be detected archaeologically. After the defeat
+of Rim-Sin I by [[ Hammurabi ]] of [[ Babylon ]], Larsa became a minor site,
+though it has been suggested that it was the home of the First
+[[ Sealand Dynasty ]] of Babylon.[[ ^12 ]]
+
+=== Iron Age
+
+Larsa was known to be active during the Neo-Babylonian, Achaemenid, and
+Hellenistic periods based on building brick inscriptions as well as a number
+of cuneiform texts from the Larsa temple of Samash which were found in
+Uruk.[[ ^13 ]][[ ^14 ]][[ ^15 ]][[ ^16 ]] The E-babbar of Utu/Shamash was
+destroyed by fire in the 2nd century BC and the area re-used for poorly built
+private homes.[[ ^17 ]] The entire site was abandoned by the 1st century
+BC.[[ ^18 ]]
+
+== List of rulers
+
+The following list should not be considered complete:
+
+<table
+  <tbody
+    <tr
+      <th>#
+
+      <th>Portrait or inscription
+
+      <th>Ruler
+
+      <th>Approx. date and length of reign
+
+      <th>Comments, notes, and references for mentions
+
+    <tr
+      <td colspan="5">!![[ Ur III period ]] (c. 2119 – c. 2004 BC)!!
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kings_Larsa_Louvre_AO7025.jpg/120px-Kings_Larsa_Louvre_AO7025.jpg" height="215" width="120"
+
+      <td>[[ Naplanum ]]
+
+      <td>r. c. 2025 – c. 2005 BC
+        <br
+
+        ([[ MC | middle-chronology ]])
+
+        <br
+
+        r. c. 1961 – c. 1940 BC([[ SC | short-chronology ]])
+
+      <td
+        - //[[ temp. | tempore ]]// of [[ Ibbi-Suen ]]
+        - //temp.// of [[ Ishbi-Erra ]]
+        - May have been an [[ Amorite ]] of the [[ Yamutbal | emutbal ]] tribe
+
+    <tr
+      <td colspan="5">!![[ Isin-Larsa period ]] (c. 2004 – c. 1787 BC)!!
+
+    <tr
+      <td>2nd
+
+      <td
+
+      <td>[[ Emisum ]]
+
+      <td>r. c. 2004 – c. 1977 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1940 – c. 1912 BC(SC)
+
+      <td
+        - Son of Naplanum (?)
+        - //temp.// of [[ Shu-Ilishu ]]
+
+    <tr
+      <td>3rd
+
+      <td
+
+      <td>[[ Samium ]]
+        <br
+
+        𒊓𒈪𒌝
+
+      <td>r. c. 1976 – c. 1942 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1912 – c. 1877 BC(SC)
+
+      <td
+        - Son of Emisum (?)
+        - //temp.// of [[ Iddin-Dagan ]]
+
+    <tr
+      <td>4th
+
+      <td
+
+      <td>[[ Zabaia ]]
+
+      <td>r. c. 1941 – c. 1933 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1877 – c. 1868 BC(SC)
+
+      <td
+        - Son of Samium
+        - //temp.// of [[ Ishme-Dagan ]]
+        - "Zabaya, Chief of the Amorites, son of Samium, rebuilt the Ebabbar"[[ ^19 ]]
+
+    <tr
+      <td>5th
+
+      <td
+
+      <td>[[ Gungunum ]]
+        <br
+
+        𒀭𒄖𒌦𒄖𒉡𒌝
+
+      <td>r. c. 1932 – c. 1906 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1868 – c. 1841 BC(SC)(29 years)
+
+      <td
+        - Son of Zabaia (?)
+        - //temp.// of [[ Lipit-Eshtar ]]
+        - Gained independence from [[ Isin ]]
+        - Held the title of, //"[[ King | lugal ]]"//
+
+    <tr
+      <td>6th
+
+      <td
+
+      <td>[[ Abisare ]]
+        <br
+
+        𒀀𒉈𒊓𒊑𒂊
+
+      <td>r. c. 1905 – c. 1895 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1841 – c. 1830 BC(SC)(11 years)
+
+      <td
+        - Son of Gungunum (?)
+        - //temp.// of [[ Ur-Ninurta ]]
+        - Held the title of, //"King"//
+
+    <tr
+      <td>7th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Votive_dog_Louvre_AO4349_n2.jpg/120px-Votive_dog_Louvre_AO4349_n2.jpg" alt="Votive dog in the name of Sumuel. Louvre AO4349" height="80" width="120"
+
+      <td>[[ Sumuel ]]
+        <br
+
+        𒋢𒈬𒀭
+
+      <td>r. c. 1894 – c. 1866 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1830 – c. 1801 BC(SC)(27 years)
+
+      <td
+        - Son of Abisare (?)
+        - //temp.// of [[ Bur-Suen ]]
+        - Held the title of, //"King"//
+
+    <tr
+      <td>8th
+
+      <td
+
+      <td>[[ Nur-Adad ]]
+
+      <td>r. c. 1865 – c. 1850 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1801 – c. 1785 BC(SC)(15 years)
+
+      <td
+        - //temp.// of [[ Sumu-la-El ]]
+        - Held the title of, //"King"//
+
+    <tr
+      <td>9th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Stamp_Lasha_Louvre_AO27586.jpg/120px-Stamp_Lasha_Louvre_AO27586.jpg" height="161" width="120"
+
+      <td>[[ Sin-Iddinam ]]
+        <br
+
+        𒀭𒂗𒍪𒄿𒁷𒈾𒄠
+
+      <td>r. c. 1849 – c. 1843 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1785 – c. 1778 BC(SC)(7 years)
+
+      <td
+        - Son of Nur-Adad
+        - //temp.// of [[ Enlil-bani ]]
+        - Held the title of, //"King"//
+
+    <tr
+      <td>10th
+
+      <td
+
+      <td>[[ Sin-Eribam ]]
+        <br
+
+        𒋢𒈬𒀭
+
+      <td>r. c. 1842 – c. 1841 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1778 – c. 1776 BC(SC)(2 years)
+
+      <td
+        - Son of Ga’eš-rabi
+        - //temp.// of [[ Zambiya ]]
+        - Held the title of, //"[[ King of Sumer and Akkad ]]"//
+
+    <tr
+      <td>11th
+
+      <td
+
+      <td>[[ Sin-Iqisham ]]
+        <br
+
+        𒀭𒂗𒍪𒄿𒆠𒊭𒄠
+
+      <td>r. c. 1840 – c. 1836 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1776 – c. 1771 BC(SC)(5 years)
+
+      <td
+        - Son of Sin-Eribam
+        - //temp.// of [[ Iter-pisha ]]
+        - Held the title of, //"King"//
+
+    <tr
+      <td>12th
+
+      <td
+
+      <td>[[ Silli-Adad ]]
+
+      <td>r. c. 1836 – c. 1835 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1771 – c. 1770 BC(SC)(less than 1 year)
+
+      <td
+        - Son of Sin-Iqisham (?)
+        - //temp.// of [[ Sabium ]]
+        - d.c.1835 BC
+        - Held the title of, //"King"//
+
+    <tr
+      <th colspan="5"
+
+    <tr
+      <td>13th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Foundation_tablet_Nanaia_Louvre_AO4412_%28perspective%29.jpg/120px-Foundation_tablet_Nanaia_Louvre_AO4412_%28perspective%29.jpg" height="179" width="120"
+
+      <td>[[ Kudur-Mabuk ]]
+        <br
+
+        𒆪𒁺𒌨𒈠𒁍𒊌
+
+      <td>r. c. 1835 – c. 1834 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1770 – c. 1754 BC(SC)
+
+      <td
+        - Son of Temti-Shilhak (?)
+        - May have come from an [[ Elamite ]] family
+        - //temp.// of [[ Naram-Sin | naram-sin-of-assyria ]]
+
+    <tr
+      <td>14th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Foundation_figurine_of_Warad-Sin_for_Inanna_at_Zabalam.jpg/120px-Foundation_figurine_of_Warad-Sin_for_Inanna_at_Zabalam.jpg" height="224" width="120"
+
+      <td>[[ Warad-Sin ]]
+        <br
+
+        𒀴𒀭𒂗𒍪
+
+      <td>r. c. 1834 – c. 1823 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1770 – c. 1758 BC(SC)(12 years)
+
+      <td
+        - //temp.// of [[ Ur-du-kuga ]]
+        - May have come from an Elamite family
+        - Possible co-regency with his father (Kudur-Mabuk)[[ ^20 ]]
+        - Held the title of, //"King"//
+
+    <tr
+      <td>15th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rim-Sin_foundation_figurine%2C_1822-1763_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07168.JPG/120px-Rim-Sin_foundation_figurine%2C_1822-1763_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07168.JPG" height="214" width="120"
+
+      <td>[[ Rim-Sin I ]]
+        <br
+
+        𒀭𒊑𒅎𒀭𒂗𒍪
+
+      <td>r. c. 1822 – c. 1763 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1758 – c. 1699 BC(SC)(60 years)
+
+      <td
+        - Brother of Warad-Sin (?)
+        - Defeated by [[ Hammurabi ]] of [[ Babylon ]]
+        - Held the title of, //"King of Sumer and Akkad"//
+
+    <tr
+      <th colspan="5"
+
+    <tr
+      <th>#
+
+      <th>Portrait or inscription
+
+      <th>Ruler
+
+      <th>Approx. date and length of reign
+
+      <th>Comments, notes, and references for mentions
+
+    <tr
+      <td colspan="5">!![[ Old Babylonian period ]] (c. 1763 – c. 1736 BC)!!
+
+    <tr
+      <th colspan="5">[[ First dynasty of Babylon | amorite-dynasty ]] (c. 1763 – c. 1736 BC)
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Votive_monument_to_Hammurabi_BM_22454_n01.jpg/120px-Votive_monument_to_Hammurabi_BM_22454_n01.jpg" height="120" width="120"
+
+      <td>[[ Hammurabi ]]
+        <br
+
+        𒄩𒄠𒈬𒊏𒁉
+
+      <td>r. c. 1763 – c. 1750 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1699 – c. 1686 BC(SC)
+
+      <td
+        - Son of [[ Sin-Muballit ]]
+        - //temp.// of [[ Zimri-Lim ]]
+        - Held the title of, //"[[ King of the Four Corners ]]"//
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Record_of_the_sale_of_land_in_the_reign_of_Samsu-Iluna.jpg/120px-Record_of_the_sale_of_land_in_the_reign_of_Samsu-Iluna.jpg" height="161" width="120"
+
+      <td>[[ Samsu-iluna ]]
+        <br
+
+        𒊓𒄠𒋢𒄿𒇻𒈾
+
+      <td>r. c. 1750 – c. 1742 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1686 – c. 1678 BC(SC)
+
+      <td
+        - Son of Hammurabi
+        - //temp.// of [[ Siwe-Palar-Khuppak ]]
+
+    <tr
+      <th colspan="5"
+
+    <tr
+      <td>16th
+
+      <td
+
+      <td>[[ Rim-Sîn II ]]
+        <br
+
+        𒀭𒊑𒅎𒀭𒂗𒍪
+
+      <td>r. c. 1742 – c. 1736 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 1678 – c. 1674 BC(SC)
+
+      <td
+        - //temp.// of Samsu-iluna
+        - Nephew of Rim-Sin I (?)
+        - Killed in revolt against [[ Babylon ]]
+        - Held the title of, //"King"//
+
+== Archaeology
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kings_Larsa_Louvre_AO7025.jpg/250px-Kings_Larsa_Louvre_AO7025.jpg" height="448" width="250"
+
+  <figcaption>List of the kings of Larsa, 39th year of [[ Hammurabi ]]'s reign, [[ Louvre ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Compilation_of_plane_geometry_problems_from_Larsa.jpg/250px-Compilation_of_plane_geometry_problems_from_Larsa.jpg" height="285" width="250"
+
+  <figcaption>Compilation of plane geometry problems from Larsa, Old Babylonian period.
+
+The remains of Larsa cover an area of about 200 hectares. The highest point is
+around 70 ft (21 m) in height.
+
+The site of Tell es-Senkereh was first excavated, under the rudimentary
+archaeological standards of his day, by
+[[ William Loftus | william-loftus-archaeologist ]] in 1850 for less than a
+month.[[ ^21 ]] Loftus recovered building bricks of [[ Nebuchadnezzar II ]] of
+the [[ Neo-Babylonian Empire ]] which enabled the site's identification as the
+ancient city of Larsa. Much of the effort by Loftus was on the temple of
+[[ Shamash ]], rebuilt by Nebuchadnezzar II. Inscriptions of
+[[ Burna-Buriash II ]] of the [[ Kassite dynasty ]] of [[ Babylon ]] and
+[[ Hammurabi ]] of the [[ First Babylonian dynasty ]] were also found. Larsa
+was also briefly worked by [[ Walter Andrae ]] in 1903. The site was inspected
+by [[ Edgar James Banks ]] in 1905. He found that widespread looting by the
+local population was occurring there.[[ ^22 ]]
+
+The first modern, scientific, excavation of Senkereh occurred in 1933, with
+the work of [[ André Parrot ]].[[ ^23 ]][[ ^24 ]]
+Parrot worked at the
+location again in 1967.[[ ^25 ]][[ ^26 ]]
+In 1969 and 1970, Larsa was
+excavated by Jean-Claude Margueron.[[ ^27 ]][[ ^28 ]]
+Between 1976 and 1991,
+an expedition of the Delegation Archaeologic Francaise en Irak led by J-L.
+Huot excavated at Tell es-Senereh for 13
+seasons.[[ ^29 ]][[ ^30 ]][[ ^31 ]][[ ^32 ]] The primary focus of the
+excavation was the Neo-Babylonian E-Babbar temple of Utu/Shamash. Floors and
+wall repairs showed its continued use in the Hellenistic period. A tablet,
+found on the earliest Hellenistic floor, was dated to the reign of
+[[ Philip Arrhidaeus ]] (320 BC). Soundings showed that the Neo-Babylonian
+temple followed that plan of the prior Kassite and earlier temples.[[ ^33 ]]
+Numerous inscriptions and cuneiform tablets were found representing the reigns
+of numerous rulers, from [[ Ur-Nammu ]] to Hammurabi all the way up to
+Nebuchadnezzar II.[[ ^34 ]][[ ^35 ]]
+
+In 2019 excavations were resumed. The first season began with a topographic
+survey, by drone and surface survey, to refine and correct the mapping from
+early excavations. Excavation was focused on a large construction of the
+Hellenistic period built north of the E-Babbar temple.[[ ^36 ]][[ ^37 ]] The
+first season included a magnetometer survey.[[ ^38 ]] Excavations continued
+with one month seasons in 2021 and 2022. They have been able to trace a very
+large system of internal canals and a port area, all linked to the Tigris and
+Euphrates rivers in Old Babylonian times. In a destroyed level of the Grand
+Viziers residence 59 cuneiform tablets, fragments and envelopes dated to the
+time of [[ Gungunum ]] and [[ Abisare ]] were found. Geophysical work
+continued including on the 10-20 meter wide rampart wall that enclosed Larsa,
+with six main gates.[[ ^39 ]] Magnetic surveys using a caesium
+gradiometer
+have discovered a massive baked brick water gate in the 15 meter
+wide mud brick wall on the western side. The
+gate permitted the passage of one
+of the large canals that passed through Larsa. A pedestrian gate
+was adjacent.
+Other portions of the 5376 meter long city wall (20 meters wide in places)
+were also surveyed and work this continues at the site.[[ ^40 ]]
+
+[[ ^1 ]]: ETCSL. //[[ The Lament for Nibru | http://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?lookup=c224.O.222&charenc=gcirc&sn=ON ]].// Accessed 19 Dec 2010.
+
+[[ ^2 ]]: ETCSL. //[[ The Temple Hymns | http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.1 ]]//. Accessed 19 Dec 2010.
+
+[[ ^3 ]]: [[ https://www.maa.org/sites/default/files/pdf/news/monthly105-120.pdf | https://www.maa.org/sites/default/files/pdf/news/monthly105-120.pdf ]] Archived 2022-07-20 at the [[ Wayback Machine ]] Robson, Eleanor, "Words and Pictures: New Light on Plimpton 322", The American Mathematical Monthly, vol. 109, no. 2, pp. 105–20, 2002
+
+[[ ^4 ]]: Charvát, Petr, "From King to God: The NAMEŠDA Title in Archaic Ur", in Organization, Representation, and Symbols of Power in the Ancient Near East: Proceedings of the 54th Rencontre Assyriologique Internationale at Würzburg 20–25 Jul, edited by Gernot Wilhelm, University Park, USA: Penn State University Press, pp. 265-274, 2012
+
+[[ ^5 ]]: Schmandt-Besserat, Denise. //Before writing: From counting to cuneiform//, Vol. II, University of Texas Press, 1992
+
+[[ ^6 ]]: Overmann, Karenleigh A., //The Material Origin of Numbers: Insights from the Archaeology of the Ancient Near East//, Piscataway, NJ, USA: Gorgias Press, Table 9.2, pp. 169-170, 2019
+
+[[ ^7 ]]: Douglas Frayne, "Lagas", in Presargonic Period: Early Periods, Volume 1 (2700-2350 BC), RIM The Royal Inscriptions of Mesopotamia Volume 1, Toronto: University of Toronto Press, pp. 77-293, 2008 ISBN 9780802035868
+
+[[ ^8 ]]: Helle, Sophus, "The Temple Hymns", in Enheduana: The Complete Poems of the World's First Author, New Haven: Yale University Press, pp. 53-94, 2023
+
+[[ ^9 ]]: Frayne, Douglas, "Ur-Nammu E3/2.1.1". Ur III Period (2112-2004 BC), Toronto: University of Toronto Press, pp. 5-90, 1997
+
+[[ ^10 ]]: Steinkeller, P., "A History of Mashkan-shapir and Its Role in the Kingdom of Larsa", In E. C. Stone & P. Zimansky (eds.), The Anatomy of a Mesopotamian City. Survey and Soundings at Mashkan-shapir, Winona Lake: Eisenbrauns, pp. 26-42, 2004
+
+[[ ^11 ]]: Ali Ahmed Gadalla, Azza, "The City of Mashkan-Shabir and The Kingdom of Larsa", Annals of the Faculty of Arts, Ain Shams University 50.13, pp. 294-321, 2022
+
+[[ ^12 ]]: W. G. Lambert, "The Home of the First Sealand Dynasty", [[ Journal of Cuneiform Studies ]], 26, pp. 208–210, 1974
+
+[[ ^13 ]]: Beaulieu, Paul-Alain, "Neo-Babylonian Larsa: A Preliminary Study", Orientalia, vol. 60, no. 2, pp. 58–81, 1991
+
+[[ ^14 ]]: Boivin, O., "The ilku and Related Fiscal Obligations in Sixth Century Larsa", in: K. Kleber (ed.), Taxation in the Achaemenid Empire (Classica et Orientalia 26), Wiesbaden, pp. 153–176, 2021
+
+[[ ^15 ]]: Beaulieu, P.-A., "A Finger in Every Pie: The Institutional Connections of a Family of Entrepreneurs in Neo-Babylonian Larsa", in: A.C.V.M. Bongenaar (ed.), Interdependency of Institutions and Private Entrepreneurs: Proceedings of the Second MOS Symposium, Leiden 1998 (PIHANS 87), Leiden, pp. 43–72, 2000
+
+[[ ^16 ]]: Joannès, F., "Les débuts de l’époque hellénistique à Larsa", in: C. Breniquet/C. Kepinski (ed.), Études mésopotamiennes. Recueil de textes offerts à Jean-Louis Huot, Paris, pp. 249–264, 2001
+
+[[ ^17 ]]: Lecomte, O., "Stratigraphical analysis and ceramic assemblages of the 4th–1st centuries B. C. E.Babbar of Larsa", in: U. Finkbeiner (ed.), Materialien zur Archäologie der Seleukiden-  und Partherzeit im südlichen  Babylonien und im Golfgebiet, Tübingen, pp. 17–39, 1993
+
+[[ ^18 ]]: Westenholz, Aage, "The Graeco-Babyloniaca Once Again", Zeitschrift für Assyriologie und Vorderasiatische Archäologie, vol. 97, no. 2, pp. 262-313, 2007
+
+[[ ^19 ]]: Weisberg, David B., "Zabaya, an Early King of the Larsa Dynasty", Journal of Cuneiform Studies, vol. 41, no. 2, pp. 194–98, 1989
+
+[[ ^20 ]]: Fiette, Baptiste, ""King" Kudur-Mabuk. A Study on the Identity of a Mesopotamian Ruler Without a Crown", Die Welt des Orients, vol. 50, no. 2, pp. 275-294, 2020
+
+[[ ^21 ]]: [[ https://archive.org/download/travelsresearche00loft/travelsresearche00loft.pdf | https://archive.org/download/travelsresearche00loft/travelsresearche00loft.pdf ]] William Loftus, "Travels and researches in Chaldæa and Susiana; with an account of excavations at Warka, the Erech of Nimrod, and Shúsh, Shushan the Palace of Esther, in 1849–52", J. Nisbet and Co., 1857
+
+[[ ^22 ]]: [[ https://www.journals.uchicago.edu/doi/pdf/10.1086/473581 | https://www.journals.uchicago.edu/doi/pdf/10.1086/473581 ]] Edgar James Banks, "Senkereh, the Ruins of Ancient Larsa", The Biblical World, 25, no. 5, pp. 389–392, 1905
+
+[[ ^23 ]]: Andre Parrot, "Villes enfouies. Trois campagnes de fouilles en Mésopotamie", 1935
+
+[[ ^24 ]]: A. Parrot, "Les fouilles de Tello et de. Senkereh-Larsa, campagne 1932–1933", Revue d'Assyriologie, 30,  pp. 169–182, 1933
+
+[[ ^25 ]]: André Parrot, "Les fouilles de Larsa", Syria, 45, pp. 205–239, 1968
+
+[[ ^26 ]]: Parrot, André, "Les Fouilles de Larsa. Deuxième et Troisième Campagnes (1967)", Syria, vol. 45, no. 3/4, pp. 205–39, 1968
+
+[[ ^27 ]]: Jean-Claude Margueron, "Larsa, rapport preliminaire sur la quatrieme campagne", //Syria//, 47, pp. 261-277, 1970
+
+[[ ^28 ]]: Jean-Claude Margueron, "Larsa, rapport preliminaire sur la cinquieme campagne", Syria, 48, pp. 271–287, 1971
+
+[[ ^29 ]]: J. L. Huot et al., "Larsa, Preliminary Report on the Sixth Campaign", Sumer, 34, pp. 140–164, 1978
+
+[[ ^30 ]]: J-L. Huot, "Larsa, rapport preliminaire sur la septieme campagne Larsa et la premiere campagne Tell el 'Oueili (1976)", //Syria//, 55, pp. 183–223, 1978
+
+[[ ^31 ]]: J-L. Huot, "Larsa et 'Oueili, travaux de 1978–1981", vol. 26, Memoire, Editions Recherche sur les civilisations, 1983 ISBN [[ 2-86538-066-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F2-86538-066-1 ]]
+
+[[ ^32 ]]: J-L. Huot, "Larsa, Travaux de 1985", Editions Recherche sur les civilisations, 1989 ISBN [[ 2-86538-198-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F2-86538-198-6 ]]
+
+[[ ^33 ]]: J.-L. Huot, "Larsa (10e campagne, 1983) et Oueili: Rapport preliminaire", Editions Recherche sur les civilisations, 1987 ISBN [[ 2-86538-174-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F2-86538-174-9 ]]
+
+[[ ^34 ]]: D. Arnaud, "French Archaeological Mission in Iraq. A Catalogue of the Cuneiform Tablets and Inscribed Objects Found during the 6th Season in Tell Senkereh/Larsa", Sumer, 34, pp. 165–176, 1978
+
+[[ ^35 ]]: Huot, J.-L., "L’E. babbar de Larsa aux IIe et Ier millénaires (fouilles de 1974 à 1985)", BAH 205, Beyrouth, 2014
+
+[[ ^36 ]]: [[ https://www.cairn.info/load_pdf.php?ID_ARTICLE=ARSC_451_0051&download=1 | https://www.cairn.info/load_pdf.php?ID_ARTICLE=ARSC_451_0051&download=1 ]] Lionel Darras, Régis Vallet, "La découverte des remparts de Larsa (Iraq) par la géophysique", XXIIIe colloque du GMPCA : Archéométrie 2022, May 2022, Chambéry, France
+
+[[ ^37 ]]: [[ https://hal.science/hal-03088166/document | https://hal.science/hal-03088166/document ]] Vallet, R. et al., "Preliminary Report on the XIVth and XVth Campaigns at Larsa", Sumer LXVI, pp. 133-176, 2020
+
+[[ ^38 ]]: [[ https://journals.openedition.org/archeosciences/pdf/8378 | https://journals.openedition.org/archeosciences/pdf/8378 ]] Darras, Lionel, and Régis Vallet, "Magnetic signatures of urban structures: Case study from Larsa (Iraq, 6th–1st Millennium BC)", ArcheoSciences, Revue d'archéométrie 45-1, pp. 51-54, 2021
+
+[[ ^39 ]]: [[ https://hal.science/hal-03925003 | https://hal.science/hal-03925003 ]] Regis Vallet, "Larsa-'Uwaili Annual Report 2021-2022: Preliminary Report on the Results of the XVIth & XVIIth Campaigns at Larsa and the Xth Campaign at Tell el ‘Uwaili", State Board of Antiquities and Heritage of Iraq. 2022
+
+[[ ^40 ]]: [[ https://shs.cairn.info/revue-archeosciences-2025-1-page-283?tab=texte-integral | https://shs.cairn.info/revue-archeosciences-2025-1-page-283?tab=texte-integral ]] Darras, Lionel, and Régis Vallet, "LARSA (IRAQ, 6th–1st millennium BC): Discovering the city wall and its gates", ArcheoSciences 491.1, pp. 283-286, 2025

@@ -323,7 +323,7 @@ wikidata:
     place-of-death: Babylon
     topic-s-main-category: Category:Alexander the Great
     instance-of: human
-    date-of-death: 323 BC (06-10)
+    date-of-death: 10 June 323 BC
     child:
       - Alexandros IV of Macedon
       - Heracles of Macedon
@@ -407,7 +407,7 @@ wikidata:
       - Vows of the Peacock
       - Civilization VI
       - Q2385
-    date-of-birth: 356 BC (07-20)
+    date-of-birth: 20 July 356 BC
     noble-title:
       - pharaoh
       - king

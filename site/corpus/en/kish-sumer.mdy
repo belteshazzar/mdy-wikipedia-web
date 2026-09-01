@@ -1,0 +1,2587 @@
++++
+title: Kish (Sumer)
+description: Ancient Sumerian city
+coordinates:
+  lat: 32.54027778
+  lon: 44.60472222
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/250px-Iraq_physical_map.svg.png
+  type: Settlement
+  periods: Ubaid to Hellenistic
+  location: Tell al-Uhaymir, Babil Governorate, Iraq
+  region: Mesopotamia
+  history:
+    built: Ubaid period
+  site-notes:
+    excavation-dates: 1852, 1912, 1923–1933, 1989, 2000–2001
+    archaeologists: Austen Henry Layard, Julius Oppert, Henri de Genouillac, Stephen
+      Langdon, Hideo Fuji, Ken Matsumoto
+images:
+  - file: Cities_of_Sumer_(en).svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cities_of_Sumer_%28en%29.svg/250px-Cities_of_Sumer_%28en%29.svg.png
+    width: 436
+    height: 480
+    caption: The ancient cities of Sumer.
+  - file: Mesannepada,_Lugal_Kish-ki_(with_seal_impression).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mesannepada%2C_Lugal_Kish-ki_%28with_seal_impression%29.jpg/500px-Mesannepada%2C_Lugal_Kish-ki_%28with_seal_impression%29.jpg
+    width: 2476
+    height: 744
+    caption: Mesannepada, Lugal Kish-ki (𒈩𒀭𒉌𒅆𒊒𒁕 𒈗 𒆧𒆠), "Mesannepada, King
+      of Kish", on a seal impression found in the Royal Cemetery at Ur. The last
+      column of characters, is thought to mean "his wife..." (𒁮𒉡𒍼,
+      dam-nu-gig).
+  - file: Manishtushu_Lugal_Kish.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Manishtushu_Lugal_Kish.jpg/250px-Manishtushu_Lugal_Kish.jpg
+    width: 1746
+    height: 761
+    caption: 'Macehead inscription of Manishtushu, ruler of the Akkadian Empire:
+      Manishtushu Lugal Kish, "Manishtushu King of Kish"'
+  - file: Iraq._Kish._(Tel-Uhaimir)._The_ruling_city_immediately_after_the_deluge._The_ancient_ruins_showing_extensive_remains_LOC_matpc.16176.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Iraq._Kish._%28Tel-Uhaimir%29._The_ruling_city_immediately_after_the_deluge._The_ancient_ruins_showing_extensive_remains_LOC_matpc.16176.jpg/250px-Iraq._Kish._%28Tel-Uhaimir%29._The_ruling_city_immediately_after_the_deluge._The_ancient_ruins_showing_extensive_remains_LOC_matpc.16176.jpg
+    width: 3979
+    height: 3038
+    caption: Iraq. Kish. (Tel-Uhaimir). Ruins of Kish at time of excavation
+  - file: PCB_(north-east_view).png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PCB_%28north-east_view%29.png/250px-PCB_%28north-east_view%29.png
+    width: 1856
+    height: 1088
+    caption: 3-D reconstruction of the Plano-convex building (north-east view) by Hmlam
+  - file: PCB_(bird's_eye_view).png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/PCB_%28bird%27s_eye_view%29.png/250px-PCB_%28bird%27s_eye_view%29.png
+    width: 1908
+    height: 1162
+    caption: 3-D reconstruction of the Plano-convex building (bird's eye view) by Hmlam
+  - file: 3-D_reconstruction_of_Sumerian_Palace_(Mound_A)_(View_2).png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/3-D_reconstruction_of_Sumerian_Palace_%28Mound_A%29_%28View_2%29.png/250px-3-D_reconstruction_of_Sumerian_Palace_%28Mound_A%29_%28View_2%29.png
+    width: 2880
+    height: 1640
+    caption: 3-D reconstruction of Sumerian Palace (Mound A) by Pahuna/ Pahuna99
+  - file: 3-D_reconstruction_of_Sumerian_Palace_(Mound_A)_(View_1).png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/3-D_reconstruction_of_Sumerian_Palace_%28Mound_A%29_%28View_1%29.png/250px-3-D_reconstruction_of_Sumerian_Palace_%28Mound_A%29_%28View_1%29.png
+    width: 2880
+    height: 1640
+    caption: 3-D reconstruction of Sumerian Palace (Mound A) by Pahuna/ Pahuna99
+  - file: 3-D_reconstruction_of_Tell_H,_SP-2_by_OceanOwll.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/3-D_reconstruction_of_Tell_H%2C_SP-2_by_OceanOwll.png/250px-3-D_reconstruction_of_Tell_H%2C_SP-2_by_OceanOwll.png
+    width: 2094
+    height: 1312
+    caption: 3-D reconstruction of Tell H, SP-2 by OceanOwll
+  - file: 3-D_reconstruction_of_Tell_H,_SP-3_by_OceanOwll.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/3-D_reconstruction_of_Tell_H%2C_SP-3_by_OceanOwll.png/250px-3-D_reconstruction_of_Tell_H%2C_SP-3_by_OceanOwll.png
+    width: 2094
+    height: 1312
+    caption: 3-D reconstruction of Tell H, SP-3 by OceanOwll
+wikidata:
+  id: Q132272
+  label: Kish
+  description: ancient Sumerian city
+  claims:
+    commons-category: Kish (Mesopotamia)
+    coordinate-location:
+      lat: 32.540277777777774
+      lon: 44.60472222222222
+    country: Iraq
+    located-in-the-administrative-territorial-entity: Babylon Governorate
+    inception: 3100 BC
+    instance-of:
+      - ancient city
+      - city-state
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Babilonia_durante_la_dinast%C3%ADa_Casitas_Siglo_XIII_adC_ES.svg
+    different-from:
+      - Kish
+      - archaeological site of Kish
+      - Kesh
+      - Kingdom of Kush
+    culture: Sumer
+    continent: Asia
+    location: Mesopotamia
+    capital-of: First Dynasty of Kish
+categories:
+  - Archaeological sites in Iraq
+  - Former kingdoms
+  - Former populated places in Iraq
+  - History of Babylon Governorate
+  - Kish (Sumer)
+  - Kish civilization
+  - Populated places disestablished in the 13th century
+  - Populated places established in the 6th millennium BC
+  - Sumerian cities
+langlinks:
+  af: Kisj
+  am: ኪሽ
+  ar: كيش
+  arz: كيش (مدينه ضايعه فى بابل)
+  az: Kiş (Şumer)
+  ba: Киш (Шумер)
+  be: Кіш (Шумер)
+  bg: Киш
+  bs: Kish (Sumer)
+  ca: Kiš
+  ceb: Kīsh (arkiyolohiyang dapit)
+  ckb: کیش (سۆمەر)
+  cs: Kiš
+  cv: Киш
+  da: Kish
+  de: Kisch (Mesopotamien)
+  diq: Kiş
+  eo: Kiŝ
+  es: Kish
+  eu: Kish
+  fa: کیش (سومر)
+  fi: Kiš
+  fr: Kish (Mésopotamie)
+  gl: Kish
+  he: כיש
+  hr: Kiš (Sumer)
+  hu: Kis (település)
+  hy: Քիշ (Շումեր)
+  id: Kiš
+  it: Kish (città antica)
+  ja: キシュ
+  ka: ქიში
+  ko: 키시
+  ku: Kîş
+  lt: Kišas
+  my: ကစ်ရှမြို့
+  nl: Kish (Irak)
+  nb: Kisj
+  oc: Kish
+  pl: Kisz
+  pt: Quis (Mesopotâmia)
+  ro: Kiș (Sumer)
+  ru: Киш (древний город)
+  sh: Kiš (Sumer)
+  si: කිෂ්
+  sk: Kiš
+  sl: Kiš
+  sr: Киш
+  sv: Kish
+  ta: கிஷ், சுமேரியா
+  tl: Kish (Sumerya)
+  tr: Kiş (antik kent)
+  uk: Кіш (Шумер)
+  uz: Kish
+  xmf: ქიში
+  zh: 基什
+link-titles:
+  4.2-kiloyear-event: 4.2-kiloyear event
+  abbasid-caliphate: Abbasid Caliphate
+  abolition-of-monarchy: Abolition of monarchy
+  achaemenid: Achaemenid
+  adab-city: Adab (city)
+  adad-apla-iddina: Adad-apla-iddina
+  aga-of-kish: Aga of Kish
+  akkad-city: Akkad (city)
+  akkadian-language: Akkadian language
+  akkadian-empire: Akkadian Empire
+  akkadian-period: Akkadian Period
+  akkadian-royal-titulary: Akkadian royal titulary
+  akshak: Akshak
+  akurgal: Akurgal
+  amorite: Amorite
+  anu: Anu
+  arabian-sand-gazelle: Arabian sand gazelle
+  archaeological-site: Archaeological site
+  arwium: Arwium
+  ashmolean-museum: Ashmolean Museum
+  assyria: Assyria
+  atab: Atab
+  austen-henry-layard: Austen Henry Layard
+  awan-ancient-city: Awan (ancient city)
+  azupiranu: Azupiranu
+  babil-governorate: Babil Governorate
+  babum: Babum
+  babylon: Babylon
+  baghdad: Baghdad
+  balih: Balih
+  barsal-nuna: Barsal-nuna
+  bau-goddess: Bau (goddess)
+  cuneiform: Cuneiform
+  dadasig: Dadasig
+  dingir: Dingir
+  dumuzid-the-fisherman: Dumuzid, the Fisherman
+  dur-kurigalzu: Dur-Kurigalzu
+  ea-babylonian-god: Ea (Babylonian god)
+  eanna: Eanna
+  eannatum: Eannatum
+  early-dynastic-i: Early Dynastic I
+  early-dynastic-period-mesopotamia: Early Dynastic Period (Mesopotamia)
+  east-semitic-languages: East Semitic languages
+  ebla: Ebla
+  ebla-tablets: Ebla tablets
+  elam: Elam
+  en-anna-tum-i: En-anna-tum I
+  en-me-barage-si: En-me-barage-si
+  en-me-nuna: En-me-nuna
+  en-shag-kush-ana: En-shag-kush-ana
+  en-tarah-ana: En-tarah-ana
+  enmebaragesi: Enmebaragesi
+  ensi-sumerian: Ensi (Sumerian)
+  eshnunna: Eshnunna
+  etana: Etana
+  euphrates-river: Euphrates River
+  fattail-scorpion: Fattail scorpion
+  field-museum: Field Museum
+  first-dynasty-of-babylon: First Dynasty of Babylon
+  françois-thureau-dangin: François Thureau-Dangin
+  gilgamesh: Gilgamesh
+  girsu: Girsu
+  goitered-gazelle: Goitered gazelle
+  gutian-rule-in-mesopotamia: Gutian rule in Mesopotamia
+  hamazi: Hamazi
+  hammurabi: Hammurabi
+  hegemony: Hegemony
+  hellenistic-period: Hellenistic period
+  henri-de-genouillac: Henri de Genouillac
+  henry-field-anthropologist: Henry Field (anthropologist)
+  history-of-sumer: History of Sumer
+  hormuzd-rassam: Hormuzd Rassam
+  ignace-gelb: Ignace Gelb
+  ilku: Ilku
+  iltasadum: Iltasadum
+  indus-valley-civilisation: Indus Valley civilisation
+  indus-mesopotamia-relations: Indus-Mesopotamia relations
+  iraq: Iraq
+  isar-damu: Isar-Damu
+  ishtar: Ishtar
+  isin: Isin
+  isin-larsa-period: Isin-Larsa period
+  istanbul-archaeology-museum: Istanbul Archaeology Museum
+  julius-oppert: Julius Oppert
+  jushur: Jushur
+  kalibum: Kalibum
+  kalumum: Kalumum
+  kassite-dynasty: Kassite dynasty
+  ki-earth: Ki (earth)
+  kish-civilization: Kish civilization
+  kokushikan-university: Kokushikan University
+  kug-bau: Kug-Bau
+  kullassina-bel: Kullassina-bel
+  lagash: Lagash
+  larsa: Larsa
+  list-of-kings-of-mari: List of kings of Mari
+  louvre: Louvre
+  lugal: Lugal
+  lugalshaengur: Lugalshaengur
+  lumma: Lumma
+  munus: MUNUS
+  manana-dynasty: Manana Dynasty
+  manishtushu: Manishtushu
+  mari-syria: Mari, Syria
+  mashda: Mashda
+  mediterranean-sea: Mediterranean Sea
+  melem-kish: Melem-Kish
+  mesannepada: Mesannepada
+  mesilim: Mesilim
+  mudbricks: Mudbricks
+  nabonidus: Nabonidus
+  nangishlishma: Nangishlishma
+  naram-suen-of-akkad: Naram-Suen of Akkad
+  naram-suen-of-eshnunna: Naram-Suen of Eshnunna
+  nebuchadnezzar-ii: Nebuchadnezzar II
+  neo-assyrian: Neo-Assyrian
+  neo-babylonian: Neo-Babylonian
+  nippur: Nippur
+  parthia: Parthia
+  parthian-empire: Parthian Empire
+  patron-deity: Patron deity
+  puannum: Puannum
+  puzur-suen: Puzur-Suen
+  qurnah-disaster: Qurnah Disaster
+  reign: Reign
+  royal-cemetery-at-ur: Royal Cemetery at Ur
+  saluki: Saluki
+  samsu-ditana: Samsu-Ditana
+  samsu-iluna: Samsu-iluna
+  sargon-of-akkad: Sargon of Akkad
+  sasanian-empire: Sasanian Empire
+  shatt-en-nil: Shatt en-Nil
+  shepherd: Shepherd
+  shu-sin: Shu-Sin
+  shulgi: Shulgi
+  sin-muballit: Sin-Muballit
+  stephen-herbert-langdon: Stephen Herbert Langdon
+  stucco: Stucco
+  sumer: Sumer
+  sumerian-king-list: Sumerian King List
+  sumerian-flood-myth: Sumerian flood myth
+  sumerian-language: Sumerian language
+  sumu-abum: Sumu-abum
+  sumu-la-el: Sumu-la-El
+  sumuel: Sumuel
+  susuda: Susuda
+  tempore: Tempore
+  third-dynasty-of-ur: Third Dynasty of Ur
+  throne: Throne
+  tizqar: Tizqar
+  ubaid-period: Ubaid period
+  uhub: Uhub
+  university-of-oxford: University of Oxford
+  ur: Ur
+  ur-nanshe: Ur-Nanshe
+  ur-zababa: Ur-Zababa
+  uruk: Uruk
+  uruk-period: Uruk period
+  ušumgallu: Ušumgallu
+  wild-goat: Wild goat
+  zababa: Zababa
+  zamug: Zamug
+  ziggurat: Ziggurat
+  zuqaqip: Zuqaqip
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: chalcolithic
+    title: Chalcolithic
+  - level: 4
+    id: ubaid-period
+    title: Ubaid period
+  - level: 3
+    id: early-bronze-age
+    title: Early Bronze Age
+  - level: 4
+    id: uruk-period
+    title: Uruk period
+  - level: 4
+    id: jemdet-nasr-period
+    title: Jemdet Nasr period
+  - level: 4
+    id: early-dynastic-period
+    title: Early Dynastic period
+  - level: 4
+    id: akkadian-period
+    title: Akkadian period
+  - level: 4
+    id: ur-iii-period
+    title: Ur III period
+  - level: 3
+    id: middle-bronze-age
+    title: Middle Bronze Age
+  - level: 4
+    id: isin-larsa-period
+    title: Isin-Larsa period
+  - level: 4
+    id: old-babylonian-period
+    title: Old Babylonian period
+  - level: 3
+    id: late-bronze-age
+    title: Late Bronze Age
+  - level: 3
+    id: iron-age-and-later
+    title: Iron Age and later
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 3
+    id: tell-uhaimir
+    title: Tell Uhaimir
+  - level: 3
+    id: tell-ingharra-ḫursaĝkalama
+    title: Tell Ingharra (Ḫursaĝkalama)
+  - level: 3
+    id: area-p
+    title: Area P
+  - level: 4
+    id: the-plano-convex-building
+    title: The 'Plano-convex building'
+  - level: 3
+    id: mound-a
+    title: Mound A
+  - level: 4
+    id: the-sumerian-palace
+    title: The Sumerian Palace
+  - level: 3
+    id: tell-h
+    title: Tell H
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+  - level: 2
+    id: gallery
+    title: Gallery
+source:
+  site: Wikipedia
+  lang: en
+  title: Kish (Sumer)
+  url: https://en.wikipedia.org/wiki/Kish_(Sumer)
+  page-id: 144012
+  revision: "1365075075"
+  modified: 2026-07-20T03:32:15Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Kish
+    (Sumer)" (revision 1365075075), by Wikipedia contributors, used under CC
+    BY-SA 4.0.
++++
+!!Kish!! ([[ Sumerian | sumerian-language ]]: Kiš; transliteration:
+[[ Kiš | https://en.wiktionary.org/wiki/𒆧 ]]^^[[ ki | ki-earth ]]^^;
+[[ cuneiform ]]: 𒆧𒆠;[[ ^1 ]] Akkadian: //Kiššatu//,[[ ^2 ]] near modern
+!!Tell al-Uhaymir!!) is an important [[ archaeological site ]] in
+[[ Babil Governorate ]] ([[ Iraq ]]), located 80 km (50 mi) south of Baghdad
+and 12 km (7.5 mi) east of the ancient city of [[ Babylon ]]. The
+[[ Ubaid period ]] site of Ras al-Amiyah is 8 km (5.0 mi) away. It was
+occupied from the Ubaid period to the [[ Hellenistic period ]].[[ ^3 ]] In
+Early Dynastic times the city's [[ patron deity ]] was [[ Ishtar ]] with her
+consort [[ Ea | ea-babylonian-god ]]. Her temple, at Tell Ingharra, was
+(E)-hursag-kalama.[[ ^4 ]][[ ^5 ]] By Old Babylonian times the
+[[ patron deities | patron-deity ]] had become [[ Zababa ]], along with his
+consort, the goddess [[ Bau | bau-goddess ]] and Istar. His temple Emeteursag
+(later Ekišiba) was at Uhaimir.[[ ^6 ]]
+
+== History
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cities_of_Sumer_%28en%29.svg/250px-Cities_of_Sumer_%28en%29.svg.png" height="275" width="250"
+
+  <figcaption>The ancient cities of [[ Sumer ]].
+
+=== Chalcolithic
+
+==== Ubaid period
+
+Kish was occupied from the [[ Ubaid period ]] (c.5300–4300 BC), gaining
+prominence as one of the pre-eminent powers in the region during the
+[[ Early Dynastic Period | early-dynastic-period-mesopotamia ]] when it
+reached its maximum extent of 230 hectares.[[ ^7 ]][[ ^8 ]]
+
+=== Early Bronze Age
+
+The //[[ Sumerian King List ]] (SKL)// states that Kish was the first city to
+have kings following the deluge.[[ ^9 ]] The 1st dynasty of Kish begins with
+[[ Ĝushur | jushur ]]. Ĝushur's successor is called [[ Kullassina-bel ]], but
+this is actually a sentence in [[ Akkadian | akkadian-language ]] meaning "All
+of them were lord". Thus, some scholars have suggested that this may have been
+intended to signify the absence of a central authority in Kish for a time. The
+names of the next nine kings of Kish preceding [[ Etana ]] are Nanĝišlišma,
+En-tarah-ana, Babum, Puannum, Kalibum, Kalumum, Zuqaqip, Aba, Mašda, and
+Arwium.
+
+==== Uruk period
+
+!!Late Chalcolithic/Early Bronze I!!. Archaeological finds from the
+[[ Uruk period ]] (c. 3900-3100 BCE) indicate that the site was part of the
+Uruk Expansion and hence originally [[ Sumerian language ]] speaking.[[ ^10 ]]
+[[ Ignace Gelb ]] identified Kish as the center of the earliest
+[[ East Semitic | east-semitic-languages ]] culture which he calls the
+[[ Kish civilization ]], however the concept has been challenged by more
+recent scholarship.[[ ^11 ]][[ ^12 ]]
+
+==== Jemdet Nasr period
+
+!!Early Bronze IIA!! (c. 3050/3000-2900/2850 BCE). During the Jemdet Nasr
+period, little is known.
+
+Excavations conducted by the Oxford-Field Museum expedition (1923–1933)
+identified significant flood deposits from the Euphrates River that disrupted
+the city's occupation. At the Ingharra mound (East Kish), archaeologists
+discovered a thick layer of yellow-green sand and silt, completely devoid of
+artifacts, separating the Jemdet Nasr period from the Early Dynastic I (ED I)
+period.[[ ^13 ]][[ ^14 ]]
+
+==== Early Dynastic period
+
+!!Early Bronze IIB!! (c. 2900/2850-2750 BCE). In Early Dynasty I-II little is
+known.
+
+!!Early Bronze IIIA!! (c. 2750-2500 BCE). Early Dynastic IIIA. Of the
+twenty-first king of Kish on the list, [[ Enmebaragesi ]], who is said to have
+captured the weapons of [[ Elam ]], is the first name confirmed by
+archaeological finds from his reign.[[ ^4 ]] He is also known through other
+literary references, in which he and his son [[ Aga of Kish ]] are portrayed
+as contemporary rivals of [[ Dumuzid, the Fisherman ]], and [[ Gilgamesh ]],
+early rulers of [[ Uruk ]].
+
+Some early kings of Kish are known through archaeology, but are not named on
+the //SKL//. It can be difficult to determine if these are actually rulers of
+Kish or had merely adopted the common appellation "King of Kish". This
+includes [[ Mesilim ]], who built temples in [[ Adab | adab-city ]] and
+[[ Lagash ]], where he seems to have exercised some control. Two other
+examples were the sleeve of an Early Dynastic II bronze sword found at
+[[ Girsu ]] which read "Lugal-namni[r]-sum (is) king of Kis" and a statue
+fragment found at Nippur which read "Enna-il, king of Kis".[[ ^4 ]][[ ^15 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mesannepada%2C_Lugal_Kish-ki_%28with_seal_impression%29.jpg/500px-Mesannepada%2C_Lugal_Kish-ki_%28with_seal_impression%29.jpg" height="114" width="380"
+
+  <figcaption>//Mesannepada, Lugal Kish-ki// (𒈩𒀭𒉌𒅆𒊒𒁕 𒈗 𒆧𒆠), "[[ Mesannepada ]], King of Kish", on a seal impression found in the [[ Royal Cemetery at Ur ]].[[ ^16 ]][[ ^17 ]] The last column of characters, is thought to mean "his wife\..." (𒁮𒉡𒍼, //dam-nu-gig//).[[ ^16 ]]
+
+!!Early Bronze IIIB!! (c. 2500-2350 BCE). In Early Dynastic IIIB, after its
+early supremacy, Kish declined economically and militarily, but retained a
+strong political and symbolic significance.[[ ^18 ]] Its influence reached as
+far west as the city of [[ Ebla ]] near the [[ Mediterranean Sea ]], as shown
+by the [[ Ebla tablets ]].[[ ^19 ]][[ ^20 ]] According to the
+[[ Ebla tablets ]], Kish was defeated in the time of Ebla ruler
+[[ Ishar-Damu | isar-damu ]], probably by Uruk. Shortly afterward Kish joined
+Ebla in defeating [[ Mari | mari-syria ]], followed by the marriage of the
+Eblan princess Keshdut to a king of Kish.[[ ^21 ]] Just as with [[ Nippur ]]
+to the south, control of Kish was a prime element in legitimizing dominance
+over the north of Mesopotamia. Because of the city's symbolic value, strong
+rulers later claimed the traditional title "//King of Kish//", even if they
+were from [[ Akkad | akkad-city ]], [[ Ur ]], [[ Assyria ]], [[ Isin ]],
+[[ Larsa ]] or [[ Babylon ]].[[ ^22 ]] One of the earliest to adopt this title
+upon subjecting Kish to his empire was King [[ Mesannepada ]] of Ur.[[ ^23 ]]
+
+==== Akkadian period
+
+!!Early Bronze IVA!! (c. 2350-2150 BCE). The Akkadian Period began with
+[[ Sargon of Akkad ]] (r. 2334-2279 BCE) who founded the [[ Akkadian Empire ]]
+(c. 2334-2154 BCE). He came from the area near Kish, called [[ Azupiranu ]]
+according to a much later [[ Neo-Assyrian ]] text purporting to be an
+autobiography of Sargon.[[ ^24 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Manishtushu_Lugal_Kish.jpg/250px-Manishtushu_Lugal_Kish.jpg" height="109" width="250"
+
+  <figcaption>Macehead inscription of [[ Manishtushu ]], ruler of the [[ Akkadian Empire ]]: //Manishtushu Lugal Kish//, "Manishtushu King of Kish"
+
+During the reign of [[ Manishtushu ]], he used the title "//Lugal Kish//" in
+inscriptions.
+
+By 2154 BCE, the Fall of the Akkadian Empire was due to major climate change
+causing drought ([[ 4.2 ka event | 4.2-kiloyear-event ]]). This led to a
+political turmoil known as the Gutian period with hords of highland Gutians
+raiding the urban cities on the plain.
+
+==== Ur III period
+
+!!Early Bronze IVB!! (c. 2150-2020/2000 BCE). During the
+[[ Ur III Period | third-dynasty-of-ur ]] (c. 2112–2004 BCE), also known as
+the Neo-Sumerian Empire, the city of Kish occupied a unique position. While it
+was no longer the seat of an independent hegemony as it had been in the Early
+Dynastic period, it remained a vital strategic and ideological center under
+the centralized administration of the Third Dynasty of Ur. Kish was governed
+by an ensi (governor) appointed by the kings of Ur. Records show these
+governors were heavily involved in the bala system—a complex tax and
+redistribution network. Kish served as a major provincial capital. Because of
+its location in northern Babylonia, it acted as a gateway between the Sumerian
+south and the Semitic-speaking regions to the north and west. It was a crucial
+node on the royal roads connecting the capital, [[ Ur ]], to the northern
+frontier.
+
+In terms of economy, tablets archive shows the management of "gangs" of
+laborers (guruš and geme). They were employed in large-scale agricultural
+projects and the maintenance of the irrigation canals, such as the Irim-Kiš
+canal.[[ ^25 ]] Kish was a primary producer of barley and emmer. Tablets shows
+precise caloric rationing for workers, reflecting a highly "math-heavy" and
+bureaucratic approach to state economy.[[ ^26 ]]
+
+The religion was dominated by the Temple of Zababa with the city’s patron
+deity was [[ Zababa ]] (a warrior god). The Ur III kings, particularly
+[[ Shulgi ]] and [[ Shu-Sin ]], invested heavily in the restoration of his
+temple, E-meteursag. Cultic offerings are shown from documents at the central
+livestock agency at Puzrish-Dagan record frequent shipments of cattle and
+sheep specifically destined for the altars in Kish, indicating its continued
+status as a "holy city."
+
+Archaeological evidence from the Ur III layers at Tell al-Uhaymir is somewhat
+sparse compared to the Early Dynastic layers, largely because the Neo-Sumerian
+structures were often built over or recycled by later Babylonian builders.
+However, the presence of stamped bricks bearing the names of Ur III kings
+confirms their active construction programs in the city.
+
+By 2036 BCE, an abrupt climate change hit hard for about a decade, probably
+caused by a major volcanic eruption. Colder weather in the northern hemisphere
+and drought in Mesopotamia saw Ur III Empire struggle with grain prices rising
+and rebellions emerge. After that, the Ur III never recovered and declined
+until its fall in 2004 BCE - marking the end of the Early Bronze Age. The
+governorate of Kish fell out of the central authority of Ur III becoming an
+independent regional power again.
+
+=== Middle Bronze Age
+
+==== Isin-Larsa period
+
+!!Middle Bronze IA!! (c. 2020/2000-1900 BCE). In the Isin-Larsa period, Kish
+became a "buffer state" and a frequent prize in the power struggle between the
+rival cities of [[ Isin ]] and [[ Larsa ]]. Following the Elamite destruction
+of Ur, the centralized bureaucracy vanished. Local dynasties seized the
+opportunity to declare sovereignty. Kish regained its status as an
+semi-independent kingdom for several decades, though it was often squeezed
+between larger regional powers. Its strategic location near the northern
+irrigation networks made Kish a target.
+
+==== Old Babylonian period
+
+!!Middle Bronze IB!! (c. 1900-1820 BCE). By the early part of the
+[[ First Dynasty of Babylon ]] Kish was under the control of Babylon with the
+tenth year name of ruler [[ Sumu-abum ]] (c. 1897–1883 BC) being "Year in
+which (Sumu-abum) made for Kish its city wall (reaching) heaven" (repeated in
+following year). Not long afterward, Kish was conquered by [[ Sumuel ]] of
+[[ Larsa ]] as reflected in his eleventh year name "Year the army of Kisz was
+smitten by weapons", repeated in the following three year names. In the 13th
+year of [[ Sumu-la-El ]] he reports destroying Kish (repeated in following
+four years) and then destroying the city wall of Kish in his 19th year and in
+his 30th year "Year the temple of Zababa, the Emeteursag / the house, ornament
+of the heros (Zababa), was built". At this point Kish came under the control
+of the city-state of [[ Eshnunna ]] under rulers ^^[[ D | dingir ]]^^Ipiq-Adad
+II and ^^[[ D | dingir ]]^^[[ Naram-Sin | naram-suen-of-eshnunna ]].
+
+!!Middle Bronze II!! (c. 1820-1550 BCE). By the time of Babylon ruler
+[[ Sin-Muballit ]] (c. 1813–1792 BC), father of [[ Hammurabi ]], Kish was
+firmly under the control of Babylon and would stay that way until the waning
+days of the [[ First Dynasty of Babylon ]]. The rulers of Babylon at its peak
+of power, Hammurabi and [[ Samsu-iluna ]], are known to have done extensive
+construction at Kish, including rebuilding the city wall. By this time, the
+eastern settlement at Hursagkalama had become viewed as a distinct city, and
+it was probably not included in the walled area.[[ ^10 ]]
+
+At some period or periods within the Old Babylonian period, Kish was under the
+control of a series of rulers generally called the [[ Manana Dynasty ]]. Most
+of what is known comes from two illicitly excavated archive thought to be from
+the town of Damrum, near Kish.[[ ^27 ]][[ ^28 ]][[ ^29 ]] These rulers include
+Iawian, Halium, Abdi-Erah, Manana, and four others. Several year names of
+Iawium are known including "Year Sumu-ditana died". [[ Samsu-Ditana ]] was the
+last ruler of the First Dynasty of Babylon.[[ ^30 ]] One ruler, Ashduniarim is
+known from a long inscription on a clay foundation cone found at Kish.
+
+<blockquote
+  "Ašdũni-iarīm, the mighty man, beloved of Ištar, favored by Zababa, king of
+  Kiš, when the world quarters four became hostile to me, for eight years battle
+  I waged, and in the eighth year my opponent to clay indeed turned. \...
+  "[[ ^31 ]]
+
+=== Late Bronze Age
+
+The succeeding [[ Kassite dynasty ]] moved the capital from Babylon to
+[[ Dur-Kurigalzu ]] and Kish was diminished. There is some evidence of Kassite
+activity in Kish.[[ ^32 ]]
+
+=== Iron Age and later
+
+Afterward Kish appears to have significantly declined in importance, as it is
+only mentioned in a few documents from the later second millennium BC. During
+the [[ Neo-Assyrian ]] and [[ Neo-Babylonian ]] periods, Kish is mentioned
+more frequently in texts. However, by this time, Kish proper (Tell al-Uhaymir)
+had been almost completely abandoned, and the settlement which texts from this
+period call "Kish" was probably Hursagkalama (Tell Ingharra).[[ ^10 ]]
+
+After the [[ Achaemenid ]] period, Kish completely disappears from the
+historical record; however, archaeological evidence indicates that the town
+remained in existence for a long time thereafter.[[ ^10 ]] Although the site
+at Tell al-Uhaymir was mostly abandoned, Tell Ingharra was revived during the
+[[ Parthian | parthian-empire ]] period, growing into a sizeable town with a
+large mud-brick fortress. During the [[ Sasanian | sasanian-empire ]] period,
+the site of the old city was completely abandoned in favor of a string of
+connected settlements spread out along both sides of the [[ Shatt en-Nil ]]
+canal. This last incarnation of Kish prospered under Sasanian and then Islamic
+rule, before being finally abandoned during the later years of the
+[[ Abbasid Caliphate ]] (750–1258).[[ ^10 ]]
+
+== Archaeology
+
+Kish is located 12 km (7.5 mi) east of the ancient city of [[ Babylon ]] and
+80 km (50 mi) south of modern [[ Baghdad ]]. The Kish archaeological site is
+an oval area roughly 8 by 3 km (5 by 2 mi), transected into east and west
+sections by the dry former bed of the [[ Euphrates River ]], encompassing
+around 40 mounds scattered over an area of about 24 square kilometers, the
+largest being Uhaimir and Ingharra.[[ ^33 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Iraq._Kish._%28Tel-Uhaimir%29._The_ruling_city_immediately_after_the_deluge._The_ancient_ruins_showing_extensive_remains_LOC_matpc.16176.jpg/250px-Iraq._Kish._%28Tel-Uhaimir%29._The_ruling_city_immediately_after_the_deluge._The_ancient_ruins_showing_extensive_remains_LOC_matpc.16176.jpg" height="191" width="250"
+
+  <figcaption>Iraq. Kish. (Tel-Uhaimir). Ruins of Kish at time of excavation
+
+After irregularly excavated tablets began appearing at the beginning of the
+twentieth century, [[ François Thureau-Dangin ]] identified the site as being
+Kish.[[ ^34 ]] Those tablets ended up in a variety of museums. Because of its
+close proximity to Babylon (of which early explorers believed it was part) the
+site was visited by a number of explorers and travelers in the 19th century,
+some involving excavation, most notably by the foreman of [[ Hormuzd Rassam ]]
+who dug there with a crew of 20 men for a number of months.
+[[ Austen Henry Layard ]] and also [[ Julius Oppert ]] dug some trenches there
+in early 1852 though the finds were lost in the [[ Qurnah Disaster ]]. None of
+this early work was published. The name of the site as Kish was determined by
+George Smith in 1872 based on an inscribed brick of [[ Adad-apla-iddina ]]
+which had been discovered 60 years before. A French archaeological team under
+[[ Henri de Genouillac ]] excavated at Tell Uhaimir for three months in
+January 1912, finding some 1,400 Old Babylonian tablets which were distributed
+to the [[ Istanbul Archaeology Museum ]] and the [[ Louvre ]]. He also
+excavated at a Neo-Babylonian monumental building on Tell Ingharra. At Tell
+Bander he uncovered [[ Parthian | parthia ]] materials.[[ ^35 ]][[ ^36 ]]
+
+Later, a joint [[ Field Museum ]] and [[ University of Oxford ]] team under
+[[ Stephen Langdon | stephen-herbert-langdon ]] excavated from 1923 to 1933,
+with the recovered materials split between Chicago and the
+[[ Ashmolean Museum ]] at Oxford. Seventeen different mounds were excavated
+but the main focus of the excavations was at Tell Ingharra and Tell
+Uhaimir.[[ ^37 ]][[ ^38 ]][[ ^39 ]][[ ^40 ]][[ ^41 ]][[ ^42 ]][[ ^43 ]] The
+actual excavations at Tell Uhaimir were led initially by E. MacKay and later
+by L. C. Watelin. Work on the faunal and flora remains was conducted by
+[[ Henry Field | henry-field-anthropologist ]].[[ ^44 ]][[ ^45 ]][[ ^46 ]]
+Even by the standards of the day, the documentation of this excavation
+(findspots provenance etc.), were sorely lacking. This was compounded by the
+death of the principals within a few years and the beginning of World War II.
+In recent decades there has been a major effort to recreate the data from all
+the old field notes and finds.[[ ^47 ]][[ ^48 ]] A bone awl from Phase 2 in
+the YWN area, the transition between Early Dynastic and Akkadian periods, was
+accelerator radiocarbon dated to 2471–2299 BC (3905 ± 27 C14 years
+BP).[[ ^49 ]]
+
+A surface survey of Kish and the area around it was conducted in 1966–1967. It
+showed that there were villages at Uhaimir and Ingharra in the Ubaid and
+Protoliterate periods. These expanded into two cites in ED I and reached a
+peak in Ed III with Ingharra becoming the larger city at that time. The site
+was lightly occupied in the Akkadian period with modest towns on Ingharra and
+Mound W. During Ur III, Isin-Larsa, and Old Babylonian times there was a
+revival mostly centered around Uhaimir. The later half of the 2nd millennium
+BC showed light occupation, all on Mound W. In the Neo-Babylonian period the
+rivercourse shifted from north to west, with Uhaimir having a large temple
+with associated fort, a major temple on Ingharra, and a major town on Mound W.
+The Achaemenid/Seleucid settlement was limited to the western end of Uhaimir.
+The Parthian and Sassanian periods showed light occupation, except for Tell
+Bandar.[[ ^10 ]] As part of this survey soundings were made at Umm-el-Jir (the
+site named Umm el-Jerab that Oriental Institute had found Old Akkadian tablets
+in 1932) 27 kilometers from Kish.[[ ^50 ]]
+
+More recently, a Japanese team from the [[ Kokushikan University ]] led by
+Hideo Fuji and Ken Matsumoto excavated at Tell Uhaimir in 1989–89, 2000, and
+\2001. The final season lasted only one week. Work was focused mainly on Tell A
+with some time spent at the plano-convex building.[[ ^51 ]][[ ^52 ]][[ ^53 ]]
+
+In February 2022 Iraqi archaeaologists conducted Ground Penetrating Radar and
+Electrical Resistivity scans of a test 30 meter by 30 meter section at
+Kish.[[ ^54 ]][[ ^55 ]]
+
+In the Chicago expedition to Kish in 1923–1933, several other sections are
+included:
+
+- Tell Ingharra – Twin [[ ziggurats | ziggurat ]] and Neo-Babylonian Temple Complex.
+- Area P: Located in the Northern part of Kish which the Plano-convex Building resided
+- Mound A, which includes a palace and a cemetery
+- Tell H, identified roughly as "The Sasanian Settlement"[[ ^41 ]]
+
+=== Tell Uhaimir
+
+This site consists of three subtells (T, X, and Z). Tell Z was the location of
+one of the main ziggurats and where temples had been built and rebuilt from
+the Old Babylonian to the Neo-Babylonian periods. At Tell X a 1st Millennium
+BC fort was uncovered and at Tell T some Old Babylonian structures were found.
+Between Uhaimir and Ingharra are three smaller tells and further east Tell W
+where Neo-Assyrian tablets as well as an entire Neo-Babylonian archive was
+found consisting of about 1000 tablets.
+
+=== Tell Ingharra (Ḫursaĝkalama)
+
+Located in the eastern side of the ancient Kish, Tell Ingharra was extensively
+explored during the Chicago excavation and provided the best known
+archaeological sequence in the 3rd millennium BC site. The site consists of
+several subtells (A, B, D, E, F, G, H, and Tell Bandar which is made up of
+Tells C and V).[[ ^56 ]][[ ^57 ]] In particular, the 1923 excavation
+concentrated heavily on mound E with its twin ziggurats, while the roughly 130
+meter square Neo-Babylonian temple, built on an Early Dynastic plano-copnvex
+platform, was one of the two buildings that was properly described in a
+published report.[[ ^41 ]]
+
+The twin ziggurats were built of small plano-convex bricks in a herringbone
+fashion on the summit of Tell Ingharra. The larger one is located on the
+south-west side of the temple and the smaller one on the south-east
+side.[[ ^41 ]] The excavation report mainly focused on the larger ziggurat
+while there had been only one report on the smaller one by Mackay. Based on
+the findings from the larger ziggurat, it is suggested that the structures
+were built at the end of the Early Dynastic IIIa period to commemorate the
+city.[[ ^56 ]] The fascination of the ziggurats was interesting to the
+excavators as it was the only Early Dynastic structure that was not destroyed
+or obscured by later reconstructions, which was why it provided valuable
+evidence of that time period.[[ ^41 ]]
+
+As for the temple complex, the findings of the temple had determined that the
+mound was part of the city of Hursagkalama. It was used as an active religious
+centre until after 482 BC. They also had identified the builder as
+[[ Nabonidus ]] or [[ Nebuchadnezzar II ]] based on the bricks with
+inscriptions and barrel cylinder fragments reported in the temple.[[ ^41 ]]
+
+An Early Dynastic I/IIIa cemetery extended to the south towards Mound A with a
+number of high status graves containing multiple burials and carts drawn by
+equids or bovids and are considered as predecessors to the royal burials at
+Ur.[[ ^58 ]]
+
+=== Area P
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PCB_%28north-east_view%29.png/250px-PCB_%28north-east_view%29.png" height="128" width="219"
+
+  <figcaption>3-D reconstruction of the Plano-convex building (north-east view) by Hmlam
+
+This area, north of tell W, was unearthed during the second excavation season
+(1923–1924) led by Mackay, which uncovered the 'Plano-convex building'
+(PCB).[[ ^59 ]][[ ^60 ]] But outstanding discoveries in Palace A rapidly
+overshadowed the contemporary excavation here, and the building remained
+partially uncovered.[[ ^59 ]]
+
+Revealed by its stratigraphy and pottery assemblage was the existence of three
+distinct architectural phases.[[ ^59 ]] The earliest archaeological occupation
+dates back to the ED II period.[[ ^59 ]] Above it, rested the massive ED III
+construction – the PCB. Multiple rooms in the PCB exhibited layers of ashes
+and charcoals with arrowheads and copper blades, attested that the PCB
+suffered significant destruction twice during the late ED III period.[[ ^60 ]]
+After its destruction, the PCB was abandoned.[[ ^8 ]][[ ^59 ]][[ ^60 ]]
+Located above later floors of the PCB were scattered burials during the
+Akkadian period.[[ ^51 ]][[ ^60 ]]
+
+==== The 'Plano-convex building'
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/PCB_%28bird%27s_eye_view%29.png/250px-PCB_%28bird%27s_eye_view%29.png" height="131" width="215"
+
+  <figcaption>3-D reconstruction of the Plano-convex building (bird's eye view) by Hmlam
+
+The Plano-convex building was a fortified construction built extensively with
+[[ plano-convex bricks | mudbricks#ancient-world ]].[[ ^59 ]][[ ^60 ]] It
+displayed the socio-economic dynamics at Kish during the ED III
+period.[[ ^60 ]] No characteristic linking the building to a religious
+construct.[[ ^41 ]] Instead, the Plano-convex building is recognized as a
+public building associated with the economical production of beer, textile and
+oil.[[ ^60 ]] The PCB might have also housed the administrative center powered
+by the elites.[[ ^60 ]] First recognized by Margueron, scholars have divided
+the building into four main sectors based on the architectural
+layout:[[ ^60 ]]
+
+- Sector A: Production area
+- Sector B: Inconclusive but arguably an administration area
+- Sector C: Unknown but exhibit a high degree of segregation
+- Sector D: Private, domestic area for housing activities
+
+=== Mound A
+
+Mound A, which includes a cemetery and an Early Dynastic III palace, was
+discovered during 1922–1925 excavations conducted by Ernest Mackay, under the
+Field Museum and Oxford University.[[ ^61 ]][[ ^57 ]] Although it was earlier
+a part of the Ingharra mounds lying about 70 meters to the north, it is now
+separated by an alluvial valley. The seals and other artifacts found in the
+graves, dating back to a later age than the palace, show that the site was
+used as a cemetery from the end of the Early Dynastic period until the early
+Akkadian Empire period.[[ ^62 ]][[ ^61 ]][[ ^63 ]][[ ^64 ]][[ ^65 ]]
+
+==== The Sumerian Palace
+
+The palace, which was unearthed beneath the mound, had fallen into decay and
+was used as a burial ground during Early Dynastic III. It comprises three
+sections – the original building, the eastern wing and stairway, and the
+annex. The original building, which was composed of unbaked plano-convex
+bricks (23 × 15 × 3.5–6 cm), had extremely thick walls, while the annex, which
+was added later to the south of the building, had comparatively thinner walls.
+A 2.30 m wide passage was constructed within the outer wall of the original
+building to prevent invaders from entering the structure.[[ ^66 ]]
+
+The archaeological findings within the palace lack pottery items, the most
+remarkable among them was a fragment of slate and limestone inlay work, which
+represents the scene of a king punishing a prisoner.[[ ^66 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/3-D_reconstruction_of_Sumerian_Palace_%28Mound_A%29_%28View_2%29.png/250px-3-D_reconstruction_of_Sumerian_Palace_%28Mound_A%29_%28View_2%29.png" height="142" width="250"
+
+  <figcaption>3-D reconstruction of Sumerian Palace (Mound A) by Pahuna/ Pahuna99
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/3-D_reconstruction_of_Sumerian_Palace_%28Mound_A%29_%28View_1%29.png/250px-3-D_reconstruction_of_Sumerian_Palace_%28Mound_A%29_%28View_1%29.png" height="142" width="250"
+
+  <figcaption>3-D reconstruction of Sumerian Palace (Mound A) by Pahuna/ Pahuna99
+
+=== Tell H
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/3-D_reconstruction_of_Tell_H%2C_SP-2_by_OceanOwll.png/250px-3-D_reconstruction_of_Tell_H%2C_SP-2_by_OceanOwll.png" height="157" width="250"
+
+  <figcaption>3-D reconstruction of Tell H, SP-2 by OceanOwll
+
+In the 1923–1933 Expedition, Tell H became the focus of its final three
+seasons (1930–1933). For personal reasons of the excavators, the Kish material
+in this section remained selective, mainly yielding Sasanian pottery, coins,
+incantation bowls and so on.[[ ^41 ]][[ ^42 ]] The dating of this section
+crossed a range of periods, with layer upon layer built on the site. Evidence
+shows that in the Early Dynastic III Period, there once even existed a twin
+city.[[ ^8 ]] Therefore, the city occupies a relatively unsettled presence in
+chronology. But from the excavation, eight buildings were identified as from
+the Sasanian period, thus making this place primarily identified as the
+Sasanian Settlement. Researchers suspect that some of the buildings might
+function together as a complex serving different purposes, including royal
+residence, storage, and administration.[[ ^41 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/3-D_reconstruction_of_Tell_H%2C_SP-3_by_OceanOwll.png/250px-3-D_reconstruction_of_Tell_H%2C_SP-3_by_OceanOwll.png" height="157" width="250"
+
+  <figcaption>3-D reconstruction of Tell H, SP-3 by OceanOwll
+
+The most prominent finding is the [[ stucco ]] decoration in the first two
+buildings, while the 1923–1933 team also figured out the floor plan and
+architectural structure of others. It was partly through these stucco
+decorations that researchers identified the royal resident to be Bahram V
+(420–438 AD)—Sasanian kings had their distinctive crowns separately, and the
+unique crown pattern on stucco served as evidence to support this argument. In
+Kish, which once functioned as a transfer station between Ctesiphon and Hira,
+Bahram V built palaces for summer entertainment, which explains why one of the
+buildings has a huge water tank in the middle, probably functioning to cool
+down the court in summers. Around Bahram V's palaces, a group of Sasanian
+people also took residence and developed a system of settlement and commercial
+activities.[[ ^41 ]]
+
+== List of rulers
+
+The //[[ Sumerian King List ]] (SKL)// lists only 39 rulers among four
+dynasties of Kish. A fifth dynasty is known and it was an [[ Amorite ]]
+dynasty unnamed on the //SKL//. The following list should not be considered
+complete:
+
+<table
+  <tbody
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>[[ Epithet | akkadian-royal-titulary#epithets ]]
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!![[ Early Dynastic I period | early-dynastic-i ]] (c. 2900 – c. 2650 BC)!!
+
+    <tr
+      <th colspan="7">[[ First dynasty of Kish / Kish I dynasty | history-of-sumer#first-dynasty-of-kish ]] (c. 2900 – c. 2650 BC)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"After the [[ flood | sumerian-flood-myth ]] had swept over, and the
+          [[ kingship | throne ]] had descended from [[ heaven | anu ]], the kingship
+          was in Kish."//
+
+        — //[[ Sumerian King List ]] (SKL)//
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sumerian_King_List%2C_1800_BC%2C_Larsa%2C_Iraq_%28detail%29.jpg/120px-Sumerian_King_List%2C_1800_BC%2C_Larsa%2C_Iraq_%28detail%29.jpg" height="219" width="120"
+
+      <td>[[ Jushur ]]
+        <br
+
+        𒄑𒃡
+
+      <td
+
+      <td
+
+      <td>fl. c. 2900 BC
+        <br
+
+        (1,200 years)
+
+      <td
+        - Names before Etana do not appear in any other known source, and their existence is archaeologically unverified
+        - Said on the //SKL// to have held the title of, //"[[ King | lugal ]]"// of not just Kish; but, to have held the //"[[ Kingship | hegemony ]]"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>2nd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sumerian_King_List%2C_1800_BC%2C_Larsa%2C_Iraq.jpg/120px-Sumerian_King_List%2C_1800_BC%2C_Larsa%2C_Iraq.jpg" height="160" width="120"
+
+      <td>[[ Kullassina-bel ]]
+        <br
+
+        𒄢𒆷𒍣𒈾𒁁𒂖𒃻
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (960 years)
+
+      <td
+        - The name is believed to be a [[ Kishite | east-semitic-languages ]] phrase meaning, //"All of them (were) lord"//, which may denote a period of no central authority in the early period of Kish
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>3rd
+
+      <td rowspan="10"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Sumeriankinglist.jpg/120px-Sumeriankinglist.jpg" height="221" width="120"
+
+      <td>[[ Nangishlishma ]]
+        <br
+
+        𒄢𒆷𒍣𒈾𒁁𒂖
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (670 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>4th
+
+      <td>[[ En-tarah-ana ]]
+        <br
+
+        𒂗𒁰𒀭𒈾
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (420 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>5th
+
+      <td>[[ Babum ]]
+        <br
+
+        𒁀𒁍𒌝
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (300 years)
+
+      <td
+        - The name is believed to be a Kishite word for //"gate"//
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>6th
+
+      <td>[[ Puannum ]]
+        <br
+
+        𒁍𒀭𒉡𒌝
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (840 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>7th
+
+      <td>[[ Kalibum ]]
+        <br
+
+        𒂵𒉌𒁍𒌝
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (960 years)
+
+      <td
+        - The name is believed to be a Kishite word for //"[[ hound | saluki#history ]]"//
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>8th
+
+      <td>[[ Kalumum ]]
+        <br
+
+        𒅗𒇻𒈬𒌝
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (840 years)
+
+      <td
+        - The name is believed to be a Kishite word for //"[[ lamb | wild-goat ]]"//
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>9th
+
+      <td>[[ Zuqaqip ]]
+        <br
+
+        𒅗𒂵𒄄𒅁
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (900 years)
+
+      <td
+        - The name is believed to be a Kishite word for //"[[ scorpion | fattail-scorpion ]]"//
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>10th
+
+      <td>[[ Atab ]]
+        <br
+
+        𒀉𒋰
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (600 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>11th
+
+      <td>[[ Mashda ]]
+        <br
+
+        𒈦𒆕𒆤
+
+      <td>Son of Atab
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (840 years)
+
+      <td
+        - The name is believed to be a Kishite word for //"[[ gazelle | arabian-sand-gazelle ]]"//
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>12th
+
+      <td>[[ Arwium ]]
+        <br
+
+        𒅈𒉿𒌑𒌝
+
+      <td>Son of Mashda
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (720 years)
+
+      <td
+        - The name is believed to be a Kishite word for //"[[ male gazelle | goitered-gazelle ]]"//
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>13th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Fragment_of_the_Epic_of_Etana%2C_Akkadian%2C_Mesopotamia%2C_First_Dynasty_of_Babylon%2C_c._1895-1595_BC%2C_clay_-_Morgan_Library_%26_Museum_-_New_York_City_-_DSC06599.jpg/120px-Fragment_of_the_Epic_of_Etana%2C_Akkadian%2C_Mesopotamia%2C_First_Dynasty_of_Babylon%2C_c._1895-1595_BC%2C_clay_-_Morgan_Library_%26_Museum_-_New_York_City_-_DSC06599.jpg" height="89" width="120"
+
+      <td>[[ Etana ]]
+        <br
+
+        𒂊𒋫𒈾
+
+      <td
+
+      <td>//"the [[ shepherd | shepherd#religion ]], who ascended to heaven and consolidated all the foreign countries"//
+
+      <td>[[ reigned | reign ]] c. 2800 BC
+        <br
+
+        (1,500 years)
+
+      <td
+        - Known from the Babylonian //Myth of Etana//
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>14th
+
+      <td rowspan="3"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lista_Reale_Sumerica.jpg/120px-Lista_Reale_Sumerica.jpg" height="64" width="120"
+
+      <td>[[ Balih ]]
+        <br
+
+        𒁀𒇷𒄴
+
+      <td>Son of Etana
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (400 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>15th
+
+      <td>[[ En-me-nuna ]]
+        <br
+
+        𒂗𒈨𒉣𒈾
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (660 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>16th
+
+      <td>[[ Melem-Kish ]]
+        <br
+
+        𒈨𒉈𒆧𒆠
+
+      <td>Son of En-me-nuna
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (900 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"1,560 are the years of the dynasty of En-me-nuna."//
+
+        — //SKL//
+
+    <tr
+      <td>17th
+
+      <td
+
+      <td>[[ Barsal-nuna ]]
+        <br
+
+        𒁇𒊩𒉣𒈾
+
+      <td>Son of En-me-nuna
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (1,200 years)
+
+      <td
+        - His name may have meant sheep of the prince. Barsal means sheep
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity uncertain
+
+    <tr
+      <td>18th
+
+      <td
+
+      <td>[[ Zamug ]]
+        <br
+
+        𒁾
+
+      <td>Son of Barsal-nuna
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (140 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>19th
+
+      <td
+
+      <td>[[ Tizqar ]]
+        <br
+
+        𒋾𒄑𒃼
+
+      <td>Son of Zamug
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (305 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>20th
+
+      <td
+
+      <td>[[ Ilku ]]
+        <br
+
+        𒅋𒆪𒌑
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (900 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>21st
+
+      <td
+
+      <td>[[ Iltasadum ]]
+        <br
+
+        𒅋𒋫𒊓𒁺𒌝
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (1,200 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>22nd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mebaragsi%2C_King_of_Kish_%28transcription_of_fragment%2C_original_in_Iraq_National_Museum%29.jpg/120px-Mebaragsi%2C_King_of_Kish_%28transcription_of_fragment%2C_original_in_Iraq_National_Museum%29.jpg" height="112" width="120"
+
+      <td>[[ En-me-barage-si ]]
+        <br
+
+        𒂗𒈨𒁈𒄄𒋛
+
+      <td
+
+      <td>//"who made the land of [[ Elam ]] submit"//
+
+      <td>r. c. 2750 BC
+        <br
+
+        (900 years)
+
+      <td
+        - Historicity certain[[ ^67 ]]
+        - The earliest ruler on the //SKL// confirmed independently from epigraphical evidence and can be historically verified with archaeology
+        - //[[ temp. | tempore ]]// of [[ Dumuzid | dumuzid-the-fisherman ]] of [[ Uruk ]]
+
+    <tr
+      <td>23rd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aga_of_Kish_Stele_of_Ushumgal.png/120px-Aga_of_Kish_Stele_of_Ushumgal.png" height="163" width="120"
+
+      <td>[[ Aga | aga-of-kish ]]
+        <br
+
+        𒀝𒂵
+
+      <td>Son of En-me-barage-si
+
+      <td
+
+      <td>r. c. 2700 BC
+        <br
+
+        (625 years)
+
+      <td
+        - Son of En-me-barage-si
+        - Historicity certain[[ ^67 ]]
+        - //temp.// of [[ Gilgamesh ]] of Uruk
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"1,525 are the years of the dynasty of En-me-barage-si. 23 kings; they ruled
+          for 24,510 years, 3 months, and 3½ days. Then Kish was defeated and the
+          kingship was taken to [[ Eanna ]] ([[ Uruk | uruk#list-of-rulers ]])."//
+
+        — //SKL//
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!!Early Dynastic II period (c. 2650 – c. 2550 BC)!!
+
+    <tr
+      <td
+
+      <td
+
+      <td>Munushushumgal([[ Munus ]]+[[ Ušumgallu ]])
+        <br
+
+        𒊩𒃲𒁔
+
+      <td
+
+      <td
+
+      <td>//Uncertain//; this ruler may have fl. c. 2900 – c. 2500 BC sometime during the ED I, II, and/or IIIa period(s)[[ ^67 ]]
+
+      <td
+        - Historicity certain[[ ^67 ]]
+        - Father of a king[[ ^67 ]]
+        - Possibly a king himself[[ ^67 ]]
+
+    <tr
+      <td colspan="7">!!Early Dynastic IIIa period (c. 2550 – c. 2500 BC)!!
+
+    <tr
+      <td
+
+      <td
+
+      <td>Lugalmen
+
+      <td
+
+      <td
+
+      <td>//Uncertain//; this ruler may have fl. c. 2700 – c. 2500 BC sometime during the ED II and/or IIIa period(s)[[ ^67 ]]
+
+      <td
+        - Historicity certain[[ ^67 ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>Lugalutu
+        <br
+
+        𒈗𒌓
+
+      <td
+
+      <td
+
+      <td>//Uncertain//; this ruler may have fl. c. 2600 – c. 2500 BC sometime during the ED IIIa period[[ ^67 ]]
+
+      <td
+        - Historicity certain[[ ^67 ]]
+        - A king of Kish[[ ^67 ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>Menunesi
+
+      <td
+
+      <td
+
+      <td>//Uncertain//; this ruler may have fl. c. 2600 – c. 2500 BC sometime during the EDIIIa period[[ ^67 ]]
+
+      <td
+        - Historicity certain[[ ^67 ]]
+        - //temp.// of [[ Lumma | lumma#lumma-as-a-deified-king ]][[ ^67 ]]
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Uhub_vase_inscription.jpg/120px-Uhub_vase_inscription.jpg" height="113" width="120"
+
+      <td>[[ Uhub ]]
+        <br
+
+        𒌑𒄸
+
+      <td
+
+      <td
+
+      <td>r. c. 2570 BC
+
+      <td
+        - Historicity certain
+        - Known from vase fragments bearing the title //"[[ Governor | ensi-sumerian ]] of Kish"//
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mace_head_of_Mesilim_Louvre_AO2349.jpg/120px-Mace_head_of_Mesilim_Louvre_AO2349.jpg" height="150" width="120"
+
+      <td>[[ Mesilim ]]
+        <br
+
+        𒈨𒁲
+
+      <td
+
+      <td
+
+      <td>r. c. 2550 BC
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Lugalshaengur ]] of [[ Lagash ]][[ ^67 ]]
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!!Early Dynastic IIIb period (c. 2500 – c. 2350 BC)!!
+
+    <tr
+      <th colspan="7">Second dynasty of Kish / Kish II dynasty (c. 2500 – c. 2430 BC)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then [[ Awan | awan-ancient-city ]] was defeated and the kingship was taken
+          to Kish."//
+
+        — //SKL//
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Transcription_of_the_Weld-Blundell_Prism._Stephen_Herbert_Langdon_%281876-1937%29_Published_in_1923.jpg/120px-Transcription_of_the_Weld-Blundell_Prism._Stephen_Herbert_Langdon_%281876-1937%29_Published_in_1923.jpg" height="61" width="120"
+
+      <td>[[ Susuda ]]
+        <br
+
+        𒁻𒋢𒆳𒊒𒁕
+
+      <td
+
+      <td>//"the fuller"//
+
+      <td>r. c. 2500 BC
+        <br
+
+        (201 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td
+
+      <td
+
+      <td>Aya'anzud
+        <br
+
+        𒀀𒀭𒅎𒂂𒄷
+
+      <td
+
+      <td
+
+      <td rowspan="2">//Uncertain//; these two rulers may have fl. c. 2500 – c. 2470 BC sometime during the EDIIIb period.[[ ^67 ]]
+
+      <td
+        - Historicity certain.
+        - //temp.// of [[ Ur-Nanshe ]] of Lagash
+
+    <tr
+      <td
+
+      <td
+
+      <td>Ennail
+        <br
+
+        𒂗𒈾𒅋
+
+      <td
+
+      <td
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Akurgal ]] of Lagash[[ ^67 ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>Zuzu
+        <br
+
+        𒍪𒍪
+
+      <td
+
+      <td
+
+      <td>r. c. 2470 BC
+
+      <td
+        - Historicity certain[[ ^67 ]]
+        - Originally from [[ Akshak ]][[ ^67 ]]
+        - //temp.// of [[ Eannatum ]] of Lagash[[ ^67 ]]
+
+    <tr
+      <td>2nd
+
+      <td rowspan="6"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Translation_of_the_Weld-Blundell_Prism._Stephen_Herbert_Langdon_%281876-1937%29_Published_in_1923.jpg/120px-Translation_of_the_Weld-Blundell_Prism._Stephen_Herbert_Langdon_%281876-1937%29_Published_in_1923.jpg" height="45" width="120"
+
+      <td>[[ Dadasig ]]
+        <br
+
+        𒁕𒁕𒋝
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (81 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>3rd
+
+      <td>Mamagal
+        <br
+
+        𒈣𒈣𒃲
+
+      <td
+
+      <td>//"the boatman"//
+
+      <td>//Uncertain//
+        <br
+
+        (360 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>4th
+
+      <td>Kalbum
+        <br
+
+        𒅗𒀠𒁍𒌝
+
+      <td>Son of Mamagal
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (195 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>5th
+
+      <td>Tuge
+        <br
+
+        𒌆𒂊
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (300 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>6th
+
+      <td>Men-nuna
+        <br
+
+        𒃞𒉣𒈾
+
+      <td>Son of Tuge
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (180 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>7th
+
+      <td>Lugalngu
+        <br
+
+        𒂗𒉈𒀹𒁯
+
+      <td
+
+      <td
+
+      <td>r. c. 2450 BC
+        <br
+
+        (290 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td
+
+      <td
+
+      <td>Ibbi-Ea
+        <br
+
+        𒂗𒉈𒀹𒁯
+
+      <td
+
+      <td
+
+      <td>r. c. 2430 BC
+        <br
+
+        (420 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"8 kings; they ruled for 3,195 years. Then Kish was defeated and the
+          kingship was taken to [[ Hamazi | hamazi#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <th colspan="7">[[ Third dynasty of Kish / Kish III dynasty | history-of-sumer#kug-bau-and-the-third-dynasty-of-kish ]] (c. 2430 – c. 2360 BC)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then [[ Mari | list-of-kings-of-mari#first-kingdom ]] was defeated and the
+          kingship was taken to Kish."//
+
+        — //SKL//
+
+    <tr
+      <td>1st
+
+      <td
+
+      <td>[[ Kug-Bau ]]
+        <br
+
+        𒆬𒀭𒁀𒌑
+
+      <td
+
+      <td>//"the woman tavern-keeper, who made firm the foundations of Kish"//
+
+      <td>r. c. 2400 BC
+        <br
+
+        (100 years)
+
+      <td
+        - Historicity uncertain
+        - The only known woman in the //SKL//; said to have gained independence from [[ En-anna-tum I ]] of [[ Lagash ]] and [[ En-shag-kush-ana ]] of [[ Uruk ]]; contemporary with Puzur-Nirah of [[ Akshak ]], according to the later //[[ Chronicle of the É-sagila | https://books.google.com/books?id=1i5b6STWnroC&q=Puzur-Nirah+Ku-baba&pg=PA267 ]]//
+        - Known from the //SKL//; very little otherwise
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"1 king; she ruled for 100 years. Then Kish was defeated and the kingship
+          was taken to [[ Akshak | akshak#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!!Proto-Imperial period (c. 2350 – c. 2334 BC)!!
+
+    <tr
+      <th colspan="7">Fourth dynasty of Kish / Kish IV dynasty (c. 2360 – c. 1897 BC)
+
+    <tr
+      <td>8th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg/120px-Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg" height="127" width="120"
+
+      <td>Enbi-Ishtar
+        <br
+
+        𒂗𒉈𒀹𒁯
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (290 years)
+
+      <td
+        - Historicity certain
+        - Appears on a version of the //SKL// as one of the last kings of the Kish II dynasty; however, his reign may have immediately preceded that of [[ Ur-Zababa ]] from the Kish III and/or IV dynasty[[ ^67 ]]
+        - Said on the //SKL// to have held the title of //"king"// of not just Kish; but, all of Sumer
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then the reign of Akshak was [[ abolished | abolition-of-monarchy ]] and
+          the kingship was taken to Kish."//
+
+        — //SKL//
+
+    <tr
+      <td>1st
+
+      <td rowspan="2"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Weld-Blundell_Prism_with_transcription_and_translation_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg/120px-Weld-Blundell_Prism_with_transcription_and_translation_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg" height="175" width="120"
+
+      <td>[[ Puzur-Suen ]]
+        <br
+
+        𒅤𒊭𒀭𒂗𒍪
+
+      <td>Son of Kug-bau
+
+      <td
+
+      <td>r. c. 2360 BC
+        <br
+
+        (25 years)
+
+      <td
+        - Son of Kug-bau
+        - Appears on a version of the //SKL// as one of the last kings of the Kish III dynasty
+        - Said on the //SKL// to have held the title of //"king"// of not just Kish; but, all of Sumer
+
+    <tr
+      <td>2nd
+
+      <td>[[ Ur-Zababa ]]
+        <br
+
+        𒌨𒀭𒍝𒂷𒂷
+
+      <td>Son of Puzur-Suen
+
+      <td
+
+      <td>r. c. 2340 BC
+        <br
+
+        (6 years)
+
+      <td
+        - Appears on a version of the //SKL// as one of the last kings of the Kish III dynasty
+        - Said on the //SKL// to have held the title of //"king"// of not just Kish; but, all of Sumer
+        - According to the //SKL//: [[ Sargon of Akkad ]] was his cup-bearer
+
+    <tr
+      <td colspan="7">!![[ Akkadian period ]] (c. 2334 – c. 2154 BC)!!
+
+    <tr
+      <td>3rd
+
+      <td rowspan="6"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Sumerian_King_List%2C_Ashmolean_Museum%2C_Oxford.jpg/120px-The_Sumerian_King_List%2C_Ashmolean_Museum%2C_Oxford.jpg" height="173" width="120"
+
+      <td>Zimudar
+        <br
+
+        𒍣𒈬𒁯
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (30 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>4th
+
+      <td>Usi-watar
+        <br
+
+        𒌑𒍣𒉿𒁯
+
+      <td>Son of Zimudar
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (7 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>5th
+
+      <td>Eshtar-muti
+        <br
+
+        𒁹𒁯𒈬𒋾
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (11 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>6th
+
+      <td>Ishme-Shamash
+        <br
+
+        𒅖𒈨𒀭𒌓
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (11 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>7th
+
+      <td>Shu-ilishu
+        <br
+
+        𒋗𒉌𒉌𒋗
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+        <br
+
+        (15 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>8th
+
+      <td>Nanniya
+        <br
+
+        𒈾𒀭𒉌𒅀
+
+      <td
+
+      <td>//"the jeweller"//
+
+      <td>//Uncertain//
+        <br
+
+        (7 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Kish; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"8 kings; they ruled for 485 years. Then the reign of Kish was abolished and
+          the kingship was returned a third time to [[ Uruk ]]."//
+
+        — //SKL//
+
+    <tr
+      <td
+
+      <td
+
+      <td>Iphur-Kish
+
+      <td
+
+      <td
+
+      <td>r. c. 2254 BC
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Naram-Suen of Akkad ]]
+        - A ruler of Kish who led a northern coalition of ten city-states during the [[ Great Revolt | gutian-rule-in-mesopotamia#great-revolt-against-naram-sin ]] against Naram-Suen
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!![[ Isin-Larsa period ]] (c. 2025 – c. 1763 BC)!!
+
+    <tr
+      <th colspan="7">Manana dynasty (c. 1897 – c. 1847 BC)
+
+    <tr
+      <td
+
+      <td
+
+      <td>Iawian
+
+      <td
+
+      <td
+
+      <td>r. c. 1897 BC
+
+      <td
+
+    <tr
+      <td
+
+      <td
+
+      <td>Manana
+
+      <td
+
+      <td
+
+      <td>r. c. 1888 BC
+
+      <td
+
+    <tr
+      <td
+
+      <td
+
+      <td>Halium
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+
+      <td
+
+    <tr
+      <td
+
+      <td
+
+      <td>Abdi-Erah
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+
+      <td
+
+    <tr
+      <td
+
+      <td
+
+      <td>Ahi-marasy
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+
+      <td
+
+    <tr
+      <td
+
+      <td
+
+      <td>Naqimum
+
+      <td
+
+      <td
+
+      <td>r. c. 1872 BC
+
+      <td
+
+    <tr
+      <td
+
+      <td
+
+      <td>Sumu-iamutbala
+
+      <td
+
+      <td
+
+      <td>r. c. 1855 BC
+
+      <td
+
+    <tr
+      <td
+
+      <td
+
+      <td>Ashduniarim
+
+      <td
+
+      <td
+
+      <td>r. c. 1847 BC
+
+      <td
+
+== Gallery
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ruins_of_a_ziggurat_at_the_Sumerian_city_of_Kish._Babel_Governorate%2C_Iraq..jpg/120px-Ruins_of_a_ziggurat_at_the_Sumerian_city_of_Kish._Babel_Governorate%2C_Iraq..jpg" alt="Ruins of a ziggurat at the Sumerian city of Kish. Babel Governorate, Iraq." height="90" width="120"
+
+    Ruins of a ziggurat at the Sumerian city of Kish. Babel Governorate, Iraq.
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/An_ancient_mound_at_Kish%2C_Babel_Governorate%2C_Iraq.jpg/120px-An_ancient_mound_at_Kish%2C_Babel_Governorate%2C_Iraq.jpg" alt="An ancient mound at Kish, Babel Governorate, Iraq" height="90" width="120"
+
+    An ancient mound at Kish, Babel Governorate, Iraq
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/An_ancient_mound_at_the_city_of_Kish%2C_Mesopotamia%2C_Babel_Governorate%2C_Iraq.jpg/120px-An_ancient_mound_at_the_city_of_Kish%2C_Mesopotamia%2C_Babel_Governorate%2C_Iraq.jpg" alt="An ancient mound at the city of Kish, Mesopotamia, Babel Governorate, Iraq" height="90" width="120"
+
+    An ancient mound at the city of Kish, Mesopotamia, Babel Governorate, Iraq
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pottery_fragments%2C_illegal_excavations_at_the_ancient_city_of_Kish%2C_Tell_al-Uhaymir%2C_Iraq.jpg/120px-Pottery_fragments%2C_illegal_excavations_at_the_ancient_city_of_Kish%2C_Tell_al-Uhaymir%2C_Iraq.jpg" alt="Pottery fragments, illegal exavations at the ancient city of Kish, Tell al-Uhaymir, Iraq" height="90" width="120"
+
+    Pottery fragments, illegal exavations at the ancient city of Kish, Tell
+    al-Uhaymir, Iraq
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ancient_mound_at_the_city_of_Kish%2C_Mesopotamia%2C_Babil_Governorate%2C_Iraq.jpg/120px-Ancient_mound_at_the_city_of_Kish%2C_Mesopotamia%2C_Babil_Governorate%2C_Iraq.jpg" alt="Ancient mound at the city of Kish, Mesopotamia, Babil Governorate, Iraq" height="90" width="120"
+
+    Ancient mound at the city of Kish, Mesopotamia, Babil Governorate, Iraq
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ruins_near_the_ziggurat_of_Kish_at_Tell_al-Uhaymir%2C_Mesopotamia%2C_Babel_Governorate%2C_Iraq.jpg/120px-Ruins_near_the_ziggurat_of_Kish_at_Tell_al-Uhaymir%2C_Mesopotamia%2C_Babel_Governorate%2C_Iraq.jpg" alt="Ruins near the ziggurat of Kish at Tell al-Uhaymir, Mesopotamia, Babel Governorate, Iraq" height="90" width="120"
+
+    Ruins near the ziggurat of Kish at Tell al-Uhaymir, Mesopotamia, Babel
+    Governorate, Iraq
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ruins_near_the_ziggurat_of_Kish%2C_Tell_al-Uhaymir%2C_Babylon_Governorate%2C_Iraq.jpg/120px-Ruins_near_the_ziggurat_of_Kish%2C_Tell_al-Uhaymir%2C_Babylon_Governorate%2C_Iraq.jpg" alt="Ruins near the ziggurat of Kish, Tell al-Uhaymir, Babylon Governorate, Iraq" height="90" width="120"
+
+    Ruins near the ziggurat of Kish, Tell al-Uhaymir, Babylon Governorate, Iraq
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruins_near_the_ziggurat_of_the_city_of_Kish_at_Tell_al-Uhaymir%2C_Babel_Governorate%2C_Iraq.jpg/120px-Ruins_near_the_ziggurat_of_the_city_of_Kish_at_Tell_al-Uhaymir%2C_Babel_Governorate%2C_Iraq.jpg" alt="Ruins near the ziggurat of the city of Kish at Tell al-Uhaymir, Babel Governorate, Iraq" height="90" width="120"
+
+    Ruins near the ziggurat of the city of Kish at Tell al-Uhaymir, Babel
+    Governorate, Iraq
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ruins_of_the_ziggurat_of_the_ancient_city_of_Kish%2C_Tell_al-Uhaymir%2C_Mesopotamia%2C_Iraq.jpg/120px-Ruins_of_the_ziggurat_of_the_ancient_city_of_Kish%2C_Tell_al-Uhaymir%2C_Mesopotamia%2C_Iraq.jpg" alt="Ruins of the ziggurat of the ancient city of Kish, Tell al-Uhaymir, Mesopotamia, Iraq" height="90" width="120"
+
+    Ruins of the ziggurat of the ancient city of Kish, Tell al-Uhaymir,
+    Mesopotamia, Iraq
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Indus_seal_excavated_in_Kish%2C_Mesopotamia%2C_early_Sumerian_period.jpg/120px-Indus_seal_excavated_in_Kish%2C_Mesopotamia%2C_early_Sumerian_period.jpg" alt="Indus Valley civilisation &quot;Unicorn&quot; seal excavated in Kish, early Sumerian period, c. 3000 BC. An example of ancient Indus-Mesopotamia relations." height="120" width="120"
+
+    [[ Indus Valley civilisation ]] "Unicorn" seal excavated in Kish, early
+    Sumerian period, c. 3000 BC. An example of ancient
+    [[ Indus-Mesopotamia relations ]].[[ ^68 ]]
+
+[[ ^1 ]]: [[ The Electronic Text Corpus of Sumerian Literature | http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?searchword=l=kic%20t=SN&charenc=gcirc ]]
+
+[[ ^2 ]]: [[ Electronic Pennsylvania Sumerian Dictionary (EPSD) | http://psd.museum.upenn.edu/epsd/epsd/e3066.html ]]
+
+[[ ^3 ]]: wparkinson (2011-01-11). [[ "The Kish Collection" | https://www.fieldmuseum.org/kish-collection ]]. //Field Museum//. Retrieved 2020-08-20.
+
+[[ ^4 ]]: Frayne, Douglas R, "KIŠ", in Presargonic Period: Early Periods, Volume 1 (2700-2350 BC), The Royal Inscriptions of Mesopotamia, Vol 1, pp. 49-60, Toronto: University of Toronto Press, 2008 ISBN [[ 9780802035868 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780802035868 ]]
+
+[[ ^5 ]]: [[ Inanna's Descent to the Underworld translation at ETCSL | http://etcsl.orinst.ox.ac.uk/section1/tr141.htm ]]
+
+[[ ^6 ]]: McEwan, G. J. P., "Late Babylonian Kish", Iraq, vol. 45, no. 1, pp. 117–23, 1983
+
+[[ ^7 ]]: Weiss, Harvey (1975). [[ "Kish, Akkad and Agade" | https://www.jstor.org/stable/599355 ]]. //Journal of the American Oriental Society//. !!95!! (3): 434–453. doi:[[ 10.2307/599355 | https://doi.org/10.2307%2F599355 ]]. JSTOR [[ 599355 | https://www.jstor.org/stable/599355 ]].
+
+[[ ^8 ]]: [[ https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/Publications/SAOC/saoc71.pdf | https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/Publications/SAOC/saoc71.pdf ]] J. "Ur, Kish and the Spatial Organization of Cities in Third-Millennium BC Southern Iraq", pp. 227–239 in //Studies in Ancient Oriental Civilization// 71, Chicago: The Oriental Institute, 2021 ISBN [[ 978-1-61491-063-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61491-063-3 ]]
+
+[[ ^9 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/as11.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/as11.pdf ]] Thorkild Jacobsen, "The Sumerian King List", //Assyriological Studies// 11, Chicago: University of Chricago Press, 1939
+
+[[ ^10 ]]: [[ http://hdl.handle.net/11401/89091 | http://hdl.handle.net/11401/89091 ]] Gibson, McGuire, "The City and Area of Kish", Coconut Grove, Miami, Florida, Field Research Projects, 1972
+
+[[ ^11 ]]: I. J. Gelb, "Mari and the Kish Civilization", in Mari in Retrospect: Fifty Years of Mari and Mari Studies (ed. Gordon D. Young), Winona Lake, IN: Eisenbrauns, 1992
+
+[[ ^12 ]]: Sommerfeld, Walter (2021). [[ "The 'Kish Civilization'" | https://books.google.com/books?id=hyU9EAAAQBAJ&pg=PA545 ]]. In Vita, Juan-Pablo (ed.). //History of the Akkadian Language//. Handbook of Oriental Studies. Section 1 The Near and Middle East. Vol. 1. BRILL. pp. 545–547. ISBN [[ 9789004445215 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9789004445215 ]]. Retrieved 23 February 2022.
+
+[[ ^13 ]]: Lloyd, 1969
+
+[[ ^14 ]]: Nadali & Volpi, 2025
+
+[[ ^15 ]]: Frayne, Douglas R, "Rulers with the Title “King of Kiš” Whose Dynastic Affiliations Are Unknown", in Presargonic Period: Early Periods, Volume 1 (2700-2350 BC), The Royal Inscriptions of Mesopotamia, Vol 1, pp. 67-76, Toronto: University of Toronto Press, 2008 ISBN [[ 9780802035868 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780802035868 ]]
+
+[[ ^16 ]]: Hall, H. R. (Harry Reginald); Woolley, Leonard; Legrain, Leon (1900). [[ //Ur excavations// | https://archive.org/details/urexcavations186385join ]]. Trustees of the Two Museums by the aid of a grant from the Carnegie Corporation of New York. p. [[ 312 | https://archive.org/details/urexcavations186385join/page/312 ]].
+
+[[ ^17 ]]: Image of a Mesanepada seal in: Legrain, Léon (1936). [[ //Ur Excavations Voulme III Arachaic Seal-impressions// | http://www.etana.org/sites/default/files/coretexts/20144.pdf ]] (PDF). The Trustees Of The Two Museums By The Aid Of A Grant From The Carnegi Corporation Of New York. p. 44 seal 518 for description, Plate 30, seal 518 for image.
+
+[[ ^18 ]]: [[ https://www.cairn.info/revue-d-assyriologie-2013-1-page-131.htm | https://www.cairn.info/revue-d-assyriologie-2013-1-page-131.htm ]] Steinkeller, Piotr., "An Archaic 'Prisoner Plaque' From Kiš.", Revue d'Assyriologie et d'archéologie Orientale, vol. 107, pp. 131–57, 2013
+
+[[ ^19 ]]: Archi, Alfonso., "More on Ebla and Kiš", in Ebla and Its Archives: Texts, History, and Society, Berlin, München, Boston: De Gruyter, pp. 478-496, 2015
+
+[[ ^20 ]]: Moorey, P. R. S., "Abu Salabikh, Kish, Mari and Ebla: Mid-Third Millennium Archaeological Interconnections.", //American Journal of Archaeology//, vol. 85, no. 4, pp. 447–48, 1981
+
+[[ ^21 ]]: Archi, Alfonso, and Maria Giovanna Biga, "A Victory over Mari and the Fall of Ebla", //Journal of Cuneiform Studies// 55: 1–44, 2003
+
+[[ ^22 ]]: Maeda, T., "'King of Kish' in Pre-Sargonic Sumer", //Orient// 17, pp. 1–17, 1981
+
+[[ ^23 ]]: Albrecht Goetze, "Early Kings of Kish", //Journal of Cuneiform Studies//, vol. 15, no. 3, pp. 105–111, 1961
+
+[[ ^24 ]]: [[ L. W. King | leonard-william-king ]], "Chronicles Concerning Early Babylonian Kings", II, London, pp. 87–96, 1907
+
+[[ ^25 ]]: [[ https://cdli.earth/articles/cdlj/2009-6 | https://cdli.earth/articles/cdlj/2009-6 ]] CDLI
+
+[[ ^26 ]]: Westenholz, 1999
+
+[[ ^27 ]]: de Boer, Rients, "Two early Old Babylonian "Mananâ" archives dated to the last years of Sumu-la-El", //Revue d’Assyriologie et d’archéologie Orientale//, vol. 111, pp. 25–64, 2017
+
+[[ ^28 ]]: Simmons, Stephen D., "Early Old Babylonian Tablets from Harmal and Elsewhere (Continued)", Journal of Cuneiform Studies, vol. 14, no. 3, pp. 75–87, 1960
+
+[[ ^29 ]]: Charpin, D., "Recherches sur la “dynastie de Mananâ”: Essai de localisation et de chronologie", RA 72, pp. 13–40, 1978
+
+[[ ^30 ]]: Yuhong, Wu, and Stephanie Dalley,  "The Origins of the Manana Dynasty at Kish, and the Assyrian King List", //Iraq//, vol. 52, pp. 159–65, 1990
+
+[[ ^31 ]]: “RIME 4.08.01.01 Composite Artifact Entry.” 2013. Cuneiform Digital Library Initiative (CDLI). January 20, 2013. https://cdli.ucla.edu/P448588.
+
+[[ ^32 ]]: T. Claydon, "Kish in the Kassite Period (c. 1650 – 1150 B.C)", Iraq, vol. 54, pp. 141–155, 1992
+
+[[ ^33 ]]: [[ https://discovery.ucl.ac.uk/id/eprint/1409045/2/Baker_et_al_Your_Praise_Is_Sweet.pdf#page=219 | https://discovery.ucl.ac.uk/id/eprint/1409045/2/Baker_et_al_Your_Praise_Is_Sweet.pdf#page=219 ]] Naoko Ohgama, Eleanor Robson, "Scribal schooling in Old Babylonian Kish: the evidence of the Oxford tablets", in Your praise is sweet. A memorial volume for Jeremy Black from students, colleagues and friends, British Institute for the Study of Iraq, pp. 207-236, 2010 ISBN [[ 978-0-903472-28-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-903472-28-9 ]]
+
+[[ ^34 ]]: Thureau-Dangin, F., "Asduni-Erim, roi de kis", //Revue d'Assyriologie// 8, pp. 65–79, 1909
+
+[[ ^35 ]]: Henri de Genouillac, "Premières recherches archéologiques à Kich : mission d'Henri de Genouillac 1911–1912 : rapport sur les travaux et inventaires, fac-similés, dessins, photographies et plans. Tome premier", Paris : Libr. ancienne Edouard Champion, 5, quai Malaquais, 1924
+
+[[ ^36 ]]: [[ Henri de Genouillac ]], "Fouilles françaises d'El-Akhymer", Champion, 1924–25
+
+[[ ^37 ]]: [[ http://hdl.handle.net/11401/88744 | http://hdl.handle.net/11401/88744 ]] Stephen Langdon, "Excavations at Kish I (1923–1924)", Paris: P. Geuthner, 1924
+
+[[ ^38 ]]: [[ http://hdl.handle.net/11401/88790 | http://hdl.handle.net/11401/88790 ]] Stephen Langdon and L. C. Watelin, "Excavations at Kish: the Herbert Weld (for the University of Oxford) and Field museum of natural history (Chicago) expedition to Mesopotamia. Vol. III: 1925-7", Paris : P. Geuthner, 1930
+
+[[ ^39 ]]: [[ http://hdl.handle.net/11401/89081 | http://hdl.handle.net/11401/89081 ]] Stephen Langdon and L. C. Watelin, "Excavations at Kish IV (1925–1930)", Paris: P. Geuthner, 1934
+
+[[ ^40 ]]: [[ https://archive.org/download/fieldmuseumoxfor28fiel/fieldmuseumoxfor28fiel.pdf | https://archive.org/download/fieldmuseumoxfor28fiel/fieldmuseumoxfor28fiel.pdf ]] Henry Field, "The Field Museum-Oxford University expedition to Kish, Mesopotamia, 1923–1929", Chicago, Field Museum of Natural History, 1929
+
+[[ ^41 ]]: [[ http://hdl.handle.net/11401/89190 | http://hdl.handle.net/11401/89190 ]] P. R. S. Moorey, "Kish excavations, 1923–1933 : with a microfiche catalogue of the objects in Oxford excavated by the Oxford-Field Museum, Chicago, Expedition to Kish in Iraq", New York : Oxford University Press, 1978, ISBN [[ 0-19-813191-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-19-813191-7 ]]
+
+[[ ^42 ]]: S. Langdon and D. B. Harden, "Excavations at Kish and Barghuthiat 1933", Iraq, vol. 1, no. 2, pp. 113–136, 1934
+
+[[ ^43 ]]: S. D. Ross, "The excavations at Kish. With special reference to the conclusions reached in 1928–29", in //Journal of the Royal Central Asian Society//, vol. 17, iss. 3, pp. 291–300, 1930
+
+[[ ^44 ]]: Henry Field, "Ancient Wheat and Barley from Kish Mesopotamia", //American Anthropologist//, New Series, vol. 34, no. 2, pp. 303–309, 1932
+
+[[ ^45 ]]: L. H. Dudley Buxton and D. Talbot Rice, "Report on the Human Remains Found at Kish", //The Journal of the Royal Anthropological Institute of Great Britain and Ireland//, vol. 61, pp. 57–119, 1931
+
+[[ ^46 ]]: Davies, D. C., "Unearthing the Past at Kish.", Scientific American, vol. 138, no. 3, pp. 216–18, 1928
+
+[[ ^47 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/SAC/sac1.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/SAC/sac1.pdf ]] Stephanie Dalley, "Life and Death in Early Dynastic Kish: The Evidence from Ingharra, Trench Y", in Karen L. Wilson and Deborah Bekken, "Where Kingship Descended from Heaven: Studies on Ancient Kish", Studies in Ancient Cultures 1, Chicago: Institute for the Study of Ancient Cultures, pp. 23-48, 2023 ISBN [[ 978-1-61491-092-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61491-092-3 ]]
+
+[[ ^48 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/SAC/sac1.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/SAC/sac1.pdf ]] McGuire Gibson, "The First Actual Stratigraphic Profile of Part of the Y Trench", in Karen L. Wilson and Deborah Bekken, "Where Kingship Descended from Heaven: Studies on Ancient Kish", Studies in Ancient Cultures 1, Chicago: Institute for the Study of Ancient Cultures, pp. 57-104, 2023 ISBN [[ 978-1-61491-092-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61491-092-3 ]]
+
+[[ ^49 ]]: Zaina, F., [[ A Radiocarbon date from Early Dynastic Kish and the Stratigraphy and Chronology of the YWN sounding at Tell Ingharra | https://www.researchgate.net/publication/289504251_A_Radiocarbon_Date_from_Early_Dynastic_Kishand_the_Stratigraphy_and_Chronology_of_the_YWN_sounding_at_Tell_Ingharra ]], Iraq, vol. 77(1), pp. 225–234, 2015
+
+[[ ^50 ]]: Gibson, McGuire, "Umm El-Jīr, a Town in Akkad", Journal of Near Eastern Studies, vol. 31, no. 4, pp. 237–94, 1972
+
+[[ ^51 ]]: K. Matsumoto, "Preliminary Report on the Excavations at Kish/Hursagkalama 1988–1989", al-Rāfidān 12, pp. 261-307, 1991
+
+[[ ^52 ]]: K. Matsumoto and H. Oguchi, "Excavations at Kish, 2000", al-Rāfidān, vol. 23, pp. 1–16, 2002
+
+[[ ^53 ]]: K. Matsumoto and H. Oguchi, "News from Kish: The 2001 Japanese Work" al-Rafidan, vol. 25, pp. 1–8, 2004
+
+[[ ^54 ]]: [[ https://www.igj-iraq.org/igj/index.php/igj/article/download/1573/1509 | https://www.igj-iraq.org/igj/index.php/igj/article/download/1573/1509 ]] All-Rawi, Zubayda A., and Ahmed Sh Al-Banna, "Integration of Ground Penetrating Radar and Electrical Resistivity Methods to Investigate Subsurface Features at Kish Archaeological site, Babylon, Iraq", The Iraqi Geological Journal, pp. 224-232, 2023
+
+[[ ^55 ]]: [[ https://www.iasj.net/iasj/download/bc5baaba292e6f7c | https://www.iasj.net/iasj/download/bc5baaba292e6f7c ]] Archived 2024-07-08 at the [[ Wayback Machine ]]Al-Rawi, Zubayda A., and Ahmed Sh Al-Banna, "Application of 2D Electrical Resistivity Method and Ground Penetration Rader for Detection of the Archaeological Remains in Kish Site, Babylon, Iraq", Iraqi Journal of Science, pp. 6326-6335, 2023
+
+[[ ^56 ]]: Zaina, Federico (April 2016). [[ "Tell Ingharra-East Kish in the 3rd Millennium BC: Urban Development Architecture and Functional Analysis" | https://www.researchgate.net/publication/301764168 ]]. //Proceedings of the 9th International Congress on the Archaeology of the Ancient Near East//. !!1!!: 431.
+
+[[ ^57 ]]: [[ https://www.orientlab.net/uploads/pdf/OLSM_5_KISH_2020.pdf | https://www.orientlab.net/uploads/pdf/OLSM_5_KISH_2020.pdf ]]Zaina, Federico ca 20 /21 Jh (2020). [[ //The urban archaeology of early Kish: 3rd millennium BCE levels at Tell Ingharra// | https://ixtheo.de/Record/1738340961 ]]. OrientLab Series Maior. Ante Quem. ISBN [[ 978-88-7849-149-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-88-7849-149-6 ]].``\{{cite book}}``:  CS1 maint: numeric names: authors list ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_numeric_names%3A_authors_list ]])
+
+[[ ^58 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/SAC/sac1.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/SAC/sac1.pdf ]] Guillermo Algaze, "Life and Death in Early Dynastic Kish: The Evidence from Ingharra, Trench Y", in Karen L. Wilson and Deborah Bekken, "Where Kingship Descended from Heaven: Studies on Ancient Kish", //Studies in Ancient Cultures// 1, Chicago: Institute for the Study of Ancient Cultures, pp. 1–7, 2023 ISBN [[ 978-1-61491-092-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61491-092-3 ]]
+
+[[ ^59 ]]: P. R. S. Moorey, "The 'Plano-Convex Building' at Kish and Early Mesopotamian Palaces", Iraq, vol. 26, no. 2, pp. 83–98, 1964
+
+[[ ^60 ]]: [[ http://www.persee.fr/doc/paleo_0153-9345_2015_num_41_1_5661 | http://www.persee.fr/doc/paleo_0153-9345_2015_num_41_1_5661 ]] Zaina, F., "Craft, Administration and Power in Early Dynastic Mesopotamian Public Buildings. Recovering the Plano-convex Building at Kish", Iraq, Paléorient, vol. 41, pp. 177–197, 2015
+
+[[ ^61 ]]: [[ https://archive.org/download/reportonexcavati11mack/reportonexcavati11mack.pdf | https://archive.org/download/reportonexcavati11mack/reportonexcavati11mack.pdf ]] E. Mackay, "Report on the excavation of the 'A' Cemetery at Kish, Mesopotamia: Part I." Anthropology, Memoirs, vol. 1, no. 1, Chicago: Field Museum, 1925
+
+[[ ^62 ]]: Torres-Rouff, Christina, William J. Pestle, and Blair M. Daverman, "Commemorating Bodies and Lives at Kish’s ‘A Cemetery’: (Re)presenting So-cial Memory", //Journal of Social Archaeology//, 12, pp. 193–219, 2012
+
+[[ ^63 ]]: Whelan, E., "Dating the A Cemetery at kish: A reconsideration", //JFA// 5, pp. 79–96, 1978
+
+[[ ^64 ]]: Hrouda, B. and karstens, k., "Zur inneren Chronologie des Friedhofes „ A „ .... bei kig", //Zeitschrift für Assyriologie undvorderasiatische Archäologie// 24, pp. 256–267, 1966
+
+[[ ^65 ]]: Breniquet, C., "Le cimetière 'A' de kish. Essai d 'interprétation", //Iraq// 46, pp. 19–28, 1984
+
+[[ ^66 ]]: [[ https://archive.org/download/sumerianpalaceac12mack/sumerianpalaceac12mack.pdf | https://archive.org/download/sumerianpalaceac12mack/sumerianpalaceac12mack.pdf ]] E. Mackay, "A Sumerian Palace and the "A" Cemetery: Part 2", Anthropology Memoirs, vol. 1, no. 2, Chicago: Field Museum, 1929
+
+[[ ^67 ]]: Marchesi, Gianni (January 2015). Sallaberger, W.; Schrakamp, I. (eds.). [[ "Toward a Chronology of Early Dynastic Rulers in Mesopotamia" | https://www.academia.edu/10655886 ]]. //History & Philology (ARCANE 3; Turnhout)//: 139–156.
+
+[[ ^68 ]]: MacKay, Ernest (1925). "Sumerian Connexions with Ancient India". //The Journal of the Royal Asiatic Society of Great Britain and Ireland// (4): 698–699. JSTOR [[ 25220818 | https://www.jstor.org/stable/25220818 ]].

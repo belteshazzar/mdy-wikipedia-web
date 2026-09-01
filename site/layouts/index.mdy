@@ -1,10 +1,16 @@
+% // Cities first, and everything else second — which is the whole editorial
+% // claim of the site. A reader arrives at a place, not at a topic.
 < section class="index-head"
-  <p class="eyebrow">{{ req.count }} articles · {{ req.images }} images, all credited
+  <p class="eyebrow">{{ req.cities.length }} cities · {{ req.ring.length }} topics they need · {{ req.images }} images, all credited
   <h1>{{ req.site.title }}
   <p>{{ req.site.description }}
+  <p class="index-map">[[ See all {{ req.located }} of them on the map | /places/ ]]
+
+< section class="band-head"
+  <h2>The cities
 
 < section class="browse"
-  % for (const a of req.articles) {
+  % for (const a of req.cities) {
   < article class="browse-item"
     < a href="{{ a.url }}"
       % if (a.image) {
@@ -18,5 +24,24 @@
     % }
     % if (a.meta) {
     <p class="browse-meta">{{ a.meta }}
+    % }
+  % }
+
+< section class="band-head"
+  <h2>What they need explained
+  <p class="band-note">Not the subject of this site, but the vocabulary it runs on: the empires that held these cities, the languages their tablets are in, the gods their temples were for. Each one is here because an article about a place asked for it.
+
+< section class="browse ring"
+  % for (const a of req.ring) {
+  < article class="browse-item"
+    < a href="{{ a.url }}"
+      % if (a.image) {
+      <img src="{{ a.image }}" alt="" loading="lazy" width="600" height="450"
+      % } else {
+      <div class="noimage">No free image
+      % }
+      <h2>{{ a.title }}
+    % if (a.description) {
+    <p>{{ a.description }}
     % }
   % }

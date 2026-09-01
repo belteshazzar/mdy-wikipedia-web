@@ -1,0 +1,1025 @@
++++
+title: Amarna
+description: Akhenaten's capital of Egypt, 1346–1332 BC
+coordinates:
+  lat: 27.64527778
+  lon: 30.89638889
+image: https://upload.wikimedia.org/wikipedia/commons/6/64/Small_aten_temple.jpg
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Small_aten_temple.jpg/330px-Small_aten_temple.jpg
+    caption: The Small Aten Temple at Akhetaten
+  type: Settlement
+  periods: Eighteenth Dynasty of Egypt, New Kingdom
+  location: Minya Governorate, Egypt
+  region: Upper Egypt
+  history:
+    built: Approximately 1346 BC
+    built-by: Akhenaten
+  site-notes:
+    excavation-dates: 1891-1892, 1907-1914, 1923-1925, 1930-1932, 1977-1982, 1996-present
+    archaeologists: Flinders Petrie, Alessandro Barsanti, Ludwig Borchardt, T.E.
+      Peet, Leonard Woolley, Henri Frankfort, John Pendlebury, Barry J. Kemp
+images:
+  - file: Amarna_boundary_stela_U_02.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Amarna_boundary_stela_U_02.JPG/250px-Amarna_boundary_stela_U_02.JPG
+    width: 3456
+    height: 2304
+    caption: Statues to the left of Boundary stela U in el-Amarna
+  - file: Egyptian_-_Seal_Ring_with_the_Name_of_Akhenaten_-_Walters_42201_-_Top.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Egyptian_-_Seal_Ring_with_the_Name_of_Akhenaten_-_Walters_42201_-_Top.jpg/250px-Egyptian_-_Seal_Ring_with_the_Name_of_Akhenaten_-_Walters_42201_-_Top.jpg
+    width: 523
+    height: 900
+    caption: Akhenaten seal ring in blue faience. Walters Art Museum
+  - file: TutankhamunBerlin.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/TutankhamunBerlin.jpg/250px-TutankhamunBerlin.jpg
+    width: 371
+    height: 498
+    caption: Tutankamun Amarna portrait. Altes Museum, Berlin
+  - file: Amarna_Akkadian_letter.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Amarna_Akkadian_letter.png/250px-Amarna_Akkadian_letter.png
+    width: 440
+    height: 687
+    caption: One of the Amarna letters
+  - file: Alabaster_sunken_relief_depicting_Akhenaten,_Nefertiti,_and_daughter_Meritaten._Early_Aten_cartouches_on_king's_arm_and_chest._From_Amarna,_Egypt._18th_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology,_London.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Alabaster_sunken_relief_depicting_Akhenaten%2C_Nefertiti%2C_and_daughter_Meritaten._Early_Aten_cartouches_on_king%27s_arm_and_chest._From_Amarna%2C_Egypt._18th_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/250px-thumbnail.jpg
+    width: 4006
+    height: 3827
+    caption: Alabaster sunken relief depicting Akhenaten, Nefertiti, and daughter
+      Meritaten. Early Aten cartouches on king's arm and chest. From Amarna,
+      Egypt. 18th Dynasty. The Petrie Museum of Egyptian Archaeology, London
+  - file: Burial_Chamber_of_Akhenaten_at_Amarna_2017.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burial_Chamber_of_Akhenaten_at_Amarna_2017.jpg/250px-Burial_Chamber_of_Akhenaten_at_Amarna_2017.jpg
+    width: 2560
+    height: 1920
+    caption: Akhenaten's Royal tomb chamber in Amarna
+wikidata:
+  id: Q5736
+  label: Amarna
+  description: Egyptian archaeological site
+  claims:
+    commons-category: Amarna
+    country: Egypt
+    coordinate-location:
+      lat: 27.661666666667
+      lon: 30.905555555556
+    located-in-the-administrative-territorial-entity: Minya Governorate
+    image:
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Small_aten_temple.jpg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Amarna_1_llegenda.jpg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Amarna_2_llegenda.jpg
+    inception: 1353 BC
+    instance-of:
+      - archaeological site
+      - ancient city
+      - tell
+    topic-s-main-category: Category:Amarna
+    described-by-source:
+      - Jewish Encyclopedia of Brockhaus and Efron
+      - Great Soviet Encyclopedia (1926–1947)
+      - Encyclopædia Britannica 11th edition
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Armenian Soviet Encyclopedia, vol. 4
+      - Meyers Konversations-Lexikon, 4th edition (1885–1890)
+    founder: Akhenaten
+    end-time: 1335 BC
+    elevation-above-sea-level: 195 metre
+    official-name: تل العمارنة
+    page-banner: https://commons.wikimedia.org/wiki/Special:FilePath/Amarna_Banner.jpg
+    category-for-people-born-here: Q88771207
+    category-of-associated-people: Q88771321
+    category-for-people-who-died-here: Q88771524
+    culture: Ancient Egypt
+    native-label:
+      - ȝḫ.t-Jtn
+      - تل العمارنة
+    significant-event:
+      value: archaeological excavation
+      from: 18th century
+    start-time: 1353 BC
+categories:
+  - 14th-century BC disestablishments
+  - 14th-century BC establishments in Egypt
+  - 1714 archaeological discoveries
+  - Akhenaten
+  - Amarna
+  - Cities in ancient Egypt
+  - Former capitals of Egypt
+  - Former populated places in Egypt
+  - Planned capital cities
+  - Populated places disestablished in the 2nd millennium BC
+  - Populated places established in the 2nd millennium BC
+  - Populated places in Minya Governorate
+  - Tells (archaeology)
+langlinks:
+  af: Amarna
+  ar: تل العمارنة
+  arz: تل العمارنه
+  be: Амарна
+  bg: Ахетатон
+  ca: Al-Amārna
+  ceb: Tall al ‘Amārinah
+  cs: El Amarna
+  de: Amarna
+  el: Αμάρνα
+  eo: Amarna
+  es: Amarna
+  eu: Tell al-Amarna
+  fa: عمارنه (مصر)
+  fi: Akhetaten
+  fr: Amarna
+  he: אל-עמארנה
+  hr: Amarna
+  hu: Ahet-Aton
+  hy: Թել ալ-Ամառնա
+  id: Amarna
+  it: Amarna
+  ja: アマルナ
+  ka: ელ-ამარნა
+  kk: Амарна
+  kn: ಟೆಲ್ ಎಲ್ ಅಮಾರ್ನ
+  ko: 아마르나
+  lt: Amarna
+  ms: Amarnah
+  nl: Achetaton
+  nb: Amarna
+  pa: ਅਮਰਨਾ
+  pl: Amarna
+  pt: Amarna
+  ro: Amarna
+  ru: Амарна
+  sh: Amarna
+  si: අමර්ණ
+  simple: Amarna
+  sl: Amarna
+  sq: Amarna
+  sr: Амарна
+  sv: El-Amarna
+  sw: Amarna
+  ta: அமர்னா
+  th: อะมาร์นา
+  tl: Amarna
+  tr: Amarna
+  uk: Амарна
+  ur: عمارنہ
+  vi: Amarna
+  wuu: 阿玛纳
+  zh: 阿玛纳
+link-titles:
+  akhenaten: Akhenaten
+  akhenaten-dweller-in-truth: Akhenaten, Dweller in Truth
+  akhet-hieroglyph: Akhet (hieroglyph)
+  akhnaten-opera: Akhnaten (opera)
+  akkadian-language: Akkadian language
+  alessandro-barsanti: Alessandro Barsanti
+  altes-museum: Altes Museum
+  amarna-letters: Amarna letters
+  amarna-period: Amarna Period
+  amarna-heresy: Amarna heresy
+  amelia-peabody-series: Amelia Peabody series
+  amenhotep-iii: Amenhotep III
+  ancient-egyptian-language: Ancient Egyptian language
+  ancient-near-east: Ancient Near East
+  arabic-language: Arabic language
+  archaeological-site: Archaeological site
+  art-of-ancient-egypt: Art of Ancient Egypt
+  aten: Aten
+  atenism: Atenism
+  ay-pharaoh: Ay (pharaoh)
+  barbara-mertz: Barbara Mertz
+  barry-kemp-egyptologist: Barry Kemp (Egyptologist)
+  berlin: Berlin
+  bes: Bes
+  boundary-stelae-of-akhenaten: Boundary Stelae of Akhenaten
+  british-library: British Library
+  bureau-of-correspondence-of-pharaoh: Bureau of Correspondence of Pharaoh
+  cairo: Cairo
+  capital-city: Capital city
+  claude-sicard: Claude Sicard
+  cuneiform: Cuneiform
+  deir-mawas: Deir Mawas
+  description-de-légypte: Description de l'Égypte
+  deutsche-orientgesellschaft: Deutsche Orientgesellschaft
+  diplomacy: Diplomacy
+  egypt: Egypt
+  egypt-roman-province: Egypt (Roman province)
+  egypt-exploration-fund: Egypt Exploration Fund
+  egypt-exploration-society: Egypt Exploration Society
+  egyptian-faience: Egyptian faience
+  egyptian-hieroglyph: Egyptian hieroglyph
+  eighteenth-dynasty-of-egypt: Eighteenth Dynasty of Egypt
+  electrum: Electrum
+  faience: Faience
+  first-world-war: First World War
+  flinders-petrie: Flinders Petrie
+  formalism-art: Formalism (art)
+  geoffrey-thorndike-martin: Geoffrey Thorndike Martin
+  geography-ptolemy: Geography (Ptolemy)
+  great-temple-of-the-aten: Great Temple of the Aten
+  henri-frankfort: Henri Frankfort
+  horemheb: Horemheb
+  isis: Isis
+  jesuit: Jesuit
+  john-gardiner-wilkinson: John Gardiner Wilkinson
+  john-gardner-wilkinson: John Gardner Wilkinson
+  john-pendlebury: John Pendlebury
+  kiya: Kiya
+  kom-el-nana: Kom el-Nana
+  late-bronze-age: Late Bronze Age
+  leonard-woolley: Leonard Woolley
+  lingua-franca: Lingua franca
+  ludwig-borchardt: Ludwig Borchardt
+  lunette-stele: Lunette (stele)
+  luxor: Luxor
+  maru-aten: Maru-Aten
+  mary-chubb: Mary Chubb
+  meketaten: Meketaten
+  meritaten: Meritaten
+  michelle-moran: Michelle Moran
+  minya-governorate: Minya Governorate
+  minya-egypt: Minya, Egypt
+  monolatrism: Monolatrism
+  monotheism: Monotheism
+  mudbrick: Mudbrick
+  mutnedjmet: Mutnedjmet
+  n.-de-garis-davies: N. de Garis Davies
+  naguib-mahfouz: Naguib Mahfouz
+  nakhtpaaten: Nakhtpaaten
+  napoleon: Napoleon
+  national-geographic: National Geographic
+  nefertiti: Nefertiti
+  nefertiti-bust: Nefertiti Bust
+  nekhen: Nekhen
+  neues-museum: Neues Museum
+  nile: Nile
+  nile-river: Nile River
+  north-city-amarna: North City, Amarna
+  north-riverside-palace: North Riverside Palace
+  northern-palace-amarna: Northern Palace (Amarna)
+  oblation: Oblation
+  panehesy: Panehesy
+  pharaoh: Pharaoh
+  philip-glass: Philip Glass
+  pliny-the-elder: Pliny the Elder
+  prussia: Prussia
+  ptolemy: Ptolemy
+  richard-lepsius: Richard Lepsius
+  robert-hay-egyptologist: Robert Hay (Egyptologist)
+  romanization-of-ancient-egyptian: Romanization of Ancient Egyptian
+  romanization-of-arabic: Romanization of Arabic
+  royal-tomb-of-akhenaten: Royal Tomb of Akhenaten
+  royal-wadi-and-tombs: Royal Wadi and tombs
+  sebakh: Sebakh
+  shed-deity: Shed (deity)
+  small-aten-temple: Small Aten Temple
+  sondage: Sondage
+  southern-tombs-cemetery: Southern Tombs Cemetery
+  stela: Stela
+  stephen-glanville: Stephen Glanville
+  t.-eric-peet: T. Eric Peet
+  taweret: Taweret
+  thebes-egypt: Thebes, Egypt
+  thutmose-sculptor: Thutmose (sculptor)
+  tombs-of-the-nobles-amarna: Tombs of the Nobles (Amarna)
+  tutankhamun: Tutankhamun
+  university-of-cambridge: University of Cambridge
+  walters-art-museum: Walters Art Museum
+  workmens-village-amarna: Workmen's Village, Amarna
+  yuya: Yuya
+sections:
+  - level: 2
+    id: name
+    title: Name
+  - level: 2
+    id: city-of-akhetaten
+    title: City of Akhetaten
+  - level: 3
+    id: site-and-plan
+    title: Site and plan
+  - level: 4
+    id: north-city
+    title: North City
+  - level: 4
+    id: central-city
+    title: Central City
+  - level: 4
+    id: southern-suburbs
+    title: Southern suburbs
+  - level: 4
+    id: city-outskirts
+    title: City outskirts
+  - level: 2
+    id: life-in-ancient-amarna/akhetaten
+    title: Life in ancient Amarna/Akhetaten
+  - level: 3
+    id: religious-life
+    title: Religious life
+  - level: 2
+    id: the-amarna-letters
+    title: The Amarna letters
+  - level: 2
+    id: amarna-art-style
+    title: Amarna art-style
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 3
+    id: modern-excavations
+    title: Modern excavations
+  - level: 2
+    id: in-media
+    title: In media
+  - level: 3
+    id: fictional
+    title: Fictional
+  - level: 3
+    id: non-fictional
+    title: Non-fictional
+  - level: 3
+    id: magazines
+    title: Magazines
+  - level: 3
+    id: opera
+    title: Opera
+  - level: 2
+    id: gallery
+    title: Gallery
+source:
+  site: Wikipedia
+  lang: en
+  title: Amarna
+  url: https://en.wikipedia.org/wiki/Amarna
+  page-id: 79845
+  revision: "1372614145"
+  modified: 2026-09-01T13:30:03Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Amarna"
+    (revision 1372614145), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+!!Amarna!!
+([[ /əˈmɑːrnə/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]];
+Arabic: العمارنة, [[ romanized | romanization-of-arabic ]]: //al-ʿAmārna//) is
+an extensive ancient [[ Egyptian | egypt ]] [[ archaeological site ]]
+containing the ruins of !!Akhetaten!! (Ancient Egyptian:
+𓈌𓐰𓏏𓐱𓉐𓇋𓏏𓐰𓈖𓐰𓇳,
+[[ romanized | romanization-of-ancient-egyptian ]]: //ꜣḫt-jtn//), the
+[[ capital city ]] during the late
+[[ Eighteenth Dynasty | eighteenth-dynasty-of-egypt ]]. The city was
+established in 1346 BC, built at the direction of the [[ Pharaoh ]]
+[[ Akhenaten ]], and abandoned shortly after
+[[ his death | akhenaten#death-and-burial ]] in 1332 BC.[[ ^1 ]]
+
+The site is on the east bank of the [[ Nile River ]], in what today is the
+Egyptian province of [[ Minya | minya-governorate ]]. It is about 58 km
+(36 mi) south of the city of [[ al-Minya | minya-egypt ]], 312 km (194 mi)
+south of the Egyptian capital, [[ Cairo ]], and 402 km (250 mi) north of
+[[ Luxor ]] (site of the previous capital,
+[[ Thebes | thebes-egypt ]]).[[ ^2 ]] The city of [[ Deir Mawas ]] lies
+directly to its west. On the east side of Amarna there are several modern
+villages, the chief of which are l-Till in the north and el-Hagg Qandil in the
+south.
+
+Activity in the region flourished from the [[ Amarna Period ]] until the later
+[[ Roman era | egypt-roman-province ]].[[ ^3 ]]
+
+== Name
+
+The name //Amarna// comes from the Beni Amran, an Arab tribe that settled the
+area before the 18th century. The ancient Egyptian name Akhetaten means
+"[[ the horizon | akhet-hieroglyph ]] of the [[ Aten ]]".[[ ^4 ]]
+
+English Egyptologist Sir [[ John Gardner Wilkinson ]] visited Amarna twice in
+the 1820s and identified it as !!Alabastron!!,[[ ^5 ]] following the sometimes
+contradictory descriptions of Roman-era authors [[ Pliny | pliny-the-elder ]]
+(//On Stones//) and [[ Ptolemy ]]
+(//[[ Geography | geography-ptolemy ]]//),[[ ^6 ]][[ ^7 ]] although he was not
+sure about the identification and suggested [[ Kom el-Ahmar | nekhen ]] as an
+alternative location.[[ ^8 ]]
+
+== City of Akhetaten
+
+<div role="img"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Amarna_map_large.jpg/500px-Amarna_map_large.jpg" alt="" height="422" width="425"
+
+  <a href="royal-wadi-and-tombs">Royal Wadi
+
+  <a href="workmens-village-amarna">Workmen's village
+
+  <a href="royal-tomb-of-akhenaten">Tomb of Akhenaten
+
+  <a href="tombs-of-the-nobles-amarna#northern-tombs">Northern tombs
+
+  <a href="tombs-of-the-nobles-amarna#southern-tombs">Southern tombs
+
+  <a href="boundary-stelae-of-akhenaten">Stelae U
+
+  <a href="tombs-of-the-nobles-amarna#desert-altars">Desert altars
+
+  <a href="maru-aten">Maru-Aten
+
+  <a href="northern-palace-amarna">Northern Palace
+
+  <a href="north-city-amarna">North City
+
+  <a href="kom-el-nana">Kom el-Nana
+
+  <a href="boundary-stelae-of-akhenaten">Stelae H
+
+  <a href="great-temple-of-the-aten">Great Aten Temple
+
+The area of the city was effectively a virgin site, and it was this city that
+Akhenaten described as the Aten's "seat of the First Occasion, which he had
+made for himself that he might rest in it".
+
+It may be that the [[ Royal Wadi | royal-wadi-and-tombs ]]'s resemblance to
+the [[ hieroglyph | egyptian-hieroglyph ]] for //horizon// showed that this
+was the place to found the city.
+
+The city was built as the new capital of the Pharaoh Akhenaten, dedicated to
+his [[ new religion | atenism ]] of worship to the [[ Aten ]]. Construction
+started in or around Year 5 of his reign (1346 BC) and was probably completed
+by Year 9 (1341 BC), although it became the capital city two years earlier. To
+speed up construction of the city most of the buildings were constructed out
+of [[ mudbrick ]], and white washed. The most important buildings were faced
+with local stone.[[ ^9 ]]
+
+It is the only ancient Egyptian city which preserves great details of its
+internal plan in large part because it was abandoned almost completely shortly
+after the royal government of [[ Tutankhamun ]] quit the city in favor of
+Thebes (modern [[ Luxor ]]). The city seems to have remained active for a
+decade or so after his death, and a shrine to [[ Horemheb ]] indicates that it
+was at least partially occupied at the beginning of his reign,[[ ^10 ]] if
+only as a source for building material elsewhere. Once it was abandoned, it
+remained uninhabited until Roman settlement[[ ^3 ]] began along the edge of
+the Nile. However, due to the unique circumstances of its creation and
+abandonment, it is questionable how representative of ancient Egyptian cities
+it actually is. Amarna was hastily constructed and covered an area of
+approximately 8 miles (13 km) of territory on the east bank of the Nile River;
+on the west bank, land was set aside to provide crops for the city's
+population.[[ ^4 ]] The entire city is encircled with a total of 14 boundary
+[[ stelae | stela ]] (labeled A thru V with discontinuities left for those
+thought to be missing, Stele B was defaced by locals in 1885) detailing
+Akhenaten's conditions for the establishment of this new capital city of
+Egypt.[[ ^4 ]]
+
+The earliest dated stele from Akhenaten's new city is known to be //Boundary
+stele K// which is dated to Year 5, IV Peret (or month \8), day 13 of
+Akhenaten's reign.[[ ^11 ]] (Most of the original 14 boundary stelae have been
+badly eroded.) It preserves an account of Akhenaten's foundation of this city.
+The document records the pharaoh's wish to have several temples of the Aten to
+be erected here, for several royal tombs to be created in the eastern hills of
+Amarna for himself, his chief wife [[ Nefertiti ]], and his eldest daughter
+[[ Meritaten ]] as well as his explicit command that when he was dead, he
+would be brought back to Amarna for burial.[[ ^12 ]] Boundary stela K
+introduces a description of the events that were being celebrated at Amarna:
+
+<blockquote
+  His Majesty mounted a great chariot of [[ electrum ]], like the [[ Aten ]]
+  when He rises on the horizon and fills the land with His love, and took a
+  goodly road to Akhetaten, the place of origin, which [the Aten] had created
+  for Himself that he might be happy therein. It was His son Wa'enrē [i.e.
+  Akhenaten] who founded it for Him as His monument when His Father commanded
+  him to make it. Heaven was joyful, the earth was glad every heart was filled
+  with delight when they beheld him.[[ ^13 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Amarna_boundary_stela_U_02.JPG/250px-Amarna_boundary_stela_U_02.JPG" height="167" width="250"
+
+  <figcaption>Statues to the left of Boundary stela U in el-Amarna
+
+This text then goes on to state that Akhenaten made a great [[ oblation ]] to
+the god Aten "and this is the theme [of the occasion] which is illustrated in
+the [[ lunettes | lunette-stele ]] of the stelae where he stands with his
+queen and eldest daughter before an altar heaped with offerings under the
+Aten, while it shines upon him rejuvenating his body with its rays."[[ ^13 ]]
+
+=== Site and plan
+
+Located on the east bank of the Nile, the ruins of the city are laid out
+roughly north to south along a "Royal Road", now referred to as "Sikhet
+es-Sultan".[[ ^14 ]][[ ^15 ]] The Royal residences are generally to the north,
+in what is known as the [[ North City | north-city-amarna ]], with a central
+administration and religious area and the south of the city is made up of
+residential suburbs.
+
+==== North City
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Egyptian_-_Seal_Ring_with_the_Name_of_Akhenaten_-_Walters_42201_-_Top.jpg/250px-Egyptian_-_Seal_Ring_with_the_Name_of_Akhenaten_-_Walters_42201_-_Top.jpg" height="241" width="140"
+
+  <figcaption>Akhenaten seal ring in [[ blue faience | egyptian-faience ]]. [[ Walters Art Museum ]]
+
+If one approached the city of Amarna from the north by river the first
+buildings past the northern boundary stele would be the
+[[ North Riverside Palace ]]. This building ran all the way up to the
+waterfront and was likely the main residence of the royal family.[[ ^16 ]]
+Located within the North City area is the
+[[ Northern Palace | northern-palace-amarna ]], the main residence of the
+royal family.[[ ^17 ]] Between this and the central city, the Northern Suburb
+was initially a prosperous area with large houses, but the house size
+decreased and became poorer the further from the road they were.[[ ^15 ]]
+
+The !!North City!! was an administrative area. It contains the ruins of royal
+palaces, especially the [[ Northern Palace | northern-palace-amarna ]] and
+other administrative buildings and occupies an area between the
+[[ river | nile ]] and the cliffs that terminate the plains to the north of
+the city itself.[[ ^18 ]]
+
+==== Central City
+
+Most of the important ceremonial and administrative buildings were located in
+the central city. Here the [[ Great Temple of the Aten ]] and the
+[[ Small Aten Temple ]] were used for religious functions and between these
+the Great Royal Palace and Royal Residence were the ceremonial residence of
+the king and royal family, and were linked by a bridge or ramp.[[ ^19 ]]
+Located behind the Royal Residence was the
+[[ Bureau of Correspondence of Pharaoh ]], where the [[ Amarna Letters ]] were
+found.[[ ^20 ]]
+
+This area was probably the first area to be completed, and had at least two
+phases of construction.[[ ^14 ]]
+
+==== Southern suburbs
+
+To the south of the city was the area now referred to as the //Southern
+Suburbs//. It contained the estates of many of the city's powerful nobles,
+including [[ Nakhtpaaten ]] (Chief Minister), Ranefer, [[ Panehesy ]] (High
+Priest of the Aten), and Ramose (Master of Horses). This area also held the
+studio of the sculptor [[ Thutmose | thutmose-sculptor ]], where the famous
+bust of Nefertiti was found in 1912.[[ ^21 ]]
+
+Further to the south of the city was [[ Kom el-Nana ]], an enclosure, usually
+referred to as a //sun-shade//, and was probably built as a
+sun-temple.,[[ ^22 ]] and then the [[ Maru-Aten ]], which was a palace or
+sun-temple originally thought to have been constructed for [[ Akhenaten ]]'s
+queen [[ Kiya ]], but on her death her name and images were altered to those
+of [[ Meritaten ]], his daughter.[[ ^23 ]]
+
+==== City outskirts
+
+Surrounding the city and marking its extent, the
+[[ Boundary Stelae | boundary-stelae-of-akhenaten ]] (each a rectangle of
+carved rock on the cliffs on both sides of the Nile) describing the founding
+of the city are a primary source of information about it.[[ ^24 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/TutankhamunBerlin.jpg/250px-TutankhamunBerlin.jpg" height="336" width="250"
+
+  <figcaption>Tutankamun Amarna portrait. [[ Altes Museum ]], [[ Berlin ]]
+
+Away from the city Akhenaten's [[ Royal necropolis | royal-wadi-and-tombs ]]
+was started in a narrow valley to the east of the city, hidden in the cliffs.
+Only one tomb was completed, and was used by an unnamed Royal Wife, and
+Akhenaten's tomb was hastily used to hold him and likely [[ Meketaten ]], his
+second daughter.[[ ^25 ]]
+
+In the cliffs to the north and south of the Royal Wadi, the nobles of the city
+constructed their [[ Tombs | tombs-of-the-nobles-amarna ]].
+
+== Life in ancient Amarna/Akhetaten
+
+Much of what is known about Amarna's founding is due to the preservation of a
+series of official boundary stelae (13 are known) ringing the perimeter of the
+city. These are cut into the cliffs on both sides of the Nile (10 on the east,
+3 on the west) and record the events of Akhetaten (Amarna) from founding to
+just before its fall.[[ ^26 ]]
+
+To make the move from Thebes to Amarna, Akhenaten needed the support of the
+military. [[ Ay | ay-pharaoh ]], one of Akhenaten's principal advisors,
+exercised great influence in this area because his father [[ Yuya ]] had been
+an important military leader. Additionally, everyone in the military had grown
+up together; they had been a part of the richest and most successful period in
+Egypt's history under [[ Akhenaten's father | amenhotep-iii ]], so loyalty
+among the ranks was strong and unwavering. Perhaps most importantly, "it was a
+military whose massed ranks the king took every opportunity to celebrate in
+temple reliefs, first at Thebes and later at Amarna."[[ ^27 ]]
+
+=== Religious life
+
+While the reforms of Akhenaten are generally believed to have been oriented
+towards a sort of [[ monotheism ]], or perhaps more accurately,
+[[ monolatrism ]]; archaeological evidence shows other deities were also
+revered, even at the centre of the Aten cult – if not officially, then at
+least by the people who lived and worked there.
+
+<blockquote
+  \... at Akhetaten itself, recent excavation by
+  [[ Kemp | barry-kemp-egyptologist ]] (2008: 41–46) has shown the presence of
+  objects that depict gods, goddesses and symbols that belong to the traditional
+  field of personal belief. So many examples of [[ Bes ]], the grotesque dwarf
+  figure who warded off evil spirits, have been found, as well as of the
+  goddess-monster, [[ Taweret ]], part crocodile, part hippopotamus, who was
+  associated with childbirth. Also in the royal workmen's village at Akhetaten,
+  stelae dedicated to [[ Isis ]] and [[ Shed | shed-deity ]] have been
+  discovered (Watterson 1984: 158 & 208).[[ ^28 ]]
+
+== The Amarna letters
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Amarna_Akkadian_letter.png/250px-Amarna_Akkadian_letter.png" height="281" width="180"
+
+  <figcaption>One of the [[ Amarna letters ]]
+
+In 1887, a local woman digging for //[[ sebakh ]]// uncovered a cache of over
+300 [[ cuneiform tablets | cuneiform ]] (now commonly known as the
+[[ Amarna Letters ]]).[[ ^29 ]] These tablets recorded select
+[[ diplomatic | diplomacy ]] correspondence of the Pharaoh and were
+predominantly written in [[ Akkadian | akkadian-language ]], the
+//[[ lingua franca ]]// commonly used during the [[ Late Bronze Age ]] of the
+[[ Ancient Near East ]] for such communication. This discovery led to the
+recognition of the importance of the site, and led to a further increase in
+exploration.[[ ^30 ]]
+
+== Amarna art-style
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Alabaster_sunken_relief_depicting_Akhenaten%2C_Nefertiti%2C_and_daughter_Meritaten._Early_Aten_cartouches_on_king%27s_arm_and_chest._From_Amarna%2C_Egypt._18th_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/250px-thumbnail.jpg" height="239" width="250"
+
+  <figcaption>Alabaster sunken relief depicting Akhenaten, Nefertiti, and daughter Meritaten. Early Aten cartouches on king's arm and chest. From Amarna, Egypt. 18th Dynasty. The Petrie Museum of Egyptian Archaeology, London
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burial_Chamber_of_Akhenaten_at_Amarna_2017.jpg/250px-Burial_Chamber_of_Akhenaten_at_Amarna_2017.jpg" height="188" width="250"
+
+  <figcaption>[[ Akhenaten ]]'s Royal tomb chamber in Amarna
+
+The Amarna art-style broke with long-established Egyptian conventions. Unlike
+the strict idealistic [[ formalism | formalism-art ]] of previous
+[[ Egyptian art | art-of-ancient-egypt ]], it depicted its subjects more
+realistically. These included informal scenes, such as intimate portrayals of
+affection within the royal family or playing with their children, and no
+longer portrayed women as lighter coloured than men. The art also had a
+realism that sometimes borders on caricature.
+
+While the worship of [[ Aten ]] was later referred to as the
+[[ Amarna heresy ]] and suppressed, this art had a more lasting legacy.
+
+== Archaeology
+
+The first western mention of the city was made in 1714 by [[ Claude Sicard ]],
+a French [[ Jesuit ]] priest who was travelling through the Nile Valley who
+described the site and made a crude sketch
+of
+[[ Stela A | boundary-stelae-of-akhenaten ]].[[ ^31 ]][[ ^32 ]] As with much
+of Egypt, it was visited by [[ Napoleon ]]'s //corps de savants// in
+1798–1799, who prepared the first detailed map of Amarna, which was
+subsequently published in //[[ Description de l'Égypte ]]// between 1821 and
+1830.[[ ^33 ]]
+
+After this European exploration continued in 1824 when Sir
+[[ John Gardiner Wilkinson ]] explored and mapped the city
+remains.[[ ^34 ]][[ ^35 ]] The copyist
+[[ Robert Hay | robert-hay-egyptologist ]] and his surveyor G. Laver visited
+the locality and uncovered several of the Southern Tombs from sand drifts,
+recording the reliefs in 1833. The copies made by Hay and Laver languish
+largely unpublished in the [[ British Library ]], where an ongoing project to
+identify their locations is underway.[[ ^36 ]]
+
+The [[ Prussian | prussia ]] expedition led by [[ Richard Lepsius ]] visited
+the site in 1843 and 1845, and recorded the visible monuments and topography
+of Amarna in two separate visits over a total of twelve days, using drawings
+and paper squeezes. The results included an improved map of the city.[[ ^37 ]]
+Despite being somewhat limited in accuracy, the engraved //Denkmäler// plates
+formed the basis for scholastic knowledge and interpretation of many of the
+scenes and inscriptions in the private tombs and some of the Boundary Stelae
+for the rest of the century. The records made by these early explorers teams
+are of immense importance since many of these remains were later destroyed or
+otherwise lost.
+
+Between 1891 and 1892 [[ Alessandro Barsanti ]] and Urbain Bouriant partly
+cleared the robbed out king's tomb.[[ ^38 ]] In 1891 and 1892 Sir
+[[ Flinders Petrie ]] worked for one season at Amarna, working independently
+of the [[ Egypt Exploration Fund ]]. He excavated primarily in the Central
+City, investigating the [[ Great Temple of the Aten ]], the Great Official
+Palace, the King's House, the [[ Bureau of Correspondence of Pharaoh ]], and
+several private houses. Although frequently amounting to little more than a
+[[ sondage ]], Petrie's excavations revealed additional [[ cuneiform ]]
+tablets, the remains of several glass factories, and a great quantity of
+discarded [[ faience ]], glass, and ceramic in sifting the palace rubbish
+heaps (including Mycenaean sherds).[[ ^30 ]] By publishing his results and
+reconstructions rapidly, Petrie was able to stimulate further interest in the
+site's potential.[[ ^39 ]]
+
+=== Modern excavations
+
+The copyist and artist [[ Norman de Garis Davies | n.-de-garis-davies ]]
+published drawn and photographic descriptions of private tombs and boundary
+stelae from Amarna from 1903 to
+1908.[[ ^40 ]][[ ^41 ]][[ ^42 ]][[ ^43 ]][[ ^44 ]][[ ^45 ]]
+
+From 1907 until 1914 the [[ Deutsche Orientgesellschaft ]] expedition, led by
+[[ Ludwig Borchardt ]], worked extensively throughout the North and South
+suburbs of the city. The first several years were spent doing
+survey work with
+excavation beginning in 1911.[[ ^46 ]][[ ^47 ]][[ ^48 ]] The famous
+[[ Nefertiti Bust ]], now in Berlin's [[ Neues Museum ]], was discovered
+amongst other sculptural artefacts in the workshop of the sculptor
+[[ Thutmose | thutmose-sculptor ]]. The outbreak of the [[ First World War ]]
+in August 1914 terminated the German excavations.[[ ^49 ]]
+
+In two seasons between 1923 and 1925 an [[ Egypt Exploration Society ]]
+expedition returned to excavation at Amarna under the direction of
+[[ T.E. Peet | t.-eric-peet ]], Sir [[ Leonard Woolley ]],
+[[ Henri Frankfort ]], [[ Stephen Glanville ]], and [[ John Pendlebury ]].
+[[ Mary Chubb ]] served as the digs
+administrator.[[ ^50 ]][[ ^51 ]][[ ^52 ]][[ ^53 ]] The renewed investigations
+were focused on religious and royal structures. Their work resumed in
+two
+seasons between 1930 and 1932.[[ ^54 ]][[ ^55 ]][[ ^56 ]][[ ^57 ]]
+
+Excavation resumed in the 1977 under with the Amarna Survey directed by Barry
+J. Kemp with the [[ University of Cambridge ]] and Amarna Expedition under
+Salvatore Garfi under the auspices of the Egypt Exploration Society and
+continued until 1982.[[ ^58 ]][[ ^59 ]][[ ^60 ]][[ ^61 ]][[ ^62 ]] Work was
+curtailed at that point due to regional conditions but resumed in 1996 under
+the Amarna Project and still under the direction of Barry J.
+Kemp.[[ ^63 ]][[ ^64 ]][[ ^65 ]] In the 2000 season work also included the
+nearby archaeological site of [[ Kom el-Nana ]] and the start of a GPS survey
+of the region around Amarna.[[ ^66 ]][[ ^67 ]][[ ^68 ]][[ ^69 ]] Much of the
+work during this period was at the house of the king's chief charioteer,
+Ranefer which had been partially excavated in 1921.[[ ^70 ]][[ ^71 ]] A
+separate expedition led by [[ Geoffrey Martin | geoffrey-thorndike-martin ]]
+described and copied the reliefs from the Royal Tomb, later publishing its
+findings together with objects thought to have come from the
+tomb.[[ ^38 ]][[ ^72 ]]
+
+Excavation at Amarna, under Amarna Project, continues to the
+present.[[ ^73 ]][[ ^74 ]][[ ^75 ]][[ ^76 ]] Work includes excavation at a
+[[ cemetery | southern-tombs-cemetery ]], close to the southern tombs of the
+Nobles and at several other cemeteries of private
+individuals.[[ ^77 ]][[ ^78 ]]
+
+== In media
+
+=== Fictional
+
+//[[ Akhenaten, Dweller in Truth ]]//[[ ^79 ]]" is a novel published in 1985
+by Nobel Prize winning author [[ Naguib Mahfouz ]]. Written in Arabic, the
+novel was translated into English in 1998. The novel follows a young scribe
+named Meriamun, living in the reign of [[ Akhenaten ]]'s son
+[[ Tutankhamun ]]. Tutankhamun and his advisors left Akhenaten's capitol at
+Amarna when they rejected the cult of Aten and restored worship of Egypt's
+traditional religious pantheon. Meriamun becomes captivated by the abandoned
+city of Amarna, which his father describes as cursed and "the city of the
+heretic.[[ ^80 ]]" Seeking to understand the mystery of city and if the
+pharaoh who built it was sincere in his radical religious beliefs, Meriamun
+begins to interview the surviving members of Akhenaten's court, culminating in
+a conversation with Akhenaten's queen, [[ Nefertiti ]], the last living
+resident of Amarna.
+
+//The Painted Queen//[[ ^81 ]] written by American novelist
+[[ Barbara Mertz ]] is the most recent installment to the
+[[ Amelia Peabody | amelia-peabody-series ]] novels after the author's passing
+in 2013. A trained archaeologist, Mertz was told by her male colleagues that a
+woman could not be an archaeologist, so "she created characters based on those
+misogynistic Egyptologists\...".[[ ^82 ]] The novel's main character is a
+female archaeologist named Amelia Peabody, who is searching for a missing bust
+of Nefertiti. //The Painted Queen// takes place in the 1912, several years
+after the initial excavations at Amarna.
+
+//Nefertiti// by [[ Michelle Moran ]][[ ^83 ]] is a work of historical fiction
+told from the perspective of Queen Nefertiti [[ Nefertiti ]] and her younger
+sister [[ Mutnodjmet | mutnedjmet ]]. The story follows the sisters from their
+childhoods in Thebes, to Akhenaten's court at Amarna, and after Akhenaten's
+death.
+
+=== Non-fictional
+
+//The City of Akhenaten and Nefertiti: Amarna and its People// by
+[[ Barry Kemp | barry-kemp-egyptologist ]],[[ ^16 ]] discusses everything from
+the conception of Amarna to the abandonment of the city. Within the book are
+images that display art, architecture, and the city as it was (reconstructed)
+and now. It also has a short chapter written by Kemp in the book //Cities That
+Shaped the Ancient World//.[[ ^84 ]]
+
+=== Magazines
+
+In the past years //[[ National Geographic ]]// and archaeological articles
+have published articles on Amarna, [[ Akhenaten ]], [[ Tutankhamun ]], or
+[[ Nefertiti ]]. Most of the article can be found in both the paperback or on
+the National Geographic website[[ ^85 ]] (currently the most recent article
+was published January 2021). An article on the Amarna Letters showed that
+there were 382 clay tablets and considered them as the olderst documents of
+diplomacy found to date. [[ ^86 ]]
+
+=== Opera
+
+//[[ Akhnaten | akhnaten-opera ]]//, act II, scene 3 ("The City") by
+[[ Philip Glass ]] describes the mandate from [[ Akhenaten ]] to build Amarna.
+In the English lines, it is consistently referred to as the "City of the
+Horizon".
+
+== Gallery
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Limestone_fragment_column_showing_reeds_and_an_early_Aten_cartouche._Reign_of_Akhenaten._From_Amarna%2C_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/120px-thumbnail.jpg" alt="Limestone fragment column showing reeds and an early Aten cartouche. Reign of Akhenaten. From Amarna, Egypt. The Petrie Museum of Egyptian Archaeology, London" height="91" width="120"
+
+    Limestone fragment column showing reeds and an early Aten cartouche. Reign of
+    Akhenaten. From Amarna, Egypt. The Petrie Museum of Egyptian Archaeology,
+    London
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Siliceous_limestone_fragment_of_a_statue._There_are_late_Aten_cartouches_on_the_draped_right_shoulder._Reign_of_Akhenaten._From_Amarna%2C_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/120px-thumbnail.jpg" alt="Siliceous limestone fragment of a statue. There are late Aten cartouches on the draped right shoulder. Reign of Akhenaten. From Amarna, Egypt. The Petrie Museum of Egyptian Archaeology, London" height="91" width="120"
+
+    Siliceous limestone fragment of a statue. There are late Aten cartouches on
+    the draped right shoulder. Reign of Akhenaten. From Amarna, Egypt. The Petrie
+    Museum of Egyptian Archaeology, London
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fragment_of_tomb_relief_depicting_four_scribes_at_work.jpg/120px-Fragment_of_tomb_relief_depicting_four_scribes_at_work.jpg" alt="Scribes with pens and papyrus scrolls. Relief from Amarna" height="90" width="120"
+
+    Scribes with pens and papyrus scrolls. Relief from Amarna
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Limestone_trial_piece_of_a_private_person._Head_of_a_princess_on_the_reverse._Reign_of_Akhenaten._From_Amarna%2C_Egypt._Petrie_Museum_of_Egyptian_Archaeology%2C_UCL%2C_London.jpg/120px-thumbnail.jpg" alt="Limestone trial piece of a private person. Head of a princess on the reverse. Reign of Akhenaten. From Amarna, Egypt. Petrie Museum of Egyptian Archaeology, UCL, London" height="120" width="90"
+
+    Limestone trial piece of a private person. Head of a princess on the reverse.
+    Reign of Akhenaten. From Amarna, Egypt. Petrie Museum of Egyptian Archaeology,
+    UCL, London
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bast%C3%B3nArrojadizoEgipcio_%2831261007387%29.jpg/120px-Bast%C3%B3nArrojadizoEgipcio_%2831261007387%29.jpg" alt="Blue faience throwing stick belonging to the Pharaoh Akhenaten. It was used for hunting birds, although this particular piece is likely decorative and intended for magical use. It is decorated with the sovereign's name, lotus flowers, and amulets." height="90" width="120"
+
+    Blue faience throwing stick belonging to the Pharaoh Akhenaten. It was used
+    for hunting birds, although this particular piece is likely decorative and
+    intended for magical use. It is decorated with the sovereign's name, lotus
+    flowers, and amulets.
+
+[[ ^1 ]]: [[ "The Official Website of the Amarna Project" | http://www.amarnaproject.com/ ]]. [[ Archived | https://web.archive.org/web/20081008002752/http://www.amarnaproject.com/ ]] from the original on 8 October 2008. Retrieved 1 October 2008.
+
+[[ ^2 ]]: [[ "Google Maps Satellite image" | https://maps.google.com/maps?t=k&ie=UTF8&ll=27.649016,30.908833&spn=0.056566,0.077248&z=14 ]]. Google Maps. Retrieved 1 October 2008.
+
+[[ ^3 ]]: [[ "Middle Egypt Survey Project 2006" | http://www.amarnaproject.com/pages/recent_projects/survey/middle_egypt/2006.shtml ]]. Amarna Project. 2006. [[ Archived | https://web.archive.org/web/20070622062044/http://www.amarnaproject.com/pages/recent_projects/survey/middle_egypt/2006.shtml ]] from the original on 22 June 2007. Retrieved 6 June 2007.
+
+[[ ^4 ]]: David (1998), p. 125
+
+[[ ^5 ]]: [[ "Digital Egypt for Universities: Amarna" | http://www.ucl.ac.uk/museums-static/digitalegypt/amarna/index.html ]]. University College London. Retrieved 26 July 2016.
+
+[[ ^6 ]]: Sir John Gardner Wilkinson (1828). [[ //Materia hieroglyphica// | https://books.google.com/books?id=nWgGAAAAQAAJ&q=Amarna+%22alabastron%22&pg=RA1-PA22 ]]. Malta: privately printed. p. 22. Retrieved 26 July 2016.
+
+[[ ^7 ]]: [[ Alfred Lucas | alfred-lucas-chemist ]]; John Richard Harris (2011). [[ //Ancient Egyptian Materials and Industries// | https://books.google.com/books?id=8dIoAwAAQBAJ&q=Amarna+%22alabastron%22&pg=PA60 ]] (reprint of 4th edition (1962), revised from first (1926) ed.). Mineola, NY: Dover Publications. p. 60. ISBN [[ 978-0-486-40446-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-486-40446-2 ]]. Retrieved 26 July 2016.
+
+[[ ^8 ]]: [[ //Modern Egypt and Thebes: being a description of Egypt; including the information required for travellers in that country// | https://books.google.com/books?id=fLsMAAAAIAAJ&q=Amarna+%22alabastron%22&pg=PA44 ]]. Vol. II. London: John Murray. 1843. pp. 43–44. Retrieved 26 July 2016.
+
+[[ ^9 ]]: Grundon (2007), p. 89
+
+[[ ^10 ]]: [[ "Excavating Amarna" | https://archive.archaeology.org/online/interviews/kemp.html ]]. Archaeology.org. 27 September 2006. [[ Archived | https://web.archive.org/web/20070711043111/http://www.archaeology.org/online/interviews/kemp.html ]] from the original on 11 July 2007. Retrieved 6 June 2007.
+
+[[ ^11 ]]: Aldred (1988), p. 47
+
+[[ ^12 ]]: Aldred (1988), pp. 47–50
+
+[[ ^13 ]]: Aldred (1988), p. 48
+
+[[ ^14 ]]: Waterson (1999), p. 81
+
+[[ ^15 ]]: Grundon (2007), p. 92
+
+[[ ^16 ]]: Kemp, Barry, The City of Akhenaten and Nefertiti: Amarna and its People, Thames and Hudson, 2012, pp. 151–153
+
+[[ ^17 ]]: Müller, Miriam (2013). [[ "Akhenaten's Workers: The Amarna Stone Village Survey, 2005–2009 (Book Review)" | https://www.academia.edu/2058416 ]]. //American Journal of Archaeology//. !!117!! (4). doi:[[ 10.3764/ajaonline1174.Muller | https://doi.org/10.3764%2Fajaonline1174.Muller ]]. ISSN [[ 1939-828X | https://search.worldcat.org/issn/1939-828X ]].
+
+[[ ^18 ]]: [[ "North City, Amarna The Place" | http://www.amarnaproject.com/pages/amarna_the_place/north_city/index.shtml ]]. //The Amarna Project//. Retrieved 2009-03-13.
+
+[[ ^19 ]]: Waterson (1999), p. 82
+
+[[ ^20 ]]: Moran (1992), p. xiv
+
+[[ ^21 ]]: Waterson (1999), p. 138
+
+[[ ^22 ]]: [[ "Kom El-Nana" | http://www.amarnaproject.com/pages/amarna_the_place/komelnana/index.shtml ]]. [[ Archived | https://web.archive.org/web/20081008020948/http://www.amarnaproject.com/pages/amarna_the_place/komelnana/index.shtml ]] from the original on 8 October 2008. Retrieved 4 October 2008.
+
+[[ ^23 ]]: Eyma (2003), p. 53
+
+[[ ^24 ]]: [[ "Boundary Stelae" | http://www.amarnaproject.com/pages/amarna_the_place/boundary_stelae/index.shtml ]]. [[ Archived | https://web.archive.org/web/20070529001036/http://www.amarnaproject.com/pages/amarna_the_place/boundary_stelae/index.shtml ]] from the original on 29 May 2007. Retrieved 9 June 2007.
+
+[[ ^25 ]]: [[ "Royal Tomb" | http://www.amarnaproject.com/pages/amarna_the_place/royal_tombs/index.shtml ]]. [[ Archived | https://web.archive.org/web/20080927231423/http://www.amarnaproject.com/pages/amarna_the_place/royal_tombs/index.shtml ]] from the original on 27 September 2008. Retrieved 4 October 2008.
+
+[[ ^26 ]]: [[ Silverman, David P | david-p.-silverman ]]; [[ Wegner, Josef W | josef-w.-wegner ]]; Jennifer Houser (2006). //Akhenaten and Tutankhamun, Revolution and Restoration//. Museum of Archaeology and Anthropology. University of Pennsylvania.
+
+[[ ^27 ]]: Reeves, Nicholas (2001). //Akhenaten, Egypt's False Prophet//. London, UK: Thames & Hudson Ltd.
+
+[[ ^28 ]]: Turner, Philip (2012). [[ //Seth – a misrepresented god in the Ancient Egyptian pantheon?// | https://www.escholar.manchester.ac.uk/uk-ac-man-scw:180305 ]] (PhD). Manchester, UK: [[ University of Manchester ]].
+
+[[ ^29 ]]: [[ "Wallis Budge describes the discovery of the Amarna tablets" | http://members.tripod.com/~ib205/budge.html ]]. Retrieved 2008-10-01.
+
+[[ ^30 ]]: Grundon (2007), pp. 90–91
+
+[[ ^31 ]]: Walle, B. van de., "La Découverte d'Amarna et d'Akhenaton", RdE 28, pp. 1-24, 1976
+
+[[ ^32 ]]: Hornung, Erik, "The Rediscovery of Akhenaten and His Place in Religion", Journal of the American Research Center in Egypt, vol. 29, pp. 43–49, 1992
+
+[[ ^33 ]]: [[ "Mapping Amarna" | http://www.amarnaproject.com/pages/recent_projects/survey/index.shtml ]]. [[ Archived | https://web.archive.org/web/20081008012317/http://www.amarnaproject.com/pages/recent_projects/survey/index.shtml ]] from the original on 8 October 2008. Retrieved 1 October 2008.
+
+[[ ^34 ]]: [[ https://archive.org/details/topographythebe02wilkgoog/mode/1up | https://archive.org/details/topographythebe02wilkgoog/mode/1up ]] Wilkinson, J. G., "Topography of Thebes, and General View of Egypt: Being a Short Account of the Principal Objects Worthy of Notice in the Valley of the Nile", London:Murray, 1835
+
+[[ ^35 ]]: [[ https://archive.org/details/modernegyptthebe02wilk/mode/1up | https://archive.org/details/modernegyptthebe02wilk/mode/1up ]] Gardner Wilkinson, John, "Modern Egypt and Thebes: Being a Description of Egypt", London, 1843
+
+[[ ^36 ]]: [[ The Lost Portfolios of Robert Hay - Saudi Aramco World - March/April 2003 | https://archive.aramcoworld.com/issue/200302/the.lost.portfolios.of.robert.hay.htm ]]
+
+[[ ^37 ]]: [[ https://archive.org/details/denkmaler-aus-aegypten-und-aethiopien/denkmaeler-1/mode/1up | https://archive.org/details/denkmaler-aus-aegypten-und-aethiopien/denkmaeler-1/mode/1up ]] Lepsius, Richard, "Denkmäler aus aegypten und aethiopien", Band 1, Berlin: Nicolaische Buchhandlung, 1859
+
+[[ ^38 ]]: Martin, Geoffrey Thorndike, "The royal tomb at El-'Amarna: The rock tombs of El-'Amarna, Part VII, Vol. I: The objects", Archaeological
+Survey of Egypt, Memoir 35. London: Egypt Exploration Society, 1974
+
+[[ ^39 ]]: [[ https://archive.org/details/tellelamarna00petr | https://archive.org/details/tellelamarna00petr ]] Petrie, W. M. Flinders, "Tell el Amarna", London, Methuen & co, 1894
+
+[[ ^40 ]]: [[ https://archive.org/details/DaviesTheRockTombsOfElAmarnaPartI.Merira.1903/mode/1up | https://archive.org/details/DaviesTheRockTombsOfElAmarnaPartI.Merira.1903/mode/1up ]] Davies, N. de G., "The Rock Tombs of El Amarna Part I. Smaller Tombs and Boundary Stelae", London, 1903
+
+[[ ^41 ]]: [[ https://archive.org/details/rocktombsofelama14davi/mode/1up | https://archive.org/details/rocktombsofelama14davi/mode/1up ]] Davies, N. de G., "The Rock Tombs of El Amarna. Part II.-The Tombs of Panehesy and Meryra II.", London, 1905
+
+[[ ^42 ]]: [[ https://archive.org/details/cu31924020525360/mode/1up | https://archive.org/details/cu31924020525360/mode/1up ]] Davies, N. de G., "The Rock Tombs of El Amarna: Part III: the Tombs of Huya and Ahmes", London, 1905
+
+[[ ^43 ]]: [[ https://archive.org/details/rocktombsofelama16davi/mode/1up | https://archive.org/details/rocktombsofelama16davi/mode/1up ]] Davies, N. de G., "The Rock Tombs of El Amarna: Part IV: the Tombs of Penthu, Mahu, and Others", London, 1906
+
+[[ ^44 ]]: [[ https://archive.org/details/cu31924020525386/mode/1up | https://archive.org/details/cu31924020525386/mode/1up ]] Davies, N. de G., "The rock tombs of El Amarna: part V: smaller tombs and boundary stelae", London, 1908
+
+[[ ^45 ]]: [[ https://archive.org/details/rocktombsofelama18davi/mode/1up | https://archive.org/details/rocktombsofelama18davi/mode/1up ]] Davies, N. de G., "The rock tombs of El Amarna, Part VI, Tombs of Parennefer, Tutu and Ay", London, 1908
+
+[[ ^46 ]]: [[ https://scholar.archive.org/work/f5dnkczscrejxe6vl3iyyrnyvi/access/ia_file/crossref-pre-1923-scholarly-works/10.2307%252F3714741.zip/10.2307%252F3853624.pdf | https://scholar.archive.org/work/f5dnkczscrejxe6vl3iyyrnyvi/access/ia_file/crossref-pre-1923-scholarly-works/10.2307%252F3714741.zip/10.2307%252F3853624.pdf ]] Leonard Woolley, C., "Excavations at Tell el-amarna", The Journal of Egyptian Archaeology 8.1, pp. 48-82, 1922
+
+[[ ^47 ]]: [[ https://scholar.archive.org/work/3mhebhenxzhuhabrvlw4tvdg2a/access/ia_file/crossref-pre-1923-scholarly-works/10.2307%252F3714741.zip/10.2307%252F3853563.pdf | https://scholar.archive.org/work/3mhebhenxzhuhabrvlw4tvdg2a/access/ia_file/crossref-pre-1923-scholarly-works/10.2307%252F3714741.zip/10.2307%252F3853563.pdf ]] Eric Peet, T., "Excavations at Tell el-Amarna: A preliminary report", The Journal of Egyptian Archaeology 7.1, pp. 169-185, 1921
+
+[[ ^48 ]]: Timme, P., "Tell el-Amarna vor der deutschen Ausgrabung im Jahre 1911", Ausgrabungen der Deutschen Orient-Gesellschaft in Tell el-Amarna 2, Leipzig: J.C. Hinrichs, 1917
+
+[[ ^49 ]]: [[ https://archive.org/details/excavationsattel00borc/mode/1up | https://archive.org/details/excavationsattel00borc/mode/1up ]] Borchardt, Ludwig, "Excavations at Tell El Amarna, Egypt, in 1913-1914", Washington, 1916
+
+[[ ^50 ]]: Newton, F.G., "Excavations at El-'Amarnah, 1923–24",
+Journal of Egyptian Archaeology 10, pp. 289–298, 1924
+
+[[ ^51 ]]: Griffith, F.Ll., "Excavations at El-'Amarnah, 1923–24",
+Journal of Egyptian Archaeology 10, pp. 306–323, 1924
+
+[[ ^52 ]]: Whittemore, T., "The excavations at El-'Amarnah, season
+1924–5", Journal of Egyptian Archaeology 12, pp. 3–12, 1926
+
+[[ ^53 ]]: Frankfort, H., "Preliminary Report on the Excavations at El-'Amarnah, 1928-9", The Journal of Egyptian Archaeology, vol. 15, no. 3/4, pp. 143–49, 1929
+
+[[ ^54 ]]: Pendlebury, John Devitt Stringfellow, "Preliminary Report of the Excavations at Tell El-'Amarnah, 1932–1933", The Journal of Egyptian Archaeology 19.1, pp. 113-118, 1933
+
+[[ ^55 ]]: Pendlebury, John DS, "Excavations at Tell El Amarna: Preliminary Report for the Season 1933–4", The Journal of Egyptian Archaeology 20.1, pp. 129-137, 1934
+
+[[ ^56 ]]: Pendlebury, John DS, "Preliminary report of the excavations at Tell el-'Amarnah, 1934–1935", The Journal of Egyptian Archaeology 21.1, pp. 129-135, 1935
+
+[[ ^57 ]]: Pendlebury, John DS, "Summary report on the excavations at Tell el-'Amarnah, 1935–1936", The Journal of Egyptian Archaeology 22.1, pp.  194-198, 1936
+
+[[ ^58 ]]: Kemp, B. J., "Preliminary Report on the El-'Amarna Survey, 1977", The Journal of Egyptian Archaeology, 64, 22–34, 1978
+
+[[ ^59 ]]: Kemp, Barry J., "Preliminary Report on the El-'Amarna Survey, 1978", The Journal of Egyptian Archaeology, vol. 65, pp. 5–12, 1979
+
+[[ ^60 ]]: Kemp, Barry J., "Preliminary Report on the El-'Amarna Expedition, 1979", The Journal of Egyptian Archaeology, vol. 66, pp. 5–16, 1980
+
+[[ ^61 ]]: Kemp, Barry J., "Preliminary Report on the El-'Amarna Expedition, 1980", The Journal of Egyptian Archaeology, vol. 67, pp. 5–20, 1981
+
+[[ ^62 ]]: Kemp, Barry J., "Preliminary Report on the El-'Amarna Expedition, 1981-2", The Journal of Egyptian Archaeology, vol. 69, pp. 5–24, 1983
+
+[[ ^63 ]]: Jeffreys, D. G., et al., "Fieldwork, 1996-7: Memphis, Saqqara, Tell El-Amarna, Mons Porphyrites, Qasr Ibrim", The Journal of Egyptian Archaeology, vol. 83, pp. 1–15, 1997
+
+[[ ^64 ]]: Wilson, Penelope, et al., "Fieldwork, 1997-8: Delta Survey, Memphis, Saqqara, Tell El-Amarna, Gebel Dokhan, Qasr Ibrim", The Journal of Egyptian Archaeology, vol. 84, pp. 1–22, 1998
+
+[[ ^65 ]]: Wilson, Penelope, et al., "Fieldwork, 1998-9: Sais, Memphis, Gebel El-Haridi, Tell El-Amarna, Tell El-Amarna Glass Project", The Journal of Egyptian Archaeology, vol. 85, pp. 1–20, 1999
+
+[[ ^66 ]]: Wilson, Penelope, et al., "Fieldwork, 1999-2000: Sais, Memphis, Tell El-Amarna, Tell El-Amarna Glass Project, Qasr Ibrim", The Journal of Egyptian Archaeology, vol. 86, pp. 1–21, 2000
+
+[[ ^67 ]]: Wilson, Penelope, et al., "Fieldwork, 2000-01: Sais, Tell Mutubis, Delta Survey, Memphis, Tell El-Amarna, Qasr Ibrim", The Journal of Egyptian Archaeology, vol. 87, pp. 1–22, 2001
+
+[[ ^68 ]]: Wilson, Penelope, et al., "Fieldwork, 2001-02: Sais, Delta Survey, Memphis, Tell El-Amarna", The Journal of Egyptian Archaeology, vol. 88, pp. 1–21, 2002
+
+[[ ^69 ]]: Wilson, Penelope, et al., "Fieldwork, 2002-03: Delta Survey, Memphis, Tell El-Amarna, Qasr Ibrim", The Journal of Egyptian Archaeology, vol. 89, pp. 1–25, 2003
+
+[[ ^70 ]]: Wilson, Penelope, et al., "Fieldwork, 2003-04: Sais, Memphis, Tell El-Amarna, Tell El-Amarna Glass Project, Qasr Ibrim", The Journal of Egyptian Archaeology, vol. 90, pp. 1–34, 2004
+
+[[ ^71 ]]: Wilson, Penelope, et al., "Fieldwork, 2004-05: Sais, Memphis, Saqqara Bronzes Project, Tell El-Amarna, Tell El-Amarna Glass Project, Qasr Ibrim", The Journal of Egyptian Archaeology, vol. 91, pp. 1–36, 2005
+
+[[ ^72 ]]: Martin, Geoffrey Thorndike, "The royal tomb at El-'Amarna: The rock tombs of El-'Amarna, Part VII, Vol. II: The reliefs, inscriptions, and architecture (with plan and sections by Mark Lehner)", Archaeological Survey of Egypt, Memoir 39. London: Egypt Exploration Society, 1989
+
+[[ ^73 ]]: Kemp, Barry, "Tell El-Amarna, 2006-7", The Journal of Egyptian Archaeology, vol. 93, pp. 1–63, 2007
+
+[[ ^74 ]]: Kemp, Barry, "Tell El-Amarna, 2011–12", The Journal of Egyptian Archaeology, vol. 98, pp. 1–26, 2012
+
+[[ ^75 ]]: Kemp, Barry, "Tell El-Amarna, 2016", The Journal of Egyptian Archaeology, vol. 102, pp. 1–11, 2016
+
+[[ ^76 ]]: Stevens, Anna, et al., "Tell El-Amarna, Autumn 2018 to Autumn 2019", The Journal of Egyptian Archaeology, vol. 106, no. 1/2, pp. 3–15, 2020
+
+[[ ^77 ]]: John Hayes-Fisher (2008-01-25). [[ "Grim secrets of Pharaoh's city" | http://news.bbc.co.uk/2/hi/science/nature/7209472.stm ]]. //BBC Timewatch//. news.bbc.co.uk. Retrieved 2008-10-01.
+
+[[ ^78 ]]: [[ https://journals.sagepub.com/doi/pdf/10.1177/03075133231213886 | https://journals.sagepub.com/doi/pdf/10.1177/03075133231213886 ]] Stevens, Anna, et al., "Tell el-Amarna, 2022", The Journal of Egyptian Archaeology 109.1-2, pp. 89-116, 2023
+
+[[ ^79 ]]: Mahfouz, Naguib (2000). //Akhenaten, Dweller in Truth//. New York: Anchor. ISBN [[ 0-385-49909-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-385-49909-4 ]].
+
+[[ ^80 ]]: Mahfouz, Naguib (2000). //Akhenaten, Dweller in Truth//. New York: Anchor. p. 3. ISBN [[ 0-385-49909-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-385-49909-4 ]].
+
+[[ ^81 ]]: Peters, Elizabeth (2017). //The Painted Queen//. HarperLuxe. ISBN [[ 978-0-06-220136-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-06-220136-2 ]].
+
+[[ ^82 ]]: Parcak, Sarah (2019). //Archaeology From Space: How The Future Shapes Our Past//. Henry Holt. p. 188.
+
+[[ ^83 ]]: Moran, Michelle (2009). //Nefertiti//. Broadway Books. ISBN [[ 978-0-307-71870-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-307-71870-9 ]].
+
+[[ ^84 ]]: Norwich, John Julius (2014). //Cities That Shaped the Ancient World//. Thames & Hudson. pp. 88–93. ISBN [[ 978-0-500-25204-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-500-25204-8 ]].
+
+[[ ^85 ]]: [[ "Amarna - National Geographic Search" | https://www.nationalgeographic.com/search ]]. //National Geographic//. Retrieved 2021-12-02.
+
+[[ ^86 ]]: Lull, José (January 8, 2021). [[ "These pharaohs' private letters expose how politics worked 3,300 years ago" | https://www.nationalgeographic.com/history/history-magazine/article/pharaohs-amarna-letters-expose-politics-3300-years-ago ]]. //National Geographic//. Retrieved September 1, 2026.

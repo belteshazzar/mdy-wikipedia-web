@@ -1,0 +1,13 @@
+about: >
+  Build options the entry document reads. A `.yaml` file in a site directory
+  has its fields merged into `meta`, so this is queryable like any other
+  record — which is how a script-defined site takes a flag, since `mdy build`
+  has no `--data`.
+
+# Whether to emit /compare/<slug>/ — the imported article beside its rewrite.
+#
+# It is a review tool, not a reader feature, and it is expensive: each page
+# renders BOTH documents, so 41 of them are 82 extra renders of the largest
+# things on the site. Turn it on when reviewing rewrites, off when building
+# for readers.
+compare: false

@@ -1,0 +1,578 @@
++++
+title: Pasargadae
+description: Archaeological site in Fars province, Iran
+coordinates:
+  lat: 30.2
+  lon: 53.17944444
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pasargad_Tomb_Cyrus3.jpg/3840px-Pasargad_Tomb_Cyrus3.jpg
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pasargad_Tomb_Cyrus3.jpg/330px-Pasargad_Tomb_Cyrus3.jpg
+    caption: Tomb of Cyrus the Great in Pasargadae
+  type: Settlement
+  periods: Achaemenid Empire
+  cultures: Persian
+  location: Fars province, Iran
+  region: Iran
+  history:
+    built: 6th century BCE
+    built-by: Cyrus the Great
+  site-notes:
+    material: Stone, clay
+    archaeologists: Ali Sami, David Stronach, Ernst Herzfeld
+    condition: In ruins
+  unesco-world-heritage-site:
+    criteria: "Cultural: (i), (ii), (iii), (iv)"
+    reference: "1106"
+    inscription: 2004 (28th Session)
+    area: 160 ha (0.62 sq mi)
+    buffer-zone: 7,127 ha (27.52 sq mi)
+images:
+  - file: Pasargadae_CyrustheGreatTomb_22061.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pasargadae_CyrustheGreatTomb_22061.jpg/330px-Pasargadae_CyrustheGreatTomb_22061.jpg
+    width: 3648
+    height: 2736
+    caption: View of Pasargad from Toll-e Takht hill. The closest building to the
+      tomb attributed to Cambyses II and the farthest building that can be seen
+      in the center of the upper part of the image is the Tomb of Cyrus the
+      Great. Between these two buildings, the ruins of Achaemenid palaces can be
+      seen.
+  - file: I_am_Cyrus,_Achaemenid_King_-_Pasargadae.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/I_am_Cyrus%2C_Achaemenid_King_-_Pasargadae.JPG/250px-I_am_Cyrus%2C_Achaemenid_King_-_Pasargadae.JPG
+    width: 3302
+    height: 1781
+    caption: '"I am Cyrus the king, an Achaemenid." in Old Persian, Elamite and
+      Akkadian languages. It is carved in a column in Pasargadae'
+  - file: Pasargadae_Swallow-Tail_Staples.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pasargadae_Swallow-Tail_Staples.jpg/250px-Pasargadae_Swallow-Tail_Staples.jpg
+    width: 283
+    height: 190
+    caption: Dovetail staples from Pasargadae
+  - file: Passargade_by_Eugène_Flandin.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Passargade_by_Eug%C3%A8ne_Flandin.jpg/250px-Passargade_by_Eug%C3%A8ne_Flandin.jpg
+    width: 2712
+    height: 1795
+    caption: The tomb of Cyrus the Great by Eugène Flandin, 1840
+  - file: Flag_of_Iran.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/40px-Flag_of_Iran.svg.png
+    width: 630
+    height: 360
+    caption: Flag of Iran
+wikidata:
+  id: Q230025
+  label: Pasargadae
+  description: ancient city and archaeological site in Fars Province, Iranian
+    national heritage site
+  claims:
+    commons-category: Pasargadae
+    country: Iran
+    coordinate-location:
+      lat: 30.2
+      lon: 53.179444444444
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Pasargadae%2C_Marv_Dasht%2C_near_Shiraz_-_4-8-2013.jpg
+    located-in-the-administrative-territorial-entity: Pasargad County
+    instance-of:
+      - ancient city
+      - archaeological site
+      - cultural property
+    page-banner: https://commons.wikimedia.org/wiki/Special:FilePath/WV_banner_Pasargad.jpg
+    heritage-designation:
+      - value: World Heritage Site
+        from: "2004"
+      - value: Iranian National Heritage
+        from: 1931-09-16
+    world-heritage-criteria:
+      - (i)
+      - (ii)
+      - (iii)
+      - (iv)
+    capital-of: Achaemenid Empire
+    area:
+      - 159.65 hectare
+      - 7126.9702 hectare
+    native-label: Πασαργάδες
+    directions: مرودشت، پاسارگاد، مشهد مرغاب
+    topic-s-main-category: Category:Pasargadae
+    category-of-associated-people: Category:People of Pasargadae
+    described-by-source: Encyclopædia Britannica 11th edition
+    category-for-maps-or-plans: Category:Maps of Pasargadae
+categories:
+  - Achaemenid cities
+  - Archaeological sites in Iran
+  - Archaeology of the Achaemenid Empire
+  - Architecture in Iran
+  - Buildings and structures completed in the 6th century BC
+  - Buildings and structures in Fars province
+  - Buildings and structures on the Iran National Heritage List
+  - Collection of the Smithsonian Institution
+  - Cyrus the Great
+  - Former populated places in Iran
+  - Persian gardens in Iran
+  - Populated places established in the 6th century BC
+  - Tourist attractions in Fars province
+  - World Heritage Sites in Iran
+langlinks:
+  ar: باسارغاد
+  az: Pasarqad
+  azb: پاسارقاد
+  be: Пасаргады
+  bg: Пасаргада
+  bn: পসারগাদে
+  bs: Pasargad
+  ca: Pasàrgades (ciutat)
+  ceb: Pasargadae
+  cs: Pasargady
+  de: Pasargadae
+  diq: Pasargad
+  el: Πασαργάδες
+  eo: Pasargado
+  es: Pasargada
+  eu: Pasargada
+  fa: پاسارگاد
+  fi: Pasargadai
+  fr: Pasargades
+  gl: Pasárgada
+  he: פסארגאדה
+  hi: पसारगडे
+  hr: Pasargada
+  hu: Paszargadai
+  hy: Պասարգադ
+  id: Pasargadae
+  it: Pasargade
+  ja: パサルガダエ
+  ka: ფასარგადი
+  ko: 파사르가다에
+  la: Pasargadae
+  lt: Pasargadai
+  lv: Pasargade
+  mai: पसारगडे
+  mn: Пасаргада
+  ms: Pasargadae
+  mt: Pasargadae
+  mzn: پاسارگاد
+  ne: पसारगडे
+  nl: Pasargadae
+  nb: Pasargadae
+  pl: Pasargady
+  pnb: پاسارگاد
+  pt: Pasárgada
+  ru: Пасаргады
+  sd: پاسارگاد
+  sh: Pasargad
+  simple: Pasargadae
+  sk: Pasargadai
+  sl: Pasargad
+  sr: Пасаргад
+  sv: Pasargad
+  sw: Pasargadi
+  tg: Посоргод
+  tr: Pasargad
+  tt: Пасаргад
+  uk: Пасаргади
+  ur: پاسارگاد
+  uz: Pasargada
+  vi: Pasargadae
+  wuu: 帕萨尔加德
+  xmf: ფასარგადი
+  zh: 帕薩爾加德
+link-titles:
+  achaemenid: Achaemenid
+  achaemenid-empire: Achaemenid Empire
+  achaemenid-art: Achaemenid art
+  acropolis: Acropolis
+  akkadian-language: Akkadian language
+  alexander-the-great: Alexander the Great
+  alyattes-of-lydia: Alyattes of Lydia
+  ancient-egypt: Ancient Egypt
+  arrian: Arrian
+  assyria: Assyria
+  astyages: Astyages
+  babylon: Babylon
+  brazil: Brazil
+  british-museum: British Museum
+  cambyses-i: Cambyses I
+  cambyses-ii: Cambyses II
+  cella: Cella
+  charbagh: Charbagh
+  croesus: Croesus
+  cyrus-the-great: Cyrus the Great
+  darius-the-great: Darius the Great
+  david-stronach: David Stronach
+  dovetail: Dovetail
+  elam: Elam
+  elamite-language: Elamite language
+  ernst-herzfeld: Ernst Herzfeld
+  eugène-flandin: Eugène Flandin
+  fars-province: Fars province
+  freer-gallery-of-art: Freer Gallery of Art
+  friedrich-krefteractioneditredlink1: Friedrich Krefter?action=edit&redlink=1
+  gate-of-all-nations: Gate of All Nations
+  herodotus: Herodotus
+  ionia: Ionia
+  iran: Iran
+  madar-e-soleyman: Madar-e-Soleyman
+  maison-de-lorient-et-de-la-méditerranée: Maison de l'Orient et de la Méditerranée
+  manuel-bandeira: Manuel Bandeira
+  mausoleum: Mausoleum
+  medes: Medes
+  ministry-of-cultural-heritage-tourism-and-handicrafts: Ministry of Cultural Heritage, Tourism and Handicrafts
+  national-museum-of-iran: National Museum of Iran
+  old-persian: Old Persian
+  pahlavi-iran: Pahlavi Iran
+  pasargad: Pasargad
+  pasargadae-treasureactioneditredlink1: Pasargadae Treasure?action=edit&redlink=1
+  persepolis: Persepolis
+  persian-gardens: Persian Gardens
+  persian-language: Persian language
+  portuguese-language: Portuguese language
+  propylaeum: Propylaeum
+  romanization-of-persian: Romanization of Persian
+  rosette-design: Rosette (design)
+  shiraz: Shiraz
+  sir-aurel-stein: Sir Aurel Stein
+  sivand: Sivand
+  sivand-dam: Sivand Dam
+  staple-fastener: Staple (fastener)
+  strabo: Strabo
+  tomb-of-cyrus: Tomb of Cyrus
+  university-of-lyon: University of Lyon
+  urartu: Urartu
+  utopia: Utopia
+  winged-genius-relief-pasargadae: Winged genius relief (Pasargadae)
+  world-heritage-site: World Heritage Site
+  ziggurat: Ziggurat
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 2
+    id: tomb-of-cyrus-the-great
+    title: Tomb of Cyrus the Great
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 2
+    id: sivand-dam-controversy
+    title: Sivand Dam controversy
+  - level: 2
+    id: in-popular-culture
+    title: In popular culture
+  - level: 2
+    id: gallery
+    title: Gallery
+source:
+  site: Wikipedia
+  lang: en
+  title: Pasargadae
+  url: https://en.wikipedia.org/wiki/Pasargadae
+  page-id: 683252
+  revision: "1366901278"
+  modified: 2026-07-30T20:45:22Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Pasargadae"
+    (revision 1366901278), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+!!Pasargadae!!
+([[ /pəˈsɑːrɡədi/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]];
+from //Pāθra-gadā//, lit. 'protective club' or 'strong club';[[ ^1 ]] Persian:
+پاسارگاد, [[ romanized | romanization-of-persian ]]: //Pāsārgād//) was the
+capital of the [[ Achaemenid Empire ]] under [[ Cyrus the Great ]] (559–530
+BC), located just north of the town of [[ Madar-e-Soleyman ]] and about 90
+kilometres (56 mi) to the northeast of the city of [[ Shiraz ]]. It is one of
+Iran's [[ UNESCO World Heritage Sites | world-heritage-site ]].[[ ^2 ]] It is
+considered to be the location of the [[ Tomb of Cyrus ]], a tomb previously
+attributed to //Madar-e-Soleyman//, the "Mother of Solomon".
+
+== History
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pasargadae_CyrustheGreatTomb_22061.jpg/330px-Pasargadae_CyrustheGreatTomb_22061.jpg" height="225" width="300"
+
+  <figcaption>View of [[ Pasargad ]] from Toll-e Takht hill. The closest building to the tomb attributed to [[ Cambyses II ]] and the farthest building that can be seen in the center of the upper part of the image is the [[ Tomb of Cyrus ]] the Great. Between these two buildings, the ruins of Achaemenid palaces can be seen.
+
+Pasargadae was founded in the 6th century BCE as the first capital of the
+[[ Achaemenid Empire ]] by [[ Cyrus the Great ]], near the site of his victory
+over the [[ Median | medes ]] king [[ Astyages ]] in 550 BCE. The city is
+named after his own royal clan.[[ ^3 ]] It remained the [[ Achaemenid ]]
+capital until [[ Darius | darius-the-great ]] moved it to
+[[ Persepolis ]].[[ ^4 ]]
+
+The archaeological site covers 1.6 square kilometres (0.62 sq mi) and includes
+a structure commonly believed to be the [[ mausoleum ]] of Cyrus, the fortress
+of Toll-e Takht sitting on top of a nearby hill, and the remains of two royal
+palaces and gardens. Pasargadae Persian Gardens provide the earliest known
+example of the Persian //[[ chahar bagh | charbagh ]]//, or fourfold garden
+design (see [[ Persian Gardens ]]).
+
+The remains of the [[ tomb of Cyrus ]]' son and successor [[ Cambyses II ]]
+have been found in Pasargadae, near the fortress of Toll-e Takht, and
+identified in 2006.[[ ^5 ]]
+
+The Gate R, located at the eastern edge of the palace area, is the oldest
+known freestanding [[ propylaeum ]]. It may have been the architectural
+predecessor of the [[ Gate of All Nations ]] at [[ Persepolis ]].[[ ^6 ]]
+
+== Tomb of Cyrus the Great
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/I_am_Cyrus%2C_Achaemenid_King_-_Pasargadae.JPG/250px-I_am_Cyrus%2C_Achaemenid_King_-_Pasargadae.JPG" height="135" width="250"
+
+  <figcaption>"I am [[ Cyrus | cyrus-the-great ]] the king, an [[ Achaemenid ]]." in [[ Old Persian ]], [[ Elamite | elamite-language ]] and [[ Akkadian | akkadian-language ]] languages. It is carved in a column in Pasargadae
+
+The most important monument in Pasargadae is the tomb of Cyrus the Great. It
+has six broad steps leading to the sepulchre, the chamber of which measures
+3.17 metres (10.4 ft) long by 2.11 metres (6 ft 11 in) wide by 2.11 metres
+(6 ft 11 in) high and has a low and narrow entrance. Though there is no firm
+evidence identifying the tomb as that of Cyrus, Greek historians say that
+[[ Alexander | alexander-the-great ]] believed it was. When Alexander looted
+and destroyed Persepolis, he paid a visit to the tomb of Cyrus. [[ Arrian ]]
+recorded in the second century CE that Alexander commanded Aristobulus, one of
+his warriors, to enter the monument. Inside he found a golden bed, a table set
+with drinking vessels, a gold coffin, some ornaments studded with precious
+stones and an inscription on the tomb. No trace of any such inscription
+survives, and there is considerable disagreement about the exact wording of
+the text. According to [[ Strabo ]] and Arrian report it said:[[ ^7 ]]
+
+<blockquote
+  Passer-by, I am Cyrus, who gave the Persians an empire, and was king of
+  Asia.
+Grudge me not therefore this monument.
+
+The design of Cyrus' tomb is credited to Mesopotamian or Elamite
+[[ ziggurats | ziggurat ]], but the [[ cella ]] is usually attributed to
+[[ Urartu ]] tombs of an earlier period.[[ ^8 ]] In particular, the tomb at
+Pasargadae has almost exactly the same dimensions as the tomb of
+[[ Alyattes | alyattes-of-lydia ]], father of the Lydian King [[ Croesus ]];
+however, some have refused the claim (according to [[ Herodotus ]], Croesus
+was spared by Cyrus during the conquest of Lydia, and became a member of
+Cyrus' court). The main decoration on the tomb is a
+[[ rosette | rosette-design ]] design over the door within the gable.[[ ^9 ]]
+In general, the art and architecture found at Pasargadae exemplified the
+Persian synthesis of various traditions, drawing on precedents from
+[[ Elam ]], [[ Babylon ]], [[ Assyria ]], and [[ ancient Egypt ]], with the
+addition of some Anatolian influences.
+
+== Archaeology
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pasargadae_Swallow-Tail_Staples.jpg/250px-Pasargadae_Swallow-Tail_Staples.jpg" height="168" width="250"
+
+  <figcaption>[[ Dovetail ]] [[ staples | staple-fastener ]] from Pasargadae
+
+The first capital of the [[ Achaemenid Empire ]], Pasargadae lies in ruins
+40 kilometers from [[ Persepolis ]], in present-day [[ Fars province ]] of
+[[ Iran ]].[[ ^10 ]] Gardens were of great significance in Persian culture,
+and the palace complex was constituted by an extensive pattern of gardens
+stretching from the Tomb of Cyrus to a fortress known as the Tall-i Takht,
+about three kilometres away, and containing various palaces and other
+buildings. The architecture showed elements of Elamite and Egyptian or
+Phoenician decoration as well as [[ Ionian | ionia ]] Greek building
+techniques, suggesting a desire by Cyrus to reflect his imperial rather than
+simply national kingship.[[ ^11 ]]
+
+Pasargadae was first archaeologically explored by the German archaeologist
+[[ Ernst Herzfeld ]] in 1905, and in one excavation season in 1928, together
+with his assistant Friedrich Krefter.[[ ^12 ]] Since 1946, the original
+documents, notebooks, photographs, fragments of wall paintings and pottery
+from the early excavations are preserved in the [[ Freer Gallery of Art ]],
+Smithsonian Institution, in Washington, DC. After Herzfeld,
+[[ Sir Aurel Stein ]] completed a site plan for Pasargadae in 1934.[[ ^13 ]]
+In 1935, Erich F. Schmidt produced a series of aerial photographs of the
+entire complex.[[ ^14 ]]
+
+From 1949 to 1955, an Iranian team led by Ali Sami worked there.[[ ^15 ]] A
+British Institute of Persian Studies team led by [[ David Stronach ]] resumed
+excavation from 1961 to 1963.[[ ^16 ]][[ ^17 ]][[ ^18 ]] It was during the
+1960s that a pot-hoard known as the Pasargadae Treasure was excavated near the
+foundations of 'Pavilion B' at the site. Dating to the 5th-4th centuries BC,
+the treasure consists of ornate [[ Achaemenid | achaemenid-art ]] jewellery
+made from gold and precious gems and is now housed in the
+[[ National Museum of Iran ]] and the [[ British Museum ]].[[ ^19 ]] It has
+been suggested that the treasure was buried as a subsequent action once
+[[ Alexander the Great ]] approached with his army, then remained buried,
+hinting at violence.[[ ^20 ]]
+
+After a gap, work was resumed by the Iranian Cultural Heritage Organization
+and the [[ Maison de l'Orient et de la Méditerranée ]] of the
+[[ University of Lyon ]] in 2000.[[ ^21 ]][[ ^22 ]] This project focused on
+conducting geomagnetic survey's of the site, and continued until 2008. A joint
+Italian-Iranian team excavated at the site in 2006-2007. Likewise a French and
+Iranian team undertook several seasons of excavations between 20015 and
+2019.[[ ^23 ]] The complex is one of the key cultural heritage sites for
+tourism in Iran.[[ ^24 ]]
+
+== Sivand Dam controversy
+
+There has been growing concern regarding the proposed [[ Sivand Dam ]], named
+after the nearby town of [[ Sivand ]]. Despite planning that has stretched
+over 10 years, Iran's own
+[[ Ministry of Cultural Heritage, Tourism and Handicrafts ]] was not aware of
+the broader areas of flooding during much of this time.
+
+Its placement between both the ruins of Pasargadae and Persepolis has many
+archaeologists and Iranians worried that the dam will flood these UNESCO World
+Heritage sites, although scientists involved with the construction say this is
+not obvious because the sites sit above the planned waterline. Of the two
+sites, Pasargadae is the one considered to be more threatened. Experts agree
+that the planning of future dam projects in Iran will merit an earlier
+examination of the risks to cultural resource properties.[[ ^25 ]]
+
+Of broadly shared concern to archaeologists is the effect of the increase in
+humidity caused by the lake.[[ ^26 ]] All agree that the humidity created by
+it will speed up the destruction of Pasargadae, yet experts from the Ministry
+of Energy believe it could be partially compensated for by controlling the
+water level of the reservoir.
+
+Construction of the dam began on 19 April 2007, with the height of the
+waterline limited so as to mitigate damage to the ruins.[[ ^27 ]]
+
+== In popular culture
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Passargade_by_Eug%C3%A8ne_Flandin.jpg/250px-Passargade_by_Eug%C3%A8ne_Flandin.jpg" height="165" width="250"
+
+  <figcaption>The tomb of Cyrus the Great by [[ Eugène Flandin ]], 1840
+
+In 1930, the [[ Brazilian | brazil ]] poet [[ Manuel Bandeira ]] published a
+poem called "Vou-me embora pra Pasárgada" ("I'm off to Pasargadae" in
+[[ Portuguese | portuguese-language ]]), in a book entitled
+//Libertinagem//.[[ ^28 ]] It tells the story of a man who wants to go to
+Pasargadae, described in the poem as a [[ utopian | utopia ]] city, having the
+children learned in the school about this "utopic city created by Manuel
+Bandeira". Manuel Bandeira heard the name Pasargadae for the first time when
+he was 16 years old, reading a book by a Greek author. The name of the field
+of the Persians reminded him of good things, of a place of tranquillity and
+beauties. Years later, in his apartment, during a moment of sadness and
+anxiety, he had the idea of "vou-me embora pra Pasárgada" (I'm off to
+Pasargadae) and then created the poem, which surrounds the great part of the
+Brazilian population's imagination to this day.[[ ^29 ]]
+
+== Gallery
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cyrus_tomb.jpg/120px-Cyrus_tomb.jpg" alt="Tomb of Cyrus the Great" height="77" width="120"
+
+    Tomb of [[ Cyrus the Great ]]
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cambyses_I_-_April_2013_-_2.jpg/120px-Cambyses_I_-_April_2013_-_2.jpg" alt="Tomb of Cambyses I" height="120" width="90"
+
+    Tomb of [[ Cambyses I ]]
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pasargadae_3.jpg/120px-Pasargadae_3.jpg" alt="The Private Palace" height="90" width="120"
+
+    The Private Palace
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Audience_Palace%2C_Pasargadae_03.jpg/120px-Audience_Palace%2C_Pasargadae_03.jpg" alt="The Audience Palace" height="80" width="120"
+
+    The Audience Palace
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gateway_Palace%2C_Pasargades_01.jpg/120px-Gateway_Palace%2C_Pasargades_01.jpg" alt="The Gateway Palace" height="80" width="120"
+
+    The Gateway Palace
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pasargad_citadel.jpg/120px-Pasargad_citadel.jpg" alt="The citadel of Pasargadae. At its top many column bases indicate the structure was not unlike the Athenian Acropolis in positioning and structure." height="71" width="120"
+
+    The citadel of Pasargadae. At its top many column bases indicate the structure
+    was not unlike the Athenian [[ Acropolis ]] in positioning and structure.
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pasargad_audience_hall.jpg/120px-Pasargad_audience_hall.jpg" alt="Pasargad audience hall" height="63" width="120"
+
+    Pasargad audience hall
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%D9%85%D8%AD%D9%88%D8%B7%D9%87_%D9%85%D9%82%D8%AF%D8%B3_%281%29.jpg/120px-%D9%85%D8%AD%D9%88%D8%B7%D9%87_%D9%85%D9%82%D8%AF%D8%B3_%281%29.jpg" alt="Holy area (Pasargad)" height="90" width="120"
+
+    Holy area (Pasargad)
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pasargad_-_Toll-e_Takht_-_panoramio.jpg/120px-Pasargad_-_Toll-e_Takht_-_panoramio.jpg" alt="Toll-e Takht hill (Pasargad)" height="79" width="120"
+
+    Toll-e Takht hill (Pasargad)
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pasargad_-_Toll-e_Takht_-_panoramio_%281%29.jpg/120px-Pasargad_-_Toll-e_Takht_-_panoramio_%281%29.jpg" alt="Toll-e Takht hill (Pasargad)" height="79" width="120"
+
+    Toll-e Takht hill (Pasargad)
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%DA%A9%D8%A7%D8%AE_%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87_%282%29.jpg/120px-%DA%A9%D8%A7%D8%AE_%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87_%282%29.jpg" alt="The gate of the palace with the view of the winged man" height="120" width="80"
+
+    The gate of the palace with the view of the
+    [[ winged man | winged-genius-relief-pasargadae ]]
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Banknote_of_shah_-_50_rials_%28rear%29.jpg/120px-Banknote_of_shah_-_50_rials_%28rear%29.jpg" alt="The back of the 50 riyal banknote of the Pahlavi era" height="61" width="120"
+
+    The back of the 50 riyal banknote of the [[ Pahlavi era | pahlavi-iran ]]
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Harold_f_Weston_-_Iran32.jpg/120px-Harold_f_Weston_-_Iran32.jpg" alt="Pasargadae in the 1920s" height="120" width="72"
+
+    Pasargadae in the 1920s
+
+[[ ^1 ]]: Gershevitch, Ilya, "Iranian Nouns and Names in Elamite Garb", Transactions of the Philological Society 68 (1), pp. 167–200, 1969 (1970)
+
+[[ ^2 ]]: [[ //Ancient Pasargadae threatened by construction of dam// | https://web.archive.org/web/20070311201606/http://www.mehrnews.com/en/NewsDetail.aspx?NewsID=107603 ]], Mehr News Agency, 28 August 2004, archived from [[ the original | http://www.mehrnews.com/en/NewsDetail.aspx?NewsID=107603 ]] on 11 March 2007, retrieved 15 September 2006.
+
+[[ ^3 ]]: Daryaee, Touraj (2014). //The Oxford Handbook of Iranian History//. Oxford University Press. p. 125. ISBN [[ 978-0199390427 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0199390427 ]].
+
+[[ ^4 ]]: [[ "Pasargadae" | https://www.britannica.com/place/Pasargadae-ancient-city-Iran ]]. //[[ Encyclopædia Britannica ]]//. Retrieved 30 December 2019.
+
+[[ ^5 ]]: [[ //Discovered Stone Slab Proved to be Gate of Cambyses' Tomb// | https://web.archive.org/web/20091129074711/http://www.chnpress.com/news/?section=2&id=6865 ]], CHN, archived from [[ the original | http://www.chnpress.com/news/?section=2&id=6865 ]] on 2009-11-29.
+
+[[ ^6 ]]: electricpulp.com. [[ "PASARGADAE – Encyclopaedia Iranica" | http://www.iranicaonline.org/articles/pasargadae ]]. //iranicaonline.org//. Retrieved 4 April 2018.
+
+[[ ^7 ]]: Arrian, //Anabasis// 6.29.8; de Sélincourt, Aubrey. [[ "Arrian on the tomb of Cyrus – Livius" | https://www.livius.org/sources/content/arrian/anabasis/alexander-and-the-tomb-of-cyrus/ ]]. //livius.org//. Retrieved 20 January 2021.
+
+[[ ^8 ]]: Hogan, C Michael (Jan 19, 2008), [[ "Tomb of Cyrus" | http://www.megalithic.co.uk/article.php?sid=18264 ]], //The Megalithic Portal//, Surrey, UK: Andy Burnham.
+
+[[ ^9 ]]: Ferrier, Ronald W (1989), //The Arts of Persia//, Yale University Press, ISBN [[ 978-0-300-03987-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-300-03987-0 ]].
+
+[[ ^10 ]]: Lendering, Jona, [[ //Pasargadae// | https://web.archive.org/web/20160303180708/http://www.livius.org/pan-paz/pasargadae/pasargadae.html ]], Livius, archived from [[ the original | https://www.livius.org/pan-paz/pasargadae/pasargadae.html ]] on 2016-03-03, retrieved 2020-03-26.
+
+[[ ^11 ]]: Lynette Mitchell, //A Persian King and his Garden//, in //Omnibus// no 86 (2023), The Classical Association, Rickmansworth
+
+[[ ^12 ]]: Herzfeld, E (1929), //Bericht über die Ausgrabungen von Pasargadae 1928// (in German), vol. 1, Archäologische Mitteilungen aus Iran, pp. 4–16,
+
+[[ ^13 ]]: Stein, A (1936), //An Archaeological Tour in Ancient Persis, Iraq//, vol. 3, pp. 217–20.
+
+[[ ^14 ]]: Schmidt, Erich F (1940), [[ //Flights Over Ancient Cities of Iran// | https://web.archive.org/web/20121009174451/https://oi.uchicago.edu/pdf/flights_over_iran.pdf ]] (PDF), [[ University of Chicago Oriental Institute ]], University of Chicago Press, ISBN [[ 978-0-918986-96-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-918986-96-2 ]], archived from [[ the original | https://oi.uchicago.edu/pdf/flights_over_iran.pdf ]] (PDF) on 2012-10-09, retrieved 2011-06-22 ``\{{citation}}``: ISBN / Date incompatibility ([[ help | https://en.wikipedia.org/wiki/Help%3ACS1_errors#invalid isbn date ]]).
+
+[[ ^15 ]]: Ali-Sami (1971) [March 1956], //Pasargadae. The Oldest Imperial. Capital of Iran//, vol. 4, Rev. RN Sharp transl (2nd ed.), Shiraz: Learned Society of Pars; Musavi Print. Office.
+
+[[ ^16 ]]: Stronach, David (1963), "First Preliminary Report", //Excavations at Pasargadae, Iran//, vol. 1, pp. 19–42.
+
+[[ ^17 ]]: ———————— (1964), "Second Preliminary Report", //Excavations at Pasargadae, Iran//, vol. 2, pp. 21–39.
+
+[[ ^18 ]]: ———————— (1965), "Third Preliminary Report", //Excavations at Pasargadae, Iran//, vol. 3, pp. 9–40.
+
+[[ ^19 ]]: [[ "Collection search: You searched for Pasargadae Pavilion B Hoard" | https://www.britishmuseum.org/collection/term/x22914 ]]. //British Museum//. Retrieved 4 April 2018.
+
+[[ ^20 ]]: [[ "Pasargadae, Paradise" | https://www.livius.org/articles/place/pasargadae/pasargadae-photos/pasargadae-paradise ]]. //Livius//.
+
+[[ ^21 ]]: Boucharlat, Rémy (2002), //Pasargadae, Iran//, vol. 40, pp. 279–82.
+
+[[ ^22 ]]: [[ http://scj.sbu.ac.ir/index.php/IJIHS/article/download/24077/7306 | http://scj.sbu.ac.ir/index.php/IJIHS/article/download/24077/7306 ]] Sébastien Gondet et al, Field Report on the 2015 Current Archaeological Works of the Joint Iran-French Project on Pasargadae and its Territory, International Journal of Iranian Heritage Studies, vol. 1, no. 1, pp. 60-87, 2018
+
+[[ ^23 ]]: [[ "Pasargadae – Iran Gazetteer" | https://irangazetteer.ucla.edu/catalogue/pasargadae/ ]]. Retrieved 2026-07-30.
+
+[[ ^24 ]]: Butler, Richard; O'Gorman, Kevin D.; Prentice, Richard (2012-07-01). "Destination Appraisal for European Cultural Tourism to Iran". //International Journal of Tourism Research//. !!14!! (4): 323–338. doi:[[ 10.1002/jtr.862 | https://doi.org/10.1002%2Fjtr.862 ]]. ISSN [[ 1522-1970 | https://search.worldcat.org/issn/1522-1970 ]].
+
+[[ ^25 ]]: [[ //Sivand Dam Waits for Excavations to be Finished// | https://web.archive.org/web/20070311124253/http://www.chnpress.com/news/?Section=2&id=6206 ]], Cultural Heritage News Agency, 26 February 2006, archived from [[ the original | http://www.chnpress.com/news/?Section=2&id=6206 ]] on 11 March 2007, retrieved Sep 15, 2006.
+
+[[ ^26 ]]: [[ //Date of Sivand Dam Inundation Not Yet Agreed Upon// | https://web.archive.org/web/20070312115535/http://www.chnpress.com/news/?section=2&id=6409 ]], [[ Cultural Heritage News Agency ]], 29 May 2006, archived from [[ the original | http://www.chnpress.com/news/?section=2&id=6409 ]] on 12 March 2007, retrieved Sep 15, 2006.
+
+[[ ^27 ]]: [[ "Lamentable Loss" | http://worldculturalheritagevoices.org/lamentable-loss/ ]]. 22 June 2015.
+
+[[ ^28 ]]: Bandeira, Manuel (2009). "Libertinagem" [Salacity]. In Seffrin, André (organizer) (ed.). //Manuel Bandeira: poesia completa e prosa, volume único// [//Manuel Bandeira: complete poetry and prose, unique volume//] (in Portuguese). Rio de Janeiro [(City) "River of January"], RJ [(State) "River of January"], Brasil [Brazil]: Editora Nova Aguilar [New Aguilar Press]. pp. XXIII, 118–119.
+
+[[ ^29 ]]: [[ "We came back from Pasargadae – Monday Feelings" | https://www.mondayfeelings.com/we-came-back-from-pasargadae/ ]]. 2015-10-04. Retrieved 2020-01-21.

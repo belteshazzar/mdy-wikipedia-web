@@ -721,11 +721,11 @@ figcaption .credit a:hover { color: var(--blue); }
 
 /* ---------------------------------------------------------------- the plot */
 
-.plot-wrap { padding: 1rem clamp(1rem, 4vw, 3rem) 0; max-width: 62rem; margin: 0 auto; }
+.plot-wrap { padding: 1rem clamp(1rem, 4vw, 3rem) 0; max-width: 78rem; margin: 0 auto; }
 
 .plot {
   position: relative;
-  aspect-ratio: 3 / 2;
+  aspect-ratio: 16 / 9;
   border: 1px solid var(--rule);
   border-radius: 3px;
   background:
@@ -735,28 +735,47 @@ figcaption .credit a:hover { color: var(--blue); }
 }
 
 .pin { position: absolute; transform: translate(-50%, -50%); border: 0; text-align: center; }
-.pin-dot { display: block; width: 9px; height: 9px; border-radius: 50%; background: var(--ochre); margin: 0 auto; }
+.pin-dot {
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--ochre);
+  margin: 0 auto;
+  transition: transform 0.1s ease, background 0.1s ease;
+}
 
-/* Babylon and its Hanging Gardens have the same coordinates, so labels here
-   will overlap however they are placed. A chip behind each one keeps both
-   readable, and hovering lifts the one you want to the front. */
+/* Fifty-odd places, and the real ones cluster: Babylon, Kish, Borsippa and
+   Nippur sit within fifty kilometres of each other, and Babylon shares its
+   coordinates exactly with its Hanging Gardens. Labelling them all at once
+   piled Mesopotamia into an unreadable heap. So the dots carry the geography —
+   which reads on its own, the Nile and the Levantine coast draw themselves —
+   and the name appears for whichever is under the cursor. The table below the
+   plot has every one of them, in order. */
 .pin-label {
   display: block;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
   font-family: Archivo, Arial, sans-serif;
-  font-size: 0.66rem;
+  font-size: 0.68rem;
   letter-spacing: 0.06em;
-  color: var(--muted);
-  margin-top: 0.3rem;
+  color: var(--ink);
+  margin-top: 0.35rem;
   white-space: nowrap;
-  background: var(--ground);
-  padding: 0.1rem 0.3rem;
+  background: var(--raised);
+  border: 1px solid var(--rule);
+  padding: 0.15rem 0.4rem;
   border-radius: 2px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.1s ease;
 }
 
 .pin { z-index: 1; }
-.pin:hover { z-index: 3; }
-.pin:hover .pin-dot { background: var(--blue); }
-.pin:hover .pin-label { color: var(--ink); background: var(--raised); }
+.pin:hover, .pin:focus-visible { z-index: 3; }
+.pin:hover .pin-dot, .pin:focus-visible .pin-dot { transform: scale(1.7); background: var(--blue); }
+.pin:hover .pin-label, .pin:focus-visible .pin-label { opacity: 1; }
 
 /* Room for a label under a pin sitting on the bottom edge. */
 .plot { margin-bottom: 1.5rem; }
@@ -837,3 +856,40 @@ figcaption .credit a:hover { color: var(--blue); }
 }
 
 @media (prefers-reduced-motion: reduce) { #search-input { transition: none; } }
+
+
+/* ------------------------------------------------------- cities and the ring
+ * The index is two bands, and the second is deliberately quieter: the ring is
+ * not what the site is about, it is what the site needs in order to be about
+ * anything. */
+
+.band-head {
+  padding: 3rem clamp(1rem, 4vw, 3rem) 1.2rem;
+  max-width: 62rem;
+}
+
+.band-head h2 {
+  font-family: Spectral, Georgia, serif;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  margin: 0;
+  border-top: 1px solid var(--rule);
+  padding-top: 1.2rem;
+}
+
+.band-note {
+  color: var(--muted);
+  font-size: 0.98rem;
+  line-height: 1.55;
+  max-width: 40rem;
+  margin: 0.7rem 0 0;
+}
+
+.index-map { margin-top: 1.2rem; font-size: 1rem; }
+
+/* The ring is browsable but not the front door: smaller cards, no era line. */
+.browse.ring { grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); gap: 1.6rem 1.2rem; }
+.browse.ring h2 { font-size: 1.05rem; }
+.browse.ring p { font-size: 0.86rem; }
+.browse.ring img, .browse.ring .noimage { aspect-ratio: 3 / 2; }

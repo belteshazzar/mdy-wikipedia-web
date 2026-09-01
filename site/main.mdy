@@ -1,6 +1,8 @@
 +++
 title: The Ancient World
-description: A fork of Wikipedia about antiquity — the same scholarship, laid out to be read.
+description: >-
+  Fifty cities of the ancient Near East — where they stood, who held them, and
+  what is left. A fork of Wikipedia, laid out to be read.
 baseURL: https://example.invalid
 +++
 % // One entry document decides everything: which files are articles, what URL
@@ -16,6 +18,15 @@ baseURL: https://example.invalid
 % // The rights manifest is a .yaml file in the site directory, so its fields
 % // are merged into `meta` and it is queryable like any document. Joining on
 % // it here is what puts a credit under every photograph.
+% // The corpus is two rings and only this file says which is which: cities are
+% // the entry point, and everything else is here because a city needed it
+% // explained. A deity and a city are both just documents otherwise.
+% const options = $.findOne({ path: "build.yaml" }) || {}
+%
+% const cityList = $.findOne({ path: "cities.yaml" })
+% const isCity = {}
+% for (const slug of (cityList && cityList.cities) || []) isCity[slug] = true
+%
 % const manifest = $.findOne({ path: "corpus/images.yaml" })
 % const rights = (manifest && manifest.images) || {}
 %
@@ -271,6 +282,7 @@ baseURL: https://example.invalid
 %     eyebrow: eyebrowParts.join(" · "), sections: doc.sections || [],
 %     hero: planned || hero, facts: facts, held: held, plan: plan,
 %     isPlace: isPlace, kind: kind, source: doc.source || {},
+%     core: Boolean(isCity[slug]),
 %     coordinates: doc.coordinates,
 %     titles: doc["link-titles"] || {},
 %     figures: byPrefix,
@@ -306,8 +318,10 @@ baseURL: https://example.invalid
 %       : undefined
 %   })
 %
-%   // The two side by side, which is how the question gets answered.
-%   if (page.edited) {
+%   // The two side by side, which is how the question gets answered — when
+%   // anybody is asking. Off by default because each one renders both
+%   // documents, and that is half the build.
+%   if (page.edited && options.compare) {
 %     const compare = $.render({ path: "layouts/compare.mdy" }, {
 %       title: page.title, url: page.url,
 %       before: $.render({ path: page.originalPath }),
@@ -582,18 +596,22 @@ baseURL: https://example.invalid
 %
 % $.emit("search-index.json", JSON.stringify(searchIndex))
 %
-% const listed = []
+% const cities = []
+% const ring = []
 % let credited = 0
 % for (const key of Object.keys(rights)) credited = credited + 1
 % for (const page of pages) {
-%   listed.push({
+%   const card = {
 %     url: page.url, title: page.title, description: page.description,
 %     image: page.hero ? page.hero.src : undefined, meta: page.eyebrow
-%   })
+%   }
+%   if (page.core) cities.push(card)
+%   else ring.push(card)
 % }
 %
 % const index = $.render({ path: "layouts/index.mdy" }, {
-%   site: site, articles: listed, count: pages.length, images: credited
+%   site: site, cities: cities, ring: ring, count: pages.length,
+%   images: credited, located: plotted.length
 % })
 
 % $.emit("index.html", style.render({ path: "layouts/base.mdy" }, {

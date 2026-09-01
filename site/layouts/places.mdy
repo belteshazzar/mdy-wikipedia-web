@@ -3,7 +3,7 @@
 < section class="index-head"
   <p class="eyebrow">{{ req.count }} places the corpus can locate
   <h1>Places
-  <p>Every article whose subject has coordinates, plotted against each other. There is no coastline behind them: this shows relative position and nothing more. Degrees {{ req.west }} to {{ req.east }} east, {{ req.south }} to {{ req.north }} north.
+  <p>Every article whose subject has coordinates, plotted against each other. There is no coastline behind them — but at this many places the coastline draws itself: the Nile runs south from Alexandria to Thebes, the Levantine ports run up to Anatolia, and Mesopotamia is the cluster on the right. Hover a dot for its name, or read the table below. Degrees {{ req.west }} to {{ req.east }} east, {{ req.south }} to {{ req.north }} north.
 
 < div class="plot-wrap"
   < div class="plot"

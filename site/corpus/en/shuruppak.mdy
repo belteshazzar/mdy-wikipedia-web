@@ -1,0 +1,627 @@
++++
+title: Shuruppak
+description: Ancient Sumerian city
+coordinates:
+  lat: 31.77736389
+  lon: 45.50976111
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/250px-Iraq_physical_map.svg.png
+  type: archaeological site, human settlement
+  periods: Jemdet Nasr period, Early Dynastic period, Akkad period, Ur III period
+  location: Al-Qādisiyyah Governorate, Iraq
+  region: Sumer
+  site-notes:
+    height: 9 metre
+    area: 120 hectare
+    excavation-dates: 1900, 1902-1903, 1931, 1973, 2016-2018, 2022, 2024
+    archaeologists: Robert Koldewey, Friedrich Delitzsch, Erich Schmidt, Harriet P.
+      Martin, Adelheid Otto, and Berthold Einwag
+images:
+  - file: Sumerian_account_of_silver_for_the_govenor_(background_removed).png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png/250px-Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png
+    width: 700
+    height: 694
+    caption: Summary account of silver for the governor written in Sumerian
+      Cuneiform on a clay tablet. From Shuruppak, Iraq, circa 2500 BC. British
+      Museum, London.
+  - file: List_of_titles_of_different_occupations,_clay_tablet_from_Shuruppak,_Southern_Mesopotamia,_Iraq,_on_display_in_the_Pergamon_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/List_of_titles_of_different_occupations%2C_clay_tablet_from_Shuruppak%2C_Southern_Mesopotamia%2C_Iraq%2C_on_display_in_the_Pergamon_Museum.jpg/250px-List_of_titles_of_different_occupations%2C_clay_tablet_from_Shuruppak%2C_Southern_Mesopotamia%2C_Iraq%2C_on_display_in_the_Pergamon_Museum.jpg
+    width: 3221
+    height: 2826
+    caption: List of titles of different occupations, clay tablet from Shuruppak,
+      Iraq. 2nd half of the 3rd millennium BCE. Vorderasiatisches Museum, Berlin
+  - file: Bill_of_sale_Louvre_AO3765.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bill_of_sale_Louvre_AO3765.jpg/250px-Bill_of_sale_Louvre_AO3765.jpg
+    width: 1650
+    height: 1600
+    caption: Bill of sale Louvre AO3765
+  - file: Pig-shaped_rattle_from_Shuruppak,_Iraq._Baked_clay._Early_Dynastic_period,_2500-2350_BCE._Pergamon_Museum,_Berlin,_Germany.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pig-shaped_rattle_from_Shuruppak%2C_Iraq._Baked_clay._Early_Dynastic_period%2C_2500-2350_BCE._Pergamon_Museum%2C_Berlin%2C_Germany.jpg/250px-Pig-shaped_rattle_from_Shuruppak%2C_Iraq._Baked_clay._Early_Dynastic_period%2C_2500-2350_BCE._Pergamon_Museum%2C_Berlin%2C_Germany.jpg
+    width: 2799
+    height: 2376
+    caption: Pig-shaped rattle from Shuruppak, Iraq. Baked clay. Early Dynastic
+      period, 2500-2350 BCE. Vorderasiatisches Museum, Berlin
+wikidata:
+  id: Q392725
+  label: Shuruppak
+  description: archaeological site in Iraq
+  claims:
+    commons-category: Shuruppak
+    country: Iraq
+    coordinate-location:
+      lat: 31.777363888889
+      lon: 45.509761111111
+    instance-of:
+      - archaeological site
+      - human settlement
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Bill_of_sale_Louvre_AO3765.jpg
+    topic-s-main-category: Category:Shuruppak
+    location: Sumer
+    area: 120 hectare
+    height: 9 metre
+    located-in-the-administrative-territorial-entity: Al-Qādisiyyah Governorate
+    time-period:
+      - Jemdet Nasr period
+      - Early Dynastic period
+      - Akkad period
+      - Ur III period
+    significant-event:
+      - value: archaeological excavation
+        when: "1902"
+      - value: archaeological excavation
+        when: "1931"
+      - value: archaeological field survey
+        when: "1973"
+      - value: flood
+        from: 2800 BC
+        to: 2600 BC
+    director-of-archaeological-fieldwork:
+      - Robert Koldewey
+      - Friedrich Delitzsch
+      - Erich Schmidt
+      - Harriet P. Martin
+    culture: Sumerians
+categories:
+  - 1900 archaeological discoveries
+  - Archaeological sites in Iraq
+  - Former populated places in Iraq
+  - History of Al-Qādisiyyah Governorate
+  - Jemdet Nasr period
+  - Populated places disestablished in the 2nd millennium BC
+  - Populated places established in the 3rd millennium BC
+  - Shuruppak
+  - Sumerian cities
+langlinks:
+  ar: شوروباك
+  az: Şuruppak
+  be: Шурупак
+  ca: Xuruppak
+  cs: Šuruppak
+  cv: Шуруппак
+  de: Šuruppak
+  diq: Šuruppag
+  el: Σουρουπάκ
+  es: Shurupak
+  eu: Shuruppak
+  fa: شوروپاک
+  fi: Šuruppak
+  fr: Shuruppak
+  he: שורופק
+  hu: Suruppak
+  hy: Շուրուպպակ
+  it: Šuruppak
+  ja: シュルッパク
+  ka: შურუფაქი
+  ko: 슈루팍
+  lt: Šurupakas
+  nl: Shuruppak
+  nb: Shuruppak
+  oc: Shuruppak
+  pl: Szuruppak
+  pt: Churupaque
+  ro: Șuruppak
+  ru: Шуруппак
+  sh: Shuruppak
+  sk: Šuruppak
+  sl: Šurupak
+  sv: Shuruppak
+  ta: சுருப்பக்
+  tl: Shuruppak
+  tr: Šuruppag
+  uk: Шуруппак
+  uz: Shuruppak
+  zh: 舒鲁帕克
+link-titles:
+  accounting: Accounting
+  adab-city: Adab (city)
+  akkadian-empire: Akkadian Empire
+  akkadian-royal-titulary: Akkadian royal titulary
+  al-qādisiyyah-governorate: Al-Qādisiyyah Governorate
+  american-schools-of-oriental-research: American Schools of Oriental Research
+  anu: Anu
+  arsenical-copper: Arsenical copper
+  atra-hasis: Atra-Hasis
+  atrahasis: Atrahasis
+  avulsion-river: Avulsion (river)
+  british-museum: British Museum
+  clay-tablet: Clay tablet
+  cuneiform: Cuneiform
+  cylinder-seal: Cylinder seal
+  deutsche-orient-gesellschaft: Deutsche Orient-Gesellschaft
+  early-dynastic-i: Early Dynastic I
+  early-dynastic-period-mesopotamia: Early Dynastic Period (Mesopotamia)
+  edgar-james-banks: Edgar James Banks
+  elamite: Elamite
+  en-men-dur-ana: En-men-dur-ana
+  enlil-bani: Enlil-bani
+  epic-of-gilgamesh: Epic of Gilgamesh
+  erich-schmidt-archaeologist: Erich Schmidt (archaeologist)
+  euphrates: Euphrates
+  flood-story: Flood story
+  friedrich-delitzsch: Friedrich Delitzsch
+  hegemony: Hegemony
+  hermann-volrath-hilprecht: Hermann Volrath Hilprecht
+  instructions-of-shuruppak: Instructions of Shuruppak
+  iraq: Iraq
+  jemdet-nasr: Jemdet Nasr
+  jemdet-nasr-period: Jemdet Nasr period
+  ki-cuneiform: KI (cuneiform)
+  kish-sumer: Kish (Sumer)
+  lmu-munich: LMU Munich
+  lagash: Lagash
+  lugal: Lugal
+  methuselah: Methuselah
+  ninlil: Ninlil
+  nippur: Nippur
+  noah: Noah
+  pre-dynastic-period-of-sumer: Pre-dynastic period of Sumer
+  reign: Reign
+  robert-koldewey: Robert Koldewey
+  samuel-noah-kramer: Samuel Noah Kramer
+  shu-sin: Shu-Sin
+  shulgi: Shulgi
+  sippar: Sippar
+  sumer: Sumer
+  sumerian-king-list: Sumerian King List
+  sumerian-flood-myth: Sumerian flood myth
+  sumerian-language: Sumerian language
+  tell-el-farah-south: Tell el-Far'ah (South)
+  tepe-gawra: Tepe Gawra
+  third-dynasty-of-ur: Third Dynasty of Ur
+  throne: Throne
+  tigriseuphrates-river-system: Tigris–Euphrates river system
+  ubara-tutu: Ubara-Tutu
+  umma: Umma
+  university-of-pennsylvania: University of Pennsylvania
+  ur: Ur
+  uruk: Uruk
+  utnapishtim: Utnapishtim
+  walter-andrae: Walter Andrae
+  william-loftus-archaeologist: William Loftus (archaeologist)
+  ziusudra: Ziusudra
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: jemdet-nasr-period
+    title: Jemdet Nasr period
+  - level: 3
+    id: early-dynastic-ii
+    title: Early Dynastic II
+  - level: 3
+    id: early-dynastic-iii
+    title: Early Dynastic III
+  - level: 3
+    id: akkadian-period
+    title: Akkadian period
+  - level: 3
+    id: ur-iii-period
+    title: Ur III period
+  - level: 3
+    id: middle-bronze-i
+    title: Middle Bronze I
+  - level: 2
+    id: flood-myth
+    title: Flood Myth
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+source:
+  site: Wikipedia
+  lang: en
+  title: Shuruppak
+  url: https://en.wikipedia.org/wiki/Shuruppak
+  page-id: 1368568
+  revision: "1364980349"
+  modified: 2026-07-19T17:02:30Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Shuruppak"
+    (revision 1364980349), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+!!Shuruppak!! (Sumerian: 𒋢𒆳𒊒𒆠 //Šuruppag^^[[ KI | ki-cuneiform ]]^^//,
+SU.KUR.RU^^ki^^, "the healing place"), modern !!Tell Fara!!, was an ancient
+[[ Sumerian | sumer ]] city situated about 55 kilometres (35 mi) south of
+[[ Nippur ]] and 30 kilometers north of ancient [[ Uruk ]] on the banks of the
+[[ Euphrates ]] in [[ Iraq ]]'s [[ Al-Qādisiyyah Governorate ]]. Shuruppak was
+dedicated to [[ Ninlil ]], also called Sud, the goddess of grain and the
+air.[[ ^1 ]] The Early Dynastic IIIa period is also sometimes called the Fara
+period. Not to be confused with the Levantine archaeological site
+[[ Tell el-Far'ah (South) ]].
+
+"Shuruppak" is sometimes also the name of a king of the city, legendary
+survivor of [[ the Flood | flood-story ]], and supposed author of the
+[[ Instructions of Shuruppak ]]".[[ ^2 ]]
+
+== History
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png/250px-Sumerian_account_of_silver_for_the_govenor_%28background_removed%29.png" height="248" width="250"
+
+  <figcaption>Summary [[ account | accounting ]] of silver for the governor written in [[ Sumerian | sumer ]] [[ Cuneiform ]] on a [[ clay tablet ]]. From Shuruppak, Iraq, circa 2500 BC. [[ British Museum ]], London.
+
+=== Jemdet Nasr period
+
+The earliest excavated levels at Shuruppak date to the Jemdet Nasr period
+about 3000 BC. Several objects made of [[ arsenical copper ]] were found in
+Shuruppak/Fara dating to the [[ Jemdet Nasr period ]] (c. 2900 BC). Similar
+objects were also found at [[ Tepe Gawra ]] (levels XII-VIII).[[ ^3 ]]
+
+=== Early Dynastic II
+
+The city rose in importance and size, exceeding 40 hectares(0.4km^^2^^),
+during the Early Dynastic period.
+
+In the [[ Sumerian King List ]] is a ruler, [[ Ubara-Tutu ]], the last ruler
+"before the flood". In some versions he is followed by a son,
+[[ Ziusudra ]].[[ ^4 ]] In later versions of the [[ Epic of Gilgamesh ]], a
+man named [[ Utnapishtim ]], son of Ubara-Tutu, is noted to be king of
+Shuruppak. This portion of Gilgamesh is thought to have been taken from
+another literary composition, the Myth of [[ Atrahasis ]].[[ ^5 ]]
+
+=== Early Dynastic III
+
+The city expanded to its greatest extent at the end of the Early Dynastic III
+period (2600 BC to 2350 BC) when it covered about 100 hectares.[[ ^6 ]]
+
+Cuneiform tablets from the Early Dynastic III period show a thriving, military
+oriented economy with links to cities throughout the region.[[ ^7 ]] It has
+been proposed that Fara was part of a "hexapolis" with [[ Lagash ]],
+[[ Nippur ]], [[ Uruk ]], [[ Adab | adab-city ]], and [[ Umma ]], possibly
+under the leadership of Kish.[[ ^8 ]][[ ^9 ]] It has been proposed that in the
+Early Dynastic IIIa period Shuruppak had passed from the control of Kish to
+that of Uruk and was part of joint military operations against Kish (with
+Adab, Nippur, Lagaš, Umma) under the leadership of Uruk.[[ ^10 ]]
+
+=== Akkadian period
+
+In the [[ Akkadian Period | akkadian-empire ]] (c. 2334–2154 BC), Shuruppak
+was ruled by a governor holding the title //patesi//. Like most cities on the
+Euphrates, it declined during the Akkadian Empire.[[ ^11 ]] A clay cone from
+the Akkadian Empire period found at Shurappak read "Dada, governor of
+Suruppak: Hala-adda, gover[nor] of Suruppak, his son, laid the \... of the
+city gate of the goddess Sud".[[ ^12 ]]
+
+Governors: Dada; Hala-adda;
+
+=== Ur III period
+
+During [[ Ur III period | third-dynasty-of-ur ]] (c. 2112-2004 BC), the city
+was ruled by a governors (ensi,,2,,) appointed by Ur. One is known to be
+Ur-nigar, son of [[ Shulgi ]], one of the first rulers of Ur III. One of the
+tablets found at the site is dated by a year name to the beginning of the
+reign of [[ Shu-Sin ]], next to last ruler of Ur III.[[ ^13 ]] A few governors
+of Shurappak under the Ur III Empire are known from contemporary epigraphic
+remains, Ku-Nanna, Lugal-hedu, Ur-nigin-gar, and Ur-Ninkura.[[ ^14 ]] In much
+later literary compositions several purported rulers are mentioned.
+
+=== Middle Bronze I
+
+In the 2020s BC, the Ur III Empire was hit by a major drought. It is thought
+to have been abandoned shortly around 2000 BC.
+
+A Isin-Larsa [[ cylinder seal ]] and several pottery plaques which may date to
+early in the second millennium BC were found at the site.[[ ^15 ]] Surface
+finds are predominantly Early Dynastic.[[ ^16 ]] In the 2nd year of
+[[ Enlil-bani ]] (c. 1860–1837 BC), ruler of Isin, a sage of Nippur is
+recorded as leaving an herbal medicine at Shurappak.[[ ^17 ]]
+
+== Flood Myth
+
+The report of the 1930s excavation mentions a layer of flood deposits at the
+end of the [[ Jemdet Nasr ]] period at Shuruppak. Shuruppak in Mesopotamian
+legend is one of the "antediluvian" cities and the home of King
+[[ Utnapishtim ]], who survives the flood by making a boat beforehand. Schmidt
+wrote that the [[ flood story ]] of the Bible,[[ ^18 ]]
+
+<blockquote
+  seems to be based on a very real event or a series of such, as suggested by
+  the existence at [[ Ur ]], at [[ Kish | kish-sumer ]], and now at Fara, of
+  inundation deposits, which accumulated on top of human inhabitation. There is
+  finally “the [[ Noah ]] story,” which may possibly symbolize the survival of
+  the Sumerian culture and the end of the [[ Elamite ]] Jemdet Nasr culture.
+
+The deposit is like that deposited by [[ river avulsions | avulsion-river ]],
+a process that was common in the
+[[ Tigris–Euphrates river system ]].[[ ^19 ]][[ ^20 ]]
+
+== Archaeology
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/List_of_titles_of_different_occupations%2C_clay_tablet_from_Shuruppak%2C_Southern_Mesopotamia%2C_Iraq%2C_on_display_in_the_Pergamon_Museum.jpg/250px-List_of_titles_of_different_occupations%2C_clay_tablet_from_Shuruppak%2C_Southern_Mesopotamia%2C_Iraq%2C_on_display_in_the_Pergamon_Museum.jpg" height="219" width="250"
+
+  <figcaption>List of titles of different occupations, clay tablet from Shuruppak, Iraq. 2nd half of the 3rd millennium BCE. Vorderasiatisches Museum, Berlin
+
+Tell Fara extends about a kilometer from north to south. The total area is
+about 120 hectares, with about 35 hectares of the mound being more than three
+meters above the surrounding plain, with a maximum of 9 meters. The site
+consists of two mounds, one larger than the other, separated by an old canal
+bed as well as a lower town. It was visited by
+[[ William Loftus | william-loftus-archaeologist ]] in 1850.[[ ^21 ]]
+[[ Hermann Volrath Hilprecht ]] conducted a brief survey in 1900.[[ ^22 ]] He
+found "copper goatheads; a copper, pre-Sargonid sword; a lamp in the shape of
+a bird; a very archaic seal cylinder; a number of
+pre-Sargonid tablets, and 60
+incised plates of mother of pearl".[[ ^18 ]]
+
+It was first excavated between 1902 and 1903 by [[ Walter Andrae ]],
+[[ Robert Koldewey ]] and [[ Friedrich Delitzsch ]] of the
+[[ German Oriental Society | deutsche-orient-gesellschaft ]] for eight months.
+They used a new "modern" system which involved excavating trenches 8 feet wide
+and 5 feet deep every few yards running across the entire width of the larger
+mound. If a building wall was found in a trench it was further explored.
+Preliminary identification of the site as Suruppak came from a Ur III period
+clay nail which mentioned "Haladda, son of Dada, the patesi of Shuruppak
+(written SU.KUR.RU^^ki^^)
+repaired the ADUS of the Great Gate of the god
+Shuruppak (written
+^^d^^SU.KUR.RU-da)". Among other finds, 847 cuneiform
+tablets and 133 tablet fragments of
+[[ Early Dynastic | early-dynastic-period-mesopotamia ]] III period were
+collected, which ended up in the Berlin Museum and the Istanbul Museum. They
+included administrative, legal, lexical, and literary texts. Over 100 of the
+tablets dealt with the disbursement of rations to workers.[[ ^23 ]] About a
+thousand Early Dynastic clay sealings and fragments (used to secure doors and
+containers) were also found. Most from cylinder seals but 19 were from stamp
+seals.[[ ^24 ]][[ ^25 ]] In 1903 the site was visited by
+[[ Edgar James Banks ]] who was excavating at the site of
+[[ Adab | adab-city ]], a four-hour walk to the north. Banks took photographs
+of the German trenches and noted a 20 foot in diameter well, constructed with
+plano-convex bricks, in the center of the larger mound as well as an arched
+sewer, similarly constructed. The latter was where tablets were found. Banks
+also noted that the smaller mound held a cemetery.[[ ^26 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bill_of_sale_Louvre_AO3765.jpg/250px-Bill_of_sale_Louvre_AO3765.jpg" height="242" width="250"
+
+  <figcaption>Bill of sale Louvre AO3765
+
+In 1926 it was visited by Raymond P, Dougherty during his archaeological
+survey of the region.[[ ^27 ]] In March and April 1931, a joint team of the
+[[ American Schools of Oriental Research ]] and the
+[[ University of Pennsylvania ]] excavated Shuruppak for a further six week
+season, with [[ Erich Schmidt | erich-schmidt-archaeologist ]] as director and
+with epigraphist [[ Samuel Noah Kramer ]] being prompted by reports of illicit
+excavations in the area. They were able to stratify the major occupation
+levels as Jemdat Nasr (Fara I), Early Dynastic (Fara II), and Ur III empire
+(Fara III). There was an "inundation event" between Fara I and Fara
+II.[[ ^18 ]][[ ^28 ]] The excavation recovered 96 tablets and fragments—mostly
+from pre-Sargonic times—biconvex, and unbaked. The tablets included reference
+to Shuruppak enabling confirmation of the sites original name.[[ ^29 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pig-shaped_rattle_from_Shuruppak%2C_Iraq._Baked_clay._Early_Dynastic_period%2C_2500-2350_BCE._Pergamon_Museum%2C_Berlin%2C_Germany.jpg/250px-Pig-shaped_rattle_from_Shuruppak%2C_Iraq._Baked_clay._Early_Dynastic_period%2C_2500-2350_BCE._Pergamon_Museum%2C_Berlin%2C_Germany.jpg" height="212" width="250"
+
+  <figcaption>Pig-shaped rattle from Shuruppak, Iraq. Baked clay. Early Dynastic period, 2500-2350 BCE. Vorderasiatisches Museum, Berlin
+
+In 1973, a three-day surface survey of the site was conducted by Harriet P.
+Martin. Consisting mainly of pottery shard collection, the survey confirmed
+that Shuruppak dates at least as early as the [[ Jemdet Nasr period ]],
+expanded greatly in the
+[[ Early Dynastic period | early-dynastic-period-mesopotamia ]], and was also
+an element of the [[ Akkadian Empire ]] and the
+[[ Third Dynasty of Ur ]].[[ ^30 ]]
+
+A surface survey and a full magnetometer survey of the site was completed was
+conducted between 2016 and 2018 by a team from [[ LMU Munich ]] led by
+Adelheid Otto and Berthold Einwag. The initial work was under the regional
+QADIS survey.[[ ^31 ]] A drone was used to create a digital elevation model of
+the site.[[ ^32 ]] The researchers found thousands of robber holes left by
+looters which had disturbed surface in many places, with the top several
+meters of the main mound destroyed.[[ ^33 ]] They were able to use remains of
+the 900 meter long trench left by excavators in 1902 and 1903 to orient old
+excavation documents and aerial mapping with their geomagnetic results. Part
+of the site was inaccessible because of the spoil heaps from the excavations.
+A city wall was found (in Area A), which had been missed in the
+past.[[ ^33 ]][[ ^34 ]] A harbor and quay were also found.[[ ^35 ]]
+
+Further excavations seasons occurred in 2022 and 2024. Work occurred in an
+area where the early German excavators found over 1000 seal impressions from
+about 500 seals (trench Id/Ie), in an area now heavily looted out. The seals
+covered a wide period, Jemdet Nasr, ED I and ED II so it was assumed the area
+was a rubbish dump. A location was chosen where sand encroachment had somewhat
+deterred the robbers. a trench was excavated measuring 4 meters long by 3
+meters wide, to a depth of 2.5 meters without reaching virgin soil. A total of
+180 clay sealings were found often matching those earlier excavated including
+an unusually large seal (3.5 centimeters) in the "Elegant Style".[[ ^36 ]]
+Portable X-ray fluorescence (pXRF) analysis of clay sealings suggested that
+rather than being deposited over a long period of time all of the various seal
+styles were being used at the same time.[[ ^37 ]]
+
+== List of rulers
+
+The following list should not be considered complete:
+
+<table
+  <tbody
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>[[ Epithet | akkadian-royal-titulary#epithets ]]
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!![[ Early Dynastic I period | early-dynastic-i ]] (c. 2900 – c. 2700 BC)!!
+
+    <tr
+      <th colspan="7">[[ Predynastic Sumer | pre-dynastic-period-of-sumer ]] (c. 2900 – c. 2700 BC)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then [[ Sippar | sippar#list-of-rulers ]] fell and the
+          [[ kingship | throne ]] was taken to Shuruppak."//
+
+        — //[[ Sumerian King List ]] (SKL)//
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lista_Reale_Sumerica.jpg/120px-Lista_Reale_Sumerica.jpg" height="64" width="120"
+
+      <td>[[ Ubara-Tutu ]]
+        <br
+
+        𒂬𒁺𒁺
+
+      <td>Son of [[ En-men-dur-ana ]] (?)
+
+      <td
+
+      <td>//Uncertain,// [[ reigned | reign ]] c. 2810 BC
+        <br
+
+        (18,600 years)
+
+      <td
+        - Said on the //[[ Sumerian King List ]] (SKL)// to have held the title of, //"[[ King | lugal ]]"// of not just Shuruppak; but, to have held the //"[[ Kingship | hegemony ]]"// over //all// of Sumer
+        - He has been compared with the Biblical patriarch [[ Methuselah ]]
+        - Historicity uncertain
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"1 king; he ruled for 18,600 years. In 5 cities 8 kings; they ruled for
+          241,200 years. Then the [[ flood | sumerian-flood-myth ]] swept over. After
+          the flood had swept over, and the kingship had descended from
+          [[ heaven | anu ]], the kingship was in
+          [[ Kish | kish-sumer#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <td>2nd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Instructions_of_Shurrupak%2C_Sumerian_proverb_collection%2C_c._2400_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07114.JPG/120px-Instructions_of_Shurrupak%2C_Sumerian_proverb_collection%2C_c._2400_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07114.JPG" height="158" width="120"
+
+      <td>[[ Ziusudra ]]
+        <br
+
+        𒍣𒌓𒋤𒁺
+
+      <td>Son of Ubara-Tutu (?)
+
+      <td
+
+      <td>//Uncertain,// r. c. 2800 BC
+        <br
+
+        (36,000 years)
+
+      <td
+        - Known from the //[[ Instructions of Shuruppak ]]// and //SKL//
+        - He has been compared with [[ Atra-Hasis ]], [[ Utnapishtim ]], and [[ Noah ]]
+        - Historicity uncertain
+
+[[ ^1 ]]: Jacobsen, Thorkild (1 January 1987). [[ //The Harps that Once\--: Sumerian Poetry in Translation// | https://books.google.com/books?id=L-BI0h41yCEC&q=Shuruppak+Ansud ]]. Yale University Press. ISBN [[ 978-0-300-07278-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-300-07278-5 ]].
+
+[[ ^2 ]]: Samet, Nili, "Instructions of Shuruppak: The World's Oldest Instruction Collection", Human Interaction with the Natural World in Wisdom Literature and Beyond. Essays in Honour of Tova L. Forti, hrsg. v. Mordechai Cogan, Katherine J. Dell, David Glatt-Gilad (The Library of Hebrew Bible/Old Testament Studies 720), pp. 216-229, 2023
+
+[[ ^3 ]]: Daniel T. Potts, [[ //Mesopotamian Civilization: The Material Foundations.// | https://books.google.com/books?id=OdZS9gBu4KwC&pg=PA167 ]] Cornell University Press, 1997 ISBN [[ 0801433398 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0801433398 ]] p167
+
+[[ ^4 ]]: [[ Jacobsen, Thorkild | thorkild-jacobsen ]] (1939). [[ //The Sumerian King List// | https://archive.org/download/in.ernet.dli.2015.283790/2015.283790.The-Sumerian.pdf ]] (PDF). Chicago Illinois: The University of Chicago Press – via [[ Internet Archive ]].
+
+[[ ^5 ]]: Maureen Gallery Kovacs, "TABLET XI", The Epic of Gilgamesh, edited by, Redwood City: Stanford University Press, pp. 95-108, 1989
+
+[[ ^6 ]]: Leick, Gwendolyn (2002). //Mesopotamia: The Invention of the City//. London: Penguin. ISBN [[ 0-14-026574-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-14-026574-0 ]].
+
+[[ ^7 ]]: Jacobsen, Thorkild and Moran, William L., "Early Political Development in Mesopotamia", Toward the Image of Tammuz and Other Essays on Mesopotamian History and Culture, Cambridge, MA and London, England: Harvard University Press, pp. 132-156, 1970
+
+[[ ^8 ]]: Cripps, Eric L. (2013). [[ "Messengers from Šuruppak" | https://cdli.mpiwg-berlin.mpg.de/articles/cdlj/2013-3 ]]. //Cuneiform Digital Library Journal//. !!2013!! (3).
+
+[[ ^9 ]]: Pomponio, Francesco & Visicato Giuseppe, "Early Dynastic Administrative Tablets of Šuruppak", Napoli: Istituto Universitario Orientalo di Napoli, 1994
+
+[[ ^10 ]]: Steinkeller, Piotr, "A Campaign of Southern City-States against Kiš as Documented in the ED IIIa Sources from Šuruppak (Fara)", Journal of Cuneiform Studies 76.1, pp. 3-26, 2024
+
+[[ ^11 ]]: Marchetti, Nicolò, Al-Hussainy, Abbas, Benati, Giacomo, Luglio, Giampaolo, Scazzosi, Giulia, Valeri, Marco and Zaina, Federico, "The Rise of Urbanized Landscapes in Mesopotamia: The QADIS Integrated Survey Results and the Interpretation of Multi-Layered Historical Landscapes", Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 109, no. 2, pp. 214-237, 2019
+
+[[ ^12 ]]: Frayne, Douglas R. (1993). "Akkad". [[ //The Sargonic and Gutian Periods (2334–2113)// | https://archive.org/details/sargonic-and-gutian-periods-2334-2113-bc ]]. University of Toronto Press. pp. 5–218. ISBN [[ 0-8020-0593-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8020-0593-4 ]].
+
+[[ ^13 ]]: Sharlach, Tonia, "Princely Employments in the Reign of Shulgi", Journal of Ancient Near Eastern History, vol. 9, no. 1, pp. 1-68, 2022
+
+[[ ^14 ]]: Frayne, Douglas, "Table III: List of Ur III Period Governors", Ur III Period (2112-2004 BC), Toronto: University of Toronto Press, pp. xli-xliv, 1997
+
+[[ ^15 ]]: Martin, Harriet P. (1988). //FARA: A reconstruction of the Ancient Mesopotamian City of Shuruppak//. Birmingham, UK: Chris Martin & Assoc. p. 44, p. 117 and seal no. 579. ISBN [[ 0-907695-02-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-907695-02-7 ]].
+
+[[ ^16 ]]: [[ Adams, Robert McCormick | robert-mccormick-adams-jr. ]] (1981). [[ //Heartland of Cities: Surveys of Ancient Settlement and Land Use on the Central Floodplain of the Euphrates// | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf ]] (PDF). Chicago: University of Chicago Press. Fig. 33 compared with Fig. 21. ISBN [[ 0-226-00544-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-226-00544-5 ]].
+
+[[ ^17 ]]: Rochberg, Francesca, "The Babylonians and the Rational: Reasoning in Cuneiform Scribal Scholarship", In the Wake of the Compendia: Infrastructural Contexts and the Licensing of Empiricism in Ancient and Medieval Mesopotamia, edited by J. Cale Johnson, Berlin, München, Boston: De Gruyter, pp. 209-246, 2015
+
+[[ ^18 ]]: Schmidt, Erich (1931). [[ "Excavations at Fara, 1931" | https://www.penn.museum/sites/journal/9356/ ]]. //University of Pennsylvania's Museum Journal//. !!2!!: 193–217.
+
+[[ ^19 ]]: Morozova, Galina S. (2005). [[ "A review of Holocene avulsions of the Tigris and Euphrates rivers and possible effects on the evolution of civilizations in lower Mesopotamia" | https://onlinelibrary.wiley.com/doi/10.1002/gea.20057 ]]. //Geoarchaeology//. !!20!! (4): 401–423. doi:[[ 10.1002/gea.20057 | https://doi.org/10.1002%2Fgea.20057 ]]. ISSN [[ 0883-6353 | https://search.worldcat.org/issn/0883-6353 ]]. S2CID [[ 129452555 | https://api.semanticscholar.org/CorpusID:129452555 ]].
+
+[[ ^20 ]]: [[ William W. Hallo ]] and [[ William Kelly Simpson ]] (1971). //The Ancient Near East: A History//.
+
+[[ ^21 ]]: [[ Loftus, William | william-loftus-archaeologist ]] (1857). [[ //Travels and researches in Chaldæa and Susiana; with an account of excavations at Warka, the Erech of Nimrod, and Shúsh, Shushan the Palace of Esther, in 1849–52// | https://archive.org/download/travelsresearche00loft/travelsresearche00loft.pdf ]] (PDF). J. Nisbet and Co. – via [[ Internet Archive ]].
+
+[[ ^22 ]]: [[ Hilprecht, Hermann Vollrat | hermann-volrath-hilprecht ]] (1904). [[ //The Excavations in Assyria and Babylonia// | https://babel.hathitrust.org/cgi/pt?id=njp.32101073396747&view=1up ]]. Philadelphia: A.J. Holman – via [[ HathiTrust ]].
+
+[[ ^23 ]]: Heinrich, Ernst; Andrae, Walter, eds. (1931). //Fara, Ergebnisse der Ausgrabungen der Deutschen Orient-Gesellschaft in Fara und Abu Hatab//. Berlin: Staatliche Museen zu Berlin.
+
+[[ ^24 ]]: Matthews, R. J., "Clay Sealings in Early Dynastic Mesopotamia: A Functional and Contextual Approach", Ph.D. Thesis, University of Cambridge, 1989
+
+[[ ^25 ]]: R.J.Matthews, "Fragments of Officialdom from Fara", Iraq, vol. 53, pp. 1–15, 1991
+
+[[ ^26 ]]: [[ Banks, Edgar James | edgar-james-banks ]] (1912). [[ //Bismya; or The lost city of Adab : a story of adventure, of exploration, and of excavation among the ruins of the oldest of the buried cities of Babylonia// | https://archive.org/download/cu31924028551913/cu31924028551913.pdf ]] (PDF). New York: G. P Putnam's Sons – via [[ Internet Archive ]].
+
+[[ ^27 ]]: Dougherty, Raymond P, "An Archæological Survey in Southern Babylonia I", Bulletin of the American Schools of Oriental Research, no. 23, pp. 15–28, 1926
+
+[[ ^28 ]]: Kramer, Samuel N. (1932). [[ "New Tablets from Fara" | https://archive.org/details/sim_journal-of-the-american-oriental-society_1932-06_52_2_0/page/114/mode/1up ]]. //[[ Journal of the American Oriental Society ]]//. !!52!! (2): 110–132. doi:[[ 10.2307/593166 | https://doi.org/10.2307%2F593166 ]]. JSTOR [[ 593166 | https://www.jstor.org/stable/593166 ]].
+
+[[ ^29 ]]: Martin,  Harriet  P., "The  Tablets of Shuruppak", in Le temple  et le culte, Compte  rendu  de  la vingtième  Recontre  Assyriologique  Internationale,  Leiden, pp.  173-182, 1975
+
+[[ ^30 ]]: Martin, Harriet P. (1983). "Settlement Patterns at Shuruppak". //[[ Iraq | iraq-journal ]]//. !!45!! (1): 24–31. doi:[[ 10.2307/4200173 | https://doi.org/10.2307%2F4200173 ]]. JSTOR [[ 4200173 | https://www.jstor.org/stable/4200173 ]]. S2CID [[ 130046037 | https://api.semanticscholar.org/CorpusID:130046037 ]].
+
+[[ ^31 ]]: Marchetti, N., Einwag, B., Al-Hussainy, A., Luglio, G., Marchesi, G., Otto, A., Scazzosi, G., Leoni,
+E., Valeri, M. and Zaina, F., "QADIS. The Iraqi-Italian 2016 Survey Season in the South-Eastern Region of Qadisiyah", Sumer 63, pp. 63−92, 2017
+
+[[ ^32 ]]: Otto, A., & Einwag, B., "The survey at Fara - Šuruppak 2016-2018", In Otto, A., Herles, M., Kaniuth, K., Korn, L., & Heidenreich, A. (Eds.), Proceedings of the 11th International Congress on the Archaeology of the Ancient Near East, Vol. 2. Wiesbaden, pp. 293–306. Harrassowitz Verlag, 2020
+
+[[ ^33 ]]: Otto, A., Einwag, B., Al-Hussainy, A., Jawdat, J.A.H., Fink, C. and Maaß, H., "Destruction and Looting of Archaeological Sites between Fāra / Šuruppak and Išān Bahrīyāt / Isin: Damage Assessment during the Fara Regional Survey Project FARSUP", Sumer 64, pp. 35−48, 2018
+
+[[ ^34 ]]: Hahn, Sandra E.; Fassbinder, Jörg W. E.; Otto, Adelheid; Einwag, Berthold; Al-Hussainy, Abbas Ali (2022). [[ "Revisiting Fara: Comparison of merged prospection results of diverse magnetometers with the earliest excavations in ancient Šuruppak from 120 years ago" | https://epub.ub.uni-muenchen.de/107059/ ]]. //Archaeological Prospection//. !!29!! (4): 623–635. doi:[[ 10.1002/arp.1878 | https://doi.org/10.1002%2Farp.1878 ]]. S2CID [[ 252827382 | https://api.semanticscholar.org/CorpusID:252827382 ]].
+
+[[ ^35 ]]: Fassbinder, Jörg; Hahn, Sandra; Wolf, Marco (2023). [[ "Prospecting in the marshland: the Sumerian city Fara— Šuruppak (Iraq)" | https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/macau_derivate_00004683/kiel-up_978-3-928794-83-1_p7.pdf ]] (PDF). In Wunderlich, Tina; Hadler, Hanna; Blankenfeldt, Ruth (eds.). //Advances in On– and Offshore Archaeological Prospection: Proceedings//. 15th International Conference on Archaeological Prospection. Kiel University Publishing. doi:[[ 10.38072/978-3-928794-83-1/p7 | https://doi.org/10.38072%2F978-3-928794-83-1%2Fp7 ]]. ISBN [[ 978-3-928794-83-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-928794-83-1 ]].
+
+[[ ^36 ]]: Otto, A., "Jahre nach den Pionierleistungen der DOG: Neue Forschungen in Fāra/Schuruppak, einer sumerischen Stadt des 3. Jahrtausends v. Chr", in Marzahn, J. and Wicke, D. eds. Zwischen Schwarzem Meer und Persischem Golf. 125 Jahre Deutsche
+Orient-Gesellschaft. Darmstadt: Wissenschaftliche Buchgesellschaft, pp. 152-159, 2023
+
+[[ ^37 ]]: Otto, Adelheid, "To change, or not to change… Transitional glyptic styles in ED II Fara/Šuruppak and their relation to officialdom", TRACING TRANSITIONS & CONNECTING COMMUNITIES, pp. 103-117, 2025

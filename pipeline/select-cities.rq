@@ -1,0 +1,35 @@
+# The cities corpus: somewhere that was a place, before 500 CE.
+#
+# Coordinates come back with every row rather than being filtered here.
+# Wikidata's geo functions are slow and a bounding box is an editorial
+# decision, not a data one — drawing it locally means changing the region
+# without asking the service again. `pipeline/region.mjs` does that.
+#
+# `country` is deliberately not used. For an archaeological site Wikidata
+# usually gives the modern country, but for the interesting ones it gives the
+# ancient rulers instead — Babylon's P17 is twelve dated statements and not
+# one of them is Iraq — so filtering on it drops exactly the cities worth
+# having.
+#
+#   curl -G https://query.wikidata.org/sparql \
+#     --data-urlencode query@pipeline/select-cities.rq \
+#     -H 'Accept: text/csv' -H 'User-Agent: … (you@example.com)' > cities.csv
+
+SELECT DISTINCT ?title ?sitelinks (MIN(?inception) AS ?from) (SAMPLE(?coord) AS ?where) WHERE {
+  # ancient city, archaeological site, city
+  VALUES ?kind { wd:Q15661340 wd:Q839954 wd:Q515 }
+
+  ?item wdt:P31 ?kind ;
+        wikibase:sitelinks ?sitelinks ;
+        wdt:P571 ?inception ;
+        wdt:P625 ?coord .
+
+  ?article schema:about ?item ;
+           schema:isPartOf <https://en.wikipedia.org/> ;
+           schema:name ?title .
+
+  FILTER(?sitelinks > 8)
+  FILTER(YEAR(?inception) < 500)
+}
+GROUP BY ?title ?sitelinks
+ORDER BY DESC(?sitelinks)

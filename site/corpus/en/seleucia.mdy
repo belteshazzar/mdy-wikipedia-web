@@ -1,0 +1,484 @@
++++
+title: Seleucia
+description: Seleucid Empire capital in modern Iraq
+coordinates:
+  lat: 33.09444444
+  lon: 44.52222222
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ctesiphon_map-en.svg/960px-Ctesiphon_map-en.svg.png
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ctesiphon_map-en.svg/330px-Ctesiphon_map-en.svg.png
+    caption: Archeological map of Seleucia and Ctesiphon sites
+  type: Settlement
+  periods: Hellenistic to Roman Imperial
+  cultures: Greek, Parthian, Sasanian
+  location: Baghdad Governorate, Iraq
+  region: Mesopotamia
+  history:
+    built: c. 305 BC
+    built-by: Seleucus I Nicator
+    abandoned: 165 AD
+  site-notes:
+    area: 5.5 km2 (2.1 sq mi)
+    excavation-dates: 1927–1932, 1936–1937, 1964–1968, 1985–1989
+    archaeologists: Leroy Waterman, Clark Hopkins, Antonio Invernizzi, Giorgio Gullini
+images:
+  - file: Detail,_upper_part_of_a_bronze_statuette_of_Hercules,_from_Seleucia_on_the_Tigris,_Iraq._Iraq_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Detail%2C_upper_part_of_a_bronze_statuette_of_Hercules%2C_from_Seleucia_on_the_Tigris%2C_Iraq._Iraq_Museum.jpg/250px-Detail%2C_upper_part_of_a_bronze_statuette_of_Hercules%2C_from_Seleucia_on_the_Tigris%2C_Iraq._Iraq_Museum.jpg
+    width: 6016
+    height: 4016
+    caption: The upper part of a bronze statuette of Hercules (also bronze Heracles
+      of Mesene or Characene), from Seleucia, Iraq. Both thighs (not shown, see
+      below) have a bilingual inscription (Greek and Parthian), Iraq Museum,
+      Baghdad.
+  - file: Small_statuette_of_a_naked_woman,_from_Seleucia_on_the_Tigris,_Iraq,_3rd-2nd_century_BCE._Iraq_Museum,_Baghdad.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Small_statuette_of_a_naked_woman%2C_from_Seleucia_on_the_Tigris%2C_Iraq%2C_3rd-2nd_century_BCE._Iraq_Museum%2C_Baghdad.jpg/250px-Small_statuette_of_a_naked_woman%2C_from_Seleucia_on_the_Tigris%2C_Iraq%2C_3rd-2nd_century_BCE._Iraq_Museum%2C_Baghdad.jpg
+    width: 4719
+    height: 3323
+    caption: Small statuette of a naked woman, from Seleucia on the Tigris, Iraq,
+      3rd–2nd century BC. Iraq Museum, Baghdad
+  - file: Tetradrachm_of_Mithridates_I_of_Parthia_-_Seleucia_on_the_Tigris_mint.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tetradrachm_of_Mithridates_I_of_Parthia_-_Seleucia_on_the_Tigris_mint.jpg/250px-Tetradrachm_of_Mithridates_I_of_Parthia_-_Seleucia_on_the_Tigris_mint.jpg
+    width: 1832
+    height: 928
+    caption: Tetradrachm of Mithridates I; Seleucia on the Tigris mint.
+  - file: Detail,_inscribed,_Greek_and_Parthian_script,_lower_part_of_a_bronze_statuette_of_Hercules,_from_Seleucia_on_the_Tigris,_Iraq._Iraq_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Detail%2C_inscribed%2C_Greek_and_Parthian_script%2C_lower_part_of_a_bronze_statuette_of_Hercules%2C_from_Seleucia_on_the_Tigris%2C_Iraq._Iraq_Museum.jpg/250px-Detail%2C_inscribed%2C_Greek_and_Parthian_script%2C_lower_part_of_a_bronze_statuette_of_Hercules%2C_from_Seleucia_on_the_Tigris%2C_Iraq._Iraq_Museum.jpg
+    width: 4289
+    height: 4016
+    caption: Detail, inscribed, Greek and Parthian script, lower part of a bronze
+      statuette of Hercules, from Seleucia on the Tigris, Iraq. Iraq Museum
+  - file: Babylon&Seleuicia1(Peutinger_Map).png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Babylon%26Seleuicia1%28Peutinger_Map%29.png/250px-Babylon%26Seleuicia1%28Peutinger_Map%29.png
+    width: 391
+    height: 142
+    caption: Seleucia in the 4th century on the Peutinger Map.
+wikidata:
+  id: Q1136681
+  label: Seleucia
+  description: capital of the Seleucid Empire
+  claims:
+    coordinate-location:
+      - lat: 33.1
+        lon: 44.52
+      - lat: 33.137222
+        lon: 44.517222
+    country:
+      - Seleucid Empire
+      - Parthian Empire
+      - Sasanian Empire
+      - Iraq
+    inception:
+      value: 305 BC
+      sourcing: circa
+    dissolved-abolished-or-demolished: "165"
+    capital-of:
+      value: Seleucid Empire
+      from: 305 BC
+      to: 240 BC
+      sourcing: circa
+    instance-of:
+      - archaeological site
+      - ancient city
+    founder: Seleucus I Nicator
+    located-in-the-present-day-administrative-territorial-entity: Babylon Governorate
+    shares-border-with: Ctesiphon
+    located-in-the-administrative-territorial-entity: Asuristan
+    located-in-or-next-to-body-of-water: Tigris
+    area: 5.6 square kilometre
+    described-by-source:
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Russian translation of Lübker's Antiquity Lexicon
+      - Jewish Encyclopedia of Brockhaus and Efron
+      - Collier's New Encyclopedia, 1921
+    commons-category: Seleucia on the Tigris
+    topic-s-main-category: Category:Seleucia on the Tigris
+    culture:
+      - Hellenistic civilization
+      - Greater Iran
+    part-of: Seleucia-Ctesiphon
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Karte_Seleucia_Ktesiphon-it.png
+categories:
+  - 300s BC establishments
+  - Archaeological sites in Iraq
+  - Former populated places in Iraq
+  - Hellenistic sites
+  - History of Baghdad Governorate
+  - Parthian cities
+  - Populated places along the Silk Road
+  - Populated places established in the 4th century BC
+  - Quarters and suburbs of Ctesiphon
+  - Sasanian cities
+  - Seleucid colonies
+  - Seleucus I Nicator
+  - Twin cities
+langlinks:
+  af: Seleukië
+  ar: سلوقية
+  arz: سلوقيه
+  azb: سلوکوس
+  bg: Селевкия
+  ca: Selèucia del Tigris
+  ceb: Minţaqat as Salūqīyat al Atharīyah
+  cs: Seleukia
+  da: Seleukeia
+  el: Σελεύκεια η επί του Τίγρη
+  es: Seleucia del Tigris
+  eu: Seleuzia Tigrisekoa
+  fa: سلوکیه
+  fi: Seleukeia
+  fr: Séleucie du Tigre
+  he: סלאוקיה על החידקל
+  hr: Seleukija
+  hu: Szeleukeia
+  it: Seleucia al Tigri
+  ja: セレウキア
+  ko: 셀레우키아
+  ku: Seleukeia
+  la: Seleucia ad Tigrim
+  mg: Seleokia any Tigrisy
+  nl: Seleucië aan de Tigris
+  nb: Seleukia
+  pl: Seleucja nad Tygrysem
+  pt: Selêucia do Tigre
+  ro: Seleucia
+  ru: Селевкия
+  sh: Seleukija
+  sk: Seleukia nad Tigrisom
+  sl: Selevkija
+  sr: Селеукија
+  sv: Seleukia
+  ta: செலூசியா
+  tr: Seleukia (Irak)
+  uk: Селевкія
+  ur: سلوقیہ
+  vi: Seleucia
+  war: Seleucia
+  zh: 塞琉西亞
+link-titles:
+  alexander-the-great: Alexander the Great
+  alexandria: Alexandria
+  ancient-greek-language: Ancient Greek language
+  antioch: Antioch
+  antiquities-of-the-jews: Antiquities of the Jews
+  arabs: Arabs
+  ardashir-i: Ardashir I
+  arsacid: Arsacid
+  aulus-gabinius: Aulus Gabinius
+  avidius-cassius: Avidius Cassius
+  babylon: Babylon
+  babylonia: Babylonia
+  baghdad-governorate: Baghdad Governorate
+  bishop-of-seleucia-ctesiphon: Bishop of Seleucia-Ctesiphon
+  brick: Brick
+  catholicos: Catholicos
+  christianity: Christianity
+  christianity-in-the-sasanian-empire: Christianity in the Sasanian Empire
+  church-of-the-east: Church of the East
+  cleveland-museum-of-art: Cleveland Museum of Art
+  council-of-seleucia-ctesiphon: Council of Seleucia-Ctesiphon
+  ctesiphon: Ctesiphon
+  diadochi: Diadochi
+  euphrates: Euphrates
+  first-council-of-nicaea: First Council of Nicaea
+  hadrian: Hadrian
+  hellenistic: Hellenistic
+  hellenistic-period: Hellenistic period
+  hercules: Hercules
+  iraq: Iraq
+  iraq-museum: Iraq Museum
+  josephus: Josephus
+  kelsey-museum-of-archaeology: Kelsey Museum of Archaeology
+  latin-language: Latin language
+  list-of-patriarchs-of-the-church-of-the-east: List of Patriarchs of the Church of the East
+  mar-isaac-bishop: Mar Isaac (bishop)
+  mesopotamia: Mesopotamia
+  mithridates-i-of-parthia: Mithridates I of Parthia
+  mithridates-iii-of-parthia: Mithridates III of Parthia
+  neo-assyrian: Neo-Assyrian
+  nicene-creed: Nicene Creed
+  opis: Opis
+  orodes-ii: Orodes II
+  parthian-empire: Parthian Empire
+  parthian-style: Parthian style
+  peliganes: Peliganes
+  persecution-of-christians: Persecution of Christians
+  persia: Persia
+  persian-language: Persian language
+  peutinger-map: Peutinger Map
+  primate-bishop: Primate (bishop)
+  ptolemaic-egypt: Ptolemaic Egypt
+  roman-empire: Roman Empire
+  sasanian-empire: Sasanian Empire
+  sassanids: Sassanids
+  seleucia-disambiguation: Seleucia (disambiguation)
+  seleucia-ctesiphon: Seleucia-Ctesiphon
+  seleucid-empire: Seleucid Empire
+  seleucus-i-nicator: Seleucus I Nicator
+  synod: Synod
+  synod-of-dadyeshuactioneditredlink1: Synod of Dadyeshu?action=edit&redlink=1
+  syria-region: Syria (region)
+  syriac-language: Syriac language
+  tacitus: Tacitus
+  tigris-river: Tigris River
+  toledo-museum-of-art: Toledo Museum of Art
+  trajan: Trajan
+  university-of-michigan: University of Michigan
+  university-of-turin: University of Turin
+  veh-ardashir: Veh-Ardashir
+  yazdegerd-i: Yazdegerd I
+sections:
+  - level: 2
+    id: names
+    title: Names
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: seleucid-empire
+    title: Seleucid Empire
+  - level: 3
+    id: sasanian-rule
+    title: Sasanian rule
+  - level: 2
+    id: archaeology
+    title: Archaeology
+source:
+  site: Wikipedia
+  lang: en
+  title: Seleucia
+  url: https://en.wikipedia.org/wiki/Seleucia
+  page-id: 1985695
+  revision: "1364719057"
+  modified: 2026-07-18T03:27:12Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Seleucia"
+    (revision 1364719057), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+!!Seleucia!!
+([[ /sɪˈljuːʃə/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]];
+Ancient Greek: Σελεύκεια), also known as !!Seleucia-on-Tigris!!, !!Seleucia on
+the Tigris!! or !!Seleucia ad Tigrim!!, was a major
+[[ Mesopotamian | mesopotamia ]] city, located on the west bank of the
+[[ Tigris River ]] within the present-day [[ Baghdad Governorate ]] in
+[[ Iraq ]]. It was founded around 305 BC by [[ Seleucus I Nicator ]] as the
+first capital of the [[ Seleucid Empire ]], and remained an important center
+of trade and [[ Hellenistic | hellenistic-period ]] culture after the imperial
+capital relocated to [[ Antioch ]]. The city continued to flourish under
+[[ Parthian | parthian-empire ]] rule beginning in 141 BC; ancient texts claim
+that it reached a population of 600,000. Seleucia was destroyed in 165 AD by
+[[ Roman | roman-empire ]] general [[ Avidius Cassius ]] and gradually faded
+into obscurity in the subsequent centuries. The site was rediscovered in the
+1920s by archaeologists.
+
+
+== Names
+
+Seleucia (Ancient Greek: Σελεύκεια, //Seleúkeia//) is named for
+[[ Seleucus I Nicator ]], who enlarged an earlier settlement and made it the
+capital of [[ his empire | seleucid-empire ]] around 305 BC. It was the
+largest and most important of the
+[[ many cities to bear its name | seleucia-disambiguation ]] but is sometimes
+distinguished as Seleucia-on-Tigris or Seleucia on the Tigris (Latin:
+//Seleucia ad Tigridem//) from the name of [[ its river | tigris-river ]].
+
+Texts from the [[ Church of the East ]]'s synods referred to the city as
+//Salīq// (Syriac: ܣܠܝܩ)[[ ^1 ]] or some times //Māḥôzē// (Syriac: ܡܚܘܙ̈ܐ)
+when referring to the metropolis of [[ Seleucia-Ctesiphon ]].
+
+The [[ Sassanids ]] named the eastern city as [[ Veh-Ardashir ]] (Persian:
+ویه‌اردشیر); [[ Arabs ]] called it Bahurasīr.
+
+== History
+
+=== Seleucid Empire
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Detail%2C_upper_part_of_a_bronze_statuette_of_Hercules%2C_from_Seleucia_on_the_Tigris%2C_Iraq._Iraq_Museum.jpg/250px-Detail%2C_upper_part_of_a_bronze_statuette_of_Hercules%2C_from_Seleucia_on_the_Tigris%2C_Iraq._Iraq_Museum.jpg" height="167" width="250"
+
+  <figcaption>The upper part of a bronze statuette of [[ Hercules ]] (also bronze Heracles of Mesene or Characene), from Seleucia, Iraq. Both thighs (not shown, //see below//) have a bilingual inscription (Greek and Parthian), [[ Iraq Museum ]], Baghdad.
+
+Seleucia, as such, was founded as the first capital of the
+[[ Seleucid Empire ]] by [[ Seleucus I Nicator ]]. A foundation date of 300 BC
+was proposed by Auguste Bouch-Leclerq in 1914.[[ ^2 ]] Other scholars proposed
+306 BC and 312 BC.[[ ^3 ]][[ ^4 ]] Seleucus was one of the [[ Diadochi ]]
+successors of [[ Alexander the Great ]] who, after Alexander's death, divided
+his empire among themselves. Although Seleucus soon moved his main capital to
+[[ Antioch ]], in northern [[ Syria | syria-region ]], Seleucia became an
+important center of trade, Hellenistic culture, and regional government under
+the Seleucids.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Small_statuette_of_a_naked_woman%2C_from_Seleucia_on_the_Tigris%2C_Iraq%2C_3rd-2nd_century_BCE._Iraq_Museum%2C_Baghdad.jpg/250px-Small_statuette_of_a_naked_woman%2C_from_Seleucia_on_the_Tigris%2C_Iraq%2C_3rd-2nd_century_BCE._Iraq_Museum%2C_Baghdad.jpg" height="176" width="250"
+
+  <figcaption>Small statuette of a naked woman, from Seleucia on the Tigris, Iraq, 3rd–2nd century BC. Iraq Museum, Baghdad
+
+To make his capital into a metropolis, Seleucus forced almost all inhabitants
+of Babylon, except the local temple priests/supporting workers, to leave and
+resettle in Seleucia. A tablet dated 275 BC states that the inhabitants of
+[[ Babylon ]] were transported to Seleucia, where a palace and a temple
+(Esagila) were built. Standing at the confluence of the Tigris River with a
+major canal from the [[ Euphrates ]], Seleucia was placed to receive traffic
+from both great waterways.
+
+During the 3rd and 2nd centuries BC, it was one of the great [[ Hellenistic ]]
+cities, comparable to [[ Alexandria ]] in [[ Egypt | ptolemaic-egypt ]], and
+greater than Syrian [[ Antioch ]]. Excavations indicate that the walls of the
+city enclosed an area of at least 550 hectares (1,400 acres), equivalent to a
+square roughly 1.5 miles (2.5 kilometers) on a side. Based on this size, the
+population has been estimated to number over 100,000 initially and probably
+more later. Its surrounding region might have supported half a million
+people.[[ ^5 ]]
+
+Polybius (5,52ff) uses the Macedonian //[[ peliganes ]]// for the council of
+Seleucia, which implies a Macedonian colony, consistent with its rise to
+prominence under Seleucus I; Pausanias
+([[ 1,16 | https://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Paus.+1.16.3 ]])
+records that Seleucus also settled [[ Babylonians | babylonia ]] there.
+Archaeological finds support the presence of a large population not of Greek
+culture.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tetradrachm_of_Mithridates_I_of_Parthia_-_Seleucia_on_the_Tigris_mint.jpg/250px-Tetradrachm_of_Mithridates_I_of_Parthia_-_Seleucia_on_the_Tigris_mint.jpg" height="115" width="228"
+
+  <figcaption>Tetradrachm of Mithridates I; Seleucia on the Tigris mint.
+
+In 141 BC, the Parthians under [[ Mithridates I | mithridates-i-of-parthia ]]
+conquered the city, and Seleucia became the western capital of the
+[[ Parthian Empire ]]. [[ Tacitus ]] described its walls, and mentioned that
+it was, even under Parthian rule, a fully Hellenistic city. Ancient texts
+claim that the city had 600,000 inhabitants, and was ruled by a senate of 300
+people. It was clearly one of the largest cities in the Western world; only
+Rome, [[ Alexandria ]], and possibly [[ Antioch ]] were more populous.
+
+In 55 BC, a battle fought near Seleucia was crucial in establishing dynastic
+succession of the [[ Arsacid ]] kings. In this battle between the reigning
+[[ Mithridates III | mithridates-iii-of-parthia ]] (supported by a Roman army
+of [[ Aulus Gabinius ]], governor of Syria) and the previously deposed
+[[ Orodes II ]], the reigning monarch was defeated, allowing Orodes to
+re-establish himself as king. In 41 BC, Seleucia was the scene of a massacre
+of around 5,000 Babylonian Jewish refugees ([[ Josephus ]],
+[[ //Ant.// | antiquities-of-the-jews ]] xviii. 9, § 9).[[ ^6 ]]
+
+In 117 AD, Seleucia was burned down by the Roman emperor [[ Trajan ]] during
+his conquest of Mesopotamia, but the following year it was ceded back to the
+Parthians by Trajan's successor, [[ Hadrian ]], then rebuilt in the
+[[ Parthian style ]]. It was completely destroyed by the
+[[ Roman | roman-empire ]] general [[ Avidius Cassius ]] in 165.[[ ^7 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Detail%2C_inscribed%2C_Greek_and_Parthian_script%2C_lower_part_of_a_bronze_statuette_of_Hercules%2C_from_Seleucia_on_the_Tigris%2C_Iraq._Iraq_Museum.jpg/250px-Detail%2C_inscribed%2C_Greek_and_Parthian_script%2C_lower_part_of_a_bronze_statuette_of_Hercules%2C_from_Seleucia_on_the_Tigris%2C_Iraq._Iraq_Museum.jpg" height="234" width="250"
+
+  <figcaption>Detail, inscribed, Greek and Parthian script, lower part of a bronze statuette of Hercules, from Seleucia on the Tigris, Iraq. Iraq Museum
+
+=== Sasanian rule
+
+Over sixty years later a new city, [[ Veh-Ardashir ]], was built across the
+river by [[ Persian | persia ]] emperor [[ Ardashir I ]]. This new city was
+long believed to be located at Seleucia but was shown by Italian excavations
+to be a fresh construction separate from Seleucia and [[ Ctesiphon ]]. There
+were active [[ Christian | christianity ]] churches in Mesopotamia from the
+1st century onwards and in the 3rd or 4th century Seleucia became an important
+centre.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Babylon%26Seleuicia1%28Peutinger_Map%29.png/250px-Babylon%26Seleuicia1%28Peutinger_Map%29.png" height="91" width="250"
+
+  <figcaption>Seleucia in the 4th century on the [[ Peutinger Map ]].
+
+Following the edict of toleration by the Persian
+[[ Sasanian | sasanian-empire ]] King [[ Yazdegerd I ]], which for the time
+being brought an end to the [[ persecution of Christians ]], which had lasted
+for 70 years, the remaining Christians set about reorganizing and
+strengthening the church.
+
+The [[ Council of Seleucia-Ctesiphon ]] (The Synod of Mar Isaac) met in 410 AD
+under the presidency of [[ Mar Isaac | mar-isaac-bishop ]], the
+[[ bishop of Seleucia-Ctesiphon ]]. The most important decision of the
+[[ Synod ]] which had a very far reaching effect on the life of the church,
+was to declare the
+[[ bishop of Seleucia-Ctesiphon | list-of-patriarchs-of-the-church-of-the-east ]]
+as the [[ primate | primate-bishop ]] of the [[ Church of the East ]]; and in
+recognition of this pre-eminence he was given the title '[[ Catholicos ]]'.
+The Synod confirmed Mar Isaac as Catholicos and Archbishop of all the Orient.
+The Synod also declared its adherence to the decision of the
+[[ Council of Nicaea | first-council-of-nicaea ]] and subscribed to the
+[[ Nicene Creed ]]. The Canons of the Synod leave no doubt as to the authority
+of the great Metropolitan, the Catholicos of Seleucia-Ctesiphon. Without his
+approval, no election of bishop would be valid.
+
+Towards the end of the reign of Yazdegerd I, the
+[[ Christians in the Sasanian Empire | christianity-in-the-sasanian-empire ]]
+were again persecuted in 420. Dadyeshu was elected Catholicos in 421 and
+himself suffered during the persecution and was imprisoned. When he was
+released he resigned and left Seleucia, but the church refused to accept the
+resignation and there followed the Synod of Dadyeshu, which met in 424 in
+Markabta of the Arabs under the presidency of Mar Dadyeshu. It proved to be
+one of the most significant of all Persian synods. The first synod of Isaac in
+410 had decided that the Catholicos of Seleucia-Ctesiphon be supreme among the
+bishops of the East. The Synod of Dadyeshu decided that the Catholicos should
+be the sole head of the Church of the East and that no ecclesiastical
+authority should be acknowledged above him. For the first time, this synod
+referred to the Catholicos as Patriarch and that their Catholicos was
+answerable to God alone. This had some effect in reassuring the Sasanian
+monarchy that the Persian Christians were not influenced by the Roman enemy.
+
+The city eventually faded into obscurity and was swallowed by the desert
+sands, probably abandoned after the Tigris shifted its course.
+
+== Archaeology
+
+The site of Seleucia was rediscovered in the 1920s by archaeologists looking
+for [[ Opis ]].[[ ^8 ]]
+
+Beginning in 1927, [[ University of Michigan ]] professors Leroy Waterman
+(1927–1932) and Clark Hopkins (1936–1937) oversaw excavations for the
+[[ Kelsey Museum of Archaeology ]] on behalf of the American School of
+Oriental Research of Baghdad with funds supplied by the
+[[ Toledo Museum of Art ]] and the
+[[ Cleveland Museum of Art ]].[[ ^9 ]][[ ^10 ]][[ ^11 ]] Finds included many
+coins, mostly bronze, salt receipts with the name of Seleucia, a blue glazed
+incense burner, now in the Baghdad museum, a stele inscribed in Greek,
+numerous beads, metal objects including weights and surgeons instruments, and
+one pre-Sargonic brick.[[ ^12 ]]
+
+From 1964 to 1968 and then between 1985 and 1989, an Italian mission from the
+[[ University of Turin ]] directed by Antonio Invernizzi and Giorgio Gullini
+excavated at the site. They found a Seleucid archive building with about
+30,000 seal impressions, all in a fully Greek
+style.[[ ^13 ]][[ ^14 ]][[ ^15 ]]
+
+In an outer wall of the Parthian period, a reused [[ brick ]] dated by stamp
+to 821 BC, during the [[ Neo-Assyrian ]] period.
+
+[[ ^1 ]]: Thomas A. Carlson et al., “Seleucia-Ctesiphon — ܣܠܝܩ ܘܩܛܝܣܦܘܢ ” in The Syriac Gazetteer last modified May 25, 2016, https://syriaca.org/place/2615.
+
+[[ ^2 ]]: Auguste Bouch-Leclerq, "Histoire des Se'leucides II", Paris, 1914
+
+[[ ^3 ]]: Karl Julius Beloch, "Griechische Geschichte IV i", Berlin, 1923
+
+[[ ^4 ]]: Hadley, Robert A., "The Foundation Date of Seleucia-on-the-Tigris", Historia: Zeitschrift Für Alte Geschichte, vol. 27, no. 1, pp. 228–30, 1978
+
+[[ ^5 ]]: Aperghis, G. G. (2004). [[ //The Seleukid Royal Economy: The Finances and Financial Administration of the Seleukid Empire// | https://books.google.com/books?id=39aLI4nkDqUC&pg=PA37 ]]. Oxford: Oxford University Press. pp. 37–38. ISBN [[ 9781139456135 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9781139456135 ]].
+
+[[ ^6 ]]: Joseph Jacobs; Schulim Ochser. [[ "Seleucia (Talmud, "Selik," "Selika," "Selikos," Ket. 10b, Mak. 10a; Targum, "Salwaḳia," "Salwaḳya"; Greek, Σελεύκεια)" | http://www.jewishencyclopedia.com/view.jsp?artid=451&letter=S ]]. //Jewish Encyclopedia//.
+
+[[ ^7 ]]: [[ //The History of the Decline and Fall of the Roman Empire//, by Edward Gibbon | https://web.archive.org/web/20080505055518/http://ebooks.adelaide.edu.au/g/gibbon/edward/g43d/chapter8.html#fn8.37 ]]
+
+[[ ^8 ]]: [[ "University of Michigan.edu" | https://web.archive.org/web/20120104113121/http://www.umich.edu/~kelseydb/Excavation/Seleucia.html ]]. Archived from [[ the original | http://www.umich.edu/~kelseydb/Excavation/Seleucia.html ]] on 2012-01-04. Retrieved 2005-12-10.
+
+[[ ^9 ]]: L. Watermann, "Preliminary Report upon the Excavations at Tel Umar Iraq", University of Michigan Press, 1931 (available for borrow at archive.org [[ https://archive.org/details/preliminaryrepor0000lero | https://archive.org/details/preliminaryrepor0000lero ]])
+
+[[ ^10 ]]: L. Watermann, "Second Preliminary Report upon the Excavations at Tel Umar Iraq", University of Michigan Press, 1933 (available for borrow at archive.org [[ https://archive.org/details/secondpreliminar0000lero | https://archive.org/details/secondpreliminar0000lero ]])
+
+[[ ^11 ]]: Howard C. Hollis, Material from Seleucia, The Bulletin of the Cleveland Museum of Art, vol. 20, no. 8, pp. 129-131, 1933
+
+[[ ^12 ]]: L. Waterman, "Professor Waterman’s Work at Seleucia", Bulletin of the American Schools of Oriental Research, no. 35, pp. 25–27, 1929
+
+[[ ^13 ]]: G. Gullini, First Report of the Results of the First Excavation Campaign at Seleucia and Ctesiphon: 1st oct. – 17th dec. 1964, Sumer, vol. 20, pp. 63-65, 1964
+
+[[ ^14 ]]: A. Invernizzi, The Excavations at the Archives Building, Mesopotamia, vol. VII, pp. 13-16, 1972
+
+[[ ^15 ]]: A. Invernizzi, The Excavations at the Archives Building, Mesopotamia, vol. VIII, pp. 9-14, 1973–74

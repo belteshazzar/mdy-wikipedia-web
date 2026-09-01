@@ -1,0 +1,1790 @@
++++
+title: Ebla
+description: Ancient Syrian city
+coordinates:
+  lat: 35.798
+  lon: 36.798
+image: https://upload.wikimedia.org/wikipedia/commons/4/4b/HPIM3078_1.JPG
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/HPIM3078_1.JPG/330px-HPIM3078_1.JPG
+    caption: Ruins of the outer wall and the "Damascus Gate"
+  type: settlement
+  periods: Bronze Age
+  cultures: Kish civilization, Amorite
+  location: Idlib Governorate, Syria
+  history:
+    built: c. 3500 BC
+    abandoned: 7th century AD
+  site-notes:
+    excavation-dates: 1964–2011
+    archaeologists: Paolo Matthiae
+    condition: Ruined
+    owner: Public
+    public-access: Yes
+images:
+  - file: Ebla_-_DecArch_-_2-126.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ebla_-_DecArch_-_2-126.jpg/250px-Ebla_-_DecArch_-_2-126.jpg
+    width: 4416
+    height: 2944
+    caption: Royal palace "G"
+  - file: Ancient_Near_East_2400BC.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ancient_Near_East_2400BC.svg/500px-Ancient_Near_East_2400BC.svg.png
+    width: 2102
+    height: 1510
+    caption: Ebla on the map of Ancient Orient around 2400 BCE. Conflict between
+      Ebla and Mari.
+  - file: Akkadian_soldier_of_Naram-Sin.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Akkadian_soldier_of_Naram-Sin.jpg/250px-Akkadian_soldier_of_Naram-Sin.jpg
+    width: 1336
+    height: 2464
+    caption: Akkadian soldier of Naram-Sin, with helmet and long sword, on the
+      Nasiriyah stele. He carries a metal vessel of Anatolian type. From
+      Mesopotamia, Iraq, c. 2300 BC. Iraq Museum.
+  - file: Ebla9.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ebla9.JPG/250px-Ebla9.JPG
+    width: 1600
+    height: 1200
+    caption: Palace "P5"
+  - file: Ibbit-Lim.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ibbit-Lim.png/250px-Ibbit-Lim.png
+    width: 343
+    height: 345
+    caption: Statue fragment of Ibbit-Lim.
+  - file: HPIM3077.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HPIM3077.JPG/250px-HPIM3077.JPG
+    width: 2304
+    height: 1728
+    caption: The vizier palace
+  - file: Ebla_main_sites.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ebla_main_sites.jpg/250px-Ebla_main_sites.jpg
+    width: 2016
+    height: 2778
+    caption: Ebla's landmarks
+  - file: Ebla_ziggurat.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ebla_ziggurat.jpg/250px-Ebla_ziggurat.jpg
+    width: 500
+    height: 375
+    caption: Part of a ziggurat in Ebla
+  - file: Ebla.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ebla.jpg/250px-Ebla.jpg
+    width: 2272
+    height: 1704
+    caption: The western palace "Q" situated above the royal necropolis
+  - file: Eblaite_tombs.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eblaite_tombs.png/250px-Eblaite_tombs.png
+    width: 1688
+    height: 1496
+    caption: Plan of the western palace tombs
+  - file: Ebla6.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ebla6.JPG/250px-Ebla6.JPG
+    width: 1600
+    height: 1200
+    caption: Royal palace "G" courtyard
+  - file: Ancestry_proportion_of_Nuwayrat_and_comparative_Bronze_Age_Levantine_and_Anatolian_genomes_for_the_best-fit_full_model_(qpAdm).png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ancestry_proportion_of_Nuwayrat_and_comparative_Bronze_Age_Levantine_and_Anatolian_genomes_for_the_best-fit_full_model_%28qpAdm%29.png/250px-Ancestry_proportion_of_Nuwayrat_and_comparative_Bronze_Age_Levantine_and_Anatolian_genomes_for_the_best-fit_full_model_%28qpAdm%29.png
+    width: 628
+    height: 933
+    caption: Ancestry proportions of Ebla, Ashkelon, Baq'ah and Nuwayrat Bronze Age
+      samples for the best-fit full model (qpAdm).
+wikidata:
+  id: Q5743
+  label: Ebla
+  description: ancient city
+  claims:
+    country: Syria
+    instance-of:
+      - value: ancient city
+      - value: tell
+      - value: historical country
+        from: 1800 BC
+      - value: historical period
+        from: 2350 BC
+        to: 2250 BC
+    commons-category: Ebla
+    coordinate-location:
+      lat: 35.798056
+      lon: 36.798611
+    topic-s-main-category: Category:Ebla
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Ebla.jpg
+    inception: 3000 BC
+    located-in-the-administrative-territorial-entity: Idlib Governorate
+    dissolved-abolished-or-demolished: 2240 BC
+    world-heritage-criteria:
+      - (iii)
+      - (vi)
+    heritage-designation:
+      value: Tentative World Heritage Site
+      from: 1999-06-08
+    language-used: Canaanite
+    locator-map-image:
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Kingdom_of_Ebla.png
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Syria_physical_location_map.svg
+    different-from: Elbe
+    on-focus-list-of-wikimedia-project:
+      value: Wikipedia:Vital articles/Level/4
+      when: 2022-10-31
+categories:
+  - Amorite cities
+  - Ancient Levant
+  - Ebla
+  - Former kingdoms
+  - Former populated places in Syria
+  - Kish civilization
+  - States and territories disestablished in the 16th century BC
+  - States and territories established in the 4th millennium BC
+  - Tells (archaeology)
+langlinks:
+  am: ኤብላ
+  ar: إبلا
+  arz: ايبلا
+  ast: Ebla
+  az: Ebla
+  azb: ابلا
+  ba: Эбла
+  be: Эбла
+  bg: Ебла
+  bn: ইবলা
+  ca: Ebla
+  ckb: ئیبلا
+  cs: Ebla
+  da: Ebla
+  de: Ebla
+  el: Έμπλα
+  eo: Ebla
+  es: Ebla
+  eu: Ebla
+  fa: ابلا
+  fi: Ebla
+  fr: Ebla
+  gl: Ebla
+  he: אבלה
+  hi: एब्ला
+  hr: Ebla
+  hu: Ebla
+  hy: Էբլա
+  id: Ebla
+  it: Ebla
+  ja: エブラ
+  ko: 에블라
+  lt: Ebla
+  lv: Ebla
+  nl: Ebla
+  nb: Ebla
+  oc: Ebla
+  pl: Ebla
+  pnb: ایبلا
+  ps: اېبلا
+  pt: Ebla
+  ro: Ebla
+  ru: Эбла
+  sl: Ebla
+  sq: Ebla
+  sr: Ебла
+  sv: Ebla
+  ta: எப்லா இராச்சியம்
+  tr: Ebla
+  ug: ئېبلا
+  uk: Ебла
+  ur: ابلا
+  vi: Ebla
+  zh: 埃勃拉
+  nan: Ebla
+link-titles:
+  23rd-century-bc: 23rd century BC
+  2nd-millennium-bc: 2nd millennium BC
+  3rd-millennium-bc: 3rd millennium BC
+  abarsal: Abarsal
+  adamma-goddess: Adamma (goddess)
+  afghanistan: Afghanistan
+  afroasiatic-languages: Afroasiatic languages
+  akkadian-empire: Akkadian Empire
+  akkadian-language: Akkadian language
+  al-ghab-plain: Al-Ghab Plain
+  alalakh: Alalakh
+  aleppo: Aleppo
+  alfonso-archiactioneditredlink1: Alfonso Archi?action=edit&redlink=1
+  amar-sin: Amar-Sin
+  ammitaqumactioneditredlink1: Ammitaqum?action=edit&redlink=1
+  amorite: Amorite
+  ancient-egypt: Ancient Egypt
+  ancient-near-east: Ancient Near East
+  arabic-language: Arabic language
+  armanum: Armanum
+  armi-syria: Armi (Syria)
+  ashkelon: Ashkelon
+  atarib: Atarib
+  aštabi: Aštabi
+  baqaa-valley: Baqa'a Valley
+  barama-goddess: Barama (goddess)
+  binnish: Binnish
+  bronze-age: Bronze Age
+  byblos: Byblos
+  carchemish: Carchemish
+  ceramic: Ceramic
+  chalcolithic: Chalcolithic
+  chemosh: Chemosh
+  club-weapon: Club (weapon)
+  corbel-arch: Corbel arch
+  cuneiform: Cuneiform
+  cuneiform-script: Cuneiform (script)
+  cyprus: Cyprus
+  dna: DNA
+  dagon: Dagon
+  damascus: Damascus
+  damu: Damu
+  eannatum: Eannatum
+  east-semitic: East Semitic
+  east-semitic-languages: East Semitic languages
+  ebla-tablets: Ebla tablets
+  eblaite-language: Eblaite language
+  egypt: Egypt
+  emar: Emar
+  ensí: Ensí
+  entrepôt: Entrepôt
+  giovanni-pettinato: Giovanni Pettinato
+  glossary-of-architecture: Glossary of architecture
+  gold: Gold
+  grave-goods: Grave goods
+  gudea: Gudea
+  hadabal: Hadabal
+  hadad: Hadad
+  haddu: Haddu
+  halabatu: Halabatu
+  halabiye: Halabiye
+  haplogroup: Haplogroup
+  haplogroup-e1b1b: Haplogroup E1b1b
+  haplogroup-g-m201: Haplogroup G-M201
+  haplogroup-j-m267: Haplogroup J-M267
+  haplogroup-t-y-dna: Haplogroup T (Y-DNA)
+  harim-mountains: Harim Mountains
+  harran: Harran
+  hittites: Hittites
+  hotepibre: Hotepibre
+  hurrian: Hurrian
+  hurrians: Hurrians
+  i.-j.-gelb: I. J. Gelb
+  ibal: Ib'al
+  ibbi-sipish: Ibbi-Sipish
+  ibbit-lim: Ibbit-Lim
+  iblul-il: Iblul-Il
+  ibrium: Ibrium
+  igrish-halam: Igrish-Halam
+  ikinkalisactioneditredlink1: Ikinkalis?action=edit&redlink=1
+  immeya: Immeya
+  indilimma: Indilimma
+  iraq-museum: Iraq Museum
+  irkab-damu: Irkab-Damu
+  iron-age: Iron Age
+  irridu: Irridu
+  isar-damu: Isar-Damu
+  ishtar: Ishtar
+  isin-larsa-period: Isin-Larsa period
+  isqi-mari: Isqi-Mari
+  išḫara: Išḫara
+  jabal-zawiya: Jabal Zawiya
+  karl-moore-academic: Karl Moore (academic)
+  khafre: Khafre
+  khashshum: Khashshum
+  khôra: Khôra
+  kish-sumer: Kish (Sumer)
+  kish-civilization: Kish civilization
+  kothar-wa-khasis: Kothar-wa-Khasis
+  kun-damu: Kun-Damu
+  kunga-equid: Kunga (equid)
+  kura-deity: Kura (deity)
+  lagash: Lagash
+  lapis-lazuli: Lapis lazuli
+  levant: Levant
+  logogram: Logogram
+  lugalzagesi: Lugalzagesi
+  mardikh: Mardikh
+  mari-syria: Mari, Syria
+  maria-bigaactioneditredlink1: Maria Biga?action=edit&redlink=1
+  mario-liverani: Mario Liverani
+  masonry-oven: Masonry oven
+  meki-of-eblaactioneditredlink1: Meki of Ebla?action=edit&redlink=1
+  mesopotamia: Mesopotamia
+  michael-astour: Michael Astour
+  middle-chronology: Middle Chronology
+  mother-of-pearl: Mother-of-pearl
+  mount-al-hass: Mount al-Hass
+  mursili-i: Mursili I
+  naram-sin-of-akkad: Naram-Sin of Akkad
+  necropolis: Necropolis
+  northwestern-syria-offensive-december-2019march-2020: Northwestern Syria offensive (December 2019–March 2020)
+  nur-mountains: Nur Mountains
+  nuwayrat: Nuwayrat
+  paolo-matthiae: Paolo Matthiae
+  pastoralism: Pastoralism
+  patriarchs-bible: Patriarchs (Bible)
+  pepi-i: Pepi I
+  phoenicia: Phoenicia
+  polytheism: Polytheism
+  pre-pottery-neolithic-b: Pre-Pottery Neolithic B
+  prosopography: Prosopography
+  qatna: Qatna
+  resheph: Resheph
+  sabkhat-al-jabbul: Sabkhat al-Jabbul
+  samuel-finer: Samuel Finer
+  sapienza-university-of-rome: Sapienza University of Rome
+  sargon-of-akkad: Sargon of Akkad
+  saʿumu: Saʿumu
+  semitic-languages: Semitic languages
+  shahar-god: Shahar (god)
+  shalim: Shalim
+  shamash: Shamash
+  shapash-canaanite-goddess: Shapash (Canaanite goddess)
+  silver: Silver
+  sodom-and-gomorrah: Sodom and Gomorrah
+  sumer: Sumer
+  sumerian-language: Sumerian language
+  sweyhat: Sweyhat
+  syria: Syria
+  syrian-arab-armed-forces-baathist-syria: Syrian Arab Armed Forces (Ba'athist Syria)
+  syrian-civil-war: Syrian Civil War
+  syrian-coastal-mountain-range: Syrian Coastal Mountain Range
+  syrian-opposition: Syrian opposition
+  tell-archaeology: Tell (archaeology)
+  tell-brak: Tell Brak
+  terqa: Terqa
+  teshub: Teshub
+  third-dynasty-of-ur: Third Dynasty of Ur
+  treaty-between-ebla-and-abarsal: Treaty between Ebla and Abarsal
+  trevor-r.-bryce: Trevor R. Bryce
+  tropical-year: Tropical year
+  ubaid-period: Ubaid period
+  ugarit: Ugarit
+  umma: Umma
+  university-of-rome-la-sapienza: University of Rome La Sapienza
+  ur-iii: Ur III
+  urshu: Urshu
+  utu: Utu
+  vassal: Vassal
+  venus: Venus
+  vizier-ebla: Vizier (Ebla)
+  west-asian: West Asian
+  west-semitic-languages: West Semitic languages
+  wool: Wool
+  yahweh: Yahweh
+  yamhad: Yamhad
+  yamhad-dynasty: Yamhad dynasty
+  yarim-lim-iii: Yarim-Lim III
+  zalabiye: Zalabiye
+  ziggurat: Ziggurat
+sections:
+  - level: 2
+    id: etymology
+    title: Etymology
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: chalcolithic
+    title: Chalcolithic
+  - level: 3
+    id: early-bronze
+    title: Early Bronze
+  - level: 4
+    id: first-kingdom
+    title: First kingdom
+  - level: 5
+    id: geography
+    title: Geography
+  - level: 4
+    id: first-destruction-of-ebla
+    title: First destruction of Ebla
+  - level: 4
+    id: second-kingdom
+    title: Second kingdom
+  - level: 3
+    id: middle-bronze
+    title: Middle Bronze
+  - level: 4
+    id: third-kingdom
+    title: Third kingdom
+  - level: 4
+    id: middle-bronze-i---mardikh-iiia
+    title: Middle Bronze I - Mardikh IIIA
+  - level: 4
+    id: middle-bronze-ii---mardikh-iiib
+    title: Middle Bronze II - Mardikh IIIB
+  - level: 3
+    id: late-bronze-age
+    title: Late Bronze Age
+  - level: 3
+    id: iron-age-and-later
+    title: Iron Age and later
+  - level: 2
+    id: site
+    title: Site
+  - level: 3
+    id: layout
+    title: Layout
+  - level: 3
+    id: royal-burials
+    title: Royal burials
+  - level: 4
+    id: hypogeum-g4
+    title: Hypogeum G4
+  - level: 4
+    id: western-palace-tombs
+    title: Western palace tombs
+  - level: 2
+    id: government
+    title: Government
+  - level: 3
+    id: administration-of-the-first-kingdom
+    title: Administration of the first kingdom
+  - level: 4
+    id: administrative-divisions
+    title: Administrative divisions
+  - level: 4
+    id: chora
+    title: Chora
+  - level: 2
+    id: people-language-and-culture
+    title: People, language, and culture
+  - level: 3
+    id: the-first-and-second-kingdoms
+    title: The first and second kingdoms
+  - level: 3
+    id: the-third-kingdom
+    title: The third kingdom
+  - level: 3
+    id: genetics
+    title: Genetics
+  - level: 2
+    id: economy
+    title: Economy
+  - level: 2
+    id: religion
+    title: Religion
+  - level: 3
+    id: biblical-connection-theories
+    title: Biblical connection theories
+  - level: 2
+    id: excavations
+    title: Excavations
+  - level: 3
+    id: library
+    title: Library
+  - level: 3
+    id: legacy
+    title: Legacy
+  - level: 2
+    id: syrian-civil-war
+    title: Syrian civil war
+source:
+  site: Wikipedia
+  lang: en
+  title: Ebla
+  url: https://en.wikipedia.org/wiki/Ebla
+  page-id: 306533
+  revision: "1368780533"
+  modified: 2026-08-11T02:05:49Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Ebla"
+    (revision 1368780533), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+!!Ebla!! ([[ Sumerian | sumerian-language ]]: 𒌈𒆷 //eb₂-la//,[[ ^1 ]] Arabic:
+إبلا, modern: تل مرديخ, !!Tell Mardikh!!) was one of the earliest kingdoms in
+[[ Syria ]]. Its remains constitute a [[ tell | tell-archaeology ]] located
+about 55 km (34 mi) southwest of [[ Aleppo ]] near the village of
+[[ Mardikh ]]. Ebla was an important center throughout the
+[[ 3rd millennium BC ]] and in the first half of the [[ 2nd millennium BC ]].
+Its discovery proved the [[ Levant ]] was a center of ancient, centralized
+civilization equal to [[ Egypt | ancient-egypt ]] and [[ Mesopotamia ]] and
+ruled out the view that the latter two were the only important centers in the
+[[ Near East | ancient-near-east ]] during the Early [[ Bronze Age ]].
+
+Starting as a small settlement in the Early Bronze Age (c. 3500 BC), Ebla
+developed into a trading empire and later into an expansionist power that
+imposed its hegemony over much of northern and eastern Syria.[[ ^2 ]] Ebla was
+destroyed during the [[ 23rd century BC ]]. It was then rebuilt and was
+mentioned in the records of the [[ Third Dynasty of Ur ]]. The second Ebla was
+a continuation of the first, ruled by a new royal dynasty. It was destroyed at
+the end of the 3rd millennium BC, which paved the way for the [[ Amorite ]]
+tribes to settle in the city, forming the third Ebla. The third kingdom also
+flourished as a trade center; it became a subject and an ally of [[ Yamhad ]]
+(modern-day Aleppo) until its final destruction by the
+[[ Hittite | hittites ]] king [[ Mursili I ]] in c. 1600 BC.
+
+Ebla maintained its prosperity through a vast trading network. Artifacts from
+[[ Sumer ]], [[ Cyprus ]], [[ Egypt ]] and as far as [[ Afghanistan ]] were
+recovered from the city's palaces. The kingdom had its own language,
+[[ Eblaite | eblaite-language ]], and the political organization of Ebla had
+features different from the Sumerian model. Women enjoyed a special status,
+and the queen had major influence in the state and religious affairs. The
+pantheon of gods was mainly north Semitic and included deities exclusive to
+Ebla. The city was excavated from 1964 and became famous for the
+[[ Ebla tablets ]], an archive of about 20,000 [[ cuneiform ]] tablets found
+there, dated to 2500 BC–2350 BC.[[ ^1 ]][[ ^3 ]][[ ^4 ]] Written in both
+[[ Sumerian | sumerian-language ]] and Eblaite and using the [[ cuneiform ]],
+the archive has allowed a better understanding of the Sumerian language and
+provided important information over the political organization and social
+customs of the mid-3rd millennium BC's Levant.
+
+Based on remote sensing as of 2022, the site has been and continued to be
+heavily damaged by military activity and associated looting. Especially
+important, "The central high mound was badly damaged in February 2017 by
+military trenching and looting, which became even more severe by October
+2022".[[ ^5 ]]
+
+== Etymology
+
+The word "Ebla" may derive from a [[ Semitic | semitic-languages ]] word
+meaning "white rock", possibly referring to the limestone outcrop on which the
+city was built.[[ ^6 ]] It has been reported that local people still often use
+the toponym //Tell Abyad// (Arabic: تل أبيض, //tal ˈabyaḍ//), literally "White
+Hill".[[ ^7 ]]
+
+== History
+
+=== Chalcolithic
+
+Artifacts from the late [[ Ubaid | ubaid-period ]] and late [[ Chalcolithic ]]
+periods were recovered from the central mound.[[ ^8 ]]
+
+=== Early Bronze
+
+Ebla was first settled around 3500 BC;[[ ^9 ]][[ ^10 ]] its growth was
+supported by many satellite agricultural settlements.[[ ^9 ]] The city
+benefited from its role as an [[ entrepôt ]] of growing international trade,
+which probably began with an increased demand for [[ wool ]] in
+[[ Sumer ]].[[ ^9 ]] Archaeologists designate this early habitation period
+"Mardikh I"; it ended around 3000 BC.[[ ^11 ]]
+
+Mardikh I is followed by the first and second kingdoms era between about 3000
+and 2000 BC, designated "Mardikh II".[[ ^12 ]] [[ I. J. Gelb ]] considered
+Ebla a part of the [[ Kish civilization ]], which was a cultural entity of
+[[ East Semitic | east-semitic-languages ]]-speaking populations that
+stretched from the center of Mesopotamia to the western Levant.[[ ^13 ]]
+
+==== First kingdom
+
+Ebla was the most prominent kingdom among the Syrian states during the first
+kingdom period between about 3000 and 2300 BC, particularly during the second
+half of the 3rd millennium BC, known as "the age of the archives" after the
+Ebla tablets.[[ ^12 ]]
+
+!!Mardikh IIA!!: The early period between 3000 and 2400 BC is designated
+"Mardikh IIA".[[ ^12 ]][[ ^15 ]] General knowledge about the city's history
+prior to the written archives is obtained through excavations.[[ ^16 ]] The
+first stages of Mardikh IIA is identified with building "CC",[[ ^17 ]] and
+structures that form a part of building "G2",[[ ^18 ]] which was apparently a
+royal palace built c. 2700 BC.[[ ^9 ]][[ ^19 ]] Toward the end of this period,
+a [[ hundred years' war | mari-syria#mariebla-war ]] with
+[[ Mari | mari-syria ]] started.[[ ^20 ]][[ ^21 ]] Mari gained the upper hand
+through the actions of its king [[ Saʿumu ]], who conquered many of Ebla's
+cities.[[ ^22 ]] In the mid-25th century BC, king [[ Kun-Damu ]] defeated
+Mari, but the state's power declined following his reign.[[ ^2 ]][[ ^23 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ebla_-_DecArch_-_2-126.jpg/250px-Ebla_-_DecArch_-_2-126.jpg" height="167" width="250"
+
+  <figcaption>Royal palace "G"
+
+!!Mardikh IIB1!!: The archive period, which is designated "Mardikh IIB1",
+lasted from c. 2400 BC until c. 2300 BC.[[ ^12 ]] The end of the period is
+known as the "first destruction",[[ ^24 ]] mainly referring to the destruction
+of the royal palace (called palace "G" and built over the earlier
+"G2"),[[ ^25 ]] and much of the acropolis.[[ ^26 ]] During the archive period,
+Ebla had political and military dominance over the other Syrian city-states of
+northern and eastern Syria, which are mentioned in the archives.[[ ^27 ]] Most
+of the tablets, which date from that period, are about economic matters but
+also include royal letters and diplomatic documents.[[ ^28 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ancient_Near_East_2400BC.svg/500px-Ancient_Near_East_2400BC.svg.png" height="244" width="340"
+
+  <figcaption>Ebla on the map of Ancient Orient around 2400 BCE. Conflict between Ebla and Mari.
+
+The written archives do not date from before [[ Igrish-Halam ]]'s
+reign,[[ ^29 ]] which saw Ebla paying tribute to Mari,[[ ^30 ]] and an
+extensive invasion of Eblaite cities in the middle Euphrates region led by the
+Mariote king [[ Iblul-Il ]].[[ ^31 ]][[ ^32 ]] Ebla recovered under King
+[[ Irkab-Damu ]] in about 2340 BC; becoming prosperous and launching a
+successful counter-offensive against Mari.[[ ^33 ]][[ ^34 ]] Irkab-Damu
+concluded a peace and trading treaty with [[ Abarsal ]].[[ ^3 ]][[ ^35 ]] This
+[[ Treaty between Ebla and Abarsal ]] is one of the earliest-recorded treaties
+in history.[[ ^36 ]]
+
+===== Geography
+
+At its greatest extent, Ebla controlled an area roughly half the size of
+modern Syria,[[ ^37 ]] from [[ Ursa'um | urshu ]] in the north,[[ ^38 ]] to
+the area around [[ Damascus ]] in the south,[[ ^39 ]] and from
+[[ Phoenicia | phoenicia#origins ]] and the
+[[ coastal mountains | syrian-coastal-mountain-range ]] in the
+west,[[ ^40 ]][[ ^41 ]] to [[ Haddu ]] in the east.[[ ^35 ]][[ ^42 ]] Large
+parts of the kingdom were under the direct control of the king and were
+administered by governors; the rest consisted of [[ vassal ]]
+kingdoms.[[ ^37 ]] One of the most important of these vassals was
+[[ Armi | armi-syria ]],[[ ^43 ]] which is the city most often mentioned in
+the Ebla tablets.[[ ^44 ]] Ebla had more than sixty vassal kingdoms and
+city-states,[[ ^45 ]] including [[ Hazuwan | khashshum ]],
+[[ Burman | sweyhat ]], [[ Emar ]], [[ Halabitu | halabiye ]] and
+[[ Salbatu | zalabiye ]].[[ ^34 ]][[ ^42 ]][[ ^46 ]]
+
+According to Archi, these are "the twelve Syrian cities long allied with Ebla
+that (presumably) assisted in some way during the expedition against Mari:
+NIrar, Ra’ak, Burman, Dub, Emar, Garmu, Lumnan, Ibubu, [[ Ursaum | urshu ]],
+Utik, Kakmium, and Iritum ([[ Irridu ]])." Furthermore, the following cities
+were under Ebla's hegemony at that time, and annually delivered tribute: Dub,
+Dulu, [[ Harran ]], Ibubu, Iritum, Kablul, Sanapzugum, Ursaum, and
+Utik.[[ ^47 ]]
+
+Modern scholars have termed the king's chief official "the
+[[ vizier | vizier-ebla ]]".[[ ^48 ]] The most powerful vizier was
+[[ Ibrium ]], who campaigned against Abarsal during the term of his
+predecessor Arrukum.[[ ^49 ]] Ibrium held office for 18 years with warfare
+occurring in all but one year.[[ ^50 ]] During the reign of [[ Isar-Damu ]],
+Ebla continued the war against Mari, which defeated Ebla's ally
+[[ Nagar | tell-brak#kingdom-of-nagar ]], blocking trade routes between Ebla
+and southern Mesopotamia via upper Mesopotamia.[[ ^30 ]] Ebla conducted
+regular military campaigns against rebellious vassals,[[ ^49 ]] including
+several attacks on Armi,[[ ^51 ]][[ ^52 ]][[ ^44 ]] and a campaign against the
+southern region of [[ Ib'al ]] – close to [[ Qatna ]].[[ ^49 ]][[ ^53 ]] In
+order to settle the war with Mari, Isar-Damu allied with Nagar and
+[[ Kish | kish-sumer ]]. Some scholars have suggested that the Kish in
+question was not the Mesopotamian city but rather a town near Nagar in the
+Khabur area.[[ ^54 ]][[ ^55 ]] The campaign was headed by the Eblaite vizier
+[[ Ibbi-Sipish ]], who led the combined armies to victory in a battle near
+[[ Terqa ]].[[ ^49 ]] The alliance also attacked Armi and occupied it, leaving
+Ibbi-Sipish's son Enzi-Malik as governor.[[ ^44 ]] Ebla suffered its first
+destruction a few years after the campaign,[[ ^56 ]] probably following
+Isar-Damu's death.[[ ^57 ]]
+
+==== First destruction of Ebla
+
+The first destruction occurred c. 2300 BC; palace "G" was burned, baking the
+clay tablets of the royal archives and preserving them.[[ ^58 ]] Many theories
+about the cause and the perpetrator have been posited:[[ ^56 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Akkadian_soldier_of_Naram-Sin.jpg/250px-Akkadian_soldier_of_Naram-Sin.jpg" height="461" width="250"
+
+  <figcaption>[[ Akkadian | akkadian-empire ]] soldier of [[ Naram-Sin | naram-sin-of-akkad ]], with helmet and long sword, on the Nasiriyah stele. He carries a metal vessel of Anatolian type. From [[ Mesopotamia ]], Iraq, c. 2300 BC. [[ Iraq Museum ]].[[ ^59 ]]
+
+- !!High (early) dating hypothesis!!: [[ Giovanni Pettinato ]] supports an early dating for Ebla that would put the destruction at around 2500BC.[[ ^4 ]][[ ^61 ]] Pettinato, while preferring the date of 2500BC, later accepted the event could have happened in 2400BC.[[ ^5 ]][[ ^62 ]] The scholar suggests the city was destroyed in 2400BC by a Mesopotamian such as [[ Eannatum ]] of Lagash – who boasted of taking tribute from Mari – or [[ Lugalzagesi ]] of [[ Umma ]], who claimed to have reached the Mediterranean.[[ ^6 ]][[ ^62 ]]
+- !!Akkadian hypothesis!!: Both kings [[ Sargon of Akkad ]] and his grandson [[ Naram-Sin | naram-sin-of-akkad ]] claimed to have destroyed a town called Ibla.[[ ^63 ]] The discoverer of Ebla, [[ Paolo Matthiae ]], considers Sargon a more likely culprit;[[ ^7 ]][[ ^65 ]] his view is supported by [[ Trevor Bryce | trevor-r.-bryce ]],[[ ^66 ]] but rejected by [[ Michael Astour ]].[[ ^8 ]][[ ^70 ]] The conquest of [[ Armanum ]] and Ebla on the Mediterranean coast by Naram-Sin is mentioned in several of his inscriptions:[[ ^71 ]]
+
+<blockquote
+  "Whereas, for all time since the creation of mankind, no king whosoever had
+  destroyed Armanum and Ebla, the god Nergal, by means of (his) weapons opened
+  the way for Naram-Sin, the mighty, and gave him Armanum and Ebla. Further, he
+  gave to him the Amanus, the Cedar Mountain, and the Upper Sea. By means of the
+  weapons of the god Dagan, who magnifies his kingship, Naram-Sin, the mighty,
+  conquered Armanum and Ebla."
+
+— Inscription of Naram-Sin. E 2.1.4.26[[ ^71 ]]
+
+- !!Mari's revenge!!: According to Alfonso Archi and Maria Biga, the destruction happened approximately three or four years after the battle at Terqa.[[ ^56 ]] Archi and Biga say the destruction was caused by Mari[[ ^56 ]] in retaliation for its humiliating defeat at Terqa.[[ ^72 ]][[ ^73 ]] This view is supported by [[ Mario Liverani ]].[[ ^49 ]] Archi says the Mariote king [[ Isqi-Mari ]] destroyed Ebla before ascending the throne of his city.[[ ^74 ]]
+- !!Natural catastrophe!!: Astour says a natural catastrophe caused the blaze which ended the archive period.[[ ^26 ]] He says the destruction was limited to the area of the royal palace and there is no convincing evidence of looting.[[ ^26 ]] He dates the fire to c.2290BC ([[ Middle Chronology ]]).[[ ^75 ]]
+
+==== Second kingdom
+
+The second kingdom's period is designated "Mardikh IIB2", and spans the period
+between 2300 and 2000 BC.[[ ^24 ]] The second kingdom lasted until Ebla's
+second destruction, which occurred anytime between 2050 and 1950 BC, with the
+2000 BC dating being a mere formal date.[[ ^76 ]][[ ^77 ]] The
+[[ Akkadians | akkadian-empire ]] under [[ Sargon of Akkad ]] and his
+descendant [[ Naram-Sin | naram-sin-of-akkad ]] invaded the northern borders
+of Ebla aiming for the forests of the [[ Amanus Mountain | nur-mountains ]];
+the intrusions were separated by roughly 90 years and the areas attacked were
+not attached to Akkad.[[ ^21 ]] Archi accept that the Ibla mentioned in the
+annals of Sargon and Naram-Sin is the Syrian Ebla but do not consider them
+responsible for the destruction which ended the Archive period.[[ ^78 ]] By
+the time of Naram-Sin, Armi was the hegemonic city in northern Syria and was
+destroyed by the Akkadian king.[[ ^79 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ebla9.JPG/250px-Ebla9.JPG" height="188" width="250"
+
+  <figcaption>Palace "P5"
+
+A new local dynasty ruled the second kingdom of Ebla,[[ ^66 ]] but there was
+continuity with its first kingdom heritage.[[ ^80 ]] Ebla maintained its
+earliest features, including its architectural style and the sanctity of the
+first kingdom's religious sites.[[ ^81 ]] A new royal palace was built in the
+lower town,[[ ^82 ]] and the transition from the archive period is marked only
+by the destruction of palace "G".[[ ^26 ]] Little is known about the second
+kingdom because no written material have been discovered aside from one
+inscription dating to the end of the period.[[ ^82 ]]
+
+The second kingdom was attested in contemporaneous sources; in an inscription,
+[[ Gudea ]] of [[ Lagash ]] asked for cedars to be brought from [[ Urshu ]] in
+the mountains of Ebla, indicating Ebla's territory included Urshu north of
+[[ Carchemish ]] in modern-day Turkey.[[ ^83 ]] Texts that dates to the
+seventh year of [[ Amar-Sin ]] (c. 2040 BC),[[ ^9 ]] a ruler of the
+[[ Ur III ]] empire, mention a messenger of the [[ Ensí ]] ("Megum") of
+Ebla.[[ ^10 ]][[ ^11 ]][[ ^90 ]] The second kingdom was considered a vassal by
+the [[ Ur III | third-dynasty-of-ur ]] government,[[ ^91 ]] but the nature of
+the relation is unknown and it included the payment of tribute.[[ ^92 ]] A
+formal recognition of Ur's overlordship appears to be a condition for the
+right of trade with that empire.[[ ^38 ]]
+
+The second kingdom disintegrated toward the end of the 21st century
+BC,[[ ^38 ]] and ended with the destruction of the city by fire, although
+evidence for the event has only been found outside of the so-called "Temple of
+the Rock", and in the area around palace "E" on the acropolis.[[ ^81 ]]
+Conflict may have preceded the fire;[[ ^81 ]] according to Astour, it could
+have been the result of a [[ Hurrian ]] invasion c. 2030 BC,[[ ^93 ]] led by
+the former Eblaite vassal city of Ikinkalis.[[ ^12 ]][[ ^95 ]] The destruction
+of Ebla is mentioned in the fragmentary [[ Hurro | hurrians ]]-Hittite
+legendary epic "Song of Release" discovered in 1983,[[ ^96 ]] which Astour
+considers as describing the destruction of the second kingdom.[[ ^97 ]] In the
+epic, an Eblaite assembly led by a man called "Zazalla" prevents king Meki
+from showing mercy to prisoners from Ebla's former vassal Ikinkalis,[[ ^94 ]]
+provoking the wrath of the Hurrian storm god [[ Teshub ]] and causing him to
+destroy the city.[[ ^98 ]]
+
+=== Middle Bronze
+
+==== Third kingdom
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ibbit-Lim.png/250px-Ibbit-Lim.png" height="251" width="250"
+
+  <figcaption>Statue fragment of [[ Ibbit-Lim ]].
+
+In the Middle Bronze Age, a third kingdom is designated "Mardikh III"; it is
+divided into periods "A" (c. 2000–1800 BC) and "B" (c. 1800–1600 BC).[[ ^24 ]]
+In period "A", Ebla was quickly rebuilt as a planned city.[[ ^100 ]] The
+foundations covered the remains of Mardikh II; new palaces and temples were
+built, and new fortifications were built in two circles – one for the low city
+and one for the acropolis.[[ ^100 ]] The city was laid out on regular lines
+and large public buildings were built.[[ ^101 ]][[ ^102 ]] Further
+construction took place in period "B".[[ ^101 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HPIM3077.JPG/250px-HPIM3077.JPG" height="188" width="250"
+
+  <figcaption>The vizier palace
+
+==== Middle Bronze I - Mardikh IIIA
+
+The first known king of the third kingdom is [[ Ibbit-Lim ]],[[ ^103 ]] who
+described himself as the Mekim of Ebla.[[ ^13 ]][[ ^87 ]] A basalt votive
+statue bearing Ibbit-Lim's inscription was discovered in 1968; this helped to
+identify the site of Tell-Mardikh with the ancient kingdom
+Ebla.[[ ^87 ]][[ ^103 ]] The name of the king is Amorite in the view of
+Pettinato; it is therefore probable the inhabitants of third kingdom Ebla were
+predominantly Amorites, as were most of the inhabitants of Syria at that
+time.[[ ^105 ]]
+
+- Meki (king) of Ebla Ibbit-Lim, son of Igrish-Kheb
+
+==== Middle Bronze II - Mardikh IIIB
+
+During Middle Bronze IIA (MB IIA), Ebla Mardikh IIIB1 became a vassal of
+[[ Yamhad ]], an Amorite kingdom centered in Aleppo.[[ ^106 ]][[ ^107 ]]
+
+Written records are not available for this period, but the city was still a
+vassal during [[ Yarim-Lim III ]] of Yamhad's reign.[[ ^101 ]] One of the
+known rulers of Ebla during this period was [[ Immeya ]], who received gifts
+from the Egyptian Pharaoh [[ Hotepibre ]], indicating the continuing wide
+connections and importance of Ebla.[[ ^108 ]] The city was mentioned in
+tablets from the Yamhadite vassal city of [[ Alalakh ]] in modern-day Turkey;
+an Eblaite princess married a son of King Ammitaqum of Alalakh, who belonged
+to a branch of the royal
+[[ Yamhadite dynasty | yamhad-dynasty ]].[[ ^109 ]][[ ^110 ]]
+
+In Middle Bronze IIB (MB IIB), the Great Kingdom of Yamhad under which Ebla
+Mardikh IIIB2 was a vassal declined due to climate change and raiding attacks
+by the Hittites (Hattusili I and Mursili I). Ebla was destroyed by the Hittite
+King [[ Mursili I ]] in about 1600 BC.[[ ^111 ]] [[ Indilimma ]] was probably
+the last king of Ebla;[[ ^112 ]] a seal of his crown prince Maratewari was
+discovered in the western palace "Q".[[ ^112 ]][[ ^113 ]] Alternatively,
+Maratewari could well be the last king according to Archi,[[ ^114 ]] who also
+argued that the "Song of Release" epic describes the destruction of the third
+kingdom and preserves older elements.[[ ^94 ]]
+
+=== Late Bronze Age
+
+Ebla never recovered from its third destruction. It was a small village in the
+phase designated "Mardikh IV" (1600–1200 BC).[[ ^111 ]] It was mentioned in
+the records of Alalakh as a vassal to the
+[[ Idrimi dynasty | yamhad-dynasty#in-alalakh ]].[[ ^115 ]]
+
+=== Iron Age and later
+
+"Mardikh V" (1200–535 BC) was a rural, Early [[ Iron Age ]] settlement that
+grew in size during later periods.[[ ^111 ]] Further development occurred
+during "Mardikh VI", which lasted until c. 60 AD.[[ ^111 ]] "Mardikh VII"
+began in the 3rd century AD and lasted until the 7th century,[[ ^116 ]] after
+which the site was abandoned.[[ ^117 ]]
+
+== Site
+
+=== Layout
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ebla_main_sites.jpg/250px-Ebla_main_sites.jpg" height="344" width="250"
+
+  <figcaption>Ebla's landmarks
+
+Ebla consisted of a lower town and a raised acropolis in the center.[[ ^118 ]]
+During the first kingdom, the city had an area of 56 hectares and was
+protected by mud-brick fortifications.[[ ^119 ]] Ebla was divided into four
+districts – each with its own gate in the outer wall.[[ ^120 ]] The acropolis
+included the king's palace "G",[[ ^121 ]] and one of two temples in city
+dedicated to [[ Kura | kura-deity ]] (called the "Red Temple").[[ ^122 ]] The
+lower city included the second temple of Kura in the southeast called "Temple
+of the Rock".[[ ^123 ]] During the second kingdom, a royal palace (Archaic
+palace "P5") was built in the lower town northwest of the acropolis,[[ ^86 ]]
+in addition to temple "D" built over the destroyed "Red Temple".[[ ^124 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ebla_ziggurat.jpg/250px-Ebla_ziggurat.jpg" height="188" width="250"
+
+  <figcaption>Part of a [[ ziggurat ]] in Ebla
+
+During the third kingdom, Ebla was a large city nearly 60 hectares in
+size,[[ ^125 ]] and was protected by a fortified rampart, with double
+chambered gates.[[ ^126 ]] The acropolis was fortified and separated from the
+lower town.[[ ^127 ]] New royal palace "E" was built on the acropolis (during
+Mardikh IIIB),[[ ^102 ]] and a temple of [[ Ishtar ]] was constructed over the
+former "Red" and "D" temples (in area "D").[[ ^128 ]][[ ^122 ]] The lower town
+was also divided into four districts;[[ ^120 ]] palace "P5" was used during
+Mardikh IIIA,[[ ^129 ]] and replaced during Mardikh IIIB by the "Intermediate
+Palace".[[ ^126 ]]
+
+Other third kingdom buildings included the vizier palace,[[ ^14 ]][[ ^130 ]]
+the western palace (in area "Q"),[[ ^113 ]] the temple of [[ Shamash ]]
+(temple "N"), the temple of [[ Rasap | resheph ]] (temple "B1") and the
+northern palace (built over the "Intermediate Palace").[[ ^126 ]][[ ^131 ]] In
+the north of the lower town, a second temple for Ishtar was built,[[ ^132 ]]
+while the former "Temple of the Rock" was replaced by a temple of
+[[ Hadad ]].[[ ^15 ]][[ ^132 ]]
+
+=== Royal burials
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ebla.jpg/250px-Ebla.jpg" height="188" width="250"
+
+  <figcaption>The western palace "Q" situated above the royal necropolis
+
+The kings of the first kingdom were buried outside the city; the last ten
+kings (ending with Irkab-Damu) were buried in [[ Darib | atarib ]],[[ ^133 ]]
+while older kings were buried in a royal mausoleum located in
+[[ Binas | binnish ]] and only one royal tomb dating to the first kingdom was
+discovered in Ebla (Hypogeum "G4").[[ ^134 ]] This first kingdom tomb was
+probably built during the reign of the last king and might be an indication of
+Eblaite adoption of Mesopotamian traditions to bury the kings beneath their
+royal palaces.[[ ^134 ]]
+
+The third kingdom royal necropolis was discovered beneath palace "Q" (the
+western palace); it contains many hypogea but only three were
+excavated.[[ ^135 ]] Those tombs were natural caves in the bedrock of the
+palace's foundation; they all date to the 19th and 18th centuries BC and had a
+similar plan consisting of an entrance shaft, burial chambers and a
+[[ dromos | glossary-of-architecture#d ]], or entryway, connecting the shaft
+to the chamber.[[ ^81 ]][[ ^136 ]][[ ^137 ]]
+
+==== Hypogeum G4
+
+The tomb found in the royal palace "G" is designated hypogeum "G4"; it dates
+to the archive period, most probably the reign of [[ Isar-Damu ]].[[ ^138 ]]
+The tomb is heavily damaged; most of its stones were sacked and nothing of the
+roof system remains.[[ ^139 ]] It also lacks any skeletal remains or funerary
+goods suggesting that it was either heavily pillaged, never used, or was built
+as a cenotaph.[[ ^139 ]]
+
+Excavated between 1992 and 1995, it is located underneath the western sector
+of the palace at a depth of almost 6 meters.[[ ^139 ]] The tomb is composed of
+two rooms opened on each other's with lime plaster floors.[[ ^139 ]] Both
+rooms are rectangular in shape; the eastern room (L.6402) is 4 meters wide,
+more than 3,5 meters long (total length is unknown due to heavy damage) and
+west–east oriented.[[ ^140 ]] The western room (L.5762) is 5.20 meters long, 4
+meters wide and west–east oriented.[[ ^141 ]] Limestone was used to build the
+walls and few blocks protruding from the sides toward the middle of the rooms
+suggest the roof to have been a
+[[ corbelled vault | corbel-arch ]].[[ ^139 ]][[ ^140 ]]
+
+==== Western palace tombs
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eblaite_tombs.png/250px-Eblaite_tombs.png" height="222" width="250"
+
+  <figcaption>Plan of the western palace tombs
+
+The tombs were found under the floor of Building Q, which was built in the
+[[ Isin-Larsa period ]].[[ ^142 ]]
+
+- !!The tomb of the princess!!: dating to c.1800BC, it is the oldest and smallest of the third kingdom tombs found.[[ ^137 ]][[ ^143 ]] Excavated in 1978,[[ ^143 ]] it contained the remains of a young woman.[[ ^144 ]] The dromos is an enlargement of a natural cave with steps partially cut in the bedrock and partially paved with stones.[[ ^145 ]] The tomb is the only one not pillaged;[[ ^146 ]] it contained precious jewels and funerary objects.[[ ^147 ]]
+- !!The tomb of the cisterns!!: this tomb is the most damaged in the [[ necropolis ]].[[ ^137 ]] It consists of a double room burial; the earliest, (Q79A), was built at the same period of the tomb of the princess, and was badly damaged when the tomb was reused, and a dromos was built in the place of Q79A toward the end of the 17th century BC (leading to the founding of burial Q79B).[[ ^145 ]] This was probably the resting place of a king; a [[ club | club-weapon ]] (a symbol of royal power) was discovered in Q79A.[[ ^145 ]]
+- !!The tomb of the lord of the goats!!: the largest in the necropolis, it includes two depositional chambers and is reached through a vertical shaft.[[ ^145 ]] The recovered body is not identified; archaeologists call it "the Lord of the Goats" after one of the [[ grave goods ]], a throne decorated with bronze goat heads.[[ ^148 ]] It could be king [[ Immeya ]]; a silver cup inscribed with his name was among the grave goods.[[ ^149 ]]
+
+== Government
+
+The first kingdom's government consisted of the king (styled //Malikum//) and
+the grand vizier, who headed a council of elders (//Abbu//) and the
+administration.[[ ^150 ]] The second kingdom was also a monarchy,[[ ^92 ]] but
+little is known about it because of a lack of written records.[[ ^82 ]] The
+third kingdom was a city-state monarchy with reduced importance under the
+authority of Yamhad.[[ ^151 ]]
+
+=== Administration of the first kingdom
+
+The queen shared the running of affairs of state with the king.[[ ^121 ]] The
+crown prince was involved in internal matters and the second prince was
+involved in foreign affairs.[[ ^121 ]] Most duties, including military ones,
+were handled by the vizier and the administration, which consisted of 13 court
+dignitaries – each of whom controlled between 400 and 800 men forming a
+bureaucracy with 11,700 people.[[ ^150 ]] Each of the four quarters of the
+lower city was governed by a chief inspector and many deputies.[[ ^121 ]] To
+oversee royal interest, the king employed agents (mashkim), collectors
+(//ur//) and messengers (//kas//).[[ ^37 ]]
+
+==== Administrative divisions
+
+Many client kingdoms owed allegiance to Ebla and each was ruled by its own
+king (En); those vassal kings were highly autonomous, paying tribute and
+supplying military assistance to Ebla.[[ ^37 ]] The administrative center in
+the capital was named the "SA.ZA"; it included the royal palaces, storerooms
+and some temples.[[ ^152 ]] Regions beyond the walls of the capital were
+collectively named in Eblaite texts "uru-bar" (literally meaning outside of
+the city).[[ ^152 ]] The villages and towns under the central authority were
+either ruled directly from the capital,[[ ^152 ]] or had appointed
+officials.[[ ^152 ]] The titles of the civil servants do not clearly define
+the bearer's responsibilities and authority as each town had its own political
+traditions.[[ ^153 ]]
+
+- Lugal: while in Mesopotamia a lugal designated a king, in Ebla it designated a governor who was directly under the authority of the capital.[[ ^154 ]] The nature of this title as part of Eblaite bureaucracy is ambiguous; each lugal was under the authority of the grand vizier,[[ ^155 ]] and the bearers ruled cities directly under the authority of the capital and they all brought goods to be kept in Ebla's storehouses.[[ ^152 ]] Pettinato counted 14 different lugals in the Eblaite administrative texts and deduced that the kingdom was divided into fourteen departments; two of them in the capital itself and the remaining twelve spanned the rest of the kingdom.[[ ^156 ]]
+- Ugula: the title is translated as superintendent; some ugulas were independent rulers and some represented the highest authority of a tribal group.[[ ^157 ]] Many cities had an appointed ugula as their head of administration such as the city of Darum.[[ ^152 ]]
+
+==== Chora
+
+The regions under the direct control of the king that were economically vital
+for the capital are called the "[[ chora | khôra ]]" by
+archaeologists.[[ ^12 ]][[ ^158 ]] Regions under direct control of the king
+extended beyond the chora and it is difficult to determine the exact size of
+the kingdom and the chora due to the constant military expansion of Ebla which
+added new territories; some of those were ruled directly while others were
+allowed to retain their own rulers as vassals.[[ ^158 ]]
+
+Generally, the chora is the core region of Ebla that includes the economic
+hinterland supporting the capital.[[ ^12 ]] It includes the cities and
+villages where the king or his vizier had palaces, towns that included
+important sanctuaries of gods related to the royal institution, towns visited
+by the monarch during the different rituals he participated in (such as the
+renewal of royalty ritual),[[ ^16 ]] and other cities such as the ones where
+textiles were delivered.[[ ^160 ]] The chora spans around 3000 km^^2^^; from
+west to east it includes the plains east of [[ Jabal Zawiya ]], the Maṭkh
+swamp, [[ al-Hass mountain | mount-al-hass ]] and mount Shabīth.[[ ^161 ]]
+Areas directly on the borders of the chora such as
+[[ al-Ghab | al-ghab-plain ]], [[ al-Rouge plain | harim-mountains ]] and
+[[ al-Jabbul | sabkhat-al-jabbul ]] have close cultural affinity with the
+chora.[[ ^161 ]]
+
+== People, language, and culture
+
+=== The first and second kingdoms
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ebla6.JPG/250px-Ebla6.JPG" height="188" width="250"
+
+  <figcaption>Royal palace "G" courtyard
+
+Mardikh II's periods shared the same culture.[[ ^129 ]] the population of Ebla
+during Mardikh IIB1 (2400–2300 BC) is estimated to have numbered around 40,000
+in the capital, and over 200,000 people in the entire kingdom.[[ ^162 ]] The
+Eblaites of Mardikh II were [[ Semite-speakers | semitic-languages ]] close to
+their Northwestern Semitic neighbors, such as the Amorites.[[ ^163 ]] Giovanni
+Pettinato said the [[ Eblaite language ]], one of the oldest attested Semitic
+languages,[[ ^164 ]] was a
+[[ West Semitic language | west-semitic-languages ]]; Gelb and others said it
+was an [[ East Semitic ]] dialect closer to the
+[[ Akkadian language ]].[[ ^165 ]] Academic consensus considers Eblaite an
+East Semitic language which exhibits both West and East Semitic
+features.[[ ^17 ]][[ ^166 ]][[ ^167 ]]
+
+Ebla held several religious and social festivals, including rituals for the
+succession of a new king, which normally lasted for several weeks.[[ ^168 ]]
+The Eblaite calendars were based on a [[ solar year | tropical-year ]] divided
+into twelve months.[[ ^169 ]] Two calendars were discovered; the "old
+calendar" used during the reign of Igrish-Halam, and a "new calendar"
+introduced by vizier Ibbi-Sipish.[[ ^169 ]] Many months were named in honor of
+deities; in the new calendar, "Itu be-li" was the first month of the year, and
+meant "the month of the lord".[[ ^170 ]] Each year was given a name instead of
+a number.[[ ^171 ]]
+
+Women received salaries equal to those of men and could accede to important
+positions and head government agencies.[[ ^172 ]] The Eblaites imported
+[[ Kungas | kunga-equid ]] from
+[[ Nagar | tell-brak#kingdom-of-nagar ]],[[ ^18 ]][[ ^174 ]] and used them to
+draw the carriages of royalty and high officials, as well as diplomatic gifts
+for allied cities.[[ ^174 ]] Society was less centered around the palace and
+the temple than in Mesopotamian kingdoms. The Eblaite palace was designed
+around the courtyard, which was open toward the city, thus making the
+administration approachable. This contrasts with Mesopotamian palaces, which
+resembled citadels with narrow entrances and limited access to the external
+courtyard.[[ ^175 ]] Music played an important part in the society and
+musicians were both locals,[[ ^176 ]] or hired from other cities such as
+Mari.[[ ^177 ]] Ebla also hired acrobats from Nagar, but later reduced their
+number and kept some to train local Eblaite acrobats.[[ ^178 ]]
+
+=== The third kingdom
+
+The Mardikh III population was predominately Semitic Amorite.[[ ^105 ]] The
+Amorites were mentioned in the first kingdom's tablets as neighbors and as
+rural subjects,[[ ^179 ]] and they came to dominate Ebla after the destruction
+of the second kingdom.[[ ^180 ]] The city witnessed a great increase in
+construction, and many palaces, temples and fortifications were
+built.[[ ^181 ]] The Amorite-speaking Eblaites worshiped many of the same
+deities as the Paleo-Syrian-speaking Eblaites of earlier periods,[[ ^182 ]]
+and maintained the sanctity of the acropolis in the center of the
+city.[[ ^81 ]] The third kingdom's iconography and royal ideology were under
+the influence of Yamhad's culture; kingship was received from the Yamhadite
+deities instead of Ishtar of Ebla, which is evident by the Eblaite seals of
+Indilimma's period.[[ ^183 ]]
+
+=== Genetics
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ancestry_proportion_of_Nuwayrat_and_comparative_Bronze_Age_Levantine_and_Anatolian_genomes_for_the_best-fit_full_model_%28qpAdm%29.png/250px-Ancestry_proportion_of_Nuwayrat_and_comparative_Bronze_Age_Levantine_and_Anatolian_genomes_for_the_best-fit_full_model_%28qpAdm%29.png" height="282" width="190"
+
+  <figcaption>Ancestry proportions of Ebla, [[ Ashkelon ]], [[ Baq'ah | baqaa-valley ]] and [[ Nuwayrat ]] [[ Bronze Age ]] samples for the best-fit full model (qpAdm).[[ ^184 ]]
+
+Ancient [[ DNA ]] analysis on 10 human remains dating to the Early and Middle
+[[ Bronze Age ]] from Ebla found that Eblaites were a mixture of
+[[ Copper age | chalcolithic ]] Levantines and Mesopotamians, and were
+genetically similar to contemporaneous Levantines.[[ ^185 ]]
+
+One Early Bronze Age (2700-2500 BC) individual carried [[ haplogroup ]]
+[[ E1b1b1b2a-M123 | haplogroup-e1b1b ]], a lineage likely linked to the
+diffusion of [[ Afroasiatic languages ]].[[ ^186 ]] Another Early Bronze Age
+(2572-2470 cal BCE) individual belonged to
+[[ J1a2a1a2-P58 | haplogroup-j-m267 ]], while four Middle Bronze Age
+(2000-1800 BC) individuals carried haplogroups J1a2a1a2-P58 (x2),
+[[ G2a | haplogroup-g-m201 ]] and the [[ West Asian ]]
+[[ T1a1-L162 | haplogroup-t-y-dna ]] which was present since the middle
+[[ Pre-Pottery Neolithic B ]] (PPNB) [[ Levant ]].[[ ^185 ]]
+
+== Economy
+
+During the first kingdom period, the palace controlled the economy,[[ ^155 ]]
+but wealthy families managed their financial affairs without government
+intervention.[[ ^187 ]] The economic system was redistributive; the palace
+distributed food to its permanent and seasonal workers. It is estimated that
+around 40,000 persons contributed to this system, but in general, and unlike
+in Mesopotamia, land stayed in the hands of villages, which paid an annual
+share to the palace.[[ ^188 ]] Agriculture was mainly
+[[ pastoral | pastoralism ]]; large herds of cattle were managed by the
+palace.[[ ^188 ]] The city's inhabitants owned around 140,000 head of sheep
+and goats, and 9,000 cattle.[[ ^188 ]]
+
+Ebla derived its prosperity from trade;[[ ^188 ]] its wealth was equal to that
+of the most important Sumerian cities,[[ ^189 ]] and its main commercial rival
+was Mari.[[ ^66 ]] Ebla's main articles of trade were probably timber from the
+nearby mountains, and textiles.[[ ^190 ]] Handicrafts also appear to have been
+a major export, evidenced by the quantity of artifacts recovered from the
+palaces of the city.[[ ^191 ]] Ebla possessed a wide commercial network
+reaching as far as modern-day [[ Afghanistan ]].[[ ^192 ]] It shipped textiles
+to Cyprus, possibly through the port of [[ Ugarit ]],[[ ^193 ]] but most of
+its trade seems to have been directed by river-boat towards Mesopotamia –
+chiefly Kish.[[ ^194 ]] The main palace //G// was found to contain artifacts
+dating from [[ Ancient Egypt ]] bearing the names of the pharaohs [[ Khafre ]]
+and [[ Pepi I ]].[[ ^195 ]]
+
+Ebla continued to be a center of trade during the second kingdom, evidenced by
+the surrounding cities that appeared during its period and were destroyed
+along with the city.[[ ^19 ]][[ ^76 ]] Trade continued to be Ebla's main
+economic activity during the third kingdom; archaeological finds show there
+was an extensive exchange with Egypt and coastal Syrian cities such as
+[[ Byblos ]].[[ ^125 ]]
+
+== Religion
+
+Ebla was a [[ polytheistic | polytheism ]] state.[[ ^196 ]] During the first
+kingdom, Eblaites worshiped their dead kings.[[ ^197 ]] The pantheon of the
+first Ebla included pairs of deities which are classified into three types:
+couples (the most common type) such as a male deity and his female
+consort;[[ ^197 ]] divine twosomes such as the deities that cooperate to
+create the cosmos in the Egyptian and Mesopotamian pantheons;[[ ^197 ]]and
+"divine pairs" who were actually a single deity with two names.[[ ^197 ]]
+Eblaites worshiped few Mesopotamian deities, preferring North-Western Semitic
+gods, some of which were unique to Ebla.[[ ^163 ]] The first pair-type,
+couples, included [[ Hadabal ]] (^^d^^NI-//da//-KUL[[ ^198 ]]), who was
+exclusive to Ebla, and his consort, Belatu ("his wife");[[ ^199 ]]
+[[ Rasap | resheph ]] and his consort [[ Adamma | adamma-goddess ]];[[ ^199 ]]
+the patron gods of the city [[ Kura | kura-deity ]], who was unique to Ebla,
+and his consort [[ Barama | barama-goddess ]].[[ ^200 ]][[ ^201 ]] Among the
+divine pairs were artisan god [[ Kamish/Tit | chemosh ]],
+[[ Kothar-wa-Khasis ]] and the planet [[ Venus ]] represented by twin mountain
+gods; [[ Shahar | shahar-god ]] as the morning star and [[ Shalim ]] as the
+evening star.[[ ^197 ]]
+
+The first Eblaites worshiped many other deities, such as the Syrian goddess
+[[ Ishara | išḫara ]],[[ ^20 ]] who was the goddess of the royal
+family.[[ ^205 ]] [[ Ishtar ]] was also worshiped but was mentioned only five
+times in one of the monthly offering lists, while Ishara was far more
+important, appearing 40 times.[[ ^206 ]] Other deities included
+[[ Damu | damu#the-eblaite-damu ]];[[ ^21 ]][[ ^207 ]] the Mesopotamian god
+[[ Utu ]];[[ ^14 ]] [[ Ashtapi | aštabi ]];[[ ^208 ]]
+[[ Dagan | dagon ]];[[ ^209 ]] [[ Hadad ]] (//Hadda//) and his consort
+[[ Halabatu ]] ("she of Halab");[[ ^210 ]][[ ^211 ]] and
+[[ Shipish | shapash-canaanite-goddess ]], the goddess of the sun who had a
+temple dedicated to her cult.[[ ^212 ]] The four city gates were named after
+the gods Dagan, Hadda, Rasap and Utu, but it is unknown which gate had which
+name.[[ ^213 ]] Overall, the offering list mentioned about 40 deities
+receiving sacrifices.[[ ^14 ]]
+
+During the third kingdom, Amorites worshiped common northern Semitic gods; the
+unique Eblaite deities disappeared.[[ ^214 ]] Hadad was the most important
+god, while Ishtar took Ishara's place and became the city's most important
+deity apart from Hadad.[[ ^182 ]]
+
+=== Biblical connection theories
+
+At the beginning of the process of deciphering the tablets,
+[[ Giovanni Pettinato ]] made claims about possible connections between Ebla
+and the Bible,[[ ^215 ]] citing alleged references in the tablets to the
+existence of [[ Yahweh ]], [[ the Patriarchs | patriarchs-bible ]],
+[[ Sodom and Gomorrah ]] and other Biblical references.[[ ^215 ]] However,
+much of the initial media excitement about a supposed Eblaite connections with
+the Bible, based on preliminary guesses and speculations by Pettinato and
+others, is now widely discredited and the academic consensus is that Ebla "has
+no bearing on the Minor Prophets, the historical accuracy of the Biblical
+Patriarchs, Yahweh worship, or Sodom and Gomorrah".[[ ^215 ]] In Ebla studies,
+the focus has shifted away from comparisons with the Bible; Ebla is now
+studied as a civilization in its own right.[[ ^215 ]] The claims led to a
+bitter personal and academic conflict between the scholars involved, as well
+as what some described as political interference by the Syrian
+authorities.[[ ^216 ]]
+
+== Excavations
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG/250px-Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG" height="134" width="200"
+
+Parts of the excavations (Damascus gate)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg/250px-Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg" height="190" width="200"
+
+A tablet from the archive
+
+In 1964, Italian archaeologists from the [[ University of Rome La Sapienza ]]
+under the direction of [[ Paolo Matthiae ]] began excavating at Tell
+Mardikh.[[ ^217 ]] In 1968, they recovered a statue dedicated to the goddess
+Ishtar bearing the name of Ibbit-Lim, mentioning him as king of
+Ebla.[[ ^218 ]] That identified the city, long known from Lagashite and
+[[ Akkadian | akkadian-empire ]] inscriptions.[[ ^219 ]] In the next decade,
+the team discovered a palace (palace G) dating from c. 2500–2000 BC.[[ ^189 ]]
+Finds in the palaces include a small sculpture made out of precious materials,
+[[ Lapis lazuli ]], black stones and [[ gold ]].[[ ^189 ]]
+
+Thirteen full and fragmentary lenticular cuneiform tablets were found in the
+palace throne room, thought to have been there versus the archive because of
+the city's fall.[[ ^220 ]] In a storeroom off the throne room, the nearly
+complete standard of the queen and fragments believed to come from the
+standard of the king were found.[[ ^221 ]] Other artifacts included wood
+furniture inlaid with [[ mother-of-pearl ]] and composite statues created from
+colored stones.[[ ^191 ]] A [[ silver ]] bowl bearing king Immeya's name was
+recovered from the "Tomb of the Lord of the Goats", together with Egyptian
+jewels and an Egyptian ceremonial mace presented by pharaoh
+Hotepibre.[[ ^108 ]]
+
+About 17,000 [[ cuneiform | cuneiform-script ]] tablet fragments were
+discovered; when put together, they constitute 2,500 complete tablets, making
+the archive of Ebla one of the biggest from the 3rd millennium BC.[[ ^222 ]]
+About 80% of the tablets are written using the usual Sumerian combination of
+[[ logograms | logogram ]] and phonetic signs,[[ ^223 ]] while the others
+exhibited an innovative, purely phonetic representation using Sumerian
+cuneiform of a previously unknown Semitic language, which was called
+"Eblaite".[[ ^224 ]] Bilingual Sumerian/Eblaite vocabulary lists were found
+among the tablets, allowing them to be translated.[[ ^213 ]] The tablets
+provide many important insights into the cultural, economic and political life
+in northern Mesopotamia around the middle of the 3rd millennium BC.[[ ^225 ]]
+They also provide insight into the everyday lives of the
+inhabitants,[[ ^226 ]] and contain information about state revenues,
+Sumerian-Eblaite dictionaries,[[ ^213 ]] diplomatic exchanges with foreign
+rulers,[[ ^227 ]] school texts, hymns and myths.[[ ^228 ]]
+
+=== Library
+
+The over 4000-year-old tablets constitute the oldest library ever
+found.[[ ^229 ]][[ ^230 ]] At Ebla, "the archives or library constituted an
+orderly collection of records at least 500 years older than any other that had
+been found anywhere before."[[ ^231 ]] There is evidence of their arrangement
+and classification.[[ ^232 ]] The larger tablets had originally been stored on
+shelves, but had fallen onto the floor when the palace was
+destroyed.[[ ^233 ]] The locations of the fallen tablets allowed the
+excavators to reconstruct their original positions on the shelves.[[ ^234 ]]
+They found the tablets had originally been shelved according to
+subject.[[ ^226 ]]
+
+These features were absent from earlier Sumerian excavations. Sophisticated
+techniques of arrangement of texts, coupled with their composition, evidence
+the great antiquity of archival and library practices, which may be far older
+than was assumed to be the case before the discovery of the Ebla
+library.[[ ^232 ]] A sizable portion of the tablets contain literary and
+lexicographic texts; evidence seems to suggest the collection also served – at
+least partially – as a true library rather than a collection of archives
+intended solely for use by the kings, their ministers, and their
+bureaucracy.[[ ^232 ]] The tablets show evidence of the early transcription of
+texts into foreign languages and scripts, classification and cataloging for
+easier retrieval, and arrangement by size, form and content.[[ ^232 ]] The
+Ebla tablets have thus provided scholars with new insights into the origin of
+library practices that were in use 4,500 years ago.[[ ^232 ]]
+
+While the absolute chronology of the archive is not yet certain a relative
+chronology for the 50-year period has been established. Because Ebla did not
+use Mesopotamian style year names or year numbers and the name of rulers was
+rarely mentioned in the texts scholars used script changes, grammar changes,
+and most importantly a [[ prosopography ]] of the members of the court,
+especially the wives and daughters of the king. The most relevant tablets for
+this effort were a series of yearly metal accounts and monthly linen
+accounts.[[ ^235 ]][[ ^236 ]]
+
+Most of the recovered tablets and tablet fragments were stored at the Idlib
+Regional Museum in Syria. Their current condition is unknown.
+
+=== Legacy
+
+Ebla's first kingdom is an example of early Syrian centralized
+states,[[ ^237 ]] and is considered one of the earliest empires by
+scholars,[[ ^41 ]][[ ^238 ]] such as [[ Samuel Finer ]],[[ ^150 ]] and
+[[ Karl Moore | karl-moore-academic ]], who consider it the first-recorded
+world power.[[ ^239 ]] Ebla's discovery changed the former view of Syria's
+history as a bridge between Mesopotamia and Egypt; it proved the region was a
+center of civilization in its own right.[[ ^240 ]]
+
+== Syrian civil war
+
+As a result of the [[ Syrian civil war ]], excavations of Ebla stopped in
+March 2011.[[ ^241 ]] By 2013, it was under control of an
+[[ opposition | syrian-opposition ]] armed group called Arrows of the Right,
+who took advantage of its elevated location to use it as an observation point
+to watch for incoming government air attacks, as well as attempting to protect
+the site from looting.[[ ^242 ]][[ ^243 ]] Many tunnels were dug and a crypt
+full of human remains was discovered; the remains were scattered and discarded
+by the robbers, who hoped to find jewelry and other precious
+artifacts.[[ ^242 ]] Besides excavations by rebels, nearby villagers also
+began digging at the site with the aim of finding and looting artifacts; some
+villagers removed carloads of soil suitable for making [[ ceramic ]] liners
+for [[ bread-baking ovens | masonry-oven ]] from the
+tunnels.[[ ^242 ]][[ ^244 ]] As the site was fortified for military purposes,
+the hill was also disrupted through the relocation of ruins and soils, some
+which were dumped in large mounds.[[ ^245 ]]
+
+The site was captured by the
+[[ Syrian Arab Armed Forces | syrian-arab-armed-forces-baathist-syria ]] on 30
+January 2020 during the
+[[ 5th Northwestern Syria offensive | northwestern-syria-offensive-december-2019march-2020 ]],
+along with surrounding villages.[[ ^246 ]][[ ^247 ]][[ ^248 ]] In 2024,
+archaeologists of the [[ Sapienza University of Rome ]] carried out a short
+recovery and restoration campaign at Ebla, assessing the civil war damage on
+the site and restoring some buildings such as the "Sanctuary of the Deified
+Ancestors". As part of the recovery efforts, they shifted through the rubble
+created by the military activity of previous years; the Italian team also
+discovered a new basalt royal statue of the 2nd millennium BC.[[ ^245 ]]
+
+[[ ^1 ]]: [[ "Ebla" | https://oracc.museum.upenn.edu/epsd2/o0043978 ]]. //Sumerian Dictionary//. [[ University of Pennsylvania ]] – via oracc.iaas.upenn.edu.
+
+[[ ^2 ]]: Jr, William H. Stiebing (2016). [[ //Ancient Near Eastern History and Culture// | https://books.google.com/books?id=DoyTDAAAQBAJ ]]. Routledge. p. 63. ISBN [[ 978-1-315-51116-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-315-51116-0 ]].
+
+[[ ^1 ]]: All dates in this article are estimated by the [[ Middle Chronology ]], unless stated otherwise.
+
+[[ ^3 ]]: Crawford, Sidnie White; Wassen, Cecilia (14 October 2015). [[ //The Dead Sea Scrolls at Qumran and the Concept of a Library// | https://books.google.com/books?id=g6y8CgAAQBAJ&dq=ebla+library+older&pg=PA58 ]]. BRILL. ISBN [[ 978-90-04-30506-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-90-04-30506-9 ]].
+
+[[ ^4 ]]: Chrisomalis, Stephen (18 January 2010). [[ //Numerical Notation: A Comparative History// | https://books.google.com/books?id=ux--OWgWvBQC&dq=ebla+library+2500+bc&pg=PA245 ]]. Cambridge University Press. ISBN [[ 978-0-521-87818-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-521-87818-0 ]].
+
+[[ ^5 ]]: [[ https://www.mdpi.com/2571-9408/9/6/209 | https://www.mdpi.com/2571-9408/9/6/209 ]] Casana, Jesse, et al., "Remote Sensing-Based Analysis of Archaeological Site Damage in Syria: Revisiting a Post-War Landscape", Heritage 9.6, 209, 2026
+
+[[ ^6 ]]: Dolce 2010, p. [[ 248 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA248 ]].
+
+[[ ^7 ]]: Mantellini, Micale & Peyronel 2013, p. [[ 182 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA182 ]].
+
+[[ ^8 ]]: Vacca, Agnese. "Vacca, A. 2018. Centralization Before the Palace. The EB III–IVA1 Sequence on the Acropolis of Tell Mardikh/Ebla." In P. Matthiae, F. Pinnock and M. D'Andrea (Eds), Ebla and Beyond Ancient Near Eastern Studies after Fifty Years of Discoveries at Tell Mardikh Proceedings of the International Congress Held in Rome, 15th‒17th December 2014, Wiesbaden, Pp 35-73, 2018, 35–73 .
+
+[[ ^9 ]]: Hamblin 2006, p. [[ 241 | https://books.google.com/books?id=biyDDd0uKGMC&pg=PT239 ]].
+
+[[ ^10 ]]: Shaw 1999, p. [[ 211 | https://books.google.com/books?id=8HKDtlPuM2oC&pg=PA211 ]].
+
+[[ ^11 ]]: Leick 2009, p. [[ 54 | https://books.google.com/books?id=jhbSbuplQ28C&pg=PA54 ]].
+
+[[ ^12 ]]: Matthiae 2013a, p. [[ 37 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA37 ]].
+
+[[ ^13 ]]: Van De Mieroop 2002, p. [[ 133 | https://books.google.com/books?id=6lDgYxV0DN8C&pg=PA133 ]].
+
+[[ ^15 ]]: Ökse 2011, p. [[ 268 | https://books.google.com/books?id=TY3t4y_L5SQC&pg=PA268 ]].
+
+[[ ^16 ]]: Dolce 2010, p. [[ 250 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA250 ]].
+
+[[ ^17 ]]: Dolce 2010, p. [[ 247 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA247 ]].
+
+[[ ^18 ]]: Dolce 2010, p. [[ 246 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA246 ]].
+
+[[ ^19 ]]: Dolce 2008, p. [[ 66 | https://books.google.com/books?id=J9eZToFfVJ0C&pg=PA66 ]].
+
+[[ ^20 ]]: Nadali 2007, p. [[ 349 | https://www.academia.edu/619545/Davide_Nadali_2007_Monuments_of_war_war_of_monuments_Some_considerations_on_commemorating_war_in_the_Third_Millennium_BC ]].
+
+[[ ^21 ]]: Astour 2002, p. [[ 79 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA79 ]].
+
+[[ ^22 ]]: Liverani 2013, p. [[ 119 | https://books.google.com/books?id=0d1JAgAAQBAJ&pg=PA119 ]].
+
+[[ ^2 ]]: The political weakness started during the short reign of Adub-Damu.
+
+[[ ^23 ]]: Dolce 2008, p. [[ 68 | https://books.google.com/books?id=J9eZToFfVJ0C&pg=PA68 ]].
+
+[[ ^24 ]]: Matthiae 2013a, p. [[ 38 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA38 ]].
+
+[[ ^25 ]]: Astour 1992, p. [[ 19 | https://books.google.com/books?id=rXcvrnUF36EC ]].
+
+[[ ^26 ]]: Astour 2002, p. [[ 74 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA74 ]].
+
+[[ ^27 ]]: Pettinato 1981, p. [[ 105 | https://archive.org/details/archivesofeblaan00pett ]].
+
+[[ ^28 ]]: Bryce 2014, p. [[ 15 | https://books.google.com/books?id=q8Z7AgAAQBAJ&pg=PA15 ]].
+
+[[ ^29 ]]: Tonietti 2010, p. [[ 69 | https://books.google.com/books?id=-H3iYPUc97YC&pg=PA69 ]].
+
+[[ ^30 ]]: Nadali 2007, p. [[ 350 | https://www.academia.edu/619545/Davide_Nadali_2007_Monuments_of_war_war_of_monuments_Some_considerations_on_commemorating_war_in_the_Third_Millennium_BC ]].
+
+[[ ^31 ]]: Roux 1992, p. [[ 200 | https://books.google.com/books?id=klZX8B_RzzYC&pg=PT200 ]].
+
+[[ ^32 ]]: Feliu 2003, p. [[ 40 | https://books.google.com/books?id=IN9_IRYKKUMC&pg=PA40 ]].
+
+[[ ^33 ]]: Podany 2010, p. [[ 24 | https://books.google.com/books?id=_ez3ih5JgzUC&pg=PA24 ]].
+
+[[ ^34 ]]: Cooper 2006, p. [[ 64 | https://books.google.com/books?id=ySjxzVWf120C&pg=PA64 ]].
+
+[[ ^3 ]]: Probably located along the Euphrates river east of Ebla.
+
+[[ ^35 ]]: Archi 2011, p. [[ 5 | https://www.jstor.org/discover/10.5615/jcunestud.63.0005 ]].
+
+[[ ^36 ]]: Neff 2014, p. [[ 14 | https://books.google.com/books?id=u5DzAgAAQBAJ&pg=PA14 ]].
+
+[[ ^37 ]]: Hamblin 2006, p. [[ 242 | https://books.google.com/books?id=biyDDd0uKGMC&pg=PT240 ]].
+
+[[ ^38 ]]: Astour 2002, p. [[ 101 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA101 ]].
+
+[[ ^39 ]]: Tubb 1998, p. [[ 39 | https://books.google.com/books?id=GH-n4ctvlDYC&pg=PA39 ]].
+
+[[ ^40 ]]: Aubet 2001, p. [[ 18 | https://books.google.com/books?id=B7SLWT2vpNcC&pg=PA18 ]].
+
+[[ ^41 ]]: Astour 1981, p. [[ 4 | https://books.google.com/books?id=1A0OgvXfHlQC&pg=PA4 ]].
+
+[[ ^42 ]]: Cooper 2010, p. [[ 89 | https://books.google.com/books?id=46SmAwAAQBAJ&pg=PT133 ]].
+
+[[ ^43 ]]: Pettinato 1991, p. [[ 135 | https://books.google.com/books?id=K4JtAAAAMAAJ ]].
+
+[[ ^44 ]]: Otto & Biga 2010, p. [[ 486 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA486 ]].
+
+[[ ^45 ]]: Astour 2002, p. [[ 66 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA66 ]].
+
+[[ ^46 ]]: Astour 2002, p. [[ 83 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA83 ]].
+
+[[ ^47 ]]: Archi 2011, p. 17.
+
+[[ ^48 ]]: Astour 2002, p. [[ 59 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA59 ]].
+
+[[ ^49 ]]: Liverani 2013, p. [[ 123 | https://books.google.com/books?id=0d1JAgAAQBAJ&pg=PA123 ]].
+
+[[ ^50 ]]: Archi, Alfonso. "The Wars of Ebla at the Time of Minister Ibrium" Altorientalische Forschungen, vol. 48, no. 2, 2021, pp. 189-220
+
+[[ ^51 ]]: Otto & Biga 2010, p. [[ 484 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA484 ]].
+
+[[ ^52 ]]: Otto & Biga 2010, p. [[ 485 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA485 ]].
+
+[[ ^53 ]]: Liverani 2013, p. [[ 121 | https://books.google.com/books?id=0d1JAgAAQBAJ&pg=PA121 ]].
+
+[[ ^54 ]]: POMPONIO, Francesco. "FURTHER CONSIDERATIONS ON KIŠ^^KI^^ IN THE EBLA TEXTS." Revue d'Assyriologie et d'archéologie Orientale, vol. 107, pp. 71–83, 2013
+
+[[ ^55 ]]: Podany 2010, p. [[ 57 | https://books.google.com/books?id=_ez3ih5JgzUC&pg=PA57 ]].
+
+[[ ^56 ]]: Biga 2014, p. [[ 103 | https://books.google.com/books?id=AcnmBQAAQBAJ&pg=PA103 ]].
+
+[[ ^57 ]]: Stieglitz 2002, p. [[ 219 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA219 ]].
+
+[[ ^58 ]]: Ristvet 2014, p. [[ 54 | https://books.google.com/books?id=VqERBgAAQBAJ&pg=PA54 ]].
+
+[[ ^59 ]]: McKeon, John F.X. (1970). "An Akkadian Victory Stele". //Boston Museum Bulletin//. !!68!! (354): 239. ISSN [[ 0006-7997 | https://search.worldcat.org/issn/0006-7997 ]]. JSTOR [[ 4171539 | https://www.jstor.org/stable/4171539 ]].
+
+[[ ^4 ]]: At first Pettinato supported the Naram-Sin theory before proposing the High dating.
+
+[[ ^61 ]]: Astour 2002, p. [[ 61 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA61 ]].
+
+[[ ^5 ]]: [[ Michael Astour ]] argues that using the chronology accepted by Pettinato, one obtains the date of 2500 BC for the reign of [[ Ur-Nanshe ]] of [[ Lagash ]], who ruled approximately 150 years prior to Lagash's destruction at the hands of king [[ Lugalzagesi ]]. Since Ur-Nanshe ruled in 2500 BC, and his reign is separated by at least 150 years from Hidar of Mari's reign which saw Ebla's destruction, then the date for that event is pulled beyond 2500 BC and even 2400 BC.
+
+[[ ^62 ]]: Astour 2002, p. [[ 62 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA62 ]].
+
+[[ ^6 ]]: Astour argue that according to the middle chronology used for the 2400 BC date, Eannatum's reign ended in 2425 BC and Ebla was not destroyed until 2400 BC; according to the same chronology Lugalzagesi's reign would have started fifty years after 2400 BC.
+
+[[ ^63 ]]: Gurney 2003, p. [[ 119 | https://books.google.com/books?id=RtMSrGe8MY0C&pg=PA119 ]].
+
+[[ ^7 ]]: At first Matthiae supported the Naram-Sin theory then switched to Sargon.
+
+[[ ^65 ]]: Astour 2002, p. [[ 68 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA68 ]].
+
+[[ ^66 ]]: Bryce 2014, p. [[ 16 | https://books.google.com/books?id=q8Z7AgAAQBAJ&pg=PA16 ]].
+
+[[ ^8 ]]: Astour believes that Sargon and his grandson were referring to a city with a similar name in modern [[ Iraq ]] named "[[ Ib-la | armani-kingdom ]]". Astour says the archives of Ebla at the time of their destruction correspond to the political situation predating the establishment of the Akkadian empire, not just the reign of Naram-Sin. It is also unlikely Sargon was responsible because at the time of their destruction, the Ebla tablets describe [[ Kish | kish-sumer ]] as independent. Lugalzagesi sacked Kish and was killed by Sargon before Sargon destroyed Ibla or Ebla.
+
+[[ ^70 ]]: Astour 2002, p. [[ 70 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA70 ]].
+
+[[ ^71 ]]: Frayne, Douglas. [[ //Sargonic and Gutian Periods// | https://www.academia.edu/29704423 ]]. pp. 132–133.
+
+[[ ^72 ]]: Archi, Alfonso, and Maria Giovanna Biga. "A Victory over Mari and the Fall of Ebla." Journal of Cuneiform Studies, vol. 55, pp. 1–44, 2003
+
+[[ ^73 ]]: Podany 2010, p. [[ 59 | https://books.google.com/books?id=_ez3ih5JgzUC&pg=PA59 ]].
+
+[[ ^74 ]]: Bretschneider, Van Vyve & Leuven 2009, p. [[ 7 | https://www.academia.edu/645365/War_of_the_lords_The_battle_of_chronology ]].
+
+[[ ^75 ]]: Astour 2002, p. [[ 75 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA75 ]].
+
+[[ ^76 ]]: Astour 2002, p. [[ 78 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA78 ]].
+
+[[ ^77 ]]: Bryce 2014, p. [[ 324 | https://books.google.com/books?id=q8Z7AgAAQBAJ&pg=PA324 ]].
+
+[[ ^78 ]]: Archi 2015, p. [[ 26 | https://books.google.com/books?id=WHplCwAAQBAJ&pg=PA26 ]].
+
+[[ ^79 ]]: Archi 2015, p. [[ 471 | https://books.google.com/books?id=WHplCwAAQBAJ&pg=PA471 ]].
+
+[[ ^80 ]]: Dolce 2010, p. [[ 245 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA245 ]].
+
+[[ ^81 ]]: Dolce 2010, p. [[ 252 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA252 ]].
+
+[[ ^82 ]]: Astour 2002, p. [[ 76 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA76 ]].
+
+[[ ^83 ]]: Astour 2002, p. [[ 81 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA81 ]].
+
+[[ ^9 ]]: Amar-Sin's reign lasted from 2045 to 2037 BC (middle chronology).
+
+[[ ^10 ]]: "Megum" is thought to have been a title of the ruler of Ebla rather than a personal name; King Ibbit-Lim of the latter third kingdom of Ebla also used this title. An Eblaite seal that reads  "Ib-Damu Mekim Ebla", was used in the 19th century BC by an Assyrian merchant named Assur-Nada from [[ Kültepe ]]. Ib Damu was the name of an Eblaite king from the early period of the first kingdom.
+
+[[ ^11 ]]: In a tablet, the name of Ili-Dagan "the man of Ebla" is mentioned, and he was thought to be a ruler. However, other texts refer to him as the envoy of Ebla's ruler.
+
+[[ ^90 ]]: Klengel 1992, p. [[ 36 | https://books.google.com/books?id=5GptAAAAMAAJ ]].
+
+[[ ^91 ]]: Astour 2002, p. [[ 87 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA87 ]].
+
+[[ ^92 ]]: Astour 2002, p. [[ 132 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA132 ]].
+
+[[ ^93 ]]: Hamblin 2006, p. [[ 250 | https://books.google.com/books?id=biyDDd0uKGMC&pg=PT247 ]].
+
+[[ ^12 ]]: Unidentified location to the north of Ebla in the proximity of [[ Alalakh ]].
+
+[[ ^95 ]]: Astour 2002, p. [[ 124 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA124 ]].
+
+[[ ^96 ]]: Bachvarova 2009, p. [[ 66 | https://books.google.com/books?id=AnXbhhN_kpIC&pg=PA66 ]].
+
+[[ ^97 ]]: Astour 2002, p. [[ 153 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA153 ]].
+
+[[ ^94 ]]: Archi 2002, p. [[ 24 | https://books.google.com/books?id=5a8-NudlBx8C&pg=PA24 ]].
+
+[[ ^98 ]]: Bachvarova 2009, p. [[ 67 | https://books.google.com/books?id=AnXbhhN_kpIC&pg=PA67 ]].
+
+[[ ^100 ]]: Harmanşah 2007, p. [[ 75 | https://books.google.com/books?id=X2eomg9Y14EC&pg=PA75 ]].
+
+[[ ^101 ]]: Bryce 2014, p. [[ 25 | https://books.google.com/books?id=q8Z7AgAAQBAJ&pg=PA25 ]].
+
+[[ ^102 ]]: Hooks 1990, p. [[ 226 | https://books.google.com/books?id=goq0VWw9rGIC&pg=PA226 ]].
+
+[[ ^103 ]]: Matthiae 2013b, p. [[ 103 | https://books.google.com/books?id=0H0EpSm8aioC&pg=PA103 ]].
+
+[[ ^13 ]]: This led Astour, David I. Owen and Ron Veenker to identify Ibbit-Lim with the pre-Amorite Megum of the Third Ur era. However, this identification is now refuted.
+
+[[ ^87 ]]: Archi 2002, p. [[ 25 | https://books.google.com/books?id=5a8-NudlBx8C&pg=PA25 ]].
+
+[[ ^105 ]]: Pettinato 1991, p. [[ 22 | https://books.google.com/books?id=K4JtAAAAMAAJ ]].
+
+[[ ^106 ]]: Thuesen 2000, p. [[ 61 | https://books.google.com/books?id=8qvY8pxVxcwC&pg=PA61 ]].
+
+[[ ^107 ]]: Feldman 2007, p. [[ 55 | https://books.google.com/books?id=_7kP_hNKHxIC&pg=PA55 ]].
+
+[[ ^108 ]]: Matthiae 2008, p. [[ 35 | https://archive.org/details/bub_gb_gr5BgOwEJicC/page/n61 ]].
+
+[[ ^109 ]]: Frayne 1990, p. [[ 807 | https://books.google.com/books?id=u2nUT_RtyQ8C&pg=PA807 ]].
+
+[[ ^110 ]]: Teissier 1984, p. [[ 72 | https://books.google.com/books?id=qu7WeaZA3VUC&pg=PA72 ]].
+
+[[ ^111 ]]: Bryce 2009, p. [[ 211 | https://books.google.com/books?id=E1aF0hq1GR8C&pg=PA211 ]].
+
+[[ ^112 ]]: Matthiae 2013b, p. [[ 106 | https://books.google.com/books?id=0H0EpSm8aioC&pg=PA106 ]].
+
+[[ ^113 ]]: Matthiae 2006, p. [[ 86 | https://books.google.com/books?id=oYearm8YobQC&pg=PA86 ]].
+
+[[ ^114 ]]: Archi 2015b, p. 24.
+
+[[ ^115 ]]: Astour 1969, p. [[ 388 | https://books.google.com/books?id=CMR5C12GOF8C&pg=PA388 ]].
+
+[[ ^116 ]]: Pettinato 1991, p. [[ 16 | https://books.google.com/books?id=K4JtAAAAMAAJ ]].
+
+[[ ^117 ]]: Hooks 1990, p. [[ 225 | https://books.google.com/books?id=goq0VWw9rGIC&pg=PA225 ]].
+
+[[ ^118 ]]: Cooper 2010, p. [[ 86 | https://books.google.com/books?id=46SmAwAAQBAJ&pg=PT130 ]].
+
+[[ ^119 ]]: Pinnock 2007, p. [[ 110 | https://books.google.com/books?id=4926p1H7wV4C&pg=PA110 ]].
+
+[[ ^120 ]]: Pinnock 2007, p. [[ 112 | https://books.google.com/books?id=4926p1H7wV4C&pg=PA112 ]].
+
+[[ ^121 ]]: Gilchrist 1995, p. [[ 537 | https://books.google.com/books?id=yklDk6Vv0l4C&pg=PA537 ]].
+
+[[ ^122 ]]: Pinnock 2013, p. [[ 543 | https://books.google.com/books?id=qSOYAAAAQBAJ&pg=PA543 ]].
+
+[[ ^123 ]]: Dolce 2010, p. [[ 251 | https://books.google.com/books?id=9bbgJzacoJYC&pg=PA251 ]].
+
+[[ ^86 ]]: Archi 2002, p. [[ 26 | https://books.google.com/books?id=5a8-NudlBx8C&pg=PA26 ]].
+
+[[ ^124 ]]: Matthiae 2013a, p. [[ 40 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA40 ]].
+
+[[ ^125 ]]: Matthiae 2008, p. [[ 34 | https://archive.org/details/bub_gb_gr5BgOwEJicC/page/n60 ]].
+
+[[ ^126 ]]: Bonacossi 2013, p. [[ 421 | https://books.google.com/books?id=5H4fAgAAQBAJ&pg=PT445 ]].
+
+[[ ^127 ]]: Baffi & Peyronel 2013, p. [[ 200 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA200 ]].
+
+[[ ^128 ]]: Akkermans & Schwartz 2003, p. [[ 295 | https://books.google.com/books?id=_4oqvpAHDEoC&pg=PA295 ]].
+
+[[ ^129 ]]: Astour 2002, p. [[ 164 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA164 ]].
+
+[[ ^14 ]]: Called the southern palace (in area "FF"), it was located at the foot of the southern side of the acropolis.
+
+[[ ^130 ]]: Bonacossi 2013, p. [[ 422 | https://books.google.com/books?id=5H4fAgAAQBAJ&pg=PT446 ]].
+
+[[ ^131 ]]: Peyronel 2008, p. [[ 177 | https://books.google.com/books?id=FgML1EdUiWUC&pg=PA177 ]].
+
+[[ ^132 ]]: Nigro 2007, p. [[ 130 | https://books.google.com/books?id=4926p1H7wV4C&pg=PA130 ]].
+
+[[ ^15 ]]: Area HH.
+
+[[ ^133 ]]: Michalowski 2003, p. [[ 465 | https://books.google.com/books?id=8l9X_3rHFdEC&pg=PA465 ]].
+
+[[ ^134 ]]: Matthiae 2013, p. [[ 50 | https://books.google.com/books?id=O81mDAAAQBAJ&pg=PP57 ]].
+
+[[ ^135 ]]: Matthiae 2008, p. [[ 37 | https://archive.org/details/bub_gb_gr5BgOwEJicC/page/n63 ]].
+
+[[ ^136 ]]: Mogliazza & Polcaro 2010, p. [[ 431 | https://books.google.com/books?id=Vzs8bFFnVeoC&pg=PA431 ]].
+
+[[ ^137 ]]: Suriano 2010, p. [[ 60 | https://books.google.com/books?id=MfSfzOqEK4sC&pg=PA60 ]].
+
+[[ ^138 ]]: Matthiae 2013, p. [[ 53 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA53 ]].
+
+[[ ^139 ]]: Laneri 2016, p. [[ 56 | https://books.google.com/books?id=2ZehDAAAQBAJ&pg=PA56 ]].
+
+[[ ^140 ]]: Matthiae 1997, p. [[ 270 | https://books.google.com/books?id=u4F1AAAAMAAJ ]].
+
+[[ ^141 ]]: Matthiae 1997, p. [[ 269 | https://books.google.com/books?id=u4F1AAAAMAAJ ]].
+
+[[ ^142 ]]: MATTHIAE, PAOLO.,"Two Princely Tombs at Tell Mardikh-Ebla.", Archaeology, vol. 33, no. 2, pp. 8–17, 1980
+
+[[ ^143 ]]: Matthiae 1989, p. [[ 303 | https://books.google.com/books?id=iWZtAAAAMAAJ ]].
+
+[[ ^144 ]]: Matthiae 1984, p. 24.
+
+[[ ^145 ]]: Nigro 2009, p. [[ 161 | https://www.academia.edu/1096021/The_Eighteenth_Century_BC_Princes_of_Byblos_and_Ebla_and_the_Chronology_of_the_Middle_Bronze_Age ]].
+
+[[ ^146 ]]: Pettinato 1991, p. [[ 28 | https://books.google.com/books?id=K4JtAAAAMAAJ ]].
+
+[[ ^147 ]]: Grajetzki 2013, p. [[ 173 | https://books.google.com/books?id=m0MoAgAAQBAJ&pg=PA173 ]].
+
+[[ ^148 ]]: Fortin 1999, p. [[ 173 | https://books.google.com/books?id=iFttAAAAMAAJ ]].
+
+[[ ^149 ]]: Matthiae 2010, p. [[ 217 | https://books.google.com/books?id=noPMQgAACAAJ ]].
+
+[[ ^150 ]]: Finer 1997, p. [[ 172 | https://books.google.com/books?id=aEziNfjinnMC&pg=PA172 ]].
+
+[[ ^151 ]]: Hamblin 2006, p. [[ 267 | https://books.google.com/books?id=biyDDd0uKGMC&pg=PT261 ]].
+
+[[ ^152 ]]: Biga 2013, p. [[ 265 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA265 ]].
+
+[[ ^153 ]]: Cooper 2006, p. [[ 91 | https://books.google.com/books?id=FQ-AAgAAQBAJ&pg=PT91 ]].
+
+[[ ^154 ]]: Pongratz-Leisten 2015, p. [[ 199 | https://books.google.com/books?id=LJqnCgAAQBAJ&pg=PA199 ]].
+
+[[ ^155 ]]: Liverani 2013, p. [[ 122 | https://books.google.com/books?id=0d1JAgAAQBAJ&pg=PA122 ]].
+
+[[ ^156 ]]: Stieglitz 2002, p. [[ 215 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA215 ]].
+
+[[ ^157 ]]: Biga 2013, p. [[ 260 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA260 ]].
+
+[[ ^158 ]]: Biga 2013, p. [[ 266 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA266 ]].
+
+[[ ^16 ]]: The ritual had the king and the queen visiting [[ Ninas | binnish ]], and making offerings to royal ancestors.
+
+[[ ^160 ]]: Biga 2014, p. [[ 94 | https://books.google.com/books?id=AcnmBQAAQBAJ&pg=PA94 ]].
+
+[[ ^161 ]]: D'Andrea & Ascalone 2013, p. [[ 215 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA215 ]].
+
+[[ ^162 ]]: Kohl 1991, p. [[ 230 | https://books.google.com/books?id=uc3ZokKnaQYC&pg=PA230 ]].
+
+[[ ^163 ]]: Rendsburg 1997, p. [[ 183 | http://oxfordbiblicalstudies.com/article/opr/t256/e315?_hi=4&_pos=56 ]].
+
+[[ ^164 ]]: Bernal 2006, p. [[ 591 | https://books.google.com/books?id=G8Ltdr2rg04C&pg=PA591 ]].
+
+[[ ^165 ]]: Faber 2013, p. [[ 7 | https://books.google.com/books?id=aWhHAQAAQBAJ&pg=PA7 ]].
+
+[[ ^17 ]]: Grammatically, Eblaite is closer to Akkadian, but lexically and in some grammatical forms, Eblaite is closer to West Semitic languages.
+
+[[ ^166 ]]: Stiebing 2016, p. [[ 63 | https://books.google.com/books?id=DoyTDAAAQBAJ&pg=PA63 ]].
+
+[[ ^167 ]]: Gordon 2013, p. [[ 101 | https://books.google.com/books?id=aWhHAQAAQBAJ&pg=PA101 ]].
+
+[[ ^168 ]]: Dolansky 2013, p. [[ 66 | https://books.google.com/books?id=7anCAQAAQBAJ&pg=PA66 ]].
+
+[[ ^169 ]]: Pettinato 1981, p. [[ 147 | https://archive.org/details/archivesofeblaan00pett ]].
+
+[[ ^170 ]]: Shea 1981, p. [[ 60 | https://digitalcommons.andrews.edu/auss/vol19/iss1/14/ ]].
+
+[[ ^171 ]]: Podany 2010, p. [[ 34 | https://books.google.com/books?id=_ez3ih5JgzUC&pg=PA34 ]].
+
+[[ ^172 ]]: Pettinato 1991, p. [[ 75 | https://books.google.com/books?id=K4JtAAAAMAAJ ]].
+
+[[ ^18 ]]: The Kunga is a hybrid of a [[ donkey ]] and a female [[ onager ]], which Nagar was famous for breeding.
+
+[[ ^174 ]]: Peyronel & Vacca 2013, p. [[ 436 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA436 ]].
+
+[[ ^175 ]]: Liverani 2013, p. [[ 127 | https://books.google.com/books?id=0d1JAgAAQBAJ&pg=PA127 ]].
+
+[[ ^176 ]]: Tonietti 2010, p. [[ 73 | https://books.google.com/books?id=-H3iYPUc97YC&pg=PA73 ]].
+
+[[ ^177 ]]: Tonietti 2010, p. [[ 76 | https://books.google.com/books?id=-H3iYPUc97YC&pg=PA76 ]].
+
+[[ ^178 ]]: Eidem, Finkel & Bonechi 2001, p. [[ 101 | https://www.academia.edu/5261148/The_Third-millennium_Inscriptions ]].
+
+[[ ^179 ]]: Lönnqvist 2008, p. [[ 205 | https://books.google.com/books?id=J9eZToFfVJ0C&pg=PA205 ]].
+
+[[ ^180 ]]: Armstrong 1996, p. [[ 191 | https://books.google.com/books?id=ystMAgAAQBAJ&pg=PA191 ]].
+
+[[ ^181 ]]: Kuhrt 1995, p. [[ 75 | https://books.google.com/books?id=V_sfMzRPTgoC&pg=PA75 ]].
+
+[[ ^182 ]]: Archi 2002, p. [[ 31 | https://books.google.com/books?id=5a8-NudlBx8C&pg=PA31 ]].
+
+[[ ^183 ]]: Matthiae 2003, p. [[ 393 | https://books.google.com/books?id=kiWD_5PRQBUC&pg=PA393 ]].
+
+[[ ^184 ]]: Morez Jacobs et al. 2025, p. 4, Fig.3a.
+
+[[ ^185 ]]: Skourtanioti, Eirini; Erdal, Yilmaz S.; Frangipane, Marcella; Balossi Restelli, Francesca; Yener, K. Aslıhan; Pinnock, Frances; Matthiae, Paolo; Özbal, Rana; Schoop, Ulf-Dietrich; Guliyev, Farhad; Akhundov, Tufan (28 May 2020). [[ "Genomic History of Neolithic to Bronze Age Anatolia, Northern Levant, and Southern Caucasus" | https://doi.org/10.1016%2Fj.cell.2020.04.044 ]]. //Cell//. !!181!! (5): 1158–1175.e28. doi:[[ 10.1016/j.cell.2020.04.044 | https://doi.org/10.1016%2Fj.cell.2020.04.044 ]]. hdl:[[ 20.500.12154/1254 | https://hdl.handle.net/20.500.12154%2F1254 ]]. ISSN [[ 0092-8674 | https://search.worldcat.org/issn/0092-8674 ]]. PMID [[ 32470401 | https://pubmed.ncbi.nlm.nih.gov/32470401 ]]. S2CID [[ 219105572 | https://api.semanticscholar.org/CorpusID:219105572 ]].
+
+[[ ^186 ]]: Pereltsvaig, Asya (3 September 2020). [[ //Languages of the World: An Introduction// | https://books.google.com/books?id=VR_5DwAAQBAJ&dq=E1b1b,+Afroasiatic+languages,&pg=PA184 ]]. Cambridge University Press. p. 184. ISBN [[ 978-1-108-78851-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-108-78851-9 ]].
+
+[[ ^187 ]]: Pettinato 1991, p. [[ 168 | https://books.google.com/books?id=K4JtAAAAMAAJ ]].
+
+[[ ^188 ]]: Liverani 2013, p. [[ 124 | https://books.google.com/books?id=0d1JAgAAQBAJ&pg=PA124 ]].
+
+[[ ^189 ]]: Liverani 2013, p. [[ 129 | https://books.google.com/books?id=0d1JAgAAQBAJ&pg=PA129 ]].
+
+[[ ^190 ]]: Marchesi 2013, p. [[ 274 | https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA274 ]].
+
+[[ ^191 ]]: Akkermans & Schwartz 2003, p. [[ 271 | https://books.google.com/books?id=_4oqvpAHDEoC&pg=PA271 ]].
+
+[[ ^192 ]]: Liverani 2013, p. [[ 126 | https://books.google.com/books?id=0d1JAgAAQBAJ&pg=PA126 ]].
+
+[[ ^193 ]]: Dahood 1978, p. [[ 83 | https://books.google.com/books?id=uLNDUDGTOz4C&pg=PA83 ]].
+
+[[ ^194 ]]: Pettinato 1991, p. [[ 155 | https://books.google.com/books?id=K4JtAAAAMAAJ ]].
+
+[[ ^195 ]]: Aruz 2003, p. [[ 241 | https://books.google.com/books?id=8l9X_3rHFdEC&pg=PA241 ]].
+
+[[ ^19 ]]: Archaeologist Alessandro de Maigret deduced that Ebla retained its trading position.
+
+[[ ^196 ]]: McNulty & Brice 1996, p. [[ 246 | https://books.google.com/books?id=oHMBAwAAQBAJ&pg=PA246 ]].
+
+[[ ^197 ]]: Stieglitz 2002a, p. [[ 209 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA209 ]].
+
+[[ ^198 ]]: Archi, Alfonso (2005). [[ "The Head of Kura—The Head of ʾAdabal" | https://www.jstor.org/stable/10.1086/431684 ]]. //Journal of Near Eastern Studies//. !!64!! (2): 81–100. doi:[[ 10.1086/431684 | https://doi.org/10.1086%2F431684 ]]. JSTOR [[ 10.1086/431684 | https://www.jstor.org/stable/10.1086/431684 ]]. S2CID [[ 161744545 | https://api.semanticscholar.org/CorpusID:161744545 ]].
+
+[[ ^199 ]]: Stieglitz 2002a, p. [[ 210 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA210 ]].
+
+[[ ^200 ]]: Stieglitz 2002a, p. [[ 212 | https://books.google.com/books?id=0Rwals-oh6kC&pg=PA212 ]].
+
+[[ ^201 ]]: Frayne 2008, p. [[ 41-44 | https://books.google.com/books?id=8PNAnIome3AC&pg=PT206 ]].
+
+[[ ^20 ]]: At the beginning of Ebla's studies, it was believed that the existence of Ishara and another god //[[ Ashtapi | aštabi ]]// in Ebla's pantheon, is a proof for a Hurrian existence in the Eblaite first kingdom. However it is now known that those deities were pre-Hurrian and perhaps pre-Semitic deities, later incorporated into the Hurrian pantheon.
+
+[[ ^205 ]]: Archi 2002, p. [[ 28 | https://books.google.com/books?id=5a8-NudlBx8C&pg=PA28 ]].
+
+[[ ^206 ]]: Archi 2002, p. [[ 27 | https://books.google.com/books?id=5a8-NudlBx8C&pg=PA27 ]].
+
+[[ ^21 ]]: Probably an old Semitic deity and not identical to the Sumerian [[ Damu ]].
+
+[[ ^207 ]]: Stieglitz 1990, p. [[ 81 | https://books.google.com/books?id=_MVtAAAAMAAJ ]].
+
+[[ ^14 ]]: Wright 2004, p. [[ 173 | https://books.google.com/books?id=uvtebmqZZDYC&pg=PA173 ]].
+
+[[ ^208 ]]: Astour 1992, p. [[ 10 | https://books.google.com/books?id=rXcvrnUF36EC ]].
+
+[[ ^209 ]]: Singer 2000, p. [[ 223 | https://books.google.com/books?id=gqn7OaEzxIMC&pg=PA223 ]].
+
+[[ ^210 ]]: Archi 2010, p. 4.
+
+[[ ^211 ]]: Archi 1994, p. [[ 250 | https://books.google.com/books?id=hFRwonqqNCUC&pg=PA250 ]].
+
+[[ ^212 ]]: Matthiae 2013b, p. [[ 102 | https://books.google.com/books?id=0H0EpSm8aioC&pg=PA102 ]].
+
+[[ ^213 ]]: Feliu 2003, p. [[ 8 | https://books.google.com/books?id=IN9_IRYKKUMC&pg=PA8 ]].
+
+[[ ^214 ]]: Archi 2002, p. [[ 30 | https://books.google.com/books?id=5a8-NudlBx8C&pg=PA30 ]].
+
+[[ ^215 ]]: Chavalas 2003, p. [[ 41 | https://books.google.com/books?id=60fmNZQzwjYC&pg=PA41 ]].
+
+[[ ^216 ]]: McBee Roberts 2002, p. [[ 13 | https://books.google.com/books?id=5IXecSZOcS8C&pg=PA13 ]].
+
+[[ ^217 ]]: Fortin 1999, p. [[ 54 | https://books.google.com/books?id=iFttAAAAMAAJ ]].
+
+[[ ^218 ]]: DeVries 2006, p. [[ 67 | https://books.google.com/books?id=aOJJAwAAQBAJ&pg=PA67 ]].
+
+[[ ^219 ]]: Kipfer 2000, p. [[ 334 | https://books.google.com/books?id=XneTstDbcC0C&pg=PA334 ]][[ 683 | https://books.google.com/books?id=XneTstDbcC0C&pg=PA683 ]].
+
+[[ ^220 ]]: Archi, Alfonso. "The Tablets of the Throne Room of the Royal Palace G of Ebla." Archiv Für Orientforschung, vol. 53, pp. 9–18, 2015
+
+[[ ^221 ]]: Frances Pinnock. "THE KING’S STANDARD FROM EBLA PALACE G." Journal of Cuneiform Studies, vol. 67, pp. 3–22, 2015
+
+[[ ^222 ]]: Pitard 2001, p. [[ 32 | https://books.google.com/books?id=4DVHJRFW3mYC&pg=PA32 ]].
+
+[[ ^223 ]]: Naveh 1982, p. [[ 28 | https://books.google.com/books?id=NfFrAAAAIAAJ ]].
+
+[[ ^224 ]]: Pettinato 1981, p. [[ 59 | https://archive.org/details/archivesofeblaan00pett ]].
+
+[[ ^225 ]]: Zettler 2006, p. [[ 134 | https://books.google.com/books?id=cOG-fAFvbXcC&pg=PA134 ]].
+
+[[ ^226 ]]: Franks 2013, p. [[ 2 | https://books.google.com/books?id=CNGcAwAAQBAJ&pg=PA2 ]].
+
+[[ ^227 ]]: Biga 2009, p. 30.
+
+[[ ^228 ]]: Michalowski 2003, p. [[ 453 | https://books.google.com/books?id=8l9X_3rHFdEC&pg=PA453 ]].
+
+[[ ^229 ]]: Martone, Corrado (1 January 2016), [[ "The Qumran "Library" and Other Ancient Libraries: Elements for a Comparison" | https://brill.com/display/book/edcoll/9789004305069/B9789004305069_006.xml ]], //The Dead Sea Scrolls at Qumran and the Concept of a Library//, Brill, pp. 55–77, ISBN [[ 978-90-04-30506-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-90-04-30506-9 ]], retrieved 14 December 2023
+
+[[ ^230 ]]: Wellisch 1981.
+
+[[ ^231 ]]: Wellisch, H. H. (1981). Ebla: The World's Oldest Library. The Journal of Library History (1974-1987), 16(3), 488–500. http://www.jstor.org/stable/25541212.
+
+[[ ^232 ]]: Wellisch 1981, pp. 488–500.
+
+[[ ^233 ]]: Stanley 2007, p. [[ 141 | https://books.google.com/books?id=3SapTk5iGDkC&pg=PA141 ]].
+
+[[ ^234 ]]: Archi, Alfonso., "Position of the Tablets of Ebla.", Orientalia, vol. 57, no. 1, pp. 67–69, 1988
+
+[[ ^235 ]]: Biga, Maria Giovanna, and Francesco Pomponio., "Elements for a Chronological Division of the Administrative Documentation of Ebla.", Journal of Cuneiform Studies, vol. 42, no. 2, pp. 179–201, 1990
+
+[[ ^236 ]]: Biga, Maria Giovanna., "The Reconstruction of a Relative Chronology for the Ebla Texts.", Orientalia, vol. 72, no. 4, pp. 345–67, 2003
+
+[[ ^237 ]]: Porter 2012, p. [[ 199 | https://books.google.com/books?id=LKQ0fZFTeHkC&pg=PA199 ]].
+
+[[ ^238 ]]: Liverani 2009, p. [[ 228 | https://books.google.com/books?id=bRUMQb_1uKcC&pg=PA228 ]].
+
+[[ ^239 ]]: Moore & Lewis 2009, p. [[ 34 | https://books.google.com/books?id=LXWTAgAAQBAJ&pg=PA34 ]].
+
+[[ ^240 ]]: McBee Roberts 2002, p. [[ 12 | https://books.google.com/books?id=5IXecSZOcS8C&pg=PA12 ]].
+
+[[ ^241 ]]: Matthiae 2013c, p. [[ ix | https://books.google.com/books?id=9jaXngEACAAJ ]].
+
+[[ ^242 ]]: Chivers 2013, p. [[ 1 | https://www.nytimes.com/2013/04/07/world/middleeast/syrian-war-devastates-ancient-sites.html?pagewanted=all&_r=0 ]].
+
+[[ ^243 ]]: [[ "Anthropology.msu.edu" | https://web.archive.org/web/20201026231817/http://anthropology.msu.edu/anp203h-fs13/2013/09/17/new-york-times-grave-robbers-and-war-steal-syrias-history/ ]]. Archived from [[ the original | http://anthropology.msu.edu/anp203h-fs13/2013/09/17/new-york-times-grave-robbers-and-war-steal-syrias-history/ ]] on 26 October 2020. Retrieved 3 March 2020.
+
+[[ ^244 ]]: Casana J, Laugier EJ (2017) Satellite imagery-based monitoring of archaeological site damage in the Syrian civil war. PLoS ONE 12(11): e0188589. https://doi.org/10.1371/journal.pone.0188589
+
+[[ ^245 ]]: Davide Nadali (18 September 2024). [[ "Ebla, sixty years later: protection and recovery of the archaeological site" | https://www.uniroma1.it/en/notizia/ebla-sixty-years-later-protection-and-recovery-archaeological-site ]]. [[ Sapienza University of Rome ]]. Retrieved 29 December 2025.
+
+[[ ^246 ]]: [[ "As Syria's army advances into Idlib, a mass exodus is underway" | https://www.latimes.com/world-nation/story/2019-12-26/as-syrias-army-advances-into-idlib-a-mass-exodus-is-underway ]]. //Los Angeles Times//. 26 December 2019. Retrieved 3 March 2020.
+
+[[ ^247 ]]: [[ "Al-Masdar News" | https://web.archive.org/web/20200301204238/https://www.almasdarnews.com/article/breaking-syrian-army-captures-several-areas-in-eastern-idlib/ ]]. Archived from [[ the original | https://www.almasdarnews.com/article/breaking-syrian-army-captures-several-areas-in-eastern-idlib ]] on 1 March 2020. Retrieved 30 January 2020.
+
+[[ ^248 ]]: [[ "Al-Masdar News (2)" | https://web.archive.org/web/20230412054200/https://www.almasdarnews.com/article/syrian-army-captures-2-towns-in-idlib-to-advance-within-sight-of-saraqib/ ]]. Archived from [[ the original | https://www.almasdarnews.com/article/syrian-army-captures-2-towns-in-idlib-to-advance-within-sight-of-saraqib/ ]] on 12 April 2023. Retrieved 30 January 2020.

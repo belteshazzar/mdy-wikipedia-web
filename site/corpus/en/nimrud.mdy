@@ -1,0 +1,1048 @@
++++
+title: Nimrud
+description: Ancient Assyrian city
+coordinates:
+  lat: 36.09805556
+  lon: 43.32888889
+image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Iraq%3B_Nimrud_-_Assyria%2C_Lamassu%27s_Guarding_Palace_Entrance.jpg
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Iraq%3B_Nimrud_-_Assyria%2C_Lamassu%27s_Guarding_Palace_Entrance.jpg/330px-Iraq%3B_Nimrud_-_Assyria%2C_Lamassu%27s_Guarding_Palace_Entrance.jpg
+    caption: A lamassu at the North West Palace of Ashurnasirpal II before
+      destruction in 2015.
+  type: Settlement
+  location: Numaniyah, Al-Hamdaniya, Nineveh Governorate, Iraq
+  region: Mesopotamia
+  site-notes:
+    area: 3.6 km2 (1.4 sq mi)
+images:
+  - file: Artist’s_impression_of_Assyrian_palaces_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard,_1853.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Artist%E2%80%99s_impression_of_Assyrian_palaces_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard%2C_1853.jpg/250px-Artist%E2%80%99s_impression_of_Assyrian_palaces_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard%2C_1853.jpg
+    width: 1960
+    height: 1153
+    caption: Artist’s impression of Assyrian palaces from The Monuments of Nineveh
+      by Sir Austen Henry Layard, 1853
+  - file: Artist’s_impression_of_a_hall_in_an_Assyrian_palace_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard,_1853.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Artist%E2%80%99s_impression_of_a_hall_in_an_Assyrian_palace_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard%2C_1853.jpg/250px-Artist%E2%80%99s_impression_of_a_hall_in_an_Assyrian_palace_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard%2C_1853.jpg
+    width: 1960
+    height: 1200
+    caption: Artist’s impression of a hall in an Assyrian palace from The Monuments
+      of Nineveh by Sir Austen Henry Layard, 1853
+  - file: Nimrud_plan_1920.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nimrud_plan_1920.png/250px-Nimrud_plan_1920.png
+    width: 627
+    height: 780
+    caption: Plan of Nimrud, by Felix Jones bef. 1920 The area excavated in the 19th
+      century is labeled A-E. On the bottom right is Fort Shalmaneser, excavated
+      in the mid-20th century.
+  - file: Nimrud_stele.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nimrud_stele.jpg/250px-Nimrud_stele.jpg
+    width: 295
+    height: 450
+    caption: A stele in situ at Nimrud
+  - file: Easarhaddon_cylinder_from_fort_Shalmaneser_at_Nimrud._It_was_found_in_the_city_of_Nimrud_and_was_housed_in_the_Iraqi_Museum,_Baghdad._Erbil_Civilization_Museum,_Iraq.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Easarhaddon_cylinder_from_fort_Shalmaneser_at_Nimrud._It_was_found_in_the_city_of_Nimrud_and_was_housed_in_the_Iraqi_Museum%2C_Baghdad._Erbil_Civilization_Museum%2C_Iraq.jpg/250px-thumbnail.jpg
+    width: 4628
+    height: 3346
+    caption: Easarhaddon cylinder from fort Shalmaneser at Nimrud. It was found in
+      the city of Nimrud and was housed in the Iraqi Museum, Baghdad. Erbil
+      Civilization Museum, Iraq
+  - file: Nabu_Temple_Calah.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nabu_Temple_Calah.JPG/250px-Nabu_Temple_Calah.JPG
+    width: 426
+    height: 573
+    caption: Remains of the Nabu temple in 2008
+  - file: Detail_of_a_glazed_terracotta_tile_from_Nimrud,_Iraq._The_Assyrian_king,_below_a_parasol,_is_surrounded_by_guards_and_attendants._875-850_BCE._The_British_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Detail_of_a_glazed_terracotta_tile_from_Nimrud%2C_Iraq._The_Assyrian_king%2C_below_a_parasol%2C_is_surrounded_by_guards_and_attendants._875-850_BCE._The_British_Museum.jpg/250px-thumbnail.jpg
+    width: 4288
+    height: 2848
+    caption: Detail of a glazed terracotta tile from Nimrud, Iraq. The Assyrian
+      king, below a parasol, is surrounded by guards and attendants. 875–850 BC.
+      The British Museum
+  - file: Levantine_-_Inlay_Cow_Suckling_a_Calf_-_Walters_711170.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Levantine_-_Inlay_Cow_Suckling_a_Calf_-_Walters_711170.jpg/250px-Levantine_-_Inlay_Cow_Suckling_a_Calf_-_Walters_711170.jpg
+    width: 1446
+    height: 830
+    caption: Nimrud ivory piece showing a cow suckling a calf
+wikidata:
+  id: Q237614
+  label: Nimrud
+  description: ancient Assyrian city
+  claims:
+    instance-of:
+      - archaeological site
+      - ancient city
+    commons-category: Nimrud
+    coordinate-location:
+      lat: 36.098055555556
+      lon: 43.328888888889
+    country:
+      - Iraq
+      - Assyrian Empire
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Nimrud_081119-F-5855M-033.jpg
+    located-in-the-administrative-territorial-entity: Nineveh Governorate
+    topic-s-main-category: Category:Nimrud
+    capital-of: Assyrian Empire
+    world-heritage-criteria:
+      - (i)
+      - (ii)
+      - (iii)
+    heritage-designation:
+      value: Tentative World Heritage Site
+      from: 2000-07-07
+    described-by-source:
+      - New Encyclopedic Dictionary
+      - Bible Encyclopedia of Archimandrite Nicephorus
+      - Jewish Encyclopedia of Brockhaus and Efron
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Encyclopædia Britannica 11th edition
+    category-for-maps-or-plans: Category:Maps of Nimrud
+    different-from: Borsippa
+    culture: Assyrian Empire
+    has-part-s:
+      - Queens' tombs at Nimrud
+      - Nimrud citadel
+    said-to-be-the-same-as:
+      - Larissa of Assyria
+      - Halah
+categories:
+  - 14th-century BC establishments
+  - Ancient Assyrian cities
+  - Archaeological sites in Iraq
+  - Buildings and structures destroyed by the Islamic State
+  - Destroyed populated places
+  - Former populated places in Iraq
+  - Hebrew Bible cities
+  - History of Nineveh Governorate
+  - Nimrod
+  - Nimrud
+  - Populated places disestablished in the 7th century BC
+  - Populated places established in the 2nd millennium BC
+langlinks:
+  gsw: Kalach
+  an: Nimrud
+  ar: كالح
+  arz: كالح
+  az: Nimrud
+  ba: Нимруд
+  be: Німруд
+  bg: Нимруд
+  bs: Nimrud
+  ca: Nimrud
+  ceb: Āthār Nimrūd
+  ckb: کالێ
+  cs: Nimrud
+  cv: Нимруд
+  cy: Nimrud
+  da: Nimrud
+  de: Nimrud
+  el: Νιμρούντ
+  eo: Nimrud
+  es: Nimrud
+  eu: Nimrud
+  fa: نمرود (شهر)
+  fi: Nimrud
+  fo: Nimrud
+  fr: Nimroud
+  he: כלח
+  hr: Kalah
+  hu: Kalhu
+  id: Nimrud
+  it: Nimrud
+  ja: ニムルド
+  ka: ქალხუ
+  ko: 님루드
+  la: Chale
+  lv: Nimrūda
+  mk: Нимруд
+  mr: निमरूद
+  ms: Nimrud
+  nl: Kalhu
+  nb: Nimrud
+  pl: Kalhu
+  pt: Ninrude
+  ro: Nimrud
+  ru: Нимруд
+  rue: Німруд
+  sco: Nimrud
+  sh: Nimrud
+  sl: Nimrud
+  sr: Нимруд
+  sv: Nimrud
+  ta: நிம்ருத்
+  tl: Nimrud
+  tr: Nimrud
+  uk: Німруд
+  ur: نمرود (شہر)
+  vi: Nimrud
+  wuu: 尼姆鲁德
+  xmf: ქალხუ
+  zh: 尼姆鲁德
+link-titles:
+  2003-invasion-of-iraq: 2003 invasion of Iraq
+  abul-fida: Abu'l-Fida
+  adad-nirari-iii: Adad-nirari III
+  ammianus-marcellinus: Ammianus Marcellinus
+  anabasis-xenophon: Anabasis (Xenophon)
+  arabic-language: Arabic language
+  archaeological-looting-in-iraq: Archaeological looting in Iraq
+  archeology: Archeology
+  arts-and-humanities-research-council: Arts and Humanities Research Council
+  ashur-dan-iii: Ashur-dan III
+  ashur-nirari-v: Ashur-nirari V
+  ashurnasirpal-ii: Ashurnasirpal II
+  assur: Assur
+  assyrian-empire: Assyrian Empire
+  assyrian-lion: Assyrian lion
+  assyrian-lion-weights: Assyrian lion weights
+  assyrian-people: Assyrian people
+  assyrian-sculpture: Assyrian sculpture
+  austen-henry-layard: Austen Henry Layard
+  battle-of-mosul-20162017: Battle of Mosul (2016–2017)
+  biblical-archaeology: Biblical archaeology
+  black-obelisk-of-shalmaneser-iii: Black Obelisk of Shalmaneser III
+  botanical-garden: Botanical garden
+  british-museum: British Museum
+  brooklyn-museum: Brooklyn Museum
+  bulldozer: Bulldozer
+  carsten-niebuhr: Carsten Niebuhr
+  claudius-james-rich: Claudius James Rich
+  claudius-rich: Claudius Rich
+  david-oates-archaeologist: David Oates (archaeologist)
+  destruction-of-cultural-heritage-by-isil: Destruction of cultural heritage by ISIL
+  destruction-under-the-mongol-empire: Destruction under the Mongol Empire
+  dur-sharrukin: Dur-Sharrukin
+  early-muslim-conquests: Early Muslim conquests
+  eastern-aramaic-languages: Eastern Aramaic languages
+  edward-chiera: Edward Chiera
+  edward-hincks: Edward Hincks
+  eleanor-robson: Eleanor Robson
+  enlil: Enlil
+  generations-of-noah: Generations of Noah
+  genesis-10: Genesis 10
+  george-smith-assyriologist: George Smith (assyriologist)
+  great-zab: Great Zab
+  hatra: Hatra
+  henri-frankfort: Henri Frankfort
+  hermitage-museum: Hermitage Museum
+  hormuzd-rassam: Hormuzd Rassam
+  isbn-identifier: ISBN (identifier)
+  ibn-said-al-maghribi: Ibn Sa'id al-Maghribi
+  iconoclasm: Iconoclasm
+  idolatry: Idolatry
+  iraq: Iraq
+  irina-bokova: Irina Bokova
+  islamic-state: Islamic State
+  islamic-state-of-iraq-and-the-levant: Islamic State of Iraq and the Levant
+  israel: Israel
+  james-silk-buckingham: James Silk Buckingham
+  jehu: Jehu
+  khorsabad: Khorsabad
+  lamassu: Lamassu
+  lion: Lion
+  list-of-artifacts-in-biblical-archaeology: List of artifacts in biblical archaeology
+  los-angeles-county-museum-of-art: Los Angeles County Museum of Art
+  louvre: Louvre
+  max-mallowan: Max Mallowan
+  medo-babylonian-conquest-of-the-assyrian-empire: Medo-Babylonian conquest of the Assyrian Empire
+  metropolitan-museum-of-art: Metropolitan Museum of Art
+  mosques-and-shrines-of-mosul: Mosques and shrines of Mosul
+  mosul: Mosul
+  mosul-museum: Mosul Museum
+  museum-of-the-ancient-orient: Museum of the Ancient Orient
+  nabu: Nabu
+  national-museum-of-iraq: National Museum of Iraq
+  nimrod: Nimrod
+  nimrud-ivories: Nimrud ivories
+  nimrud-letters: Nimrud Letters
+  nimrud-slab: Nimrud Slab
+  nimrud-tablet-k.3751: Nimrud Tablet K.3751
+  nimrud-ivory: Nimrud ivory
+  nineveh: Nineveh
+  nineveh-governorate: Nineveh Governorate
+  nineveh-plain-protection-units: Nineveh Plain Protection Units
+  nineveh-plains: Nineveh Plains
+  ninurta: Ninurta
+  numaniyah-al-hamdaniya: Numaniyah, Al-Hamdaniya
+  occupation-of-mecca: Occupation of Mecca
+  parthia: Parthia
+  paul-emile-botta: Paul Emile Botta
+  pergamon-museum: Pergamon Museum
+  phoenician-metal-bowl: Phoenician metal bowl
+  polish-centre-of-mediterranean-archaeology: Polish Centre of Mediterranean Archaeology
+  ptolemy: Ptolemy
+  queens-tombs-at-nimrud: Queens' tombs at Nimrud
+  rehoboth-bible: Rehoboth (Bible)
+  relief: Relief
+  reliefs: Reliefs
+  resen-bible: Resen (Bible)
+  samuel-bochart: Samuel Bochart
+  sargon-ii: Sargon II
+  semiramis: Semiramis
+  sennacherib: Sennacherib
+  shalmaneser-i: Shalmaneser I
+  shalmaneser-iii: Shalmaneser III
+  shalmaneser-iv: Shalmaneser IV
+  shalmaneser-v: Shalmaneser V
+  shamshi-adad-v: Shamshi-Adad V
+  sir-henry-rawlinson-1st-baronet: Sir Henry Rawlinson, 1st Baronet
+  smithsonian-institution: Smithsonian Institution
+  statue-of-ashurnasirpal-ii: Statue of Ashurnasirpal II
+  stela: Stela
+  stela-of-ashurnasirpal-ii: Stela of Ashurnasirpal II
+  stela-of-shamshi-adad-v: Stela of Shamshi-Adad V
+  stele: Stele
+  syriac-language: Syriac language
+  tiglath-pileser-iii: Tiglath-pileser III
+  tigris: Tigris
+  tree-of-life: Tree of life
+  tributary: Tributary
+  unesco: UNESCO
+  university-of-pennsylvania: University of Pennsylvania
+  upper-mesopotamia: Upper Mesopotamia
+  walters-art-museum: Walters Art Museum
+  william-francis-ainsworth: William Francis Ainsworth
+  william-loftus-archaeologist: William Loftus (archaeologist)
+  xenophon: Xenophon
+  yaqut-al-hamawi: Yaqut al-Hamawi
+  ziggurat: Ziggurat
+  zoo: Zoo
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: later-geographical-writings
+    title: Later geographical writings
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 3
+    id: early-writings-and-debate-over-name
+    title: Early writings and debate over name
+  - level: 4
+    id: nimrud
+    title: Nimrud
+  - level: 4
+    id: larissa-/-resen
+    title: Larissa / Resen
+  - level: 4
+    id: rehoboth
+    title: Rehoboth
+  - level: 4
+    id: ashur
+    title: Ashur
+  - level: 4
+    id: nineveh
+    title: Nineveh
+  - level: 4
+    id: calah
+    title: Calah
+  - level: 3
+    id: excavations
+    title: Excavations
+  - level: 3
+    id: artworks
+    title: Artworks
+  - level: 3
+    id: significant-inscriptions
+    title: Significant inscriptions
+  - level: 2
+    id: destruction
+    title: Destruction
+  - level: 3
+    id: reconstruction-of-the-site
+    title: Reconstruction of the site
+  - level: 3
+    id: post-isil-security
+    title: Post-ISIL security
+  - level: 2
+    id: gallery
+    title: Gallery
+  - level: 2
+    id: general-references
+    title: General references
+source:
+  site: Wikipedia
+  lang: en
+  title: Nimrud
+  url: https://en.wikipedia.org/wiki/Nimrud
+  page-id: 461456
+  revision: "1364717308"
+  modified: 2026-07-18T03:10:50Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Nimrud"
+    (revision 1364717308), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+!!Nimrud!!
+([[ /nɪmˈruːd/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]];
+Syriac: ܢܢܡܪܕ Arabic: النمرود) is an ancient [[ Assyrian | assyrian-people ]]
+city (original Assyrian name !!Kalḫu!!, biblical name Calah) located in Iraq,
+30 kilometres (20 mi) south of the city of [[ Mosul ]], and 5 kilometres
+(3 mi) south of the village of Selamiyah (Arabic: السلامية), in the
+[[ Nineveh Plains ]] in [[ Upper Mesopotamia ]]. It was a major Assyrian city
+between approximately 1350 BC and 610 BC. The city is located in a strategic
+position 10 kilometres (6 mi) north of where the river [[ Tigris ]] meets its
+[[ tributary ]] the [[ Great Zab ]].[[ ^1 ]] The city covered an area of 360
+hectares (890 acres).[[ ^2 ]] The ruins of the city were found within one
+kilometre (1,100 yd) of the modern-day [[ Assyrian | assyrian-people ]]
+village of [[ Noomanea | numaniyah-al-hamdaniya ]] in
+[[ Nineveh Governorate ]], [[ Iraq ]].
+
+By 800 BCE, the city of Nimrud had expanded to a population of approximately
+75,000, establishing it as the most populous urban center in the world at that
+time.[[ ^3 ]]
+
+The name Nimrud was recorded as the local name by [[ Carsten Niebuhr ]] in the
+mid-18th century.[[ ^4 ]][[ ^1 ]] In the mid 19th century,
+[[ biblical archaeologists | biblical-archaeology ]] proposed the Assyrian
+name !!Kalḫu!! (the Biblical //Calah//), based on a description of the travels
+of [[ Nimrod ]] in [[ Genesis 10 | generations-of-noah ]].[[ ^2 ]]
+
+Archaeological excavations at the site began in 1845, and were conducted at
+intervals between then and 1879, and then from 1949 onwards. Many important
+pieces were discovered, with most being moved to museums in Iraq and abroad.
+In 2013, the UK's [[ Arts and Humanities Research Council ]] funded the
+"Nimrud Project", directed by [[ Eleanor Robson ]], whose aims were to write
+the history of the city in ancient and modern times, to identify and record
+the dispersal history of artefacts from Nimrud,[[ ^5 ]] distributed amongst at
+least 76 museums worldwide (including 36 in the United States and 13 in the
+United Kingdom).[[ ^6 ]]
+
+In 2015, the terrorist organization [[ Islamic State ]] announced its
+intention to destroy the site because of its "un-Islamic" Assyrian nature. In
+March 2015, the Iraqi government reported that [[ Islamic State ]] had used
+[[ bulldozers | bulldozer ]] to destroy excavated remains of the city. Several
+videos released by ISIL showed the work in progress. In November 2016, Iraqi
+forces retook the site, and later visitors also confirmed that around 90% of
+the excavated portion of city had been completely destroyed. The ruins of
+Nimrud have remained guarded by Iraqi forces ever since.[[ ^7 ]]
+Reconstruction work is in progress.
+
+== History
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Artist%E2%80%99s_impression_of_Assyrian_palaces_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard%2C_1853.jpg/250px-Artist%E2%80%99s_impression_of_Assyrian_palaces_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard%2C_1853.jpg" height="147" width="250"
+
+  <figcaption>Artist’s impression of Assyrian palaces from The Monuments of Nineveh by Sir Austen Henry Layard, 1853
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Artist%E2%80%99s_impression_of_a_hall_in_an_Assyrian_palace_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard%2C_1853.jpg/250px-Artist%E2%80%99s_impression_of_a_hall_in_an_Assyrian_palace_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard%2C_1853.jpg" height="153" width="250"
+
+  <figcaption>Artist’s impression of a hall in an Assyrian palace from The Monuments of Nineveh by Sir Austen Henry Layard, 1853
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nimrud_plan_1920.png/250px-Nimrud_plan_1920.png" height="236" width="190"
+
+  <figcaption>Plan of Nimrud, by Felix Jones bef. 1920[[ ^8 ]] The area excavated in the 19th century is labeled A-E. On the bottom right is Fort Shalmaneser, excavated in the mid-20th century.
+
+Situated on a major commercial path connecting Ashur and Nineveh, Calah (later
+called Nimrud) occupied a strategically advantageous position. Its origins
+were in a trading settlement established under [[ Shalmaneser I ]] (1274–1245
+BCE), but over time the site had fallen into disrepair. When
+[[ Ashurnasirpal II ]] selected it as his new capital, he cleared the
+accumulated ruins of its collapsed defenses and began building an entirely new
+city, including a royal palace designed to surpass all those of earlier
+Assyrian rulers.[[ ^9 ]]
+
+Calah served as the imperial capital from 879 to 706 BCE, when [[ Sargon II ]]
+shifted the seat of government to his newly founded city, Dur-Sharrukin. While
+Assyrian kings continued to be buried in Ashur, their queens were interred at
+Calah. Excavations have revealed royal tombs belonging to the queens of
+Ashurnasirpal II, Tiglath-Pileser III, Shalmaneser V, Sargon II, and
+others.[[ ^9 ]]
+
+The site became widely known as “Nimrud” after 19th- and early 20th-century
+archaeologists mistakenly identified it with the city associated with the
+biblical figure Nimrod in the Book of Genesis.[[ ^9 ]]
+
+In addition to enormous city walls 7.5 kilometers (4.6 miles) long, palaces,
+temples, royal offices and various residential buildings, Ashurnasirpal also
+established [[ botanical gardens | botanical-garden ]], filled with foreign
+plants brought back from his wide-ranging campaigns, and a [[ zoo ]], perhaps
+the first large zoo ever constructed.[[ ^10 ]] Ashurnasirpal's inscriptions
+offer no motive for changing the capital. Various explanations have been
+proposed by modern scholars, including that he might have gotten disenchanted
+with [[ Assur ]] since there was little room left in the ancient capital to
+leave a mark,[[ ^10 ]] the important position of Nimrud in regard to local
+trade networks,[[ ^10 ]] that Nimrud was more centrally located in the
+empire,[[ ^11 ]] or that Ashurnasirpal hoped for greater independence from the
+influential great families of Assur.[[ ^11 ]]
+
+A grand opening ceremony with festivities and an opulent banquet in 864 BC is
+described in an inscribed [[ stele | stela ]] discovered during
+[[ archeological | archeology ]] excavations.[[ ^12 ]] To celebrate the
+completion of his work in Nimrud in 864 BC, Ashurnasirpal hosted a grand
+celebration,[[ ^11 ]] which some scholars have described as perhaps the
+greatest party in world history;[[ ^10 ]] the event hosted 69,574 guests,
+including 16,000 citizens of the new capital and 5,000 foreign dignitaries,
+and lasted for ten days. Among the food and beverage used, Ashurnasirpal's
+inscriptions record 10,000 pigeons, 10,000 jugs of beer, and 10,000 skins of
+wine, among countless other items.[[ ^11 ]]
+
+King Ashurnasirpal's son [[ Shalmaneser III ]] (858–823 BC) continued where
+his father had left off. At Nimrud he built a palace that far surpassed his
+father's. It was twice the size and it covered an area of about 5 hectares (12
+acres) and included more than 200 rooms.[[ ^13 ]] He built the monument known
+as the Great [[ Ziggurat ]], and an associated temple.
+
+Nimrud remained the capital of the [[ Assyrian Empire ]] during the reigns of
+[[ Shamshi-Adad V ]] (822–811 BC), [[ Adad-nirari III ]] (810–782 BC), Queen
+[[ Semiramis ]] (810–806 BC), [[ Adad-nirari III ]] (806–782 BC),
+[[ Shalmaneser IV ]] (782–773 BC), [[ Ashur-dan III ]] (772–755 BC),
+[[ Ashur-nirari V ]] (754–746 BC), [[ Tiglath-Pileser III ]] (745–727 BC) and
+[[ Shalmaneser V ]] (726–723 BC). Tiglath-Pileser III in particular, conducted
+major building works in the city, as well as introducing
+[[ Eastern Aramaic | eastern-aramaic-languages ]] as the //lingua franca// of
+the empire, whose dialects still endure among the Christian
+[[ Assyrians | assyrian-people ]] of the region today.
+
+However, in 706 BC [[ Sargon II ]] (722–705 BC) moved the capital of the
+empire to [[ Dur Sharrukin ]], and after his death, [[ Sennacherib ]] (705–681
+BC) moved it to [[ Nineveh ]]. It remained a major city and a royal residence
+until the city was largely destroyed during the
+[[ Medo-Babylonian conquest of the Assyrian Empire ]] (between 626 BC and 609
+BC).
+
+=== Later geographical writings
+
+Ruins of a similarly located Assyrian city named "Larissa" were described by
+[[ Xenophon ]] in his //Anabasis// in the 5th century BC.[[ ^14 ]]
+
+A similar locality was described in the Middle Ages by a number of Arabic
+geographers including [[ Yaqut al-Hamawi ]], [[ Abu'l-Fida ]] and
+[[ Ibn Sa'id al-Maghribi ]], using the name "Athur" (meaning Assyria) near
+Selamiyah.[[ ^3 ]]
+
+== Archaeology
+
+=== Early writings and debate over name
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lowering_of_the_bull.jpeg/250px-Lowering_of_the_bull.jpeg" alt="250" height="151" width="250"
+
+1851 sketch of Layard's expedition removing a [[ Lamassu ]]
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Procession_of_the_bull_beneath_the_mound_of_Nimrud.jpeg/250px-Procession_of_the_bull_beneath_the_mound_of_Nimrud.jpeg" height="120" width="250"
+
+1849 sketch of Layard's expedition transporting a [[ Lamassu ]]Many of
+Nineveh's archeological remains were transported to the major museums of the
+19th century, including the [[ British Museum ]] and the [[ Louvre ]]
+
+==== Nimrud
+
+The name Nimrud in connection with the site in Western writings was first used
+in the travelogue of [[ Carsten Niebuhr ]], who was in [[ Mosul ]] in March
+\1760. Niebuhr [[ ^4 ]]
+[[ ^1 ]]
+
+In 1830, traveller [[ James Silk Buckingham ]] wrote of "two heaps called
+Nimrod-Tuppé and Shah-Tuppé\... The Nimrod-Tuppé has a tradition attached to
+it, of a palace having been built there by Nimrod".[[ ^15 ]][[ ^16 ]]
+
+However, the name became the cause of significant debate amongst
+Assyriologists in the mid-nineteenth century, with much of the discussion
+focusing on the identification of four Biblical cities mentioned in
+[[ Genesis 10 ]]: "From that land he went to Assyria, where he built Nineveh,
+the city [[ Rehoboth-Ir | rehoboth-bible ]], Calah and
+[[ Resen | resen-bible ]]".[[ ^17 ]]
+
+==== Larissa / Resen
+
+The site was described in more detail by the British traveler
+[[ Claudius James Rich ]] in 1820, shortly before his death.[[ ^1 ]] Rich
+identified the site with the city of Larissa in [[ Xenophon ]], and noted that
+the locals "generally believe this to have been [[ Nimrod ]]'s own city; and
+one or two of the better informed with whom I conversed at Mousul said it was
+Al Athur or Ashur, from which the whole country was denominated."[[ ^4 ]]
+
+The site of Nimrud was visited by [[ William Francis Ainsworth ]] in
+1837.[[ ^1 ]] Ainsworth, like Rich, identified the site with Larissa (Λάρισσα)
+of [[ Xenophon ]]'s //[[ Anabasis | anabasis-xenophon ]]//, concluding that
+Nimrud was the Biblical [[ Resen | resen-bible ]] on the basis of
+[[ Bochart | samuel-bochart ]]'s identification of Larissa with Resen on
+etymological grounds.[[ ^2 ]]
+
+==== Rehoboth
+
+The site was subsequently visited by James Phillips Fletcher in 1843. Fletcher
+instead identified the site with [[ Rehoboth | rehoboth-bible ]] on the basis
+that the city of Birtha described by [[ Ptolemy ]] and
+[[ Ammianus Marcellinus ]] has the same etymological meaning as Rehoboth in
+Hebrew.[[ ^5 ]]
+
+==== Ashur
+
+[[ Sir Henry Rawlinson | sir-henry-rawlinson-1st-baronet ]] mentioned that the
+Arabic geographers referred to it as [[ Athur | assur ]]. British traveler
+[[ Claudius James Rich | claudius-rich ]] mentions, "one or two of the better
+informed with whom I conversed at Mosul said it was Al Athur or Ashur, from
+which the whole country was denominated."[[ ^4 ]]
+
+==== Nineveh
+
+Prior to 1850, Layard believed that the site of "Nimroud" was part of the
+wider region of "Nineveh" (the debate as to which excavation site represented
+the city of Nineveh had yet to be resolved), which also included the two
+mounds today identified as [[ Nineveh ]]-proper, and his excavation
+publications were thus labeled.[[ ^6 ]]
+
+==== Calah
+
+[[ Henry Rawlinson | sir-henry-rawlinson-1st-baronet ]] identified the city
+with the Biblical Calah[[ ^18 ]] on the basis of a cuneiform reading of
+"Levekh" which he connected to the city following Ainsworth and Rich's
+connection of Xenophon's Larissa to the site.[[ ^2 ]][[ ^19 ]]
+
+=== Excavations
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nimrud_stele.jpg/250px-Nimrud_stele.jpg" height="290" width="190"
+
+  <figcaption>A [[ stele ]] //in situ// at Nimrud
+
+Initial excavations at Nimrud were conducted by [[ Austen Henry Layard ]],
+working from 1845 to 1847 and from 1849 until 1851.[[ ^20 ]] Following
+Layard's departure, the work was handed over to [[ Hormuzd Rassam ]] in
+1853-54 and then [[ William Loftus | william-loftus-archaeologist ]] in
+1854–55.[[ ^21 ]]
+
+After [[ George Smith | george-smith-assyriologist ]] briefly worked the site
+in 1873 and Rassam returned there from 1877 to 1879, Nimrud was left untouched
+for almost 60 years.[[ ^22 ]]
+
+A British School of Archaeology in Iraq team led by [[ Max Mallowan ]] resumed
+digging at Nimrud in 1949; these excavations resulted in the discovery of the
+244 [[ Nimrud Letters ]]. The work continued until 1963 with
+[[ David Oates | david-oates-archaeologist ]] becoming director in 1958
+followed by Julian Orchard in
+1963.[[ ^23 ]][[ ^24 ]][[ ^25 ]][[ ^26 ]][[ ^27 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Easarhaddon_cylinder_from_fort_Shalmaneser_at_Nimrud._It_was_found_in_the_city_of_Nimrud_and_was_housed_in_the_Iraqi_Museum%2C_Baghdad._Erbil_Civilization_Museum%2C_Iraq.jpg/250px-thumbnail.jpg" height="181" width="250"
+
+  <figcaption>Easarhaddon cylinder from fort Shalmaneser at Nimrud. It was found in the city of Nimrud and was housed in the Iraqi Museum, Baghdad. Erbil Civilization Museum, Iraq
+
+Subsequent work was by the Directorate of Antiquities of the Republic of Iraq
+(1956, 1959–60, 1969–78 and 1982–92),[[ ^28 ]] the
+[[ Polish Centre of Mediterranean Archaeology University of Warsaw | polish-centre-of-mediterranean-archaeology ]]
+directed by Janusz Meuszyński (1974–76),[[ ^29 ]] Paolo Fiorina (1987–89) with
+the Centro Ricerche Archeologiche e Scavi di Torino who concentrated mainly on
+Fort Shalmaneser, and John Curtis (1989).[[ ^28 ]] In 1974 to his untimely
+death in 1976 Janusz Meuszyński, the director of the Polish project, with the
+permission of the Iraqi excavation team, had the whole site documented on
+film—in slide film and black-and-white print film. Every relief that remained
+in situ, as well as the fallen, broken pieces that were distributed in the
+rooms across the site were photographed. Meuszyński also arranged with the
+architect of his project, Richard P. Sobolewski, to survey the site and record
+it in plan and in elevation.[[ ^30 ]] As a result, the entire relief
+compositions were reconstructed, taking into account the presumed location of
+the fragments that were scattered around the world.[[ ^29 ]]
+
+Excavations revealed remarkable bas-reliefs, ivories, and sculptures. A statue
+of Ashurnasirpal II was found in an excellent state of preservation, as were
+colossal winged man-headed lions weighing 10 short tons (9.1 t) to 30 short
+tons (27 t)[[ ^31 ]] each guarding the palace entrance. The large number of
+inscriptions dealing with king Ashurnasirpal II provide more details about him
+and his reign than are known for any other ruler of this epoch. The palaces of
+[[ Ashurnasirpal II ]], Shalmaneser III, and [[ Tiglath-Pileser III ]] have
+been located. Portions of the site have been also been identified as temples
+to [[ Ninurta ]] and [[ Enlil ]], a building assigned to [[ Nabu ]], the god
+of writing and the arts, and as extensive fortifications.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nabu_Temple_Calah.JPG/250px-Nabu_Temple_Calah.JPG" height="256" width="190"
+
+  <figcaption>Remains of the [[ Nabu ]] temple in 2008
+
+In 1988, the Iraqi Department of Antiquities discovered four
+[[ queens' tombs | queens-tombs-at-nimrud ]] at the site.
+
+=== Artworks
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Detail_of_a_glazed_terracotta_tile_from_Nimrud%2C_Iraq._The_Assyrian_king%2C_below_a_parasol%2C_is_surrounded_by_guards_and_attendants._875-850_BCE._The_British_Museum.jpg/250px-thumbnail.jpg" height="166" width="250"
+
+  <figcaption>Detail of a glazed terracotta tile from Nimrud, Iraq. The Assyrian king, below a parasol, is surrounded by guards and attendants. 875–850 BC. The British Museum
+
+Nimrud has been one of the main sources of [[ Assyrian sculpture ]], including
+the famous palace reliefs. Layard discovered more than half a dozen pairs of
+colossal guardian figures guarding palace entrances and doorways. These are
+//[[ lamassu ]]//, statues with a male human head, the body of a lion or bull,
+and wings. They have heads carved in the round, but the body at the side is in
+[[ relief ]].[[ ^32 ]] They weigh up to 27 tonnes (30 short tons). In 1847
+Layard brought two of the colossi weighing 9 tonnes (10 short tons) each
+including one lion and one bull to London. After 18 months and several near
+disasters he succeeded in bringing them to the [[ British Museum ]]. This
+involved loading them onto a wheeled cart. They were lowered with a complex
+system of pulleys and levers operated by dozens of men. The cart was towed by
+300 men. He initially tried to hook up the cart to a team of buffalo and have
+them haul it. However the buffalo refused to move. Then they were loaded onto
+a barge which required 600 goatskins and sheepskins to keep it afloat. After
+arriving in London a ramp was built to haul them up the steps and into the
+museum on rollers.
+
+Additional 27-tonne (30-short-ton) colossi were transported to Paris from
+[[ Khorsabad ]] by [[ Paul Emile Botta ]] in 1853. In 1928 [[ Edward Chiera ]]
+also transported a 36-tonne (40-short-ton) colossus from Khorsabad to
+Chicago.[[ ^31 ]][[ ^33 ]] The [[ Metropolitan Museum of Art ]] in New York
+has another pair.[[ ^34 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Levantine_-_Inlay_Cow_Suckling_a_Calf_-_Walters_711170.jpg/250px-Levantine_-_Inlay_Cow_Suckling_a_Calf_-_Walters_711170.jpg" height="143" width="250"
+
+  <figcaption>[[ Nimrud ivory ]] piece showing a cow suckling a calf
+
+The [[ Statue of Ashurnasirpal II ]], [[ Stela of Shamshi-Adad V ]] and
+[[ Stela of Ashurnasirpal II ]] are large sculptures with portraits of these
+monarchs, all secured for the British Museum by Layard and the British
+archaeologist [[ Hormuzd Rassam ]]. Also in the British Museum is the famous
+[[ Black Obelisk of Shalmaneser III ]], discovered by Layard in 1846. This
+stands six-and-a-half-feet tall and commemorates with inscriptions and 24
+relief panels the king's victorious campaigns of 859–824 BC. It is shaped like
+a temple tower at the top, ending in three steps.[[ ^35 ]]
+
+Series of the distinctive Assyrian shallow [[ reliefs | relief ]] were removed
+from the palaces and sections are now found in several museums (see gallery
+below), in particular the [[ British Museum ]]. These show scenes of hunting,
+warfare, ritual and processions.[[ ^36 ]] The [[ Nimrud Ivories ]] are a large
+group of ivory carvings, probably mostly originally decorating furniture and
+other objects, that had been brought to Nimrud from several parts of the
+ancient Near East, and were in a palace storeroom and other locations. These
+are mainly in the British Museum and the [[ National Museum of Iraq ]], as
+well as other museums.[[ ^37 ]] Another storeroom held the Nimrud Bowls, about
+120 large bronze bowls or plates, also imported.[[ ^38 ]]
+
+The "Treasure of Nimrud" unearthed in these excavations is a collection of 613
+pieces of gold jewelry and precious stones. It has survived the confusions and
+[[ looting | archaeological-looting-in-iraq ]] after the
+[[ invasion of Iraq | 2003-invasion-of-iraq ]] in 2003 in a bank vault, where
+it had been put away for 12 years and was "rediscovered" on June 5,
+2003.[[ ^39 ]]
+
+=== Significant inscriptions
+
+One panel of the Black Obelisk of Shalmaneser III has an inscription which
+includes the name //^^m^^Ia-ú-a mar ^^m^^Hu-um-ri-i// While
+[[ Rawlinson | sir-henry-rawlinson-1st-baronet ]] originally translated this
+in 1850 as "Yahua, son of Hubiri", a year later Reverend [[ Edward Hincks ]],
+suggested that it refers to King [[ Jehu ]] of [[ Israel ]] (2 Kings 9:2 ff.
+While other interpretations exist, the obelisk is widely viewed by biblical
+archaeologists as therefore including the earliest known dedication of an
+Israelite. Note: all the kings of Israel were called "sons of Omri" by the
+Assyrians ("mar" means "son").
+
+A number of other artifacts considered
+[[ important to Biblical history | list-of-artifacts-in-biblical-archaeology ]]
+were excavated from the site, such as the [[ Nimrud Tablet K.3751 ]] and the
+[[ Nimrud Slab ]]. The bilingual [[ Assyrian lion weights ]] were important to
+scholarly deduction of the history of the alphabet.
+
+== Destruction
+
+<figure
+  <figcaption>Archaeological site of Nimrud before destruction, 1:33, UNESCO video[[ ^40 ]]
+
+Nimrud's various monuments had faced threats from exposure to the harsh
+elements of the Iraqi climate. Lack of proper protective roofing meant that
+the ancient [[ reliefs ]] at the site were susceptible to erosion from
+wind-blown sand and strong seasonal rains.[[ ^41 ]]
+
+In mid-2014, the [[ Islamic State of Iraq and the Levant ]] (ISIL) occupied
+the area surrounding Nimrud.
+[[ ISIL destroyed | destruction-of-cultural-heritage-by-isil ]] other holy
+sites, including
+[[ the Mosque of the Prophet Jonah | mosques-and-shrines-of-mosul#the-mosque-of-the-prophet-yunus-jonah ]]
+in Mosul. In early 2015, they announced their intention to destroy many
+ancient artifacts, which they deemed [[ idolatrous | idolatry ]] or otherwise
+un-Islamic; they subsequently destroyed thousands of books and manuscripts in
+Mosul's libraries.[[ ^42 ]] In February 2015, ISIL destroyed Akkadian
+monuments in the [[ Mosul Museum ]], and on March 5, 2015, Iraq announced that
+ISIL militants had bulldozed Nimrud and its archaeological site on the basis
+that they were blasphemous.[[ ^43 ]][[ ^44 ]][[ ^45 ]]
+
+A member of ISIL filmed the destruction, declaring, "These ruins that are
+behind me, they are idols and statues that people in the past used to worship
+instead of Allah. The Prophet Muhammad took down idols with his bare hands
+when he [[ went into Mecca | occupation-of-mecca ]]. We were ordered by our
+prophet to
+[[ take down idols and destroy them | iconoclasm#muslim-iconoclasm ]], and the
+companions of the prophet did this after this time, when they
+[[ conquered countries | early-muslim-conquests ]]."[[ ^46 ]] ISIL declared an
+intention to destroy the restored city gates in [[ Nineveh ]].[[ ^44 ]] ISIL
+went on to do demolition work at the later [[ Parthian | parthia ]] ruined
+city of [[ Hatra ]].[[ ^47 ]][[ ^48 ]] On April 12 2015, an online militant
+video purportedly showed ISIL militants hammering, bulldozing, and ultimately
+using explosives to blow up parts of Nimrud.[[ ^49 ]][[ ^50 ]]
+
+[[ Irina Bokova ]], the director general of [[ UNESCO ]], stated "deliberate
+destruction of cultural heritage constitutes a war crime".[[ ^51 ]] The
+president of the Syriac League in Lebanon compared the losses at the site to
+the
+[[ destruction of culture by the Mongol Empire | destruction-under-the-mongol-empire ]].[[ ^52 ]]
+In November 2016, aerial photographs showed the systematic leveling of the
+Ziggurat by heavy machines.[[ ^53 ]] On 13 November 2016, the Iraqi Army
+recaptured the city from ISIL. The Joint Operations Command stated that it had
+raised the Iraqi flag above its buildings and also captured the Assyrian
+village of Numaniya, on the edge of the town.[[ ^54 ]] By the time Nimrud was
+retaken, around 90% of the excavated part of the city had been destroyed
+entirely. Every major structure had been damaged, the Ziggurat of Nimrud had
+been flattened, only a few scattered broken walls remained of the palace of
+Ashurnasirpal II, the Lamassu that once guarded its gates had been smashed and
+scattered across the landscape.
+
+=== Reconstruction of the site
+
+A renovation program started in July 2017 with the support of [[ UNESCO ]].
+The first phase included conducting studies of the damage caused to the site,
+assembling an Iraqi maintenance and rehabilitation team, preservation and
+archiving of the city's cultural heritage in co-operation with the American
+[[ Smithsonian Institution ]]. Phase 2 was launched in October 2019 with the
+goal to restore the northern palace.[[ ^55 ]]
+
+As of 2020, archaeologists from the Nimrud Rescue Project have carried out two
+seasons of work at the site, training native Iraqi archaeologists on
+protecting heritage and helping preserve the remains. Plans for reconstruction
+and tourism are in the works but will likely not be implemented within the
+next decade.[[ ^56 ]] The first major excavation works, launched in
+mid-October 2022 by an excavation team from the
+[[ University of Pennsylvania ]], reported the discovery of a door sill slab
+with inscriptions in December.[[ ^57 ]]
+
+=== Post-ISIL security
+
+Following the [[ liberation from Islamic State | battle-of-mosul-20162017 ]],
+the security of the ancient city is run by the ethnic
+[[ Assyrian | assyrian-people ]] security force
+[[ Nineveh Plain Protection Units ]].[[ ^58 ]]
+
+== Gallery
+
+<ul
+  <li>Items excavated from Nimrud, located in museums around the world
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nimrud_ivory_lion_eating_a_man.jpg/330px-Nimrud_ivory_lion_eating_a_man.jpg" alt="Nimrud ivory plaque, with original gold leaf and paint, depicting a lion killing a human (British Museum)" height="170" width="170"
+
+    [[ Nimrud ivory ]] plaque, with original gold leaf and paint, depicting a
+    [[ lion ]] killing a human ([[ British Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ashur-nasir-pal_II_Louvre_AO19851.jpg/500px-Ashur-nasir-pal_II_Louvre_AO19851.jpg" alt="Ashurnasirpal II (Louvre)" height="170" width="256"
+
+    [[ Ashurnasirpal II ]] ([[ Louvre ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ashurnasirpal_II_and_a_Winged_Deity_LACMA_66.4.3_%282_of_2%29.jpg/250px-Ashurnasirpal_II_and_a_Winged_Deity_LACMA_66.4.3_%282_of_2%29.jpg" alt="Ashurnasirpal II (Los Angeles County Museum of Art)" height="170" width="156"
+
+    [[ Ashurnasirpal II ]] ([[ Los Angeles County Museum of Art ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Assyrianlionhuntreliefnineveh.jpg/500px-Assyrianlionhuntreliefnineveh.jpg" alt="Assyrian lion hunt (Pergamon)" height="170" width="289"
+
+    [[ Assyrian lion ]] hunt ([[ Pergamon | pergamon-museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BM%3B_RM6_-_ANE%2C_Assyrian_Sculpture_32_-East_%28N%29%2C_Centre_Island_%2B_North_Wall-_~_Assyrian_Empire_%2B_-Lamassu%2C_Stela%27s%2C_Statue%27s%2C_Obelisk%27s%2C_Relief_Panel%27s_%26_Full_Projection.1.jpg/500px-thumbnail.jpg" alt="Lamassu, Stelas, Statue, Relief Panels, including the Black Obelisk of Shalmaneser III (British Museum)" height="170" width="227"
+
+    [[ Lamassu ]], Stelas, Statue, Relief Panels, including the
+    [[ Black Obelisk of Shalmaneser III ]] ([[ British Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BM%3B_RM8_-_ANE%2C_Nimrud_Palace_Reliefs_75_South_%2B_East_Wall_%28S%29_~_Central_Palace_of_Tiglath-pileser_III_%28744-727_B.C%29_%2B_Full_Elevation_%26_Viewing_South.1.JPG/500px-BM%3B_RM8_-_ANE%2C_Nimrud_Palace_Reliefs_75_South_%2B_East_Wall_%28S%29_~_Central_Palace_of_Tiglath-pileser_III_%28744-727_B.C%29_%2B_Full_Elevation_%26_Viewing_South.1.JPG" alt="Lamassu of Tiglath-pileser III (British Museum)" height="170" width="227"
+
+    [[ Lamassu ]] of [[ Tiglath-pileser III ]] ([[ British Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Britishmuseumassyrianreliefarchersnimrud.jpg/330px-Britishmuseumassyrianreliefarchersnimrud.jpg" alt="City under siege (British Museum)" height="170" width="183"
+
+    City under siege ([[ British Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Britishmuseumassyrianrelieftwohorsemennimrud.jpg/500px-Britishmuseumassyrianrelieftwohorsemennimrud.jpg" alt="Cavalry battle (British Museum)" height="170" width="245"
+
+    Cavalry battle ([[ British Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eagle-Headed_Deity_LACMA_66.4.4_%282_of_2%29.jpg/250px-Eagle-Headed_Deity_LACMA_66.4.4_%282_of_2%29.jpg" alt="Eagle-headed deity (Los Angeles County Museum of Art)" height="170" width="136"
+
+    Eagle-headed deity ([[ Los Angeles County Museum of Art ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Gate_of_Nimrud_%28Metropolitan_Museum%29.jpg/500px-The_Gate_of_Nimrud_%28Metropolitan_Museum%29.jpg" alt="Lamassu (Metropolitan Museum)" height="170" width="230"
+
+    [[ Lamassu ]] ([[ Metropolitan Museum | metropolitan-museum-of-art ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Assyrian_-_Relief_with_Winged_Genius_-_Walters_219.jpg/250px-Assyrian_-_Relief_with_Winged_Genius_-_Walters_219.jpg" alt="Relief with Winged Genius (Walters Art Museum)" height="170" width="94"
+
+    Relief with Winged Genius ([[ Walters Art Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nimrud_ivories_DSCF0042_03.JPG/330px-Nimrud_ivories_DSCF0042_03.JPG" alt="Two Nimrud ivories made in Egypt (British Museum)" height="170" width="207"
+
+    Two [[ Nimrud ivories ]] made in Egypt ([[ British Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Shamshi-Adad_V-2.jpg/250px-Shamshi-Adad_V-2.jpg" alt="Stela of Shamshi-Adad V, Height 195.2 cm, Width 92.5 cm, (British Museum)" height="170" width="115"
+
+    [[ Stela of Shamshi-Adad V ]], Height 195.2cm, Width 92.5cm,
+    ([[ British Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Guerrieri_assiri_che_attaccano_una_citt%C3%A0_nemica%2C_dal_pal_di_tiglath-pileser_III_a_Kalhu_%28Nimrud%29%2C_VIII_sec._ac._02.JPG/250px-Guerrieri_assiri_che_attaccano_una_citt%C3%A0_nemica%2C_dal_pal_di_tiglath-pileser_III_a_Kalhu_%28Nimrud%29%2C_VIII_sec._ac._02.JPG" alt="Two archers (Hermitage Museum)" height="170" width="153"
+
+    Two archers ([[ Hermitage Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/A_human-headed_and_winged_apkallu_holding_a_pine_cone_and_bucket_for_religious_rituals._From_the_North-West_of_Ashurnasipal_II_at_Nimrud%2C_Iraq%2C_883-859_BCE._Alabaster-bas_relief._Museum_of_the_Ancient_Orient%2C_Istanbul%2C_Turkey.jpg/250px-thumbnail.jpg" alt="A human-headed and winged apkallu holding a pine cone and bucket for religious rituals (Museum of the Ancient Orient)" height="170" width="114"
+
+    A human-headed and winged apkallu holding a pine cone and bucket for religious
+    rituals ([[ Museum of the Ancient Orient ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rilievi_in_alabastro_da_palazzo_di_ashurnasirpal_II_a_nimrud%2C_doppio_registro%2C_883-859_ac_ca._02.JPG/500px-Rilievi_in_alabastro_da_palazzo_di_ashurnasirpal_II_a_nimrud%2C_doppio_registro%2C_883-859_ac_ca._02.JPG" alt="Tree of life (Brooklyn Museum)" height="170" width="268"
+
+    [[ Tree of life ]] ([[ Brooklyn Museum ]])
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Layard_Nimrud_Phoenician_metal_bowl_-_Plate_62_BM_N.19_%28with_Phoenician_inscription%29.jpg/250px-Layard_Nimrud_Phoenician_metal_bowl_-_Plate_62_BM_N.19_%28with_Phoenician_inscription%29.jpg" alt="The first publication of a Phoenician metal bowl, one of 16 metal bowls from Nimrud with a Phoenician inscription (see letters on top sketch of the side profile)" height="170" width="140"
+
+    The first publication of a [[ Phoenician metal bowl ]], one of 16 metal bowls
+    from Nimrud with a Phoenician inscription (see letters on top sketch of the
+    side profile)
+
+== General references
+
+- [[ Frankfort, Henri | henri-frankfort ]], //The Art and Architecture of the Ancient Orient//, Pelican History of Art, 4th ed 1970, Penguin (now Yale History of Art), ISBN[[ 0140561072 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0140561072 ]]
+- A. H. Layard, //Nineveh and Its Remains//, John Murray, 1849 ([[ Vol. 1 | https://archive.org/details/ninevehanditsre00layagoog ]] and [[ Vol. 2 | https://archive.org/details/ninevehanditsre01layagoog ]])
+
+[[ ^1 ]]: [[ Brill's Encyclopedia of Islam 1913-36 | https://books.google.com/books?id=fWNpIGNFz0IC&pg=PA923 ]], p.923
+
+[[ ^2 ]]: Mieroop, Marc van de (1997). [[ //The Ancient Mesopotamian City// | https://books.google.com/books?id=_YKlbIp9pYMC&pg=PA95 ]]. Oxford: Oxford University Press. p. 95. ISBN [[ 9780191588457 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780191588457 ]].
+
+[[ ^3 ]]: Morris, Ian (October 2010). //Social Development//. Stanford University. pp. 109, 115.
+
+[[ ^4 ]]: [[ Brill's Encyclopedia of Islam 1913-36 | https://books.google.com/books?id=fWNpIGNFz0IC&pg=PA923 ]], p.923, "Nimrud": "At the present day the site is known only as Nimrud, which so far as I know first appears in Niebuhr (1778, p. 355, 368). When this, now the usual, name arose is unknown; I consider it to be of modern origin \... names like Nimrod, Tell Nimrod, etc. are not found in the geographical nomenclature of Mesopotamia and the Iraq in the Middle Ages, while they are several times met with at the present day."
+
+[[ ^1 ]]: Niebuhr wrote on [[ p.355 | http://digi.ub.uni-heidelberg.de/diglit/niebuhr1778bd2/0369?sid=0fabdc28157081fbcd7ee18d1d19f29d ]]: [in original German]: "Bei Nimrud, einem verfallenen Castell etwa 8 Stunden von Mosul, findet man ein merkwürdigeres Werk. Hier ist von beiden Ufern ein Damm in den Tiger gebaut, um so viel Wasser zurück zu halten, als nöthig ist, die benachbarten Ländereien zu wässern." / [translated]: At Nimrud, a dilapidated castle about 8 hours outside of Mosul, one finds a more remarkable work. Here are both banks of a dam built in the Tigris to hold back as much water as is necessary to water the neighbouring lands."
+
+[[ ^2 ]]: [[ William Francis Ainsworth ]], who [[ preferred the identification of Resen | https://books.google.com/books?id=_o1gAAAAcAAJ&pg=PA137 ]] with Nimrud (on the basis of [[ Bochart | samuel-bochart ]]'s identification of [[ Resen with Xenophon's Larissa | https://books.google.com/books?id=VrmtoGgKCScC&pg=RA1-PR27 ]]), summarised [[ the debate in 1855 | https://archive.org/stream/cu31924026613327#page/n329/mode/2up ]] as follows: "The learned Bochart first advanced the supposition that this Assyrian city was the same as the primeval city, called Resen in the Bible and that the Greeks having asked its name were answered, Al Resen, the article being prefixed, and from whence they made Larissa, in an easy transposition. I adopted this presumed identity as extremely probable, and Colonel Chesney (ii. 223) has done the same, not as an established fact, but as a presumed identity. \... In 1846, Colonel Rawlinson, speaking of Nimrud, noticed it as probably the Rehoboth of Scripture, but he added in a note, 'I have no reason for identifying it with Rehoboth, beyond its evident antiquity, and the attribution of Resen and Calah to other sites.' (Journal of Roy. Asiat. Soc. vol. x. p. 26.) At this time Colonel Rawlinson identified Calah with Holwan or Sir Pul-i-Zohab, and Resen, or Dasen, with Yasin Teppeh in the plain of Sharizur in Kurdistan. In 1849 (Journ. of Roy. Asiat. Soc. vol. xi. p. 10), Colonel Rawlinson said, 'The Arabic geographers always give the title of Athur to the great ruined capital near the mouth of the Upper Zab. The ruins are now usually known by the name of Nimrud. It would seem highly probable that they represent the Calah of Genesis, for the Samaritan Pentateuch names this city Lachisa, which is evidently the same title as the Λάρισσα of Xenophon, the Persian r being very usually replaced both in Median and Babylonian by a guttural.' In 1850 (Journ. of Roy. Asiat. Soc. vol. xii.). Colonel Rawlinson added the discovery of a cuneiform inscription bearing the title Levekh, which he reads Halukh. 'Nimrud', says the distinguished palaeographist, 'the great treasure-house which has furnished us with all the most remarkable specimens of Assyrian sculpture, although very probably forming one of that group of cities, which in the time of the prophet Jonas, were known by the common name of Nineveh, has no claim, itself, I think, to that particular appellation. The title by which it is designated on the bricks and slabs that form its buildings, I read doubtfully as Levekh, and I suspect this to be the original form of the name which appears as Calah in Genesis, and Halah in Kings and Chronicles, and which indeed, as the capital of Calachene, must needs have occupied some site in the Immediate vicinity.' Lastly, in 1853 (Journ. of Roy. Asiat. Soc. vol. xv. p. vi. et seq.), Colonel Rawlinson describes the remarkable cylinder before alluded to as found at Kilah Shirgat, which establishes that site to have been the most ancient capital of the Assyrian empire, and to have been called Assur as well as Nimrud and Nineveh Proper. This Assur, we have seen, he identifies with the Tel Assur of the Targums, which is used for the Mosaic Resen; and instead, therefore, of Resen being between Nineveh and Calah, It should be Calah, which was between Nineveh and Resen. But, notwithstanding such very high authority, the conclusion thus arrived at does not appear to be perfectly satisfactory."
+
+[[ ^5 ]]: [[ The Nimrud Project at Oracc.org | http://oracc.museum.upenn.edu/nimrud/index.html ]]
+
+[[ ^6 ]]: [[ The Nimrud Project at Oracc.org: Museums worldwide holding material from Nimrud | http://oracc.museum.upenn.edu/nimrud/catalogues/museumsworldwide/index.html ]]; "Material from Nimrud has been dispersed into museum collections across the world. This page currently lists 76 museums holding Nimrud objects, with links to online information where available. The Nimrud Project welcomes additions and amendments to the list".
+
+[[ ^7 ]]: [[ "Isis destroyed a 3,000-year-old city in minutes" | https://www.independent.co.uk/news/world/middle-east/isis-militants-nimrud-northern-iraq-destroy-3000-year-old-city-archaelogists-ancient-palace-islamic-a7512526.html ]]. //The Independent//. 2017-01-06. [[ Archived | https://ghostarchive.org/archive/20220621/https://www.independent.co.uk/news/world/middle-east/isis-militants-nimrud-northern-iraq-destroy-3000-year-old-city-archaelogists-ancient-palace-islamic-a7512526.html ]] from the original on 2022-06-21. Retrieved 2017-04-13.
+
+[[ ^8 ]]: Budge, Ernest Alfred Thompson Wallis (1920). [[ "By Nile and Tigris: a narrative of journeys in Egypt and Mesopotamia on behalf of the British Museum between the years 1886 and 1913" | https://archive.org/stream/cu31924088412592#page/n437/ ]]. John Murray: London. OCLC [[ 558957855 | https://search.worldcat.org/oclc/558957855 ]].
+
+[[ ^9 ]]: Mark, Joshua J. (2014-08-03). [[ "Kalhu / Nimrud" | https://www.worldhistory.org/Kalhu/ ]]. //World History Encyclopedia//. World History Publishing. Retrieved 2025-02-12.
+
+[[ ^10 ]]: Mark 2020.
+
+[[ ^11 ]]: Frahm 2017, p. 170.
+
+[[ ^12 ]]: Frahm, Eckhart (2017). //"The Neo-Assyrian Period (ca.1000-609 BCE)", in A Companion to Assyria//. John Wiley and Sons. p. 170.
+
+[[ ^13 ]]: Time Life Lost Civilizations series: //Mesopotamia: The Mighty Kings//. (1995) p. 100–1
+
+[[ ^14 ]]: [[ Xen. Anab. 3.4.7 | http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg006.perseus-eng1:3.4.7 ]]. The city had been reached after crossing the "Zapatas" river ([[ Xen. Anab. 3.3.6 | http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg006.perseus-eng1:3.3.6 ]]) and then arriving at the Tigris ([Citation URI: http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg006.perseus-eng1:3.4.6 Xen. Anab. 3.4.6]).
+
+[[ ^3 ]]: Layard (1849, p.194) noted the following in a footnote: "[[ Yakut | yaqut-al-hamawi ]], in his geographical work called the Moejem el Buldan, says, under the head of "Athur," "Mosul, before it received its present name, was called Athur, or sometimes Akur, with a kaf. It is said that this was anciently the name of [[ el Jezireh | upper-mesopotamia ]] (Mesopotamia), the province being so called from a city, of which the ruins are now to be seen near the gate of Selamiyah, a small town, about eight farsakhs east of Mosul; God, however, knows the truth." The same notice of the ruined city of Athur, or Akur, occurs under the head of "Selamiyah." [[ Abulfeda | abul-fida ]] says, " To the south of Mosul, the lesser (?) Zab flows into the Tigris, near the ruined city of Athur." In Reinaud's edition (vol. i. p. 289, note 11,) there is the following extract from [[ Ibn Said | ibn-said-al-maghribi ]]: — " The city of Athur, which is in ruins, is mentioned in the Taurat (Old Testament). There dwelt the Assyrian kings who destroyed Jerusalem.""
+
+[[ ^15 ]]: [[ Buckingham, James Silk | james-silk-buckingham ]] (1830). [[ //Travels in Assyria, Media, and Persia, Including a Journey from Bagdad by Mount Zagros, to Hamadan, the Ancient Ecbatani, Researches in Ispahan and the Ruins of Persepolis, and Journey from Thence by Shiraz and Shapoor to the Sea-shore; Description of Bussorah, Bushire, Bahrein, Ormuz and Museat: Narrative of an Expedition Against the Pirates of the Persian Gulf, with Illustrations of the Voyage of Nearehus, and Passage by the Arabian Sea to Bombay// | https://books.google.com/books?id=T2RjAAAAMAAJ&pg=PA54 ]]. H. Colburn. p. 54. Our course now lay nearly east, over a plain, which brought us in half an hour to the two heaps called Nimrod-Tuppé and Shah-Tuppé, between which we passed, without seeing any thing remarkable in them, more than common mounds of earth; though they probably might have shown vestiges of former buildings had they been carefully examined, a task which I could not now step aside from the road to execute. The Nimrod-Tuppé has a tradition attached to it, of a palace having been built there by Nimrod; and the Shah-Tuppé is said by some to have been a pleasure-house; by others, to be the grave of an Eastern monarch, coming on a pilgrimage to Mecca from India, who, being pleased with the beauty of the situation, halted here to take up his abode, and ended his days on the spot.
+
+[[ ^16 ]]: [[ "Julius Weber (1838–1906) and the Swiss Excavations at Nimrud in c.1860 together with Records of. Other Nineteenth-Century Antiquarian Researches at the Site" | https://web.archive.org/web/20220110152233/http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf ]] (PDF). Archived from [[ the original | http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf ]] (PDF) on 2022-01-10. Retrieved 2019-02-25.
+
+[[ ^17 ]]: Genesis 10:11–10:12
+
+[[ ^4 ]]: Rich (1836, p.129) described his interpretation as follows: "I was curious to inspect the ruins of Nimrod, which I take to be the Larissa of Xenophon. They were sufficiently visible from the shore to enable me to sketch the principal mount. About a quarter of a mile [400 m] from the west face of the platform is the large village of Nimrod, sometimes called Deraweish. The Turks generally believe this to have been Nimrod's own city; and one or two of the better informed with whom I conversed at Mousul said it was Al Athur or Ashur, from which the whole country was denominated. It is curious that the villagers of Deraweish still consider Nimrod as their founder. The village story-tellers have a book they call the "Kisseh Nimrod," or Tales of Nimrod, with which they entertain the peasants on a winter night. [Footnote: In the name of this obscure place seems to be preserved that of the first settler of the country, and from this spot, perhaps, that name extended over the whole vast region. See Gen. x. 11 . "Out of that land went forth Ashur and builded Nineveh," &c.; or, as it has been rendered, "Out of that land he went forth into Ashur,"i.e. Assyria. The former translation seems the preferable one; and the position of this village is avourable to the supposition of its having received very early a name afterwards to become so celebrated.]"
+
+[[ ^5 ]]: Fletcher (1850, p.75-78) described his thesis as follows: "The Tell of Nimroud and its lately discovered treasures have excited so much interest that I trust I may be pardoned if I interrupt the course of the narrative to bestow a few remarks on the identity of this site with that of the ancient city of Rehoboth, mentioned in Genesis x. 11. It is evident from the sculptures which have been discovered at Nimroud, that these mounds were in ancient days occupied by some large Assyrian city. Major Rawlinson, in his interesting paper on Assyrian Antiquities, quoted in the Athenceum of January 26, 1850, assumes that the ruins of Nimroud represent the old city of Calah, or Halah, while he places Nineveh at Nebbi Yunas. Yet it appears likely that the ancient Calah, or Halah, which was probably the capital of the district of Calachene, must have been nearer to the Kurdish Mountains. Ptolemy mentions the province of Calachene as bounded on the north by the Mountains of Armenia, and on the south by the district of Adiabene. [Ptolemy, lib. vi. cap. i.] Most writers place Ninus, or Nineveh, within the latter province. But if so, Adiabene would include also Nimroud, and, therefore, it is not probable that Halah, or Calah, could have occupied the site indicated by Major Rawlinson. St. Ephraim, himself a learned Syrian and well acquainted with the history and geography of the East, considers Calah to be the modern Hatareh, a large town inhabited chiefly by Yezidees, and situated N.N.W. of Nineveh. [Strabo, lib. 1G, mentions the plain in the vicinity of Nineveh, and seems to consider it as not belonging to the province of Adiabene. But his testimony, if taken, would also exclude that city, and the land to the southward of it, from the district of Calachene, as he enumerates that as a distinct part of Assyria immediately afterwards. In the arrangement of the dioceses recorded in Assemani, torn. iii. Athoor and Adiabene seem to be continually connected, while Calachene is spoken of as nearer the mountains.] Between Hatareh and the site of Nineveh we find a village bearing the name of Ras el Ain, which is evidently a corrupted form of the Resen of Genesis. It is worthy of remark that this theory confirms the statement made in Genesis x. 12, where Resen is represented as occupying a midway position between Calah and Nineveh. But assuming Major Rawlinson's hypothesis to be correct, it is clear that there would be no room for a large city between Nebbi Yunas and Nimroud, a distance of, at most, 40 kilometres (25 mi). Nor is it certain that the latter may be considered as the site of the Larissa of Xenophon. A considerable interval must have taken place between the passage of the river Zab by the [[ Ten Thousand | ten-thousand-greek-mercenaries ]] and their arrival at the Tigris. It is expressly mentioned that they forded a mountain stream, which seems to have been of some width, soon after they had passed over the Zab. But no vestige of any stream of this kind appears between Nimroud and the Tigris. It is probable, therefore, that the Χαραδρα of Xenophon was the Hazir, or Bumadas, after passing which, the Ten Thousand marched in a north-westerly direction past the modern village of Kermalis to the Tigris. At a short distance from the latter they encountered a ruined city, which Xenophon terms Larissa, and which occupied probably the site of the modern Ras el Ain. The village known by this name is about 19 kilometres (12 mi) from the Tigris, but the ancient city may have been much nearer. [Xenophon Anab. lib. iii. cap. iv.] Both Ptolemy and Ammianus Marcellinus mention a city situated at the mouth of the Zab, on precisely the same site as that occupied by the mounds of Nimroud, which they term Birtha, or Virtha. But Birtha, or Britha, in Chaldee, signifies the same as Rehoboth in Hebrew, namely, wide squares or streets, an identity in name which seems to imply also an identity in locality. It appears likely, therefore, that Nimroud is the same as Rehoboth, which it is said Asshur founded after his departure from the land of Shinar."
+
+[[ ^6 ]]: Layard, Nineveh and its Remains, "That the ruins at Nimroud were within the precincts of Nineveh, if they do not alone mark its site, appears to be proved by Strabo, and by Ptolemy's statement that the city was on the Lycus, corroborated by the tradition preserved by the earliest Arab geographers. [[ Yakut | yaqut-al-hamawi ]], and others mention the ruins of Athur, near Selamiyah, which gave the name of Assyria to the province; and [[ Ibn Said | ibn-said-al-maghribi ]] expressly states, that they were those of the city of the Assyrian kings who destroyed Jerusalem. They are still called, as it has been shown, both Athur and Nimroud. The evidence afforded by the examination of all the known ruins of Assyria, further identifies Nimroud with Nineveh. It would appear from existing monuments, that the city was originally founded on the site now occupied by these mounds. From its immediate vicinity to the place of junction of two large rivers, the Tigris and the Zab, no better position could have been chosen."
+
+[[ ^18 ]]: [[ Journal of the Royal Asiatic Society | royal-asiatic-society-of-great-britain-and-ireland ]], Volume 12, page 417, quote "The title by which it is designated on the bricks and slabs that form its buildings, I read doubtfully as Levekh, and I suspect this to be the original form of the name which appears as Calah in Genesis, and Halah in Kings and Chronicles\..."
+
+[[ ^19 ]]: The Conquest of Assyria, Mogens Trolle Larsen, 2014, Routledge, page 217, quote: "Rawlinson explained to his audience that the large Assyrian ruin mounds could now be given their proper names: Nimrud was Calah\..."
+
+[[ ^20 ]]: Layard, 1849
+
+[[ ^21 ]]: Hormuzd Rassam and Robert William Rogers, Asshur and the land of Nimrod, Curts & Jennings, 1897
+
+[[ ^22 ]]: George Smith, Assyrian Discoveries: An Account of Explorations and Discoveries on the Site of Nineveh During 1873 to 1874, Schribner, 1875
+
+[[ ^23 ]]: M. E. L. Mallowan, "The Excavations at Nimrud. 1949 Season", Sumer, vol. 6, no.1, pp. 101-102, 1950
+
+[[ ^24 ]]: M. E. L. Mallowan, "The Excavations at Nimrud (Kahlu), 1950", Sumer, vol. 7, no.1, pp. 49-54, 1951
+
+[[ ^25 ]]: M. E. L. Mallowan, Nimrud and its Remains, 3 vols, British School of Archaeology in Iraq, 1966
+
+[[ ^26 ]]: [[ Joan Oates ]] and [[ David Oates | david-oates-archaeologist ]], Nimrud: An Imperial City Revealed, British School of Archaeology in Iraq, 2001, ISBN [[ 0-903472-25-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-903472-25-2 ]]
+
+[[ ^27 ]]: [[ D. Oates | david-oates-archaeologist ]] and J. H. Reid, The Burnt Palace and the Nabu Temple; Nimrud Excavations, 1955, Iraq, vol. 18, no. 1, pp. 22-39, 1956
+
+[[ ^28 ]]: Paolo Fiorina, Un braciere da Forte Salmanassar, Mesopotamia, vol. 33, pp. 167–188, 1998
+
+[[ ^29 ]]: [[ "Nimrud" | https://pcma.uw.edu.pl/en/2019/02/13/nimrud-2/ ]]. //pcma.uw.edu.pl//. Retrieved 2020-07-08.
+
+[[ ^30 ]]: Janusz Meuszynski, Neo-Assyrian Reliefs from the Central Area of Nimrud Citadel, Iraq, vol. 38, no. 1, pp. 37-43, 1976
+
+[[ ^31 ]]: Time Life Lost Civilizations series: //Mesopotamia: The Mighty Kings//. (1995) p. 112–121
+
+[[ ^32 ]]: Frankfort, 154
+
+[[ ^33 ]]: Oliphant, Margaret //The Atlas Of The Ancient World// (1992) p. 32
+
+[[ ^34 ]]: [[ Human–headed winged lion (lamassu) | http://www.metmuseum.org/toah/works-of-art/32.143.2 ]], 883–859 b.c.; Neo–Assyrian period, reign of Ashurnasirpal II
+
+[[ ^35 ]]: Frankfort, 156-157, 167
+
+[[ ^36 ]]: [[ "Assyria: Nimrud (Rooms 7–8)" | https://www.britishmuseum.org/explore/galleries/middle_east/room_7-8_assyria_nimrud.aspx ]], British Museum, accessed 6 March 2015;Frankfort, 156-164
+
+[[ ^37 ]]: Frankfort, 310-322
+
+[[ ^38 ]]: [[ The Nimrud Bowls | https://www.britishmuseum.org/research/research_projects/all_current_projects/the_nimrud_bowls.aspx ]], British Museum, accessed 6 March 2015; Frankfort, 322-331
+
+[[ ^39 ]]: [[ "Ancient Assyrian Treasures Found Intact in Baghdad" | https://web.archive.org/web/20031008204754/http://news.nationalgeographic.com/news/2003/06/0602_030602_iraqgold.html ]]. [[ National Geographic | national-geographic-society ]]. Archived from [[ the original | http://news.nationalgeographic.com/news/2003/06/0602_030602_iraqgold.html ]] on October 8, 2003. Retrieved 6 March 2015.
+
+[[ ^40 ]]: Archived at [[ Ghostarchive | https://ghostarchive.org/varchive/youtube/20211205/qQAuntNaRWQ ]] and the [[ Wayback Machine | https://web.archive.org/web/20150325034534/https://www.youtube.com/watch?v=qQAuntNaRWQ ]]: [[ "Iraq's Nimrud before it was destroyed by Isis \| Guardian Wires" | https://www.youtube.com/watch?v=qQAuntNaRWQ ]]. //[[ YouTube ]]//. 6 March 2015.
+
+[[ ^41 ]]: Jane Arraf (February 11, 2009). [[ "Iraq: No Haven for Ancient World's Landmarks" | https://www.csmonitor.com/2009/0211/p04s01-wome.html ]]. [[ The Christian Science Monitor ]].
+
+[[ ^42 ]]: [[ "Isis destroys thousands of books and manuscripts in Mosul libraries" | https://www.theguardian.com/books/2015/feb/26/isis-destroys-thousands-books-libraries ]]. //The Guardian//. 26 Feb 2015.
+
+[[ ^43 ]]: Karim Abou Merhi (March 5, 2015). [[ "IS 'bulldozed' ancient Assyrian city of Nimrud, Iraq says" | https://news.yahoo.com/bulldozed-ancient-assyrian-city-nimrud-iraq-govt-203312292.html ]]. //AFP//. Retrieved March 5, 2015.
+
+[[ ^44 ]]: [[ "Iraq: Isis militants pledge to destroy remaining archaeological treasures in Nimrud" | https://www.independent.co.uk/news/world/middle-east/iraq-isis-militants-pledge-to-destroy-remaining-archaeological-treasures-in-nimrud-10076133.html ]]. //The Independent//. 27 Feb 2015. [[ Archived | https://ghostarchive.org/archive/20220621/https://www.independent.co.uk/news/world/middle-east/iraq-isis-militants-pledge-to-destroy-remaining-archaeological-treasures-in-nimrud-10076133.html ]] from the original on 2022-06-21.
+
+[[ ^45 ]]: Al Jazeera: [[ ISIL video shows destruction of 7th century artifacts | http://america.aljazeera.com/articles/2015/2/26/isil-seen-in-new-video-destroying-7th-century-artifacts.html ]] (26 February 2015)
+
+[[ ^46 ]]: Morgan Winsor (5 March 2015). [[ "ISIS Destroys Iraqi Archaeological Site Of Nimrud Near Mosul" | http://www.ibtimes.com/isis-destroys-iraqi-archaeological-site-nimrud-near-mosul-1838230 ]]. //IBT//. Retrieved 8 March 2015.
+
+[[ ^47 ]]: [[ "Isis militants continue path of destruction in Hatra by 'demolishing 2,000 year-old ruins'" | https://www.independent.co.uk/news/world/middle-east/isis-militants-continue-path-of-destruction-in-hatra-by-demolishing-2000-yearold-ruins-10093159.html ]]. //The Independent//. 7 March 2015. [[ Archived | https://ghostarchive.org/archive/20220621/https://www.independent.co.uk/news/world/middle-east/isis-militants-continue-path-of-destruction-in-hatra-by-demolishing-2000-yearold-ruins-10093159.html ]] from the original on 2022-06-21.
+
+[[ ^48 ]]: [[ "Islamic State 'demolishes' ancient Hatra site in Iraq" | https://www.bbc.com/news/world-middle-east-31779484 ]]. //BBC//. 7 March 2015.
+
+[[ ^49 ]]: [[ "Islamic State video 'shows destruction of Nimrud'" | https://www.bbc.com/news/world-middle-east-32273672 ]]. //BBC//. 7 March 2015. Retrieved 13 April 2015.
+
+[[ ^50 ]]: [[ youtube ISIS destroys Nimrud | https://www.youtube.com/watch?v=Nizbkppblds ]]
+
+[[ ^51 ]]: [[ "Isis 'bulldozes' Nimrud: UNESCO condemns destruction of ancient Assyrian site as a 'war crime'" | https://www.independent.co.uk/news/world/middle-east/isis-militants-bulldoze-ancient-assyrian-site-of-nimrud-10089745.html ]]. //The Independent//. 6 Mar 2015. [[ Archived | https://ghostarchive.org/archive/20220621/https://www.independent.co.uk/news/world/middle-east/isis-militants-bulldoze-ancient-assyrian-site-of-nimrud-10089745.html ]] from the original on 2022-06-21.
+
+[[ ^52 ]]: Kareem Shaheen (7 March 2015). [[ "Outcry over Isis destruction of ancient Assyrian site of Nimrud" | https://www.theguardian.com/world/2015/mar/06/isis-destroys-ancient-assyrian-site-of-nimrud ]]. //The Guardian//.
+
+[[ ^53 ]]: [[ "Iconic Ancient Sites Ravaged in ISIS's Last Stand in Iraq. National geographic 10 november 2016" | https://web.archive.org/web/20161111153026/http://news.nationalgeographic.com/2016/11/iraq-mosul-isis-nimrud-khorsabad-archaeology/ ]]. Archived from [[ the original | http://news.nationalgeographic.com/2016/11/iraq-mosul-isis-nimrud-khorsabad-archaeology/ ]] on November 11, 2016.
+
+[[ ^54 ]]: Williams, Sara Elizabeth (13 November 2016). [[ "Iraqi forces retake historical town of Nimrud" | https://www.telegraph.co.uk/news/2016/11/13/iraqi-forces-retake-ancient-city-of-nimrud/ ]]. //The Telegraph//. Retrieved 13 November 2016.
+
+[[ ^55 ]]: al-Taie, Khalid. [[ "Iraq begins phase 2 of Nimrud ancient city reconstruction" | https://diyaruna.com/en_GB/articles/cnmi_di/features/2019/10/30/feature-02 ]]. //Diyaruna//. Retrieved 2023-01-03.
+
+[[ ^56 ]]: Johnson, Jessica S.; Ghazi, Zaid; Hanson, Katharyn; Lione, Brian Michael; Severson, Kent (2020-08-31). [[ "The Nimrud Rescue Project" | https://doi.org/10.1080/00393630.2020.1753357 ]]. //Studies in Conservation//. !!65!! (sup1): P160–P165. doi:[[ 10.1080/00393630.2020.1753357 | https://doi.org/10.1080%2F00393630.2020.1753357 ]]. ISSN [[ 0039-3630 | https://search.worldcat.org/issn/0039-3630 ]]. S2CID [[ 219037067 | https://api.semanticscholar.org/CorpusID:219037067 ]].
+
+[[ ^57 ]]: [[ "First major dig in ancient Iraqi city since Isis destruction unearths 'significant' palace door sill" | https://www.theartnewspaper.com/2022/12/07/first-major-dig-in-ancient-iraqi-city-since-isis-destruction-unearths-significant-palace-door-sill ]]. //The Art Newspaper - International art news and events//. 2022-12-07. Retrieved 2023-01-03.
+
+[[ ^58 ]]: [[ Contested Control: The Future of Security in Iraq's Nineveh Plain | https://www.assyrianpolicy.org/contested-control ]]

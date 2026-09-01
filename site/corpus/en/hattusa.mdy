@@ -1,0 +1,640 @@
++++
+title: Hattusa
+description: Capital of the Hittite Empire
+coordinates:
+  lat: 40.01972222
+  lon: 34.61527778
+image: https://upload.wikimedia.org/wikipedia/commons/1/14/Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg/330px-Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg
+    caption: The Lion Gate in the south-west
+  type: Settlement
+  periods: Bronze Age
+  cultures: Hittite
+  location: Near Boğazkale, Çorum Province, Turkey
+  region: Anatolia
+  history:
+    built: 6th millennium BC
+    abandoned: c. 1180 BC
+  site-notes:
+    condition: In ruins
+  unesco-world-heritage-site:
+    official-name: "Hattusha: the Hittite Capital"
+    criteria: "Cultural: i, ii, iii, iv"
+    reference: "377"
+    inscription: 1986 (10th Session)
+    area: 268.46 ha (663.4 acres)
+images:
+  - file: Hattusa_Yerkapi_rampant.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hattusa_Yerkapi_rampant.JPG/250px-Hattusa_Yerkapi_rampant.JPG
+    width: 2816
+    height: 1880
+    caption: Hattusa rampart
+  - file: Hattusa_reconstructed_wall.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hattusa_reconstructed_wall.JPG/250px-Hattusa_reconstructed_wall.JPG
+    width: 2816
+    height: 1880
+    caption: Reconstructed city walls of Hattusa
+  - file: Hattusa_reliefs1.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hattusa_reliefs1.jpg/250px-Hattusa_reliefs1.jpg
+    width: 2816
+    height: 2112
+    caption: Reliefs and Hieroglyphs from Chamber 2 at Hattusa built and decorated
+      by Suppiluliuma II, the last king of the Hittites
+  - file: Hattusa,_capital_of_the_Hittite_Empire_04.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hattusa%2C_capital_of_the_Hittite_Empire_04.jpg/250px-Hattusa%2C_capital_of_the_Hittite_Empire_04.jpg
+    width: 4928
+    height: 3264
+    caption: The Great Temple in the inner city
+  - file: Yazilikaya_B_12erGruppe.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Yazilikaya_B_12erGruppe.jpg/250px-Yazilikaya_B_12erGruppe.jpg
+    width: 1999
+    height: 1315
+    caption: Twelve Hittite gods of the Underworld in the nearby Yazılıkaya, a
+      sanctuary of Hattusa
+  - file: Ḫattuša_Büyükkaya_04.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%E1%B8%AAattu%C5%A1a_B%C3%BCy%C3%BCkkaya_04.jpg/250px-%E1%B8%AAattu%C5%A1a_B%C3%BCy%C3%BCkkaya_04.jpg
+    width: 5152
+    height: 2760
+    caption: Büyükkaya site in Hattusa
+  - file: Museum_Boğazkale_13.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Museum_Bo%C4%9Fazkale_13.jpg/250px-Museum_Bo%C4%9Fazkale_13.jpg
+    width: 3420
+    height: 3392
+    caption: An artifact from the site of Hattusa is presented at Hattusa Museum
+  - file: Hattusa_magazzini_per_cereali.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hattusa_magazzini_per_cereali.jpg/250px-Hattusa_magazzini_per_cereali.jpg
+    width: 1759
+    height: 1192
+    caption: Large pottery at the excavation site.
+  - file: Hattusa_Green_Stone_2019-12-08.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hattusa_Green_Stone_2019-12-08.jpg/250px-Hattusa_Green_Stone_2019-12-08.jpg
+    width: 2268
+    height: 4032
+    caption: The Hattusa Green Stone, a monument believed to have religious origins
+  - file: Treaty_of_Kadesh.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Kadesh.jpg/250px-Treaty_of_Kadesh.jpg
+    width: 2154
+    height: 3617
+    caption: Treaty of Kadesh
+  - file: Sphinx_Gate,_Hattusa_01.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sphinx_Gate%2C_Hattusa_01.jpg/250px-Sphinx_Gate%2C_Hattusa_01.jpg
+    width: 5184
+    height: 3456
+    caption: Sphinx Gate entrance of the city.
+wikidata:
+  id: Q181007
+  label: Hattusa
+  description: capital of Hittite empire
+  claims:
+    country: Turkey
+    instance-of: archaeological site
+    commons-category: Hattusa
+    coordinate-location:
+      lat: 40.019722222222
+      lon: 34.615277777778
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Lion_Gate%2C_Hattusa_13_(cropped).jpg
+    located-in-the-administrative-territorial-entity: Boğazkale district
+    dissolved-abolished-or-demolished: 1200 BC
+    capital-of:
+      - Hatti
+      - Old Hittite Kingdom
+    commons-gallery: Hattusa
+    described-by-source:
+      - Armenian Soviet Encyclopedia
+      - Atlas of Vanishing Places
+      - Oxford Classical Dictionary
+    director-of-archaeological-fieldwork:
+      - value: Hugo Winckler
+        from: "1906"
+        to: "1907"
+      - value: Hugo Winckler
+        from: "1911"
+        to: "1912"
+      - value: Kurt Bittel
+        from: "1931"
+        to: "1978"
+      - value: Peter Neve
+        from: "1978"
+        to: "1993"
+      - value: Jürgen Seeher
+        from: "1993"
+        to: "2005"
+      - value: Andreas Schachner
+        from: "2006"
+    topic-s-main-category: Category:Hattusa
+    different-from: "Hattusha: the Hittite Capital"
+    heritage-designation:
+      value: part of UNESCO World Heritage Site
+      from: "1986"
+    area: 261 hectare
+    part-of: "Hattusha: the Hittite Capital"
+    official-website: https://muze.gov.tr/muze-detay?SectionId=BGO01&DistId=MRK
+    page-banner: https://commons.wikimedia.org/wiki/Special:FilePath/Wv_Hattusa_banner.JPG
+    category-for-people-who-died-here: Q105561988
+    pronunciation-audio: https://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913_(ron)-KlaudiuMihaila-Hattu%C8%99a.wav
+    panoramic-view: https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_in_Hattusa.jpg
+    state-of-conservation: preserved
+    located-in-on-physical-feature: Central Anatolia Region
+categories:
+  - 1834 archaeological discoveries
+  - Archaeological sites in the Black Sea region
+  - Archaeological sites of prehistoric Anatolia
+  - Buildings and structures in Çorum Province
+  - Capitals of former countries
+  - Former populated places in Turkey
+  - Geography of Çorum Province
+  - Hattian cities
+  - Hattusa
+  - History of Çorum Province
+  - Hittite cities
+  - Hittite sites in Turkey
+  - Late Bronze Age collapse
+  - Populated places disestablished in the 2nd millennium BC
+  - Populated places established in the 3rd millennium BC
+  - World Heritage Sites in Turkey
+langlinks:
+  gsw: Ḫattusa
+  am: ሐቱሳሽ
+  ar: خاتوشا
+  arz: حتوساس
+  avk: Hattusa
+  az: Xattusa
+  ba: Хаттуса
+  be: Хатуса
+  bg: Хатуша
+  bn: হাট্টুসা
+  br: Hattusha
+  bs: Hatuša
+  ca: Hattusa
+  ckb: خاتوشا
+  cs: Chattušaš
+  da: Hattusas
+  de: Ḫattuša
+  el: Χαττούσα
+  eo: Hatuŝa
+  es: Hattusa
+  eu: Hattusa
+  fa: خاتوشا
+  fi: Hattuša
+  fo: Hattusha
+  fr: Hattusa
+  gl: Hattusa
+  he: חתושה
+  hr: Hatuša
+  hu: Hattuszasz
+  hy: Խաթթուսա
+  id: Hattusa
+  it: Ḫattuša
+  ja: ハットゥシャ
+  jv: Hattusa
+  ka: ხათუსა
+  kk: Хаттуша
+  ko: 하투샤
+  ku: Hattûşa
+  ky: Хаттусас
+  lt: Hatušas
+  lv: Hatušaša
+  mk: Хатуша
+  ms: Hattusa
+  mt: Hattusha
+  ne: हत्तुसस
+  nl: Hattusa
+  nn: Hattusa
+  nb: Hattusa
+  oc: Hattusa
+  pl: Hattusa
+  pt: Hatusa
+  ro: Hattușa
+  ru: Хаттуса
+  sco: Hattusa
+  sh: Hattusa
+  sk: Chattušaš
+  sl: Hatuša
+  sr: Хатуша
+  sv: Hattusa
+  ta: அத்துசா
+  tr: Hattuşa
+  uk: Хаттуса
+  ur: ہاتوسا
+  uz: Xattusa
+  vi: Hattusa
+  wuu: 哈图沙
+  zh: 哈图沙
+link-titles:
+  acropolis: Acropolis
+  akkadian-language: Akkadian language
+  anitta-king: Anitta (king)
+  assyria: Assyria
+  battle-of-kadesh: Battle of Kadesh
+  bogazköy-archive: Bogazköy Archive
+  boğazkale: Boğazkale
+  bronze-age: Bronze Age
+  büyükkale: Büyükkale
+  carl-humann: Carl Humann
+  chalcolithic: Chalcolithic
+  charles-texier: Charles Texier
+  daniel-krencker: Daniel Krencker
+  deutsche-orient-gesellschaft: Deutsche Orient-Gesellschaft
+  egyptianhittite-peace-treaty: Egyptian–Hittite peace treaty
+  ernest-chantre: Ernest Chantre
+  georges-perrot: Georges Perrot
+  german-archaeological-institute: German Archaeological Institute
+  german-empire: German Empire
+  halys-river: Halys River
+  hattian-people: Hattian people
+  hattusa-green-stone: Hattusa Green Stone
+  hattusili-i: Hattusili I
+  hattusili-iii: Hattusili III
+  heinrich-barth: Heinrich Barth
+  heinrich-kohl: Heinrich Kohl
+  hittite-language: Hittite language
+  hittites: Hittites
+  hugo-winckler: Hugo Winckler
+  istanbul-archaeology-museum: Istanbul Archaeology Museum
+  istanbul-archaeology-museums: Istanbul Archaeology Museums
+  kanesh: Kanesh
+  karum-trade-post: Karum (trade post)
+  kaskians: Kaskians
+  kurt-bittel: Kurt Bittel
+  kurunta: Kurunta
+  kussara: Kussara
+  kızılırmak-river: Kızılırmak River
+  late-bronze-age-collapse: Late Bronze Age collapse
+  list-of-world-heritage-sites-in-turkey: List of World Heritage Sites in Turkey
+  ludwig-curtius: Ludwig Curtius
+  material-culture: Material culture
+  mursili-iii: Mursili III
+  muwatalli-ii: Muwatalli II
+  new-york-city: New York City
+  otto-puchstein: Otto Puchstein
+  pergamon-museum: Pergamon Museum
+  ramesses-ii: Ramesses II
+  sapinuwa: Sapinuwa
+  sphinx: Sphinx
+  suppiluliuma-i: Suppiluliuma I
+  suppiluliuma-ii: Suppiluliuma II
+  tabigga: Tabigga
+  tarhuntassa: Tarhuntassa
+  tarḫuntašša: Tarḫuntašša
+  theodore-makridi: Theodore Makridi
+  tudhaliya-i: Tudhaliya I
+  tudḫaliya-iv: Tudḫaliya IV
+  united-nations: United Nations
+  waldemar-belck: Waldemar Belck
+  yazılıkaya: Yazılıkaya
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 3
+    id: cuneiform-royal-archives
+    title: Cuneiform royal archives
+  - level: 3
+    id: sphinxes
+    title: Sphinxes
+source:
+  site: Wikipedia
+  lang: en
+  title: Hattusa
+  url: https://en.wikipedia.org/wiki/Hattusa
+  page-id: 458204
+  revision: "1370082956"
+  modified: 2026-08-19T01:18:01Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Hattusa"
+    (revision 1370082956), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+!!Hattusa!!, also !!Hattuşa!!, !!Ḫattuša!!, !!Hattusas!!, or !!Hattusha!!, was
+the capital of the [[ Hittite Empire | hittites ]] in the late
+[[ Bronze Age ]] during two distinct periods. Its ruins lie near modern
+[[ Boğazkale ]], Turkey (originally Boğazköy), within the great loop of the
+[[ Kızılırmak River ]] (Hittite: //Marashantiya//; Greek:
+//[[ Halys | halys-river ]]//).
+
+French archeologist [[ Charles Texier ]] brought attention to the ruins after
+his visit in 1834. Over the following century, sporadic exploration occurred,
+involving different archaeologists. The
+[[ German Oriental Society | deutsche-orient-gesellschaft ]] and the
+[[ German Archaeological Institute ]] began systematic excavations in the
+early 20th century, which continue to this day.[[ ^1 ]] Hattusa was added to
+the [[ UNESCO World Heritage Site | list-of-world-heritage-sites-in-turkey ]]
+list in 1986.
+
+== History
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hattusa_Yerkapi_rampant.JPG/250px-Hattusa_Yerkapi_rampant.JPG" height="167" width="250"
+
+  <figcaption>Hattusa rampart
+
+The earliest traces of settlement on the site are from the 6th millennium BC
+during the [[ Chalcolithic ]] period. Toward the end of the 3rd millennium BC
+the [[ Hattian people ]] established a settlement on locations that had been
+occupied even earlier and referred to the site as Hattush.[[ ^2 ]] In the 19th
+and 18th centuries BC, merchants from [[ Assyria ]], centered at [[ Kanesh ]]
+(Neša) (modern Kültepe) established a trading post there, setting up in their
+own separate quarter of the lower city.[[ ^3 ]]
+
+A carbonized layer apparent in excavations attests to the burning and ruin of
+the city of Hattusa around 1700 BC. The responsible party appears to have been
+King [[ Anitta | anitta-king ]] from [[ Kussara ]], who took credit for the
+act and erected an inscribed curse for good measure:
+
+<blockquote
+  Whoever after me becomes king resettles Hattusas, let the Stormgod of the Sky
+  strike him![[ ^4 ]]
+
+Nevertheless the city was rebuilt, possibly by a son of
+Anitta.[[ ^5 ]][[ ^6 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hattusa_reconstructed_wall.JPG/250px-Hattusa_reconstructed_wall.JPG" height="167" width="250"
+
+  <figcaption>Reconstructed city walls of Hattusa
+
+Around 1650 BC, the Hittite king Labarna moved the capital from Neša to
+Hattusa and took the name of [[ Hattusili | hattusili-i ]], the "one/man from
+Hattusa".[[ ^7 ]][[ ^8 ]] After the [[ Kaskians ]] arrived to the kingdom's
+north, they twice attacked the city and under king [[ Tudhaliya I ]], the
+Hittites moved the capital north to [[ Sapinuwa ]]. Under [[ Muwatalli II ]],
+they moved south to [[ Tarhuntassa ]] but the king assigned his younger
+brother, the future [[ Hattusili III ]] as governor over Hattusa.[[ ^9 ]] In
+the mid-13th century BC Hittite ruler [[ Mursili III ]] returned the seat to
+Hattusa, where the capital remained until the end of the Hittite kingdom in
+the 12th century BC (KBo 21.15 i 11–12).[[ ^10 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hattusa_reliefs1.jpg/250px-Hattusa_reliefs1.jpg" height="143" width="190"
+
+  <figcaption>Reliefs and Hieroglyphs from Chamber 2 at Hattusa built and decorated by [[ Suppiluliuma II ]], the last king of the Hittites
+
+At its peak, the city covered 1.8 km^^2^^ (440 acres) and comprised an inner
+and outer portion, both surrounded by a massive and still visible course of
+walls erected during the reign of [[ Suppiluliuma I ]] c. 1344–1322 BC. The
+inner city covered an area of some 0.8 km^^2^^ (200 acres) and was occupied by
+a citadel with large administrative buildings and temples. The royal
+residence, or [[ acropolis ]], was built on a high ridge now known as
+[[ Büyükkale ]] (Great Fortress).[[ ^11 ]] The city displayed over 6 km
+(3.7 mi) of walls, with inner and outer layers around 3 m (9.8 ft) thick and
+2 m (6 ft 7 in) of space between, totalling 8 m (26 ft).[[ ^12 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hattusa%2C_capital_of_the_Hittite_Empire_04.jpg/250px-Hattusa%2C_capital_of_the_Hittite_Empire_04.jpg" height="166" width="250"
+
+  <figcaption>The Great Temple in the inner city
+
+To the south lay an outer city of about 1 km^^2^^ (250 acres), with elaborate
+gateways decorated with reliefs showing warriors, lions, and sphinxes. Four
+temples were located here, each set around a porticoed courtyard, together
+with secular buildings and residential structures. Outside the walls are
+cemeteries, most of which contain cremation burials. Modern estimates put the
+population of the city around 10,000;[[ ^13 ]] in the early period, the inner
+city housed a third of that number. The dwelling houses that were built with
+timber and mud bricks have vanished from the site, leaving only the
+stone-built walls of temples and palaces.
+
+The city was destroyed, together with the Hittite state itself, around 1200
+BC, as part of the [[ Late Bronze Age collapse ]]. Excavations suggest that
+Hattusa was gradually abandoned over a period of several decades as the
+Hittite empire disintegrated.[[ ^14 ]] It has been suggested that a regional
+drought occurred at that time.[[ ^15 ]] Signs of final destruction by fire
+have been noted,[[ ^16 ]] but this destruction probably occurred after the
+city had already been abandoned by the Hittite royal family, elites, and state
+apparatus.[[ ^17 ]] Agricultural communities with a [[ material culture ]]
+distinct from the Hittites settled in the remains of Hattusa as early as the
+12th Century BC.[[ ^17 ]]
+
+== Archaeology
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Yazilikaya_B_12erGruppe.jpg/250px-Yazilikaya_B_12erGruppe.jpg" height="164" width="250"
+
+  <figcaption>Twelve Hittite gods of the Underworld in the nearby [[ Yazılıkaya ]], a sanctuary of Hattusa
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%E1%B8%AAattu%C5%A1a_B%C3%BCy%C3%BCkkaya_04.jpg/250px-%E1%B8%AAattu%C5%A1a_B%C3%BCy%C3%BCkkaya_04.jpg" height="134" width="250"
+
+  <figcaption>Büyükkaya site in Hattusa
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Museum_Bo%C4%9Fazkale_13.jpg/250px-Museum_Bo%C4%9Fazkale_13.jpg" height="188" width="190"
+
+  <figcaption>An artifact from the site of Hattusa is presented at Hattusa Museum
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hattusa_magazzini_per_cereali.jpg/250px-Hattusa_magazzini_per_cereali.jpg" height="169" width="250"
+
+  <figcaption>Large pottery at the excavation site.
+
+In 1833, the French archaeologist
+[[ Félix Marie Charles Texier | charles-texier ]] (1802–1871) was sent on an
+exploratory mission to Turkey, where in 1834 he discovered monumental ruins
+near the town of Boğazköy.[[ ^18 ]] Texier made topographical measurements,
+produced illustrations, and composed a preliminary site plan.[[ ^19 ]] The
+site was subsequently visited by a number of European travelers and explorers,
+most notably the German geographer [[ Heinrich Barth ]] in 1858.[[ ^20 ]]
+[[ Georges Perrot ]] excavated at the site in 1861 and at the nearby site of
+Yazılıkaya.[[ ^21 ]] Perrot was the first to suggest, in 1886, that Boğazköy
+was the Hittite capital of Hattusa.[[ ^22 ]] In 1882 German engineer
+[[ Carl Humann ]] completed a full plan of the site.
+
+[[ Ernest Chantre ]] opened some trial trenches at the village then called
+Boğazköy, in 1893–94, with excavations being cut short by a cholera outbreak.
+Significantly Chantre discovered some fragments of clay tablets inscribed with
+cuneiform. The fragments contain text in both the [[ Akkadian language ]] and
+what later was determined to be the [[ Hittite language ]].[[ ^23 ]][[ ^24 ]]
+Between 1901 and 1905 [[ Waldemar Belck ]] visited the site several times,
+finding a number of tablets.
+
+In 1905 [[ Hugo Winckler ]] conducted some soundings at Boğazköy on behalf of
+the [[ German Oriental Society | deutsche-orient-gesellschaft ]] (DOG),
+finding 35 more cuneiform tablet fragments at the site of the royal fortress,
+[[ Büyükkale ]].[[ ^25 ]] Winckler began actual excavations in 1906, focusing
+mainly on the royal fortress area. Thousands of tablets were recovered, most
+in the then unreadable Hittite language. The few Akkadian texts firmly
+identified the site as Hattusa.[[ ^26 ]] Winckler returned in 1907 (with
+[[ Otto Puchstein ]], [[ Heinrich Kohl ]], [[ Ludwig Curtius ]] and
+[[ Daniel Krencker ]]), and briefly in 1911 and 1912 (with
+[[ Theodore Makridi ]]). Work stopped with the outbreak of
+WWI.[[ ^27 ]][[ ^28 ]] Tablets from these excavations were published in two
+series //Keilschrifttexte aus Boghazkoi// (KB0) and //Keilschrift urkunden aus
+Boghazköi// (KUB). Work resumed in 1931 under prehistorian [[ Kurt Bittel ]]
+with establishing stratigraphy as the major focus. The work was under the
+auspices of the DOG and [[ German Archaeological Institute ]] (Deutsches
+Archäologisches Institut) and lasted 9 seasons until being suspended due to
+the outbreak of WWII in 1939.[[ ^29 ]][[ ^30 ]]
+
+Excavation resumed in 1952 under Bittel with Peter Neve replacing as field
+director in 1963 and as director in 1978, continuing until 1993.[[ ^31 ]] The
+focus was on the Upper City area. Publication of tablets was resumed in the
+KUB and KBo.[[ ^32 ]][[ ^33 ]] In 1994 Jürgen Seeher assumed control of the
+excavation, leading there until 2005, with the focus on the Büyükkaya and
+non-monumental areas including economic and residential spaces.[[ ^34 ]] From
+2006 on, while some archaeology continued under new director Andreas
+Schachner, activities have been more focused toward restoration and
+preparation for tourist operations.[[ ^35 ]][[ ^36 ]][[ ^37 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hattusa_Green_Stone_2019-12-08.jpg/250px-Hattusa_Green_Stone_2019-12-08.jpg" height="338" width="190"
+
+  <figcaption>The [[ Hattusa Green Stone ]], a monument believed to have religious origins
+
+During the 1986 excavations a large (35 × 24 cm, 5 kg in weight, with 2
+attached chains) inscribed metal tablet was discovered 35 meters west of the
+Sphinx Gate. The tablet, from the 13th century BC, contained a treaty between
+Hittite [[ Tudḫaliya IV ]] and [[ Kurunta ]], King of [[ Tarḫuntašša ]]. It is
+held at the Museum of Anatolian Civilizations in Ankara.[[ ^38 ]][[ ^39 ]]
+During 1991 repair work at the site a Mycenae bronze sword was found on the
+western slope. It was inscribed, in Akkadian, "As Duthaliya the Great King
+shattered the Assuwa-Country he dedicated these swords to the Storm-God, his
+lord".[[ ^40 ]][[ ^41 ]] Another significant find during the 1990-91
+excavation season in the "Westbau" building of the upper city, was 3400 sealed
+bullae and clay lumps dating from the 2nd half of the 13th century BC. They
+were primarily associated with land documents.[[ ^42 ]]
+
+=== Cuneiform royal archives
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Kadesh.jpg/250px-Treaty_of_Kadesh.jpg" height="336" width="200"
+
+  <figcaption>[[ Treaty of Kadesh | egyptianhittite-peace-treaty ]]
+
+Forty mercantile documents written in the Old Assyrian dialect of Akkadian
+were found in the early 2nd millennium BC [[ karum | karum-trade-post ]]. By
+the middle of the 2nd millennium a scribal community had grown up in Hattusa
+based on Syrian, Mesopotamian, and Hurrian input. This included the usual
+range of Akkadian and Sumerian language texts.[[ ^43 ]][[ ^44 ]][[ ^45 ]]
+
+One of the most important discoveries at the site has been the cuneiform royal
+archives of clay tablets from the Hittite Empire New Kingdom period, known as
+the [[ Bogazköy Archive ]], consisting of official correspondence and
+contracts, as well as legal codes, procedures for cult ceremony, oracular
+prophecies and literature of the ancient Near East.
+[[ One particularly important tablet | egyptianhittite-peace-treaty ]],
+currently on display at the [[ Istanbul Archaeology Museum ]], details the
+terms of a [[ peace settlement | egyptianhittite-peace-treaty ]] reached years
+after the [[ Battle of Kadesh ]] between the Hittites and the Egyptians under
+[[ Ramesses II ]], in 1259 or 1258 BC. A copy is on display in the
+[[ United Nations ]] in [[ New York City ]] as an example of the earliest
+known international peace treaties.[[ ^46 ]]
+
+Although the 30,000 or so clay tablets recovered from Hattusa form the main
+corpus of Hittite literature, archives have since appeared at other centers in
+Anatolia, such as [[ Tabigga ]] (Maşat Höyük) and Sapinuwa (Ortaköy).
+
+=== Sphinxes
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sphinx_Gate%2C_Hattusa_01.jpg/250px-Sphinx_Gate%2C_Hattusa_01.jpg" height="167" width="250"
+
+  <figcaption>Sphinx Gate entrance of the city.
+
+A pair of [[ sphinxes | sphinx ]] found at the southern gate in Hattusa were
+taken for restoration to [[ Germany | german-empire ]] in 1917. The
+better-preserved was returned to Turkey in 1924 and placed on display in the
+[[ Istanbul Archaeology Museum | istanbul-archaeology-museums ]], but the
+other remained in Germany where it was on display at the [[ Pergamon Museum ]]
+from 1934 until it was moved to the Boğazköy Museum outside the Hattusa ruins
+in 2011, along with the Istanbul sphinx reuniting the pair near their original
+location.[[ ^47 ]]
+
+[[ ^1 ]]: Gates, Charles (2011). //Ancient cities: the archaeology of urban life in the ancient Near East and Egypt, Greece and Rome// (2nd ed.). London: Routledge. p. 145. ISBN [[ 978-0-203-83057-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-203-83057-4 ]].
+
+[[ ^2 ]]: Bittel, Kurt, //Hattusha. The Capital of the Hittites//, NewYork: Oxford University Press, 1970 ISBN [[ 978-0195004878 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0195004878 ]]
+
+[[ ^3 ]]: Hawkins, David, "Writing in Anatolia: Imported and Indigenous Systems", //World Archaeology//, vol. 17, no. 3, pp. 363–76, 1986
+
+[[ ^4 ]]: Hamblin, William J. //Warfare in the Ancient Near East to 1600 BC: Holy Warriors at the Dawn of History//. New York: Routledge, 2006.
+
+[[ ^5 ]]: Hopkins, David C., "Across the Anatolian Plateau: Readings in the Archaeology of Ancient Turkey", //The Annual of the American Schools of Oriental Research//, vol. 57, pp. v–209, 2000
+
+[[ ^6 ]]: de Martino, Stefano, "Hatti: From Regional Polity to Empire", in Stefano de Martino, ed., //Handbook Hittite Empire: Power Structures//, Berlin, Boston: De Gruyter Oldenbourg, pp. 205–270, 2022
+
+[[ ^7 ]]: Bryce, Trevor R., "The Annals and Lost Golden Statue of the Hittite King Hattusili I", in //Gephyra// 16, pp. 1-12, November 2018
+
+[[ ^8 ]]: Cline, Eric H. (2021). "Of Arms and the Man". //[[ 1177 B.C.: The Year Civilization Collapsed ]]//. Princeton University Press. p. 32. ISBN [[ 9780691208015 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780691208015 ]].
+
+[[ ^9 ]]: Glatz, Claudia, and Roger Matthews, "Anthropology of a Frontier Zone: Hittite-Kaska Relations in Late Bronze Age North-Central Anatolia", //Bulletin of the American Schools of Oriental Research//, no. 339, pp. 47–65, 2005
+
+[[ ^10 ]]: Otten, Heinrich, //Keilschrifttexte aus Boghazköi 21 (insbesondere Texte aus Gebäude A)//, Berlin 1973
+
+[[ ^11 ]]: Güterbock, Hans G., "New Excavations at Boghazköy, Capital of the Hittites", //Archaeology//, vol. 6, no. 4, pp. 211–16, 1953
+
+[[ ^12 ]]: Lewis, Leo Rich; Tenney, Charles R. (2010). //The Compendium of Weapons, Armor & Castles//. Nabu Press. p. 142. ISBN [[ 1146066848 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1146066848 ]].
+
+[[ ^13 ]]: Néhémie Strupler (2022). //Fouilles archéologiques de la Ville Basse I (1935–1978): analyse de l'occupation de l'âge du Bronze de la Westterrasse / Néhémie Strupler// (in French, German, and Turkish). Wiesbaden: Harrassowitz. p. 134. doi:[[ 10.34780/v0e8-6una | https://doi.org/10.34780%2Fv0e8-6una ]]. ISBN [[ 978-3-447-11942-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-447-11942-9 ]]. Wikidata [[ Q129697416 | https://www.wikidata.org/wiki/Q129697416 ]].
+
+[[ ^14 ]]: Beckman, Gary (2007). [[ "From Hattusa to Carchemish: The latest on Hittite history" | http://deepblue.lib.umich.edu/bitstream/handle/2027.42/77477/PAAA8.pdf ]] (PDF). In Chavalas, Mark W. (ed.). //Current Issues in the History of the Ancient Near East//. Claremont, California: Regina Books. pp. 97–112. Retrieved 18 December 2014.
+
+[[ ^15 ]]: Manning, S. W.; Kocik, C.; Lorentzen, B.; et al, "Severe multi-year drought coincident with Hittite collapse around 1198–1196 BC", //Nature// 614, pp. 719–724, 2023 doi:[[ 10.1038/s41586-022-05693-y | https://doi.org/10.1038%2Fs41586-022-05693-y ]]
+
+[[ ^16 ]]: Bryce, Trevor (2019). //Warriors of Anatolia: A Concise History of the Hittites//. Bloomsbury Academic. p. 264. ISBN [[ 9781350140783 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9781350140783 ]].
+
+[[ ^17 ]]: Seeher, Jürgen (2010). "After the Empire: Observations on the Early Iron Age in Central Anatolia". In Singer, Itamar (ed.). //Luwian and Hittite Studies Presented to J. David Hawkins on the Occasion of His 70th Birthday//. Tel Aviv: Emery and Claire Yass Publications in Archaeology. pp. 220–29. ISBN [[ 965-266-026-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F965-266-026-4 ]].
+
+[[ ^18 ]]: Texier, Charles, "Description de l’ Asie Mineure, faite par ordre du Gouvernement Français de 1833 à 1837, et publiée parle ministre de l’ Instruction publique", Volumes I-III, Paris:Firmin-Didot, 1839-1849
+
+[[ ^19 ]]: Texier, Charles, "Rapport lu, le 15 mai 1835, à l'Académie royale des Inscriptions et Belles-lettres de l'Institut, sur un envoi fait par M. Texier, et contenant les dessins de bas-reliefs découverts par lui près du village de Bogaz-Keui, dans l'Asie mineure" [Report read on 15 May 1835 to the Royal Academy of Inscriptions and Belle-lettres of the Institute, on a dispatch made by Mr. Texier and containing drawings of bas-reliefs discovered by him near the village of Bogaz-Keui in Asia Minor]. Journal des Savants (in French), pp. 368–376, 1835
+
+[[ ^20 ]]: Barth, Heinrich, "Reise von Trapezunt durch die nördliche Hälfte Klein-Asiens nach Scutariim Herbst 1858", Ergänzungsheft zu Petermann's geograph, Mittheilungen 3, Gotha:Justus Perthes, 1860
+
+[[ ^21 ]]: Perrot, Georges, Edmond Guillaume, and Jules Delbet 1872, "Exploration archéologique de la Galatie et de la Bithynie, d’ une partiede la Mysie, de la Phrigie, de la Cappadoce et duPontexécutéeen 1861", Volumes I-II, Paris:Firmin Didot, 1872
+
+[[ ^22 ]]: Perrot, Georges, "Une civilisation retrouvée: les Hétéens, leur écriture et leur art", Revuedes Deux-Mondes74 (15 July), pp. 303‒342, 1886
+
+[[ ^23 ]]: Alaura, Silvia, "Rediscovery and Reception of the Hittites: An Overview", Handbook Hittite Empire: Power Structures, edited by Stefano de Martino, Berlin, Boston: De Gruyter Oldenbourg, pp. 693-780, 2022
+
+[[ ^24 ]]: Boissier, Alfred, "Fragments de tablettes couvertes de caractères  cunéiformes, recueillies par M. Chantre et communiqués par M. Menant", Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres 39 (4), pp. 348‒360, 1895
+
+[[ ^25 ]]: Crüsemann, Nicola, "Vom Zweistromlandzum Kupfergraben.Vorgeschichte und Entstehungsjahre (1899–1918) der Vorderasiatischen Abteilung der Berliner Museen vorfach-und kulturpolitischen Hintergründen, Jahrbuchder, Berliner Museen 42, Beiheft(Berlin:Gebr.MannVerlag), 2001
+
+[[ ^26 ]]: Winckler, Hugo, "Nach Boghasköi! Ein nachgelassenes Fragment", Der Alte Orient XIV/3, Leipzig: Hinrichs, 1913
+
+[[ ^27 ]]: Seeher, J, "Die Adresse ist: poste restante Yozgat Asie Mineure", Momentaufnahmen der Grabungskampagne 1907 in Boğazköy. In: J. Klinger, E. Rieken, C. Rüster (eds.), Investigationes Anatolicae: Gedenkschrift für Erich Neu, Wiesbaden, pp. 253-270, 2010
+
+[[ ^28 ]]: Alaura, Silvia, "NachBoghasköy!” Zur Vorgeschichte der Ausgrabungen in Boghazköy-Hattušaund zu denarchäologischen Forschungenbis zum Ersten Weltkrieg Darstellung und Dokumente, 13. SendschriftDOG, Berlin:Deutsche Orient-Gesellschaft, 2006
+
+[[ ^29 ]]: Bittel, Kurt (1983). [[ "Quelques remarques archéologiques sur la topographie de Hattuša" | https://www.persee.fr/doc/crai_0065-0536_1983_num_127_3_14076 ]] [Some archaeological remarks on the topography of Hattusa]. //Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres// (in French). !!127!! (3): 485–509.
+
+[[ ^30 ]]: Bittel, Kurt, "Reisen und Ausgrabungen in Ägypten, Kleinasien, Bulgarien und Griechenland 1930–1934", Abhandlungen der Akademie der Wissenschaften und Literatur Mainz, Jg. 1998, Nr.5, Stuttgart:Franz Steiner Verlag, 1998 ISBN [[ 9783515073288 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9783515073288 ]]
+
+[[ ^31 ]]: Bittel, Kurt, "BOĞAZKÖY: The Excavations of 1967 and 1968", Archaeology, vol. 22, no. 4, pp. 276–79, 1969
+
+[[ ^32 ]]: Jürgen Seeher, "Forty Years in the Capital of the Hittites: Peter Neve Retires from His Position as Director of the Ḫattuša-Boğazköy Excavations" //The Biblical Archaeologist// //58//.2, "Anatolian Archaeology: A Tribute to Peter Neve" (June 1995), pp. 63-67.
+
+[[ ^33 ]]: P. Neve, "Boğazköy-Hattusha — New Results of the Excavations in the Upper City", Anatolica, 16, pp. 7–19, 1990
+
+[[ ^34 ]]: Seeher, Jürgen, "Büyükkaya II. Bauwerke und Befundeder Grabungskampagnen 1952–1955 und 1993–1998", Boğazköy-Hattuša 27, Berlin:de Gruyter, 2018
+
+[[ ^35 ]]: Schachner, Andreas, "Hattuscha.Auf der Such enach dem sagenhaften Großreich der Hethiter", München: C. H. Beck, 2011
+
+[[ ^36 ]]: Schachner, Andreas, "Hattusa and its Environs: Archaeology", in Hittite Landscape and Geography, Handbuch der Orientalistik  I/121, eds. MarkWeeden, and Lee Z. Ullmann, Leiden/Boston: Brill, pp. 37‒49, 2017
+
+[[ ^37 ]]: Schachner, Andreas, "Die Ausgrabungen in Bogazköy-Hattusa 2018", Archäologischer Anzeiger. AA. Deutsches Archäologisches Institut, no. 1, 2019
+
+[[ ^38 ]]: H. Otten, "Die Bronzetafel aus Boğazköy: Ein Staatsvertrag Tuthalijas IV", Studien zu den Boğazköy-Texten, Beih. 1, Wiesbaden, 1988
+
+[[ ^39 ]]: Zimmermann, Thomas, et al., "The Metal Tablet from Boğazköy-Hattuša: First Archaeometric Impressions*", Journal of Near Eastern Studies, vol. 69, no. 2, pp. 225–29, 2010
+
+[[ ^40 ]]: Hansen, O., "A Mycenaean Sword from Boǧazköy-Hattusa Found in 1991", The Annual of the British School at Athens, vol. 89, pp. 213–15, 1994
+
+[[ ^41 ]]: Cline, E. H., "Aššuwa and the Achaeans: The 'Mycenaean' Sword at Hattušas and Its Possible Implications", The Annual of the British School at Athens, vol. 91, pp. 137–51, 1996
+
+[[ ^42 ]]: van den Hout, Theo, "Seals and Sealing Practices in Hatti-Land: Remarks À Propos the Seal Impressions from the 'Westbau' in Ḫattuša", Journal of the American Oriental Society, vol. 127, no. 3, pp. 339–48, 2007
+
+[[ ^43 ]]: Beckman, Gary, "Mesopotamians and Mesopotamian Learning at Ḫattuša", Journal of Cuneiform Studies, vol. 35, no. 1/2, pp. 97–114, 1983
+
+[[ ^44 ]]: Matthew T. Rutz, "Mesopotamian Scholarship in Ḫattuša and the Sammeltafel KUB 4.53", Journal of the American Oriental Society, vol. 132, no. 2, pp. 171–88, 2012
+
+[[ ^45 ]]: [[ https://brill.com/display/book/9789004548633/BP000007.xml | https://brill.com/display/book/9789004548633/BP000007.xml ]] Viano, M., "Sumerian Literary and Magical Texts from Hattuša", Contacts of Languages and Peoples in the Hittite and Post-Hittite World, Brill, pp. 189-205, 2023
+
+[[ ^46 ]]: [[ Replica of Peace Treaty between Hattusilis and Ramses II - United Nations | https://www.un.org/ungifts/replica-peace-treaty-between-hattusilis-and-ramses-ii ]]
+
+[[ ^47 ]]: [[ "Hattuşa reunites with sphinx" | https://www.hurriyetdailynews.com/hattusa-reunites-with-sphinx-7062 ]]. //[[ Hürriyet Daily News ]]//. 18 November 2011.

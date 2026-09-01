@@ -982,6 +982,102 @@ visiting came out of the front matter for nothing.
   resolution — all three want a re-import, which marks every rewrite stale at
   once. They belong together in a phase of their own.
 
+## The refocus: cities as the entry point
+
+The corpus was never what the plan said it was. `pipeline/select.rq` has always
+selected `ancient city` and `archaeological site`; the 41 articles came from the
+reader's demo vault instead. So making cities the entry point is not a pivot —
+it is finally running the query.
+
+### What the probe found, including where I was wrong
+
+Forty Mesopotamian cities were imported and measured before anything was
+committed to.
+
+**Right:** coordinates. 39 of 40 cities have them against 9 of 41 history
+articles, and the place archetype — the map, the dated rulers table — was built
+for exactly this and starving.
+
+**Wrong:** "cities in one region cite each other constantly." They do not.
+Internal links came out at **2.2%**, *worse* than the history corpus's 3.4%.
+Cities cite their context, not their neighbours: Ur links to Sumer, Akkadian,
+the Third Dynasty and tell archaeology, almost never to Uruk.
+
+**Wrong again:** dated ruling powers. 4 of 40, not the near-universal thing the
+Babylon table suggested. Wikidata has not dated `country` for most sites, so
+city × power × century has to come from prose and `inception`, not that claim.
+
+**Unpredicted, and the actual prize:** the ring. What forty cities ask for,
+unprompted, is a syllabus — Sasanian Empire, Akkadian language, *lugal*, Third
+Dynasty of Ur, tell archaeology, Sumer, Early Dynastic period, Assyria,
+Seleucid Empire, Sin, Achaemenid Empire. Adding it moves the graph from 2.2% to
+**12.7% at fifteen articles and 15.3% at thirty**, where it saturates. So the
+shape is a small core plus a small ring, not a big anything.
+
+### What was built
+
+**87 articles in two rings.** 49 cities as the core — Babylon, Ur, Uruk,
+Nineveh, Assur, Nippur, Nimrud, Eridu, Persepolis, Hattusa, Ugarit, Byblos,
+Tyre, Palmyra, Petra, Memphis, Thebes, Saqqara, Amarna — and the existing 41
+articles turn out to be almost exactly the ring those cities need, already
+rewritten and verified. The refocus threw away no verified work.
+
+Coordinates went from 9 to **53**; licensed images from 527 to **1,106**;
+internal links from 3.4% to 4.0%.
+
+**Curation is written down rather than pretended into the query.**
+`pipeline/cities.mjs` states two cuts and reports what each removed: monuments,
+because a pyramid is a thing *in* a city; and cities founded after antiquity,
+because Cairo is 969 and its article is about the modern city. The final 49 are
+hand-picked from its candidates. A corpus boundary is an editorial decision and
+SPARQL cannot make it — `Q515` alone drags in Mosul, Erbil and Kuwait City,
+while requiring `inception` silently loses Nineveh, Nippur, Nimrud and Eridu.
+
+**`site/cities.yaml`** says which ring an article is in, because nothing in a
+document does — a city and a deity are both just documents. The index leads
+with the cities and puts the ring behind "What they need explained".
+
+### Two more converter bugs, both visible on the page
+
+`300 BC (05)` — Antioch's founding. The formatter kept month precision for a
+BC date and spent it on a bracketed number nobody reads as May. Now `May 300
+BC`, and `15 March 44 BC` at day precision; AD dates stay ISO, where the year
+leads and sorts.
+
+`120 BCs` — Ctesiphon's. A decade pluralised the era instead of the number. Now
+`120s BC`.
+
+Neither marked anything stale, which is the digest behaving correctly: these
+are front-matter changes and a rewrite does not become invalid because an era
+line renders better.
+
+### Build time is now the binding constraint
+
+93 pages take **11m45s**; 134 pages with the compare pages on take **16m17s**.
+Compare pages are 28% of it — less than the half I guessed, because the
+per-article transform costs more than a second render does. They are gated off
+by default in `site/build.yaml`, which is itself the architecture working: `mdy
+build` has no `--data`, but a `.yaml` in a site directory merges into `meta`, so
+a script-defined site takes options by querying for them.
+
+mdy has no incremental rebuild — every build reruns the entry from scratch — so
+this grows linearly. 200 cities would be roughly half an hour.
+
+### What is knowingly left
+
+- **46 of the 87 are imported and not rewritten**, which is every city except
+  Alexandria, Babylon and Lagash. They render through the same layouts and are
+  already better looking than the articles they came from; they have no hook,
+  and their standfirst is Wikipedia's own one-line description. Rewriting them
+  is 46 calls plus 46 verifications and is the whole remaining spend.
+- **`Damascus`, `Samarra` and `Asyut` were cut by hand**, not by rule: Wikidata
+  records no founding date for them, so the post-antiquity filter could not see
+  them, and their articles are about the modern city. A rule that catches them
+  would read the section outline for `Climate`, `Economy` and `Twin towns`, and
+  is worth writing before the corpus grows.
+- **`key-facts` still has no anchor**, the caption `cite` field is still not
+  built, and redirect resolution is still not done.
+
 ## Open questions
 
 - **The corpus boundary.** "Ancient" ends where? A hard date (476, 500, 600)
