@@ -1,0 +1,614 @@
++++
+title: Post-imperial Assyria
+description: Fifth period of Assyrian history
+key-facts:
+  - name: Where the period starts
+    value: 609 BC, with the fall of the Neo-Assyrian Empire
+  - name: Under the Persians
+    value: Conquered by the Achaemenid Empire in 539 BC
+  - name: Under the Greeks
+    value: Taken in the conquests of Alexander the Great, 330 BC
+  - name: Under the Parthians
+    value: Conquered by the Parthian Empire c. 141 BC, and flourishing under
+      Parthian suzerainty in the 1st–2nd centuries AD
+  - name: Where the period ends
+    value: Sack of Assur by the Sasanian Empire, c. AD 240
+  - name: Languages in use
+    value: Aramaic, Akkadian, Greek
+image-plan:
+  - file: Detail._Parthian_stele_from_Ashur,_Iraq._1st_century_BCE_to_1st_century_CE._Museum_of_Archaeology,_Istanbul,_Turkey.jpg
+    role: hero
+    section: lead
+    caption: Detail of a stele erected at Assur in the 2nd century AD, under
+      Parthian rule, by the local ruler Rʻuth-Assor. It is in the style of the
+      Neo-Assyrian royal steles, centuries after the last Assyrian king.
+  - file: Nabonidus.jpg
+    role: inline
+    section: neo-babylonian-rule
+    caption: Stele of Nabonidus (r. 556–539 BC), the last Neo-Babylonian king,
+      found at Harran — the city whose great temple to the lunar god Sîn was
+      rebuilt in his reign.
+  - file: Achaemenid_(Persian)_Empire_-_Circa_480BC.png
+    role: full
+    section: achaemenid-rule
+    caption: The Achaemenid Empire under Xerxes I, c. 480 BC. Most of Assyria was
+      organized as the single province Athura, which kept the region on the
+      map as a distinct political entity.
+  - file: Xerxes_I_tomb_Assyrian_soldier_circa_470_BCE.jpg
+    role: inline
+    section: achaemenid-rule
+    caption: An Assyrian soldier depicted on the tomb of Xerxes I at Naqsh-e
+      Rostam. Some Achaemenid tombs show the Assyrians as one of the empire's
+      ethnic groups, alongside the others.
+  - file: Partition_of_Babylon_323_BC.png
+    role: full
+    section: seleucid-rule
+    caption: The satrapies allotted at the Partition of Babylon in 323 BC, after
+      the death of Alexander the Great. The majority of these lands eventually
+      came under the rule of the Seleucid Empire.
+  - file: Northern_Mesopotamian_vassal_kingdoms_AD_200.png
+    role: full
+    section: organization-and-revival
+    caption: "Northern Mesopotamia in AD 200: the semi-autonomous kingdoms of
+      Osroene, Adiabene and Hatra, and the semi-autonomous Assur city-state.
+      Osroene was a Roman vassal, the others Parthian. Sites and cities of the
+      former Assyrian heartland occupied at this time are also marked."
+  - file: Hatra-109726.jpg
+    role: inline
+    section: parthian-assur
+    caption: The Great Iwans at Hatra. The Ashur temple rebuilt at Assur was
+      likely similar to this building in appearance and size.
+  - file: Parthian_king_ashur.jpg
+    role: inline
+    section: archaeological-evidence
+    caption: Terracotta figure of a Parthian king, found at Assur, where the most
+      extensive finds of the whole post-imperial period come from.
+  - file: Parthian_jewelry_from_Nineveh_by_Nickmard_Khoey.jpg
+    role: inline
+    section: archaeological-evidence
+    caption: Parthian jewelry found at Nineveh, resettled under the Seleucids and
+      Parthians after centuries of desertion.
+  - file: Statue_of_Hermes,_from_Nineveh,_Iraq._2nd_century_BCE._Iraq_Museum.jpg
+    role: inline
+    section: religion
+    caption: A 2nd-century BC statue of the Greek god Hermes, found at Nineveh.
+      The deities worshipped there were nearly all syncretistic or outright
+      imported figures.
+further:
+  - slug: neo-assyrian-empire
+    why: The empire whose fall in 609 BC opens this period, and the yardstick
+      everything after it is measured against — the settlement density of
+      Parthian Assyria is only comparable to what the region was like under
+      it.
+  - slug: babylon
+    why: "Where the cult statue of Ashur went after Assur was sacked in 614: kept
+      in the Esagila temple until Cyrus returned it."
+  - slug: history-of-the-assyrians
+    why: The Assyrian people survived the end of their civilization and remain an
+      ethnic minority in the region and elsewhere to this day.
+images:
+  - file: Nabonidus.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nabonidus.jpg/250px-Nabonidus.jpg
+    width: 491
+    height: 600
+    caption: Stele of the Neo-Babylonian king Nabonidus (r. 556–539 BC), found at
+      Harran
+  - file: Achaemenid_(Persian)_Empire_-_Circa_480BC.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Achaemenid_%28Persian%29_Empire_-_Circa_480BC.png/500px-Achaemenid_%28Persian%29_Empire_-_Circa_480BC.png
+    width: 2080
+    height: 1000
+    caption: Map of the Achaemenid Empire under Xerxes I c. 480 BC, including the
+      province of Assyria (Athura)
+  - file: Xerxes_I_tomb_Assyrian_soldier_circa_470_BCE.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Xerxes_I_tomb_Assyrian_soldier_circa_470_BCE.jpg/250px-Xerxes_I_tomb_Assyrian_soldier_circa_470_BCE.jpg
+    width: 422
+    height: 814
+    caption: Depiction of an Assyrian soldier on the tomb of Xerxes I at Naqsh-e
+      Rostam
+  - file: Partition_of_Babylon_323_BC.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Partition_of_Babylon_323_BC.png/500px-Partition_of_Babylon_323_BC.png
+    width: 4093
+    height: 2222
+    caption: Allotment of satrapies at the Partition of Babylon in 323 BC, after
+      the death of Alexander the Great. The majority of these lands eventually
+      came under the rule of the Seleucid Empire.
+  - file: Northern_Mesopotamian_vassal_kingdoms_AD_200.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Northern_Mesopotamian_vassal_kingdoms_AD_200.png/500px-Northern_Mesopotamian_vassal_kingdoms_AD_200.png
+    width: 1775
+    height: 1606
+    caption: Approximate borders of the semi-autonomous northern Mesopotamian
+      vassal kingdoms Osroene, Adiabene and Hatra, and the semi-autonomous
+      Assur city-state, in AD 200. Osroene was a vassal of the Roman Empire,
+      whereas the others were Parthian vassals. Also marked on the map are
+      important sites and cities in the former Assyrian heartland that were
+      occupied during this time.
+  - file: Detail._Parthian_stele_from_Ashur,_Iraq._1st_century_BCE_to_1st_century_CE._Museum_of_Archaeology,_Istanbul,_Turkey.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Detail._Parthian_stele_from_Ashur%2C_Iraq._1st_century_BCE_to_1st_century_CE._Museum_of_Archaeology%2C_Istanbul%2C_Turkey.jpg/250px-Detail._Parthian_stele_from_Ashur%2C_Iraq._1st_century_BCE_to_1st_century_CE._Museum_of_Archaeology%2C_Istanbul%2C_Turkey.jpg
+    width: 4550
+    height: 3777
+    caption: Detail of a stele in the style of the Neo-Assyrian royal steles
+      erected in Assur in the 2nd century AD (under Parthian rule) by the
+      local ruler Rʻuth-Assor
+  - file: Hatra-109726.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hatra-109726.jpg/250px-Hatra-109726.jpg
+    width: 1982
+    height: 1154
+    caption: The Great Iwans at Hatra. The rebuilt Ashur temple at Assur was
+      likely similar to this building in appearance and size.
+  - file: Parthian_king_ashur.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Parthian_king_ashur.jpg/250px-Parthian_king_ashur.jpg
+    width: 1040
+    height: 1664
+    caption: Terracotta figure of a Parthian king, found at Assur
+  - file: Parthian_jewelry_from_Nineveh_by_Nickmard_Khoey.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Parthian_jewelry_from_Nineveh_by_Nickmard_Khoey.jpg/250px-Parthian_jewelry_from_Nineveh_by_Nickmard_Khoey.jpg
+    width: 696
+    height: 654
+    caption: Parthian jewelry found at Nineveh
+  - file: Statue_of_Hermes,_from_Nineveh,_Iraq._2nd_century_BCE._Iraq_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Statue_of_Hermes%2C_from_Nineveh%2C_Iraq._2nd_century_BCE._Iraq_Museum.jpg/250px-Statue_of_Hermes%2C_from_Nineveh%2C_Iraq._2nd_century_BCE._Iraq_Museum.jpg
+    width: 3271
+    height: 5021
+    caption: 2nd-century BC statue of the ancient Greek god Hermes, found at Nineveh
+infobox:
+  common-languages: Aramaic, Akkadian, Greek
+  religion: Ancient Mesopotamian religion Hellenistic religion Judaism Syriac
+    Christianity
+  historical-era: Classical antiquity
+  fall-of-the-neo-assyrian-empire: 609 BC
+  conquest-by-the-achaemenid-empire: 539 BC
+  conquests-of-alexander-the-great: 330 BC
+  conquest-by-the-parthian-empire: c. 141 BC
+  flourishing-under-parthian-suzerainty: 1st–2nd centuries AD
+  sack-of-assur-by-the-sasanian-empire: c. AD 240
+  today-part-of: Iraq
+sections:
+  - level: 2
+    id: terminology
+    title: Terminology
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: neo-babylonian-rule
+    title: Neo-Babylonian rule
+  - level: 3
+    id: achaemenid-rule
+    title: Achaemenid rule
+  - level: 3
+    id: seleucid-rule
+    title: Seleucid rule
+  - level: 3
+    id: parthian-suzerainty
+    title: Parthian suzerainty
+  - level: 4
+    id: organization-and-revival
+    title: Organization and revival
+  - level: 4
+    id: parthian-assur
+    title: Parthian Assur
+  - level: 2
+    id: archaeological-evidence
+    title: Archaeological evidence
+  - level: 2
+    id: language
+    title: Language
+  - level: 2
+    id: religion
+    title: Religion
+wikidata:
+  id: Q110896003
+  label: post-imperial Assyria
+  description: fifth period of Assyrian history
+  claims:
+    part-of: Assyrians
+    instance-of: historical period
+link-titles:
+  abdissares: Abdissares
+  achaemenid-assyria: Achaemenid Assyria
+  achaemenid-empire: Achaemenid Empire
+  adiabene: Adiabene
+  akitu: Akitu
+  akkadian-language: Akkadian language
+  alexander-the-great: Alexander the Great
+  ancient-greek-language: Ancient Greek language
+  ancient-greek-religion: Ancient Greek religion
+  ancient-mesopotamian-religion: Ancient Mesopotamian religion
+  ancient-near-east: Ancient Near East
+  antioch: Antioch
+  apollo: Apollo
+  aramaic: Aramaic
+  aramaic-language: Aramaic language
+  aramaic-script: Aramaic script
+  ardashir-i: Ardashir I
+  arrapha: Arrapha
+  ashur-god: Ashur (god)
+  ashurbanipal: Ashurbanipal
+  assur: Assur
+  assyria: Assyria
+  assyrian-heartland: Assyrian heartland
+  assyrian-kings: Assyrian kings
+  assyrian-people: Assyrian people
+  assyriologists: Assyriologists
+  babylonia: Babylonia
+  babylonian-chronicles: Babylonian chronicles
+  bel-mythology: Bel (mythology)
+  beth-nuhadra: Beth Nuhadra
+  borsippa: Borsippa
+  cambyses-ii: Cambyses II
+  chronicle-of-arbela: Chronicle of Arbela
+  corduene: Corduene
+  ctesiphon: Ctesiphon
+  cyrus-the-great: Cyrus the Great
+  darius-iii: Darius III
+  darius-the-great: Darius the Great
+  demigod: Demigod
+  dilbat: Dilbat
+  diodorus-siculus: Diodorus Siculus
+  duhok: Duhok
+  dur-katlimmu: Dur-Katlimmu
+  dur-sharrukin: Dur-Sharrukin
+  dura-europos: Dura-Europos
+  elam: Elam
+  epithet: Epithet
+  erbil: Erbil
+  esagila: Esagila
+  esarhaddon: Esarhaddon
+  fall-of-babylon: Fall of Babylon
+  fishplate: Fishplate
+  gad-deity: Gad (deity)
+  glaze-painting-technique: Glaze (painting technique)
+  great-iwans-at-hatraactioneditredlink1: Great Iwans at Hatra?action=edit&redlink=1
+  great-zab: Great Zab
+  guzana: Guzana
+  hagiography: Hagiography
+  harran: Harran
+  harran-stela: Harran Stela
+  hatra: Hatra
+  hellenization: Hellenization
+  heracles: Heracles
+  herakles-epitrapeziosactioneditredlink1: Herakles Epitrapezios?action=edit&redlink=1
+  hermes: Hermes
+  herodotus: Herodotus
+  ishtar: Ishtar
+  isis: Isis
+  judaism: Judaism
+  khabur-euphrates: Khabur (Euphrates)
+  king-of-adiabene: King of Adiabene
+  king-of-persis: King of Persis
+  kingdom-of-hatra: Kingdom of Hatra
+  kirkuk: Kirkuk
+  koine-greek: Koine Greek
+  kuyunjik: Kuyunjik
+  lingua-franca: Lingua franca
+  little-zab: Little Zab
+  liturgical-language: Liturgical language
+  mardin: Mardin
+  medes: Medes
+  median-empire: Median Empire
+  medo-babylonian-conquest-of-the-assyrian-empire: Medo-Babylonian conquest of the Assyrian Empire
+  mithridates-i-of-parthia: Mithridates I of Parthia
+  nabonidus: Nabonidus
+  nabu: Nabu
+  nanaya: Nanaya
+  naqsh-e-rostam: Naqsh-e Rostam
+  neo-aramaic-language: Neo-Aramaic language
+  neo-assyrian-empire: Neo-Assyrian Empire
+  neo-babylonian-empire: Neo-Babylonian Empire
+  nergal: Nergal
+  neriglissar: Neriglissar
+  nimrud: Nimrud
+  nineveh: Nineveh
+  nippur: Nippur
+  nomadism: Nomadism
+  osroene: Osroene
+  palmyra: Palmyra
+  parthian-empire: Parthian Empire
+  partition-of-babylon: Partition of Babylon
+  pliny-the-elder: Pliny the Elder
+  ptolemy: Ptolemy
+  roman-empire: Roman Empire
+  roman-republic: Roman Republic
+  rʻuth-assor: Rʻuth-Assor
+  sabians: Sabians
+  sanatruq-ii: Sanatruq II
+  sargonid-dynasty: Sargonid dynasty
+  sasanian-empire: Sasanian Empire
+  satrapy: Satrapy
+  seleucia: Seleucia
+  seleucid-empire: Seleucid Empire
+  seleucus-i-nicator: Seleucus I Nicator
+  sennacherib: Sennacherib
+  serapis: Serapis
+  serua-goddess: Serua (goddess)
+  shamash: Shamash
+  shamsīyah: Shamsīyah
+  sin-mythology: Sin (mythology)
+  sippar: Sippar
+  sophene: Sophene
+  southwest-palaceactioneditredlink1: Southwest Palace?action=edit&redlink=1
+  squatter: Squatter
+  stephanie-dalley: Stephanie Dalley
+  stephen-herbert-langdon: Stephen Herbert Langdon
+  strabo: Strabo
+  strategos: Strategos
+  suret-language: Suret language
+  susa: Susa
+  syncretism: Syncretism
+  syncretized: Syncretized
+  syriac-language: Syriac language
+  tacitus: Tacitus
+  taurus-mountains: Taurus Mountains
+  tell-halaf: Tell Halaf
+  tell-ed-daimactioneditredlink1: Tell ed-Daim?action=edit&redlink=1
+  ten-thousand: Ten Thousand
+  terracotta: Terracotta
+  tigris: Tigris
+  uruk: Uruk
+  xenophon: Xenophon
+  xerxes-i: Xerxes I
+  zabdicene: Zabdicene
+  zeus: Zeus
+source:
+  site: Wikipedia
+  lang: en
+  title: Post-imperial Assyria
+  url: https://en.wikipedia.org/wiki/Post-imperial_Assyria
+  page-id: 69910276
+  revision: "1342423297"
+  modified: 2026-03-08T21:58:00Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article
+    "Post-imperial Assyria" (revision 1342423297), by Wikipedia contributors,
+    used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/post-imperial-assyria.mdy
+  source-revision: "1342423297"
+  model: claude-opus-5
+  left-out: "Two headings, \"History\" and \"Parthian suzerainty\", have no
+    prose of their own in the source — they only introduce their subsections —
+    so they are present with empty bodies rather than with invented connective
+    text. The locator-map block in \"Neo-Babylonian rule\" (pins for Assur,
+    Harran, Dur-Katlimmu, Guzana, Nineveh, Arrapha and Arbela, captioned
+    \"Significant Assyrian sites in the Neo-Babylonian period\") was not
+    carried over: it is a map graphic rather than prose and carries no
+    citation of its own. Its cities all appear in the rewritten prose. One
+    footnote, [[ ^40 ]], appears in the source only on a figure caption (the
+    Rʻuth-Assor stele at Assur); the image plan's caption field carries no
+    footnote references, so it could not be carried across."
+  verified: false
+  reviewed: false
++++
+The !!post-imperial period!![[ ^1 ]] was the last stage of ancient [[ Assyrian | assyria ]] history: the centuries in which there was no Assyrian state at all, and Assyrian culture, traditions and religion carried on anyway. It runs from the fall of the [[ Neo-Assyrian Empire ]] in 609 BC to the final sack and destruction of [[ Assur ]], Assyria's ancient religious capital, by the [[ Sasanian Empire ]] c. AD 240.[[ ^1 ]][[ ^2 ]] Assur and the other Assyrian cities passed instead under the control of one empire after another: the [[ Median | medes ]] (615–549 BC), [[ Neo-Babylonian | neo-babylonian-empire ]] (612–539 BC), [[ Achaemenid | achaemenid-empire ]] (539–330 BC), [[ Seleucid | seleucid-empire ]] (312–c. 141 BC) and [[ Parthian | parthian-empire ]] (c. 141 BC–AD 224). One thing did not survive: the ancient Assyrian dialect of the [[ Akkadian language ]] went extinct, completely replaced by [[ Aramaic ]] by the 5th century BC.
+
+During the fall of Assyria in the [[ Medo-Babylonian conquest of the Assyrian Empire ]] of 626–609 BC, northern Mesopotamia was extensively sacked and destroyed by [[ Median | median-empire ]] and Babylonian forces. The Babylonian kings, who annexed large parts of Assyria, cared little for developing the region economically or socially, and population density fell dramatically. Many of the greatest cities of the Neo-Assyrian period, [[ Nineveh ]] among them, were deserted; others, such as Assur, shrank dramatically in size and population. Recovery only began under the Achaemenid Empire. After his [[ conquest of Babylon | fall-of-babylon ]] in 539, the Achaemenid king [[ Cyrus the Great ]] returned the cult statue of the Assyrian national deity [[ Ashur | ashur-god ]] to Assur. The Achaemenid practice of not interfering with local cultures, and the organization of the Assyrian lands into a single province, [[ Athura | achaemenid-assyria ]], allowed Assyrian culture to endure.
+
+Assyria was extensively resettled under the Seleucids and the Parthians. In the last two centuries or so of Parthian rule it flourished: the great cities of old, Assur, Nineveh and [[ Nimrud ]], were resettled and expanded, old villages rebuilt, new settlements constructed, and the population density of Parthian Assyria reached heights not seen since the Neo-Assyrian Empire. Much of the region was not ruled directly by the Parthians but by vassal kingdoms such as [[ Hatra | kingdom-of-hatra ]] and [[ Adiabene ]], which carried some Assyrian cultural influence. Assur, by then at least two thirds of the size it had been in Neo-Assyrian times, appears to have been a semi-autonomous city-state governed by a sequence of Assyrian city-lords who might have seen themselves as successors of the ancient [[ Assyrian kings ]]. This latter-day golden age ended when [[ Ardashir I ]] of the [[ Sasanian Empire ]] overthrew the Parthians and, campaigning against them, extensively sacked Assyria and its cities.
+
+== Terminology
+
+The centuries after the fall of the [[ Neo-Assyrian Empire ]] are characterized by a distinct lack of surviving sources from Assyria. The textual and archaeological evidence is so scant that the period is often called a "dark age", or simply "post-Assyrian". Modern scholars prefer the name "post-imperial": Assyria went on being viewed by its own inhabitants and by foreigners as a distinct cultural and geographical entity, and went on at times being administrated separately, even though it was never again fully independent.[[ ^1 ]][[ ^3 ]]
+
+== History
+
+
+
+== Neo-Babylonian rule
+
+The fall of the Neo-Assyrian Empire, after its [[ final war | medo-babylonian-conquest-of-the-assyrian-empire ]] with the [[ Neo-Babylonian | neo-babylonian-empire ]] and [[ Median | median-empire ]] empires, dramatically changed the geopolitics of the [[ Ancient Near East ]]. [[ Babylonia ]] experienced an unprecedented time of prosperity and growth, trade routes were redrawn, and the economical organization and political power of the entire region was restructured.[[ ^1 ]] Who ended up with Assyria itself, or at least with its northernmost portions along the [[ Taurus Mountains ]], has long been disputed: the Medes or the Babylonians. The sources are not unanimous and the situation is difficult to reconstruct.[[ ^4 ]]
+
+Archaeological surveys of northern Mesopotamia have consistently shown a dramatic decrease in the size and number of inhabited sites in Assyria during the Neo-Babylonian period, which suggests a significant societal breakdown in the region. The former Assyrian capital cities, [[ Assur ]], [[ Nimrud ]] and [[ Nineveh ]], appear to have been nearly completely abandoned.[[ ^5 ]] Some cities had been completely destroyed by the Medes and Babylonians in the war; the level of destruction and the sacking of Assyria's temples is described with horror and remorse in some of the contemporary [[ Babylonian chronicles ]].[[ ^6 ]] A society breaking down is not the same as a population vanishing. The region became less rich and less densely populated, but it was not entirely uninhabited, nor poor in any real sense. Many smaller settlements were probably abandoned because the local agricultural organization had been destroyed over the decades of war and unrest. Many Assyrians are likely to have died in the war with the Medes and Babylonians or from its indirect consequences, dying of disease or starvation, and many probably moved from the region or were forcefully deported to Babylonia or elsewhere. Large portions of the remaining Assyrian populace might have turned to [[ nomadism ]] as the local settlements and economy collapsed.[[ ^7 ]]
+
+The Neo-Babylonian kings largely kept the administration of the Assyrian Empire[[ ^8 ]] and at times drew on Assyrian rhetoric and symbols for legitimacy,[[ ^9 ]] particularly in the reign of [[ Nabonidus ]] (r. 556–539 BC, the last Neo-Babylonian king). At other times they worked to distance themselves from the Assyrian kings who had preceded them, and they never assumed the title 'king of Assyria'.[[ ^10 ]] Throughout the time of the Neo-Babylonian and Achaemenid empires, Assyria was a marginal and sparsely populated region,[[ ^11 ]] perhaps chiefly because the Neo-Babylonian kings had limited interest in investing resources into its economic and societal development.[[ ^12 ]] Individuals with Assyrian names are attested at multiple sites in Babylonia during the Neo-Babylonian Empire, including Babylon, [[ Nippur ]], [[ Uruk ]], [[ Sippar ]], [[ Dilbat ]] and [[ Borsippa ]]. The Assyrians in Uruk apparently continued to exist as a community until the reign of the Achaemenid king [[ Cambyses II ]] (r. 530–522 BC) and were closely linked to a local cult dedicated to the Assyrian national deity [[ Ashur | ashur-god ]].[[ ^13 ]]
+
+Recovery was slow and the evidence is scant, but there was at least some continuity in administrative and governmental structures even within the former Assyrian heartland itself.[[ ^4 ]] At some point after the fall of [[ Nineveh ]] in 612 BC some of the faces in the reliefs of its palaces were destroyed, but there is no evidence for any longer Babylonian or Median occupation of the site. At [[ Dur-Katlimmu ]], one of the largest settlements along the [[ Khabur | khabur-euphrates ]] river, a large Assyrian palace that archaeologists dubbed the "Red House" continued to be used in Neo-Babylonian times, its cuneiform records written by people with Assyrian names, in Assyrian style, though dated to the reigns of the early Neo-Babylonian kings. Two Neo-Babylonian texts discovered at the city of [[ Sippar ]] in Babylonia attest to royally appointed governors at both [[ Assur ]] and [[ Guzana | tell-halaf ]], another Assyrian site in the north. The cult statue of Ashur, stolen from Assur during its sack in 614, was never returned by the Babylonians; it was kept instead in the [[ Esagila ]] temple in Babylon.[[ ^4 ]] At other sites work was slower. [[ Arbela | erbil ]] is attested as a thriving city, but only very late in the Neo-Babylonian period, and there were no attempts to revive the city of [[ Arrapha ]] until the reign of [[ Neriglissar ]] (r. 560–556 BC), who returned a cult statue to the site. [[ Harran ]] was revitalized, with its great temple dedicated to the lunar god [[ Sîn | sin-mythology ]] rebuilt under Nabonidus.[[ ^4 ]]
+
+Nabonidus's fascination with Harran and Sîn has led modern researchers to speculate that he himself, a usurper genealogically unconnected to earlier Babylonian kings, was of Assyrian ancestry and originated from Harran.[[ ^14 ]] He did go to some length to revive Assyrian symbols, such as wearing in his depictions a wrapped cloak that is absent in those of other Babylonian kings but present in Assyrian art.[[ ^15 ]] Some [[ Assyriologists ]], such as [[ Stephen Herbert Langdon ]] and [[ Stephanie Dalley ]], have gone as far as to suggest that he was a descendant of the [[ Sargonid dynasty ]], Assyria's final ruling dynasty, as a grandson of either [[ Esarhaddon ]] (r. 681–669 BC)[[ ^16 ]] or [[ Ashurbanipal ]] (r. 669–631 BC),[[ ^17 ]] though this is disputed given the lack of strong evidence.[[ ^15 ]]
+
+== Achaemenid rule
+
+The Persians first entered Assyrian territory in 547 BC, when the founder of the [[ Achaemenid Empire ]], [[ Cyrus the Great ]], crossed the [[ Tigris ]] river and marched south of Arbela while campaigning against the Medes.[[ ^4 ]] Assyria probably came under Achaemenid control in late 539,[[ ^4 ]][[ ^18 ]] shortly after Cyrus conquered Babylon in October.[[ ^19 ]] Under the Achaemenids, most of Assyria was organized into the province[[ ^a ]] [[ Athura | achaemenid-assyria ]] (//Aθūrā//),[[ ^b ]][[ ^18 ]] but some was incorporated into the satrapy of Media (//Mada//).[[ ^18 ]][[ ^21 ]] Keeping most of the region as a single administrative unit effectively kept it on the map as a distinct political entity throughout the time of Achaemenid rule.[[ ^14 ]] In Achaemenid inscriptions on the royal tombs of the kings, Athura is consistently mentioned as one of the empire's provinces, next to Babylonia but distinct from it, and some of the tombs depict the Assyrians as one of the ethnic groups of the empire, alongside the others.[[ ^22 ]]
+
+The Achaemenid kings interfered little with the internal affairs of their individual provinces as long as tribute and taxes were continuously provided, which allowed Assyrian culture and customs to survive under Persian rule.[[ ^18 ]] After the conquest, the inhabitants of Assur even received the permission of [[ Cyrus the Great ]] to at last rebuild the city's ancient temple dedicated to Ashur,[[ ^23 ]] and Cyrus even returned Ashur's cult statue from Babylon.[[ ^4 ]] Cult statues might also have been returned to Nineveh, though the relevant inscription is damaged and could refer to another city.[[ ^24 ]] Just as during the Neo-Assyrian Empire, the //[[ lingua franca ]]// of the Achaemenid Empire was [[ Aramaic ]]; by this time, the [[ Aramaic script ]] was often referred to as the "Assyrian script".[[ ^14 ]]
+
+How Athura was organized internally is not known. An Aramaic letter sent by the governor of Egypt in the late 5th century BC attests to the presence of Achaemenid officials at the cities of Arbela, Lair, Arzuhin and Matalubaš, which suggests a certain level of administrative organization in the region. At Tell ed-Daim, located on the [[ Little Zab ]] northeast of [[ Kirkuk ]], an Achaemenid administrative building of substantial size (26 by 22 meters; 85 by 72 ft), probably a palace of a local governor or official, has been excavated.[[ ^22 ]]
+
+A few years after the Egyptian governor's letter, in 401 BC, [[ Xenophon ]] marched with the [[ Ten Thousand ]] through much of the northwestern Achaemenid Empire, Assyria included. The Greek military leader and historian left an eye-witness account of the region in his later writings. He thought Assyria was part of Media, and described it as largely uninhabited south of the [[ Great Zab ]] but dotted with many small and prosperous villages close to the Little Zab and north of Nineveh, especially in the foothills of the Taurus Mountains. He mentioned three Assyrian cities along the Tigris by name, though the names he gave them appear to be invented by himself: //Larissa// (Nimrud) and //Mespila// (Nineveh)[[ ^c ]] are described as ruined and deserted, but //Kainai// (Assur) is described as both large and prosperous, something that is not apparent from the archaeological record of the site during this time. The use of the strange names is perplexing given that later Greek and [[ Roman | roman-empire ]] authors were aware of the locations of the ancient Assyrian cities and their names: in the writings of figures such as [[ Strabo ]], [[ Tacitus ]] and [[ Ptolemy ]], Nineveh is called //Ninos// and is known to have been a great Assyrian capital, and the region around Nimrud is dubbed //Kalakēne//, after the city's alternate name //Kalhu//. Arbela is known to have remained an important administrative center under the Achaemenid Empire, as historical accounts of the campaigns of [[ Alexander the Great ]] describe that city as the local base of operations of [[ Darius III ]], the empire's final king.[[ ^22 ]]
+
+Individuals with clearly Assyrian names are known from Achaemenid times, just as they are from Neo-Babylonian times, and they sometimes reached high positions in government. The secretary of Cyrus the Great's son [[ Cambyses II ]], before Cambyses became king, was named Pan-Ashur-lumur, a name clearly incorporating Ashur. In terms of geopolitics, the Assyrians are mentioned most prominently in the reign of [[ Darius the Great ]] (r. 522–486 BC). In 520 BC, Assyrians of both Athura and Media joined forces in an unsuccessful revolt against Darius, alongside other peoples of the Achaemenid Empire, including the Medes, [[ Elamites | elam ]] and Babylonians.[[ ^21 ]] The near-contemporary Greek historian [[ Herodotus ]] then mentions them as contributing to the construction of the royal palace of Darius at [[ Susa ]] from 500 to 490, with Assyrians from Media contributing gold works and [[ glazing | glaze-painting-technique ]] and Assyrians from Athura contributing timber.[[ ^21 ]]
+
+== Seleucid rule
+
+In the aftermath of the Achaemenid Empire's conquest by [[ Alexander the Great ]], Assyria and much of the rest of the former Achaemenid lands came under the control of the [[ Seleucid Empire ]], founded by [[ Seleucus I Nicator ]], one of Alexander's generals.[[ ^11 ]] Assyria was centrally located within this empire and must have been a significant base of power,[[ ^11 ]][[ ^25 ]] yet the region is mentioned very rarely in textual sources from the period.[[ ^11 ]] This might perhaps be explained by the political and economic centers of the Seleucid Empire lying elsewhere: in heavily urbanized Babylonia in the south, particularly in Babylon itself and the new city [[ Seleucia ]], and in Syria in the west, particularly the empire's western capital [[ Antioch ]].[[ ^11 ]] Though the Seleucids adopted a policy of [[ hellenization ]] and often emphasized their Hellenic origin, they also at times took on or played into the cultures of the people they ruled. Perhaps as a result of this, and of the Seleucid Empire governing virtually all of the Assyrian Empire's old lands other than Egypt, which was only briefly under Assyrian control, a handful of ancient documents correlate the Seleucid Empire to "Assyria".[[ ^25 ]][[ ^d ]]
+
+The Seleucids kept the eastern satrapies of their empire largely the same as under the Achaemenid Empire, but the surviving evidence suggests that the territories in northern Mesopotamia, that is Assyria, were politically reorganized. The historian [[ Diodorus Siculus ]] mentioned in his writings that a satrapy of Mesopotamia was created in 323 BC, consisting of only the northern part of that region as the southern part formed the satrapy of Babylonia, and mentions both the satrapies Mesopotamia and Arbelitis, the region around Arbela, in 320.[[ ^11 ]] Assyria remained in the shadow of Babylonia,[[ ^26 ]] but the region was far from wholly neglected.[[ ^27 ]] Nimrud was occupied throughout the Seleucid period, as the site preserves several levels from this time, and the presence of Seleucid coins and pottery at Assur demonstrates that the ancient Assyrian capital experienced the beginnings of a period of regrowth as well. It is possible that the deserted Nineveh was resettled under the Seleucids too, given that sculptures of Greek mythological figures such as the god [[ Hermes ]] and the [[ demigod ]] [[ Heracles ]] are known from the site, as well as inscriptions written by people with Greek names, though much of this evidence dates to the succeeding period of [[ Parthian | parthian-empire ]] rule. Because of the distinctive appearance of Seleucid pottery, sites occupied during the Seleucid period are easily identifiable in the archaeological record, and archaeological surveys in northern Mesopotamia have been able to demonstrate a widespread, though not necessarily very dense, resettlement of villages in Assyria under the Seleucids.[[ ^27 ]]
+
+The Seleucid Empire fell apart due to internal strife, dynastic conflict and wars with foreign enemies. As the empire collapsed, virtually all of its eastern territories were conquered by [[ Mithridates I | mithridates-i-of-parthia ]] of the Parthian Empire between 148 and 141 BC. The exact time when Assyria came under Parthian control is not known, but it was either during these conquests or at some point before 96, when it is securely known that the region was under Parthian rule due to records of border agreements between the Parthians and the [[ Roman Republic ]].[[ ^11 ]]
+
+== Parthian suzerainty
+
+
+
+== Organization and revival
+
+Under Parthian suzerainty, several small and semi-independent kingdoms with Assyrian character and large populations cropped up in northern Mesopotamia, including [[ Osroene ]], [[ Adiabene ]] and the [[ Kingdom of Hatra ]]. These kingdoms lasted until the 3rd or 4th centuries AD, though they were mostly ruled by dynasties of Iranian or Arab descent and culture.[[ ^28 ]][[ ^29 ]] This is not to say that aspects of old Assyrian culture did not live on in these new kingdoms,[[ ^13 ]][[ ^30 ]] or that their rulers were not influenced by the local populace: the main god worshipped at Hatra was the old Mesopotamian sun-god [[ Shamash ]].[[ ^31 ]] A few exceptions to the sequences of non-native rulers existed as well. The name of the earliest known [[ king of Adiabene ]], [[ Abdissares ]], is clearly of Aramaic origin and means "servant of [[ Ishtar ]]".[[ ^32 ]] Some portions of former Assyria were placed under direct Parthian control; [[ Beth Nuhadra ]] (modern [[ Duhok ]]) was not ruled by a local dynasty but converted into a military province governed by a royally appointed //Nohodar// military official.[[ ^33 ]] Because documentation is scarce and the region was often politically unstable, the precise boundaries and political status of many locations are not entirely clear throughout the Parthian period; minor Armenian principalities in the highlands and mountains in far northern Mesopotamia, established in the Seleucid period, such as [[ Sophene ]], [[ Zabdicene ]], [[ Corduene ]], may have also preserved some independence or autonomy in Parthian times.[[ ^33 ]]
+
+Whereas Osroene fell under Roman influence and control, most of Assyria was under Parthian control, though divided between Adiabene, which was based in Arbela, and Hatra. The region remained an integral part of the Parthian Empire until its fall in the 3rd century AD. Some Roman authors, such as [[ Pliny the Elder ]], equated Adiabene with Assyria, referring to Assyria as an older synonym of Adiabene, but most contemporaries saw Adiabene as only controlling the central part of Assyria.[[ ^11 ]] The equation of Adiabene with Assyria would also sometimes be made in the later [[ Sasanian | sasanian-empire ]] period, when the Sasanian province Adiabene was in some cases called "Athuria".[[ ^26 ]]
+
+The slow resettlement and recovery of Assyria under the Seleucid Empire continued under Parthian rule. Helped by favorable climate conditions and political stability, this age of recovery culminated in an unprecedented return to prosperity and a remarkable revival under the last two centuries or so of Parthian rule. Archaeological surveys of sites of the Parthian period in Assyria demonstrate an enormous density of settlements that is only comparable to what the region was like under the Neo-Assyrian Empire.[[ ^27 ]][[ ^34 ]] Under the Parthians, intense settlement took place throughout Assyria, with new villages being constructed and old villages being expanded and rebuilt.[[ ^27 ]]
+
+The Seleucid and Parthian resettlement of Nineveh involved the construction of both residential houses and new sanctuaries and temples, with archaeological evidence surviving of both. Among the temples restored was the "Ezida" temple on the [[ Kuyunjik ]] mound[[ ^e ]] in the city, rebuilt in its original place and dedicated to the same god it was dedicated to in ancient times, [[ Nabu ]]. An inscription is preserved from this temple, dated to Parthian rule in 32/31 BC, by a Greek worshipper named Apollophanes, who dedicated it to the //[[ strategos ]]//[[ ^f ]] of Nineveh, Apollonios. Archaeological evidence shows that the throne room of the former Southwest Palace, built by the Assyrian king [[ Sennacherib ]], was converted into a religious sanctuary dedicated to [[ Heracles ]].[[ ^37 ]] Called //Ninos// in Greek,[[ ^31 ]] Nineveh was for most of the Parthian period under the control of Adiabene and, though not a great political center, retained its local importance as a market-settlement along the Tigris river throughout this time.[[ ^24 ]] It was relatively Hellenized, with its population worshipping [[ syncretistic | syncretism ]] Greco-Mesopotamian deities[[ ^38 ]] and many being able to speak [[ Greek | koine-greek ]],[[ ^39 ]] but the predominant language in the city and in the surrounding countryside likely remained Aramaic.[[ ^39 ]]
+
+== Parthian Assur
+
+Assur, perhaps now known under the name //Labbana//[[ ^41 ]][[ ^42 ]] (derived from //Libbali//, "heart of the city", the ancient Assyrian name for the city's temple quarter),[[ ^42 ]] flourished under Parthian rule, with many buildings either repaired or constructed from scratch.[[ ^28 ]][[ ^43 ]][[ ^g ]] Per the historian Peter Haider, "after the Parthian conquest of Mesopotamia, Assur came to life again".[[ ^45 ]] From around or shortly after the end of the 2nd century BC,[[ ^41 ]] the city may have become the capital of its own small semi-autonomous realm,[[ ^28 ]] either under the suzerainty of Hatra,[[ ^46 ]] or under direct Parthian suzerainty.[[ ^43 ]] Among the buildings constructed was a new local palace,[[ ^28 ]][[ ^43 ]] dubbed the "Parthian Palace" by historians.[[ ^34 ]] All in all, the buildings built under the Parthian period cover about two thirds of the area of the city as it was in Neo-Assyrian times.[[ ^34 ]]
+
+Stelae erected by the local rulers of Assur in this time resemble the stelae erected by the Neo-Assyrian kings,[[ ^28 ]] though the rulers are depicted in Parthian-style trouser-suits rather than ancient garb. The rulers used the title //maryo// of Assur ("master of Assur") and appear to have viewed themselves as continuing the old Assyrian royal tradition.[[ ^47 ]] These stelae retain the shape, framing and placement of stelae erected under the ancient kings, often in city gates, and also depict the central figure in reverence of the moon and sun, an ever-present motif in the ancient royal stelae.[[ ^48 ]]
+
+The ancient temple dedicated to Ashur was restored for a second time in the 2nd century AD.[[ ^28 ]][[ ^43 ]] The adornment of the buildings reflects a certain Hellenistic character, but their design is also reminiscent of old Assyrian and Babylonian buildings,[[ ^41 ]] with some Parthian influences.[[ ^49 ]] Personal names in Assur at this time greatly resemble personal names from the Neo-Assyrian period, with individuals like //Qib-Assor// ("command of Ashur"), //Assor-tares// ("Ashur judges") and even //Assor-heden// ("Ashur has given a brother", a late version of the name //Aššur-aḫu-iddina//, i.e. [[ Esarhaddon ]]).[[ ^50 ]] Later Syriac Christian [[ hagiographic | hagiography ]] sources demonstrate that the Assyrian populace of the Parthian period took great pride in their Assyrian ancestry, with some among the local nobility claiming descent from the Assyrian kings of old.[[ ^51 ]]
+
+In 220, [[ Ardashir I ]] of the Sasanians, the [[ king of Persis ]], rebelled against the Parthians, and in 226 he succeeded in capturing the imperial capital of [[ Ctesiphon ]]. The Parthian vassal states lingered on only for a time in Assyria and Armenia. The king of Hatra, [[ Sanatruq II ]], fended off a Sasanian attack in 228/229, but Hatra was defeated and conquered by Ardashir in 240/241, after a two-year long siege. Ardashir had Hatra destroyed, and the wars also caused a depopulation of the surrounding region.[[ ^52 ]] Assyria's last golden age came to an end with the Sasanian sack of Assur, which took place either during Ardashir's first campaign against Hatra in 228/229,[[ ^52 ]] or in the later campaign c. 240.[[ ^53 ]] During the sack, Ashur's temple was destroyed again and the city's population was dispersed.[[ ^46 ]] Having been firmly tied to Assur and Ashur since the foundation of their civilization, the final destruction of Ashur's temple, more than 800 years after the fall of the Neo-Assyrian Empire, represented the definitive end to the once mighty ancient Assyrian civilization.[[ ^52 ]] The [[ Assyrian people ]] survived this final end[[ ^52 ]] and remain an ethnic minority in the region and elsewhere to this day.[[ ^51 ]]
+
+== Archaeological evidence
+
+The periods of Babylonian and Achaemenid rule over Assyria are the most scarce when it comes to surviving sources and archaeological evidence.[[ ^1 ]] Beyond the limited evidence from Dur-Katlimmu, which only attests to a few decades of occupation at most, there is no archaeological evidence that any of the old Assyrian palaces were ever again used as official governmental seats after the fall of the Neo-Assyrian Empire.[[ ^5 ]] Some archaeological evidence indicates that Assur was rebuilt at a much smaller scale in the Neo-Babylonian period, with only a few smaller structures of Babylonian character known.[[ ^45 ]] Evidence of [[ squatter ]] occupation of some sites has been uncovered, such as scant archaeological finds indicating repair-work and the construction of small houses and workshops at Nimrud, [[ Dur-Sharrukin ]] and Assur in the Neo-Babylonian and Achaemenid periods.[[ ^5 ]] A small collection of cuneiform texts is also known from Neo-Babylonian Assur, which among other things demonstrates that goldsmiths were active in the city.[[ ^21 ]]
+
+The archaeological evidence is also scant from the Seleucid period, and consists mainly of coinage and characteristic Seleucid pottery types, such as bowls and [[ fishplates | fishplate ]] with incurved rims.[[ ^27 ]] The most extensive Assyrian archaeological finds from the post-imperial period are from the time of Parthian rule over the region. At Assur, many Aramaic inscriptions have been found from the Parthian period, as well as ruins of sanctuaries and residential areas.[[ ^45 ]] Parthian Assur was in many ways a combination of old and new, with several ancient Assyrian temples rebuilt on top of their old foundations, though with stylistic elements combining old native Mesopotamian and new Parthian architectural styles.[[ ^54 ]] Exactly on top of the old temple dedicated to Ashur, a tripartite temple was constructed in the Parthian period; in shape and size it was likely similar to the Great Iwans at Hatra, a mighty temple structure.[[ ^34 ]] The ruins of personal houses indicate that they followed Parthian designs. The Parthians rebuilt even the old Assyrian festival house, exactly according to its original plan.[[ ^54 ]]
+
+Most of the archaeological finds from Seleucid and Parthian Nineveh are from the Kuyunjik mound,[[ ^55 ]] with knowledge of much of the lower city itself only deriving from a small number of chance discoveries.[[ ^56 ]] Among those chance discoveries are the remains of an altar dedicated to the //strategos// Appolonios and a temple dedicated to the god Hermes, as well as traces of graves.[[ ^56 ]] The Kuyunjik mound was evidently covered with substantial buildings, traces of which were uncovered in the form of their stone foundations and assorted fragments. Great temples were built and maintained under both the Seleucids and Parthians, and several statues in both Greek and Parthian style, most fragmentary but a handful intact, have been found. Among the most famous discoveries from Kuyunjik is a well-preserved statue of Herakles Epitrapezios, an aspect or [[ epithet ]] of the demigod Heracles. In addition to great temples, the mound was also covered in smaller residential buildings, evident by the presence of great numbers of small objects, including figurines and pottery.[[ ^55 ]] As Nineveh was located closer to the border with the Roman Empire than Assur, it frequently came into contact with the Roman world, both through trade and through Roman expeditions invading or raiding the region. Both Parthian and Roman silver coins are known from the site, and Roman military equipment, including a belt fitting and a set of helmets, has also been found at Nineveh, probably lost in the confusion of war.[[ ^57 ]]
+
+== Language
+
+The official language of the Assyrian Empire was the Assyrian dialect of the [[ Akkadian language ]]. Usage of this language was already becoming more restricted in Neo-Assyrian times due to the growth of [[ Aramaic | aramaic-language ]], and by the last few decades of the Neo-Assyrian Empire, Aramaic was the main spoken language of the empire.[[ ^58 ]] Despite the centuries of foreign rule, and the influence of foreign languages such as [[ Greek | ancient-greek-language ]], the predominant language in the cities and countryside of Assyria likely remained Aramaic throughout the post-imperial period.[[ ^39 ]] The Assyrian dialect of the Akkadian language itself remained in use for some time after the fall of the Assyrian Empire, though in a much restricted capacity, probably not going extinct until around the end of the 6th century BC.[[ ^58 ]]
+
+The language commonly spoken by modern Assyrians, [[ Suret | suret-language ]], resembles Akkadian very little and is instead a [[ Neo-Aramaic language ]],[[ ^58 ]] descended from the Aramaic dialects of the post-imperial period. Modern Aramaic retains some ancient Akkadian influence, as there are several known examples of Akkadian loanwords in the ancient and modern Aramaic dialects. The [[ Syriac language ]], an Aramaic dialect today mainly used as a [[ liturgical language ]], has at least fourteen exclusive loanwords from Akkadian, that is, ones not attested in other dialects, including nine that are clearly from the ancient Assyrian dialect, six of which are architectural or topographical terms.[[ ^59 ]]
+
+== Religion
+
+The Assyrians at Assur continued to follow the [[ ancient Mesopotamian religion ]] in the post-imperial period, and continued to especially venerate their national deity Ashur.[[ ^46 ]] In many other parts of northern Mesopotamia, religious traditions quickly diverged and developed in different directions.[[ ^49 ]] In particular, there was from the time of Seleucid rule onwards significant influence of [[ ancient Greek religion ]], with many Greek deities becoming [[ syncretized ]] with Mesopotamian deities.[[ ^60 ]] There was also some influence of [[ Judaism ]], given that the kings of Adiabene converted to Judaism in the 1st century AD.[[ ^61 ]] Though outside Assyria proper, excavations of the Parthian-age sections of the nearby site [[ Dura-Europos ]] found a temple with a diverse arrangement of deities, a Christian church and a Jewish synagogue, all dating to the 3rd century AD. This religious and cultural complexity is likely to also have been reflected within Assyria, as it was now a frontier region between the Roman and Parthian empires.[[ ^27 ]]
+
+At Assur, both old and new gods were worshipped.[[ ^54 ]] Most important was Ashur, in Parthian times known as //Assor//[[ ^46 ]] or //Asor//,[[ ^34 ]] whose worship was carried out in the same way as it had been in ancient times, per a cultic calendar effectively identical to that used under the Neo-Assyrian Empire.[[ ^28 ]][[ ^43 ]] Because personal inscriptions at the temples in Assur frequently mention the month Nisan, the first month of the year, it is evident that the traditional Mesopotamian //[[ Akitu ]]// festival, celebrated in this month, continued to be celebrated.[[ ^34 ]][[ ^62 ]] One of the temples built in the Parthian period included in its cult room a stele with a high relief depicting the demigod [[ Heracles ]] with a lion's skin over his left arm and resting his right hand on a club.[[ ^63 ]] Based on evidence from Hatra and [[ Palmyra ]], Heracles was likely identified with the Semitic deity of fortune, [[ Gad | gad-deity ]]. It is also apparent that Heracles was identified in Mesopotamia with the god [[ Nergal ]], as attested by inscriptions found elsewhere and by inscriptions from the Parthian period at Assur mentioning Nergal, but not Heracles.[[ ^64 ]] Graffiti and inscriptions scratched into the floor and walls of the rebuilt Parthian Ashur temple indicate that the most important deities were Ashur and his consort [[ Serua | serua-goddess ]], since they are the most frequently mentioned.[[ ^62 ]] Other deities that are mentioned, though less frequently, include [[ Nabu ]] and [[ Nane | nanaya ]] ("the daughter of [[ Bel | bel-mythology ]]").[[ ^65 ]] The god [[ Bel | bel-mythology ]], otherwise mainly a Babylonian deity, was also worshipped in his own temple in the city.[[ ^49 ]] The inscriptions, temples, continued celebration of festivals and the wealth of theophoric elements, that is divine names, in personal names of the Parthian period illustrate a strong continuity of traditions, and show that the most important deities of old Assyria were still worshipped at Assur more than 800 years after the Assyrian Empire had been destroyed.[[ ^34 ]]
+
+Religious practices at the nearby Nineveh during Parthian times differed considerably from those at Assur. Whereas the deities worshipped at Assur were mostly old Mesopotamian ones, other than Heracles-Nergal, the deities worshipped at Nineveh were nearly all syncretistic or outright imported figures. These figures included the syncretistic [[ Apollo ]]-Nabu, Heracles-Gad, and [[ Zeus ]]-Bel, as well as the imported Greek god [[ Hermes ]] and the imported Egyptian deities [[ Isis ]] and [[ Serapis ]].[[ ^38 ]]
+
+It is not clear when exactly the Assyrians were first Christianized, but Arbela was an important early Christian center. According to the later //[[ Chronicle of Arbela ]]//, Arbela became the seat of a bishop already in AD 100, but the reliability of this document is questioned among scholars. It is however known that both Arbela and Kirkuk later served as important Christian centers in the Sasanian and later Islamic periods.[[ ^31 ]] From the 3rd century onwards, it is clear that Christianity was becoming the major religion of the region,[[ ^66 ]] with the Christian god replacing the old Mesopotamian deities, including Ashur, who had just previously experienced a remarkable period of revival.[[ ^52 ]] The ancient Mesopotamian religion persisted in some places for much longer, such as at Harran until at least the 10th century (the [[ "Sabians" of Harran | sabians#sabians-of-harran ]]) and at [[ Mardin ]] until as late as the 18th century (the //[[ Shamsīyah ]]//).[[ ^66 ]]
+
+[[ ^1 ]]: Hauser 2017, p. 229.
+
+[[ ^2 ]]: Frahm 2017, p. 5.
+
+[[ ^3 ]]: Frahm, Eckart (2023). "Assyria's Legacy on the Ground". //Assyria: The Rise and Fall of the World's First Empire//. Basic Books. p. 353. ISBN [[ 9781541674400 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9781541674400 ]].
+
+[[ ^4 ]]: Hauser 2017, p. 230.
+
+[[ ^5 ]]: Hauser 2017, p. 232.
+
+[[ ^6 ]]: Melville 2011, pp. 20–21.
+
+[[ ^7 ]]: Hauser 2017, pp. 234–235.
+
+[[ ^8 ]]: Sack 2004, p. 84.
+
+[[ ^9 ]]: Da Riva 2013, p. 72.
+
+[[ ^10 ]]: Stevens 2014, p. 73.
+
+[[ ^11 ]]: Hauser 2017, p. 236.
+
+[[ ^12 ]]: Hauser 2017, p. 235.
+
+[[ ^13 ]]: Frahm 2017b, p. 194.
+
+[[ ^14 ]]: Parpola 2004, p. 19.
+
+[[ ^15 ]]: Dick 2004, p. 15.
+
+[[ ^16 ]]: Lewy 1945–1946, p. 406.
+
+[[ ^17 ]]: Dalley 2003, p. 177.
+
+[[ ^18 ]]: Parpola 2004, p. 18.
+
+[[ ^19 ]]: Beaulieu 1989, p. 230.
+
+[[ ^a ]]: Though often referred to as a [[ satrapy ]] by modern historians, Assyria appears in [[ Achaemenid royal inscriptions ]] as a //dahyu//; a term of uncertain implications used to refer to both peoples and geographical locations (not necessarily synonymous with the formal satrapies of the empire).
+
+[[ ^b ]]: The name Athura derived from the Aramaic //Athur//, which meant Assyria.
+
+[[ ^21 ]]: Parpola 1999.
+
+[[ ^22 ]]: Hauser 2017, p. 231.
+
+[[ ^23 ]]: Radner 2015, p. 6.
+
+[[ ^24 ]]: Reade 1998, p. 65.
+
+[[ ^c ]]: If not invented by Xenophon, the name //Mespila// for Nineveh could perhaps be derived from the Akkadian term //mušpalum//, used for the site in some of [[ Sennacherib ]]'s inscriptions, or the Aramaic //mšpyl//, meaning an area of low-lying terrain.
+
+[[ ^25 ]]: Parpola 2004, pp. 18–20.
+
+[[ ^d ]]: Both the [[ Dead Sea Scrolls ]] and the [[ Babylonian Talmud ]] call the empire //Ašūr// and the Romano-Jewish historian [[ Josephus ]] referred to it as //Assuríōn basileía// ("kingdom of the Assyrians).
+
+[[ ^26 ]]: Hauser 2017, p. 237.
+
+[[ ^27 ]]: Hauser 2017, p. 238.
+
+[[ ^28 ]]: Parpola 2004, p. 20.
+
+[[ ^29 ]]: Drower, Gray & Sherwin-White 2012.
+
+[[ ^30 ]]: Ponchia, Simonetta; Lanfranchi, Giovanni (2024). //The Neo-Assyrian Empire: A Handbook//. de Gruyter. p. 526. ISBN [[ 9783110690712 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9783110690712 ]].
+
+[[ ^31 ]]: Hauser 2017, p. 239.
+
+[[ ^32 ]]: Marciak & Wójcikowski 2016, p. 81.
+
+[[ ^33 ]]: Frye 1984, p. 223.
+
+[[ ^34 ]]: Hauser 2017, p. 240.
+
+[[ ^e ]]: The northern mound (of two mounds) in Nineveh and the site of the city's greatest palaces and temples.
+
+[[ ^f ]]: Greek titles such as //strategos// are also attested to have been used for Parthian-period governors in other cities that were prominent under the Seleucids, such as at [[ Dura-Europos ]] and Babylon.
+
+[[ ^37 ]]: Haider 2008, pp. 201–203.
+
+[[ ^38 ]]: Hauser 2017, pp. 202, 206.
+
+[[ ^39 ]]: Reade 1998, p. 71.
+
+[[ ^40 ]]: Radner 2015, p. 20.
+
+[[ ^41 ]]: Schippmann 2012, pp. 816–817.
+
+[[ ^42 ]]: Radner 2015, pp. 18–19.
+
+[[ ^43 ]]: Harper et al. 1995, p. 18.
+
+[[ ^g ]]: The city's history was not entirely peaceful and prosperous throughout the entire period of Parthian rule. Three distinct phases of construction can be observed in the archaeological evidence from the site; all of which ended in large-scale damage and destruction. The first two phases of construction came to their ends in AD 116 and 198 when the city was sacked by Roman emperors [[ Trajan ]] and [[ Septimius Severus ]], respectively.
+
+[[ ^45 ]]: Haider 2008, p. 193.
+
+[[ ^46 ]]: Radner 2015, p. 19.
+
+[[ ^47 ]]: Radner 2015, pp. 19–20.
+
+[[ ^48 ]]: Andrae & Lenzen 1933, pp. 105–106.
+
+[[ ^49 ]]: Haider 2008, p. 200.
+
+[[ ^50 ]]: Livingstone 2009, p. 154.
+
+[[ ^51 ]]: Parpola 2004, p. 22.
+
+[[ ^52 ]]: Hauser 2017, p. 241.
+
+[[ ^53 ]]: Radner 2015, p. 7.
+
+[[ ^54 ]]: Haider 2008, p. 194.
+
+[[ ^55 ]]: Reade 1998, p. 76.
+
+[[ ^56 ]]: Reade 1998, p. 72.
+
+[[ ^57 ]]: Reade 1998, p. 78.
+
+[[ ^58 ]]: Luukko & Van Buylaere 2017, p. 314.
+
+[[ ^59 ]]: Kaufman 1974, p. 164.
+
+[[ ^60 ]]: Haider 2008, p. 202.
+
+[[ ^61 ]]: Marciak & Wójcikowski 2016, p. 80.
+
+[[ ^62 ]]: Haider 2008, p. 197.
+
+[[ ^63 ]]: Haider 2008, p. 195.
+
+[[ ^64 ]]: Haider 2008, p. 196.
+
+[[ ^65 ]]: Haider 2008, pp. 197, 200.
+
+[[ ^66 ]]: Parpola 2004, p. 21.

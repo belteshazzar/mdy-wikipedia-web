@@ -1,0 +1,437 @@
++++
+title: Early Assyrian period
+description: Earliest period of Assyrian history
+key-facts:
+  - name: Earliest archaeological evidence at Assur
+    value: c. 2600 BC
+  - name: Conquered by the Akkadian Empire
+    value: c. 2300 BC
+  - name: Conquered by the Third Dynasty of Ur
+    value: c. 2100 BC
+  - name: Independent under Puzur-Ashur I
+    value: c. 2025 BC
+  - name: Languages spoken
+    value: Akkadian, Sumerian and Hurrian
+  - name: Where it was
+    value: Today part of Iraq
+image-plan:
+  - file: Statue_of_an_Akkadian_ruler_of_Assur_city._From_Assur,_Iraq,_c._2300_BCE._Pergamon_Museum.jpg
+    role: hero
+    section: lead
+    caption: Beheaded statue of a ruler of the Akkadian period, discovered at
+      Assur. It is believed to depict either the king Manishtushu or the local
+      governor Ititi.[[ ^34 ]]
+  - file: Empire_akkad.svg
+    role: full
+    section: under-the-akkadian-empire
+    caption: The Akkadian Empire under Naram-Sin (c. 2254–2218 BC), approximately
+      mapped. Assur was an important local administrative center in the north
+      under the Akkadian kings.
+  - file: Ur_III.svg
+    role: inline
+    section: under-the-third-dynasty-of-ur
+    caption: The territory of the Third Dynasty of Ur under Shulgi (c. 2094–2046
+      BC), approximately mapped. Assur was a peripheral city in this empire.
+  - file: Female_head_from_Assur,_Iraq,_2400-2100_BCE._Pergamon_Museum.jpg
+    role: inline
+    section: archaeological-evidence
+    caption: Head of a female figure found at Assur, dating to the Akkadian
+      period. Its smooth curves and full mouth are typical of the Akkadian art
+      style, and it was found in association with the Ishtar G temple.
+  - file: Statue_of_Zariqum,_ruler_of_Assur._From_the_Ishtar_Temple_at_Assur,_Iraq._21st_century_BCE._Pergamon_Museum.jpg
+    role: inline
+    section: archaeological-evidence
+    caption: A statue from Assur in the Ur III period, possibly depicting the
+      governor Zariqum, who left an inscription in one of the city's Ishtar
+      temples.
+further:
+  - slug: old-assyrian-period
+    why: The period that begins where this one stops, with Puzur-Ashur I and an
+      independent Assur.
+  - slug: akkadian-empire
+    why: The empire that held Assur as an administrative centre in the north, and
+      that later Assyrian kings remembered as a golden age.
+  - slug: assyria
+    why: The state and the history that the Early Assyrian period precedes.
+images:
+  - file: Empire_akkad.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Empire_akkad.svg/330px-Empire_akkad.svg.png
+    width: 1475
+    height: 1149
+    caption: Approximate map of the Akkadian Empire under Naram-Sin (c. 2254–2218
+      BC). Assur was an important local administrative center in the north
+      under the Akkadian kings.
+  - file: Ur_III.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ur_III.svg/330px-Ur_III.svg.png
+    width: 1252
+    height: 959
+    caption: Approximate map of the territory of the Third Dynasty of Ur under
+      Shulgi (c. 2094–2046 BC). Assur was a peripheral city in this empire.
+  - file: Statue_of_an_Akkadian_ruler_of_Assur_city._From_Assur,_Iraq,_c._2300_BCE._Pergamon_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Statue_of_an_Akkadian_ruler_of_Assur_city._From_Assur%2C_Iraq%2C_c._2300_BCE._Pergamon_Museum.jpg/250px-Statue_of_an_Akkadian_ruler_of_Assur_city._From_Assur%2C_Iraq%2C_c._2300_BCE._Pergamon_Museum.jpg
+    width: 4016
+    height: 6016
+    caption: Beheaded statue of a ruler of the Akkadian period discovered at
+      Assur. Believed to depict either the king Manishtushu or the local
+      governor Ititi.
+  - file: Female_head_from_Assur,_Iraq,_2400-2100_BCE._Pergamon_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Female_head_from_Assur%2C_Iraq%2C_2400-2100_BCE._Pergamon_Museum.jpg/250px-Female_head_from_Assur%2C_Iraq%2C_2400-2100_BCE._Pergamon_Museum.jpg
+    width: 2388
+    height: 2535
+    caption: Head of a female figure, dating to the Akkadian period, found at Assur
+  - file: Statue_of_Zariqum,_ruler_of_Assur._From_the_Ishtar_Temple_at_Assur,_Iraq._21st_century_BCE._Pergamon_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Statue_of_Zariqum%2C_ruler_of_Assur._From_the_Ishtar_Temple_at_Assur%2C_Iraq._21st_century_BCE._Pergamon_Museum.jpg/250px-Statue_of_Zariqum%2C_ruler_of_Assur._From_the_Ishtar_Temple_at_Assur%2C_Iraq._21st_century_BCE._Pergamon_Museum.jpg
+    width: 3708
+    height: 5757
+    caption: Statue from Assur in the Ur III period, possibly depicting the
+      governor Zariqum
+infobox:
+  common-languages: Akkadian, Sumerian and Hurrian
+  religion: Ancient Mesopotamian religion
+  historical-era: Bronze Age
+  earliest-archaeological-evidence-from-assur: c. 2600 BC
+  conquest-by-the-akkadian-empire: c. 2300 BC
+  conquest-by-the-third-dynasty-of-ur: c. 2100 BC
+  independence-under-puzur-ashur-i: c. 2025 BC
+  today-part-of: Iraq
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: origins-of-assur
+    title: Origins of Assur
+  - level: 3
+    id: political-history
+    title: Political history
+  - level: 4
+    id: under-the-akkadian-empire
+    title: Under the Akkadian Empire
+  - level: 4
+    id: under-the-third-dynasty-of-ur
+    title: Under the Third Dynasty of Ur
+  - level: 3
+    id: early-names-in-the-assyrian-king-list
+    title: Early names in the Assyrian King List
+  - level: 2
+    id: archaeological-evidence
+    title: Archaeological evidence
+  - level: 2
+    id: society
+    title: Society
+  - level: 3
+    id: population-and-culture
+    title: Population and culture
+  - level: 3
+    id: religion
+    title: Religion
+wikidata:
+  id: Q28220376
+  label: Early Assyrian period
+  description: history of Assyrian civilization of Mesopotamia between 2500 BCE
+    and 2025 BCE
+  claims:
+    instance-of: historical period
+    country: Assyrian Empire
+link-titles:
+  akiya-assyrian-king: Akiya (Assyrian king)
+  akkadian-empire: Akkadian Empire
+  akkadian-language: Akkadian language
+  alabaster: Alabaster
+  amar-sin: Amar-Sin
+  amorite-dynasty: Amorite dynasty
+  amorites: Amorites
+  anatolia: Anatolia
+  antechamber: Antechamber
+  ashur-god: Ashur (god)
+  ashur-rim-nisheshu: Ashur-rim-nisheshu
+  assur: Assur
+  assyria: Assyria
+  assyrian-king-list: Assyrian King List
+  assyrian-people: Assyrian people
+  azazuactioneditredlink1: Azazu?action=edit&redlink=1
+  babylon: Babylon
+  cella: Cella
+  city-state: City-state
+  deified: Deified
+  early-dynastic-period-mesopotamia: Early Dynastic Period (Mesopotamia)
+  esarhaddon: Esarhaddon
+  fertility-cult: Fertility cult
+  fillet-clothing: Fillet (clothing)
+  gasur: Gasur
+  georges-roux: Georges Roux
+  gutian-people: Gutian people
+  hassuna-culture: Hassuna culture
+  hegemony: Hegemony
+  hildegard-lewy: Hildegard Lewy
+  hurrians: Hurrians
+  ibbi-sin: Ibbi-Sin
+  indian-elephant: Indian elephant
+  ininlabaactioneditredlink1: Ininlaba?action=edit&redlink=1
+  ishtar: Ishtar
+  ititiactioneditredlink1: Ititi?action=edit&redlink=1
+  ivory: Ivory
+  karum-trade-post: Karum (trade post)
+  kikkia: Kikkia
+  kish-sumer: Kish (Sumer)
+  klaas-veenhof: Klaas Veenhof
+  lullubi: Lullubi
+  manishtushu: Manishtushu
+  marduk: Marduk
+  mesopotamian-religion: Mesopotamian religion
+  moon: Moon
+  mudbrick: Mudbrick
+  nabonidus: Nabonidus
+  naram-sin-of-akkad: Naram-Sin of Akkad
+  neo-assyrian-empire: Neo-Assyrian Empire
+  neo-babylonian-empire: Neo-Babylonian Empire
+  niche-architecture: Niche (architecture)
+  ninegal: Ninegal
+  nineveh: Nineveh
+  nuzi: Nuzi
+  old-assyrian-period: Old Assyrian period
+  old-babylonian-empire: Old Babylonian Empire
+  pergamon-museum: Pergamon Museum
+  puzur-ashur-i: Puzur-Ashur I
+  sargon-of-akkad: Sargon of Akkad
+  semitic-languages: Semitic languages
+  shalmaneser-i: Shalmaneser I
+  shalmaneser-iii: Shalmaneser III
+  shamshi-adad-i: Shamshi-Adad I
+  shulgi: Shulgi
+  sin-mythology: Sin (mythology)
+  subartu: Subartu
+  sulili: Sulili
+  sumer: Sumer
+  sumerian-king-list: Sumerian King List
+  tell-brak: Tell Brak
+  third-dynasty-of-ur: Third Dynasty of Ur
+  tigris: Tigris
+  tree-of-life: Tree of life
+  tudiya: Tudiya
+  twelve-tribes-of-israel: Twelve Tribes of Israel
+  upper-mesopotamia: Upper Mesopotamia
+  ushpia: Ushpia
+  zariqum: Zariqum
+source:
+  site: Wikipedia
+  lang: en
+  title: Early Assyrian period
+  url: https://en.wikipedia.org/wiki/Early_Assyrian_period
+  page-id: 51449359
+  revision: "1355578968"
+  modified: 2026-05-22T18:15:07Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Early
+    Assyrian period" (revision 1355578968), by Wikipedia contributors, used
+    under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/early-assyrian-period.mdy
+  source-revision: "1355578968"
+  model: claude-opus-5
+  left-out: The "History" and "Society" headings carry no prose of their own in
+    the source — each is followed immediately by its first subheading — so
+    their bodies are empty rather than filled with invented connective text.
+    Four images embedded in the article's prose (the praying man and praying
+    woman statues from the archaic Ishtar temple, the inventory of the archaic
+    Ishtar temple, and the reconstruction of the temple interior) are not
+    among the file names given in the front matter, so they are not in the
+    image plan; the two Ishtar-temple ones would otherwise have gone in
+    "Religion", which now has no image. The footnote markers [[ ^32 ]] and [[
+    ^42 ]] do not appear anywhere in the supplied prose, so none is carried.
+  verified: false
+  reviewed: false
++++
+The !!Early Assyrian period!![[ ^1 ]][[ ^2 ]] is the part of [[ Assyrian | assyria ]] history that comes before Assyria: the city of [[ Assur ]] and the surrounding areas of [[ Upper Mesopotamia ]], and its people and culture, up to the foundation of Assyria as an independent [[ city-state ]] under [[ Puzur-Ashur I ]] c. 2025 BC, and before the [[ Old Assyrian period ]] that followed. There is no evidence so far discovered that Assur was independent at any point in it. Very little material and textual evidence survives from the period at all. The earliest archaeological evidence at Assur dates to the [[ Early Dynastic Period | early-dynastic-period-mesopotamia ]], c. 2600 BC, but the city may have been founded even earlier, since the area had been inhabited for thousands of years prior and other nearby cities, such as [[ Nineveh ]], are significantly older.
+
+The archaeological evidence suggests that Assur was originally inhabited by [[ Hurrians ]] as well as Semites[[ ^3 ]][[ ^4 ]] and was the site of a [[ fertility cult ]] devoted to the Assyrian goddess [[ Ishtar ]].[[ ^5 ]] The name "Assur" is not historically attested prior to the age of the [[ Akkadian Empire ]] in the 24th century BC; it is possible that the city was originally named !!Baltil!!,[[ ^6 ]] a name used in later times to refer to its oldest portion. From approximately 3000 BC, centuries before the rise of the Akkadian Empire in the 24th Century BC, the [[ Semitic | semitic-languages ]]-speaking ancestors of the Assyrians, Akkadians and Babylonians settled in Assur and throughout Mesopotamia, either displacing or assimilating earlier populations.[[ ^3 ]][[ ^4 ]] Founded in a location both holy and strategic, the city itself was gradually [[ deified ]] during the Early Assyrian period and eventually became personified as the god [[ Ashur | ashur-god ]], firmly established as the Assyrian national deity by the time of Puzur-Ashur I in the late 21st century BC.
+
+What the evidence shows instead of independence is a sequence of powerful states and empires from southern Mesopotamia dominating the city, throughout the centuries prior to Puzur-Ashur I or [[ Ushpia ]] in the early 21st Century BC. In the Early Dynastic Period, Assur and other Assyrian cities experienced considerable [[ Sumerian | sumer ]] influence, and for a time fell under the hegemony of the Sumerian city of [[ Kish | kish-sumer ]]. In the 24th to 22nd centuries BC the city was part of the [[ Akkadian Empire ]] as an administrative centre in northern Mesopotamia, a time later Akkadian speaking Assyrian kings saw as a golden age. In the final geopolitical stage preceding Assur's independence, the city became a peripheral city within the Sumerian empire of the [[ Third Dynasty of Ur ]] (c. 2112–2004 BC).
+
+== History
+
+
+
+== Origins of Assur
+
+Agricultural villages in the region that would later become [[ Assyria ]] are known to have existed by the time of the [[ Hassuna culture ]],[[ ^3 ]] c. 6300–5800 BC.[[ ^7 ]] [[ Assur ]] itself was probably founded at some point in the [[ Early Dynastic Period | early-dynastic-period-mesopotamia ]] (c. 2900–2350 BC),[[ ^8 ]][[ ^9 ]] or perhaps earlier,[[ ^8 ]][[ ^10 ]][[ ^a ]] though there is no evidence of the city being an independent state prior to the time of [[ Puzur-Ashur I ]], who ruled c. 2025 BC — independent rule is credited in later Assyrian annals to have begun with [[ Ushpia ]] some sixty or so years earlier.[[ ^8 ]][[ ^11 ]] The earliest archaeological evidence known from Assur predates the Akkadian Empire by only a few centuries, being from c. 2600 BC[[ ^12 ]] or c. 2500 BC.[[ ^13 ]] By that point the surrounding region was already relatively urbanized,[[ ^3 ]] a development that might perhaps have resulted from being influenced by the heavily urbanized southern Mesopotamia.[[ ^14 ]]
+
+Part of the reason so little is known is where the evidence had to survive. Archaeological evidence from the Early Dynastic Period is in general far more scarce in northern Mesopotamia, including around Assur, than in southern Mesopotamia.[[ ^15 ]] Much of the early historical remains of Assur may have been destroyed during the extensive construction projects of later Assyrian kings, who worked to create level foundations for the buildings they erected in the city.[[ ^16 ]] Very little concrete information is known about Assur in the early period, and most researchers do not treat the city as liable for much historical analysis until the [[ Old Assyrian period ]], initiated by Puzur-Ashur I.[[ ^1 ]]
+
+Early Assur was probably a local religious and tribal center, suggested by the early presence of temples at the site.[[ ^9 ]][[ ^17 ]] The presence of monumental temples suggests that there was a town of some size surrounding them, and that the site was not just a small cult place.[[ ^18 ]] The location was a highly strategic one: a hill overlooking the [[ Tigris ]] river, protected by a river on one side and a canal on another.[[ ^8 ]] The region was however relatively arid, located just north of the artificially irrigated lands of southern Mesopotamia.[[ ^19 ]]
+
+Later Assyrian kings used the name "Baltil" or "Baltila" for the earliest portion of Assur, or perhaps for a preceding settlement in the same location. "Baltila" is a name of [[ Hurrian | hurrians ]] origin, attested as a personal name among Hurrians near the city of [[ Nuzi ]].[[ ^6 ]] According to a stele erected by the [[ Neo-Babylonian | neo-babylonian-empire ]] king [[ Nabonidus ]] some two thousand years later, Baltila was the capital of the land of Subir. Subir, which also appears in the variants Subar and [[ Subartu ]], is attested as a name for the land surrounding Assur, but the later Assyrians rarely used it. The reason for the name being dropped in later times appears to be that it took on a derogatory meaning: during the [[ Old Babylonian Empire ]] (c. 1894–1595 BC), so many slaves were imported from "Subartu" that "Subarian" in effect became a synonym for "slave".[[ ^20 ]]
+
+== Political history
+
+During much of the early Assyrian period, Assur and Upper Mesopotamia was dominated by states and polities from southern Mesopotamia.[[ ^21 ]] The city was occupied by the Akkadian Empire and then the [[ Third Dynasty of Ur ]].[[ ^8 ]] Prior to this, Assur had also for a time been one of the many Mesopotamian cities under the loose [[ hegemony ]] of the Sumerian city of [[ Kish | kish-sumer ]].[[ ^17 ]]
+
+== Under the Akkadian Empire
+
+The Akkadian Empire probably conquered Assur in the reign of its first ruler, [[ Sargon | sargon-of-akkad ]] (c. 2334–2279 BC),[[ ^17 ]] and is known to have controlled the city at least from the reign of [[ Manishtushu ]] (c. 2270–2255 BC) onwards, since contemporary inscriptions dedicated to Manishtushu have been recovered there.[[ ^22 ]] One of them was inscribed on the bronze point of a spear by Azazu, a local ruler of Assur who was the Akkadian king's vassal.[[ ^23 ]] Azazu's inscription was also dedicated to a deity, but the name, perhaps [[ Ashur | ashur-god ]], is not clearly preserved.[[ ^24 ]] Texts of the Akkadian period from Nuzi illustrate that Assur was an important local outpost and administrative center under the Akkadian Empire, frequently staffed with Akkadian officials, and a palace was built in the city similar to one the Akkadian king [[ Naram-Sin | naram-sin-of-akkad ]] built at [[ Tell Brak ]].[[ ^22 ]]
+
+The earliest inscription known from Assur, preceding that of Azazu, was made by the //Išši'ak Aššur// (governor of Assur) Ititi, son of a man called Ininlaba. Ititi was presumably also an Akkadian vassal. Both the Semitic names Ititi and Ininlaba are also attested in Nuzi.[[ ^22 ]][[ ^23 ]] The Ititi attested at Nuzi, perhaps the same man as the Assyrian governor, was one of the ablest generals of Sargon of Akkad.[[ ^25 ]] In his inscription, Ititi dedicates the "booty" of [[ Gasur ]] (a city possibly identical with Nuzi) to the goddess [[ Ishtar ]].[[ ^22 ]][[ ^23 ]] That Ititi evidently raided Nuzi testifies to a somewhat lacking Akkadian central control in the region; had the Akkadian kings firmly and directly ruled both cities it is unlikely that they would have been able to raid each other.[[ ^26 ]]
+
+The period of Akkadian rule over Assur strongly influenced the culture of Assyria in the millennia thereafter. Whereas the Akkadian kings were later despised by the Babylonians in southern Mesopotamia as an affront to Babylon's god [[ Marduk ]], the Assyrians remembered the period as a golden age, and many later Assyrian kings emulated the Akkadian rulers.[[ ^27 ]] Assyria's status as a prominent trading city, well-established in the later Old Assyrian period with trading colonies ([[ Karums | karum-trade-post ]]) as far north as [[ Anatolia ]], may have begun under the Akkadian kings, as their conquests opened up new opportunities for trade.[[ ^17 ]]
+
+There is archaeological and literary evidence that Assur's golden age under the Akkadian kings came to a violent end. The remains of temples from the early period at both Assur and [[ Nineveh ]] indicate that they were violently destroyed. According to the later Babylonian text //Legend of Naram-Sin//, a strange-looking army of the [[ Lullubi ]] invaded the northern parts of the Akkadian Empire before continuing southwards and eventually reaching Babylon itself, although at this time Babylon was only a small town. Archaeological evidence of Naram-Sin's palace at Tell Brak demonstrates that it was also sacked. According to the Assyriologist [[ Hildegard Lewy ]], it can thus be assumed that the Lullubi did in fact invade Mesopotamia and sacked Assur at this time.[[ ^28 ]]
+
+== Under the Third Dynasty of Ur
+
+Assur was restored at some point after its destruction by the Lullubi. The Akkadian Empire collapsed in the early 22nd century BC, probably due to rebellions in southern Mesopotamia and the invasions from the eastern [[ Gutians | gutian-people ]]. What impact the collapse of the empire had on Assur cannot be determined from the surviving evidence, but other sources indicate that much of Mesopotamia again fractured into small city-states, perhaps including Assur itself.[[ ^29 ]]
+
+Within a century of the Akkadian Empire's collapse, southern Mesopotamia was reunited by the Sumerian Third Dynasty of Ur (c. 2112–2004 BC). The rulers of Ur were not as concerned about northern Mesopotamia as the Akkadians had been, but they did conduct campaigns and conquests in the region and established control over Assur. Unlike the south, which they ruled directly, peripheral cities such as Assur were placed under the rule of local governors, whose military administration ensured loyalty and tribute.[[ ^30 ]] In the ruins of one of Assur's temples, dedicated to Ishtar, an inscription written by the Assyrian governor (//šakkanakkum//) [[ Zariqum ]] states that he founded a new temple in the city, dedicated to the goddess Bēlat-ekallim (i.e. [[ Ninegal ]]), for the life of [[ Amar-Sin ]] (c. 2046–2037 BC), king of Ur.[[ ^31 ]][[ ^b ]]
+
+The period of Sumerian dominance of Assur came to an end as the last king of the Third Dynasty of Ur, [[ Ibbi-Sin ]] (c. 2028–2004 BC), lost his administrative grip on the peripheral regions of his empire and Assur became an independent city-state under its own rulers, beginning with [[ Ushpia ]] c. 2090 BC.[[ ^33 ]]
+
+== Early names in the Assyrian King List
+
+Though there is no evidence of independent Assyrian rule during the early period, the //[[ Assyrian King List ]]//, a much later document listing the sequence of Assyrian rulers, lists 29 kings prior to Puzur-Ashur, unverified by contemporary sources.[[ ^8 ]] At least portions of this sequence is likely entirely invented: many of the names of the earliest rulers rhyme, suggesting an invented pattern,[[ ^35 ]] and the names do not match the names of known governors of Assur under the Akkadian and Neo-Sumerian empires.[[ ^36 ]][[ ^37 ]] Perhaps the sequence was invented in an attempt to create a legitimate "prehistory" by one of the later Assyrian kings.[[ ^3 ]] Given that the earliest rulers are described as "kings who lived in tents", they, if real, may not have ruled Assur at all but rather have been tribal chieftains somewhere in its vicinity who eventually seized the throne.[[ ^8 ]] This nomadic origin fits poorly with the archaeological record from Assur and neighboring sites, which instead indicates intense agriculture and early urbanization.[[ ^3 ]] As in the //[[ Sumerian King List ]]//, several names, if real, may also have belonged to rulers who were contemporaries/rivals, rather than successors and predecessors of one another.[[ ^8 ]]
+
+Lewy speculated that the "kings who lived in tents" were not kings at all, but the contemporary ancestors of the different tribes that eventually became the [[ Assyrian people ]], similar to the [[ Twelve Tribes of Israel ]].[[ ^38 ]] Other researchers, such as [[ Klaas Veenhof ]] and Jesper Eidem, have dismissed the early names in the king list as a mixture of [[ Amorite | amorites ]] tribal-geographical names with no relation to Assur at all.[[ ^1 ]] The "kings who lived in tents" are succeeded in the king list by the "kings who were ancestors", a sequence of names typically interpreted as either the ancestors of the later king [[ Shamshi-Adad I ]] (c. 1808–1776 BC), inserted into the king list in an effort to create dynastic legitimacy (though they then did not actually rule Assur), or as a general set of legendary [[ Amorite | amorites ]] ancestors — Shamshi-Adad was an Amorite, and a similar sequence of names appears in a text describing the ancestors of the [[ Amorite dynasty ]] of [[ Babylon ]].[[ ^39 ]][[ ^40 ]] The "kings who were ancestors" are thus not generally believed to be closely connected to Assur.[[ ^37 ]] The last three names mentioned in the list prior to Puzur-Ashur I — [[ Sulili ]], [[ Kikkia ]] and [[ Akiya | akiya-assyrian-king ]] — could perhaps be genuine historical rulers of Assur,[[ ^11 ]] but their existence is not corroborated by other sources[[ ^c ]] and fitting them in chronologically between Puzur-Ashur I and the Ur III kings is problematic.[[ ^41 ]]
+
+Only two of the early names on the king list are mentioned in later ancient sources outside of it: [[ Ushpia ]], the 17th name mentioned,[[ ^38 ]] and Kikkia, the 28th name.[[ ^43 ]] Ushpia is stated in the inscriptions of the significantly later Assyrian kings [[ Shalmaneser I ]] (c. 1273–1244 BC) and [[ Esarhaddon ]] (681–669 BC) to have been the original builder of the temple dedicated to Ashur in Assur,[[ ^44 ]] and thus in effect the founder of the city itself.[[ ^38 ]] Although it is possible that Shalmaneser I got Ushpia's name from oral tradition or from inscriptions that no longer survive, it is also strange that the name of the supposed founder, if he was real, of the city and its first temples does not appear in known inscriptions until about a millennium later.[[ ^45 ]] Kikkia is mentioned in the inscriptions of [[ Ashur-rim-nisheshu ]] (c. 1408–1401 BC) and [[ Shalmaneser III ]] (859–824 BC) as the supposed first builder of a wall around Assur.[[ ^43 ]]
+
+== Archaeological evidence
+
+There is very little surviving evidence of what type of settlement Assur was in the early period.[[ ^13 ]] Among the scant archaeological evidence recovered of early Assur are the remains of two temples built in [[ mudbrick ]], both dedicated to the goddess Ishtar. Dubbed Ishtar H and G by modern researchers, the earlier one (H) has left almost no trace other than the lower stumps of its walls, and can confidently be dated to the Early Dynastic Period because nothing has been found below it — indicating it was among the earliest structures at the site — and because some of the walls of the later temple (G) sit directly above it. Ishtar G was composed of an oblong [[ cella ]], an [[ antechamber ]] and a [[ niche | niche-architecture ]] at its far end, perhaps designed to contain a cult statue. The structure of the less well-preserved Ishtar H was probably similar.[[ ^9 ]] The architecture of the temples is suggestive of the ED II (c. 2750/2700–2600 BC) and ED III (c. 2600–2350 BC) periods. Both temples appear to have been destroyed by being burnt down.[[ ^46 ]]
+
+Also recovered in conjunction with these temples were 87 [[ alabaster ]] figures of worshippers, ranging in height from 20 to 65 centimeters (8 to 26 inches), depicting both men and women.[[ ^47 ]] The style of these figures resembles Sumerian figures of the ED II and ED III periods. One of the early figures found at Assur is a head of a female figure, wearing a [[ fillet | fillet-clothing ]]. This head is typical of the art style of the Akkadian period, with smooth and soft curves and a full mouth. As it was found in association with the Ishtar G temple, it indicates that the temple continued to be used well into the Akkadian period as well.[[ ^48 ]] In addition to the alabaster figures of worshippers, also recovered were 24 stone statues of naked women, five statues of animals, a number of incense burners/pot stands and three large clay altars or house models.[[ ^47 ]] A unique figure among the recovered finds was an [[ ivory ]] figurine of a nude woman, alongside fragments of at least five additional similar figurines. The ivory used might have come from [[ Indian elephants | indian-elephant ]], which would indicate trade between Assur and the early tribes and states of Iran. Also found among the artefacts of Ishtar G are a clay bottle with the features of a nude woman as well as a figurine of a man with an erect penis.[[ ^48 ]]
+
+In addition to the figures and the architecture, other archaeological finds, including pottery and a vase, from early Assur also demonstrate strong Sumerian influence. Found in one of the temples was also a fragment of a bedstead which depicts a woman lying down, wearing a choker, earrings and several rings with exposed breasts; the typical style associated with a deceased Sumerian noblewoman who was to be buried.[[ ^5 ]]
+
+== Society
+
+
+
+== Population and culture
+
+It is impossible to confidently determine the ethnic composition of Upper Mesopotamia and Assur's early population based only on material evidence,[[ ^49 ]] but it is unlikely to have been homogenous. The population of Assur and much of Upper Mesopotamia in the early period was likely mostly tribal and would have predominantly spoken a [[ Semitic | semitic-languages ]] language,[[ ^50 ]] likely [[ Akkadian | akkadian-language ]] from a relative early point in time.[[ ^4 ]] As suggested by the historical evidence concerning Baltil and Subartu, the site of Assur and the surrounding lands were probably originally or also inhabited by Hurrians,[[ ^3 ]][[ ^4 ]] who were either assimilated[[ ^3 ]] or displaced[[ ^4 ]] at some point when the Semitic-speaking ancestors of the later Assyrians settled the region. If they were driven out, the Hurrians of Assur and the surrounding region might then have migrated to the Zagros mountains in the east, where Hurrians are firmly historically attested in later periods.[[ ^4 ]] According to the Assyriologist [[ Georges Roux ]], many of the early names in the //Assyrian King List//, such as [[ Tudiya ]], Ushpia, Sulili and Kikkia, are not Semitic or Akkadian in origin, but could perhaps be Hurrian, although this is a disputed view.[[ ^8 ]]
+
+The strong Sumerian influence seen in the Ishtar H and G temples might suggest that there was not only Sumerian influence in Assur during this time, but perhaps that the site was for a time in its early history inhabited by a group of Sumerians alongside the local Semites,[[ ^51 ]] or possibly even that it was conquered by some unknown Sumerian ruler.[[ ^50 ]]
+
+== Religion
+
+Assyrian religion was a part of [[ Mesopotamian religion ]]. The earliest temples in Assur being devoted to [[ Ishtar ]],[[ ^1 ]][[ ^5 ]] combined with the number of nude female figurines found in the Ishtar H and G temples, suggests that Assur in the early period was preoccupied with a [[ fertility cult ]].[[ ^5 ]] Ishtar, although a Sumero-Akkadian diety, was also a principal deity among the early Hurrian inhabitants of Nuzi, and in other cities in the vicinity.[[ ^6 ]] The fertility cult and devotion to Ishtar did not diminish with Assur's incorporation into the Akkadian Empire, as Ishtar was Akkad's patron deity and was thus held in high regard by the Akkadian rulers. From the time of the Akkadian period onwards, there was also much religious reverence for the [[ moon ]] and its associated god, [[ Sîn | sin-mythology ]], a practice continued in later Assyrian periods and inspired by the lunar devotion of the Akkadian kings.[[ ^52 ]] Not all practices of the Akkadian kings were seen as good by the populations of Assur. In particular, there appears to have been objections to the practice of the Akkadian kings of adding statues of themselves to the temples, normally reserved only for statues of deities: an Akkadian statue in the temple dedicated to Ishtar in Assur shows evidence of deliberately being beheaded.[[ ^53 ]]
+
+Although worship of [[ Ashur | ashur-god ]], the Assyrian national deity, is well-attested in the Old Assyrian period,[[ ^54 ]] there is no concrete evidence of worship of Ashur from the early period. The texts from the Akkadian period that explicitly name the city as Assur are the first indirect references to Ashur, since the god shares the city's name.[[ ^38 ]] Though they are commonly distinguished by modern historians through calling the god Ashur and the city Assur, both were inscribed in the exact same way in ancient times (//Aššur//). Because Old Assyrian documents sometimes appear to not differentiate between the city and the god, it is believed that Ashur is a deified personification of the city itself. Perhaps the site of the city, originating as a holy site prior to the city's construction and settled due to its strategic location, came to gradually be regarded as divine in its own right at some point in the early period.[[ ^55 ]] Assyrians of later periods linked Ashur to Ishtar and, though it was never expressly stated, they were sometimes mentioned together in inscriptions as if they were husband and wife.[[ ^55 ]]
+
+Ashur's role as a deity was flexible and changed with the changing culture and politics of the Assyrians themselves. Though he would in later centuries be regarded as a god of war, guiding the Assyrian kings on their campaigns, he was in Old Assyrian (and presumably also late Early Assyrian) times seen as a god of death and revival, related to agriculture.[[ ^56 ]] Though it was no longer Ashur's main function in later periods, his agricultural role continued to remain prominent. One of Ashur's main associated symbols as late as the [[ Neo-Assyrian Empire ]] was the "[[ Tree of Life ]]", which represented the revival of life every spring. As such, he still retained his status as a god of death and revival.[[ ^57 ]]
+
+[[ ^1 ]]: Veenhof & Eidem 2008, p. 19.
+
+[[ ^2 ]]: Oates 1967, p. 83.
+
+[[ ^3 ]]: Liverani 2014, p. 208.
+
+[[ ^4 ]]: Lewy 1971, p. 733.
+
+[[ ^5 ]]: Mallowan 1971, p. 300.
+
+[[ ^6 ]]: Lewy 1971, p. 731.
+
+[[ ^7 ]]: Liverani 2014, p. 48.
+
+[[ ^8 ]]: Roux 1992, p. 187.
+
+[[ ^9 ]]: Mallowan 1971, p. 298.
+
+[[ ^10 ]]: Garfinkle 2007, p. 61.
+
+[[ ^a ]]: The nearby [[ Nineveh ]] is for instance known to have been inhabited millennia earlier, since the [[ Neolithic ]] period.
+
+[[ ^11 ]]: Aubet 2013, p. 276.
+
+[[ ^12 ]]: Lewy 1971, pp. 729–730.
+
+[[ ^13 ]]: Düring 2020, p. 31.
+
+[[ ^14 ]]: Van De Mieroop 2007, p. 54.
+
+[[ ^15 ]]: Mallowan 1971, p. 291.
+
+[[ ^16 ]]: Lewy 1971, p. 729.
+
+[[ ^17 ]]: Foster 2016, chapter 3.
+
+[[ ^18 ]]: Düring 2020, p. 30.
+
+[[ ^19 ]]: Elayi 2017, p. 38.
+
+[[ ^20 ]]: Lewy 1971, pp. 732–733.
+
+[[ ^21 ]]: Garfinkle 2007, p. 63.
+
+[[ ^22 ]]: Lewy 1971, p. 734.
+
+[[ ^23 ]]: Grayson 1972, p. 2.
+
+[[ ^24 ]]: Grayson 1972, p. 3.
+
+[[ ^25 ]]: Foster 2016, chapter 2.
+
+[[ ^26 ]]: Van De Mieroop 2007, p. 71.
+
+[[ ^27 ]]: Lewy 1971, p. 735.
+
+[[ ^28 ]]: Lewy 1971, pp. 739–740.
+
+[[ ^29 ]]: Garfinkle 2007, p. 62.
+
+[[ ^30 ]]: Garfinkle 2007, pp. 62–63.
+
+[[ ^31 ]]: Lewy 1971, p. 746.
+
+[[ ^b ]]: It has also been suggested that Zariqum was an independent ruler, who only recognized the overlordship of the Ur III kings, but this is a minority view.
+
+[[ ^33 ]]: Veenhof & Eidem 2008, p. 20.
+
+[[ ^34 ]]: Foster 2016, chapter 9.
+
+[[ ^35 ]]: Lendering 2006.
+
+[[ ^36 ]]: Grayson 1972, pp. 2–6.
+
+[[ ^37 ]]: van Driel 1969, p. 3.
+
+[[ ^38 ]]: Lewy 1971, p. 745.
+
+[[ ^39 ]]: Van De Mieroop 2007, p. 89.
+
+[[ ^40 ]]: Chavalas 1994, p. 117.
+
+[[ ^c ]]: It has been suggested that Sulili could be identified with Silulu, an early period ruler (presumably governor under the Akkadians or Sumerians) of Assur, but the name is spelt differently and Silulu's inscription names his father as Dakiki whereas the //Assyrian King List// names Sulili's father as [[ Aminu ]].
+
+[[ ^41 ]]: Veenhof & Eidem 2008, pp. 31–32.
+
+[[ ^43 ]]: Lewy 1971, p. 747.
+
+[[ ^44 ]]: Lewy 1971, p. 744.
+
+[[ ^45 ]]: van Driel 1969, pp. 1–2.
+
+[[ ^46 ]]: Mallowan 1971, p. 299.
+
+[[ ^47 ]]: Düring 2020, p. 32.
+
+[[ ^48 ]]: Mallowan 1971, pp. 299–300.
+
+[[ ^49 ]]: Bär 2003, p. 16.
+
+[[ ^50 ]]: Mallowan 1971, p. 301.
+
+[[ ^51 ]]: Breasted 1926, p. 153.
+
+[[ ^52 ]]: Lewy 1971, pp. 737–738.
+
+[[ ^53 ]]: Foster 2016, chapter 11.
+
+[[ ^54 ]]: Lambert 1983, p. 83.
+
+[[ ^55 ]]: Lambert 1983, pp. 82–85.
+
+[[ ^56 ]]: Breasted 1926, p. 164.
+
+[[ ^57 ]]: James 1966, p. 42.
