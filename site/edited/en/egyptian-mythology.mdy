@@ -1,0 +1,924 @@
++++
+title: Egyptian mythology
+hook: Few complete Egyptian myths appear anywhere in the sources. Most texts
+  contain nothing more than allusions, or tell only portions of a larger
+  story, and for any given myth the Egyptians themselves may have had only the
+  general outlines.
+standfirst: The myths of ancient Egypt describe the actions of the gods as a
+  means of understanding the world, and the beliefs they express are an
+  important part of Egyptian religion. They appear in short stories, hymns,
+  ritual and funerary texts and temple decoration, rarely as a complete
+  account.
+key-facts:
+  - name: What it is
+    value: Myths of the Ancient Egyptians
+  - name: A kind of
+    value: Mythology by ethnic group
+  - name: The people
+    value: Ancient Egyptians
+  - name: Studied by
+    value: Egyptology
+  - name: Described by a source
+    value: The Gods of the Egyptians
+  - name: On Wikipedia's vital articles list
+    value: Wikipedia:Vital articles/Level/4, from 2022-10-31
+pull-quotes:
+  - text: a sacred or culturally central narrative
+    attribution: John Baines, Egyptologist, on the basic definition of myth
+    section: definition-and-scope
+  - text: not a shred of evidence that a specific kind of 'unorthodox' mythology
+      was coined... for this genre.
+    attribution: J. F. Borghouts, on magical texts
+    section: origins
+  - text: multiplicity of approaches
+    attribution: Henri Frankfort, in the 1940s, on apparently contradictory Egyptian ideas
+    section: content-and-meaning
+timeline:
+  - when: around 3100 BC
+    what: Egypt is unified under the pharaohs at the end of the Predynastic
+      Period, making the king the focus of Egyptian religion
+    from: The unification of Egypt under the pharaohs, at the end of the
+      Predynastic Period around 3100 BC, made the king the focus of Egyptian
+      religion, and thus the ideology of kingship became an important part of
+      mythology.
+  - when: c. 2686–2181 BC
+    what: In the Old Kingdom the most important mythological system is the cults
+      of Ra and Atum at Heliopolis, whose Ennead was said to have created the
+      world
+    from: In the Old Kingdom (c. 2686–2181 BC) the most important of these systems
+      was the cults of Ra and Atum, centered at Heliopolis. They formed a
+      mythical family, the Ennead, that was said to have created the world.
+  - when: c. 2686 BC – 2181 BC
+    what: Many scholars have suggested that the myth of the sun god withdrawing
+      into the sky was inspired by the breakdown of royal authority and
+      national unity at the end of the Old Kingdom
+    from: Many scholars have suggested that the myth of the sun god withdrawing
+      into the sky, leaving humans to fight among themselves, was inspired by
+      the breakdown of royal authority and national unity at the end of the
+      Old Kingdom (c. 2686 BC – 2181 BC).
+  - when: c. 1550–1070 BC
+    what: In the New Kingdom, minor myths develop around deities like Yam and
+      Anat, who had been adopted from Canaanite religion
+    from: In the New Kingdom (c. 1550–1070 BC), minor myths developed around
+      deities like Yam and Anat who had been adopted from Canaanite religion.
+  - when: c. 1070–664 BC
+    what: An inscription from the Third Intermediate Period, whose text may be
+      much older, describes creation as an intellectual process and attributes
+      it to Ptah
+    from: An inscription from the Third Intermediate Period (c. 1070–664 BC),
+      whose text may be much older, describes the process in detail and
+      attributes it to the god Ptah, whose close association with craftsmen
+      makes him a suitable deity to give a physical form to the original
+      creative vision.
+  - when: 332 BC–641 AD
+    what: Through the Greek and Roman eras, Greco-Roman culture has little
+      influence on Egyptian mythology
+    from: In contrast, during the Greek and Roman eras (332 BC–641 AD),
+      Greco-Roman culture had little influence on Egyptian mythology.
+image-plan:
+  - file: Nun_Raises_the_Sun.jpg
+    role: hero
+    section: lead
+    caption: "The moment of creation: Nun, the embodiment of the primordial
+      waters, lifts the barque of the sun god Ra into the sky."
+  - file: Nut1.JPG
+    role: inline
+    section: content-and-meaning
+    caption: "The sky as a cow goddess held up by other deities. One image
+      combining several coexisting visions of the sky: as a roof, as the
+      surface of a sea, as a cow, and as a goddess in human form.[[ ^27 ]]"
+  - file: Geb,_Nut,_Shu.jpg
+    role: inline
+    section: universe
+    caption: The air god Shu, assisted by other gods, holds up Nut, the sky, while
+      Geb, the earth, lies beneath.
+  - file: Sunrise_at_Creation.jpg
+    role: inline
+    section: creation
+    caption: The sun rises over the circular mound of creation, the first dry
+      land, as goddesses pour out the primeval waters around it.
+  - file: Flickr_-_Gaspa_-_Dendara,_tempio_di_Hator_(56).jpg
+    role: inline
+    section: osiris-myth
+    caption: "Temple decoration at Dendera: the goddesses Isis and Nephthys watch
+      over the corpse of their brother Osiris."
+  - file: Hermitage_Egyptian_statuettes.jpg
+    role: inline
+    section: osiris-myth
+    caption: Statues of Osiris and of Isis nursing the infant Horus, the heir she
+      conceived after briefly reviving her husband.
+  - file: Ra_Barque.jpg
+    role: inline
+    section: the-journey-of-the-sun
+    caption: Ra on the solar barque, adorned with the sun-disk.
+  - file: Book_of_Gates_Barque_of_Ra_cropped.jpg
+    role: inline
+    section: the-journey-of-the-sun
+    caption: Ra (at center) travels through the sky in his barque, accompanied by
+      other gods.[[ ^97 ]]
+  - file: Set_speared_Apep.jpg
+    role: inline
+    section: the-journey-of-the-sun
+    caption: The Mesektet Barque, with Ra as Set spearing Apophis in the
+      underworld (Egyptian Museum, Cairo).
+  - file: SethAndHorusAdoringRamsses_crop.jpg
+    role: inline
+    section: in-religion
+    caption: Set and Horus support the pharaoh. The reconciled rival gods often
+      stand for the unity of Egypt under the rule of its king.[[ ^107 ]]
+  - file: Hidden_treasures_19.jpg
+    role: inline
+    section: in-art
+    caption: A funerary amulet in the shape of a scarab. Scarab-shaped amulets
+      symbolized the regeneration of life, referring to the god Khepri, the
+      form the sun god was said to take at dawn.
+glossary:
+  - term: maat
+    gloss: The fundamental order of the universe in Egyptian belief, established
+      at the creation of the world and marking it off from the chaos that
+      preceded and surrounds it.
+    from: The Egyptian word written m3ˁt, often rendered maat or ma'at, refers to
+      the fundamental order of the universe in Egyptian belief. Established at
+      the creation of the world, maat distinguishes the world from the chaos
+      that preceded and surrounds it.
+  - term: Nun
+    gloss: The god who personifies the infinite and chaotic primordial ocean that
+      preceded the creation of the ordered world.
+    from: In Egyptian belief, there already existed an infinite and chaotic
+      primordial ocean that preceded the creation of the ordered world. This
+      cosmic ocean was personified by the god Nun.
+  - term: Duat
+    gloss: A mysterious region bordering the formlessness of Nun, which Ra passes
+      into beyond the western horizon at night and emerges from at dawn.
+    from: At night Ra passes beyond the western horizon into the Duat, a
+      mysterious region that borders the formlessness of Nun. At dawn he
+      emerges from the Duat in the eastern horizon.
+  - term: akhet
+    gloss: The horizon, somewhere beyond the deserts, where two mountains in the
+      east and the west mark the places the sun enters and exits the Duat.
+    from: Somewhere beyond them is the horizon, the akhet. There, two mountains,
+      in the east and the west, mark the places where the sun enters and exits
+      the Duat.
+  - term: Ennead
+    gloss: A set of nine deities produced by Atum at the time of creation,
+      including Geb, Nut, and other key elements of the world.
+    from: At the time of creation he emerges to produce other gods, resulting in a
+      set of nine deities, the Ennead, which includes Geb, Nut, and other key
+      elements of the world.
+  - term: heka
+    gloss: "Magic: the force linking things in the divine realm to things in the
+      physical world, and so the creator's original concept to its physical
+      realization."
+    from: The force of heka, or magic, which links things in the divine realm and
+      things in the physical world, is the power that links the creator's
+      original concept with its physical realization.
+  - term: ba
+    gloss: The soul of a deceased human, which may travel during the day but must
+      return to its body each night.
+    from: Ra, endlessly moving, is like the ba, or soul, of a deceased human,
+      which may travel during the day but must return to its body each night.
+  - term: historiola
+    gloss: One of the elaborate new stories that, David Frankfurter argues,
+      private rituals created by adapting basic mythic traditions to fit a
+      specific ritual.
+    from: The Egyptologist David Frankfurter argues that these rituals adapt basic
+      mythic traditions to fit the specific ritual, creating elaborate new
+      stories (called historiolas) based on myth.
+further:
+  - slug: ancient-egyptian-creation-myths
+    why: The creation myths, in which the gods form the universe out of primordial
+      chaos, are among the most important episodes from the mythic past.
+  - slug: osiris
+    why: The collection of episodes surrounding Osiris' death and succession is
+      the most elaborate of all Egyptian myths, and had the most widespread
+      influence in Egyptian culture.
+  - slug: duat
+    why: Ra's daily journey through the world has an otherworldly counterpart in
+      the Duat, whose nature and location Egyptologists still disagree about.
+anchors:
+  hook: Few complete stories appear in Egyptian mythological sources. These
+    sources often contain nothing more than allusions to the events to which
+    they relate, and texts that contain actual narratives tell only portions
+    of a larger story. Thus, for any given myth the Egyptians may have had
+    only the general outlines of a story, from which fragments describing
+    particular incidents were drawn.
+  standfirst: Egyptian mythology is the collection of myths from ancient Egypt,
+    which describe the actions of the Egyptian gods as a means of
+    understanding the world around them. The beliefs that these myths express
+    are an important part of ancient Egyptian religion. Myths appear
+    frequently in Egyptian writings and art, particularly in short stories and
+    in religious material such as hymns, ritual texts, funerary texts, and
+    temple decoration. These sources rarely contain a complete account of a
+    myth and often describe only brief fragments.
+image: https://upload.wikimedia.org/wikipedia/commons/0/09/Nun_Raises_the_Sun.jpg
+images:
+  - file: Nun_Raises_the_Sun.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nun_Raises_the_Sun.jpg/330px-Nun_Raises_the_Sun.jpg
+    width: 1280
+    height: 1720
+    caption: Nun, the embodiment of the primordial waters, lifts the barque of the
+      sun god Ra into the sky at the moment of creation.
+  - file: Nut1.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nut1.JPG/250px-Nut1.JPG
+    width: 774
+    height: 537
+    caption: "The sky depicted as a cow goddess supported by other deities. This
+      image combines several coexisting visions of the sky: as a roof, as the
+      surface of a sea, as a cow, and as a goddess in human form."
+  - file: Flickr_-_Gaspa_-_Dendara,_tempio_di_Hator_(56).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flickr_-_Gaspa_-_Dendara%2C_tempio_di_Hator_%2856%29.jpg/250px-Flickr_-_Gaspa_-_Dendara%2C_tempio_di_Hator_%2856%29.jpg
+    width: 2048
+    height: 1361
+    caption: Temple decoration at Dendera, depicting the goddesses Isis and
+      Nephthys watching over the corpse of their brother Osiris
+  - file: Geb,_Nut,_Shu.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Geb%2C_Nut%2C_Shu.jpg/330px-Geb%2C_Nut%2C_Shu.jpg
+    width: 1691
+    height: 1140
+    caption: The air god Shu, assisted by other gods, holds up Nut, the sky, as
+      Geb, the earth, lies beneath.
+  - file: Sunrise_at_Creation.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sunrise_at_Creation.jpg/250px-Sunrise_at_Creation.jpg
+    width: 1840
+    height: 1232
+    caption: The sun rises over the circular mound of creation as goddesses pour
+      out the primeval waters around it
+  - file: Hermitage_Egyptian_statuettes.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hermitage_Egyptian_statuettes.jpg/250px-Hermitage_Egyptian_statuettes.jpg
+    width: 2720
+    height: 3400
+    caption: Statues of Osiris and of Isis nursing the infant Horus
+  - file: Ra_Barque.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ra_Barque.jpg/250px-Ra_Barque.jpg
+    width: 300
+    height: 152
+    caption: Ra on the solar barque, adorned with the sun-disk
+  - file: Book_of_Gates_Barque_of_Ra_cropped.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Book_of_Gates_Barque_of_Ra_cropped.jpg/330px-Book_of_Gates_Barque_of_Ra_cropped.jpg
+    width: 355
+    height: 215
+    caption: Ra (at center) travels through the sky in his barque, accompanied by
+      other gods
+  - file: Set_speared_Apep.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Set_speared_Apep.jpg/250px-Set_speared_Apep.jpg
+    width: 1280
+    height: 1260
+    caption: Mesektet Barque with Ra as Set (deity) spears Apophis in the
+      underworld (Egyptian Museum, Cairo)
+  - file: SethAndHorusAdoringRamsses_crop.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SethAndHorusAdoringRamsses_crop.jpg/250px-SethAndHorusAdoringRamsses_crop.jpg
+    width: 1549
+    height: 1666
+    caption: Set and Horus support the pharaoh. The reconciled rival gods often
+      stand for the unity of Egypt under the rule of its king.
+  - file: Hidden_treasures_19.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hidden_treasures_19.jpg/250px-Hidden_treasures_19.jpg
+    width: 667
+    height: 500
+    caption: Funerary amulet in the shape of a scarab
+sections:
+  - level: 2
+    id: origins
+    title: Origins
+  - level: 2
+    id: definition-and-scope
+    title: Definition and scope
+  - level: 2
+    id: content-and-meaning
+    title: Content and meaning
+  - level: 2
+    id: cosmology
+    title: Cosmology
+  - level: 3
+    id: maat-cosmic-order
+    title: Maat (cosmic order)
+  - level: 3
+    id: universe
+    title: Universe
+  - level: 3
+    id: firmament-and-course-of-the-sun
+    title: Firmament and course of the sun
+  - level: 3
+    id: cosmic-center
+    title: Cosmic center
+  - level: 3
+    id: foreign-nations
+    title: Foreign nations
+  - level: 3
+    id: time
+    title: Time
+  - level: 2
+    id: major-myths
+    title: Major myths
+  - level: 3
+    id: creation
+    title: Creation
+  - level: 3
+    id: the-reign-of-the-sun-god
+    title: The reign of the sun god
+  - level: 3
+    id: osiris-myth
+    title: Osiris myth
+  - level: 3
+    id: birth-of-the-royal-child
+    title: Birth of the royal child
+  - level: 3
+    id: the-journey-of-the-sun
+    title: The journey of the sun
+  - level: 3
+    id: end-of-the-universe
+    title: End of the universe
+  - level: 2
+    id: influence-in-egyptian-culture
+    title: Influence in Egyptian culture
+  - level: 3
+    id: in-religion
+    title: In religion
+  - level: 3
+    id: in-art
+    title: In art
+  - level: 3
+    id: in-literature
+    title: In literature
+wikidata:
+  id: Q205740
+  label: Egyptian mythology
+  description: myths of the Ancient Egyptians
+  claims:
+    commons-category: Egyptian mythology
+    topic-s-main-category: Category:Egyptian mythology
+    subclass-of: mythology
+    instance-of: mythology by ethnic group
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Great_Sphinx_of_Giza_May_2015.JPG
+    described-by-source: The Gods of the Egyptians
+    on-focus-list-of-wikimedia-project:
+      value: Wikipedia:Vital articles/Level/4
+      when: 2022-10-31
+    studied-by: Egyptology
+    ethnic-group: Ancient Egyptians
+    maintained-by-wikiproject:
+      - Wikiproject Egyptian religion
+      - WikiProject Ancient Egypt
+      - WikiProject Mythology
+      - WikiProject Egypt
+      - WikiProject Sudan
+link-titles:
+  akhet-hieroglyph-and-season: Akhet (hieroglyph and season)
+  amduat: Amduat
+  amenhotep-iii: Amenhotep III
+  amulet: Amulet
+  amun: Amun
+  anat: Anat
+  ancient-egypt: Ancient Egypt
+  ancient-egyptian-burial-customs: Ancient Egyptian burial customs
+  ancient-egyptian-creation-myths: Ancient Egyptian creation myths
+  ancient-egyptian-funerary-texts: Ancient Egyptian funerary texts
+  ancient-egyptian-literature: Ancient Egyptian literature
+  ancient-egyptian-religion: Ancient Egyptian religion
+  anhur: Anhur
+  anubis: Anubis
+  apep: Apep
+  apotropaic: Apotropaic
+  art-of-ancient-egypt: Art of ancient Egypt
+  atum: Atum
+  barque: Barque
+  book-of-caverns: Book of Caverns
+  book-of-gates: Book of Gates
+  cairo: Cairo
+  canaanite-religion: Canaanite religion
+  chaos-cosmogony: Chaos (cosmogony)
+  comparative-religion: Comparative religion
+  cult-religious-practice: Cult (religious practice)
+  dogma: Dogma
+  drama: Drama
+  duat: Duat
+  early-dynastic-period-of-egypt: Early Dynastic Period of Egypt
+  early-greek-cosmology: Early Greek cosmology
+  egyptian-museum: Egyptian Museum
+  egyptian-pantheon: Egyptian pantheon
+  egyptian-pyramids: Egyptian pyramids
+  egyptian-temple: Egyptian temple
+  egyptians: Egyptians
+  egyptologists: Egyptologists
+  ennead: Ennead
+  eschatology: Eschatology
+  eternal-return-eliade: Eternal return (Eliade)
+  eye-of-horus: Eye of Horus
+  eye-of-ra: Eye of Ra
+  famine: Famine
+  fifth-dynasty-of-egypt: Fifth Dynasty of Egypt
+  firmament: Firmament
+  flat-earth: Flat Earth
+  flooding-of-the-nile: Flooding of the Nile
+  geb: Geb
+  geography-of-egypt: Geography of Egypt
+  geraldine-pinch: Geraldine Pinch
+  golden-age: Golden age
+  greco-roman-world: Greco-Roman world
+  hathor: Hathor
+  hatshepsut: Hatshepsut
+  heka-god: Heka (god)
+  heliacal-rising: Heliacal rising
+  heliopolis-ancient-egypt: Heliopolis (Ancient Egypt)
+  henri-frankfort: Henri Frankfort
+  historiola: Historiola
+  horus: Horus
+  hymn: Hymn
+  isis: Isis
+  isis-the-rich-womans-son-and-the-fishermans-wifeactioneditredlink1: Isis, the Rich Woman's Son, and the Fisherman's Wife?action=edit&redlink=1
+  james-peter-allen: James Peter Allen
+  jan-assmann: Jan Assmann
+  john-baines-egyptologist: John Baines (Egyptologist)
+  joris-borghouts: Joris Borghouts
+  khepri: Khepri
+  khnum: Khnum
+  leonard-h.-lesko: Leonard H. Lesko
+  lower-egypt: Lower Egypt
+  maat: Maat
+  memphis-egypt: Memphis, Egypt
+  mesektet: Mesektet
+  myth: Myth
+  myth-and-ritual: Myth and ritual
+  narrative: Narrative
+  nephthys: Nephthys
+  new-kingdom-of-egypt: New Kingdom of Egypt
+  nile-delta: Nile Delta
+  nile-valley: Nile valley
+  nine-bows: Nine bows
+  nu-mythology: Nu (mythology)
+  nubia: Nubia
+  nut-goddess: Nut (goddess)
+  ogdoad-egyptian: Ogdoad (Egyptian)
+  old-kingdom: Old Kingdom
+  opening-of-the-mouth-ceremony: Opening of the mouth ceremony
+  origin-myths: Origin myths
+  osiris: Osiris
+  osiris-myth: Osiris myth
+  pharaoh: Pharaoh
+  predynastic-egypt: Predynastic Egypt
+  ptah: Ptah
+  ptolemaic-period: Ptolemaic Period
+  ra: Ra
+  ramesses-ii: Ramesses II
+  roman-egypt: Roman Egypt
+  scarab-artifact: Scarab (artifact)
+  scarabaeus-sacer: Scarabaeus sacer
+  sebayt: Sebayt
+  set-deity: Set (deity)
+  set-mythology: Set (mythology)
+  shu-egyptian-deity: Shu (Egyptian deity)
+  solar-barque: Solar barque
+  sothis-star: Sothis (star)
+  souls-of-nekhen-and-pe: Souls of Nekhen and Pe
+  syncretized: Syncretized
+  tale-of-the-shipwrecked-sailor: Tale of the Shipwrecked Sailor
+  tale-of-the-two-brothers: Tale of the Two Brothers
+  teaching-for-king-merykara: Teaching for King Merykara
+  the-blinding-of-truth-by-falsehood: The Blinding of Truth by Falsehood
+  the-book-of-the-heavenly-cow: The Book of the Heavenly Cow
+  the-contendings-of-horus-and-seth: The Contendings of Horus and Seth
+  theology: Theology
+  third-intermediate-period: Third Intermediate Period
+  thoth: Thoth
+  time: Time
+  ultimate-fate-of-the-universe: Ultimate fate of the universe
+  underworld: Underworld
+  upper-egypt: Upper Egypt
+  westcar-papyrus: Westcar Papyrus
+  yam-god: Yam (god)
+source:
+  site: Wikipedia
+  lang: en
+  title: Egyptian mythology
+  url: https://en.wikipedia.org/wiki/Egyptian_mythology
+  page-id: 21069417
+  revision: "1370206969"
+  modified: 2026-08-19T19:13:51Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Egyptian
+    mythology" (revision 1370206969), by Wikipedia contributors, used under CC
+    BY-SA 4.0.
+rewritten:
+  of: corpus/en/egyptian-mythology.mdy
+  source-revision: "1370206969"
+  model: claude-opus-5
+  left-out: The heading "Influence in Egyptian culture" has no prose of its own
+    in the source — the article goes straight from it to "In religion" — so
+    its body is empty rather than invented; the heading is kept because no
+    section may be dropped. The article's footnote numbering has gaps (nothing
+    between ^42 and ^52, and no ^80 between ^79 and ^81); I carried the
+    numbers exactly as they appear rather than renumbering. The image
+    Flickr_-_Gaspa_-_Dendara,_tempio_di_Hator_(56).jpg is listed in the front
+    matter but has no figure in the prose, so I placed it in "Osiris myth",
+    the section its front-matter caption describes. The Wikidata image claim
+    points at Great_Sphinx_of_Giza_May_2015.JPG, which is not among the
+    article's images and is not described anywhere in the prose, so it is not
+    in the image plan. Three figure captions carry the footnote references
+    they had in the source (^27, ^97, ^107); the other captions had none.
+    Caption wording is plain text rather than MDY, so the links that the
+    source's figcaptions carried (Ra, barque, Mesektet Barque, Set (deity),
+    Apophis, underworld, Egyptian Museum, Cairo, solar barque) appear as words
+    only. No ancient-source quotations exist in the article, so the
+    pull-quotes are the three modern scholarly quotations it contains.
+  verified: false
+  reviewed: false
++++
+!!Egyptian mythology!! is the collection of [[ myths | myth ]] from [[ ancient Egypt ]]: accounts of what the [[ Egyptian gods | egyptian-pantheon ]] did, told as a means of understanding the world around them. The beliefs these myths express are an important part of [[ ancient Egyptian religion ]]. They appear frequently in Egyptian [[ writings | ancient-egyptian-literature ]] and [[ art | art-of-ancient-egypt ]], particularly in short stories and in religious material such as [[ hymns | hymn ]], ritual texts, [[ funerary texts | ancient-egyptian-funerary-texts ]], and [[ temple | egyptian-temple ]] decoration. These sources rarely contain a complete account of a myth and often describe only brief fragments.
+
+Inspired by the cycles of nature, the [[ Egyptians ]] saw [[ time ]] in the present as a series of recurring patterns, whereas the earliest periods of time were linear. Myths are set in those earliest times, and myth sets the pattern for the cycles of the present. Present events repeat the events of myth, and in doing so renew //[[ maat ]]//, the fundamental order of the universe. Among the most important episodes from the mythic past are the [[ creation myths | ancient-egyptian-creation-myths ]], in which the gods form the universe out of primordial chaos; the stories of the reign of the sun god [[ Ra ]] upon the earth; and the [[ Osiris myth ]], concerning the struggles of the gods [[ Osiris ]], [[ Isis ]], and [[ Horus ]] against the disruptive god [[ Set | set-mythology ]]. Events from the present that might be regarded as myths include Ra's daily journey through the world and its otherworldly counterpart, the [[ Duat ]]. Recurring themes in these mythic episodes include the conflict between the upholders of //maat// and the forces of disorder, the importance of the [[ pharaoh ]] in maintaining //maat//, and the continual death and regeneration of the gods.
+
+The details of these sacred events differ greatly from one text to another and often seem contradictory. Egyptian myths are primarily metaphorical, translating the essence and behavior of deities into terms that humans can understand. Each variant of a myth represents a different symbolic perspective, enriching the Egyptians' understanding of the gods and the world.
+
+Mythology profoundly influenced Egyptian culture. It inspired or influenced many religious rituals and provided the ideological basis for kingship. Scenes and symbols from myth appeared in art in tombs, temples, and [[ amulets | amulet ]]. In literature, myths or elements of them were used in stories that range from humor to allegory, demonstrating that the Egyptians adapted mythology to serve a wide variety of purposes.
+
+== Origins
+
+The development of Egyptian myth is difficult to trace. [[ Egyptologists ]] must make inferences about its earliest phases, based on written sources that appeared much later.[[ ^1 ]] One obvious influence on myth is the [[ Egyptians' natural surroundings | geography-of-egypt#natural-regions ]]. Each day the sun rose and set, bringing light to the land and regulating human activity; each year the [[ Nile flooded | flooding-of-the-nile ]], renewing the fertility of the soil and allowing the highly productive farming that sustained Egyptian civilization. Water and the sun therefore became symbols of life, and time a series of natural cycles. This orderly pattern was at constant risk of disruption: unusually low floods resulted in [[ famine ]], and high floods destroyed crops and buildings.[[ ^2 ]] The hospitable [[ Nile valley ]] was surrounded by harsh desert, populated by peoples the Egyptians regarded as uncivilized enemies of order.[[ ^3 ]] For these reasons, the Egyptians saw their land as an isolated place of stability, or //[[ maat ]]//, surrounded and endangered by chaos. Order, chaos and renewal appear repeatedly in Egyptian religious thought.[[ ^4 ]]
+
+Another possible source for mythology is ritual. Many rituals make reference to myths and are sometimes based directly on them,[[ ^5 ]] but it is difficult to determine whether a culture's myths developed before rituals or vice versa.[[ ^6 ]] Questions about this [[ relationship between myth and ritual | myth-and-ritual ]] have spawned much discussion among Egyptologists and scholars of [[ comparative religion ]] in general. In ancient Egypt, the earliest evidence of religious practices predates written myths,[[ ^5 ]] and rituals early in Egyptian history included only a few motifs from myth. For these reasons, some scholars have argued that, in Egypt, rituals emerged before myths.[[ ^6 ]] But because the early evidence is so sparse, the question may never be resolved for certain.[[ ^5 ]]
+
+In private rituals, which are often called "magical", the myth and the ritual are particularly closely tied. Many of the myth-like stories that appear in the rituals' texts are not found in other sources; even the widespread motif of the goddess [[ Isis ]] rescuing her poisoned son [[ Horus ]] appears only in this type of text. The Egyptologist David Frankfurter argues that these rituals adapt basic mythic traditions to fit the specific ritual, creating elaborate new stories (called [[ historiolas | historiola ]]) based on myth.[[ ^7 ]] In contrast, [[ J. F. Borghouts | joris-borghouts ]] says of magical texts that there is "not a shred of evidence that a specific kind of 'unorthodox' mythology was coined\... for this genre."[[ ^8 ]]
+
+Much of Egyptian mythology consists of [[ origin myths ]], explaining the beginnings of various elements of the world, including human institutions and natural phenomena. Kingship arises among the gods at the beginning of time and later passed to the human [[ pharaohs | pharaoh ]]; warfare originates when humans begin fighting each other after the sun god's withdrawal into the sky.[[ ^9 ]] Myths also describe the supposed beginnings of less fundamental traditions. In a minor mythic episode, Horus becomes angry with his mother Isis and cuts off her head, and Isis replaces her lost head with that of a cow. This event explains why Isis was sometimes depicted with the horns of a cow as part of her headdress.[[ ^10 ]]
+
+Some myths may have been inspired by historical events. The unification of Egypt under the pharaohs, at the end of the [[ Predynastic Period | predynastic-egypt ]] around 3100 BC, made the king the focus of Egyptian religion, and thus the ideology of kingship became an important part of mythology.[[ ^11 ]] In the wake of unification, gods that were once local patron deities gained national importance, forming new relationships that linked the local deities into a unified national tradition; [[ Geraldine Pinch ]] suggests that early myths may have formed from these relationships.[[ ^12 ]] Egyptian sources link the mythical strife between the gods [[ Horus ]] and [[ Set | set-mythology ]] with a conflict between the regions of [[ Upper | upper-egypt ]] and [[ Lower Egypt ]], which may have happened in the late Predynastic era or in the [[ Early Dynastic Period | early-dynastic-period-of-egypt ]].[[ ^13 ]][[ ^1 ]]
+
+After these early times, most changes to mythology developed and adapted preexisting concepts rather than creating new ones, although there were exceptions.[[ ^14 ]] Many scholars have suggested that the myth of the sun god withdrawing into the sky, leaving humans to fight among themselves, was inspired by the breakdown of royal authority and national unity at the end of the [[ Old Kingdom ]] (c. 2686 BC – 2181 BC).[[ ^15 ]] In the [[ New Kingdom | new-kingdom-of-egypt ]] (c. 1550–1070 BC), minor myths developed around deities like [[ Yam | yam-god ]] and [[ Anat ]] who had been adopted from [[ Canaanite religion ]]. In contrast, during the [[ Greek | ptolemaic-period ]] and [[ Roman | roman-egypt ]] eras (332 BC–641 AD), [[ Greco-Roman | greco-roman-world ]] culture had little influence on Egyptian mythology.[[ ^16 ]]
+
+== Definition and scope
+
+Scholars have difficulty defining which ancient Egyptian beliefs are [[ myths | myth ]]. The basic definition of myth suggested by the Egyptologist [[ John Baines | john-baines-egyptologist ]] is "a sacred or culturally central [[ narrative ]]", and in Egypt the narratives that are central to culture and [[ religion | ancient-egyptian-religion ]] are almost entirely about events among the [[ gods | egyptian-pantheon ]].[[ ^17 ]] The difficulty is that actual narratives about the gods' actions are rare in Egyptian texts, particularly from early periods, and most references to such events are mere mentions or allusions.
+
+Some Egyptologists, like Baines, argue that narratives complete enough to be called "myths" existed in all periods, but that Egyptian tradition did not favor writing them down. Others, like [[ Jan Assmann ]], have said that true myths were rare in Egypt and may only have emerged partway through its history, developing out of the fragments of narration that appear in the earliest writings.[[ ^18 ]] Recently, however, Vincent Arieh Tobin[[ ^19 ]] and Susanne Bickel have suggested that lengthy narration was not needed in Egyptian mythology because of its complex and flexible nature.[[ ^20 ]] Tobin argues that narrative is even alien to myth, because narratives tend to form a simple and fixed perspective on the events they describe. If narration is not needed for myth, any statement that conveys an idea about the nature or actions of a god can be called "mythic".[[ ^19 ]]
+
+== Content and meaning
+
+Like myths in many other cultures, Egyptian myths serve to justify human traditions and to address fundamental questions about the world,[[ ^21 ]] such as the nature of disorder and the [[ ultimate fate of the universe ]].[[ ^20 ]] The Egyptians explained these profound issues through statements about the gods.[[ ^20 ]]
+
+Egyptian deities represent natural phenomena, from physical objects like the earth or the sun to abstract forces like knowledge and creativity. The actions and interactions of the gods, the Egyptians believed, govern the behavior of all of these forces and elements.[[ ^22 ]] For the most part, the Egyptians did not describe these mysterious processes in explicit [[ theological | theology ]] writings. Instead, the relationships and interactions of the gods illustrated such processes implicitly.[[ ^23 ]]
+
+Most of Egypt's gods, including many of the major ones, do not have significant roles in any mythic narratives,[[ ^24 ]] although their nature and relationships with other deities are often established in lists or bare statements without narration.[[ ^25 ]] For the gods who are deeply involved in narratives, mythic events are very important expressions of their roles in the cosmos. Therefore, if only narratives are myths, mythology is a major element in Egyptian religious understanding, but not as essential as it is in many other cultures.[[ ^26 ]]
+
+The true realm of the gods is mysterious and inaccessible to humans, and mythological stories use symbolism to make the events in this realm comprehensible.[[ ^28 ]] Not every detail of a mythic account has symbolic significance. Some images and incidents, even in religious texts, are meant simply as visual or dramatic embellishments of broader, more meaningful myths.[[ ^29 ]][[ ^30 ]]
+
+Few complete stories appear in Egyptian mythological sources. These sources often contain nothing more than allusions to the events to which they relate, and texts that contain actual narratives tell only portions of a larger story. Thus, for any given myth the Egyptians may have had only the general outlines of a story, from which fragments describing particular incidents were drawn.[[ ^24 ]] Moreover, the gods are not well-defined characters, and the motivations for their sometimes inconsistent actions are rarely given.[[ ^31 ]] Egyptian myths are not, therefore, fully developed tales. Their importance lay in their underlying meaning, not their characteristics as stories. Instead of coalescing into lengthy, fixed narratives, they remained highly flexible and non-[[ dogmatic | dogma ]].[[ ^28 ]]
+
+So flexible were Egyptian myths that they could seemingly conflict with each other. Many descriptions of the creation of the world and the movements of the sun occur in Egyptian texts, some very different from each other.[[ ^32 ]] The relationships between gods were fluid, so that, for instance, the goddess [[ Hathor ]] could be called the mother, wife, or daughter of the sun god [[ Ra ]].[[ ^33 ]] Separate deities could even be [[ syncretized ]], or linked, as a single being: thus the creator god [[ Atum ]] was combined with Ra to form Ra-Atum.[[ ^34 ]]
+
+One commonly suggested reason for inconsistencies in myth is that religious ideas differed over time and in different regions.[[ ^35 ]] The local [[ cults | cult-religious-practice ]] of various deities developed theologies centered on their own patron gods,[[ ^36 ]] and as the influence of different cults shifted, some mythological systems attained national dominance. In the [[ Old Kingdom ]] (c. 2686–2181 BC) the most important of these systems was the cults of Ra and Atum, centered at [[ Heliopolis | heliopolis-ancient-egypt ]]. They formed a mythical family, the [[ Ennead ]], that was said to have created the world; it included the most important deities of the time but gave primacy to Atum and Ra.[[ ^37 ]] The Egyptians also overlaid old religious ideas with new ones. The god [[ Ptah ]], for instance, whose cult was centered at [[ Memphis | memphis-egypt ]], was also said to be the creator of the world, and Ptah's creation myth incorporates older myths by saying that it is the Ennead who carry out Ptah's creative commands.[[ ^38 ]] Thus, the myth makes Ptah older and greater than the Ennead. Many scholars have seen this myth as a political attempt to assert the superiority of Memphis' god over those of Heliopolis.[[ ^39 ]] By combining concepts in this way, the Egyptians produced an immensely complicated set of deities and myths.[[ ^40 ]]
+
+Egyptologists in the early twentieth century thought that politically motivated changes like these were the principal reason for the contradictory imagery in Egyptian myth. However, in the 1940s, [[ Henri Frankfort ]], realizing the symbolic nature of Egyptian mythology, argued that apparently contradictory ideas are part of the "multiplicity of approaches" that the Egyptians used to understand the divine realm. Frankfort's arguments are the basis for much of the more recent analysis of Egyptian beliefs.[[ ^41 ]] Political changes affected Egyptian beliefs, but the ideas that emerged through those changes also have deeper meaning. Multiple versions of the same myth express different aspects of the same phenomenon; different gods that behave in a similar way reflect the close connections between natural forces. The varying symbols of Egyptian mythology express ideas too complex to be seen through a single lens.[[ ^28 ]]
+
+== Cosmology
+
+Egyptian cosmology is analogous to ancient near eastern cosmology, [[ early Greek cosmology ]], and other cosmological systems, which may be collectively labelled as adhering to a "cradle cosmology" model insofar as they share a cluster of common features: a flat earth surfaced by a solid [[ firmament ]], a primordial watery chaos, a cosmic center, a rotating sky above the earth, an Ocean located at and surrounding the edges of the earth.[[ ^52 ]]
+
+The study of Egyptian cosmology is, however, done within certain limitations. There are no systematic accounts of creation from ancient Egyptian literature, and so cosmological views are pieced together from a variety of brief references across different texts as well as some pictorial evidence.[[ ^53 ]] A second issue is that views of Egyptian cosmology evolved over the long span of Egypt's history, and different regions also had different cosmological systems: while there is always one self-generated creator god that emerges from the eternal watery darkness [[ Nun | nu-mythology ]], for example, the creator god in different times and places had been identified separately as [[ Ptah ]], [[ Ra ]], [[ Amun ]], [[ Atum ]], or [[ Khnum ]].[[ ^54 ]]
+
+== Maat (cosmic order)
+
+The Egyptian word written //m3ˁt,// often rendered //maat// or //ma'at,// refers to the fundamental order of the universe in Egyptian belief. Established at the creation of the world, //maat// distinguishes the world from the [[ chaos | chaos-cosmogony ]] that preceded and surrounds it. It encompasses both the proper behavior of humans and the normal functioning of the forces of nature, both of which make life and happiness possible. Because the actions of the gods govern natural forces and myths express those actions, Egyptian mythology represents the proper functioning of the world and the sustenance of life itself.[[ ^55 ]]
+
+To the Egyptians, the most important human maintainer of //maat// is the [[ pharaoh ]]. In myth the pharaoh is the son of a variety of deities. As such, he is their designated representative, obligated to maintain order in human society just as they do in nature, and to continue the rituals that sustain them and their activities.[[ ^56 ]]
+
+== Universe
+
+In Egyptian belief, there already existed an infinite and chaotic primordial ocean that preceded the creation of the ordered world. This cosmic ocean was personified by the god [[ Nun | nu-mythology ]]. The earth, personified by the god [[ Geb ]], is [[ flat | flat-earth ]] and is also covered by a flat sky/[[ firmament ]] (heaven) that arches over it and separates the earth from the surrounding cosmic ocean. Heaven, for the Egyptians, was usually represented by [[ Nut | nut-goddess ]], the goddess of the sky. Earth is also separated from the firmament by the atmosphere, personified as the god [[ Shu | shu-egyptian-deity ]].[[ ^57 ]][[ ^58 ]] The Egyptians therefore conceived of the inhabited world as a bubble of air, finite and dry, surrounded by a universal and infinite, dark, formless, and inert ocean.[[ ^59 ]]
+
+== Firmament and course of the sun
+
+The sun god [[ Ra ]] is said to travel through the sky, across the body of Nut, enlivening the world with his light. At night Ra passes beyond the western horizon into the [[ Duat ]], a mysterious region that borders the formlessness of Nun. At dawn he emerges from the Duat in the eastern horizon.[[ ^57 ]]
+
+The nature of the sky and the location of the Duat are uncertain, and Egyptian texts variously describe the nighttime sun as traveling beneath the earth and within the body of Nut. The Egyptologist [[ James P. Allen | james-peter-allen ]] believes that these explanations of the sun's movements are dissimilar but coexisting ideas. In Allen's view, Nut represents the visible surface of the waters of Nun, with the stars floating on this surface; the sun sails across the water in a circle, each night passing beyond the horizon to reach the skies that arch beneath the inverted land of the Duat.[[ ^60 ]] [[ Leonard H. Lesko ]], however, believes that the Egyptians saw the sky as a solid canopy and described the sun as traveling through the Duat above the surface of the sky, from west to east, during the night.[[ ^61 ]] Joanne Conman, modifying Lesko's model, argues that this solid sky is a moving, concave dome overarching a deeply convex earth. The sun and the stars move along with this dome, and their passage below the horizon is simply their movement over areas of the earth that the Egyptians could not see. These regions would then be the Duat.[[ ^62 ]]
+
+== Cosmic center
+
+The fertile lands of the Nile Valley ([[ Upper Egypt ]]) and [[ Delta | nile-delta ]] ([[ Lower Egypt ]]) lie at the center of the world in Egyptian cosmology. Outside them are the infertile deserts, which are associated with the chaos that lies beyond the world.[[ ^63 ]] Somewhere beyond them is the horizon, the //[[ akhet | akhet-hieroglyph-and-season ]]//. There, two mountains, in the east and the west, mark the places where the sun enters and exits the Duat.[[ ^64 ]]
+
+== Foreign nations
+
+Foreign nations are associated with the hostile deserts in Egyptian ideology. Foreign people, likewise, are generally lumped in with the "[[ nine bows ]]", people who threaten pharaonic rule and the stability of //maat//, although peoples allied with or subject to Egypt may be viewed more positively.[[ ^65 ]] For these reasons, events in Egyptian mythology rarely take place in foreign lands. While some stories pertain to the sky or the Duat, Egypt itself is usually the scene for the actions of the gods. Often, even the myths set in Egypt seem to take place on a plane of existence separate from that inhabited by living humans, although in other stories, humans and gods interact. In either case, the Egyptian gods are deeply tied to their home land.[[ ^63 ]]
+
+== Time
+
+The Egyptians' vision of time was influenced by their environment. Each day the sun rose and set, bringing light to the land and regulating human activity; each year the [[ Nile flooded | flooding-of-the-nile ]], renewing the fertility of the soil and allowing the highly productive agriculture that sustained Egyptian civilization. These periodic events inspired the Egyptians to see all of time as a series of recurring patterns regulated by //maat//, renewing the gods and the universe.[[ ^2 ]] Although the Egyptians recognized that different historical eras differ in their particulars, mythic patterns dominate the Egyptian perception of history.[[ ^66 ]]
+
+Many Egyptian stories about the gods are characterized as having taken place in a primeval time when the gods were manifest on the earth and ruled over it. After this time, the Egyptians believed, authority on earth passed to human pharaohs.[[ ^67 ]] This primeval era seems to predate the start of the sun's journey and the recurring patterns of the present world. At the other end of time is the end of the cycles and the dissolution of the world. Because these distant periods lend themselves to linear narrative better than the cycles of the present, [[ John Baines | john-baines-egyptologist ]] sees them as the only periods in which true myths take place.[[ ^68 ]] Yet, to some extent, the cyclical aspect of time was present in the mythic past as well. Egyptians saw even stories that were set in that time as being perpetually true, and the myths were made real every time the events to which they were related occurred. These events were celebrated with rituals, which often evoked myths.[[ ^69 ]] Ritual allowed time to [[ periodically return | eternal-return-eliade ]] to the mythic past and renew life in the universe.[[ ^70 ]]
+
+== Major myths
+
+Some of the most important categories of myths are described below. Because of the fragmentary nature of Egyptian myths, there is little indication in Egyptian sources of a chronological sequence of mythical events.[[ ^71 ]] Nevertheless, the categories are arranged in a very loose chronological order.
+
+== Creation
+
+Among the most important myths were those describing the creation of the world. The Egyptians developed many accounts of the creation, which differ greatly in the events they describe, and in particular the deities credited with creating the world vary in each account. This difference partly reflects the desire of Egypt's cities and priesthoods to exalt their own patron gods by attributing creation to them. Yet the differing accounts were not regarded as contradictory; instead, the Egyptians saw the creation process as having many aspects and involving many divine forces.[[ ^72 ]]
+
+One common feature of the myths is the emergence of the world from the waters of chaos that surround it. This event represents the establishment of //maat// and the origin of life. One fragmentary tradition centers on the eight gods of the [[ Ogdoad | ogdoad-egyptian ]], who represent the characteristics of the primeval water itself. Their actions give rise to the sun (represented in creation myths by various gods, especially Ra), whose birth forms a space of light and dryness within the dark water.[[ ^73 ]] The sun rises from the first mound of dry land, another common motif in the creation myths, which was likely inspired by the sight of mounds of earth emerging as the Nile flood receded. With the emergence of the sun god, the establisher of //maat//, the world has its first ruler.[[ ^74 ]] Accounts from the first millennium BC focus on the actions of the creator god in subduing the forces of chaos that threaten the newly ordered world.[[ ^14 ]]
+
+[[ Atum ]], a god closely connected with the sun and the primeval mound, is the focus of a creation myth dating back at least to the Old Kingdom. Atum, who incorporates all the elements of the world, exists within the waters as a potential being. At the time of creation he emerges to produce other gods, resulting in a set of nine deities, the [[ Ennead ]], which includes Geb, Nut, and other key elements of the world. The Ennead can by extension stand for all the gods, so its creation represents the differentiation of Atum's unified potential being into the multiplicity of elements present within the world.[[ ^75 ]]
+
+Over time, the Egyptians developed more abstract perspectives on the creation process. By the time of the //Coffin Texts//, they described the formation of the world as the realization of a concept first developed within the mind of the creator god. The force of //[[ heka | heka-god ]]//, or magic, which links things in the divine realm and things in the physical world, is the power that links the creator's original concept with its physical realization. //Heka// itself can be personified as a god, but this intellectual process of creation is not associated with that god alone. An inscription from the [[ Third Intermediate Period ]] (c. 1070–664 BC), whose text may be much older, describes the process in detail and attributes it to the god [[ Ptah ]], whose close association with craftsmen makes him a suitable deity to give a physical form to the original creative vision. Hymns from the New Kingdom describe the god [[ Amun ]], a mysterious power that lies behind even the other gods, as the ultimate source of this creative vision.[[ ^76 ]]
+
+The origin of humans is not a major feature of Egyptian creation stories. In some texts the first humans spring from tears that Ra-Atum or his feminine aspect, the [[ Eye of Ra ]], sheds in a moment of weakness and distress, foreshadowing humans' flawed nature and sorrowful lives. Others say humans are molded from clay by the god [[ Khnum ]]. But overall, the focus of the creation myths is the establishment of cosmic order rather than the special place of humans within it.[[ ^77 ]]
+
+== The reign of the sun god
+
+In the period of the mythic past after the creation, Ra dwells on earth as king of the gods and of humans. This period is the closest thing to a [[ golden age ]] in Egyptian tradition, the period of stability that the Egyptians constantly sought to evoke and imitate. Yet the stories about Ra's reign focus on conflicts between him and forces that disrupt his rule, reflecting the king's role in Egyptian ideology as enforcer of //maat//.[[ ^78 ]]
+
+In an episode known in different versions from temple texts, some of the gods defy Ra's authority, and he destroys them with the help and advice of other gods like [[ Thoth ]] and [[ Horus the Elder | horus#heru-ur-horus-the-elder ]].[[ ^79 ]][[ ^2 ]] At one point he faces dissent even from an extension of himself, the Eye of Ra, which can act independently of him in the form of a goddess. The Eye goddess becomes angry with Ra and runs away from him, wandering wild and dangerous in the lands outside Egypt, usually [[ Nubia ]]. Weakened by her absence, Ra sends one of the other gods—Shu, [[ Thoth ]], or [[ Anhur ]], in different accounts—to retrieve her, by force or persuasion. Because the Eye of Ra is associated with the star [[ Sothis | sothis-star ]], whose [[ heliacal rising ]] signaled the start of the Nile flood, the return of the Eye goddess to Egypt coincides with the life-giving inundation. Upon her return, the goddess becomes the consort of Ra or of the god who has retrieved her. Her pacification restores order and renews life.[[ ^81 ]]
+
+As Ra grows older and weaker, humanity, too, turns against him. In an episode often called "The Destruction of Mankind", related in //[[ The Book of the Heavenly Cow ]]//, Ra discovers that humanity is plotting rebellion against him and sends his Eye to punish them. She slays many people, but Ra apparently decides that he does not want her to destroy all of humanity. He has beer dyed red to resemble blood and spreads it over the field; the Eye goddess drinks the beer, becomes drunk, and ceases her rampage. Ra then withdraws into the sky, weary of ruling on earth, and begins his daily journey through the heavens and the Duat. The surviving humans are dismayed, and they attack the people among them who plotted against Ra. This event is the origin of warfare, death, and humans' constant struggle to protect //maat// from the destructive actions of other people.[[ ^82 ]]
+
+In //The Book of the Heavenly Cow//, the results of the destruction of mankind seem to mark the end of the direct reign of the gods and of the linear time of myth. The beginning of Ra's journey is the beginning of the cyclical time of the present.[[ ^68 ]] Yet in other sources, mythic time continues after this change. Egyptian accounts give sequences of divine rulers who take the place of the sun god as king on earth, each reigning for many thousands of years.[[ ^83 ]] Although accounts differ as to which gods reigned and in what order, the succession from Ra-Atum to his descendants Shu and Geb—in which the kingship passes to the male in each generation of the Ennead—is common. Both of them face revolts that parallel those in the reign of the sun god, but the revolt that receives the most attention in Egyptian sources is the one in the reign of Geb's heir [[ Osiris ]].[[ ^84 ]]
+
+== Osiris myth
+
+The collection of episodes surrounding [[ Osiris ]]' death and succession is the most elaborate of all Egyptian myths, and it had the most widespread influence in Egyptian culture.[[ ^85 ]] In the first portion of the myth, Osiris, who is associated with both fertility and kingship, is killed and his position usurped by his brother [[ Set | set-mythology ]]. In some versions of the myth, Osiris is actually dismembered and the pieces of his corpse scattered across Egypt. Osiris' sister and wife, [[ Isis ]], finds her husband's body and restores it to wholeness.[[ ^86 ]] She is assisted by funerary deities such as [[ Nephthys ]] and [[ Anubis ]], and the process of Osiris' restoration reflects Egyptian [[ traditions of embalming and burial | ancient-egyptian-burial-customs ]]. Isis then briefly revives Osiris to conceive an heir with him: the god [[ Horus ]].[[ ^87 ]]
+
+The next portion of the myth concerns Horus' birth and childhood. Isis gives birth to and raises her son in secluded places, hidden from the menace of Set. The episodes in this phase of the myth concern Isis' efforts to protect her son from Set or other hostile beings, or to heal him from sickness or injury. In these episodes Isis is the epitome of maternal devotion and a powerful practitioner of healing magic.[[ ^88 ]]
+
+In the third phase of the story, Horus competes with Set for the kingship. Their struggle encompasses a great number of separate episodes and ranges in character from violent conflict to a legal judgment by the assembled gods.[[ ^89 ]] In one important episode, Set tears out one or both of Horus' eyes, which are later restored by the healing efforts of Thoth or Hathor. For this reason, the [[ Eye of Horus ]] is a prominent symbol of life and well-being in Egyptian iconography. Because Horus is a sky god, with one eye equated with the sun and the other with the moon, the destruction and restoration of the single eye explains why the moon is less bright than the sun.[[ ^90 ]]
+
+Texts present two different resolutions for the divine contest: one in which Egypt is divided between the two claimants, and another in which Horus becomes sole ruler. In the latter version, the ascension of Horus, Osiris' rightful heir, symbolizes the reestablishment of //maat// after the unrighteous rule of Set. With order restored, Horus can perform the funerary rites for his father that are his duty as son and heir. Through this service Osiris is given new life in the Duat, whose ruler he becomes. The relationship between Osiris as king of the dead and Horus as king of the living stands for the relationship between every king and his deceased predecessors. Osiris, meanwhile, represents the regeneration of life: on earth he is credited with the annual growth of crops, and in the Duat he is involved in the rebirth of the sun and of deceased human souls.[[ ^91 ]]
+
+Although Horus to some extent represents any living pharaoh, he is not the end of the lineage of ruling gods. He is succeeded first by gods and then by spirits that represent dim memories of Egypt's Predynastic rulers, the [[ souls of Nekhen and Pe ]]. They link the entirely mythical rulers to the final part of the sequence, the lineage of Egypt's historical kings.[[ ^67 ]]
+
+== Birth of the royal child
+
+Several disparate Egyptian texts address a similar theme: the birth of a divinely fathered child who is heir to the kingship. The earliest known appearance of such a story does not appear to be a myth but an entertaining folktale, found in the Middle Kingdom [[ Westcar Papyrus ]], about the birth of the first three kings of Egypt's [[ Fifth Dynasty | fifth-dynasty-of-egypt ]]; in that story, the three kings are the offspring of Ra and a human woman. The same theme appears in a firmly religious context in the New Kingdom, when the rulers [[ Hatshepsut ]], [[ Amenhotep III ]], and [[ Ramesses II ]] depicted in temple reliefs their own conception and birth, in which the god [[ Amun ]] is the father and the historical queen the mother. By stating that the king originated among the gods and was deliberately created by the most important god of the period, the story gives a mythical background to the king's coronation, which appears alongside the birth story. The divine connection legitimizes the king's rule and provides a rationale for his role as intercessor between gods and humans.[[ ^92 ]]
+
+Similar scenes appear in many post-New Kingdom temples, but this time the events they depict involve the gods alone. In this period, most temples were dedicated to a mythical family of deities, usually a father, mother, and son, and in these versions of the story the birth is that of the son in each triad.[[ ^93 ]] Each of these child gods is the heir to the throne, who will restore stability to the country. This shift in focus from the human king to the gods who are associated with him reflects a decline in the status of the pharaoh in the late stages of Egyptian history.[[ ^92 ]]
+
+== The journey of the sun
+
+[[ Ra ]]'s movements through the sky and the Duat are not fully narrated in Egyptian sources,[[ ^94 ]] although funerary texts like the //[[ Amduat ]]//, //[[ Book of Gates ]]//, and //[[ Book of Caverns ]]// relate the nighttime half of the journey in sequences of vignettes.[[ ^95 ]] This journey is key to Ra's nature and to the sustenance of all life.[[ ^30 ]]
+
+In traveling across the sky, Ra brings light to the earth, sustaining all things that live there. He reaches the peak of his strength at noon and then ages and weakens as he moves toward sunset. In the evening, Ra takes the form of Atum, the creator god, oldest of all things in the world. According to early Egyptian texts, at the end of the day he spits out all the other deities, whom he devoured at sunrise. Here they represent the stars, and the story explains why the stars are visible at night and seemingly absent during the day.[[ ^96 ]]
+
+At sunset Ra passes through the //akhet//, the horizon, in the west. At times the horizon is described as a gate or door that leads to the Duat. At others, the sky goddess Nut is said to swallow the sun god, so that his journey through the Duat is likened to a journey through her body.[[ ^98 ]] In funerary texts, the Duat and the deities in it are portrayed in elaborate, detailed, and widely varying imagery. These images are symbolic of the awesome and enigmatic nature of the Duat, where both the gods and the dead are renewed by contact with the original powers of creation. Indeed, although Egyptian texts avoid saying it explicitly, Ra's entry into the Duat is seen as his death.[[ ^99 ]]
+
+Certain themes appear repeatedly in depictions of the journey. Ra overcomes numerous obstacles in his course, representative of the effort necessary to maintain //maat//. The greatest challenge is the opposition of [[ Apep ]], a serpent god who represents the destructive aspect of disorder, and who threatens to destroy the sun god and plunge creation into chaos.[[ ^100 ]] In many of the texts, Ra overcomes these obstacles with the assistance of other deities who travel with him; they stand for various powers that are necessary to uphold Ra's authority.[[ ^101 ]] In his passage Ra also brings light to the Duat, enlivening the blessed dead who dwell there. In contrast, his enemies—people who have undermined //maat//—are tormented and thrown into dark pits or lakes of fire.[[ ^102 ]]
+
+The key event in the journey is the meeting of Ra and Osiris. In the New Kingdom, this event developed into a complex symbol of the Egyptian conception of life and time. Osiris, relegated to the Duat, is like a mummified body within its tomb. Ra, endlessly moving, is like the //ba//, or soul, of a deceased human, which may travel during the day but must return to its body each night. When Ra and Osiris meet, they merge into a single being. Their pairing reflects the Egyptian vision of time as a continuous repeating pattern, with one member (Osiris) being always static and the other (Ra) living in a constant cycle. Once he has united with Osiris' regenerative power, Ra continues on his journey with renewed vitality.[[ ^70 ]] This renewal makes possible Ra's emergence at dawn, which is seen as the rebirth of the sun—expressed by a metaphor in which Nut gives birth to Ra after she has swallowed him—and the repetition of the first sunrise at the moment of creation. At this moment, the rising sun god swallows the stars once more, absorbing their power.[[ ^96 ]] In this revitalized state, Ra is depicted as a child or as the [[ scarab beetle | scarabaeus-sacer ]] god [[ Khepri ]], both of which represent rebirth in Egyptian iconography.[[ ^103 ]]
+
+== End of the universe
+
+Egyptian texts typically treat the dissolution of the world as a possibility to be avoided, and for that reason they do not often describe it in detail. However, many texts allude to the idea that the world, after countless cycles of renewal, is destined to end. This end is described in a passage in the //Coffin Texts// and a more explicit one in the //Book of the Dead//, in which Atum says that he will one day dissolve the ordered world and return to his primeval, inert state within the waters of chaos. All things other than the creator will cease to exist, except Osiris, who will survive along with him.[[ ^104 ]] Details about this [[ eschatological | eschatology ]] prospect are left unclear, including the fate of the dead who are associated with Osiris.[[ ^105 ]] Yet with the creator god and the god of renewal together in the waters that gave rise to the orderly world, there is the potential for a new creation to arise in the same manner as the old.[[ ^106 ]]
+
+== Influence in Egyptian culture
+
+
+
+== In religion
+
+Because the Egyptians rarely described theological ideas explicitly, the implicit ideas of mythology formed much of the basis for Egyptian religion. The purpose of Egyptian religion was the maintenance of //maat//, and the concepts that myths express were believed to be essential to //maat//. The rituals of Egyptian religion were meant to make the mythic events, and the concepts they represented, real once more, thereby renewing //maat//.[[ ^69 ]] They were believed to achieve this effect through the force of //heka//, the same connection between the physical and divine realms that enabled the original creation.[[ ^108 ]]
+
+For this reason, Egyptian rituals often included actions that symbolized mythical events.[[ ^69 ]] Temple rites included the destruction of models representing malign gods like Set or Apophis, private magical spells called upon Isis to heal the sick as she did for Horus,[[ ^109 ]] and funerary rites such as the [[ Opening of the mouth ceremony ]][[ ^110 ]] and ritual offerings to the dead evoked the myth of Osiris' resurrection.[[ ^111 ]] Yet rituals rarely, if ever, involved [[ dramatic | drama ]] reenactments of myths. There are borderline cases, like a ceremony alluding to the Osiris myth in which two women took on the roles of Isis and Nephthys, but scholars disagree about whether these performances formed sequences of events.[[ ^112 ]] Much of Egyptian ritual was focused on more basic activities like giving offerings to the gods, with mythic themes serving as ideological background rather than as the focus of a rite.[[ ^113 ]] Nevertheless, myth and ritual strongly influenced each other. Myths could inspire rituals, like the ceremony with Isis and Nephthys; and rituals that did not originally have a mythic meaning could be reinterpreted as having one, as in the case of offering ceremonies, in which food and other items given to the gods or the dead were equated with the Eye of Horus.[[ ^114 ]]
+
+Kingship was a key element of Egyptian religion, through the king's role as link between humanity and the gods, and myths explain the background for this connection between royalty and divinity. The myths about the Ennead establish the king as heir to the lineage of rulers reaching back to the creator; the myth of divine birth states that the king is the son and heir of a god; and the myths about Osiris and Horus emphasize that rightful succession to the throne is essential to the maintenance of //maat//. Thus, mythology provided the rationale for the very nature of Egyptian government.[[ ^115 ]]
+
+== In art
+
+Illustrations of gods and mythical events appear extensively alongside religious writing in tombs, temples, and funerary texts.[[ ^42 ]] Mythological scenes in Egyptian artwork are rarely placed in sequence as a narrative, but individual scenes, particularly depicting the resurrection of Osiris, do sometimes appear in religious artwork.[[ ^116 ]]
+
+Allusions to myth were very widespread in Egyptian art and architecture. In temple design, the central path of the temple axis was likened to the sun god's path across the sky, and the sanctuary at the end of the path represented the place of creation from which he rose; temple decoration was filled with solar emblems that underscored this relationship. Similarly, the corridors of tombs were linked with the god's journey through the Duat, and the burial chamber with the tomb of Osiris.[[ ^117 ]] The [[ pyramid | egyptian-pyramids ]], the best-known of all Egyptian architectural forms, may have been inspired by mythic symbolism, for it represented the mound of creation and the original sunrise, appropriate for a monument intended to assure the owner's rebirth after death.[[ ^118 ]] Symbols in Egyptian tradition were frequently reinterpreted, so that the meanings of mythical symbols could change and multiply over time like the myths themselves.[[ ^119 ]]
+
+More ordinary works of art were also designed to evoke mythic themes, like the [[ amulets | amulet ]] that Egyptians commonly wore to invoke divine powers. The [[ Eye of Horus ]], for instance, was a very common shape for [[ protective | apotropaic ]] amulets because it represented Horus' well-being after the restoration of his lost eye.[[ ^120 ]] [[ Scarab-shaped amulets | scarab-artifact ]] symbolized the regeneration of life, referring to the god [[ Khepri ]], the form that the sun god was said to take at dawn.[[ ^121 ]]
+
+== In literature
+
+Themes and motifs from mythology appear frequently in Egyptian literature, even outside of religious writings. An early [[ instruction text | sebayt ]], the "[[ Teaching for King Merykara ]]" from the Middle Kingdom, contains a brief reference to a myth of some kind, possibly the Destruction of Mankind; the earliest known Egyptian short story, "[[ Tale of the Shipwrecked Sailor ]]", incorporates ideas about the gods and the eventual dissolution of the world into a story set in the past. Some later stories take much of their plot from mythical events: "[[ Tale of the Two Brothers ]]" adapts parts of the Osiris myth into a fantastic story about ordinary people, and "[[ The Blinding of Truth by Falsehood ]]" transforms the conflict between Horus and Set into an allegory.[[ ^122 ]]
+
+A fragment of a text about the actions of Horus and Set dates to the Middle Kingdom, suggesting that stories about the gods arose in that era. Several texts of this type are known from the New Kingdom, and many more were written in the Late and Greco-Roman periods. Although these texts are more clearly derived from myth than those mentioned above, they still adapt the myths for non-religious purposes. "[[ The Contendings of Horus and Seth ]]", from the New Kingdom, tells the story of the conflict between the two gods, often with a humorous and seemingly irreverent tone. The Roman-era "Myth of the Eye of the Sun" incorporates fables into a framing story taken from myth. The goals of written fiction could also affect the narratives in magical texts, as with the New Kingdom story "Isis, the Rich Woman's Son, and the Fisherman's Wife", which conveys a moral message unconnected to its magical purpose. The variety of ways that these stories treat mythology demonstrates the wide range of purposes that myth could serve in Egyptian culture.[[ ^123 ]]
+
+[[ ^1 ]]: Anthes 1961, pp. 29–30.
+
+[[ ^2 ]]: David 2002, pp. 1–2.
+
+[[ ^3 ]]: O'Connor 2003, pp. 155, 178–179.
+
+[[ ^4 ]]: Tobin 1989, pp. 10–11.
+
+[[ ^5 ]]: Morenz 1973, pp. 81–84.
+
+[[ ^6 ]]: Baines 1991, p. 83.
+
+[[ ^7 ]]: Frankfurter 1995, pp. 472–474.
+
+[[ ^8 ]]: Pinch 2002, p. 17.
+
+[[ ^9 ]]: Assmann 2001, pp. 113, 115, 119–122.
+
+[[ ^10 ]]: Griffiths 2001, pp. 188–190.
+
+[[ ^11 ]]: Anthes 1961, pp. 33–36.
+
+[[ ^12 ]]: Pinch 2002, pp. 6–7.
+
+[[ ^13 ]]: Meltzer 2001, pp. 119–122.
+
+[[ ^1 ]]: Horus and Set, portrayed together, often stand for the pairing of Upper and Lower Egypt, although either god can stand for either region. Both of them were patrons of cities in both halves of the country. The conflict between the two deities may allude to the presumed conflict that preceded the unification of Upper and Lower Egypt at the start of Egyptian history, or it may be tied to an apparent conflict between worshippers of Horus and Set near the end of the [[ Second Dynasty | second-dynasty-of-egypt ]].
+
+[[ ^14 ]]: Bickel 2004, p. 580.
+
+[[ ^15 ]]: Assmann 2001, p. 116.
+
+[[ ^16 ]]: Meeks & Favard-Meeks 1996, pp. 49–51.
+
+[[ ^17 ]]: Baines 1996, p. 361.
+
+[[ ^18 ]]: Baines 1991, pp. 81–85, 104.
+
+[[ ^19 ]]: Tobin 2001, pp. 464–468.
+
+[[ ^20 ]]: Bickel 2004, p. 578.
+
+[[ ^21 ]]: Pinch 2002, pp. 1–2.
+
+[[ ^22 ]]: Assmann 2001, pp. 80–81.
+
+[[ ^23 ]]: Assmann 2001, pp. 107–112.
+
+[[ ^24 ]]: Tobin 1989, pp. 38–39.
+
+[[ ^25 ]]: Baines 1991, pp. 100–104.
+
+[[ ^26 ]]: Baines 1991, pp. 104–105.
+
+[[ ^27 ]]: Anthes 1961, pp. 18–20.
+
+[[ ^28 ]]: Tobin 1989, pp. 18, 23–26.
+
+[[ ^29 ]]: Assmann 2001, p. 117.
+
+[[ ^30 ]]: Tobin 1989, pp. 48–49.
+
+[[ ^31 ]]: Assmann 2001, p. 112.
+
+[[ ^32 ]]: Hornung 1992, pp. 41–45, 96.
+
+[[ ^33 ]]: Vischak 2001, pp. 82–85.
+
+[[ ^34 ]]: Anthes 1961, pp. 24–25.
+
+[[ ^35 ]]: Allen 1988, pp. 62–63.
+
+[[ ^36 ]]: Traunecker 2001, pp. 101–103.
+
+[[ ^37 ]]: David 2002, pp. 28, 84–85.
+
+[[ ^38 ]]: Anthes 1961, pp. 62–63.
+
+[[ ^39 ]]: Allen 1988, pp. 45–46.
+
+[[ ^40 ]]: Tobin 1989, pp. 16–17.
+
+[[ ^41 ]]: Traunecker 2001, pp. 10–11.
+
+[[ ^52 ]]: Keyser 2020, p. 18–19.
+
+[[ ^53 ]]: Chambers 2021, p. 19.
+
+[[ ^54 ]]: Chambers 2021, p. 20.
+
+[[ ^55 ]]: Tobin 1989, pp. 79–82, 197–199.
+
+[[ ^56 ]]: Pinch 2002, p. 156.
+
+[[ ^57 ]]: Allen 1988, pp. 3–7.
+
+[[ ^58 ]]: Keyser 2020, p. 7–9.
+
+[[ ^59 ]]: Allen 2014.
+
+[[ ^60 ]]: Allen 2003, pp. 25–29.
+
+[[ ^61 ]]: Lesko 1991, pp. 117–120.
+
+[[ ^62 ]]: Conman 2003, pp. 33–37.
+
+[[ ^63 ]]: Meeks & Favard-Meeks 1996, pp. 82–88, 91.
+
+[[ ^64 ]]: Lurker 1980, pp. 64–65, 82.
+
+[[ ^65 ]]: O'Connor 2003, pp. 155–156, 169–171.
+
+[[ ^66 ]]: Hornung 1992, pp. 151–154.
+
+[[ ^67 ]]: Pinch 2002, p. 85.
+
+[[ ^68 ]]: Baines 1996, pp. 364–365.
+
+[[ ^69 ]]: Tobin 1989, pp. 27–31.
+
+[[ ^70 ]]: Assmann 2001, pp. 77–80.
+
+[[ ^71 ]]: Pinch 2002, p. 57.
+
+[[ ^72 ]]: David 2002, pp. 81, 89.
+
+[[ ^73 ]]: Dunand & Zivie-Coche 2004, pp. 45–50.
+
+[[ ^74 ]]: Meeks & Favard-Meeks 1996, pp. 19–21.
+
+[[ ^75 ]]: Allen 1988, pp. 8–11.
+
+[[ ^76 ]]: Allen 1988, pp. 36–42, 60.
+
+[[ ^77 ]]: Pinch 2002, pp. 66–68.
+
+[[ ^78 ]]: Pinch 2002, p. 69.
+
+[[ ^79 ]]: Meeks & Favard-Meeks 1996, pp. 22–25.
+
+[[ ^2 ]]: Horus the Elder is often treated as a separate deity from Horus, the child born to Isis.
+
+[[ ^81 ]]: Pinch 2002, pp. 71–74.
+
+[[ ^82 ]]: Assmann 2001, pp. 113–116.
+
+[[ ^83 ]]: Uphill 2003, pp. 17–26.
+
+[[ ^84 ]]: Pinch 2002, pp. 76–78.
+
+[[ ^85 ]]: Assmann 2001, p. 124.
+
+[[ ^86 ]]: Hart 1990, pp. 30–33.
+
+[[ ^87 ]]: Pinch 2002, pp. 79–80.
+
+[[ ^88 ]]: Assmann 2001, pp. 131–134.
+
+[[ ^89 ]]: Hart 1990, pp. 36–38.
+
+[[ ^90 ]]: Kaper 2001, pp. 480–482.
+
+[[ ^91 ]]: Assmann 2001, pp. 129, 141–145.
+
+[[ ^92 ]]: Assmann 2001, pp. 116–119.
+
+[[ ^93 ]]: Feucht 2001, p. 193.
+
+[[ ^94 ]]: Baines 1996, p. 364.
+
+[[ ^95 ]]: Hornung 1992, p. 96.
+
+[[ ^96 ]]: Pinch 2002, pp. 91–92.
+
+[[ ^97 ]]: Pinch 2002, pp. 183–184.
+
+[[ ^98 ]]: Hornung 1992, pp. 96–97, 113.
+
+[[ ^99 ]]: Tobin 1989, pp. 49, 136–138.
+
+[[ ^100 ]]: Hart 1990, pp. 52–54.
+
+[[ ^101 ]]: Quirke 2001, pp. 45–46.
+
+[[ ^102 ]]: Hornung 1992, pp. 95, 99–101.
+
+[[ ^103 ]]: Hart 1990, pp. 57, 61.
+
+[[ ^104 ]]: Hornung 1982, pp. 162–165.
+
+[[ ^105 ]]: Dunand & Zivie-Coche 2004, pp. 67–68.
+
+[[ ^106 ]]: Meeks & Favard-Meeks 1996, pp. 18–19.
+
+[[ ^107 ]]: te Velde 2001, pp. 269–270.
+
+[[ ^108 ]]: Ritner 1993, pp. 246–249.
+
+[[ ^109 ]]: Ritner 1993, p. 150.
+
+[[ ^110 ]]: Roth 2001, pp. 605–608.
+
+[[ ^111 ]]: Assmann 2001, pp. 49–51.
+
+[[ ^112 ]]: O'Rourke 2001, pp. 407–409.
+
+[[ ^113 ]]: Baines 1991, p. 101.
+
+[[ ^114 ]]: Morenz 1973, p. 84.
+
+[[ ^115 ]]: Tobin 1989, pp. 90–95.
+
+[[ ^42 ]]: Traunecker 2001, pp. 1–5.
+
+[[ ^116 ]]: Baines 1991, p. 103.
+
+[[ ^117 ]]: Wilkinson 1993, pp. 27–29, 69–70.
+
+[[ ^118 ]]: Quirke 2001, p. 115.
+
+[[ ^119 ]]: Wilkinson 1993, pp. 11–12.
+
+[[ ^120 ]]: Andrews 2001, pp. 75–82.
+
+[[ ^121 ]]: Lurker 1980, pp. 74, 104–105.
+
+[[ ^122 ]]: Baines 1996, pp. 367–369, 373–374.
+
+[[ ^123 ]]: Baines 1996, pp. 366, 371–373, 377.
