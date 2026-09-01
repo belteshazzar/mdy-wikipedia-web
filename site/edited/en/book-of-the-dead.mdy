@@ -1,0 +1,715 @@
++++
+title: Book of the Dead
+description: Ancient Egyptian funerary text
+key-facts:
+  - name: What it is
+    value: An ancient Egyptian funerary text, generally written on papyrus
+  - name: In use
+    value: From the beginning of the New Kingdom (around 1550 BC) to around 50 BC
+  - name: Egyptian name
+    value: rw nw prt m hrw, translated as Spells of Coming Forth by Day
+  - name: Spells known
+    value: Some 192, though no single manuscript contains them all
+  - name: Price
+    value: One deben of silver, perhaps half the annual pay of a laborer
+  - name: Length
+    value: The longest is 40 m long while some are as short as 1 m
+image-plan:
+  - file: El_pesado_del_corazón_en_el_Papiro_de_Hunefer.jpg
+    role: hero
+    section: lead
+    caption: The scribe Hunefer's heart is weighed on the scale of Maat against
+      the feather of truth by the jackal-headed Anubis, while the ibis-headed
+      Thoth records the result. If the heart equals exactly the weight of the
+      feather, Hunefer passes into the afterlife; if not, the waiting Ammit –
+      crocodile, lion and hippopotamus – eats it. From the Papyrus of Hunefer,
+      c. 1275 BC.
+  - file: Hieroglyph_Text_from_Teti_I_pyramid.jpg
+    role: inline
+    section: development
+    caption: Part of the Pyramid Texts, a precursor of the Book of the Dead,
+      inscribed on the tomb of Teti.
+  - file: Medjed_Cairo_95658.png
+    role: inline
+    section: development
+    caption: "Deities with varying animal heads, Medjed on the far left: a
+      vignette from the papyrus for Ankhefenkhonsu."
+  - file: Bookofthedeadspell17.jpg
+    role: inline
+    section: spells
+    caption: The mystical Spell 17, from the Papyrus of Ani. Left to right, the
+      vignette shows the god Nu as the primordial ocean; a gateway to the
+      realm of Osiris; the Eye of Horus; the celestial cow Mehet-Weret; and a
+      human head rising from a coffin, guarded by the four Sons of Horus.
+  - file: BOTDSpell7980.jpg
+    role: inline
+    section: spells
+    caption: Spell 79 attaches the soul to the body and Spell 80 prevents
+      incoherent speech, here painted on a coffin fragment of c. 747–656 BC.
+  - file: Egypt_dauingevekten.jpg
+    role: inline
+    section: egyptian-concepts-of-death-and-afterlife
+    caption: A vignette in the Papyrus of Ani from Spell 30B, Spell For Not
+      Letting Ani's Heart Create Opposition Against Him, in the Gods' Domain,
+      containing a depiction of the ba of the deceased.
+  - file: Libro_dei_morti_di_Kha_AFP_0310.tif
+    role: inline
+    section: afterlife
+    caption: The Book of the Dead of Kha, Papyrus Turin 1791, from the tomb TT8 of
+      Kha and Merit. Top left is the Ba bird, the soul of the deceased Kha.
+      Museo Egizio, Turin.
+  - file: Bookofthedead-144145.jpg
+    role: full
+    section: afterlife
+    caption: Two 'gate spells'. On the top register Ani and his wife face the
+      'seven gates of the House of Osiris'; below, they meet ten of the 21
+      'mysterious portals of the House of Osiris in the Field of Reeds'. All
+      are guarded by unpleasant protectors.
+  - file: Ani_chap125.jpg
+    role: inline
+    section: judgment
+    caption: Some of the 42 Judges of Maat, seated and drawn small, in the Papyrus
+      of Ani. The deceased had to address each of them by name.
+  - file: The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
+    role: drop
+    section: judgment
+    caption: The Weighing of the Heart in the Papyrus of Hunefer (19th Dynasty, c.
+      1300 BC). Dropped as the same scene as the opening image.
+  - file: PinedjemIIBookOfTheDead-BritishMuseum-August21-08.jpg
+    role: inline
+    section: producing-a-book-of-the-dead
+    caption: Part of the Book of the Dead of Pinedjem II. The text is hieratic,
+      except for hieroglyphics in the vignette; the red pigment and the joins
+      between papyrus sheets are both visible.
+  - file: Book_of_the_Dead_of_the_Goldworker_of_Amun,_Sobekmose,_Mummy_Chamber,_31.1777e.jpg
+    role: inline
+    section: producing-a-book-of-the-dead
+    caption: The Book of the Dead of Sobekmose, the Goldworker of Amun – an owner
+      from outside the royal family. Brooklyn Museum, 31.1777e.
+  - file: Papyrus_Ani_curs_hiero.jpg
+    role: inline
+    section: producing-a-book-of-the-dead
+    caption: A close-up of the Papyrus of Ani, showing the cursive hieroglyphs of
+      the text.
+  - file: Carl_Richard_Lepsius_(1810-1884).jpg
+    role: inline
+    section: discovery-translation-interpretation-and-preservation
+    caption: Karl Richard Lepsius, first translator of a complete Book of the Dead
+      manuscript, and the man who coined the name in 1842.
+further:
+  - slug: duat
+    why: The underworld the spells were written to get a dead person through, and
+      where Osiris was confined.
+  - slug: osiris
+    why: The god into whose presence the dead were led; the deceased is often
+      called 'The Osiris – [Name]'.
+  - slug: thoth
+    why: Scribe of the gods, who records the result of the weighing of the heart
+      and was held to have invented hieroglyphic script.
+image: https://upload.wikimedia.org/wikipedia/commons/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg
+images:
+  - file: El_pesado_del_corazón_en_el_Papiro_de_Hunefer.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg/330px-El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg
+    width: 1035
+    height: 651
+    caption: This detailed scene, from the Papyrus of Hunefer (c. 1275 BC), shows
+      the scribe Hunefer's heart being weighed on the scale of Maat against
+      the feather of truth, by the jackal-headed Anubis. The ibis-headed
+      Thoth, scribe of the gods, records the result. If his heart equals
+      exactly the weight of the feather, Hunefer is allowed to pass into the
+      afterlife. If not, he is eaten by the waiting chimeric devouring
+      creature Ammit composed of the deadly crocodile, lion, and hippopotamus.
+      Vignettes such as these were a common illustration in Egyptian books of
+      the dead.
+  - file: Hieroglyph_Text_from_Teti_I_pyramid.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hieroglyph_Text_from_Teti_I_pyramid.jpg/250px-Hieroglyph_Text_from_Teti_I_pyramid.jpg
+    width: 2272
+    height: 1704
+    caption: Part of the Pyramid Texts, a precursor of the Book of the Dead,
+      inscribed on the tomb of Teti
+  - file: Medjed_Cairo_95658.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Medjed_Cairo_95658.png/330px-Medjed_Cairo_95658.png
+    width: 1524
+    height: 384
+    caption: Deities with varying animal heads, Medjed is shown on the far left, a
+      vignette from the papyrus for Ankhefenkhonsu
+  - file: Bookofthedeadspell17.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bookofthedeadspell17.jpg/250px-Bookofthedeadspell17.jpg
+    width: 768
+    height: 322
+    caption: The mystical Spell 17, from the Papyrus of Ani. The vignette at the
+      top illustrates, from left to right, the god Nu as a representation of
+      the primordial ocean; a gateway to the realm of Osiris; the Eye of
+      Horus; the celestial cow Mehet-Weret; and a human head rising from a
+      coffin, guarded by the four Sons of Horus.
+  - file: BOTDSpell7980.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BOTDSpell7980.jpg/250px-BOTDSpell7980.jpg
+    width: 3572
+    height: 4762
+    caption: "Egyptian Book of the Dead, painted on a coffin fragment (c. 747–656
+      BC): Spell 79 (attaching the soul to the body); and Spell 80 (preventing
+      incoherent speech)"
+  - file: Egypt_dauingevekten.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Egypt_dauingevekten.jpg/250px-Egypt_dauingevekten.jpg
+    width: 893
+    height: 521
+    caption: "A vignette in The Papyrus of Ani, from Spell 30B: Spell For Not
+      Letting Ani's Heart Create Opposition Against Him, in the Gods' Domain,
+      which contains a depiction of the ba of the deceased"
+  - file: Libro_dei_morti_di_Kha_AFP_0310.tif
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Libro_dei_morti_di_Kha_AFP_0310.tif/lossy-page1-250px-Libro_dei_morti_di_Kha_AFP_0310.tif.jpg
+    width: 2848
+    height: 4288
+    caption: Book of the Dead of Kha, Papyrus Turin 1791, Museo Egizio, Turin,
+      from the tomb TT8 of Kha and Merit. The vignette top left shows the Ba
+      bird (soul of the deceased Kha).
+  - file: Bookofthedead-144145.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bookofthedead-144145.jpg/250px-Bookofthedead-144145.jpg
+    width: 1087
+    height: 359
+    caption: Two 'gate spells'. On the top register, Ani and his wife face the
+      'seven gates of the House of Osiris'. Below, they encounter ten of the
+      21 'mysterious portals of the House of Osiris in the Field of Reeds'.
+      All are guarded by unpleasant protectors.
+  - file: Ani_chap125.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ani_chap125.jpg/250px-Ani_chap125.jpg
+    width: 631
+    height: 377
+    caption: "Papyrus of Ani: some of the 42 Judges of Maat are visible, seated
+      and in small size."
+  - file: The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg/250px-The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
+    width: 2446
+    height: 1112
+    caption: The Weighing of the Heart as depicted in the Papyrus of Hunefer (19th
+      Dynasty, c. 1300 BC)
+  - file: PinedjemIIBookOfTheDead-BritishMuseum-August21-08.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/PinedjemIIBookOfTheDead-BritishMuseum-August21-08.jpg/250px-PinedjemIIBookOfTheDead-BritishMuseum-August21-08.jpg
+    width: 3282
+    height: 1726
+    caption: Part of the Book of the Dead of Pinedjem II. The text is hieratic,
+      except for hieroglyphics in the vignette. The use of red pigment, and
+      the joins between papyrus sheets, are also visible.
+  - file: Book_of_the_Dead_of_the_Goldworker_of_Amun,_Sobekmose,_Mummy_Chamber,_31.1777e.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Book_of_the_Dead_of_the_Goldworker_of_Amun%2C_Sobekmose%2C_Mummy_Chamber%2C_31.1777e.jpg/250px-Book_of_the_Dead_of_the_Goldworker_of_Amun%2C_Sobekmose%2C_Mummy_Chamber%2C_31.1777e.jpg
+    width: 1536
+    height: 1152
+    caption: Book of the Dead of Sobekmose, the Goldworker of Amun, 31.1777e,
+      Brooklyn Museum
+  - file: Papyrus_Ani_curs_hiero.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Papyrus_Ani_curs_hiero.jpg/250px-Papyrus_Ani_curs_hiero.jpg
+    width: 592
+    height: 695
+    caption: A close-up of the Papyrus of Ani, showing the cursive hieroglyphs of
+      the text
+  - file: Carl_Richard_Lepsius_(1810-1884).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Carl_Richard_Lepsius_%281810-1884%29.jpg/250px-Carl_Richard_Lepsius_%281810-1884%29.jpg
+    width: 750
+    height: 1073
+    caption: Karl Richard Lepsius, first translator of a complete Book of the Dead
+      manuscript
+sections:
+  - level: 2
+    id: examples-in-museums
+    title: Examples in museums
+  - level: 2
+    id: development
+    title: Development
+  - level: 2
+    id: spells
+    title: Spells
+  - level: 3
+    id: organization
+    title: Organization
+  - level: 2
+    id: egyptian-concepts-of-death-and-afterlife
+    title: Egyptian concepts of death and afterlife
+  - level: 3
+    id: preservation
+    title: Preservation
+  - level: 3
+    id: afterlife
+    title: Afterlife
+  - level: 3
+    id: judgment
+    title: Judgment
+  - level: 2
+    id: producing-a-book-of-the-dead
+    title: Producing a Book of the Dead
+  - level: 2
+    id: discovery-translation-interpretation-and-preservation
+    title: Discovery, translation, interpretation and preservation
+  - level: 3
+    id: chronology
+    title: Chronology
+wikidata:
+  id: Q174361
+  label: Book of the Dead
+  description: ancient Egyptian funerary text
+  claims:
+    instance-of:
+      - religious text
+      - ancient Egyptian funerary texts
+      - text witness
+    commons-category: Book of the Dead
+    author: Thoth
+    topic-s-main-category: Category:Book of the Dead
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Totenbuch.jpg
+    main-subject:
+      - Duat
+      - funeral rite
+    country-of-origin: Ancient Egypt
+    language-of-work-or-name: Egyptian
+    title: "34567890098765433456"
+    described-by-source:
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+      - Great Soviet Encyclopedia (1926–1947)
+    point-in-time:
+      value: 1275 BC
+      sourcing: after
+link-titles:
+  17th-dynasty-of-egypt: 17th dynasty of Egypt
+  19th-dynasty: 19th Dynasty
+  21st-dynasty: 21st Dynasty
+  25th-dynasty: 25th dynasty
+  26th-dynasty: 26th dynasty
+  5th-dynasty: 5th Dynasty
+  6th-dynasty: 6th Dynasty
+  aaru: Aaru
+  abydos-egypt: Abydos, Egypt
+  amduat: Amduat
+  ammit: Ammit
+  amulet: Amulet
+  ancient-egyptian-conception-of-the-soul: Ancient Egyptian conception of the soul
+  ancient-egyptian-deities: Ancient Egyptian deities
+  ancient-egyptian-funerary-texts: Ancient Egyptian funerary texts
+  anubis: Anubis
+  apep: Apep
+  archetype: Archetype
+  assessors-of-maat: Assessors of Maat
+  atum: Atum
+  ba-egyptian-soul: Ba (Egyptian soul)
+  bible: Bible
+  book-of-breathing: Book of Breathing
+  book-of-traversing-eternity: Book of Traversing Eternity
+  book-of-the-dead-art-institute-of-chicago: Book of the Dead (Art Institute of Chicago)
+  book-of-the-dead-of-amen-em-hat: Book of the Dead of Amen-em-hat
+  book-of-the-dead-of-nehem-es-rataui: Book of the Dead of Nehem-es-Rataui
+  book-of-the-dead-of-qenna: Book of the Dead of Qenna
+  british-museum: British Museum
+  brooklyn-museum: Brooklyn Museum
+  camera-lucida: Camera lucida
+  carbon: Carbon
+  christianity: Christianity
+  coffin-texts: Coffin Texts
+  cosmic-ocean: Cosmic ocean
+  cursive-hieroglyphs: Cursive hieroglyphs
+  deben-unit: Deben (unit)
+  djedefhor: Djedefhor
+  duat: Duat
+  e.-a.-wallis-budge: E. A. Wallis Budge
+  egyptian-hieroglyphics: Egyptian hieroglyphics
+  egyptian-hieroglyphs: Egyptian hieroglyphs
+  ennead: Ennead
+  eye-of-horus: Eye of Horus
+  geraldine-pinch: Geraldine Pinch
+  german-research-foundation: German Research Foundation
+  gold-leaf: Gold leaf
+  hanover: Hanover
+  harrassowitz-verlag: Harrassowitz Verlag
+  hatshepsut: Hatshepsut
+  heka-god: Heka (god)
+  hieratic: Hieratic
+  hieroglyph: Hieroglyph
+  history-of-egypt: History of Egypt
+  history-of-ptolemaic-egypt: History of Ptolemaic Egypt
+  hunefer: Hunefer
+  jean-françois-champollion: Jean-François Champollion
+  joseph-smith-papyri: Joseph Smith Papyri
+  judaism: Judaism
+  karl-richard-lepsius: Karl Richard Lepsius
+  king-unas: King Unas
+  late-period-of-egypt: Late Period of Egypt
+  leiden: Leiden
+  luxor: Luxor
+  maat: Maat
+  medjed: Medjed
+  mehet-weret: Mehet-Weret
+  menkaure: Menkaure
+  mentuhotep-queen: Mentuhotep (queen)
+  middle-ages: Middle Ages
+  middle-kingdom-of-egypt: Middle Kingdom of Egypt
+  mostafa-waziri: Mostafa Waziri
+  mummification: Mummification
+  museo-egizio: Museo Egizio
+  museum-august-kestner: Museum August Kestner
+  napoleons-invasion-of-egypt: Napoleon's invasion of Egypt
+  new-kingdom-of-egypt: New Kingdom of Egypt
+  nu-mythology: Nu (mythology)
+  ochre: Ochre
+  old-kingdom: Old Kingdom
+  osiris: Osiris
+  palimpsest: Palimpsest
+  papyrus: Papyrus
+  papyrus-of-ani: Papyrus of Ani
+  papyrus-of-hunefer: Papyrus of Hunefer
+  paul-barguet: Paul Barguet
+  philae: Philae
+  pinedjem-ii: Pinedjem II
+  ptolemaic-period: Ptolemaic period
+  pyramid-texts: Pyramid Texts
+  quran: Qur'an
+  ra: Ra
+  raymond-o.-faulkner: Raymond O. Faulkner
+  royal-ontario-museum: Royal Ontario Museum
+  rubric: Rubric
+  samuel-birch-egyptologist: Samuel Birch (Egyptologist)
+  sarcophagus: Sarcophagus
+  scarab-artifact: Scarab (artifact)
+  second-intermediate-period: Second Intermediate Period
+  sixteenth-dynasty-of-egypt: Sixteenth Dynasty of Egypt
+  solar-barque: Solar barque
+  step-pyramid-of-djoser: Step Pyramid of Djoser
+  tt8: TT8
+  ten-commandments: Ten Commandments
+  teti: Teti
+  thebes-egypt: Thebes, Egypt
+  third-intermediate-period-of-egypt: Third Intermediate Period of Egypt
+  thomas-george-allenactioneditredlink1: Thomas George Allen?action=edit&redlink=1
+  thoth: Thoth
+  thutmose-iii: Thutmose III
+  tomb-of-kha-and-merit: Tomb of Kha and Merit
+  tracing-paper: Tracing paper
+  turin: Turin
+  unas: Unas
+  university-of-bonn: University of Bonn
+  ursula-rößler-köhleractioneditredlink1: Ursula Rößler-Köhler?action=edit&redlink=1
+  ushabti: Ushabti
+  vignette-graphic-design: Vignette (graphic design)
+  vignette-literature: Vignette (literature)
+  vivant-denon: Vivant Denon
+  waziri-papyrus-iactioneditredlink1: Waziri Papyrus I?action=edit&redlink=1
+  weighing-of-the-heart: Weighing of the Heart
+  édouard-naville: Édouard Naville
+source:
+  site: Wikipedia
+  lang: en
+  title: Book of the Dead
+  url: https://en.wikipedia.org/wiki/Book_of_the_Dead
+  page-id: 158534
+  revision: "1371410433"
+  modified: 2026-08-26T07:24:27Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Book of
+    the Dead" (revision 1371410433), by Wikipedia contributors, used under CC
+    BY-SA 4.0.
+rewritten:
+  of: corpus/en/book-of-the-dead.mdy
+  source-revision: "1371410433"
+  model: claude-opus-5
+  left-out: "The lead's hieroglyphic infobox could not be carried over: it is a
+    table of wikihiero glyph images (D21, Z1, N33A, W24, O1, X1, D54, G17, O4,
+    G43, N5) with no text I could transcribe, and its rows giving the title
+    'Spells of Coming Forth by Day in hieroglyphs' and 'Era: New Kingdom
+    (1550-1069BC)' are markup rather than prose. The panoramic image of the
+    entire Papyrus of Ani that sits after 'Examples in museums' is not in the
+    front-matter image list, so it is not in the image plan. 'Examples in
+    museums' and 'Chronology' are lists and are left close to as they were.
+    The heading 'Producing a Book of the Dead' italicises the title in the
+    source ('Producing a //Book of the Dead//'); it is given here in the plain
+    form used in the front matter. Footnote [[ ^14 ]] belongs to the Spell 17
+    figure caption and [[ ^40 ]] to the 'gate spells' caption, so neither
+    appears in the body prose; the captions they support are in the image
+    plan."
+  verified: false
+  reviewed: false
++++
+There was no single or [[ canonical | archetype ]] //Book of the Dead//. The //!!Book of the Dead!!// is the name given to an [[ ancient Egyptian funerary text | ancient-egyptian-funerary-texts ]] generally written on papyrus and used from the beginning of the [[ New Kingdom | new-kingdom-of-egypt ]] (around 1550 BC) to around 50 BC.[[ ^1 ]] "Book" is the closest term to describe the loose collection of texts[[ ^2 ]] that make it up: magic spells intended to assist a dead person's journey through the //[[ Duat ]]//, or underworld, and into the afterlife, written by many priests over a period of about 1,000 years. The surviving papyri contain a varying selection of religious and magical texts and vary considerably in their illustration. Some people seem to have commissioned their own copies, perhaps choosing the spells they thought most vital in their own progression to the afterlife.
+
+The name is modern. In 1842, the Egyptologist [[ Karl Richard Lepsius ]] introduced for these texts the German name //Todtenbuch// (modern spelling //Totenbuch//), translated to English as 'Book of the Dead'. The original Egyptian name for the text, transliterated //[[ rw nw prt m hrw | https://en.wiktionary.org/wiki/rw%20nw%20prt%20m%20hrw ]]//,[[ ^3 ]] is translated as //!!Spells of Coming Forth by Day!!//.[[ ^4 ]]
+
+The //Book of the Dead// was placed in the coffin or burial chamber of the deceased, and belonged to a tradition of funerary texts which includes the earlier [[ Pyramid Texts ]] and [[ Coffin Texts ]], which were painted onto objects, not written on papyrus. Some of the spells included in the book were drawn from these older works and date to the 3rd millennium BC. Other spells were composed later in Egyptian history, dating to the [[ Third Intermediate Period of Egypt ]] (11th to 7th centuries BC). A number of the spells which make up the Book continued to be separately inscribed on tomb walls and [[ sarcophagi | sarcophagus ]], as the spells from which they originated always had been. It was most commonly written in [[ hieroglyphic | egyptian-hieroglyphics ]] or [[ hieratic ]] script on a [[ papyrus ]] scroll, and often illustrated with [[ vignettes | vignette-literature ]] depicting the deceased and their journey into the afterlife.
+
+The finest extant example of the Egyptian in antiquity is the [[ Papyrus of Ani ]]. Ani was an Egyptian scribe. It was discovered in [[ Luxor ]] in 1888 by Egyptians trading in illegal antiquities. It was acquired by [[ E. A. Wallis Budge ]], as described in his autobiography //By Nile and Tigris// in 1888 and was taken to the [[ British Museum ]], where it remains.
+
+== Examples in museums
+
+- [[ Papyrus of Ani ]], British Museum
+- Papyrus of [[ Hunefer ]], British Museum
+- Papyrus of [[ Pinedjem II ]], or "Campbell Papyrus", British Museum
+- Book of the Dead of Kha, [[ Tomb of Kha and Merit ]], [[ Museo Egizio ]], Turin, Italy[[ ^5 ]]
+- [[ Book of the Dead of Nehem-es-Rataui ]], [[ Museum August Kestner ]] in [[ Hanover ]], Germany
+- //[[ Book of the Dead of Amen-em-hat ]]//, [[ Royal Ontario Museum ]]
+- //[[ Book of the Dead of Qenna ]]//, Rijksmuseum van Oudheden, [[ Leiden ]], Netherlands
+- [[ Book of the Dead (Art Institute of Chicago) ]]
+- [[ Joseph Smith Papyri ]] (Books of the Dead of [[ TaSheritMin | joseph-smith-papyri#book-of-joseph-scroll-or-book-of-the-dead-for-tasheritmin ]], [[ Nefer-ir-nebu | joseph-smith-papyri#book-of-the-dead-for-nefer-ir-nebu ]], and [[ Amenhotep | joseph-smith-papyri#book-of-the-dead-for-amenhotep ]]), fragments, many destroyed in modern times
+
+== Development
+
+The //Book of the Dead// developed from a tradition of funerary manuscripts dating back to the Egyptian [[ Old Kingdom ]]. The first funerary texts were the [[ Pyramid Texts ]], first used in the Pyramid of King [[ Unas ]] of the [[ 5th Dynasty ]], around 2400 BC.[[ ^6 ]] They were written on the walls of the burial chambers within pyramids, and were exclusively for the use of the pharaoh (and, from the [[ 6th Dynasty ]], the queen). Their [[ hieroglyphic | hieroglyph ]] style was an unusual one: many of the hieroglyphs representing humans or animals were left incomplete or drawn mutilated, most likely to prevent them causing any harm to the dead pharaoh.[[ ^7 ]]
+
+The purpose of the Pyramid Texts was to help the dead king take his place amongst the [[ gods | ancient-egyptian-deities ]], in particular to reunite him with his divine father [[ Ra ]]; at this period the afterlife was seen as being in the sky, rather than the underworld described in the //Book of the Dead//.[[ ^7 ]] Towards the end of the Old Kingdom, the Pyramid Texts ceased to be an exclusively royal privilege, and were adopted by regional governors and other high-ranking officials.[[ ^7 ]]
+
+In the [[ Middle Kingdom | middle-kingdom-of-egypt ]], a new funerary text emerged, the [[ Coffin Texts ]], which used a newer version of the language, new spells, and included illustrations for the first time. The //Coffin Texts// were most commonly written on the inner surfaces of coffins, though they are occasionally found on tomb walls or on papyri.[[ ^7 ]] They were available to wealthy private individuals, vastly increasing the number of people who could expect to participate in the afterlife; a process which has been described as the "democratization of the afterlife".[[ ^8 ]]
+
+The //Book of the Dead// first developed in [[ Thebes | thebes-egypt ]] toward the beginning of the [[ Second Intermediate Period ]], around 1700 BC. The earliest known occurrence of the spells included in it is from the coffin of Queen [[ Mentuhotep | mentuhotep-queen ]], of the [[ 16th Dynasty | sixteenth-dynasty-of-egypt ]], where the new spells were included amongst older texts known from the Pyramid Texts and Coffin Texts. Some of the spells introduced at this time claim an older provenance: the rubric to spell 30B states that it was discovered by the [[ Prince Hordjedef | djedefhor ]] in the reign of King [[ Menkaure ]], many hundreds of years before it is attested in the archaeological record.[[ ^9 ]]
+
+By the [[ 17th Dynasty | 17th-dynasty-of-egypt ]], the //Book of the Dead// had become widespread not only for members of the royal family, but courtiers and other officials as well. At this stage, the spells were typically inscribed on linen shrouds wrapped around the dead, though occasionally they are found written on coffins or on papyrus.[[ ^10 ]]
+
+The [[ New Kingdom | new-kingdom-of-egypt ]] saw the //Book of the Dead// develop and spread further. The famous Spell 125, the '[[ Weighing of the Heart ]]', is first known from the reign of [[ Hatshepsut ]] and [[ Thutmose III ]], c. 1475 BC. From this period onward the //Book of the Dead// was typically written on a papyrus scroll, and the text illustrated with [[ vignettes | vignette-graphic-design ]]. During the [[ 19th Dynasty ]] in particular, the vignettes tended to be lavish, sometimes at the expense of the surrounding text.[[ ^11 ]]
+
+In the [[ Third Intermediate Period of Egypt ]], the //Book of the Dead// started to appear in [[ hieratic ]] script, as well as in the traditional hieroglyphics. The hieratic scrolls were a cheaper version, lacking illustration apart from a single vignette at the beginning, and were produced on smaller papyri. At the same time, many burials used additional funerary texts, for instance the [[ Amduat ]].[[ ^12 ]]
+
+During the [[ 25th | 25th-dynasty ]] and [[ 26th Dynasties | 26th-dynasty ]], the //Book of the Dead// was updated, revised and standardized, and spells were ordered and numbered consistently for the first time. This standardized version is known today as the 'Saite recension', after the Saite (26th) Dynasty. In the [[ Late period | late-period-of-egypt ]] and [[ Ptolemaic period ]], the //Book of the Dead// continued to be based on the Saite recension, though increasingly abbreviated towards the end of the Ptolemaic period. New funerary texts appeared, including the //[[ Book of Breathing ]]// and //[[ Book of Traversing Eternity ]]//. The last use of the //Book of the Dead// was in the 1st century BC, though some artistic motifs drawn from it were still in use in Roman times.[[ ^13 ]]
+
+== Spells
+
+The //Book of the Dead// is made up of a number of individual texts and their accompanying illustrations. Most sub-texts begin with the word //r(ꜣ)//, which can mean "mouth", "speech", "spell", "utterance", "incantation", or "chapter of a book". This ambiguity reflects the similarity in Egyptian thought between ritual speech and magical power.[[ ^15 ]] In the context of the //Book of the Dead//, it is typically translated as either //chapter// or //spell//. In this article, the word //spell// is used.
+
+At present, some 192 spells are known,[[ ^16 ]] though no single manuscript contains them all. They served a range of purposes. Some are intended to give the deceased mystical knowledge in the afterlife, or perhaps to identify them with the gods: for instance, Spell 17 is an obscure and lengthy description of the god [[ Atum ]].[[ ^17 ]] Others are incantations to ensure the different elements of the dead person's being were preserved and reunited, and to give the deceased control over the world around him. Still others protect the deceased from various hostile forces or guide him through the underworld past various obstacles. Famously, two spells also deal with the judgment of the deceased in the [[ Weighing of the Heart ]] ritual. Such spells as 26–30, and sometimes spells 6 and 126, relate to the heart and were inscribed on scarabs.[[ ^18 ]]
+
+The texts and images were magical as well as religious. Magic was as legitimate an activity as praying to the gods, even when the magic was aimed at controlling the gods themselves.[[ ^19 ]] Indeed, there was little distinction for the Ancient Egyptians between magical and religious practice.[[ ^20 ]] The concept of magic (//[[ heka | heka-god ]]//) was also intimately linked with the spoken and written word. The act of speaking a ritual formula was an act of creation;[[ ^21 ]] there is a sense in which action and speech were one and the same thing.[[ ^20 ]]
+
+The magical power of words extended to the written word. Hieroglyphic script was held to have been invented by the god [[ Thoth ]], and the hieroglyphs themselves were powerful. Written words conveyed the full force of a spell.[[ ^21 ]] This was even true when the text was abbreviated or omitted, as often occurred in later //Book of the Dead// scrolls, particularly if the accompanying images were present.[[ ^22 ]] The Egyptians also believed that knowing the name of something gave power over it; thus, the //Book of the Dead// equips its owner with the mystical names of many of the entities he would encounter in the afterlife, giving him power over them.[[ ^23 ]]
+
+The spells made use of several magical techniques which can also be seen in other areas of Egyptian life. A number of spells are for magical [[ amulets | amulet ]], which would protect the deceased from harm; in addition to being represented on a //Book of the Dead// papyrus, these spells appeared on amulets wound into the wrappings of a mummy.[[ ^19 ]] Everyday magic made use of amulets in huge numbers. Other items in direct contact with the body in the tomb, such as headrests, were also considered to have amuletic value.[[ ^24 ]] A number of spells also refer to Egyptian beliefs about the magical healing power of saliva.[[ ^19 ]]
+
+== Organization
+
+Almost every //Book of the Dead// was unique, containing a different mixture of spells drawn from the corpus of texts available. For most of the history of the //Book of the Dead// there was no defined order or structure.[[ ^25 ]] In fact, until [[ Paul Barguet ]]'s 1967 "pioneering study" of common themes between texts,[[ ^26 ]] Egyptologists concluded there was no internal structure at all.[[ ^27 ]] It is only from the Saite period ([[ 26th Dynasty ]]) onwards that there is a defined order.[[ ^28 ]]
+
+The Books of the Dead from the Saite period tend to organize the Chapters into four sections:
+
+- !!Chapters 1–16!!: The deceased enters the tomb and descends to the underworld, and the body regains its powers of movement and speech.
+- !!Chapters 17–63!!: Explanation of the mythic origin of the gods and places. The deceased is made to live again so that he may arise, reborn, with the morning sun.
+- !!Chapters 64–129!!: The deceased travels across the sky in the [[ sun barque | solar-barque ]] as one of the blessed dead. In the evening, the deceased travels to the underworld to appear before Osiris.
+- !!Chapters 130–189!!: Having been vindicated, the deceased assumes power in the universe as one of the gods. This section also includes assorted chapters on protective amulets, provision of food, and important places.[[ ^27 ]]
+
+== Egyptian concepts of death and afterlife
+
+The spells in the //Book of the Dead// depict Egyptian beliefs about the nature of death and the afterlife. The //Book of the Dead// is a vital source of information about Egyptian beliefs in this area.
+
+== Preservation
+
+One aspect of death was the disintegration of the various //kheperu//, or modes of existence.[[ ^29 ]] Funerary rituals served to re-integrate these different aspects of being. [[ Mummification ]] served to preserve and transform the physical body into //[[ sah | ancient-egyptian-conception-of-the-soul#sah-spiritual-body ]]//, an idealized form with divine aspects;[[ ^30 ]] the //Book of the Dead// contained spells aimed at preserving the body of the deceased, which may have been recited during the process of mummification.[[ ^31 ]]
+
+The heart, which was regarded as the aspect of being which included intelligence and memory, was also protected with spells, and in case anything happened to the physical heart, it was common to bury jeweled [[ heart scarabs | scarab-artifact ]] with a body to provide a replacement. The //[[ ka | ancient-egyptian-conception-of-the-soul#ka-vital-essence ]]//, or life-force, remained in the tomb with the dead body, and required sustenance from offerings of food, water and incense. In case priests or relatives failed to provide these offerings, Spell 105 ensured the //ka// was satisfied.[[ ^32 ]] The name of the dead person, which constituted their individuality and was required for their continued existence, was written in many places throughout the //Book//, and spell 25 ensured the deceased would remember their own name.[[ ^33 ]]
+
+The //[[ ba | ba-egyptian-soul ]]// was a free-ranging spirit aspect of the deceased. It was the //ba//, depicted as a human-headed bird, which could "go forth by day" from the tomb into the world; spells 61 and 89 acted to preserve it.[[ ^34 ]] Finally, the //[[ shut | ancient-egyptian-conception-of-the-soul#shut-shadow ]]//, or shadow of the deceased, was preserved by spells 91, 92 and 188.[[ ^35 ]] If all these aspects of the person could be variously preserved, remembered, and satiated, then the dead person would live on in the form of an //[[ akh | ancient-egyptian-conception-of-the-soul#akh-intellect ]]//, a blessed spirit with magical powers who would dwell among the gods.[[ ^36 ]]
+
+== Afterlife
+
+The nature of the afterlife which the dead people enjoyed is difficult to define, because of the differing traditions within Ancient Egyptian religion. In the //Book of the Dead//, the dead were taken into the presence of the god [[ Osiris ]], who was confined to the subterranean [[ Duat ]]. There are also spells to enable the //ba// or //akh// of the dead to join [[ Ra ]] as he travelled the sky in his sun-barque, and help him fight off [[ Apep ]].[[ ^37 ]]
+
+As well as joining the gods, the //Book of the Dead// also depicts the dead living on in the '[[ Field of Reeds | aaru ]]', a paradisiac likeness of the real world.[[ ^38 ]] The Field of Reeds is depicted as a lush, plentiful version of the Egyptian way of living. There are fields, crops, oxen, people and waterways. The deceased person is shown encountering the [[ Great Ennead | ennead ]], a group of gods, as well as his or her own parents. While the depiction of the Field of Reeds is pleasant and plentiful, it is also clear that manual labour is required. For this reason burials included a number of statuettes named //shabti//, or later //[[ ushebti | ushabti ]]//. These statuettes were inscribed with a spell, also included in the //Book of the Dead//, requiring them to undertake any manual labour that might be the owner's duty in the afterlife.[[ ^39 ]] It is also clear that the dead not only went to a place where the gods lived, but that they acquired divine characteristics themselves. In many occasions, the deceased is mentioned as "The Osiris – [//Name//]" in the //Book of the Dead//.
+
+The path to the afterlife as laid out in the //Book of the Dead// was a difficult one. The deceased was required to pass a series of gates, caverns and mounds guarded by supernatural creatures.[[ ^41 ]] These terrifying entities were armed with enormous knives and are illustrated in grotesque forms, typically as human figures with the heads of animals or combinations of different ferocious beasts. Their names—for instance, "He who lives on snakes" or "He who dances in blood"—are equally grotesque. These creatures had to be pacified by reciting the appropriate spells included in the //Book of the Dead//; once pacified they posed no further threat, and could even extend their protection to the dead person.[[ ^42 ]] Another breed of supernatural creatures was 'slaughterers' who killed the unrighteous on behalf of Osiris; the //Book of the Dead// equipped its owner to escape their attentions.[[ ^43 ]] As well as these supernatural entities, there were also threats from natural or supernatural animals, including crocodiles, snakes, and beetles.[[ ^44 ]]
+
+== Judgment
+
+The deceased's first task was to correctly address each of the forty-two [[ Assessors of Maat ]] by name, while reciting the sins they did not commit during their lifetime.[[ ^45 ]] This process allowed the dead to demonstrate that they knew each of the judges' names or Ren and established that they were pure, and free of sin.
+
+If all the obstacles of the //Duat// could be negotiated, the deceased would be judged in the "[[ Weighing of the Heart ]]" ritual, depicted in Spell 125. The deceased was led by the god [[ Anubis ]] into the presence of Osiris. There, the dead person swore that he had not committed any sin from a [[ list of 42 sins | maat#42-negative-confessions-papyrus-of-ani ]],[[ ^46 ]] reciting a text known as the "Negative Confession". Then the dead person's heart was weighed on a pair of scales, against the goddess [[ Maat ]], who embodied truth and justice. Maat was often represented by an ostrich feather, the hieroglyphic sign for her name.[[ ^47 ]] At this point, there was a risk that the deceased's heart would bear witness, owning up to sins committed in life; Spell 30B guarded against this eventuality. If the scales balanced, this meant the deceased had led a good life. Anubis would take them to Osiris and they would find their place in the afterlife, becoming //maa-kheru//, meaning "vindicated" or "true of voice".[[ ^48 ]] If the heart was out of balance with Maat, then another fearsome beast called //[[ Ammit ]]//, the Devourer, stood ready to eat it and put the dead person's afterlife to an early and rather unpleasant end.[[ ^49 ]]
+
+This scene is remarkable not only for its vividness but as one of the few parts of the Book of the Dead with any explicit moral content. The judgment of the dead and the Negative Confession were a representation of the conventional moral code which governed Egyptian society. For every "I have not..." in the Negative Confession, it is possible to read an unexpressed "Thou shalt not".[[ ^50 ]] While the [[ Ten Commandments ]] of [[ Jewish | judaism ]] and [[ Christian | christianity ]] ethics are rules of conduct laid down by a perceived divine revelation, the Negative Confession is more a divine enforcement of everyday morality.[[ ^51 ]]
+
+Views differ among Egyptologists about how far the Negative Confession represents a moral absolute, with ethical purity being necessary for progress to the Afterlife. John Taylor points out the wording of Spells 30B and 125 suggests a pragmatic approach to morality; by preventing the heart from contradicting him with any inconvenient truths, it seems that the deceased could enter the afterlife even if their life had not been entirely pure.[[ ^49 ]] Ogden Goelet says "without an exemplary and moral existence, there was no hope for a successful afterlife",[[ ^50 ]] while [[ Geraldine Pinch ]] suggests that the Negative Confession is essentially similar to the spells protecting from demons, and that the success of the Weighing of the Heart depended on the mystical knowledge of the true names of the judges rather than on the deceased's moral behavior.[[ ^52 ]]
+
+== Producing a Book of the Dead
+
+A //Book of the Dead// was produced to order by scribes. They were commissioned by people in preparation for their own funerals, or by the relatives of someone recently deceased. They were expensive items; one source gives the price of a //Book of the Dead// scroll as one //[[ deben | deben-unit ]]// of silver,[[ ^53 ]] perhaps half the annual pay of a laborer.[[ ^54 ]] Papyrus itself was evidently costly, as there are many instances of its re-use in everyday documents, creating [[ palimpsests | palimpsest ]]. In one case, a //Book of the Dead// was written on second-hand papyrus.[[ ^55 ]]
+
+Most owners were evidently part of the social elite; the books were initially reserved for the royal family, but later papyri are found in the tombs of scribes, priests and officials. Most owners were men, and generally the vignettes included the owner's wife as well. Towards the beginning of the history of the //Book of the Dead//, there are roughly ten copies belonging to men for every one for a woman. However, during the Third Intermediate Period, two were for women for every one for a man; and women owned roughly a third of the hieratic papyri from the Late and Ptolemaic Periods.[[ ^56 ]]
+
+The dimensions could vary widely; the longest is 40 m long while some are as short as 1 m. They are composed of sheets of papyrus joined, the individual papyri varying in width from 15 cm to 45 cm. The scribes working on //Book of the Dead// papyri took more care over their work than those working on more mundane texts; care was taken to frame the text within margins, and to avoid writing on the joints between sheets. The words //peret em heru//, or //coming forth by day// sometimes appear on the reverse of the outer margin, perhaps acting as a label.[[ ^55 ]]
+
+Books were often prefabricated in funerary workshops, with spaces being left for the name of the deceased to be written in later.[[ ^57 ]] For instance, in the //[[ Papyrus of Ani ]]//, the name "Ani" appears at the top or bottom of a column, or immediately following a rubric introducing him as the speaker of a block of text; the name appears in a different handwriting to the rest of the manuscript, and in some places is mis-spelt or omitted entirely.[[ ^54 ]]
+
+The text of a [[ New Kingdom | new-kingdom-of-egypt ]] //Book of the Dead// was typically written in [[ cursive hieroglyphs ]], most often from left to right, but also sometimes from right to left. The hieroglyphs were in columns, which were separated by black lines – a similar arrangement to that used when hieroglyphs were carved on tomb walls or monuments. Illustrations were put in frames above, below, or between the columns of text. The largest illustrations took up a full page of papyrus.[[ ^58 ]] From the [[ 21st Dynasty ]] onward, more copies are found in [[ hieratic ]] script. The calligraphy is similar to that of other hieratic manuscripts of the New Kingdom; the text is written in horizontal lines across wide columns (often the column size corresponds to the size of the papyrus sheets of which a scroll is made up). Occasionally a hieratic //Book of the Dead// contains captions in hieroglyphic.
+
+The text was written in both black and red ink, regardless of whether it was in hieroglyphic or hieratic script. Most of the text was in black, with [[ red ink | rubric ]] used for the titles of spells, opening and closing sections of spells, the instructions to perform spells correctly in rituals, and also for the names of dangerous creatures such as the demon [[ Apep ]].[[ ^59 ]] The black ink used was based on [[ carbon ]], and the red ink on [[ ochre ]], in both cases mixed with water.[[ ^60 ]]
+
+The style and nature of the vignettes used to illustrate a //Book of the Dead// varies widely. Some contain lavish color illustrations, even making use of [[ gold leaf ]]. Others contain only line drawings, or one simple illustration at the opening.[[ ^61 ]] //Book of the Dead// papyri were often the work of several different scribes and artists whose work was literally pasted together.[[ ^55 ]] It is usually possible to identify the style of more than one scribe used on a given manuscript, even when the manuscript is a shorter one.[[ ^59 ]] The text and illustrations were produced by different scribes; there are a number of //Books// where the text was completed but the illustrations were left empty.[[ ^62 ]]
+
+== Discovery, translation, interpretation and preservation
+
+The existence of the //Book of the Dead// was known as early as the [[ Middle Ages ]], well before its contents could be understood. Since it was found in tombs, it was evidently a document of a religious nature, and this led to the widespread but mistaken belief that the //Book of the Dead// was the equivalent of a [[ Bible ]] or [[ Qur'an ]].[[ ^63 ]][[ ^64 ]]
+
+In 1842 [[ Karl Richard Lepsius ]] published a translation of a manuscript dated to the [[ Ptolemaic | history-of-ptolemaic-egypt ]] era and coined the name "//Book of The Dead"// (//das Todtenbuch//). He also introduced the spell numbering system which is still in use, identifying 165 different spells.[[ ^16 ]] Lepsius promoted the idea of a comparative edition of the //Book of the Dead//, drawing on all relevant manuscripts. This project was undertaken by [[ Édouard Naville ]], starting in 1875 and completed in 1886, producing a three-volume work including a selection of vignettes for every one of the 186 spells he worked with, the more significant variations of the text for every spell, and commentary. In 1867 [[ Samuel Birch | samuel-birch-egyptologist ]] of the [[ British Museum ]] published the first extensive English translation.[[ ^65 ]] In 1876 he published a photographic copy of the Papyrus of Nebseny.[[ ^66 ]]
+
+The work of [[ E. A. Wallis Budge ]], Birch's successor at the British Museum, is still in wide circulation – including both his hieroglyphic editions and his English translations of the [[ Papyrus of Ani ]], though the latter are now considered inaccurate and out-of-date.[[ ^67 ]] More recent translations in English have been published by Thomas George Allen (1974) and [[ Raymond O. Faulkner ]] (1972).[[ ^68 ]] As more work has been done on the //Book of the Dead//, more spells have been identified, and the total now stands at 192.[[ ^16 ]]
+
+In the 1970s, Ursula Rößler-Köhler at the [[ University of Bonn ]] began a working group to develop the history of //Book of the Dead// texts. In 2004, this group received sponsorship from the German state of North Rhine-Westphalia and the [[ German Research Foundation ]], after coming under the auspices of the German Academies of Sciences and Arts. Today the //Book of the Dead// Project, as it is called, maintains a database of documentation and photography covering 80% of extant copies and fragments from the corpus of Book of the Dead texts, and provides current services to Egyptologists.[[ ^69 ]] It is housed at the University of Bonn, with much material available online.[[ ^70 ]] Affiliated scholars are authoring a series of monograph studies, the //Studien zum Altägyptischen Totenbuch//, alongside a series that publishes the manuscripts themselves, //Handschriften des Altägyptischen Totenbuches//.[[ ^71 ]] Both are in print by [[ Harrassowitz Verlag ]]. Orientverlag has released another series of related monographs, //Totenbuchtexte//, focused on analysis, synoptic comparison, and textual criticism.
+
+Research work has always posed technical difficulties thanks to the need to copy very long hieroglyphic texts. Initially, these were copied out by hand, with the assistance either of [[ tracing paper ]] or a [[ camera lucida ]]. In the mid-19th century, hieroglyphic fonts became available and made lithographic reproduction of manuscripts more feasible. In the present day, hieroglyphics can be rendered in desktop publishing software and this, combined with digital print technology, means that the costs of publishing a //Book of the Dead// may be considerably reduced. However, a very large amount of the source material in museums around the world remains unpublished.[[ ^72 ]]
+
+In 2023, the Ministry of Antiquities announced the finding of sections of the //Book of the Dead// on a 16-meter papyrus in a coffin near the [[ Step Pyramid of Djoser ]].[[ ^73 ]] This scroll is now known as the Waziri Papyrus I, after [[ Mostafa Waziri ]].
+
+== Chronology
+
+- c. 3150 BC – First preserved hieroglyphs, on small labels in the tomb of a king buried (in tomb U-j) at [[ Abydos | abydos-egypt ]]
+- c. 3000 BC – The beginning of the numbered dynasties of kings of ancient Egypt
+- c. 2345 BC – First royal pyramid, of [[ King Unas ]], to contain the //Pyramid Texts//, carved precursors to the funerary literature from which the //Book of the Dead// ultimately developed
+- c. 2100 BC – First //Coffin Texts//, developed from the //Pyramid Texts// and for a time painted on the coffins of commoners. Many spells of the //Book of the Dead// are closely derived from them
+- c. 1600 BC – Earliest spells of the //Book of the Dead//, on the coffin of Queen [[ Menthuhotep | mentuhotep-queen ]], an ancestor of kings from the New Kingdom
+- c. 1550 BC – From this time onward to the beginning of the New Kingdom, papyrus copies of the //Book of the Dead// are used instead of inscribing spells on the walls of the tombs
+- c. 600 BC – Approximately when the order of the spells became standard
+- 42–553 AD – Christianity spreads to Egypt, gradually replacing the native religion as successive emperors alternately tolerate or suppress them, culminating in the last temple at [[ Philae ]] (also site of the last known religious inscription in demotic, dating from 452) being closed by order of Emperor Justinian in 533
+- 2nd century AD – Possibly the last copies of the //Book of the Dead// were produced, but it is a poorly documented era of history
+- 1798 AD – [[ Napoleon's invasion of Egypt ]] encourages European interests in ancient Egypt; 1799, [[ Vivant Denon ]] was handed a copy of the //Book of the Dead//
+- 1805 AD – Jean-Marcel Cadet makes the first publication, on 18 plates, of a //Book of the Dead//, //Copie figurée d'un rouleau de papyrus trouvé à Thèbes, dans un tombeau des rois//[[ ^74 ]]
+- 1822 AD – [[ Jean-François Champollion ]] announces the key to the decipherment of ancient Egyptian hieroglyphic writing, subsequently developed in his later publications, the most extensive after his death in 1832
+- 1842 AD – Lepsius publishes the first major study of the //Book of the Dead//, begins the numbering of the spells or chapters, and brings the name "Book of the Dead" into general circulation[[ ^75 ]]
+
+[[ ^1 ]]: Taylor 2010, p.54
+
+[[ ^2 ]]: //The Egyptian Book of the Dead// by Anonymous (2 Jun 2014) \...with an introduction by Paul Mirecki (VII)
+
+[[ ^3 ]]: Allen, 2000. p.316
+
+[[ ^4 ]]: Taylor 2010, p.55; or perhaps //!!Utterances of Going Forth by Day!!//, D'Auria 1988, p. 187
+
+[[ ^5 ]]: [[ "Collection online - Book of the Dead of Kha" | https://collezioni.museoegizio.it/en-GB/material/S_8438 ]]. //collezioni.museoegizio.it//. Retrieved 2025-08-25.
+
+[[ ^6 ]]: Faulkner p. 54
+
+[[ ^7 ]]: Taylor 2010, p. 54
+
+[[ ^8 ]]: D'Auria et al p.187
+
+[[ ^9 ]]: Taylor 2010, p.34
+
+[[ ^10 ]]: Taylor 2010, p. 55
+
+[[ ^11 ]]: Taylor 2010, p.35–7
+
+[[ ^12 ]]: Taylor 2010, p.57–8
+
+[[ ^13 ]]: Taylor 2010, p.59 60
+
+[[ ^14 ]]: Taylor 2010, p.51
+
+[[ ^15 ]]: Faulkner 1994, p.145; Taylor 2010, p.29
+
+[[ ^16 ]]: Faulkner 1994, p.18
+
+[[ ^17 ]]: Taylor 2010, p.51, 56
+
+[[ ^18 ]]: Hornung 1999, p.14
+
+[[ ^19 ]]: Faulkner 1994, p.146
+
+[[ ^20 ]]: Faulkner 1994, p.145
+
+[[ ^21 ]]: Taylor 2010, p.30
+
+[[ ^22 ]]: Taylor 2010, p.32–3; Faulkner 1994, p.148
+
+[[ ^23 ]]: Taylor 2010, p.30–1
+
+[[ ^24 ]]: Pinch 1994, p.104–5
+
+[[ ^25 ]]: Taylor 2010, p.55
+
+[[ ^26 ]]: Barguet, Paul (1967). //Le Livre des morts des anciens Égyptiens// (in French). Paris: Éditions du Cerf.
+
+[[ ^27 ]]: Faulkner 1994, p.141
+
+[[ ^28 ]]: Taylor, p.58
+
+[[ ^29 ]]: Taylor 2010, p.16-17
+
+[[ ^30 ]]: Taylor 2010, p.17 & 20
+
+[[ ^31 ]]: For instance, Spell 154. Taylor 2010, p.161
+
+[[ ^32 ]]: Taylor 2010, p.163-4
+
+[[ ^33 ]]: Taylor 2010, p.163
+
+[[ ^34 ]]: Taylor 2010, p.17, 164
+
+[[ ^35 ]]: Taylor 2010, p.164
+
+[[ ^36 ]]: Taylor 2010, p.17
+
+[[ ^37 ]]: Spells 100–2, 129–131 and 133–136. Taylor 2010, p.239–241
+
+[[ ^38 ]]: Spells 109, 110 and 149. Taylor 2010, p.238–240
+
+[[ ^39 ]]: Taylor 2010, p.242–245
+
+[[ ^40 ]]: Taylor 2010, p.143
+
+[[ ^41 ]]: Taylor 2010, p.135
+
+[[ ^42 ]]: Taylor 2010, p.136–7
+
+[[ ^43 ]]: Taylor 2010, p. 188
+
+[[ ^44 ]]: Taylor 2010, p. 184–7
+
+[[ ^45 ]]: Coogan, Michael D. (2013). //A Reader of Ancient Near Eastern Texts: Sources for the Study of the Old Testament,"Negative Confessions"//. New York: Oxford University Press. pp. 149–150.
+
+[[ ^46 ]]: Taylor 2010, p. 208
+
+[[ ^47 ]]: Taylor 2010, p.209
+
+[[ ^48 ]]: Taylor 2010, p.215
+
+[[ ^49 ]]: Taylor 2010, p.212
+
+[[ ^50 ]]: Faulkner 1994, p.14
+
+[[ ^51 ]]: Taylor 2010, p.204–5
+
+[[ ^52 ]]: Pinch 1994, p.155
+
+[[ ^53 ]]: Taylor 2010, p. 62
+
+[[ ^54 ]]: Faulkner 1994, p. 142
+
+[[ ^55 ]]: Taylor 2010, p. 264
+
+[[ ^56 ]]: Taylor 2010, p. 62–63
+
+[[ ^57 ]]: Taylor 2010, p. 267
+
+[[ ^58 ]]: Taylor 2010, p. 266
+
+[[ ^59 ]]: Taylor 2010, p. 270
+
+[[ ^60 ]]: Taylor 2010, p. 277
+
+[[ ^61 ]]: Taylor 2010, p. 267–8
+
+[[ ^62 ]]: Taylor 2010, p. 268
+
+[[ ^63 ]]: Faulkner 1994, p.13
+
+[[ ^64 ]]: Taylor 210, p.288 9
+
+[[ ^65 ]]: "Egypt's Place in Universal History", Vol 5, 1867
+
+[[ ^66 ]]: Taylor 2010, p.289 92
+
+[[ ^67 ]]: Taylor 2010, p.291
+
+[[ ^68 ]]: Hornung 1999, p.15–16
+
+[[ ^69 ]]: Müller-Roth 2010, p.190-191
+
+[[ ^70 ]]: Das Altagyptische Totenbuch:  Ein Digitales Textzeugenarchiv (external link)
+
+[[ ^71 ]]: Müller-Roth 2010, p.191
+
+[[ ^72 ]]: Taylor 2010, p.292–7
+
+[[ ^73 ]]: Jarus, Owen (January 26, 2023). [[ "52-foot-long Book of the Dead papyrus from ancient Egypt discovered at Saqqara" | https://www.livescience.com/ancient-egypt-book-of-the-dead-papyrus-found ]]. //livescience.com//. Retrieved February 24, 2023.
+
+[[ ^74 ]]: Cadet, Jean-Marcel (1805). [[ //Copie figurée d'un rouleau de papyrus trouvé à Thèbes, dans un tombeau des rois// | https://gallica.bnf.fr/ark:/12148/bpt6k1520931k.image ]]. Paris: Levrault, Schoell & Cie.
+
+[[ ^75 ]]: Kemp, Barry (2007). //How to Read the Egyptian Book of the Dead//. New York: Granta Publications. pp. 112–113.

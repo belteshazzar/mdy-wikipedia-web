@@ -1,112 +1,176 @@
 +++
 title: Duat
 description: Underworld in Egyptian mythology
-hook: The worst thing that could happen to an ancient Egyptian in the Duat was
-  not fire. It was a heart heavier than a feather, eaten by Ammit, and then
-  simply not existing any more.
-standfirst: "Ancient Egypt's underworld, known only from funerary texts and
-  never depicted the same way twice: a dark country of gates, rivers and lakes
-  of fire, where the sun god sails through the twelve hours of the night and
-  the dead are weighed against a feather."
+hook: "The absolute punishment in ancient Egyptian thought was not torment but
+  ceasing to exist: a heart heavier than the feather of Maat was eaten by
+  Ammit, and the dead person was denied existence after death in the Duat."
+standfirst: A concept in ancient Egyptian mythology involving death, the Duat
+  is most often seen as a realm where people go after they die, and generally
+  known best as a dark subterranean realm housing the deceased and a variety
+  of deities, divided by twelve guarded gates that represent each hour of the
+  night.
 key-facts:
   - name: What it is
-    value: Underworld in Egyptian mythology — a concept involving death, most
-      often seen as a realm where people go after they die
+    value: Underworld in Egyptian mythology
+  - name: Where
+    value: Ancient Egypt
+  - name: Belief system
+    value: Religion of ancient Egypt
+  - name: Written
+    value: 𓇽, romanized dwꜣt
   - name: Also called
-    value: "Tuat; Te (Coptic: Ⲧⲏ, romanized: Tē); Amenthes (Ancient Greek:
-      Ἀμένθης, romanized: Aménthēs)"
-  - name: Where it belongs
-    value: Ancient Egypt, and the religion of ancient Egypt
-  - name: Its lord
-    value: Osiris, god of the Duat and personification of rebirth
+    value: "Te (Coptic: Ⲧⲏ, romanized Tē) and Amenthes (Ancient Greek: Ἀμένθης,
+      romanized Aménthēs)"
+  - name: Known from
+    value: Funerary texts — the Book of Gates, the Book of Caverns, the Coffin
+      Texts, the Amduat and the Book of the Dead — among many other sources
 pull-quotes: []
 timeline:
   - when: around 1275 BCE
-    what: The Papyrus of Hunefer, whose 'Weighing of the Heart' scene shows the
-      judgment of the dead in the presence of Osiris, is dated to the 19th
-      Dynasty.
+    what: The Papyrus of Hunefer, whose 'Weighing of the Heart' scene from the
+      Book of the Dead shows the judgment of the dead in the presence of
+      Osiris, is dated to the 19th Dynasty.
+    from: The 'Weighing of the Heart' from the Book of the Dead from the Papyrus
+      of Hunefer, dated to the 19th Dynasty around 1275 BCE.
   - when: 1885–1890
-    what: The Duat is described in Meyers Konversations-Lexikon, 4th edition.
+    what: The Duat is described in the fourth edition of Meyers
+      Konversations-Lexikon.
+    from: |-
+      described-by-source:
+            - Pauly–Wissowa
+            - Meyers Konversations-Lexikon, 4th edition (1885–1890)
   - when: "2022"
-    what: The Duat appears in the episode 'Asylum' of the Disney+ series Moon
+    what: The Duat appears in the episode "Asylum" of the Disney+ series Moon
       Knight.
+    from: The Duat makes an appearance in the episode "[[ Asylum |
+      asylum-moon-knight ]]" of the [[ Disney+ ]] series //[[ Moon Knight |
+      moon-knight-miniseries ]]// (2022)
 image-plan:
   - file: The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
     role: hero
     section: lead
-    caption: The whole judgment in one strip, from the Papyrus of Hunefer, dated
-      to the 19th Dynasty around 1275 BCE. Anubis takes the dead Hunefer into
-      the judgment hall and weighs the portion of his soul represented by his
-      heart; Ammit the Devourer waits on the result and Thoth records it. At
-      the right Hunefer has passed, and the falcon-headed Horus presents him
-      to Osiris, enthroned with Isis, Nephthys and the four sons of Horus.
+    caption: Hunefer's own judgment, painted on his funerary papyrus around 1275
+      BCE. Anubis takes him into the judgment hall and weighs a portion of his
+      soul, represented by his heart, while Ammit the Devourer awaits the
+      result and Thoth records it. At the right the triumphant Hunefer, having
+      passed the test, is presented by the falcon-headed Horus to Osiris,
+      seated in his shrine with Isis, Nephthys and the four sons of Horus.
   - file: Coffin_of_Gua.jpg
     role: inline
-    section: overview
-    caption: "The Book of Two Ways, a Coffin Text, is about as close to a map of
-      the Duat as Egyptian writing gets: the two pathways run across the right
-      middle of this coffin."
+    section: geography
+    caption: "The Book of Two Ways, a Coffin Text: the two pathways in the right
+      middle of this coffin are a map-like image of the Duat."
   - file: BD_Field_of_Hotep.jpg
     role: full
     section: geography
-    caption: A'aru, 'The Field of Reeds', from the Papyrus of Ani — the paradise
-      waiting for the dead who are found virtuous.
+    caption: A'aru, 'The Field of Reeds', from the Papyrus of Ani — where the dead
+      found virtuous were permitted to dwell, and where the harvests were
+      believed never to be poor.
   - file: Ani_chap125.jpg
     role: inline
     section: housing-of-souls-and-afterlife
-    caption: The 42 Judges of Ma'at, the jury at the 'Weighing of the Heart'. The
-      dead had to address each of the forty-two by name.
+    caption: The 42 Judges of Ma'at, who sit as jury during the 'Weighing of the
+      Heart'. The deceased had to address each of the forty-two Assessors of
+      Maat by name.
   - file: Book_of_Gates_Barque_of_Ra_cropped.jpg
     role: full
     section: journey-of-the-sun
-    caption: "Af, or Afu, commonly known as Afu-Ra: the ram-headed form of Ra
+    caption: "Af or Afu, commonly known as Afu-Ra: the ram-headed form of Ra when
       travelling the Duat on the subterrestrial Nile — the 12 hours of night
-      and the underworld — on the Mesektet barque, with Sia in front of him
-      and Heka behind, inside the coils of the protective serpent deity
-      Mehen."
+      and the underworld — on the Mesektet barque, with Sia at the front, Heka
+      behind, and the protective coiled serpent deity Mehen around them."
   - file: The_Weighing_of_the_Heart.svg
     role: inline
     section: differences-in-sources
-    caption: "The Weighing of the Heart in the Duat, from a papyrus of the
-      Egyptian Book of the Dead: Anubis at the far right, the feather
-      balancing the scales, and Ammit waiting for the hearts that need
-      devouring."
+    caption: "The Weighing of the Heart in the Duat, from a Book of the Dead
+      written on papyrus: Anubis at the far right, the scales shown with the
+      feather balance, and Ammit awaiting hearts that need to be devoured."
 glossary:
   - term: Duat
-    gloss: "The Egyptian underworld: a dark subterranean realm that houses the
-      deceased and a variety of deities, most often seen as where people go
-      after they die."
+    gloss: A concept in ancient Egyptian mythology involving death, most often
+      seen as a realm where people go after they die.
+    from: is a concept in ancient [[ Egyptian mythology ]] involving death. It is
+      most often seen as a realm where people go after they die.
   - term: Shetit
-    gloss: The name most of the Duat's dark, gated lands go by, translated as 'The
-      Beyond' and described as dangerous.
+    gloss: "The name most of the Duat's dark, gate-partitioned lands are
+      identified by: a dangerous land translated as 'The Beyond'."
+    from: These lands are described as being dark and were partitioned with a
+      series of gates, and mostly identified as Shetit, a dangerous land
+      translated as 'The Beyond'.[[ ^4 ]]
   - term: A'aru
-    gloss: "'The Field of Reeds', the paradise the virtuous dead may dwell in,
-      where harvests are never poor and the land is in eternal spring."
-  - term: Weighing of the Heart
-    gloss: The judgment ritual in which Anubis weighs the dead person's heart
-      against the feather of Maat, and Thoth records the verdict.
-  - term: Assessors of Maat
-    gloss: The forty-two judges who sit as jury at the weighing; the dead had to
-      address each by name and recite the sins they did not commit.
+    gloss: "'The Field of Reeds', where the dead found virtuous are permitted to
+      dwell; described as a paradise where they could live their former life
+      with their loved ones without pain or suffering."
+    from: If the dead are found virtuous, they will be permitted to dwell in [[
+      //A'aru// ]], also known as 'The Field of Reeds'.[[ ^12 ]] It is
+      described as a paradise where the dead could live their former life with
+      their loved ones without pain or suffering.
+  - term: Ma'at
+    gloss: Both the goddess of order and the conception of order, balance and
+      truth itself; she is the feather that is weighed against the heart.
+    from: "[[ Ma'at ]], who is both the goddess of order and the conception of
+      order, balance and truth itself. She is the feather that is weighed
+      against the heart in the 'Weighing of the Heart' ritual.[[ ^14 ]]"
   - term: Ammit
-    gloss: The devourer of souls, crocodile-faced, lion in front and hippopotamus
-      behind, who eats the hearts of those who fail the weighing.
-  - term: Af (Afu)
-    gloss: The ram-headed form Ra takes while travelling through the Duat at night.
+    gloss: The devourer of souls, who eats the hearts and souls of those who
+      cannot pass the 'Weighing of the Heart' ritual.
+    from: "[[ Ammit ]], of whom eats the hearts and souls of those who cannot pass
+      the 'Weighing of the Heart' ritual. [...] was rejected and eaten by [[
+      Ammit ]], the devourer of souls"
   - term: Amduat
-    gloss: A funerary text; by its account the underworld has twelve regions, one
-      for each hour of the sun god's night journey.
+    gloss: One of the funerary texts the Duat is known from; according to it the
+      underworld consists of twelve regions signifying the twelve hours of the
+      sun god's journey through it.
+    from: What is known of the //Duat// derives principally from funerary texts
+      such as the //[[ Book of Gates ]]//, the //[[ Book of Caverns ]]//, the
+      //[[ Coffin Texts ]]//, the //[[ Amduat ]]//, and the //[[ Book of the
+      Dead ]],// among many other sources.[[ ^2 ]][[ ^3 ]] [...] According to
+      the //[[ Amduat ]]//, the underworld consists of twelve regions
+      signifying the twelve hours of the sun god's journey through it
+  - term: Af (Afu)
+    gloss: The ram-headed form of Ra when travelling the Duat.
+    from: //Af// or //Afu// (commonly known as //Afu-Ra//), the ram-headed form of
+      Ra when traveling the //Duat// on the subterrestrial [[ Nile ]]
+  - term: Book of the Dead
+    gloss: "Also known as The Book of Coming Forth by Day: a collection of spells
+      and prayers to protect the dead from the Duat's dangerous landscape, and
+      one of the most studied texts in Egyptology."
+    from: the //[[ Book of the Dead ]]// (also known as The Book of Coming Forth
+      by Day) is considered to be an important and vital resource to
+      understanding the //Duat// and is one of the most studied texts in
+      Egyptology.[[ ^1 ]][[ ^11 ]] [...] The //[[ Book of the Dead ]]// and [[
+      Coffin Texts ]] were collections of spells and prayers to protect the
+      dead from the //Duat//'s dangerous landscape.
 further:
   - slug: book-of-the-dead
-    why: The text this article leans on hardest — also known as The Book of Coming
-      Forth by Day, and one of the most studied in Egyptology.
+    why: The article calls it an important and vital resource to understanding the
+      Duat, and one of the most studied texts in Egyptology.
   - slug: osiris
-    why: Lord of the Duat, killed by his brother Seth and partially revived by
-      Isis; the realm's rebirth runs through him.
+    why: God of the Duat and personification of rebirth, believed to be lord of
+      the realm — and reborn himself after Seth slays him.
   - slug: ancient-egyptian-afterlife-beliefs
-    why: The wider set of beliefs the Duat sits inside, and the reason each
-      funerary text depicts it differently.
-anchors: {}
+    why: The wider set of beliefs the Book of the Dead's version of the Duat is
+      the most commonly referenced canon for.
+anchors:
+  hook: After confirming that they were sinless, the heart of the deceased was
+    weighed by [[ Anubis ]] against the feather of [[ Maat ]], which
+    represents truth and justice. Any heart that is heavier than the feather
+    failed the test, and was rejected and eaten by [[ Ammit ]], the devourer
+    of souls, as these people were denied existence after death in the Duat.
+    [...] The //Duat// is not equivalent to the conceptions of [[ Hell ]] in
+    the [[ Abrahamic religions ]], in which souls are condemned with fiery
+    torment. The absolute punishment for the wicked, in ancient Egyptian
+    thought, was the denial of an afterlife to the deceased, ceasing to exist
+    in the intellectual form seen through the devouring of the heart by
+    Ammit.[[ ^9 ]]
+  standfirst: is a concept in ancient [[ Egyptian mythology ]] involving death.
+    It is most often seen as a realm where people go after they die. [...] It
+    is generally known best as a dark subterranean realm that not only houses
+    the deceased, but a variety of [[ deities | deity ]].[[ ^4 ]] [...] The
+    //Duat// is divided into sections by [[ twelve guarded gates |
+    gate-deities-of-the-underworld ]] that represent each hour of the night
+    and are closely associated with the journey of Ra and prominently feature
+    [[ Osiris ]], god of the //Duat// and personification of rebirth.[[ ^8 ]]
 image: https://upload.wikimedia.org/wikipedia/commons/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
 images:
   - file: The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
@@ -276,49 +340,50 @@ rewritten:
   of: corpus/en/duat.mdy
   source-revision: "1367163030"
   model: claude-opus-5
-  left-out: "Two things. (1) The section 'Mythological significance' is a
-    level-3 heading with no prose of its own in the source — every sentence
-    under it belongs to the two level-4 subsections, 'Housing of souls and
-    afterlife' and 'Journey of the Sun' — so its body is empty rather than
-    filled with a bridging sentence I would have had to invent; the heading is
-    kept, as required. (2) 'pull-quotes' is empty: the article contains no
-    quotation attributed to a named speaker or source, only translated
-    epithets ('The Beyond', 'The Hidden Place', 'Road of the Secret Things of
-    Re-stau'), which stay in the Geography prose where they belong. Footnote
-    markers are carried in the lead and the section bodies but not in the
-    hook, standfirst, key-facts, captions or glossary, which are not prose
-    fields."
+  left-out: "The 'Mythological significance' heading has no prose of its own in
+    the source — it only introduces its two subsections — so its body is empty
+    rather than filled with a bridging sentence the article does not support.
+    No pull-quotes: the article contains quoted place-names and titles ('The
+    Beyond', 'The Hidden Place', 'Road of the Secret Things of Re-stau') but
+    no quotation attributable to a named speaker or source. The 'Deities'
+    section is a list and has been left close to as it was; its one visible
+    typo ('divinites') is corrected to 'divinities'. Several sentences in
+    'Housing of souls and afterlife' and 'Journey of the Sun' carry no
+    footnote in the source, so none could be added to them. The Wikidata
+    claims described-by-source: Pauly–Wissowa, commons-category,
+    topic-s-main-category and the Wikidata image URL are not used, having
+    nothing to attach to in the prose."
   verified: false
   reviewed: false
 +++
-The !!Duat!! or !!Tuat!! ([[ Ancient Egyptian | ancient-egypt ]]: [[ Hieroglyph | egyptian-hieroglyphs ]]: 𓇽 romanized: [[ dwꜣt | https://en.wiktionary.org/wiki/dwꜣt#Egyptian ]]) is a concept in ancient [[ Egyptian mythology ]] involving death, and it is most often seen as a realm where people go after they die. Linguistic shifts within [[ Ancient Egypt ]] left it with other names as well: the //Duat// has also been called !!Te!! (Coptic: Ⲧⲏ, romanized: //Tē//) and !!Amenthes!! (Ancient Greek: Ἀμένθης, [[ romanized | romanization-of-ancient-greek ]]: //Aménthēs//).
+The !!Duat!! or !!Tuat!! ([[ Ancient Egyptian | ancient-egypt ]]: [[ Hieroglyph | egyptian-hieroglyphs ]]: 𓇽 romanized: [[ dwꜣt | https://en.wiktionary.org/wiki/dwꜣt#Egyptian ]]) is a concept in ancient [[ Egyptian mythology ]] involving death, most often seen as a realm where people go after they die, and generally known best as a dark subterranean realm that not only houses the deceased, but a variety of [[ deities | deity ]].[[ ^4 ]] Due to linguistic shifts within [[ Ancient Egypt ]], the //Duat// has also been called !!Te!! (Coptic: Ⲧⲏ, romanized: //Tē//) and !!Amenthes!! (Ancient Greek: Ἀμένθης, [[ romanized | romanization-of-ancient-greek ]]: //Aménthēs//).
 
-What is known of the //Duat// derives principally from funerary texts: the //[[ Book of Gates ]]//, the //[[ Book of Caverns ]]//, the //[[ Coffin Texts ]]//, the //[[ Amduat ]]//, and the //[[ Book of the Dead ]],// among many other sources.[[ ^2 ]][[ ^3 ]] From them it is generally known best as a dark subterranean realm that houses not only the deceased, but a variety of [[ deities | deity ]].[[ ^4 ]] The ones that turn up most often in these texts are [[ Osiris ]], [[ Anubis ]], [[ Thoth ]], [[ Horus ]], and [[ Maat ]], in various forms.[[ ^1 ]] All of these documents involve the //Duat//, but each of them fulfilled a different [[ purpose | ancient-egyptian-afterlife-beliefs ]] and depicts the //Duat// in a variety of unique ways.[[ ^5 ]][[ ^6 ]]
+What is known of it derives principally from funerary texts such as the //[[ Book of Gates ]]//, the //[[ Book of Caverns ]]//, the //[[ Coffin Texts ]]//, the //[[ Amduat ]]//, and the //[[ Book of the Dead ]],// among many other sources.[[ ^2 ]][[ ^3 ]] The deities those texts depict most commonly are [[ Osiris ]], [[ Anubis ]], [[ Thoth ]], [[ Horus ]], and [[ Maat ]], in various forms.[[ ^1 ]] All of these documents involve the //Duat//, but each of them fulfilled a different [[ purpose | ancient-egyptian-afterlife-beliefs ]] and depicts the realm in a variety of unique ways.[[ ^5 ]][[ ^6 ]]
 
 == Overview
 
-Two things happen in the //Duat// more than anything else: the soul is judged after death, and the sun god [[ Ra ]] is reborn each night. It is depicted most often as the setting for those rituals and [[ mythological | egyptian-mythology ]] events.[[ ^7 ]] The realm is divided by [[ twelve guarded gates | gate-deities-of-the-underworld ]], one for each hour of the night, closely associated with Ra's journey, and the sections they mark prominently feature [[ Osiris ]], god of the //Duat// and personification of rebirth.[[ ^8 ]]
+Two things happen in this realm more than anything else: the soul makes its journey and is judged after death, and the sun god [[ Ra ]] is reborn each night. The //Duat// is most often depicted as the setting for those rituals and [[ mythological | egyptian-mythology ]] events.[[ ^7 ]] It is divided into sections by [[ twelve guarded gates | gate-deities-of-the-underworld ]], one for each hour of the night. The gates are closely associated with the journey of Ra, and they prominently feature [[ Osiris ]], god of the //Duat// and personification of rebirth.[[ ^8 ]]
 
 == Geography
 
-A burial chamber was a touching-point, the place where the mundane world and the //Duat// met.[[ ^9 ]] That is why the west bank of the [[ Nile ]] was associated with the dead, and why [[ funeral barges | ancient-egyptian-funerary-practices ]] would mimic the sun god Ra's journey through the sky during the day.[[ ^10 ]]
+The //Duat// met the material world at a particular place: burial chambers formed touching-points between the mundane world and the realm of the dead.[[ ^9 ]] The west bank of the [[ Nile ]] was associated with the dead, and [[ funeral barges | ancient-egyptian-funerary-practices ]] would mimic the sun god Ra's journey through the sky during the day.[[ ^10 ]]
 
-The country on the other side is described with many realistic features: rivers, islands, fields, paths and lakes. Texts also describe lakes of fire, walls of iron, and trees of turquoise.[[ ^2 ]] These lands are dark, partitioned with a series of gates, and mostly identified as Shetit, a dangerous land translated as 'The Beyond'.[[ ^4 ]] The other titles run the same way: 'The Hidden Place', described as a region where mortals and the divine are absent;[[ ^4 ]] and 'Road of the Secret Things of Re-stau', a road that Ra passes in his nightly journey.[[ ^7 ]]
+The place itself is often described with features you could point to on a map — rivers, islands, fields, paths, and lakes — and then with features you could not: lakes of fire, walls of iron, and trees of turquoise.[[ ^2 ]] These lands are described as being dark and were partitioned with a series of gates, and mostly identified as Shetit, a dangerous land translated as 'The Beyond'.[[ ^4 ]] The other names run the same way. 'The Hidden Place' is described as a region where mortals and the divine are absent;[[ ^4 ]] 'Road of the Secret Things of Re-stau' is a road that Ra passes in his nightly journey.[[ ^7 ]]
 
-For the deceased, the important address is 'The Hall of Truth', often depicted alongside the '[[ Weighing of the Heart ]]' ritual in //Books of the Dead// and mentioned in the sixth hour of Ra's journey.[[ ^11 ]][[ ^7 ]] The dead found virtuous are permitted to dwell in [[ //A'aru// ]], also known as 'The Field of Reeds'.[[ ^12 ]] It is described as a paradise where the dead could live their former life with their loved ones without pain or suffering. Harvest of crops is often featured in depictions of //A'aru//, because the harvests were believed never to be poor and the land to be in eternal spring.[[ ^12 ]]
+For the deceased the important location was 'The Hall of Truth', often depicted alongside the '[[ Weighing of the Heart ]]' ritual in //Books of the Dead// and mentioned in the sixth hour of Ra's journey.[[ ^11 ]][[ ^7 ]] The dead found virtuous were permitted to dwell in [[ //A'aru// ]], also known as 'The Field of Reeds'.[[ ^12 ]] It is described as a paradise where the dead could live their former life with their loved ones without pain or suffering. Harvest of crops is often featured in depictions of //A'aru//, as it was believed that the harvests were never poor and the land in eternal spring.[[ ^12 ]]
 
 == Deities
 
-There are hundreds of different divinites of varying importance related to the //Duat// throughout time. The most referenced are these.
+There are hundreds of different divinities of varying importance related to the //Duat// throughout time, with the most referenced being:
 
-- [[ Osiris ]], believed to be the lord of the realm, who personifies rebirth and the afterlife. In [[ his own mythology | osiris-myth ]] he is himself reborn after his brother [[ Seth | set-deity ]] slays him and his wife [[ Isis ]] partially revives him. He is depicted as a man with green skin partially wrapped in bandages.[[ ^13 ]]
-- [[ Anubis ]], son of Osiris and [[ Nephthys ]], who weighs the heart of the deceased. His domains also cover the [[ embalming ]] and mummification process, and he guides souls to the //Duat// upon death. He is depicted with the black head of a canine, most often assumed to be a [[ jackal ]].[[ ^14 ]]
+- [[ Osiris ]], who was believed to be the lord of the realm and personifies rebirth and the afterlife. In [[ his own mythology | osiris-myth ]], he himself is reborn after his brother [[ Seth | set-deity ]] slays him and Osiris's wife, [[ Isis ]] partially revives him. He is depicted as a man with green skin partially wrapped in bandages.[[ ^13 ]]
+- [[ Anubis ]], son of Osiris and [[ Nephthys ]], who weighs the heart of the deceased. His domains also cover the [[ embalming ]] and mummification process as well as acting to guide souls to the //Duat// upon death. He is depicted with the black head of a canine, most often assumed to be a [[ jackal ]].[[ ^14 ]]
 - [[ Thoth ]], who records the verdict of the 'Weighing of the Heart'. He is most often depicted as an [[ Ibis ]] headed man with a stylus and tablet.[[ ^14 ]]
 - [[ Horus ]], son of Osiris and Isis, who protects Ra during his journey through the //Duat// and is heir to Osiris.[[ ^14 ]]
 - [[ Ma'at ]], who is both the goddess of order and the conception of order, balance and truth itself. She is the feather that is weighed against the heart in the 'Weighing of the Heart' ritual.[[ ^14 ]]
 - [[ Ammit ]], who eats the hearts and souls of those who cannot pass the 'Weighing of the Heart' ritual. She is often depicted near the scales in //Books of the Dead// with the face of a crocodile, the mane and front half of a lion, and the hindquarters of a hippopotamus.[[ ^14 ]]
-- [[ Ra ]], god of the sun, who must journey through the //Duat// every night to be reborn every morning.[[ ^14 ]]
-- [[ Apep ]], the personification of darkness and true chaos, who attempts to devour Ra and bring about eternal chaos.[[ ^14 ]]
+- [[ Ra ]], god of the sun who must journey through the //Duat// every night to be reborn every morning.[[ ^14 ]]
+- [[ Apep ]], the personification of darkness and true chaos who attempts to devour Ra and bring about eternal chaos.[[ ^14 ]]
 
 == Mythological significance
 
@@ -326,26 +391,26 @@ There are hundreds of different divinites of varying importance related to the /
 
 == Housing of souls and afterlife
 
-Judgement had to be travelled to. The dead journeyed through the various parts of the Duat to be judged, and if they were able to pass various challenges they reached the //Judgment of the dead//. The first task in that ritual was to address each of the forty-two [[ Assessors of Maat ]] correctly by name, while reciting the sins they did not commit during their lifetime.[[ ^15 ]] After confirming that they were sinless, the heart of the deceased was weighed by [[ Anubis ]] against the feather of [[ Maat ]], which represents truth and justice. Any heart heavier than the feather failed the test, and was rejected and eaten by [[ Ammit ]], the devourer of souls; those people were denied existence after death in the Duat. A soul lighter than the feather passed this most important test, and would be allowed to travel to Aaru.
+To receive judgement the dead journeyed through the various parts of the Duat, and those who successfully passed the various challenges reached the //Judgment of the dead//. The first task in that ritual was to address each of the forty-two [[ Assessors of Maat ]] correctly, by name, while reciting the sins they did not commit during their lifetime.[[ ^15 ]] Only after confirming that they were sinless was the heart of the deceased weighed by [[ Anubis ]] against the feather of [[ Maat ]], which represents truth and justice. Any heart that is heavier than the feather failed the test, and was rejected and eaten by [[ Ammit ]], the devourer of souls, as these people were denied existence after death in the Duat. The souls that were lighter than the feather would pass this most important test, and would be allowed to travel to Aaru.
 
-The //Duat// is not equivalent to the conceptions of [[ Hell ]] in the [[ Abrahamic religions ]], in which souls are condemned with fiery torment. The absolute punishment for the wicked, in ancient Egyptian thought, was the denial of an afterlife to the deceased: ceasing to exist in the intellectual form, which is what the devouring of the heart by Ammit meant.[[ ^9 ]]
+This is not damnation as later religions understood it. The //Duat// is not equivalent to the conceptions of [[ Hell ]] in the [[ Abrahamic religions ]], in which souls are condemned with fiery torment. The absolute punishment for the wicked, in ancient Egyptian thought, was the denial of an afterlife to the deceased, ceasing to exist in the intellectual form seen through the devouring of the heart by Ammit.[[ ^9 ]]
 
 == Journey of the Sun
 
-Each night Ra travelled through the //Duat//, and the main benefit to the dead was revivification. In the underworld he was in his [[ ram | ovis-longipes-palaeoaegyptiacus ]]-headed form, Af. He travelled under the world upon his [[ Atet ]] barge from west to east, and in the course of the underground journey he was transformed from his aged [[ Atum ]] form into his young [[ Khepri ]] form, the new dawning sun. The role of the dead king, worshiped as a god, was also central to the mythology surrounding the concept of Duat, and he is often depicted as being identical with Ra.[[ ^16 ]]
+Each night Ra travelled through the //Duat//, bringing revivification to the dead as their main benefit. When in the underworld he was in his [[ ram | ovis-longipes-palaeoaegyptiacus ]]-headed form Af. Ra travelled under the world upon his [[ Atet ]] barge from west to east; on the course of the underground journey, he was transformed from his aged [[ Atum ]] form into his young [[ Khepri ]] form – the new dawning sun. The role of the dead king, worshiped as a god, was also central to the mythology surrounding the concept of Duat, often depicted as being identical with Ra.[[ ^16 ]]
 
 The dead king travelled through the Duat, the Kingdom of Osiris, along with the sun god, using the special knowledge he was supposed to possess. That knowledge was recorded in the [[ Coffin Texts ]], which served as a guide to the hereafter not just for the king but for all deceased. According to the //[[ Amduat ]]//, the underworld consists of twelve regions signifying the twelve hours of the sun god's journey through it, battling [[ Apep ]] in order to bring order back to the earth in the morning. As his rays illuminated the Duat during the journey, they revived the dead who occupied the underworld and let them enjoy life after death during that hour of the night when they were in the presence of the sun god, after which they resumed their sleep, waiting for the god's return the following night.[[ ^5 ]]
 
 == Differences in sources
 
-The //Duat// has a variety of depictions, but the //[[ Book of the Dead ]]// (also known as The Book of Coming Forth by Day) is considered to be an important and vital resource to understanding it, and is one of the most studied texts in Egyptology.[[ ^1 ]][[ ^11 ]] The conceptions of the //Duat// found in that text are therefore the most commonly referenced [[ canon | canon-fiction ]] when discussing [[ ancient Egyptian afterlife beliefs ]]. The //[[ Book of the Dead ]]// and the [[ Coffin Texts ]] were collections of spells and prayers to protect the dead from the //Duat//'s dangerous landscape. None of the available sources that discuss the Duat are to lay out a geography or coherent setting, but to describe a succession of rites of passage which the dead would have to pass to reach eternal life.[[ ^5 ]]
+While the //Duat// has a variety of depictions, the //[[ Book of the Dead ]]// (also known as The Book of Coming Forth by Day) is considered to be an important and vital resource to understanding the //Duat//, and is one of the most studied texts in Egyptology.[[ ^1 ]][[ ^11 ]] The conceptions of the //Duat// found in this text are therefore considered to be the most commonly referenced [[ canon | canon-fiction ]] when discussing [[ ancient Egyptian afterlife beliefs ]]. Both it and the [[ Coffin Texts ]] were collections of spells and prayers to protect the dead from the //Duat//'s dangerous landscape. None of the available sources that discuss the Duat set out to lay out a geography or a coherent setting; what they describe is a succession of rites of passage which the dead would have to pass to reach eternal life.[[ ^5 ]]
 
 == In popular culture
 
 - The Duat appears as a major location in [[ Rick Riordan ]]'s //[[ The Kane Chronicles ]]// series. It is revealed in //[[ The Crown of Ptolemy ]]// to have connections to the Mist from Riordan's //[[ Camp Half-Blood Chronicles ]]// series.
-- In //[[ Assassin's Creed Origins ]]//, the Duat is an important aspect of the game, with the main character, [[ Bayek ]], entering it multiple times.
-- The Duat makes an appearance in the episode "[[ Asylum | asylum-moon-knight ]]" of the [[ Disney+ ]] series //[[ Moon Knight | moon-knight-miniseries ]]// (2022), as the place where [[ Marc Spector | marc-spector-marvel-cinematic-universe ]] and his alter [[ Steven Grant | steven-grant-marvel-cinematic-universe ]] are guided by the Egyptian goddess [[ Taweret | taweret-marvel-cinematic-universe ]] in the afterlife after being killed by [[ Arthur Harrow ]].[[ ^17 ]]
-- In seminal Beat Generation author William S. Burroughs' work //[[ The Western Lands ]]//, the time travelling, anti hero gunslinger Kim Carsons explores the Duat and confronts its inhabitants.[[ ^18 ]]
+- In //[[ Assassin's Creed Origins ]]//, the Duat is an important aspect of the game with the main character, [[ Bayek ]], entering it multiple times.
+- The Duat makes an appearance in the episode "[[ Asylum | asylum-moon-knight ]]" of the [[ Disney+ ]] series //[[ Moon Knight | moon-knight-miniseries ]]// (2022) as the place where [[ Marc Spector | marc-spector-marvel-cinematic-universe ]] and his alter [[ Steven Grant | steven-grant-marvel-cinematic-universe ]] are being guided by the Egyptian goddess [[ Taweret | taweret-marvel-cinematic-universe ]] in the afterlife after being killed by [[ Arthur Harrow ]].[[ ^17 ]]
+- In seminal Beat Generation author William S. Burroughs' work //[[ The Western Lands ]]//, the time travelling, anti hero gunslinger, Kim Carsons explores the Duat and confronts its inhabitants.[[ ^18 ]]
 
 [[ ^1 ]]: [[ "Egyptian Book of the Dead" | https://web.archive.org/web/20120926051942/http://www.egyptartsite.com/hall1.html ]]. 2012-09-26. Archived from [[ the original | http://www.egyptartsite.com/hall1.html ]] on 26 September 2012. Retrieved 2025-03-15.
 

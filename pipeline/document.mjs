@@ -253,14 +253,40 @@ export function prompt(slug, {data, prose}, inCorpus) {
   ].join('\n')
 }
 
+/**
+ * What a short field says.
+ *
+ * Three shapes to survive: absent (body tier does not ask for these at all), a
+ * bare string (answers written before the fields carried anchors), and the
+ * `{text, from}` pair they carry now.
+ */
+const said = (field) =>
+  field === undefined || field === null
+    ? undefined
+    : typeof field === 'string'
+      ? field
+      : field.text
+
+/** The quotes a reviewer checks the short fields against, if there are any. */
+function anchored(rewrite) {
+  const out = {}
+
+  for (const key of ['hook', 'standfirst']) {
+    const field = rewrite[key]
+
+    if (field && typeof field === 'object' && field.from) out[key] = field.from
+  }
+
+  return Object.keys(out).length ? out : undefined
+}
+
 /** The edited document: the rewrite, with the records and notes carried over. */
 export function compose(slug, original, rewrite, usage) {
   const data = {
     title: original.data.title,
     description: original.data.description,
-    hook: typeof rewrite.hook === 'string' ? rewrite.hook : rewrite.hook.text,
-    standfirst:
-      typeof rewrite.standfirst === 'string' ? rewrite.standfirst : rewrite.standfirst.text,
+    hook: said(rewrite.hook),
+    standfirst: said(rewrite.standfirst),
     'key-facts': rewrite['key-facts'],
     'pull-quotes': rewrite['pull-quotes'],
     timeline: rewrite.timeline,
@@ -270,11 +296,7 @@ export function compose(slug, original, rewrite, usage) {
     // What each short field is compressing, kept rather than thrown away: it
     // is what a reviewer checks the field against, and checking a hook against
     // its own quote is a ten-second job where re-reading the article is not.
-    anchors: {
-      hook: typeof rewrite.hook === 'string' ? undefined : rewrite.hook.from,
-      standfirst:
-        typeof rewrite.standfirst === 'string' ? undefined : rewrite.standfirst.from
-    },
+    anchors: anchored(rewrite),
     // Carried across untouched — the rewrite is of the prose.
     coordinates: original.data.coordinates,
     image: original.data.image,

@@ -1,0 +1,251 @@
++++
+title: Ennead
+description: Group of nine deities in Egyptian mythology worshipped at Heliopolis
+key-facts:
+  - name: The nine
+    value: Atum, Shu, Tefnut, Geb, Nut, Osiris, Isis, Set, Nephthys
+  - name: Worshipped at
+    value: Heliopolis
+  - name: Egyptian name
+    value: psḏt, conventionally transcribed Pesedjet
+  - name: Greek name
+    value: enneás (ἐννεάς), "the nine"
+  - name: Canaanite equivalent
+    value: El's Divine Council
+  - name: Not to be confused with
+    value: Enneads, Aeneads
+image-plan:
+  - file: The_Ennead.svg
+    role: hero
+    section: lead
+    caption: "The members of the Ennead: Atum, Shu, Tefnut, Geb, Nut, Osiris,
+      Isis, Set and Nephthys."
+further:
+  - slug: ancient-egyptian-creation-myths
+    why: The Heliopolitan story is only one of many creation stories, and the
+      Egyptians held that no single one was more correct than another.
+  - slug: osiris
+    why: God of vegetation and the afterlife, and the most prominent deity the
+      Heliopolitan priesthood folded into the ennead, as Atum's
+      great-grandson.
+  - slug: ancient-egyptian-afterlife-beliefs
+    why: The other half of what Osiris governed, alongside vegetation.
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Ennead.svg/250px-The_Ennead.svg.png
+    caption: "Members: Atum, Shu, Tefnut, Geb, Nut, Osiris, Isis, Set, Nephthys"
+  name-in-hieroglyphs: (p 2464) psḏt (Other spellings) (Names of individual members)
+  equivalents:
+    canaanite: El's Divine Council
+sections:
+  - level: 2
+    id: status-within-ancient-egypt
+    title: Status within ancient Egypt
+  - level: 2
+    id: name-in-egyptian-greek-and-latin
+    title: Name in Egyptian, Greek, and Latin
+  - level: 2
+    id: history
+    title: History
+  - level: 2
+    id: mythology
+    title: Mythology
+  - level: 2
+    id: family-tree
+    title: Family tree
+  - level: 2
+    id: hieroglyphs
+    title: Hieroglyphs
+  - level: 3
+    id: variant-hieroglyphs-for-the-ennead
+    title: Variant hieroglyphs for the Ennead
+  - level: 3
+    id: hieroglyphs-of-individual-members
+    title: Hieroglyphs of individual members
+  - level: 2
+    id: in-popular-culture
+    title: In popular culture
+wikidata:
+  id: Q233458
+  label: Ennead
+  description: group of nine deities in Egyptian mythology worshipped at Heliopolis
+  claims:
+    topic-s-main-category: Category:Ennead
+    commons-category: Ennead
+    instance-of:
+      - deity
+      - ennead
+    different-from:
+      - Enneads
+      - Aeneads
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/The_Ennead.svg
+link-titles:
+  air-classical-element: Air (classical element)
+  ancient-egyptian-afterlife-beliefs: Ancient Egyptian afterlife beliefs
+  ancient-egyptian-creation-myths: Ancient Egyptian creation myths
+  ancient-egyptian-language: Ancient Egyptian language
+  ancient-egyptians: Ancient Egyptians
+  ancient-greek-language: Ancient Greek language
+  apotheosis: Apotheosis
+  atum: Atum
+  atum-re: Atum-re
+  cairo: Cairo
+  calque: Calque
+  creation-story: Creation story
+  dio-brando: Dio Brando
+  dynasty-i: Dynasty I
+  dynasty-v: Dynasty V
+  dynasty-vi: Dynasty VI
+  dynasty-xix: Dynasty XIX
+  egyptian-calendar: Egyptian calendar
+  egyptian-mythology: Egyptian mythology
+  egyptian-pantheon: Egyptian pantheon
+  egyptologist: Egyptologist
+  geb: Geb
+  god-of-vegetation: God of vegetation
+  gods-of-egypt-film: Gods of Egypt (film)
+  hathor: Hathor
+  heliopolis-ancient-egypt: Heliopolis (Ancient Egypt)
+  hermopolis: Hermopolis
+  horus: Horus
+  horus-the-elder: Horus the Elder
+  humidity: Humidity
+  isis: Isis
+  jojos-bizarre-adventure: JoJo's Bizarre Adventure
+  late-egyptian: Late Egyptian
+  latin: Latin
+  marvel-cinematic-universe: Marvel Cinematic Universe
+  memphis-egypt: Memphis, Egypt
+  memphite-theology: Memphite Theology
+  middle-egyptian: Middle Egyptian
+  moon-knight-miniseries: Moon Knight (miniseries)
+  mortuary-temple-of-seti-i: Mortuary Temple of Seti I
+  naunet: Naunet
+  nephthys: Nephthys
+  nome-egypt: Nome (Egypt)
+  nut-goddess: Nut (goddess)
+  ogdoad-egyptian: Ogdoad (Egyptian)
+  ogdoad-creation-myth: Ogdoad creation myth
+  old-egyptian: Old Egyptian
+  old-kingdom: Old Kingdom
+  osiris: Osiris
+  pharaoh: Pharaoh
+  pleiades: Pleiades
+  ptah: Ptah
+  ptolemaic-egypt: Ptolemaic Egypt
+  pyramid-texts: Pyramid Texts
+  ra: Ra
+  roman-egypt: Roman Egypt
+  sentinels-of-the-multiverse: Sentinels of the Multiverse
+  set-deity: Set (deity)
+  set-god: Set (god)
+  set-mythology: Set (mythology)
+  seti-i: Seti I
+  shu-god: Shu (god)
+  stardust-crusaders: Stardust Crusaders
+  steven-grant-character: Steven Grant (character)
+  sun-god: Sun god
+  syncretization: Syncretization
+  tefnut: Tefnut
+  unification-of-egypt: Unification of Egypt
+source:
+  site: Wikipedia
+  lang: en
+  title: Ennead
+  url: https://en.wikipedia.org/wiki/Ennead
+  page-id: 97187
+  revision: "1365520519"
+  modified: 2026-07-23T00:03:00Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Ennead"
+    (revision 1365520519), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/ennead.mdy
+  source-revision: "1365520519"
+  model: claude-opus-5
+  left-out: Three things. (1) The "Hieroglyphs" section has no prose of its own
+    in the source - everything under it sits in its two subsections - so its
+    body is empty rather than invented. (2) The "Family tree" and both
+    hieroglyph sections are tables of images with no running prose; the
+    source's hieroglyphic groups are wikihiero image files with only sign
+    codes as alt text, so I reduced the family tree to the generations it
+    lists (keeping its own [[ Set | set-mythology ]] link, which differs from
+    the lead's [[ Set | set-deity ]]) and did not attempt to transcribe or
+    interpret the sign groups. The nine deity figures inside the family-tree
+    table (Atum, Shu, Tefnut, Geb, Nut, Osiris, Isis, Set, Nephthys) were left
+    in place there rather than added to the image plan, which the front matter
+    lists as empty apart from the infobox picture. (3) In "Name in Egyptian,
+    Greek, and Latin" the source's reconstructed pronunciations for Old,
+    Middle and Late Egyptian are missing from the document - the sentence
+    reads "may have been in Old Egyptian, in Middle Egyptian, and in Late
+    Egyptian" with the forms stripped out - so I kept the hedge and the three
+    stages without supplying any vocalisation.
+  verified: false
+  reviewed: false
++++
+The !!Ennead!!, or !!Great Ennead!!, is a family tree with nine names on it: the [[ deities | egyptian-pantheon ]] of [[ Egyptian mythology ]] worshipped together at [[ Heliopolis | heliopolis-ancient-egypt ]]. The [[ sun god ]] [[ Atum ]] stands at the top; then his children [[ Shu | shu-god ]] and [[ Tefnut ]]; then their children [[ Geb ]] and [[ Nut | nut-goddess ]]; then their children [[ Osiris ]], [[ Isis ]], [[ Set | set-deity ]] and [[ Nephthys ]].[[ ^2 ]] Nine is the count, but not always the same nine. The Ennead sometimes includes [[ Horus the Elder ]], an ancient form of the falcon god, not the son of Osiris and Isis.
+
+== Status within ancient Egypt
+
+The Great Ennead was only one of several such groupings of nine deities in ancient Egypt, and the claims to preeminence made by its Heliopolitan priests were not respected throughout Egypt. Each [[ nome | nome-egypt ]] typically had its own local deities, whose priests insisted stood above all others.[[ ^3 ]] Even in the nearby city of [[ Memphis | memphis-egypt ]], which along with Heliopolis is contained within the limits of modern [[ Cairo ]], the priests of [[ Ptah ]] celebrated him as singularly superior to the Nine. Memphis had its own creation myth, and the contemporaneous city of [[ Hermopolis ]] had another creation story again, the //[[ Ogdoad | ogdoad-egyptian ]]//, which accounted for the physical creation of the universe by eight (different) primordial gods.[[ ^3 ]]
+
+== Name in Egyptian, Greek, and Latin
+
+The English name //ennead// is a borrowing via [[ Latin ]] of the [[ Greek | ancient-greek-language ]] name //enneás// (ἐννεάς), meaning "the nine".[[ ^4 ]] That name was a [[ calque ]] of the Egyptian one, written //[[ psḏt | https://en.wiktionary.org/wiki/psḏt#Egyptian ]]// and also meaning "the Nine". Its original pronunciation is uncertain, since hieroglyphs do not record vowels, but it may have taken different forms in [[ Old Egyptian ]], in [[ Middle Egyptian ]], and in [[ Late Egyptian ]]. [[ Egyptologists | egyptologist ]] conventionally transcribe it as !!Pesedjet!!.
+
+== History
+
+The [[ ancient Egyptians ]] created several enneads as their [[ unification | unification-of-egypt ]] under [[ Dynasty I ]] brought numerous local cults into contact with one another. Ancient Egyptian mythology often had many different explanations for the same phenomenon, and no single story was more accurate than another: the truth was a mix of them all.[[ ^2 ]] The [[ Pyramid Texts ]] of [[ Dynasties V | dynasty-v ]] and [[ VI | dynasty-vi ]] mention the "Great Ennead", the "Lesser Ennead", the "Dual Ennead", and the "Seven Enneads". Some [[ pharaohs | pharaoh ]] established enneads that [[ incorporated themselves as gods | apotheosis ]]. The most notable case is [[ Seti I ]] of [[ Dynasty XIX ]], whose [[ mortuary temple at Redesiyah | mortuary-temple-of-seti-i ]] celebrated an ennead of six major gods and three deified forms of himself. The //ennead// mentioned in the [[ Egyptian calendar of lucky and unlucky days | egyptian-calendar#lucky-and-unlucky-days ]],[[ ^5 ]] may reference the [[ Pleiades ]].[[ ^6 ]]
+
+The most important was the "Great" or "Heliopolitan Ennead" of Awanu (Ancient Egyptian: //I͗wnw//), known under the [[ Greeks | ptolemaic-egypt ]] and [[ Romans | roman-egypt ]] as [[ Heliopolis | heliopolis-ancient-egypt ]]. It celebrated the family of the [[ sun god ]] [[ Atum ]], sometimes referred to as [[ Atum-re ]],[[ ^3 ]] and thrived from the [[ Old Kingdom ]] to the [[ Ptolemaic period | ptolemaic-egypt ]].
+
+Its development remains uncertain, although it appears to have first appeared when [[ Ra ]]'s cult, supreme under [[ Dynasty V ]], declined in importance under [[ Dynasty VI ]]. [[ Egyptologists | egyptologist ]] have traditionally theorized that the Heliopolitan priesthood established it to establish the preeminence of Atum over the others, incorporating some major gods in lesser positions and omitting others entirely. The most prominent of such deities was [[ Osiris ]], [[ god of vegetation ]] and the [[ afterlife | ancient-egyptian-afterlife-beliefs ]], who was incorporated into the ennead as Atum's great-grandson. In the 20th century, however, some Egyptologists question the whole scenario. After the Great Ennead was well established, the cult of Ra, [[ identified with | syncretization ]] Atum, recovered much of its importance until it was superseded by the cult of [[ Horus ]]. The two were then combined as //Ra-Horus of the Horizons//.
+
+== Mythology
+
+According to the [[ creation story ]] of the Heliopolitan priests, the world originally consisted of the primordial waters of precreation, personified as [[ Nun | naunet ]].[[ ^2 ]] From it arose a mound on the First Occasion.[[ ^2 ]] Upon the mound sat the self-begotten god [[ Atum ]], who was equated with the [[ sun god ]] [[ Ra ]] and who evolved from Nun through self-creation.[[ ^2 ]] Atum either spat or masturbated, producing [[ air | air-classical-element ]] personified as [[ Shu | shu-god ]] and [[ moisture | humidity ]] personified as [[ Tefnut ]]. The siblings Shu and Tefnut mated to produce the earth personified as [[ Geb ]] and the nighttime sky personified as [[ Nut | nut-goddess ]].
+
+Geb and Nut were the parents of [[ Osiris ]] and [[ Isis ]] and of [[ Set | set-god ]] and [[ Nephthys ]], who became respective couples in turn. Osiris and Isis represent fertility and order, while Set and Nephthys represent chaos to balance out Osiris and Isis.[[ ^3 ]] [[ Horus ]], the son of Osiris and Isis, is often included in this creation tradition.[[ ^2 ]] Due to the duality of Ancient Egyptian myths, this is only one of [[ many creation stories | ancient-egyptian-creation-myths ]].[[ ^3 ]] The Egyptians believed no specific myth was more correct than the other, rather that some combination of these myths was correct.[[ ^2 ]] This creation story, the Heliopolitan tradition, is one of physiological creation.[[ ^3 ]] The other major creation traditions are the [[ Memphite Theology ]] and the [[ Hermopolitian | hermopolis ]] [[ Ogdoad creation myth ]].[[ ^3 ]]
+
+== Family tree
+
+- [[ Atum ]]
+- [[ Shu | shu-god ]] and [[ Tefnut ]]
+- [[ Geb ]] and [[ Nut | nut-goddess ]]
+- [[ Osiris ]] and [[ Isis ]]; [[ Set | set-mythology ]] and [[ Nephthys ]]
+
+== Hieroglyphs
+
+
+
+== Variant hieroglyphs for the Ennead
+
+A dual Ennead (//Psḏty//) was written as a row of six repeated signs.[[ ^1 ]]
+
+== Hieroglyphs of individual members
+
+Hieroglyphic spellings are given for each of the nine: Atum, Shu, Tefnut, Geb, Nut, Osiris, Isis, Set and Nephthys.
+
+== In popular culture
+
+In //[[ JoJo's Bizarre Adventure ]]: [[ Stardust Crusaders ]]//, four of [[ Dio Brando ]]'s minions have Stands named after the Ennead: Geb, Sethan, Osiris and Atum.
+
+Most of the Ennead are portrayed in //[[ Gods of Egypt | gods-of-egypt-film ]]// (2016 movie); the main focus of the movie is the conflict between the protagonist god Horus versus the antagonist god Set.
+
+In the first episode of the 2022 [[ Marvel Cinematic Universe ]] television miniseries [[ Moon Knight | moon-knight-miniseries ]], [[ Steven Grant | steven-grant-character ]] points out a problem with some of the museum's marketing material that seems to refer to the Ennead as a pantheon consisting of seven, rather than nine, gods. Yet in episode 3 they name [[ Hathor ]] as part of the Ennead, pointing out a deviation with the series' interpretation of the mythology.
+
+The //Infernal Relics// expansion to the cooperative, superhero card-game [[ Sentinels of the Multiverse ]] introduced a group of supervillains collectively called the Ennead. Each of its members wield an ancient artifact that grant them the powers and appearance of a member of the mythological Ennead; in the game's universe, most of the ancient Egyptian religion originated from stories about the original wielders of these artifacts.
+
+[[ ^2 ]]: [[ Dunand, Françoise | françoise-dunand ]]; Zivie-Coche, Christiane (2004). //Gods and men in Egypt: 3000 BCE to 395 CE//. Ithaca, NY: Cornell University Press. ISBN [[ 0-8014-8853-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8014-8853-2 ]]. OCLC [[ 937102309 | https://search.worldcat.org/oclc/937102309 ]].
+
+[[ ^3 ]]: Clifford, Richard (1994). [[ //Creation Accounts in the Ancient Near East and in the Bible// | https://archive.org/details/creationaccounts0000clif ]]. Washington, DC: Catholic Biblical Association. pp. 99–116. ISBN [[ 978-0-915170-25-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-915170-25-8 ]]. LCCN [[ 94026565 | https://lccn.loc.gov/94026565 ]] – via archive.org.
+
+[[ ^4 ]]: [[ "Ennead, //n.//" | http://www.oed.com/view/Entry/62478 ]]. //Oxford English Dictionary//. Oxford, UK: Oxford University Press.
+
+[[ ^5 ]]: Papyrus Cairo 86637.
+
+[[ ^6 ]]: Jetsu, L.; Porceddu, S. (2015). [[ "Shifting milestones of natural sciences: The ancient Egyptian discovery of Algol's period confirmed" | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4683080 ]]. //PLOS ONE//. !!10!! (12) e0144140. arXiv:[[ 1601.06990 | https://arxiv.org/abs/1601.06990 ]]. Bibcode:[[ 2015PLoSO..1044140J | https://ui.adsabs.harvard.edu/abs/2015PLoSO..1044140J ]]. doi:[[ 10.1371/journal.pone.0144140 | https://doi.org/10.1371%2Fjournal.pone.0144140 ]]. PMC [[ 4683080 | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4683080 ]]. PMID [[ 26679699 | https://pubmed.ncbi.nlm.nih.gov/26679699 ]].
+
+[[ ^1 ]]: Vygus, Mark (April 2015). [[ "Middle Egyptian Dictionary" | http://www.pyramidtextsonline.com/documents/VygusDictionaryApril2015.pdf ]] (PDF). //Pyramid Texts Online//.
