@@ -477,7 +477,9 @@ rewritten:
     ^46, ^47, ^48, ^49) are not carried; every other footnote in the body is.
     The infobox image (Iraq_physical_map.svg) is not in the supplied image
     list and so is not in the image plan."
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 4
   reviewed: false
 +++
 !!Lagash!![[ ^4 ]] (cuneiform: 𒉢𒁓𒆷𒆠 LAGAŠ^^KI^^; [[ Sumerian | sumerian-language ]]: //Lagaš//) was not one city but three. The state incorporated the cities of Lagash, Girsu, and Nina, and it was one of the oldest cities of the [[ Ancient Near East ]].[[ ^5 ]] [[ Girsu ]] (modern Telloh), about 25 km (16 mi) northwest of Lagash, was the religious center, with its main temple, the [[ E-ninnu ]], dedicated to the god [[ Ningirsu ]]. The ancient site of Nina ([[ Tell Zurghul ]]), around 10 km (6.2 mi) away, marks the southern limit of the state.

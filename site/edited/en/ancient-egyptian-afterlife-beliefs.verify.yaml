@@ -1,0 +1,21 @@
+slug: ancient-egyptian-afterlife-beliefs
+findings:
+  - kind: unsupported
+    quote: "The dead expected to go on working: Egyptians hoped to perform their
+      jobs and partake in their hobbies in the afterlife.[[ ^3 ]]"
+    why: The source says only that "Egyptians hoped to perform their jobs and
+      partake in their hobbies in the afterlife". The added gloss upgrades a
+      hope held by the living into an expectation held by the dead; the source
+      makes no claim about what the dead expected.
+    severity: minor
+  - kind: unsupported
+    quote: The Pyramid Texts, carved into royal pyramid walls beginning in the Old
+      Kingdom period
+    why: The key-fact label calls these the "Earliest afterlife texts". The source
+      says only that the Pyramid Texts were "the first religious spells to be
+      carved into the walls of royal ancient Egyptian pyramids", and elsewhere
+      says the Book of Two Ways, a collection of Coffin Texts, "functioned as
+      the earliest manual to the afterlife". The value itself is supported;
+      the broader "earliest" framing is not.
+    severity: minor
+verdict: minor-only

@@ -1,0 +1,22 @@
+slug: akkadian-empire
+findings:
+  - kind: unsupported
+    quote: What is known of the empire comes from inscriptions, administrative
+      tablets, and seals, including notable sources like the [[ Bassetki
+      Statue ]].
+    why: The source says only "The empire was documented through inscriptions,
+      administrative tablets, and seals, including notable sources like the
+      Bassetki Statue." It does not claim these are the whole of what is known
+      about the empire; its own Archaeology section describes architectural
+      and excavated remains as further evidence.
+    severity: minor
+  - kind: unsupported
+    quote: The gardening gave him access to a disciplined corps of workers, who
+      also may have served as his first soldiers.
+    why: The source reads "This gave him access to a disciplined corps of
+      workers", where the antecedent is left open between the gardener's
+      canal-clearing role and the cupbearer position described in the
+      immediately preceding sentence. The rewrite resolves the ambiguity in
+      favour of gardening; the source does not name which.
+    severity: minor
+verdict: minor-only

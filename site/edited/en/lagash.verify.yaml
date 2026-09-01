@@ -1,0 +1,36 @@
+slug: lagash
+findings:
+  - kind: unsupported
+    quote: "!!Lagash!![[ ^4 ]] (cuneiform: 𒉢𒁓𒆷𒆠 LAGAŠ^^KI^^; [[ Sumerian |
+      sumerian-language ]]: //Lagaš//) was not one city but three."
+    why: The source says Lagash "was an ancient city-state" and, separately, that
+      "the Lagash state incorporated the cities of Lagash, Girsu, and Nina".
+      It distinguishes the city Lagash from the three-city state; it nowhere
+      says Lagash itself was not one city but three.
+    severity: minor
+  - kind: unsupported
+    quote: The state incorporated the cities of Lagash, Girsu, and Nina, and it
+      was one of the oldest cities of the [[ Ancient Near East ]].[[ ^5 ]]
+    why: 'In the source the phrase attaches to the city, not the state: "Lagash
+      (modern Al-Hiba in Dhi Qar Governorate) was one of the oldest cities of
+      the Ancient Near East, and the Lagash state incorporated the cities of
+      Lagash, Girsu, and Nina." The rewrite makes the three-city state the
+      thing that was one of the oldest cities.'
+    severity: minor
+  - kind: unsupported
+    quote: "The site was first excavated, for six weeks, by [[ Robert Koldewey ]]
+      in 1887[[ ^76 ]] — a season a later writer called a disaster:"
+    why: The source introduces the block quotation with no attribution at all; it
+      does not say who wrote it or when. "A disaster" is inside the quoted
+      text, but "a later writer" is supplied by the rewrite.
+    severity: minor
+  - kind: lost-citation
+    quote: Sargon's son and successor [[ Rimush ]] faced widespread revolts, and
+      had to reconquer the cities of [[ Ur ]], [[ Umma ]], [[ Adab | adab-city
+      ]], Lagash, [[ Der | der-sumer ]], and [[ Kazallu ]] from rebellious
+      //[[ ensis | ensi-sumerian ]]//.
+    why: In the source this sentence ends "...from rebellious ensis.[[ ^41 ]]".
+      The rewrite merges it into the following paragraph and drops the
+      reference, leaving the claim uncited.
+    severity: minor
+verdict: minor-only

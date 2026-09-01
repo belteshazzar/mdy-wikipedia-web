@@ -1,0 +1,17 @@
+slug: rosetta-stone-decree
+findings:
+  - kind: unsupported
+    quote: The kingdom he inherited was losing ground on both sides of its own
+      borders.
+    why: "The source makes no such summary claim, and it is loose on the facts it
+      summarises: the territorial losses it records (Coele-Syria and Judaea
+      after the Battle of Panium, 198 BC) fall six years into Ptolemy V's own
+      reign, not into what he inherited."
+    severity: minor
+  - kind: unsupported
+    quote: What the priests give in return is the cult of the king.
+    why: The source says only that "The cult of the king is established"; it never
+      frames the cult as something the priests gave in return for the king's
+      benefactions.
+    severity: minor
+verdict: minor-only

@@ -1818,7 +1818,9 @@ rewritten:
     Palmettes). Their content survives in the rewritten captions of the image
     plan where the file is in the supplied list. The article contains no
     set-off block quotations, so none appear as block-quote elements.'
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 1
   reviewed: false
 +++
 !!Macedonia!! (Greek: Μακεδονία, //Makedonía//), also called !!Macedon!!, was an [[ ancient | classical-antiquity ]] [[ kingdom | monarchy ]] on the periphery of [[ Archaic | archaic-greece ]] and [[ Classical | classical-greece ]] Greece,[[ ^8 ]] which later became the dominant state of [[ Hellenistic Greece ]].[[ ^9 ]] It was founded and initially ruled by the royal [[ Argead dynasty ]], which was followed by the [[ Antipatrid | antipatrid-dynasty ]] and [[ Antigonid | antigonid-dynasty ]] dynasties. Home to the [[ ancient Macedonians ]], the earliest kingdom was centred on the northeastern part of the [[ Greek peninsula ]],[[ ^10 ]] and bordered by [[ Epirus | epirus-ancient-state ]] to the southwest, [[ Illyria ]] to the northwest, [[ Paeonia | paeonia-kingdom ]] to the north, [[ Thrace | ancient-thrace ]] to the east and [[ Thessaly | ancient-thessaly ]] to the south.

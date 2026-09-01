@@ -807,7 +807,9 @@ rewritten:
     word-for-word, but MDY link and italic markup and footnote markers are
     stripped from them, so "[[ Akkad | akkad-city ]]" reads as "Akkad"; the
     ensi gloss joins two sentences from the same section with an ellipsis.'
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 2
   reviewed: false
 +++
 Established around 2334 BCE by [[ Sargon of Akkad ]] after he defeated the Sumerian king [[ Lugal-zage-si ]], the !!Akkadian Empire!! — the !!Kingdom of Akkad/Agade!![[ ^1 ]] — replaced the system of independent [[ Sumero-Akkadian ]] [[ city-states ]] with a single state stretching from the [[ Mediterranean ]] to [[ Iran ]] and from [[ Anatolia ]] to the [[ Persian Gulf ]], under a [[ centralized government ]]. It is reckoned the first [[ empire ]] in world history,[[ ^2 ]] succeeding the long-lived [[ city-states | city-state ]] of [[ Sumer ]]. Centered on the city of [[ Akkad | akkad-city ]] [[ ^3 ]] and its surrounding region in modern-day [[ Iraq ]], it united the Semitic [[ Akkadian | akkadian-language ]] and [[ Sumerian | sumerian-language ]] speakers under one rule and exercised significant influence across [[ Mesopotamia ]], the [[ Levant ]], modern-day [[ Iran ]] and [[ Anatolia ]], sending military expeditions as far south as [[ Dilmun ]] and [[ Magan | magan-civilization ]] in the [[ Arabian Peninsula ]].[[ ^4 ]]

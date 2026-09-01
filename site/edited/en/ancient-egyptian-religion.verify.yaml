@@ -1,0 +1,35 @@
+slug: ancient-egyptian-religion
+findings:
+  - kind: dropped-hedge
+    quote: AD 537, when the temples in Philae were closed down officially
+    why: The source attributes the 537 closure to a single authority — "According
+      to the 6th-century historian Procopius, the temples in Philae was closed
+      down officially in AD 537" — and immediately adds that the event's
+      importance "has recently come into question" following Jitse Dijkstra's
+      argument that organized paganism at Philae ended in the fifth century.
+      The key-fact states the attributed, contested date flat.
+    severity: minor
+  - kind: unsupported
+    quote: >-
+      The state
+        dedicated enormous resources to rituals and temples; individuals appealed to the same gods through
+        prayer, or compelled them through magic.
+    why: 'The source says only that "Individuals could interact with the gods for
+      their own purposes, appealing for help through prayer or compelling the
+      gods to act through magic"; it never says these were the same gods, and
+      elsewhere states the opposite emphasis: "The deities invoked in these
+      situations differed somewhat from those at the center of state cults",
+      with important popular deities such as Taweret and Bes having "no
+      temples of their own".'
+    severity: minor
+  - kind: unsupported
+    quote: The elaborate beliefs about death and the afterlife rested on the
+      Egyptian theology of humans possessing a //[[ ka |
+      ancient-egyptian-concept-of-the-soul#ka-vital-essence ]]//, or
+      life-force, which left the body at the point of death.
+    why: The source (garbled but directional) says the beliefs "reinforced the
+      Egyptians theology in humans possessions a ka" — the beliefs reinforce
+      the theology. The rewrite reverses the relationship, making the beliefs
+      rest on the theology.
+    severity: minor
+verdict: minor-only

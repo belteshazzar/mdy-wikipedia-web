@@ -1060,7 +1060,9 @@ rewritten:
     the Wikidata claims: the only dated claim there is the 2022-10-31 addition
     to a Wikipedia vital-articles list, which is not an event in the region's
     history."
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 2
   reviewed: false
 +++
 !!Mesopotamia!![[ ^a ]] is a [[ historical region ]] of [[ West Asia ]] situated within the [[ Tigris–Euphrates river system ]], in the northern part of the [[ Fertile Crescent ]]. It corresponds roughly to the territory of modern [[ Iraq ]].[[ ^1 ]][[ ^2 ]] Just beyond it lies southwestern [[ Iran ]], where the region transitions into the [[ Persian plateau | iranian-plateau ]], marking the shift from the [[ Arab world ]] to Iran.[[ ^3 ]]

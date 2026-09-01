@@ -1,0 +1,27 @@
+slug: assyria
+findings:
+  - kind: unsupported
+    quote: Per estimates by Karen Radner, an official message could cross the 700
+      kilometers (430 miles) from Assyria's western border province of Quwê to
+      its heartland in less than five days, over lands with many rivers and no
+      bridges.
+    why: 'The source scopes this estimate to one period: "an official message sent
+      in the Neo-Assyrian period from the western border province Quwê to the
+      Assyrian heartland". The rewrite drops "in the Neo-Assyrian period" and
+      attributes the capability to Assyria generally, across a history the
+      source dates from the 21st to the 7th centuries BC. All the figures
+      themselves (700 kilometers / 430 miles, less than five days, 1865,
+      Ottoman telegraph) match the source.'
+    severity: minor
+  - kind: unsupported
+    quote: Some nearby cities that would later be incorporated into the Assyrian
+      heartland, such as [[ Nineveh ]], are known to have been inhabited since
+      the [[ Neolithic ]],[[ ^28 ]] but the earliest archaeological evidence
+      from [[ Assur ]] dates to the [[ Early Dynastic Period |
+      early-dynastic-period-mesopotamia ]], c. 2600 BC.[[ ^29 ]]
+    why: The source says "the sites of some nearby cities ... are known to have
+      been inhabited since the Neolithic". The rewrite drops "the sites of",
+      so it has the cities themselves inhabited since the Neolithic rather
+      than the locations they were later built on.
+    severity: minor
+verdict: minor-only

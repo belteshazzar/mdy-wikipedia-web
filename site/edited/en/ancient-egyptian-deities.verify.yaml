@@ -1,0 +1,13 @@
+slug: ancient-egyptian-deities
+findings:
+  - kind: unsupported
+    quote: Almost everything known about Egyptian beliefs concerning the gods was
+      written down by a small minority.
+    why: Added summary sentence. The source says only that "Modern knowledge of
+      Egyptian beliefs about the gods is mostly drawn from religious writings
+      produced by the nation's scribes and priests" — "mostly" is strengthened
+      to "almost everything". The hedged original is retained in the rewrite's
+      next sentence, so a reader is not misled, but the quantifier is not the
+      source's.
+    severity: minor
+verdict: minor-only

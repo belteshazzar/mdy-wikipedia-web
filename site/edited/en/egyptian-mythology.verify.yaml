@@ -1,0 +1,18 @@
+slug: egyptian-mythology
+findings:
+  - kind: unsupported
+    quote: Most texts contain nothing more than allusions, or tell only portions
+      of a larger story, and for any given myth the Egyptians themselves may
+      have had only the general outlines.
+    why: The source says "These sources often contain nothing more than allusions
+      to the events to which they relate" — "often" is a frequency, not a
+      majority. The source nowhere says most texts do this.
+    severity: minor
+  - kind: dropped-hedge
+    quote: Water and the sun therefore became symbols of life, and time a series
+      of natural cycles.
+    why: 'The source attributes this to Egyptian perception: "Thus the Egyptians
+      saw water and the sun as symbols of life and thought of time as a series
+      of natural cycles." The rewrite states it without the attribution.'
+    severity: minor
+verdict: minor-only

@@ -1,0 +1,12 @@
+slug: ancient-egyptian-creation-myths
+findings:
+  - kind: unsupported
+    quote: The creation myth promulgated in the city of [[ Hermopolis ]] focused
+      on the nature of the universe before the creation of the world, rather
+      than on the world itself.
+    why: The source says only that the Hermopolitan myth "focused on the nature of
+      the universe before the creation of the world". The added contrast
+      "rather than on the world itself" is an inference the source does not
+      make.
+    severity: minor
+verdict: minor-only

@@ -142,7 +142,9 @@ rewritten:
     none could be carried with it. Alexandria is left unlinked in Context
     because it is unlinked there in the source, and linked in Text where the
     source links it.
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 2
   reviewed: false
 +++
 The !!Rosetta Stone decree!!, or the !!Decree of Memphis!!, is the [[ Ptolemaic decree | ptolemaic-synodal-decrees ]] that enabled the [[ decipherment of Egyptian hieroglyphs | decipherment-of-ancient-egyptian-scripts ]], and it did so because it was set down in three scripts and two languages: [[ Egyptian hieroglyphs ]], [[ Egyptian Demotic | demotic-egyptian-script ]] and [[ Ancient Greek ]]. What it says was decided by a council of priests at [[ Memphis | memphis-egypt ]] in 196 BC, confirming the royal cult of [[ Ptolemy V ]].

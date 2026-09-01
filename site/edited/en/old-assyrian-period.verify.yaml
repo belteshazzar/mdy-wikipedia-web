@@ -1,0 +1,31 @@
+slug: old-assyrian-period
+findings:
+  - kind: dropped-hedge
+    quote: The city assembly is described to have convened either in a "sacred
+      precinct" (//ḫamrum//) in the "Step Gate" (//mušlālum//) behind the
+      temple of Ashur — a sacred place where oaths were also sworn, and where
+      there were seven statues of divine judges — or, at other times, in a
+      structure referred to in texts as the "city hall" (//bēt ālim//).
+    why: "The source hedges the second venue separately: \"At other times, the
+      assembly may have convened in a structure referred to in texts as the
+      'city hall' (bēt ālim).\" The rewrite folds it into a flat either/or and
+      drops \"may have\"."
+    severity: minor
+  - kind: unsupported
+    quote: It is also the period that holds the earliest known evidence of a
+      distinct Assyrian culture, separate from that of southern Mesopotamia[[
+      ^7 ]][[ ^8 ]] — the emergence of a distinct Assyrian dialect of the [[
+      Akkadian language ]], a native Assyrian calendar, and Assur for a time
+      becoming a prominent site for international trade.[[ ^9 ]]
+    why: "The source makes these two separate statements, not one: the period \"is
+      marked by the earliest known evidence of the development of a distinct
+      Assyrian culture, separate from that of southern Mesopotamia\", and,
+      separately, \"The period is also marked with the emergence of a distinct
+      Assyrian dialect of the Akkadian language, a native Assyrian calendar
+      and Assur for a time becoming a prominent site for international
+      trade.\" The rewrite's em-dash makes the dialect, calendar and trade
+      prominence the content of that cultural evidence, which the source does
+      not say — notably it does not present Assur's trade prominence as
+      evidence of a distinct culture."
+    severity: minor
+verdict: minor-only

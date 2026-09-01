@@ -1,0 +1,10 @@
+slug: ennead
+findings:
+  - kind: unsupported
+    quote: Nine is the count, but not always the same nine.
+    why: The source says only that "The Ennead sometimes includes Horus the
+      Elder". It never says the membership varies while the count stays at
+      nine, nor that Horus the Elder substitutes for one of the named nine
+      rather than being added to them.
+    severity: minor
+verdict: minor-only

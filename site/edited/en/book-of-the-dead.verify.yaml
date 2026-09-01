@@ -1,0 +1,10 @@
+slug: book-of-the-dead
+findings:
+  - kind: dropped-hedge
+    quote: One deben of silver, perhaps half the annual pay of a laborer
+    why: 'The source attributes the figure rather than stating it: "one source
+      gives the price of a Book of the Dead scroll as one deben of silver,
+      perhaps half the annual pay of a laborer." The key fact presents it
+      flat, as the price, with the "one source gives" attribution removed.'
+    severity: minor
+verdict: minor-only

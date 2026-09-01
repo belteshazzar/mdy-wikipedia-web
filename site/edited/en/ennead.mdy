@@ -182,7 +182,9 @@ rewritten:
     reads "may have been in Old Egyptian, in Middle Egyptian, and in Late
     Egyptian" with the forms stripped out - so I kept the hedge and the three
     stages without supplying any vocalisation.
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 1
   reviewed: false
 +++
 The !!Ennead!!, or !!Great Ennead!!, is a family tree with nine names on it: the [[ deities | egyptian-pantheon ]] of [[ Egyptian mythology ]] worshipped together at [[ Heliopolis | heliopolis-ancient-egypt ]]. The [[ sun god ]] [[ Atum ]] stands at the top; then his children [[ Shu | shu-god ]] and [[ Tefnut ]]; then their children [[ Geb ]] and [[ Nut | nut-goddess ]]; then their children [[ Osiris ]], [[ Isis ]], [[ Set | set-deity ]] and [[ Nephthys ]].[[ ^2 ]] Nine is the count, but not always the same nine. The Ennead sometimes includes [[ Horus the Elder ]], an ancient form of the falcon god, not the son of Osiris and Isis.

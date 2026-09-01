@@ -1,0 +1,13 @@
+slug: pharaoh
+findings:
+  - kind: unsupported
+    quote: The beaded scepter of Khasekhemwy — one of the earliest royal scepters
+      was found in his tomb at Abydos.
+    why: 'The source keeps these as two separate statements and never joins them:
+      an image caption reads "Beaded scepter of Khasekhemwy, c. 2890–2680 BCE,
+      Museum of Fine Arts, Boston", while the body says only "One of the
+      earliest royal scepters was discovered in the tomb of Khasekhemwy in
+      Abydos." The source does not say the beaded scepter in Boston is the
+      scepter found in the tomb.'
+    severity: minor
+verdict: minor-only

@@ -1,0 +1,24 @@
+slug: mesopotamia
+findings:
+  - kind: dropped-hedge
+    quote: have stronger continuity with the original genetic stock of the
+      Mesopotamian people, which possibly provided the basis for the
+      ethnogenesis of various subsequent Near Eastern populations.
+    why: Presented as a pull-quote attributed flatly to "Dogan et al. (2017), on
+      contemporary Assyrians and Yazidis from northern Iraq". The source
+      states only that they "might" have stronger continuity; the modal sits
+      outside the quotation marks in the source and is lost when the fragment
+      is displayed on its own, so the pull-quote reads as an assertion rather
+      than a possibility. (The article body itself keeps the "might".)
+    severity: minor
+  - kind: unsupported
+    quote: 'The same region is named the same way elsewhere: Arabic: بِلَاد
+      ٱلرَّافِدَيْن //Bilād ar-Rāfidayn// or بَيْن ٱلنَّهْرَيْن //Bayn
+      an-Nahrayn//; Persian: میان‌رودان //miyân rudân//; Syriac: ܒܝܬ ܢܗܪ̈ܝܢ
+      //[[ Beth Nahrain ]]// "(land) between the (two) rivers".'
+    why: The source lists the Arabic, Persian and Syriac names as alternative
+      names for the region but glosses only the Syriac as "(land) between the
+      (two) rivers". It does not say that the Arabic or Persian names carry
+      the same 'between the rivers' meaning; the rewrite asserts that they do.
+    severity: minor
+verdict: minor-only

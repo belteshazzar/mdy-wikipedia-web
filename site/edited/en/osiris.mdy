@@ -626,7 +626,9 @@ rewritten:
     quotes are copied from the article with link markup rendered to its label
     text and footnote markers omitted, so that they read as sentences;
     wording, dates, numbers and punctuation are otherwise unchanged."
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 5
   reviewed: false
 +++
 !!Osiris!! (from Egyptian //[[ wsjr | https://en.wiktionary.org/wiki/wsjr ]]//)[[ ^a ]] was killed by his brother [[ Set | set-deity ]], who cut him to pieces. Osiris's sister-wife, [[ Isis ]], with her sister [[ Nephthys ]], searched Egypt to find each part of him, and collected all but one – Osiris's [[ genitalia | sex-organ ]]. She then wrapped his body up, enabling him to return to life. He was the [[ god | ancient-egyptian-deities ]] of [[ fertility ]], agriculture, the [[ afterlife | ancient-egyptian-religion#afterlife ]], the dead, [[ resurrection ]], life, and vegetation in [[ ancient Egyptian religion ]], classically depicted with a [[ pharaoh's | pharaoh ]] beard, partially [[ mummy ]]-wrapped at the legs, wearing a distinctive [[ atef ]] crown and holding a symbolic [[ crook and flail ]].[[ ^7 ]] He was one of the first to be associated with the mummy wrap, and was widely worshipped until the [[ decline of ancient Egyptian religion ]].[[ ^8 ]]

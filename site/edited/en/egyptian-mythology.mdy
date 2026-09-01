@@ -522,7 +522,9 @@ rewritten:
     Apophis, underworld, Egyptian Museum, Cairo, solar barque) appear as words
     only. No ancient-source quotations exist in the article, so the
     pull-quotes are the three modern scholarly quotations it contains.
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 2
   reviewed: false
 +++
 !!Egyptian mythology!! is the collection of [[ myths | myth ]] from [[ ancient Egypt ]]: accounts of what the [[ Egyptian gods | egyptian-pantheon ]] did, told as a means of understanding the world around them. The beliefs these myths express are an important part of [[ ancient Egyptian religion ]]. They appear frequently in Egyptian [[ writings | ancient-egyptian-literature ]] and [[ art | art-of-ancient-egypt ]], particularly in short stories and in religious material such as [[ hymns | hymn ]], ritual texts, [[ funerary texts | ancient-egyptian-funerary-texts ]], and [[ temple | egyptian-temple ]] decoration. These sources rarely contain a complete account of a myth and often describe only brief fragments.

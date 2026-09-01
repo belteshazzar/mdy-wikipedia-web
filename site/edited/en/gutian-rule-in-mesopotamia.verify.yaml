@@ -1,0 +1,15 @@
+slug: gutian-rule-in-mesopotamia
+findings:
+  - kind: dropped-hedge
+    quote: Erridu-pizir (first), fl. c. 2220-2211 BC; Tirigan (last), fl. c.
+      2120-2119 BC
+    why: The source infobox labels both of these date ranges as middle-chronology
+      values (the keys are fl-c-2220-2211-bc-mc and fl-c-2120-2119-bc-mc), and
+      the source's ruler table gives each king a second, competing
+      short-chronology range (Erridupizir r. c. 2147 - c. 2138 BC (SC);
+      Tirigan fl. c. 2055, c. 2050 BC (SC)) and prefixes both entries with
+      "Uncertain". The rewritten key fact presents one chronology's dates
+      unlabelled and without that qualification. The numbers themselves are
+      unchanged.
+    severity: minor
+verdict: minor-only

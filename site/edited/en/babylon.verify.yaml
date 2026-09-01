@@ -1,0 +1,35 @@
+slug: babylon
+findings:
+  - kind: unsupported
+    quote: '[[ Claudius J. Rich | claudius-rich ]], writing in 1815, found neither
+      the ruin he had expected nor the one the accounts of modern travellers
+      had prepared him for: "instead of a few insulated mounds, I found the
+      whole face of the country covered with vestiges of building, in some
+      places consisting of brick walls surprisingly fresh, in others merely of
+      a vast succession of mounds of rubbish of such indeterminate figures,
+      variety and extent, as to involve the person who should have formed any
+      theory in inextricable confusion" (//Memoir on the Ruins of Babylon//
+      (1815), pp. 1-2).'
+    why: "The source's blockquote sets up one expectation, not two: \"From the
+      accounts of modern travellers, I had expected to have found on the site
+      of Babylon more, and less, than I actually did\" - Rich's expectation
+      was formed from those accounts, and what he found was both more and less
+      than it. The rewrite's \"neither ... nor\" splits this into two separate
+      and competing pictures, which the source does not describe. The source
+      also dates only the Memoir to 1815 (it says Rich excavated in 1811-12
+      and 1817); \"writing in 1815\" is the rewrite's inference."
+    severity: minor
+  - kind: unsupported
+    quote: The main sources for it — excavation of the site itself, cuneiform
+      texts, the Bible, Herodotus and other classical authors — present an
+      incomplete and sometimes contradictory picture, even at its peak in the
+      sixth century BC.
+    why: "The source's list is longer and more qualified: \"excavation of the site
+      itself, references in cuneiform texts found elsewhere in Mesopotamia,
+      references in the Bible, descriptions in Herodotus and other classical
+      authors, and second-hand summaries of the work of Ctesias and
+      Berossus\". The hook presents a closed dash-list that drops the Ctesias
+      and Berossus summaries and drops \"found elsewhere in Mesopotamia\" from
+      the cuneiform item."
+    severity: minor
+verdict: minor-only

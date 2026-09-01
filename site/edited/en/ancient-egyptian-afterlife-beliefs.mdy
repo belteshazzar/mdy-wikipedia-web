@@ -331,7 +331,9 @@ rewritten:
     image-plan captions are plain text rather than MDY, so those two
     references are not carried. Per the body tier, no hook, standfirst, pull
     quotes, timeline or glossary.
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 2
   reviewed: false
 +++
 !!Ancient Egyptian afterlife beliefs!! were centered around a variety of complex [[ rituals | ritual ]] that were influenced by many aspects of [[ Egyptian culture | culture-of-egypt ]]. The dead expected to go on working: Egyptians hoped to perform their jobs and partake in their hobbies in the afterlife.[[ ^3 ]] Rivers and natural locales with fertile soil for farmers were thought to exist there, and drawings on tomb walls of objects such as boats were thought to make them appear in the afterlife for previous users or owners.[[ ^3 ]]

@@ -1388,7 +1388,9 @@ rewritten:
     images in the Museums section (the National Museum, Graeco-Roman Museum,
     Royal Jewelry Museum and Museum of Fine Arts photographs) are not in the
     front-matter image list, so they are not in the image plan.
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 4
   reviewed: false
 +++
 !!Alexandria!![[ ^a ]] is a major city in [[ Egypt ]], strung for about 40 km (25 mi) along the [[ country's northern coast | northern-coast-of-egypt ]] at the western edge of the [[ Nile River Delta | nile-delta ]]. It is Egypt's principal [[ seaport | port ]], the [[ second largest | list-of-cities-and-towns-in-egypt#largest-cities ]] city after [[ Cairo ]], and the [[ largest city on the Mediterranean coast | list-of-coastal-settlements-of-the-mediterranean-sea ]]. Founded in 331 BC by [[ Alexander the Great ]],[[ ^7 ]] it is one of the largest and most important cities of [[ antiquity | antiquities ]] and a leading hub for [[ science ]], [[ culture ]], and [[ scholarship ]].

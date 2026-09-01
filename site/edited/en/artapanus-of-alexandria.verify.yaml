@@ -1,0 +1,13 @@
+slug: artapanus-of-alexandria
+findings:
+  - kind: unsupported
+    quote: Quotation in Clement of Alexandria and Eusebius of Caesarea
+    why: 'The source says parts of the work "have been preserved in the books of"
+      Clement and Eusebius, and immediately qualifies that with Collins and
+      Charlesworth: "we do not have actual excerpts from Artapanus but only
+      the summaries of Alexander Polyhistor, insofar as these have been
+      preserved by Eusebius." The key fact states flatly that the work
+      survives as quotation, with none of that qualification present; the
+      source does not describe what survives as quotation.'
+    severity: minor
+verdict: minor-only

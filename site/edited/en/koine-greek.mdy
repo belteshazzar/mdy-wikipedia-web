@@ -503,7 +503,9 @@ rewritten:
     Greek word per paragraph, an artefact of a stripped transcription table; I
     joined each into a single paragraph, words unchanged and in the same
     order.'
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 2
   reviewed: false
 +++
 !!Koine Greek!![[ ^a ]] (ἡ κοινὴ διάλεκτος, //hē koinḕ diálektos//, lit. 'the common dialect'),[[ ^b ]] also variously known as !!Hellenistic Greek!!, !!Biblical Greek!!, !!Septuagint Greek!! or !!New Testament Greek!!, evolved from the spread of Greek following the conquests of [[ Alexander the Great ]] in the fourth century BC, and served as the [[ lingua franca ]] of much of the Mediterranean region and [[ the Middle East ]] during the following centuries. It was the [[ common supra-regional form | koiné-language ]] of [[ Greek | greek-language ]] spoken and written during the [[ Hellenistic period ]], the [[ Roman Empire ]], and the early [[ Byzantine Empire ]], based mainly on [[ Attic | attic-greek ]] and related [[ Ionic | ionic-greek ]] speech forms, with various admixtures brought about through [[ dialect levelling ]] with other varieties.[[ ^6 ]]

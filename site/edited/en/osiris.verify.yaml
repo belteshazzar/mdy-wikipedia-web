@@ -1,0 +1,42 @@
+slug: osiris
+findings:
+  - kind: dropped-hedge
+    quote: "Hieroglyphic writing lacks vowels, so Egyptologists have vocalized the
+      name in various ways: Asar, Ausar, Ausir, Wesir, Usir, or Usire."
+    why: The source writes "in various ways, such as Asar, Ausar, Ausir, Wesir,
+      Usir, or Usire" — "such as" marks the list as illustrative; the colon
+      presents it as the complete set.
+    severity: minor
+  - kind: unsupported
+    quote: "The crown Osiris wears in his most developed iconography: the White
+      crown of Upper Egypt with two curling ostrich feathers added at each
+      side."
+    why: The source says the Atef crown "is similar to the White crown of Upper
+      Egypt, but with the addition of two curling ostrich feathers at each
+      side" — it does not identify the Atef as being the White crown plus
+      feathers.
+    severity: minor
+  - kind: unsupported
+    quote: The soul-eating demon the guilty were thrown to, who did not share in
+      eternal life.
+    why: 'The source attributes the loss of eternal life to the condemned person,
+      not to Ammit: "If found guilty, the person was thrown to the soul-eating
+      demon Ammit and did not share in eternal life." The gloss reads as a
+      statement about the demon.'
+    severity: minor
+  - kind: unsupported
+    quote: The Khenti-Amentiu epithet, later attached to Osiris, is already in
+      use, and was used as a pharaonic title.
+    why: The source says only that "the Khenti-Amentiu epithet dates to at least
+      the First Dynasty, and was used as a pharaonic title", and elsewhere
+      that Osiris was Khenti-Amentiu. It never says the epithet was attached
+      to Osiris later than its first use.
+    severity: minor
+  - kind: lost-citation
+    quote: Osiris (from Egyptian wsjr)[[ ^a ]] was killed by his brother Set, who
+      cut him to pieces.
+    why: 'The rewrite keeps the ^a reference but drops the note it points to; in
+      the source it reads "Coptic: ⲟⲩⲥⲓⲣⲉ ousire, ; Phoenician: 𐤀𐤎𐤓,
+      romanized: ʾsr)". The marker now resolves to nothing.'
+    severity: minor
+verdict: minor-only

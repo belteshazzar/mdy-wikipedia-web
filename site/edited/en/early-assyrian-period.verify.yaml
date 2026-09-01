@@ -1,0 +1,19 @@
+slug: early-assyrian-period
+findings:
+  - kind: lost-citation
+    quote: The architecture of the temples is suggestive of the ED II (c.
+      2750/2700–2600 BC) and ED III (c. 2600–2350 BC) periods.
+    why: In the source this sentence carries a footnote reference ([[ ^46 ]]); in
+      the rewrite the reference is gone, and only the following sentence about
+      the temples being burnt down keeps its ^46 marker.
+    severity: minor
+  - kind: unsupported
+    quote: Part of the reason so little is known is where the evidence had to
+      survive.
+    why: An added, uncited causal framing. The source says only that Early
+      Dynastic evidence is generally scarcer in northern than southern
+      Mesopotamia (^15) and that later Assyrian building works may have
+      destroyed early remains (^16); it never attributes the general lack of
+      knowledge to location.
+    severity: minor
+verdict: minor-only

@@ -1,0 +1,12 @@
+slug: macedonia-ancient-kingdom
+findings:
+  - kind: lost-citation
+    quote: The Romans abolished the Macedonian monarchy by installing four
+      separate allied republics in its stead, their capitals located at
+      Amphipolis, Thessalonica, Pella, and Pelagonia.
+    why: In the source this sentence ends with a footnote reference (^207) after
+      "Pelagonia"; the rewrite carries none. The same reference still appears
+      at the end of the following sentence in the rewrite, so the paragraph is
+      not left wholly uncited.
+    severity: minor
+verdict: minor-only

@@ -1,0 +1,22 @@
+slug: post-imperial-assyria
+findings:
+  - kind: unsupported
+    quote: "The post-imperial period was the last stage of ancient Assyrian
+      history: the centuries in which there was no Assyrian state at all, and
+      Assyrian culture, traditions and religion carried on anyway."
+    why: The source says "There was no independent Assyrian state during this
+      time" — the qualifier "independent" is dropped, and the source's own
+      body describes Assur as "a semi-autonomous city-state" governed by
+      Assyrian city-lords, and semi-independent kingdoms of Assyrian character
+      under the Parthians. The source lead does elsewhere say "despite the
+      lack of an Assyrian kingdom", so the claim is loose rather than plainly
+      wrong.
+    severity: minor
+  - kind: dropped-hedge
+    quote: A society breaking down is not the same as a population vanishing.
+    why: "The source hedges the specific case: \"The breakdown in society does not
+      necessarily reflect an enormous drop in population.\" The rewrite states
+      a flat general principle instead of the source's qualified \"not
+      necessarily\" about this region."
+    severity: minor
+verdict: minor-only

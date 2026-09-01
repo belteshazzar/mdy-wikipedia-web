@@ -1,0 +1,22 @@
+slug: isfet-egyptian-mythology
+findings:
+  - kind: unsupported
+    quote: "!!Isfet!! or !!Asfet!! was the counter to [[ Maat ]], which was order
+      — and unlike order it had no physical form."
+    why: The source says only "Isfet did not have a physical form." It makes no
+      statement either way about whether Ma'at/order had a physical form, so
+      the "unlike order" contrast asserts something about Ma'at that the
+      source does not support.
+    severity: blocking
+  - kind: unsupported
+    quote: When the king made public appearances he was surrounded by images of
+      foreigners, which emphasized his role as protector of Ma'at and the
+      enemy of Isfet — the Isfet here being the foreign enemies of ancient
+      Egypt.
+    why: The source reads "the enemy of Isfet which were foreign enemies of
+      ancient Egypt", where the plural "which were" leaves the referent
+      ambiguous (the images of foreigners, or Isfet). The rewrite resolves the
+      ambiguity by flatly equating Isfet with the foreign enemies, a reading
+      the source does not commit to.
+    severity: minor
+verdict: blocked

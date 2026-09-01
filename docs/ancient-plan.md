@@ -344,8 +344,8 @@ answers it the other way round.
 
 **Phase 3 — scale, by tier.** Pillar, body, long tail; verification on
 everything; provenance per document. Exit: the corpus, complete, and a query
-that lists every stale rewrite. 🔄 — in progress; see
-[what phase 3 is landing](#what-phase-3-is-landing).
+that lists every stale rewrite. ✅ — see
+[what phase 3 landed](#what-phase-3-landed).
 
 **Phase 4 — the cross-article pages.** Timelines, era hubs, maps, search.
 Exit: at least three pages that no article contains.
@@ -547,7 +547,38 @@ That is an honest answer and not a good one, and it is the single clearest
 argument for the rewrite schema: `image-plan` is the field that turns this
 section into figures where the words are.
 
-### Where it stopped
+### Done: 41 rewritten, 41 verified
+
+Every article in the corpus is rewritten and every rewrite has a verdict.
+
+| | articles | blocked | findings each |
+| --- | --- | --- | --- |
+| Pillar, anchored | 18 | **1** (6%) | 2.0 |
+| Pillar, not anchored — phase 2's first run | 7 | **4** (57%) | 3.6 |
+| Body tier — the five risky fields absent by design | 16 | 1 (6%) | 1.4 |
+
+Corpus-wide: **6 blocked, 32 minor-only, 3 clean.** 84 findings — 56
+`unsupported`, 21 `dropped-hedge`, 4 `lost-citation`, 3 `altered-value`.
+
+The rate the phase set out to move:
+
+| | words | findings | per 1,000 |
+| --- | --- | --- | --- |
+| Rewritten prose | 273,186 | 45 | **0.16** |
+| Short generated fields | 32,196 | 35 | **1.09** |
+
+Both are about a third of phase 2's (0.51 and 3.53). The *ratio* barely moved
+— short fields are still about seven times more dangerous per word — which is
+the honest reading: anchoring lowered the error rate, it did not change where
+the errors live.
+
+Three caveats on the 57% against 6%. The seven unanchored are phase 2's own
+first run, so some of the gap is everything else that improved since. The
+controlled comparison is the three articles re-run with anchoring as the only
+change — Duat, Thoth and Nun went from two blocked to none. And 41 articles
+graded by a model is evidence, not proof; nobody has read any of it.
+
+### Where it had stopped, and how it resumed
 
 **38 of 41 rewritten, and the session's model quota ran out.** Four pillar
 articles were in flight when the account hit its limit: `empire` had already
@@ -600,11 +631,61 @@ exactly the situation `status.mjs` exists to manage and not one to walk into
 mid-phase. It goes to phase 4 with the re-import, where the fix is positional —
 a pronunciation rule that only fires before the first heading.
 
+### What the verifiers found, beyond the counts
+
+**`key-facts` is the field that should have been anchored and was not.** Five
+articles lost a hedge there and nowhere else: Book of the Dead states a price
+the source attributes to "one source"; Artapanus says the text survives as
+"quotation in Clement and Eusebius" where the source's own cited scholars say
+only summaries survive; Gutian rule drops the `-mc` suffix that marks a
+middle-chronology date as one of two competing ones. It is short, compressed
+and unanchored — exactly the profile of the fields that were anchored. That is
+phase 3's clearest single recommendation.
+
+**Both body-tier blocking-class errors are in leads.** Isfet's "the counter to
+Maat, which was order — and unlike order it had no physical form" asserts that
+Ma'at *did* have a physical form, which the source never says; Lagash's lead
+conflates the city with the three-city state, twice, in opposite directions.
+Body tier drops the five riskiest fields but the lead is still the
+highest-compression prose on the page.
+
+**Merging two sentences is where citations go.** All four `lost-citation`
+findings came from a merge — Macedonia's `^207`, Lagash's `^41`, and two more.
+The house style tells the pass to carry both references when it merges; four
+times it did not.
+
+**Added connective sentences are the commonest failure that is not a
+compression.** "The kingdom he inherited was losing ground on both sides of
+its own borders" — except the losses it summarises are dated inside Ptolemy
+V's own reign. A sentence written to smooth a transition, quietly asserting a
+chronology.
+
+### What the rules bought
+
+Worth recording, because they held under 273,000 words:
+
+- **Copy the hard values.** Old Assyrian carried "98 by 112 meters (321.5 by
+  367.5 meters)" verbatim — a unit error in Wikipedia — rather than convert
+  it. Artapanus normalised a one-off "Artanpanus" against ~35 correct
+  instances in the same document. Both were put to a verifier and both were
+  judged right: fix a typo the source corrects elsewhere, never fix a number.
+- **Closed book.** History of the Assyrians' verifier ran a vocabulary diff
+  over a 1,873-line rewrite: the only words not in the source were *date,
+  make, obligations, outlasted, partaking, regard, resulting, staying*. No new
+  named entity anywhere. Empire — the corpus's least ancient article, where
+  outside knowledge would leak most easily — came back with every retained
+  sentence verbatim identical.
+- **Koine Greek is the hardest case and it held.** Its source is damaged: every
+  IPA value was stripped by `--drop-pronunciation` before the rewriter saw it.
+  Given visible holes in a subject the model certainly knows, it dropped the
+  sentences that were only empty brackets and reworded the bullets pointing at
+  absent symbols, and invented no phonetic value.
+
 ### What is knowingly left
 
-- **Four articles, and verification on 28.** Both blocked on quota, both
-  resumable with no rework: the requests are written and the applies are one
-  command each.
+- **Nobody has read any of it.** `reviewed: false` on all 41. Six are blocked
+  and unpublishable; the other 35 are a model's word that a model's work is
+  sound.
 - **A search index.** `$.tokenize` is there for it; nothing uses it yet.
 - **Era hubs, timelines and maps.** Phase 4, and the corpus is large enough now
   to make them worth building.
@@ -731,7 +812,7 @@ The same field turned up things no test would have:
 - **Ten parallel agents sharing one scratchpad overwrote each other's working
   files.** Harmless here, worth knowing before phase 3 runs hundreds.
 
-## What phase 3 is landing
+## What phase 3 landed
 
 Not finished. Recorded as it goes, because the two changes below were made
 *because* of what phase 2 measured, and the evidence for them is worth keeping

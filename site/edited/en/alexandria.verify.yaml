@@ -1,0 +1,37 @@
+slug: alexandria
+findings:
+  - kind: altered-value
+    quote: Measured at [[ El Nouzha Airport ]] over the 1991–2020 normals, the
+      year averages 20.9 °C (69.6 °F), with 211.6 mm (8.33 in) of rain falling
+      on 31.1 days and 3,298.9 hours of sunshine — 77 per cent of the possible
+      total.
+    why: The temperature and rainfall figures are from the source's 1991–2020
+      normals table, but the source's own note under that table says the
+      sunshine data comes from NOAA for 1961–1990, not 1991–2020. The rewrite
+      attributes 3,298.9 hours and 77 per cent to the wrong period.
+    severity: minor
+  - kind: unsupported
+    quote: June, July and August record no measurable rain at all.
+    why: The source's table gives 0.0 mm average precipitation for those months,
+      but it also gives 0.5, 0.4 and 0.4 average precipitation days of at
+      least 1.0 mm in June, July and August — so the source does record
+      measurable rain in those months. The source nowhere says there is none.
+    severity: minor
+  - kind: dropped-hedge
+    quote: How a single 396-ton stone was stood upright is a practical question,
+      and it has been tested.
+    why: The source only says Pompey's Pillar "may have been erected using the
+      same methods that were used to erect the ancient obelisks", and that
+      Hopkins and Lehrner successfully erected a 25-ton obelisk in 1999. It
+      does not say the question of how the 396-ton pillar was raised has been
+      tested.
+    severity: minor
+  - kind: dropped-hedge
+    quote: Three main roads run parallel to each other and connect the city center
+      to its eastern parts, and they are the most important.
+    why: The source says "Among the most important are three main roads that run
+      parallel and connect the city center to its eastern parts", and goes on
+      to list other major roads. It does not say these three are the most
+      important.
+    severity: minor
+verdict: minor-only

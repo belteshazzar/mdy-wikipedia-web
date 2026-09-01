@@ -1,0 +1,30 @@
+slug: alexander-the-great
+findings:
+  - kind: altered-value
+    quote: The Greek biographer Plutarch (c. 45 – c. 120 AD) discusses the
+      accuracy of his depictions, writing that the outward appearance of
+      Alexander is best represented by the statues of him which Lysippus made;
+      that this artist alone caught the poise of the neck, bent slightly to
+      the left, and the melting glance of his eyes; that Apelles, painting him
+      as wielder of the thunder-bolt, made his complexion too dark and
+      swarthy, whereas he was of a fair colour, as they say, and his fairness
+      passed into ruddiness on his breast particularly, and in his face; and
+      that a very pleasant odour exhaled from his skin, as read in the
+      //Memoirs of Aristoxenus//.[[ ^220 ]]
+    why: "The source's Plutarch quotation attaches \"alone\" to a different claim:
+      \"it was by this artist alone that Alexander himself thought it fit that
+      he should be modelled\", and then says only that of the poise of the
+      neck and the melting glance \"this artist has accurately observed\" (not
+      that he alone caught them). The paraphrase drops the claim about
+      Alexander permitting Lysippus alone to model him and instead asserts
+      exclusivity of accurate observation, which the source does not say."
+    severity: minor
+  - kind: unsupported
+    quote: Philip II of Macedon and Olympias of Epirus, of the Argead dynasty
+    why: "The source's infobox gives \"dynasty: Argead\" for Alexander himself,
+      and the prose attaches the Argead dynasty only to Philip II (\"Philip II
+      of the Argead dynasty\") while placing Olympias in her mother's family,
+      the Aeacidae. Naming both parents and then \"of the Argead dynasty\"
+      attributes to Olympias a house the source assigns elsewhere."
+    severity: minor
+verdict: minor-only

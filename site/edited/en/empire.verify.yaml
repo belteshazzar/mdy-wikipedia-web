@@ -1,0 +1,19 @@
+slug: empire
+findings:
+  - kind: unsupported
+    quote: Multiple states under one central authority, usually created by conquest
+    why: The source says "Many empires were the result of military conquest,
+      incorporating the vanquished states into a political union, but imperial
+      hegemony can be established in other ways" — "many" is not "usually",
+      and the source immediately qualifies it with Luttwak's
+      coercive/hegemonic alternative and with the empires that "developed at
+      least in part under elective auspices".
+    severity: minor
+  - kind: unsupported
+    quote: The working definitions are various but they rhyme.
+    why: The source introduces the Nairn/James, Taagepera and Bang definitions
+      without any claim that they converge or agree; it says only that
+      scholars vary and that "Definitions of what physically and politically
+      constitutes an empire vary."
+    severity: minor
+verdict: minor-only
