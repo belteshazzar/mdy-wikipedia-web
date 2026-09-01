@@ -1,0 +1,35 @@
+slug: hanging-gardens-of-babylon
+findings:
+  - kind: dropped-hedge
+    quote: The Hanging Gardens are the only one of the Seven Wonders whose
+      location has never been definitively established, and no Babylonian text
+      mentions them at all.
+    why: The source says "No extant Babylonian texts mention the gardens".
+      Dropping "extant" turns a statement about surviving texts into a claim
+      that no such text ever existed. The rewrite's own prose keeps "extant".
+    severity: minor
+  - kind: unsupported
+    quote: What survives is five Greek and Roman descriptions, and an argument
+      about which city they describe.
+    why: The source says "There are five principal writers whose descriptions of
+      Babylon exist in some form today"; it does not call all five Greek and
+      Roman, and it describes the earliest of them, Berossus, as a Babylonian
+      priest of Marduk.
+    severity: minor
+  - kind: dropped-hedge
+    quote: Diodorus Siculus, drawing on Cleitarchus and Ctesias of Cnidus, gives
+      the measurements of a square garden built by a "Syrian king".
+    why: 'The source hedges: Diodorus "seems to have consulted the 4th century BC
+      texts of both Cleitarchus ... and Ctesias of Cnidus". The timeline entry
+      states it flat.'
+    severity: minor
+  - kind: dropped-hedge
+    quote: Before the Battle of Gaugamela, Alexander the Great camps for four days
+      near the aqueduct at Jerwan; the historians travelling with him record
+      the works in Greek.
+    why: "The source states this as a supposition inside Dalley's argument: the
+      historians \"would have had ample time to investigate the enormous works
+      around them, recording them in Greek\". The timeline presents it as an
+      event that happened."
+    severity: minor
+verdict: minor-only

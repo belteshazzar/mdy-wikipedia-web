@@ -1,0 +1,27 @@
+slug: nile-delta
+findings:
+  - kind: unsupported
+    quote: A later list, from [[ George of Cyprus | george-of-cyprus-geographer
+      ]], names them differently:[[ ^16 ]]
+    why: The source dates George of Cyprus nowhere. It gives the list under a bare
+      heading with only "Source:[[ ^16 ]]", and says nothing about whether it
+      postdates the seven-branch list attributed to Ptolemy. "A later list"
+      asserts a chronology the source does not supply.
+    severity: blocking
+  - kind: unsupported
+    quote: Ancient writers counted seven branches of the Nile crossing the delta
+      to the sea. Two are left, and the coastline they built is now losing up
+      to 90 m (100 yd) of land a year.
+    why: "Two things the source does not say. It never says the branches built the
+      coastline — no sentence connects the distributaries to coastline
+      formation. And the land-loss figure is about a wider subject: \"Egypt's
+      Mediterranean coastline loses land to the sea, in some places to 90 m
+      (100 yd) a year\", not the delta's coastline specifically."
+    severity: minor
+  - kind: dropped-hedge
+    quote: five thousand years of intensive farming
+    why: The source says the delta "has been intensively farmed for at least the
+      past five thousand years". The standfirst drops "at least", turning a
+      floor into a figure. (The body prose keeps the hedge.)
+    severity: minor
+verdict: blocked

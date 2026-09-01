@@ -19,3 +19,11 @@ site/corpus/
 # Credentials for the rewriting pass. `pipeline/rewrite.mjs` reads
 # ANTHROPIC_API_KEY from the environment; this is somewhere to keep it.
 .env
+
+# The rewriting pass's intermediates: `--emit` writes the request, the answer
+# comes back, `--apply` composes the document. site/edited/ is the artifact and
+# is committed; these two are regenerable from it and the corpus.
+pipeline/requests/
+pipeline/answers/
+pipeline/checks/
+pipeline/reports/

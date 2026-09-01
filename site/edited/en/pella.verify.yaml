@@ -1,0 +1,14 @@
+slug: pella
+findings:
+  - kind: altered-value
+    quote: It was a port then, joined to the Thermaic Gulf by a navigable inlet;
+      the inlet silted up, and the site now sits inland.
+    why: The source says "the harbour and gulf have since silted up", not the
+      inlet. The rewrite names a different feature as the one that silted up.
+    severity: minor
+  - kind: unsupported
+    quote: Greek for a curse — at Pella, one inscribed on a lead scroll and buried.
+    why: The source says the curse was inscribed on a lead scroll but says nothing
+      about it being buried.
+    severity: minor
+verdict: minor-only

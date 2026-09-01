@@ -1,0 +1,23 @@
+slug: thoth
+findings:
+  - kind: unsupported
+    quote: The scribes who wrote ancient Egypt down kept a picture of Thoth in
+      their offices, and buried millions of mummified ibises in his honour.
+    why: "The source attributes the ibis burials to no one in particular and
+      places them in a different context: \"During the Late Period of ancient
+      Egypt, a cult of Thoth gained prominence due to its main center, Khmun
+      (Hermopolis Magna), also becoming the capital. Millions of dead ibis
+      were mummified and buried in his honor.\" It never says scribes did the
+      burying; the hook makes scribes the subject of both verbs and so joins
+      two unconnected passages. The source also says only \"Many scribes had a
+      painting or a picture of Thoth in their 'office'\", not the scribes
+      generally."
+    severity: blocking
+  - kind: dropped-hedge
+    quote: Nobody knows how the Egyptians pronounced //ḏḥwty//.
+    why: The source says the pronunciation "is not fully known" and then gives a
+      reconstruction; "nobody knows" states total ignorance rather than
+      partial. The hedge is restored in the following sentence, so the effect
+      is limited.
+    severity: minor
+verdict: blocked

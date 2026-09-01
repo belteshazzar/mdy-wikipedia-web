@@ -12,15 +12,18 @@
  * work is right. It is cheap relative to the rewrite because it reads two
  * documents and writes a list.
  *
- *   node pipeline/verify.mjs <slug>...
- *   node pipeline/verify.mjs --all
+ *   node pipeline/verify.mjs <slug>...              # over the API
+ *   node pipeline/verify.mjs --emit <slug>...       # write the request out
+ *   node pipeline/verify.mjs --apply <slug> <json>  # take an answer back in
+ *
+ * The same emit/apply pair the rewriting pass has, and for the same reason:
+ * the check has to be able to run wherever, without the request changing.
  */
 
-import {readdir, readFile, writeFile} from 'node:fs/promises'
+import {mkdir, readdir, readFile, writeFile} from 'node:fs/promises'
 import {join} from 'node:path'
 import YAML from 'yaml'
-import Anthropic from '@anthropic-ai/sdk'
-import {split} from './rewrite.mjs'
+import {split} from './document.mjs'
 
 const MODEL = 'claude-opus-5'
 const corpus = 'site/corpus/en'
@@ -77,8 +80,74 @@ Severity is blocking for anything a reader would be misled by, minor for a rephr
 
 Be specific and be sparing. A long list of speculative findings is worse than a short list of real ones, because it will not be read. If the rewrite is faithful, say so with an empty list.`
 
+/** Everything the checker is given about one pair, as either transport sends it. */
+function question(source, rewrite) {
+  return [
+    '# SOURCE — what Wikipedia said',
+    '',
+    '## Its records',
+    '```yaml',
+    YAML.stringify(
+      {infobox: source.data.infobox, wikidata: source.data.wikidata},
+      {lineWidth: 100}
+    ).trimEnd(),
+    '```',
+    '',
+    '## Its prose',
+    source.prose,
+    '',
+    '# REWRITE — what this page now says',
+    '',
+    '## Its fields',
+    '```yaml',
+    YAML.stringify(
+      {
+        hook: rewrite.data.hook,
+        standfirst: rewrite.data.standfirst,
+        'key-facts': rewrite.data['key-facts'],
+        'pull-quotes': rewrite.data['pull-quotes'],
+        timeline: rewrite.data.timeline,
+        glossary: rewrite.data.glossary
+      },
+      {lineWidth: 100}
+    ).trimEnd(),
+    '```',
+    '',
+    '## Its prose',
+    rewrite.prose
+  ].join('\n')
+}
+
+/** Record a verdict in the document itself, so publishability is a query. */
+async function land(slug, raw, report) {
+  const updated = raw.replace(
+    /^(\s*)verified: false$/m,
+    `$1verified: ${report.verdict === 'blocked' ? 'false' : 'true'}\n$1verdict: ${report.verdict}` +
+      (report.findings.length ? `\n$1findings: ${report.findings.length}` : '')
+  )
+
+  await writeFile(join(edited, `${slug}.mdy`), updated)
+  await writeFile(
+    join(edited, `${slug}.verify.yaml`),
+    YAML.stringify({slug, ...report}, {lineWidth: 78})
+  )
+
+  const bad = report.findings.filter((f) => f.severity === 'blocking')
+
+  console.log(
+    `${slug}: ${report.verdict}` +
+      (report.findings.length ? ` — ${report.findings.length} findings, ${bad.length} blocking` : '')
+  )
+
+  for (const finding of report.findings) {
+    console.log(`    [${finding.severity}/${finding.kind}] ${finding.quote.slice(0, 100)}`)
+  }
+
+  return report.verdict === 'blocked'
+}
+
 const args = process.argv.slice(2)
-const client = new Anthropic()
+const mode = args.includes('--emit') ? 'emit' : args.includes('--apply') ? 'apply' : 'api'
 const slugs = args.includes('--all')
   ? (await readdir(edited).catch(() => [])).filter((n) => n.endsWith('.mdy')).map((n) => n.slice(0, -4))
   : args.filter((a) => !a.startsWith('--'))
@@ -90,86 +159,68 @@ if (!slugs.length) {
 
 let blocked = 0
 
-for (const slug of slugs) {
-  const source = split(await readFile(join(corpus, `${slug}.mdy`), 'utf8'))
-  const rewriteRaw = await readFile(join(edited, `${slug}.mdy`), 'utf8')
-  const rewrite = split(rewriteRaw)
+if (mode === 'apply') {
+  const [slug, answer] = slugs
 
-  const stream = client.messages.stream({
-    model: MODEL,
-    max_tokens: 32000,
-    thinking: {type: 'adaptive'},
-    output_config: {effort: 'high', format: {type: 'json_schema', schema}},
-    system: [{type: 'text', text: system, cache_control: {type: 'ephemeral'}}],
-    messages: [
-      {
-        role: 'user',
-        content: [
-          '# SOURCE — what Wikipedia said',
-          '',
-          '## Its records',
-          '```yaml',
-          YAML.stringify(
-            {infobox: source.data.infobox, wikidata: source.data.wikidata},
-            {lineWidth: 100}
-          ).trimEnd(),
-          '```',
-          '',
-          '## Its prose',
-          source.prose,
-          '',
-          '# REWRITE — what this page now says',
-          '',
-          '## Its fields',
-          '```yaml',
-          YAML.stringify(
-            {
-              hook: rewrite.data.hook,
-              standfirst: rewrite.data.standfirst,
-              'key-facts': rewrite.data['key-facts'],
-              'pull-quotes': rewrite.data['pull-quotes'],
-              timeline: rewrite.data.timeline,
-              glossary: rewrite.data.glossary
-            },
-            {lineWidth: 100}
-          ).trimEnd(),
-          '```',
-          '',
-          '## Its prose',
-          rewrite.prose
-        ].join('\n')
-      }
-    ]
-  })
+  if (!slug || !answer) throw new Error('usage: --apply <slug> <report.json>')
 
-  const message = await stream.finalMessage()
-  const report = JSON.parse(message.content.find((b) => b.type === 'text').text)
-  const bad = report.findings.filter((f) => f.severity === 'blocking')
+  const raw = await readFile(join(edited, `${slug}.mdy`), 'utf8')
 
-  if (report.verdict === 'blocked') blocked += 1
+  if (await land(slug, raw, JSON.parse(await readFile(answer, 'utf8')))) blocked += 1
+} else if (mode === 'emit') {
+  const dir = 'pipeline/checks'
 
-  // The verdict goes back into the document, so "which rewrites are safe to
-  // publish" is a query rather than a spreadsheet.
-  const updated = rewriteRaw.replace(
-    /^(\s*)verified: false$/m,
-    `$1verified: ${report.verdict === 'blocked' ? 'false' : 'true'}\n$1verdict: ${report.verdict}` +
-      (report.findings.length
-        ? `\n$1findings: ${report.findings.length}`
-        : '')
-  )
+  await mkdir(dir, {recursive: true})
 
-  await writeFile(join(edited, `${slug}.mdy`), updated)
-  await writeFile(
-    join(edited, `${slug}.verify.yaml`),
-    YAML.stringify({slug, ...report}, {lineWidth: 78})
-  )
+  for (const slug of slugs) {
+    const source = split(await readFile(join(corpus, `${slug}.mdy`), 'utf8'))
+    const rewrite = split(await readFile(join(edited, `${slug}.mdy`), 'utf8'))
+    const path = join(dir, `${slug}.md`)
 
-  console.log(
-    `${slug}: ${report.verdict}` +
-      (report.findings.length ? ` — ${report.findings.length} findings, ${bad.length} blocking` : '')
-  )
+    await writeFile(
+      path,
+      [
+        system,
+        '',
+        '---',
+        '',
+        question(source, rewrite),
+        '',
+        '---',
+        '',
+        '# Answer with JSON matching this schema, and nothing else',
+        '',
+        '```json',
+        JSON.stringify(schema, null, 2),
+        '```'
+      ].join('\n')
+    )
 
-  for (const finding of bad) console.log(`    [${finding.kind}] ${finding.quote.slice(0, 90)}`)
+    console.log(path)
+  }
+} else {
+  const {default: Anthropic} = await import('@anthropic-ai/sdk')
+  const client = new Anthropic()
+
+  for (const slug of slugs) {
+    const source = split(await readFile(join(corpus, `${slug}.mdy`), 'utf8'))
+    const raw = await readFile(join(edited, `${slug}.mdy`), 'utf8')
+
+    const stream = client.messages.stream({
+      model: MODEL,
+      max_tokens: 32000,
+      thinking: {type: 'adaptive'},
+      output_config: {effort: 'high', format: {type: 'json_schema', schema}},
+      system: [{type: 'text', text: system, cache_control: {type: 'ephemeral'}}],
+      messages: [{role: 'user', content: question(source, split(raw))}]
+    })
+
+    const message = await stream.finalMessage()
+
+    if (await land(slug, raw, JSON.parse(message.content.find((b) => b.type === 'text').text))) {
+      blocked += 1
+    }
+  }
 }
 
 if (blocked) {

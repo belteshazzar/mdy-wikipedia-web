@@ -1,0 +1,492 @@
++++
+title: Tigris
+description: River in Turkey, Iraq, and Syria
+hook: The Tigris is named for being in a hurry. Sumerian scribes called it
+  "the swift river" to set it against the Euphrates next door, whose leisurely
+  pace left it dropping silt until it had built its bed up higher than its
+  neighbour's.
+standfirst: The eastern of the two great rivers that define Mesopotamia, the
+  Tigris runs 1,900 km (1,200 mi) from Lake Hazar in Turkey to the Persian
+  Gulf, past Mosul, Tikrit, Samarra and Baghdad. It has been named in a dozen
+  languages, worshipped as a god, dammed, and used as a weapon.
+key-facts:
+  - name: How long
+    value: 1,900 km (1,200 mi)
+  - name: Where it starts
+    value: Lake Hazar at Gölardı, Turkey, 1,150 m (3,770 ft) up in the Armenian
+      Highlands
+  - name: Where it ends
+    value: The Shatt al-Arab, and on into the Persian Gulf
+  - name: Countries it crosses
+    value: Turkey, Syria, Iraq
+  - name: Land it drains
+    value: 375,000 km2 (145,000 sq mi)
+  - name: How much water it carries
+    value: 1,014 m3/s (35,800 cu ft/s) on average, between a low of 337 m3/s
+      (11,900 cu ft/s) and a high of 2,779 m3/s (98,100 cu ft/s)
+pull-quotes:
+  - text: when I was by that great river the Tigris
+    attribution: Daniel, in the Book of Daniel
+    section: religion-and-mythology
+timeline:
+  - when: around 2900 B.C.
+    what: A canal dug from the Tigris irrigates the city of Lagash.
+  - when: around 1858
+    what: Baháʼu'lláh writes The Hidden Words while walking the banks of the
+      Tigris during his exile in Baghdad.
+  - when: 1932 to 1959
+    what: The river features on the coat of arms of Iraq.
+  - when: "2014"
+    what: Representatives of Iraq and Turkey agree the "Geneva Consensus On Tigris
+      River", a Plan of Action on exchanging and calibrating data about the
+      river's flows, at a meeting in Geneva organized by the Strategic
+      Foresight Group.
+  - when: February 2016
+    what: The United States Embassy in Iraq and Prime Minister Haider al-Abadi
+      warn that Mosul Dam could collapse, putting between 500,000 and 1.5
+      million people at risk of drowning.
+image-plan:
+  - file: Le_Tour_du_monde-04-p065.jpg
+    role: hero
+    section: lead
+    caption: Mosul on the bank of the Tigris in 1861.
+  - file: USSHER(1865)_p477_BEDOWEEN_CROSSING_THE_TIGRIS_WITH_PLUNDER.jpg
+    role: inline
+    section: etymology
+    caption: Bedouin crossing the Tigris with plunder, c. 1860.
+  - file: Haifa_street,_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg
+    role: full
+    section: geography
+    caption: Baghdad, the capital of Iraq, stands on the banks of the Tigris.
+  - file: Tigris_river_Mosul.jpg
+    role: inline
+    section: navigation
+    caption: The river at Mosul, below which rafts rather than boats have
+      historically carried goods downstream.
+  - file: TigrisRiver.JPG
+    role: drop
+    section: navigation
+    caption: "The river outside Mosul, Iraq. Dropped: it repeats the view from the
+      Mosul photograph beside it."
+  - file: Tigris_2015.jpg
+    role: full
+    section: management-and-water-quality
+    caption: The Tigris flowing through the valley of Êlih-Hafizbiniyan.
+  - file: Coat_of_arms_of_the_Kingdom_of_Iraq_(1921–1958).svg
+    role: inline
+    section: religion-and-mythology
+    caption: "The coat of arms of the Kingdom of Iraq, 1932 to 1959: the two
+      rivers, their confluence at the Shatt al-Arab, and the date palm forest
+      that used to be the largest in the world."
+glossary:
+  - term: Shatt al-Arab
+    gloss: The single river formed where the Tigris joins the Euphrates near
+      al-Qurnah, and which runs on to the Persian Gulf.
+  - term: Distributary channel
+    gloss: A branch that carries water away from a river instead of into it; the
+      Tigris throws off several near its confluence, feeding the Central and
+      Hawizeh Marshes.
+  - term: Silt
+    gloss: The sediment a slow river drops as it goes; the Euphrates deposited
+      more of it than the Tigris and built up a higher bed.
+  - term: Idigna / Idiqlat
+    gloss: The Sumerian and Akkadian names of the river, the Sumerian
+      interpretable as "the swift river".
+  - term: Aranzah
+    gloss: "The Hurrian name of the Tigris, deified as a god: son of Kumarbi,
+      brother of Teshub and Tašmišu."
+  - term: Masbuta
+    gloss: The baptism for which the Mandaeans use the water of the Tigris.
+  - term: Affluence
+    gloss: A stream feeding the river; the Tigris takes in Garzan, Anbarçayi,
+      Batman, and the Great and Little Zab.
+further:
+  - slug: euphrates
+    why: The other of the two great rivers that define Mesopotamia, and the slow
+      one the Tigris was named against.
+  - slug: assyria
+    why: The empire the Tigris nurtured, which left remnants along the river such
+      as the relief of King Tiglath-Pileser.
+  - slug: lagash
+    why: A city irrigated by the Tigris through a canal dug around 2900 B.C.
+coordinates:
+  lat: 31.005
+  lon: 47.44194444
+image: https://upload.wikimedia.org/wikipedia/commons/6/6d/Mosul_river.jpg
+images:
+  - file: Le_Tour_du_monde-04-p065.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Le_Tour_du_monde-04-p065.jpg/250px-Le_Tour_du_monde-04-p065.jpg
+    width: 1266
+    height: 845
+    caption: Mosul, on the bank of the Tigris, 1861
+  - file: USSHER(1865)_p477_BEDOWEEN_CROSSING_THE_TIGRIS_WITH_PLUNDER.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/USSHER%281865%29_p477_BEDOWEEN_CROSSING_THE_TIGRIS_WITH_PLUNDER.jpg/250px-USSHER%281865%29_p477_BEDOWEEN_CROSSING_THE_TIGRIS_WITH_PLUNDER.jpg
+    width: 2185
+    height: 1534
+    caption: Bedouin crossing the river Tigris with plunder (c. 1860)
+  - file: Tigris_river_Mosul.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tigris_river_Mosul.jpg/250px-Tigris_river_Mosul.jpg
+    width: 500
+    height: 290
+    caption: Mosul, Iraq
+  - file: TigrisRiver.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TigrisRiver.JPG/250px-TigrisRiver.JPG
+    width: 640
+    height: 480
+    caption: Outside of Mosul, Iraq
+  - file: Haifa_street,_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Haifa_street%2C_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg/250px-Haifa_street%2C_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg
+    width: 1632
+    height: 1224
+    caption: Baghdad
+  - file: Tigris_2015.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tigris_2015.jpg/250px-Tigris_2015.jpg
+    width: 4503
+    height: 2320
+    caption: Tigris River as it flows through the valley of Êlih-Hafizbiniyan
+  - file: Coat_of_arms_of_the_Kingdom_of_Iraq_(1921–1958).svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Coat_of_arms_of_the_Kingdom_of_Iraq_%281921%E2%80%931958%29.svg/250px-Coat_of_arms_of_the_Kingdom_of_Iraq_%281921%E2%80%931958%29.svg.png
+    width: 509
+    height: 572
+    caption: Coat of arms of the Kingdom of Iraq (1932–1959) depicting the two
+      rivers, the confluence Shatt al-Arab and the date palm forest, which
+      used to be the largest in the world
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mosul_river.jpg/250px-Mosul_river.jpg
+    caption: Tigris river in Mosul
+  location:
+    country: Turkey, Syria, Iraq
+    source-region: Armenian Highlands
+    cities: Elazığ, Diyarbakır, Mosul, Baghdad
+  physical-characteristics:
+    source: Lake Hazar
+    location: Gölardı, Turkey
+    coordinates: 38°29′0″N 39°25′0″E / 38.48333°N 39.41667°E
+    elevation: 1,150 m (3,770 ft)
+    mouth: Shatt al-Arab
+    length: 1,900 km (1,200 mi)
+    basin-size: 375,000 km2 (145,000 sq mi)
+    average: 1,014 m3/s (35,800 cu ft/s)
+    minimum: 337 m3/s (11,900 cu ft/s)
+    maximum: 2,779 m3/s (98,100 cu ft/s)
+  basin-features:
+    progression: Shatt al-Arab → Persian Gulf
+    river-system: Tigris–Euphrates river system
+    left: Garzan, Botan, Khabur, Greater Zab, Lesser Zab, 'Adhaim, Cizre, Diyala
+    right: Wadi Tharthar
+sections:
+  - level: 2
+    id: etymology
+    title: Etymology
+  - level: 2
+    id: geography
+    title: Geography
+  - level: 2
+    id: navigation
+    title: Navigation
+  - level: 2
+    id: management-and-water-quality
+    title: Management and water quality
+  - level: 2
+    id: religion-and-mythology
+    title: Religion and mythology
+wikidata:
+  id: Q35591
+  label: Tigris
+  description: river flowing from Turkey through Iraq and Syria
+  claims:
+    origin-of-the-watercourse: Lake Hazar
+    instance-of: river
+    commons-category: Tigris
+    coordinate-location:
+      - lat: 38.5032
+        lon: 39.5058
+      - lat: 31.0043
+        lon: 47.4421
+    mouth-of-the-watercourse: Shatt al-Arab
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Tigris_2015.jpg
+    category-for-the-water-basin: Category:Tigris Basin
+    country:
+      - Iraq
+      - Syria
+      - Turkey
+    tributary:
+      - Little Zab
+      - Great Zab
+      - Botan River
+      - Khabur
+      - "'Adhaim"
+      - Q21209945
+      - Q21210285
+      - Q21210929
+      - Batman Brook
+      - Diyala River
+      - Karkheh River
+      - Gevi River
+      - Khasa River
+      - Khosr River
+      - Zab
+      - Sirwan River
+      - Q21695712
+      - Q21199148
+      - Q21695258
+      - Q21210039
+      - Q16371554
+      - Godar Khosh River
+      - Doiraj River
+    lake-on-watercourse: Lake Hazar
+    topic-s-main-category: Category:Tigris River
+    described-by-source:
+      - Bible Encyclopedia of Archimandrite Nicephorus
+      - Jewish Encyclopedia of Brockhaus and Efron
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Encyclopedia of Armenian Nature
+      - Russian translation of Lübker's Antiquity Lexicon
+      - The Nuttall Encyclopædia
+      - Encyclopædia Britannica 11th edition
+    length: 1850 kilometre
+    watershed-area: 375000 square kilometre
+    discharge: 1014 cubic metre per second
+    basin-country: Turkey
+    native-label:
+      - Dicle
+      - دجلة‎‎
+    drainage-basin: Persian Gulf Basin
+    on-focus-list-of-wikimedia-project:
+      value: Wikipedia:Vital articles/Level/4
+      when: 2022-10-31
+    locator-map-image: https://commons.wikimedia.org/wiki/Special:FilePath/Tigr-euph_de.png
+    located-in-on-physical-feature: Iraq
+link-titles:
+  akkadian-language: Akkadian language
+  al-kahla: Al-Kahla
+  al-kassarahactioneditredlink1: Al-Kassarah?action=edit&redlink=1
+  al-musharrahactioneditredlink1: Al-Musharrah?action=edit&redlink=1
+  al-qurnah: Al-Qurnah
+  ancient-greek: Ancient Greek
+  anu: Anu
+  arabian-desert: Arabian Desert
+  arabic: Arabic
+  arabic-language: Arabic language
+  aramaic: Aramaic
+  aranzah: Aranzah
+  armenian-highlands: Armenian Highlands
+  armenian-language: Armenian language
+  assyria: Assyria
+  baghdad: Baghdad
+  baháʼulláh: Baháʼu'lláh
+  baháʼí-faith: Baháʼí Faith
+  basra: Basra
+  batman-river: Batman River
+  book-of-daniel: Book of Daniel
+  book-of-genesis: Book of Genesis
+  central-marshes: Central Marshes
+  classical-syriac-language: Classical Syriac language
+  coat-of-arms-of-iraq: Coat of arms of Iraq
+  ctesiphon: Ctesiphon
+  daniel-biblical-figure: Daniel (biblical figure)
+  distributary-channel: Distributary channel
+  elazığ: Elazığ
+  enki: Enki
+  euphrates: Euphrates
+  flash-flood: Flash flood
+  garden-of-eden: Garden of Eden
+  geneva: Geneva
+  great-zab: Great Zab
+  haider-al-abadi: Haider al-Abadi
+  hawizeh-marshes: Hawizeh Marshes
+  hebrew-language: Hebrew language
+  hittite-language: Hittite language
+  hittites: Hittites
+  hurrian: Hurrian
+  hurrian-language: Hurrian language
+  imam-ahmad-bin-hanbal: Imam Ahmad Bin Hanbal
+  iraq: Iraq
+  jewish-babylonian-aramaic-language: Jewish Babylonian Aramaic language
+  kumarbi: Kumarbi
+  kurdish-languages: Kurdish languages
+  lagash: Lagash
+  little-zab: Little Zab
+  majar-al-kabir: Majar al-Kabir
+  mandaeans: Mandaeans
+  masbuta: Masbuta
+  mesopotamia: Mesopotamia
+  middle-persian: Middle Persian
+  mosul: Mosul
+  mosul-dam: Mosul Dam
+  mount-kanzurasactioneditredlink1: Mount Kanzuras?action=edit&redlink=1
+  nasiriyah: Nasiriyah
+  nineveh: Nineveh
+  old-persian-language: Old Persian language
+  old-testament: Old Testament
+  persian-gulf: Persian Gulf
+  persian-language: Persian language
+  pliny-the-elder: Pliny the Elder
+  prime-minister-of-iraq: Prime Minister of Iraq
+  river: River
+  rivers-of-paradise: Rivers of Paradise
+  romanization-of-arabic: Romanization of Arabic
+  romanization-of-hebrew: Romanization of Hebrew
+  samarra: Samarra
+  seleucia-on-the-tigris: Seleucia on the Tigris
+  semitic-languages: Semitic languages
+  shatt-al-hayy: Shatt al-Hayy
+  shatt-al-arab: Shatt-al-Arab
+  silt: Silt
+  song-of-kumarbi: Song of Kumarbi
+  strategic-foresight-group: Strategic Foresight Group
+  sumer: Sumer
+  sumerian-language: Sumerian language
+  sumerian-religion: Sumerian religion
+  syed-abdul-razzaq-jilani: Syed Abdul Razzaq Jilani
+  syria-turkey-border: Syria-Turkey border
+  syriac-language: Syriac language
+  syrian-desert: Syrian Desert
+  taurus-mountains: Taurus Mountains
+  tašmišu: Tašmišu
+  teshub: Teshub
+  the-hidden-words: The Hidden Words
+  tiglath-pileser-i: Tiglath-Pileser I
+  tikrit: Tikrit
+  turkey: Turkey
+  turkish-language: Turkish language
+  united-states-embassy-in-iraq: United States Embassy in Iraq
+source:
+  site: Wikipedia
+  lang: en
+  title: Tigris
+  url: https://en.wikipedia.org/wiki/Tigris
+  page-id: 31259
+  revision: "1368209081"
+  modified: 2026-08-07T18:08:48Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Tigris"
+    (revision 1368209081), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/tigris.mdy
+  source-revision: "1368209081"
+  model: claude-opus-5
+  left-out: 'Three different lengths for the river appear in the document: 1,900
+    km (1,200 mi) in the infobox, 1850 kilometre in the Wikidata claims, and
+    1,750 km (1,090 mi) in the Geography prose. I copied each where it stood,
+    using the infobox figure in the key facts and the prose figure in
+    Geography, and did not try to reconcile them. The Etymology table is left
+    close to its original form, as a list of language and name pairs, since it
+    is not prose; the small cuneiform sign image inside its Sumerian row is
+    not in the images list and so has no place in the image plan. The two
+    photographs embedded in the body but absent from the images list,
+    including "Tigris River in Baghdad (2016)", are likewise not in the image
+    plan, since the plan uses the file names given. Several sentences carry no
+    footnote because the source gives them none, among them the Lagash canal,
+    the Mosul Dam being the largest in Iraq, the whole Aranzah paragraph, and
+    every sentence of the lead. Wikidata tributaries listed only as Q-numbers
+    (Q21209945 and the rest) could not be named and were not used.'
+  verified: false
+  verdict: blocked
+  findings: 6
+  reviewed: false
++++
+The !!Tigris!! (see [[ below | #etymology ]]) is the eastern of the two great [[ rivers | river ]] that define [[ Mesopotamia ]]; the [[ Euphrates ]] is the other. It comes down from the mountains of the [[ Armenian Highlands ]], flows south through the [[ Syrian | syrian-desert ]] and [[ Arabian Deserts | arabian-desert ]], and merges with the [[ Euphrates ]] before reaching the [[ Persian Gulf ]].
+
+On the way it passes historical cities: [[ Mosul ]], [[ Tikrit ]], [[ Samarra ]] and [[ Baghdad ]]. Archaeological sites stand along it, and so do ancient religious communities, among them the [[ Mandaeans ]], who use the river for [[ baptism | masbuta ]]. In ancient times the Tigris nurtured the [[ Assyrian Empire | assyria ]], with remnants such as the relief of [[ King Tiglath-Pileser | tiglath-pileser-i ]].
+
+Today the river faces geopolitical instability, dam projects, poor water management and climate change, and these raise concerns about its sustainability. Efforts to protect and preserve the river's legacy are ongoing, with local archaeologists and activists working to safeguard its future.
+
+== Etymology
+
+The name is among the oldest still in daily use, and it has been worn shorter by every language that borrowed it. The chain runs from Sumerian 𒀀𒇉𒈦𒄘𒃼 (Idigna) into Akkadian 𒀀𒇉𒈦𒄘𒃼 (Idiglat), from there into Old Persian 𐎫𐎡𐎥𐎼𐎠 (Tigrā), then into Ancient Greek Τίγρης (Tígrēs) and its alternative form Τίγρις (Tígris), and finally into Latin as Tigris.
+
+The [[ Ancient Greek ]] form //Tigris// (Τίγρις) probably derived from //*id (i)gina//, "running water".[[ ^5 ]] The Sumerian term can be interpreted as "the swift river", a name that contrasts the Tigris with its neighbour the Euphrates, whose leisurely pace caused it to deposit more [[ silt ]] and build up a higher bed than the Tigris. The Sumerian form was borrowed into [[ Akkadian | akkadian-language ]] as //Idiqlat//, and from there into the other [[ Semitic languages ]]: compare Hebrew: חִדֶּקֶל‎, [[ romanized | romanization-of-hebrew ]]: //Ḥîddéqel//; Jewish Babylonian Aramaic: דיגלת‎, דיקגלת‎, romanized: //diqlāṯ// or //diglāṯ//; Classical Syriac: ܕܩܠܬ‎, romanized: //Deqlāṯ//; Arabic: دِجلَة, [[ romanized | romanization-of-arabic ]]: //Dijlah//.[[ ^6 ]]
+
+In [[ Kurdish languages ]] it is known as //Ava Mezin//, "the Great Water".[[ ^7 ]]
+
+The name of the Tigris in languages that have been important in the region:
+
+!!Language!! / !!Name for Tigris!!
+
+[[ Akkadian | akkadian-language ]] / 𒁇𒄘𒃼, //Idiqlat//
+[[ Arabic ]] / دِجلَة, //Dijlah//; حُدَاقِل, Ḥudāqil
+[[ Aramaic ]] / דיגלת, //Diglath//
+[[ Armenian | armenian-language ]] / Տիգրիս, //Tigris//, Դգլաթ, //Dglatʿ//
+[[ Greek | ancient-greek ]] / [[ ἡ Τίγρης | https://incubator.wikimedia.org/wiki/Wp/grc/Τίγρης ]], -ητος, //hē Tígrēs, -ētos//; ἡ, ὁ Τίγρις, -ιδος, //hē, ho Tígris, -idos//
+[[ Hebrew | hebrew-language ]] / חִדֶּקֶל, //Ḥiddéqel//[[ ^8 ]]
+[[ Hurrian | hurrian-language ]] / //Aranzah//[[ ^9 ]]
+[[ Persian | persian-language ]] / Old Persian: 𐎫𐎡𐎥𐎼𐎠 //Tigrā//; [[ Middle Persian ]]: //Tigr//; Persian: دجله //Dejle//
+[[ Sumerian | sumerian-language ]] / 𒁇𒄘𒃼 //Idigna/Idigina//
+[[ Syriac | syriac-language ]] / ܕܸܩܠܵܬܼ //Deqlaṯ//
+[[ Turkish | turkish-language ]] / //Dicle//
+[[ Kurdish | kurdish-languages ]] / Dîcle, Dijlê, دیجلە
+
+== Geography
+
+The Tigris is 1,750 km (1,090 mi) long. It rises in the [[ Taurus Mountains ]] of eastern [[ Turkey ]], about 25 km (16 mi) southeast of the city of [[ Elazığ ]] and about 30 km (19 mi) south of the valley of the Euphrates, so the two rivers that define Mesopotamia begin within a morning's walk of each other. The Tigris then runs 400 km (250 mi) through Southeastern Turkey before forming part of the [[ Syria-Turkey border ]]. That stretch of 44 km (27 mi) is the only part of the river located in Syria.[[ ^3 ]] Some of its affluences are Garzan, Anbarçayi, [[ Batman | batman-river ]], and the [[ Great | great-zab ]] and the [[ Little Zab ]].[[ ^10 ]]
+
+Close to its confluence with the Euphrates the river stops being one river. The artificial [[ Shatt al-Hayy ]] branches off first, to join the Euphrates near [[ Nasiriyah ]]; then the Shatt al-Muminah and [[ Majar al-Kabir ]] branch off to feed the [[ Central Marshes ]]. Further downstream two other [[ distributary channels | distributary-channel ]] leave the river, the Al-Musharrah and [[ Al-Kahla ]], to feed the [[ Hawizeh Marshes ]]. The main channel continues southwards and is joined by the Al-Kassarah, which drains the Hawizeh Marshes again. Finally the Tigris joins the Euphrates near [[ al-Qurnah ]] to form the [[ Shatt-al-Arab ]]. It has not always ended this way: according to [[ Pliny | pliny-the-elder ]] and other ancient historians, the Euphrates originally had its outlet into the sea separate from that of the Tigris.[[ ^11 ]]
+
+[[ Baghdad ]], the capital of [[ Iraq ]], stands on the banks of the Tigris, and the port city of [[ Basra ]] straddles the Shatt al-Arab. In ancient times many of the great cities of [[ Mesopotamia ]] stood on or near the river, drawing water from it to irrigate the civilization of the [[ Sumerians | sumer ]]. [[ Nineveh ]], [[ Ctesiphon ]] and [[ Seleucia | seleucia-on-the-tigris ]] were Tigris-side cities, and the city of [[ Lagash ]] was irrigated by the Tigris through a canal dug around 2900 B.C.
+
+== Navigation
+
+In a largely desert country the river is a road, and it has long been an important transport route. Shallow-draft vessels can go as far up as Baghdad, but for transport downstream from [[ Mosul ]] rafts have historically been needed.[[ ^12 ]][[ ^13 ]][[ ^14 ]]
+
+== Management and water quality
+
+The Tigris is heavily dammed in Iraq and Turkey, both to water the arid and semi-desert regions along the river valley and to hold back floods. Iraq needed the second as much as the first: the river has historically been notoriously prone to flooding after the April melting of snow in the Turkish mountains. [[ Mosul Dam ]] is the largest dam in Iraq.
+
+Recent Turkish damming of the river has been the subject of some controversy, for both its environmental effects within Turkey and its potential to reduce the flow of water downstream. Water from both rivers is used as a means of pressure during conflicts.[[ ^15 ]]
+
+In 2014 a major breakthrough was achieved in developing consensus between multiple stakeholder representatives of Iraq and Turkey on a Plan of Action for promoting exchange and calibration of data and standards pertaining to Tigris river flows. The consensus, known as the "Geneva Consensus On Tigris River", was reached at a meeting organized in [[ Geneva ]] by the think tank [[ Strategic Foresight Group ]].[[ ^16 ]]
+
+Two years later the talk was of collapse rather than calibration. In February 2016 the [[ United States Embassy in Iraq ]] and the [[ Prime Minister of Iraq ]] [[ Haider al-Abadi ]] both issued warnings that [[ Mosul Dam ]] could fail.[[ ^17 ]] The United States warned people to evacuate the floodplain of the Tigris, because between 500,000 and 1.5 million people were at risk of drowning by [[ flash flood ]] if the dam collapses, and because [[ Mosul ]], [[ Tikrit ]], [[ Samarra ]] and [[ Baghdad ]] were all at risk.[[ ^18 ]]
+
+== Religion and mythology
+
+In [[ Sumerian mythology | sumerian-religion ]] the Tigris was created by the god [[ Enki ]], who filled the river with flowing water.[[ ^19 ]]
+
+In [[ Hittite | hittites ]] and [[ Hurrian ]] mythology the river is not made by a god but is one. //[[ Aranzah ]]// (or //Aranzahas// in the [[ Hittite | hittite-language ]] nominative form) is the Hurrian name of the Tigris River, which was deified. He was the son of [[ Kumarbi ]] and the brother of [[ Teshub ]] and [[ Tašmišu ]], one of the three gods spat out of Kumarbi's mouth onto Mount Kanzuras. Later he colluded with [[ Anu ]] and the [[ Teshub ]] to destroy Kumarbi ([[ The Kumarbi Cycle | song-of-kumarbi ]]).
+
+The Tigris appears twice in the [[ Old Testament ]]. In the [[ Book of Genesis ]] it is the third of the [[ four rivers | rivers-of-paradise ]] branching off the river issuing out of the [[ Garden of Eden ]].[[ ^8 ]] In the [[ Book of Daniel ]], [[ Daniel | daniel-biblical-figure ]] states that he received one of his visions "when I was by that great river the Tigris".[[ ^20 ]]
+
+The river is also mentioned in Islam in Sunan Abi Daud 4306.[[ ^21 ]] The tomb of [[ Imam Ahmad Bin Hanbal ]] and [[ Syed Abdul Razzaq Jilani ]] is in Baghdad, and the flow of the Tigris restricts the number of visitors. [[ Baháʼu'lláh ]], the founder of the [[ Baháʼí Faith ]], wrote //[[ The Hidden Words ]]// around 1858 while he walked along the banks of the Tigris during his exile in Baghdad.
+
+The Tigris featured on the [[ coat of arms of Iraq ]] from 1932 to 1959.
+
+[[ ^5 ]]: F. Delitzsch, //Sumerisches Glossar//, Leipzig (1914), IV, 6, 21.
+
+[[ ^6 ]]: [[ "Tigris Meaning - Bible Definition and References" | https://www.biblestudytools.com/dictionary/tigris/ ]]. //Bible Study Tools//. Retrieved 2024-07-10.
+
+[[ ^7 ]]: Guo, Rongxing (7 July 2020). "2.1.3 Comparing the Euphrates and Tigris". [[ //Wadier: A New History of Civilizations// | https://www.researchgate.net/publication/318392498 ]] (PDF). Vol. I: What do the Ancestral Voices and Glyphs Say?. pp. 100–104. Retrieved 11 June 2024.
+
+[[ ^8 ]]: Genesis 2:14
+
+[[ ^9 ]]: E. Laroche, //Glossaire de la langue Hourrite//, Paris (1980), p. 55.
+
+[[ ^3 ]]: Isaev, V.A.; Mikhailova, M.V. (2009). "The hydrology, evolution, and hydrological regime of the mouth area of the Shatt al-Arab River". //Water Resources//. !!36!! (4): 380–395. doi:[[ 10.1134/S0097807809040022 | https://doi.org/10.1134%2FS0097807809040022 ]]. S2CID [[ 129706440 | https://api.semanticscholar.org/CorpusID:129706440 ]].
+
+[[ ^10 ]]: [[ "Diyarbakir" | https://www.europeanwalledtowns.org/diyarbakir ]]. //europeanwalledtowns//. [[ Archived | https://web.archive.org/web/20231025123209/https://www.europeanwalledtowns.org/diyarbakir ]] from the original on 2023-10-25. Retrieved 2019-11-10.
+
+[[ ^11 ]]: Pliny: Natural History, VI, XXVI, 128-131
+
+[[ ^12 ]]: Namio Egami, "The Report of The Japan Mission For The Survey of Under-Water Antiquities At Qurnah: The First Season," (1971-72), 1-45, https://www.jstage.jst.go.jp/article/orient1960/8/0/8_0_1/_pdf Archived 2018-10-31 at the [[ Wayback Machine ]].
+
+[[ ^13 ]]: Larsen, M.T., //[[ The Conquest of Assyria: Excavations in an Antique Land | https://books.google.com/books?id=jK8c4E2zkUMC ]] Archived 2023-03-26 at the [[ Wayback Machine ]],// Routledge, 2014, pp 344-49
+
+[[ ^14 ]]: [[ "Mesopotamia, Tigris-Euphrates, 1914-1917, despatches, killed and died, medals" | https://web.archive.org/web/20151119012635/http://www.naval-history.net/WW1Battle1408Mesopotamia.htm ]]. //naval-history.net//. Archived from [[ the original | http://www.naval-history.net/WW1Battle1408Mesopotamia.htm ]] on 19 November 2015. Retrieved 28 November 2015.
+
+[[ ^15 ]]: Vidal, John. "[[ Water supply key to the outcome of conflicts in Iraq and Syria, experts warn | https://www.theguardian.com/environment/2014/jul/02/water-key-conflict-iraq-syria-isis ]]", //[[ The Guardian ]]//, 2 July 2014. Archived 2016-12-04 at the [[ Wayback Machine ]].
+
+[[ ^16 ]]: Sümer, Vakur (1 December 2014). [[ "Analysis & Water Agenda" | https://web.archive.org/web/20150924061827/http://www.orsam.org.tr/en/WaterResources/showAnalysisAgenda.aspx?ID=2735 ]]. ORSAM. Archived from [[ the original | http://www.orsam.org.tr/en/WaterResources/showAnalysisAgenda.aspx?ID=2735 ]] on 2015-09-24. Retrieved 2015-11-28.
+
+[[ ^17 ]]: Borger, Julian (29 February 2016). [[ "Iraqi PM and US issue warnings over threat of Mosul dam collapse" | https://www.theguardian.com/world/2016/feb/29/iraq-us-issue-warnings-threat-of-mosul-dam-collapse ]]. //[[ The Guardian ]]//. [[ Archived | https://web.archive.org/web/20160229213305/http://www.theguardian.com/world/2016/feb/29/iraq-us-issue-warnings-threat-of-mosul-dam-collapse ]] from the original on 29 February 2016. Retrieved 29 February 2016.
+
+[[ ^18 ]]: [[ "US warns of Mosul dam collapse in northern Iraq" | https://www.bbc.com/news/world-middle-east-35690616 ]]. //[[ BBC News ]]//. 29 February 2016. [[ Archived | https://web.archive.org/web/20160229211311/http://www.bbc.com/news/world-middle-east-35690616 ]] from the original on 29 February 2016. Retrieved 29 February 2016.
+
+[[ ^19 ]]: Jeremy A. Black, //The Literature of Ancient Sumer//, [[ Oxford University Press ]], 2004, ISBN [[ 0-19-926311-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-19-926311-6 ]], p. 220–221.
+
+[[ ^20 ]]: Daniel 10:4
+
+[[ ^21 ]]: [[ "Sunan Abi Dawud 4306 – Battles (Kitab Al-Malahim) – كتاب الملاحم – Sunnah.com – River of Dajal(Tigris)" | https://sunnah.com/abudawud:4306 ]]. //sunnah.com//. [[ Archived | https://web.archive.org/web/20210413155438/https://sunnah.com/abudawud:4306 ]] from the original on 2021-04-13. Retrieved 2021-02-10.

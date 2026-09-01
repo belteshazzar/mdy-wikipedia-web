@@ -1,0 +1,19 @@
+slug: rosetta-stone
+findings:
+  - kind: dropped-hedge
+    quote: "There is a last inscription and a date for it: 24 August 394, found at
+      Philae and known as the Graffito of Esmet-Akhom."
+    why: "The source hedges this: \"the last known inscription is dated to 24
+      August 394\". The rewrite states flatly that this is the last
+      inscription, dropping \"known\" (the rewrite's own hook does keep \"last
+      known\")."
+    severity: minor
+  - kind: unsupported
+    quote: The Decree of Canopus is erected during the reign of Ptolemy III; its
+      stele survives whole, and is later used to estimate what is missing from
+      the Rosetta Stone.
+    why: The source says only that the estimate rests on "comparable steles that
+      have survived" and gives the Canopus stele's dimensions and line counts;
+      it never says that stele survives whole or complete.
+    severity: minor
+verdict: minor-only

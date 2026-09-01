@@ -339,7 +339,8 @@ the verifier, and ten articles put through all three, compared against their
 originals in this repository's reader. Exit: an answer to whether the
 rewrite is actually better — decided on ten articles rather than on three
 thousand, and a real possibility that the answer is no for the body and yes
-for the hook.
+for the hook. ✅ — see [what phase 2 landed](#what-phase-2-landed), which
+answers it the other way round.
 
 **Phase 3 — scale, by tier.** Pillar, body, long tail; verification on
 everything; provenance per document. Exit: the corpus, complete, and a query
@@ -554,6 +555,124 @@ section into figures where the words are.
   for 41 articles and not for a launch.
 - **Build time.** 65 seconds for 42 pages, most of it the link-rewriting
   transform over 41 large trees. Fine now, worth watching at 5,000.
+
+## What phase 2 landed
+
+Ten articles rewritten and verified: Hanging Gardens, Rosetta Stone, Gutians,
+Thoth, Pella, Duat, Nile Delta, Tigris, Nun, Ptolemaic synodal decrees. The
+prose, the fields, the verdicts and what each pass could not do are in
+`site/edited/en/`, and `/compare/<slug>/` puts each rewrite beside its import.
+
+### The answer, and it is not the one this plan expected
+
+This section predicted "a real possibility that the answer is no for the body
+and yes for the hook". It is the other way round, and the numbers are not
+close.
+
+| | words | findings | per 1,000 words |
+| --- | --- | --- | --- |
+| Rewritten prose (lead + sections) | 23,606 | 12 | **0.51** |
+| The short generated fields | 5,949 | 21 | **3.53** |
+
+The prose is faithful. **The compression is where the fabrication is** — seven
+times denser, in a twentieth of the words. And the mechanical rules held
+completely: across ten articles and several hundred footnote markers there
+were **zero lost citations** — Rosetta Stone alone carries 122 in the source
+and 122 in the rewrite, in the same order — and **one** altered value in
+29,000 words.
+
+Of 34 findings, 20 were `unsupported` and 13 `dropped-hedge`. Only one was a
+changed number. That is a single failure mode wearing two names, and it has an
+obvious cause: **the shortest arresting version of a hedged claim is the
+unhedged one.** A hook has to fit above a photograph. "Knowledge of it derives
+principally from funerary texts, among many other sources" does not fit;
+"known only from funerary texts" does, and is wrong.
+
+The clearest case is the Tigris, where the best sentence in the rewrite is the
+invented one:
+
+> …so the two rivers that define Mesopotamia begin within a morning's walk of
+> each other.
+
+The source says the Tigris rises about 30 km south of the Euphrates *valley*.
+It never locates the Euphrates' source and never characterises the gap. The
+sentence is a pleasure to read and a fabrication, and no rule about dates or
+citations would have caught it.
+
+**Six of the ten were blocked.** That is the verifier working rather than the
+pipeline failing — every blocking finding was real on inspection, and none was
+a style complaint, which the checker was explicitly told not to report.
+
+### So the review that matters is small
+
+Nothing publishes unreviewed. But the review is not "read the article": it is
+read the hook, the standfirst, the timeline and the glossary, which is about
+600 words per article and holds 21 of the 34 findings. Three practical
+consequences for phase 3:
+
+- **Verify the short fields separately and harder** than the prose, since they
+  fail seven times as often and take a twentieth of the reading.
+- **Anchor them.** A hook that must quote or cite the sentence it compresses
+  cannot drop the hedge in that sentence without the loss being visible.
+- **Tier by field, not only by article.** A body-tier article that gets a hook
+  and a standfirst and nothing else is getting exactly the two fields with the
+  worst error rate. That is the wrong economy, and the tiering table above
+  needs revisiting before phase 3 scales it.
+
+### The schema was missing the lead, and the documents said so
+
+`left-out` is a field asking each pass what it could not do. **Eight of the ten
+used it to report the same structural hole**: the prose above the first heading
+had nowhere to go, because `sections` only covers headed sections and the
+outline in the front matter does not list the lead.
+
+They each worked around it differently — pushing lead material into the first
+section, into key facts, into the standfirst — so before the fix the ten were
+inconsistent in exactly the part a reader sees first. Thoth's pass named the
+real cost: material that survived "only in the hook, standfirst, timeline and
+glossary, which cannot carry footnote references" is material that lost its
+citations. Hanging Gardens had seven footnotes belonging to lead sentences
+with nowhere to ride.
+
+The schema now has a `lead` field and every article was re-run through it. The
+finding worth keeping is not the bug: it is that **a field asking what could
+not be done is the cheapest instrumentation in the pipeline**, and it caught a
+design error in the first article of the first run.
+
+### What the ten reported about the corpus
+
+The same field turned up things no test would have:
+
+- **The Tigris is three different lengths** in one document — 1,900 km in the
+  infobox, 1,850 km in Wikidata, 1,750 km in the prose. The rewrite copied each
+  where it stood and declined to reconcile them, which is right.
+- **585 images are in the bodies against 536 in the front matter**, so the
+  image plan cannot name the ones the plan most wants. Gutians, Tigris and Nun
+  each hit it.
+- **Pella's lead and its History section link the same names to different
+  targets** — `archelaus-i-of-macedon` against `archelaus-of-macedon` — carried
+  across unchanged rather than quietly reconciled.
+- Nun's source has **broken figure markup**; Ptolemaic's has a stray bracket
+  and a misspelling, repaired without changing a date or a name; Thoth's
+  "Name" section has **empty asterisks where the IPA should be**.
+
+### What is knowingly left
+
+- **The image plan is produced and not consumed.** Every rewrite names a hero,
+  a role and a rewritten caption per image, and the site still lays out a
+  rewritten page from the original's own `<img>` tags — which the rewritten
+  body does not carry, so a rewritten page currently shows its hero and no
+  figures at all. That is a regression against an imported page and the first
+  thing phase 3 should fix.
+- **Nothing has been read by a person.** `reviewed: false` in every document.
+  The verdicts are a model's, and the point of blocking six of ten is that
+  somebody now looks at them.
+- **The transport was not the API.** The requests were emitted by
+  `rewrite.mjs --emit` and answered by Claude Code subagents, byte for byte the
+  prompt the driver sends; only the HTTPS call was missing. The API path is
+  written and untested.
+- **Ten parallel agents sharing one scratchpad overwrote each other's working
+  files.** Harmless here, worth knowing before phase 3 runs hundreds.
 
 ## Open questions
 

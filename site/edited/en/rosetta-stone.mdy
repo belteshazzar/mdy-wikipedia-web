@@ -1,0 +1,1011 @@
++++
+title: Rosetta Stone
+description: Egyptian stele with three versions of a 196 BC decree
+hook: Ancient Egyptian writing had not been understood since shortly before
+  the fall of the Roman Empire; the last known hieroglyphic inscription was
+  carved on 24 August 394. The thing that eventually reopened it was a broken
+  slab of granodiorite that French soldiers uncovered while demolishing a wall
+  inside a fort in the Nile Delta.
+standfirst: Egypt in 196 BC was a Greek-ruled kingdom in trouble, and its
+  priests cut a royal decree into stone in three scripts at once. That
+  redundancy is what eventually gave European scholars their way back into a
+  language no one had read since shortly before the fall of the Roman Empire.
+key-facts:
+  - name: What it is
+    value: An Egyptian stele with three versions of a 196 BC decree
+  - name: Cut from
+    value: Granodiorite
+  - name: It measures
+    value: 1,123 mm × 757 mm × 284 mm (44.2 in × 29.8 in × 11.2 in)
+  - name: Written in
+    value: Ancient Egyptian hieroglyphs, Demotic script, and Greek script
+  - name: Found
+    value: 1799 near Rosetta, Nile Delta, Egypt, by Pierre-François Bouchard
+  - name: Where it is now
+    value: British Museum, inventory number EA24
+pull-quotes:
+  - text: we found much more in their possession than was represented or imagined
+    attribution: Edward Daniel Clarke, in a letter home from Alexandria
+    section: from-french-to-british-possession
+  - text: "the hieroglyphs were the most important of the scripts on the stone:
+      they were there for the gods to read, and the more learned of their
+      priesthood"
+    attribution: John Ray
+    section: later-work
+  - text: an intricate coalescence of three vital textual traditions
+    attribution: Stephen Quirke, on the decree
+    section: later-work
+  - text: The day may come when the stone has spent longer in the British Museum
+      than it ever did in Rosetta.
+    attribution: John Ray
+    section: requests-for-repatriation-to-egypt
+  - text: Objects acquired in earlier times must be viewed in the light of
+      different sensitivities and values reflective of that earlier
+      era...museums serve not just the citizens of one nation but the people
+      of every nation.
+    attribution: Joint statement of over 30 of the world's leading museums, 2002
+    section: requests-for-repatriation-to-egypt
+timeline:
+  - when: 238 BC
+    what: The Decree of Canopus is erected during the reign of Ptolemy III; its
+      stele survives whole, and is later used to estimate what is missing from
+      the Rosetta Stone.
+  - when: 204 to 181 BC
+    what: The reign of Ptolemy V Epiphanes, who became ruler at the age of five.
+  - when: 201 BC
+    what: Tlepolemus is replaced as the king's guardian by Aristomenes of Alyzia,
+      chief minister at the time of the Memphis decree.
+  - when: 198 BC
+    what: The Battle of Panium transfers Coele-Syria, including Judaea, from the
+      Ptolemies to the Seleucids.
+  - when: 27 November 197 BC
+    what: The official anniversary of Ptolemy V's coronation, the second date
+      given in the Greek and hieroglyphic texts.
+  - when: 196 BC
+    what: "The stone is inscribed: the Memphis decree, dated 27 March 196 BC,
+      commissioned by Ptolemy V Epiphanes."
+  - when: c. AD 392
+    what: The temple the stele probably came from is closed, when Theodosius I
+      orders the closing of all non-Christian temples of worship.
+  - when: 24 August 394
+    what: The last known hieroglyphic inscription, the Graffito of Esmet-Akhom at
+      Philae.
+  - when: "452"
+    what: The last known demotic text, also from Philae.
+  - when: "1798"
+    what: The French Army of the Orient, with its 151 savants, invades Egypt.
+  - when: 1799-07-15
+    what: "Discovery: Lieutenant Pierre-François Bouchard spots the inscribed slab
+      at Fort Julien. Lancret's report reaches the Institut d'Égypte on 19
+      July."
+  - when: 30 August 1801
+    what: Menou surrenders at Alexandria; the stone is inside the city.
+  - when: "1802"
+    what: The stone enters the collection of the British Museum; on display there
+      since June 1802.
+  - when: "1803"
+    what: Ameilhon publishes the first translations of the Greek text, in Latin
+      and French; Heyne's more reliable Latin version appears the same year.
+  - when: "1814"
+    what: Thomas Young writes to Silvestre de Sacy about the stone, and begins his
+      work on the cartouches.
+  - when: "1822"
+    what: Champollion completes his alphabet of phonetic hieroglyphic characters
+      on 14 September and announces it on 27 September.
+  - when: "1834"
+    what: The stone is moved to the sculpture gallery after Montagu House is
+      demolished.
+  - when: "1858"
+    what: The first English translation, by three members of the Philomathean
+      Society at the University of Pennsylvania.
+  - when: "1917"
+    what: Moved 15 m (50 ft) underground into a Postal Tube Railway station at
+      Mount Pleasant during the bombing of London.
+  - when: October 1972
+    what: Lent to the Louvre for one month, its only peacetime absence from the
+      British Museum.
+  - when: "1999"
+    what: Cleaned in the gallery, removing the chalk and wax and revealing the
+      dark grey rock and its pink vein.
+  - when: July 2003
+    what: Zahi Hawass calls for the stone's return to Egypt, the "icon of our
+      Egyptian identity".
+  - when: "2005"
+    what: The British Museum presents Egypt with a full-sized fibreglass
+      colour-matched replica.
+  - when: August 2022
+    what: Hawass reiterates his demands.
+image-plan:
+  - file: Rosetta_Stone.JPG
+    role: hero
+    section: lead
+    caption: The stone as it stands today in the British Museum, cleaned in 1999
+      back to its dark grey rock. It has been on display here almost
+      continuously since June 1802, and is the museum's most-visited single
+      object.
+  - file: RosettaStoneAsPartOfOriginalStele_revised.svg
+    role: inline
+    section: original-stele
+    caption: One possible reconstruction of the original stele. Comparison with
+      steles that survive whole suggests 14 or 15 more lines of hieroglyphs
+      are missing, and a rounded top carrying the king before the gods under a
+      winged disc.
+  - file: PepiII-DecreeOfOfficialExactionForTempleOfMin_MetropolitanMuseum.png
+    role: inline
+    section: memphis-decree-and-its-context
+    caption: 'Another fragmentary "donation stele": the Old Kingdom pharaoh Pepi
+      II grants tax immunity to the priests of the temple of Min.'
+  - file: Rosetta_news.jpg
+    role: inline
+    section: rediscovery
+    caption: The Gentleman's Magazine reports the stone's arrival in England, 1802.
+  - file: RosettaStone-LeftAndRightSides-BritishMuseum-August21-08.jpg
+    role: full
+    section: from-french-to-british-possession
+    caption: 'The sides carry inscriptions added in London: "Captured in Egypt by
+      the British Army in 1801" on the left, "Presented by King George III" on
+      the right.'
+  - file: Rosetta_Stone_International_Congress_of_Orientalists_ILN_1874.jpg
+    role: full
+    section: from-french-to-british-possession
+    caption: Experts inspecting the stone at the Second International Congress of
+      Orientalists, London, 1874. It had no case then, only attendants; a
+      protective frame had been thought necessary since 1847.
+  - file: Porson_13_Jan_1803.jpg
+    role: inline
+    section: greek-text
+    caption: Richard Porson's suggested reconstruction of the missing Greek text,
+      1803, circulated by the Society of Antiquaries alongside its prints of
+      the inscription.
+  - file: Akerblad.jpg
+    role: inline
+    section: demotic-text
+    caption: Johan David Åkerblad's table of Demotic phonetic characters and their
+      Coptic equivalents, 1802. His alphabet of 29 letters was more than half
+      right.
+  - file: Champollion_table.jpg
+    role: full
+    section: hieroglyphic-text
+    caption: Champollion's table of hieroglyphic phonetic characters with their
+      demotic and Coptic equivalents, 1822 — the work he completed on 14
+      September and announced thirteen days later.
+  - file: Historical_cannons_in_Rosetta.JPG
+    role: inline
+    section: requests-for-repatriation-to-egypt
+    caption: A replica of the Rosetta Stone in Rashid (Rosetta), Egypt, the
+      closest city to where the original was found.
+glossary:
+  - term: stele
+    gloss: An upright inscribed slab set up for display; the Rosetta Stone is the
+      surviving fragment of one estimated to have stood about 149 centimetres
+      (4ft 11in) high.
+  - term: granodiorite
+    gloss: The dark grey, crystalline rock the stone is cut from, closely matching
+      stone from a small quarry at Gebel Tingar near Aswan, pink vein and all.
+  - term: Demotic
+    gloss: The middle script on the stone, the decree's "language of documents";
+      it was rarely used for stone inscriptions and represents the Egyptian
+      actually spoken in Ptolemaic times.
+  - term: Middle Egyptian
+    gloss: The form of Egyptian used in the hieroglyphic register, already
+      obsolete for centuries in 196 BC — specifically a deliberately archaic
+      imitation of it, "neo-Middle Egyptian", reserved for formal religious
+      texts.
+  - term: Coptic
+    gloss: The direct descendant of Ancient Egyptian, used by Coptic priests;
+      medieval and modern scholars alike tried to read hieroglyphs by
+      comparing them with it.
+  - term: cartouche
+    gloss: An enclosure around a group of hieroglyphs. Barthélemy suggested in
+      1761 that what they enclosed were proper names — the hint that told
+      Young where to look.
+  - term: savants
+    gloss: The corps of 151 technical experts who accompanied the French army into
+      Egypt in 1798, formally the Commission des Sciences et des Arts.
+  - term: EA 24
+    gloss: The stone's British Museum inventory number, given in the middle of the
+      19th century; "EA" stands for "Egyptian Antiquities".
+further:
+  - slug: rosetta-stone-decree
+    why: The text itself — the priestly decree of 196 BC that the stone carries
+      three times over.
+  - slug: ptolemaic-synodal-decrees
+    why: The Rosetta Stone was not the first of its kind, and the Canopus stele of
+      238 BC survives whole enough to show what the Rosetta Stone is missing.
+  - slug: koine-greek
+    why: The Greek of the bottom register was Hellenistic government Greek, and
+      unfamiliarity with it is why the first translators struggled with the
+      easy third of the stone.
+image: https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG
+images:
+  - file: RosettaStoneAsPartOfOriginalStele_revised.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RosettaStoneAsPartOfOriginalStele_revised.svg/250px-RosettaStoneAsPartOfOriginalStele_revised.svg.png
+    width: 512
+    height: 977
+    caption: One possible reconstruction of the original stele
+  - file: PepiII-DecreeOfOfficialExactionForTempleOfMin_MetropolitanMuseum.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PepiII-DecreeOfOfficialExactionForTempleOfMin_MetropolitanMuseum.png/250px-PepiII-DecreeOfOfficialExactionForTempleOfMin_MetropolitanMuseum.png
+    width: 1496
+    height: 1564
+    caption: Another fragmentary example of a "donation stele", in which the Old
+      Kingdom pharaoh Pepi II grants tax immunity to the priests of the temple
+      of Min
+  - file: Rosetta_news.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rosetta_news.jpg/250px-Rosetta_news.jpg
+    width: 299
+    height: 549
+    caption: Report of the arrival of the Rosetta Stone in England in The
+      Gentleman's Magazine, 1802
+  - file: RosettaStone-LeftAndRightSides-BritishMuseum-August21-08.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RosettaStone-LeftAndRightSides-BritishMuseum-August21-08.jpg/250px-RosettaStone-LeftAndRightSides-BritishMuseum-August21-08.jpg
+    width: 1993
+    height: 3404
+    caption: 'Left and right sides of the Rosetta Stone, with inscriptions: (Left)
+      "Captured in Egypt by the British Army in 1801" (Right) "Presented by
+      King George III".'
+  - file: Rosetta_Stone_International_Congress_of_Orientalists_ILN_1874.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Rosetta_Stone_International_Congress_of_Orientalists_ILN_1874.jpg/500px-Rosetta_Stone_International_Congress_of_Orientalists_ILN_1874.jpg
+    width: 600
+    height: 414
+    caption: Experts inspecting the Rosetta Stone during the Second International
+      Congress of Orientalists, held in London in 1874
+  - file: Porson_13_Jan_1803.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Porson_13_Jan_1803.jpg/500px-Porson_13_Jan_1803.jpg
+    width: 565
+    height: 425
+    caption: Richard Porson's suggested reconstruction of the missing Greek text
+      (1803)
+  - file: Champollion_table.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Champollion_table.jpg/250px-Champollion_table.jpg
+    width: 1628
+    height: 1969
+    caption: Champollion's table of hieroglyphic phonetic characters with their
+      demotic and Coptic equivalents (1822)
+  - file: Historical_cannons_in_Rosetta.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Historical_cannons_in_Rosetta.JPG/250px-Historical_cannons_in_Rosetta.JPG
+    width: 830
+    height: 745
+    caption: A replica of the Rosetta Stone in Rashid (Rosetta), Egypt
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/330px-Rosetta_Stone.JPG
+    caption: The Rosetta Stone on display in the British Museum, London
+  material: Granodiorite
+  size: 1,123 mm × 757 mm × 284 mm (44.2 in × 29.8 in × 11.2 in)
+  writing: Ancient Egyptian hieroglyphs, Demotic script, and Greek script
+  created: 196 BC
+  discovered: 1799 near Rosetta, Nile Delta, Egypt
+  discovered-by: Pierre-François Bouchard
+  present-location: British Museum
+sections:
+  - level: 2
+    id: description
+    title: Description
+  - level: 3
+    id: original-stele
+    title: Original stele
+  - level: 2
+    id: memphis-decree-and-its-context
+    title: Memphis decree and its context
+  - level: 2
+    id: rediscovery
+    title: Rediscovery
+  - level: 2
+    id: from-french-to-british-possession
+    title: From French to British possession
+  - level: 2
+    id: reading-the-rosetta-stone
+    title: Reading the Rosetta Stone
+  - level: 3
+    id: greek-text
+    title: Greek text
+  - level: 3
+    id: demotic-text
+    title: Demotic text
+  - level: 3
+    id: hieroglyphic-text
+    title: Hieroglyphic text
+  - level: 3
+    id: later-work
+    title: Later work
+  - level: 3
+    id: rivalries
+    title: Rivalries
+  - level: 2
+    id: requests-for-repatriation-to-egypt
+    title: Requests for repatriation to Egypt
+  - level: 2
+    id: idiomatic-use
+    title: Idiomatic use
+  - level: 2
+    id: gallery
+    title: Gallery
+wikidata:
+  id: Q48584
+  label: Rosetta Stone
+  description: ancient Egyptian stele with inscriptions in three writing systems
+  claims:
+    made-from-material: granodiorite
+    collection:
+      value: British Museum
+      from: "1802"
+    instance-of:
+      - Überrest
+      - bilingual inscription
+      - stele
+      - Epigraphic monument
+    commons-category: Rosetta Stone
+    work-available-at-url: https://el.wikisource.org/wiki/Στήλη_της_Ροζέττας
+    inventory-number: EA24
+    location: British Museum
+    writing-system:
+      - Egyptian hieroglyphs
+      - Egyptian Demotic
+      - Greek alphabet
+    named-after: Rosetta
+    discoverer-or-inventor: Pierre-François Bouchard
+    time-of-discovery-or-invention: 1799-07-15
+    inception: 196 BC
+    commons-gallery: Rosetta Stone
+    described-by-source:
+      - Armenian Soviet Encyclopedia
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Rosetta_Stone_-_front_face_-_corrected_image.jpg
+    country: Egypt
+    width: 75.7 centimetre
+    thickness: 28.4 centimetre
+    described-at-url:
+      - https://sketchfab.com/3d-models/the-rosetta-stone-1e03509704a3490e99a173e53b93e282
+      - https://www.britishmuseum.org/collection/object/Y_EA24
+    has-version-edition-or-translation:
+      - Q44170764
+      - Q44170531
+      - Q44171205
+    time-period:
+      - Ptolemaic dynasty
+      - Hellenistic period
+    height: 112.3 centimetre
+    catalog-code: "33"
+    ground-level-360-degree-view-url: https://goo.gl/maps/uMvT8f5CunYx2vto7
+    horizontal-depth: 284 millimetre
+    location-of-discovery: Fort Julien
+    owned-by: British Museum
+    language-of-work-or-name:
+      - Ancient Greek
+      - Egyptian
+    on-focus-list-of-wikimedia-project:
+      - value: Wikipedia:Vital articles/Level/4
+        when: 2022-10-31
+      - value: Wikiproject Looted heritage
+    native-label:
+      - Rosetta stone
+      - حجر رشيد
+    topic-s-main-category: Category:Rosetta Stone
+    main-subject: Rosetta Stone decree
+    country-of-origin: history of Ptolemaic Egypt
+    commissioned-by: Ptolemy V Epiphanes
+link-titles:
+  4th-century: 4th century
+  5th-century: 5th century
+  67p/churyumovgerasimenko: 67P/Churyumov–Gerasimenko
+  abu-simbel-temples: Abu Simbel temples
+  académie-des-inscriptions-et-belles-lettres: Académie des Inscriptions et Belles-Lettres
+  aetos-son-of-aetos: Aetos son of Aetos
+  agathoclea-mistress-of-ptolemy-iv: Agathoclea (mistress of Ptolemy IV)
+  agathocles-of-bactria: Agathocles of Bactria
+  akkadian-language: Akkadian language
+  alexander-the-great: Alexander the Great
+  alexandria: Alexandria
+  ancient-egypt: Ancient Egypt
+  ancient-greek: Ancient Greek
+  ancient-greek-language: Ancient Greek language
+  ancient-macedonian-calendar: Ancient Macedonian calendar
+  ankhhaf-sculpture: Ankhhaf (sculpture)
+  ankhwennefer-pharaoh: Ankhwennefer (pharaoh)
+  antiochus-iii-the-great: Antiochus III the Great
+  antoine-galland-17631851: Antoine Galland (1763–1851)
+  antoine-isaac-silvestre-de-sacy: Antoine Isaac Silvestre de Sacy
+  arabidopsis-thaliana: Arabidopsis thaliana
+  aristomenes-of-alyzia: Aristomenes of Alyzia
+  armée-dorient-1798-order-of-battle: Armée d'Orient (1798) order of battle
+  arsinoe-ii-of-egypt: Arsinoe II of Egypt
+  arsinoe-iii-of-egypt: Arsinoe III of Egypt
+  art-repatriation: Art repatriation
+  aswan: Aswan
+  athanasius-kircher: Athanasius Kircher
+  basalt: Basalt
+  battle-of-abukir-1801: Battle of Abukir (1801)
+  battle-of-alexandria-1801: Battle of Alexandria (1801)
+  battle-of-panium: Battle of Panium
+  behistun-inscription: Behistun Inscription
+  berenice-ii: Berenice II
+  bon-joseph-dacier: Bon-Joseph Dacier
+  boston-massachusetts: Boston, Massachusetts
+  brahmi: Brahmi
+  brahmi-script: Brahmi script
+  british-army: British Army
+  british-museum: British Museum
+  cambridge: Cambridge
+  capitulation-of-alexandria-1801: Capitulation of Alexandria (1801)
+  caria: Caria
+  carnauba-wax: Carnauba wax
+  cartouche: Cartouche
+  chalk: Chalk
+  charles-dugua: Charles Dugua
+  chinese-character: Chinese character
+  christian-gottlob-heyne: Christian Gottlob Heyne
+  christian-lassen: Christian Lassen
+  coele-syria: Coele-Syria
+  comet: Comet
+  commission-des-sciences-et-des-arts: Commission des Sciences et des Arts
+  coptic-alphabet: Coptic alphabet
+  coptic-language: Coptic language
+  coptos-decrees: Coptos Decrees
+  copts: Copts
+  coronation: Coronation
+  courrier-de-légypte: Courrier de l'Égypte
+  decipherment-of-egyptian-hieroglyphs: Decipherment of Egyptian hieroglyphs
+  decipherment-of-ancient-egyptian-scripts: Decipherment of ancient Egyptian scripts
+  decline-of-ancient-egyptian-religion: Decline of ancient Egyptian religion
+  decree-of-canopus: Decree of Canopus
+  decree-of-memphis-ptolemy-iv: Decree of Memphis (Ptolemy IV)
+  demotic-egyptian-script: Demotic Egyptian script
+  dendera-zodiac: Dendera zodiac
+  dhul-nun-al-misri: Dhul-Nun al-Misri
+  diastolic-dysfunction: Diastolic dysfunction
+  doppler-echocardiography: Doppler echocardiography
+  e.-a.-wallis-budge: E. A. Wallis Budge
+  edinburgh-review: Edinburgh Review
+  edward-daniel-clarke: Edward Daniel Clarke
+  edwyn-r.-bevan: Edwyn R. Bevan
+  egypt-in-the-middle-ages: Egypt in the Middle Ages
+  egyptian-museum-of-berlin: Egyptian Museum of Berlin
+  egyptian-calendar: Egyptian calendar
+  egyptian-hieroglyphs: Egyptian hieroglyphs
+  egyptian-language: Egyptian language
+  egyptian-temple: Egyptian temple
+  elamite-language: Elamite language
+  elephantine: Elephantine
+  elgin-marbles: Elgin Marbles
+  encyclopædia-britannica: Encyclopædia Britannica
+  epigraphical: Epigraphical
+  european-space-agency: European Space Agency
+  fall-of-the-western-roman-empire: Fall of the Western Roman Empire
+  figeac: Figeac
+  first-world-war: First World War
+  flooding-of-the-nile: Flooding of the Nile
+  fort-julien: Fort Julien
+  francesco-salvolini: Francesco Salvolini
+  french-invasion-of-egypt-and-syria: French invasion of Egypt and Syria
+  gabriel-de-la-porte-du-theil: Gabriel de La Porte du Theil
+  gamma-ray-burst: Gamma-ray burst
+  gardiners-sign-list: Gardiner's sign list
+  gebel-tingar: Gebel Tingar
+  george-iii-of-the-united-kingdom: George III of the United Kingdom
+  german-strategic-bombing-during-world-war-i: German strategic bombing during World War I
+  giza: Giza
+  glucose: Glucose
+  glyph: Glyph
+  graffito-of-esmet-akhom: Graffito of Esmet-Akhom
+  grand-egyptian-museum: Grand Egyptian Museum
+  granodiorite: Granodiorite
+  great-pyramid-of-giza: Great Pyramid of Giza
+  great-theban-revolt: Great Theban Revolt
+  greco-bactrian: Greco-Bactrian
+  greek-alphabet: Greek alphabet
+  greek-script: Greek script
+  grenoble: Grenoble
+  göttingen: Göttingen
+  h.-g.-wells: H. G. Wells
+  hms-egyptienne-1799: HMS Egyptienne (1799)
+  heinrich-karl-brugsch: Heinrich Karl Brugsch
+  hellenistic-period: Hellenistic period
+  hemiunu: Hemiunu
+  hieroglyph: Hieroglyph
+  high-priest-of-ptah: High Priest of Ptah
+  high-priests-of-amun: High Priests of Amun
+  hildesheim: Hildesheim
+  holborn: Holborn
+  horapollo: Horapollo
+  horwennefer: Horwennefer
+  hubert-pascal-ameilhon: Hubert-Pascal Ameilhon
+  human-heart: Human heart
+  human-leucocyte-antigen: Human leucocyte antigen
+  ibn-wahshiyya: Ibn Wahshiyya
+  ideogram: Ideogram
+  idiom: Idiom
+  indian-epigraphy: Indian epigraphy
+  institut-dégypte: Institut d'Égypte
+  institut-de-france: Institut de France
+  jacques-françois-menou: Jacques-François Menou
+  james-browne-writer: James Browne (writer)
+  jean-antoine-letronne: Jean Antoine Letronne
+  jean-antoine-chaptal: Jean-Antoine Chaptal
+  jean-françois-champollion: Jean-François Champollion
+  jean-jacques-barthélemy: Jean-Jacques Barthélemy
+  jean-joseph-marcel: Jean-Joseph Marcel
+  jean-nicolas-huyot: Jean-Nicolas Huyot
+  johan-david-åkerblad: Johan David Åkerblad
+  john-d.-ray: John D. Ray
+  john-hely-hutchinson-2nd-earl-of-donoughmore: John Hely-Hutchinson, 2nd Earl of Donoughmore
+  joseph-kosuth: Joseph Kosuth
+  judea: Judea
+  julius-klaproth: Julius Klaproth
+  jörgen-zoega: Jörgen Zoega
+  kings-library: King's Library
+  koine-greek: Koine Greek
+  latin: Latin
+  latin-alphabet: Latin alphabet
+  left-ventricle: Left ventricle
+  lettre-à-m.-dacier: Lettre à M. Dacier
+  library-of-alexandria: Library of Alexandria
+  limbers-and-caissons: Limbers and caissons
+  list-of-muslim-historians: List of Muslim historians
+  london-post-office-railway: London Post Office Railway
+  longhand: Longhand
+  louvre: Louvre
+  lydian-language: Lydian language
+  lynching: Lynching
+  mamluk: Mamluk
+  mamluk-sultanate-cairo: Mamluk Sultanate (Cairo)
+  max-uhlemann: Max Uhlemann
+  mekhir: Mekhir
+  memphis-egypt: Memphis, Egypt
+  metropolitan-museum-of-art: Metropolitan Museum of Art
+  michel-ange-lancret: Michel Ange Lancret
+  middle-egyptian: Middle Egyptian
+  middle-eastern: Middle-Eastern
+  min-god: Min (god)
+  montagu-house-bloomsbury: Montagu House, Bloomsbury
+  multilingual-inscription: Multilingual inscription
+  museum-of-fine-arts-boston: Museum of Fine Arts, Boston
+  napoleon: Napoleon
+  nectanebo-ii: Nectanebo II
+  nefertiti-bust: Nefertiti Bust
+  nicolas-jacques-conté: Nicolas-Jacques Conté
+  nile: Nile
+  nile-delta: Nile Delta
+  nobel-laureate: Nobel laureate
+  nubayrah-stele: Nubayrah Stele
+  old-kingdom: Old Kingdom
+  old-persian: Old Persian
+  oxford-english-dictionary: Oxford English Dictionary
+  papyrus: Papyrus
+  parthenon: Parthenon
+  pepi-ii-neferkare: Pepi II Neferkare
+  pergamon-museum: Pergamon Museum
+  pharaoh: Pharaoh
+  philae: Philae
+  philae-obelisk: Philae obelisk
+  philip-v-of-macedon: Philip V of Macedon
+  philomathean-society: Philomathean Society
+  pierius-valerianus: Pierius Valerianus
+  pierre-françois-bouchard: Pierre-François Bouchard
+  plagiarism: Plagiarism
+  portsmouth: Portsmouth
+  ptolemaic-decrees: Ptolemaic Decrees
+  ptolemaic-dynasty: Ptolemaic dynasty
+  ptolemies: Ptolemies
+  ptolemy-ii-philadelphus: Ptolemy II Philadelphus
+  ptolemy-iii-euergetes: Ptolemy III Euergetes
+  ptolemy-iv-philopator: Ptolemy IV Philopator
+  ptolemy-v-epiphanes: Ptolemy V Epiphanes
+  qaitbay: Qaitbay
+  ramesses-i: Ramesses I
+  rashid-national-museum: Rashid National Museum
+  richard-b.-parkinson: Richard B. Parkinson
+  richard-porson: Richard Porson
+  robert-hobart-4th-earl-of-buckinghamshire: Robert Hobart, 4th Earl of Buckinghamshire
+  roemer-und-pelizaeus-museum: Roemer-und-Pelizaeus-Museum
+  roman-emperor: Roman emperor
+  rosemarie-and-dietrich-klemm-collection: Rosemarie and Dietrich Klemm Collection
+  rosetta: Rosetta
+  rosetta-spacecraft: Rosetta (spacecraft)
+  rosetta-stone-decree: Rosetta Stone decree
+  royal-mail-mount-pleasant-sorting-office: Royal Mail Mount Pleasant Sorting Office
+  royal-society: Royal Society
+  sais-egypt: Sais, Egypt
+  sarcophagus: Sarcophagus
+  sardis-bilingual-inscription: Sardis bilingual inscription
+  scientific-american: Scientific American
+  second-international-congress-of-orientalists: Second International Congress of Orientalists
+  secretary-of-state-for-war-and-the-colonies: Secretary of State for War and the Colonies
+  seleucids: Seleucids
+  shorthand: Shorthand
+  siege-of-alexandria-1801: Siege of Alexandria (1801)
+  society-of-antiquaries-of-london: Society of Antiquaries of London
+  solar-system: Solar System
+  spectroscopy: Spectroscopy
+  sphinx: Sphinx
+  stele: Stele
+  stephen-weston-antiquary: Stephen Weston (antiquary)
+  sultan: Sultan
+  supernova: Supernova
+  supreme-council-of-antiquities: Supreme Council of Antiquities
+  syriac-language: Syriac language
+  the-crown: The Crown
+  the-gentlemans-magazine: The Gentleman's Magazine
+  the-shape-of-things-to-come: The Shape of Things to Come
+  theodor-w.-hänsch: Theodor W. Hänsch
+  theodosius-i: Theodosius I
+  thomas-young-scientist: Thomas Young (scientist)
+  thrace: Thrace
+  thutmose-i: Thutmose I
+  tlepolemus-regent-of-egypt: Tlepolemus (regent of Egypt)
+  tomkyns-hilgrove-turner: Tomkyns Hilgrove Turner
+  transliteration: Transliteration
+  trinity-college-dublin: Trinity College Dublin
+  typewriter: Typewriter
+  university-of-cambridge: University of Cambridge
+  university-of-edinburgh: University of Edinburgh
+  university-of-oxford: University of Oxford
+  university-of-pennsylvania: University of Pennsylvania
+  vein-geology: Vein (geology)
+  wars-of-alexander-the-great: Wars of Alexander the Great
+  william-john-bankes: William John Bankes
+  william-richard-hamilton: William Richard Hamilton
+  woodblock-printing: Woodblock printing
+  zahi-hawass: Zahi Hawass
+  étienne-geoffroy-saint-hilaire: Étienne Geoffroy Saint-Hilaire
+source:
+  site: Wikipedia
+  lang: en
+  title: Rosetta Stone
+  url: https://en.wikipedia.org/wiki/Rosetta_Stone
+  page-id: 26428
+  revision: "1370483867"
+  modified: 2026-08-21T10:40:41Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Rosetta
+    Stone" (revision 1370483867), by Wikipedia contributors, used under CC
+    BY-SA 4.0.
+rewritten:
+  of: corpus/en/rosetta-stone.mdy
+  source-revision: "1370483867"
+  model: claude-opus-5
+  left-out: Three notes. (1) In "Original stele" the source embeds a wikihiero
+    image of the sign O26 inside a table; I kept the surrounding sentence and
+    the Gardiner's sign list link, but could not reproduce the glyph image in
+    MDY. (2) The "Gallery" section is a set of image captions rather than
+    prose, so it is left close to as it was, as a list; likewise the two
+    images inside "Demotic text" are captions rather than prose, and only
+    Åkerblad's table, which the source captions in full, is carried into the
+    image plan — the replica photograph and the three gallery images are not
+    in the front-matter image list and are not planned. (3) The hero image
+    uses the file name from the infobox image URL, Rosetta_Stone.JPG, since
+    the front-matter image list contains no photograph of the whole stone. The
+    article's lead prose carries no footnote references in the source, so the
+    lead field carries none either; nothing from it is now left out.
+  verified: true
+  verdict: minor-only
+  findings: 2
+  reviewed: false
++++
+Three texts, one decree, and only minor differences between them: that is what made a broken slab of stone the key to [[ deciphering the Egyptian scripts | decipherment-of-ancient-egyptian-scripts ]]. The !!Rosetta Stone!! is a [[ stele ]] of [[ granodiorite ]] inscribed with three versions of a [[ decree issued in 196 BC | rosetta-stone-decree ]] during the [[ Ptolemaic dynasty ]] of [[ Egypt | ancient-egypt ]], on behalf of King [[ Ptolemy V Epiphanes ]]. The top and middle texts are in [[ Ancient Egyptian | egyptian-language ]] using [[ hieroglyphic | egyptian-hieroglyphs ]] and [[ Demotic | demotic-egyptian-script ]] scripts, respectively, while the bottom is in [[ Ancient Greek ]].
+
+The stone was carved during the [[ Hellenistic period ]] and is believed to have originally been displayed within a temple, possibly at [[ Sais | sais-egypt ]]. It was probably moved in late antiquity or during the [[ Mamluk period | mamluk-sultanate-cairo ]], and was eventually used as building material in the construction of [[ Fort Julien ]] near the town of Rashid ([[ Rosetta ]]) in the [[ Nile Delta ]]. It was found there in July 1799 by French army officer [[ Pierre-François Bouchard ]] during [[ France's invasion of Egypt | french-invasion-of-egypt-and-syria ]]. It was the first Ancient Egyptian bilingual text recovered in modern times, and it aroused widespread public interest with its potential to decipher this previously untranslated hieroglyphic script. Lithographic copies and plaster casts soon began circulating among European museums and scholars. When the British defeated the French, they took the stone to London under the terms of the [[ Capitulation of Alexandria | capitulation-of-alexandria-1801 ]] in 1801. Since 1802, it has been on public display at the [[ British Museum ]] almost continuously and it is the most visited object there.
+
+Reading it took a generation. Study of the decree was already underway when the first complete translation of the Greek text was published in 1803. [[ Jean-François Champollion ]] announced the [[ transliteration ]] of the Egyptian scripts in Paris in 1822; it took longer still before scholars were able to read Ancient Egyptian inscriptions and literature confidently. The major advances in the decoding can be dated one by one: recognition that the stone offered three versions of the same text (1799); that the Demotic text used phonetic characters to spell foreign names (1802); that the hieroglyphic text did so as well, and had pervasive similarities to the Demotic (1814); and that phonetic characters were also used to spell native Egyptian words (1822–1824).
+
+Three other fragmentary copies of the same decree were discovered later, and several similar Egyptian [[ bilingual or trilingual inscriptions | multilingual-inscription ]] are now known, including three slightly earlier [[ Ptolemaic decrees ]]: the Decree of Alexandria in 243 BC, the [[ Decree of Canopus ]] in 238 BC, and the [[ Memphis decree of Ptolemy IV | decree-of-memphis-ptolemy-iv ]], c. 218 BC. Though the Rosetta Stone is now known not to be unique, it was the essential key to the modern understanding of ancient Egyptian literature and civilisation. The term //Rosetta Stone// is now used in a general sense to refer to the essential clue to a new field of knowledge.
+
+== Description
+
+In the contemporary catalogue of the artefacts discovered by the French expedition and surrendered to British troops in 1801, the object is listed as "a stone of black [[ granodiorite ]], bearing three inscriptions \... found at Rosetta".[[ ^1 ]] It is not black. At some period after its arrival in London, the inscriptions were coloured in white [[ chalk ]] to make them more legible, and the remaining surface was covered with a layer of [[ carnauba wax ]] designed to protect it from visitors' fingers.[[ ^2 ]] This gave a dark colour to the stone that led to its mistaken identification as [[ black basalt | basalt ]].[[ ^3 ]] Those additions were removed when the stone was cleaned in 1999, revealing the original dark grey tint of the rock, the sparkle of its crystalline structure, and a pink [[ vein | vein-geology ]] running across the top left corner.[[ ^4 ]] The vein is also a clue to where the rock was cut. Comparisons with the [[ Klemm collection | rosemarie-and-dietrich-klemm-collection ]] of Egyptian rock samples showed a close resemblance to rock from a small granodiorite quarry at [[ Gebel Tingar ]] on the west bank of the [[ Nile ]], west of [[ Elephantine ]] in the region of [[ Aswan ]]; the pink vein is typical of granodiorite from this region.[[ ^5 ]]
+
+The Rosetta Stone is 112.3 cm (3 ft 8 in) high at its highest point, 75.7 cm (2 ft 5.8 in) wide, and 28.4 cm (11 in) thick. It weighs approximately 760 kilograms (1,680 lb).[[ ^6 ]] It bears three inscriptions: the top register in Ancient Egyptian [[ hieroglyphs | hieroglyph ]], the second in the Egyptian [[ Demotic | demotic-egyptian-script ]] script, and the third in [[ Ancient Greek | ancient-greek-language ]].[[ ^7 ]] The top text was archaic even when it was carved. Its hieroglyphs are [[ Middle Egyptian ]], a form of the Egyptian language that had been obsolete for centuries at the time the stone was inscribed, and specifically "neo-Middle Egyptian", a deliberately archaic imitation of the original Middle Egyptian language that was used in formal religious texts. The Demotic text more closely represents the stage of Egyptian that was spoken in Ptolemaic times.[[ ^8 ]] The front surface is polished and the inscriptions lightly incised on it; the sides of the stone are smoothed, but the back is only roughly worked, presumably because it would have not been visible when the stele was erected.[[ ^5 ]][[ ^9 ]]
+
+== Original stele
+
+The Rosetta Stone is a fragment of a larger stele, and no additional fragments were found in later searches of the Rosetta site.[[ ^10 ]] Because of its damaged condition, none of the three texts is complete, and they are not damaged equally. The top register, written in Egyptian hieroglyphs, has suffered the most: only the last 14 lines of the hieroglyphic text remain visible, all broken on the right side, and 12 of them also damaged on the left. Below it, the middle register of demotic text has survived best, with 32 lines, of which the first 14 are slightly damaged on the right side. The bottom register of Greek text contains 54 lines, of which the first 27 survive in full; the rest are increasingly fragmentary due to a diagonal break at the bottom right of the stone.[[ ^11 ]]
+
+How much has gone can be worked out from comparable steles that have survived, including other copies of the same order. The slightly earlier [[ decree of Canopus ]], erected in 238 BC during the reign of [[ Ptolemy III | ptolemy-iii-euergetes ]], is 2,190 millimetres high (7.19ft) and 820mm (32in) wide, and contains 36 lines of hieroglyphic text, 73 of demotic text, and 74 of Greek. The texts are of similar length.[[ ^12 ]] From such comparisons, it can be estimated that an additional 14 or 15 lines of hieroglyphic inscription are missing from the top register of the Rosetta Stone, amounting to another 300 millimetres (12in).[[ ^13 ]] Above the inscriptions there would probably have been a scene depicting the king being presented to the gods, topped with a winged disc, as on the Canopus Stele. These parallels, and a hieroglyphic sign for "stela" on the stone itself (see [[ Gardiner's sign list | gardiners-sign-list#o.-buildings-parts-of-buildings-etc. ]]), suggest that it originally had a rounded top.[[ ^7 ]][[ ^14 ]] The height of the original stele is estimated to have been about 149 centimetres (4ft 11in).[[ ^14 ]]
+
+== Memphis decree and its context
+
+The stele was erected after the [[ coronation ]] of King [[ Ptolemy V | ptolemy-v-epiphanes ]] and was inscribed with a decree that established the divine cult of the new ruler.[[ ^15 ]] The decree was issued by a congress of priests who gathered at [[ Memphis | memphis-egypt ]]. The date is given as "4 Xandikos" in the [[ Macedonian calendar | ancient-macedonian-calendar ]] and "18 [[ Mekhir ]]" in the [[ Egyptian calendar ]], which corresponds to 27 March 196 BC. The year is stated as the ninth year of Ptolemy V's reign (equated with 197/196 BC), which is confirmed by naming four priests who officiated in that year: [[ Aetos son of Aetos ]] was priest of the divine cults of [[ Alexander the Great ]] and the five [[ Ptolemies | ptolemaic-dynasty ]] down to Ptolemy V himself; the other three priests named in turn in the inscription are those who led the worship of [[ Berenice Euergetis | berenice-ii ]] (wife of [[ Ptolemy III | ptolemy-iii-euergetes ]]), [[ Arsinoe Philadelphos | arsinoe-ii-of-egypt ]] (wife and sister of [[ Ptolemy II | ptolemy-ii-philadelphus ]]), and [[ Arsinoe Philopator | arsinoe-iii-of-egypt ]], mother of Ptolemy V.[[ ^16 ]] The stone does not agree with itself about the date, however. A second date is also given in the Greek and hieroglyphic texts, corresponding to 27 November 197 BC, the official anniversary of Ptolemy's coronation.[[ ^17 ]] The demotic text conflicts with this, listing consecutive days in March for the decree and the anniversary.[[ ^17 ]] It is uncertain why this discrepancy exists, but it is clear that the decree was issued in 196 BC and that it was designed to re-establish the rule of the Ptolemaic kings over Egypt.[[ ^18 ]]
+
+That last purpose is the point of the whole document, because the decree was issued during a turbulent period in Egyptian history. Ptolemy V Epiphanes, the son of [[ Ptolemy IV Philopator ]] and his wife and sister Arsinoe, reigned from 204 to 181 BC. He had become ruler at the age of five after the sudden death of both of his parents, who were murdered in a conspiracy that involved Ptolemy IV's mistress [[ Agathoclea | agathoclea-mistress-of-ptolemy-iv ]], according to contemporary sources. The conspirators effectively ruled Egypt as Ptolemy V's guardians[[ ^19 ]][[ ^20 ]] until a revolt broke out two years later under general [[ Tlepolemus | tlepolemus-regent-of-egypt ]], when Agathoclea and her family were [[ lynched | lynching ]] by a mob in Alexandria. Tlepolemus, in turn, was replaced as guardian in 201 BC by [[ Aristomenes of Alyzia ]], who was chief minister at the time of the Memphis decree.[[ ^21 ]]
+
+Political forces beyond the borders of Egypt exacerbated the internal problems of the Ptolemaic kingdom. [[ Antiochus III the Great ]] and [[ Philip V of Macedon ]] had made a pact to divide Egypt's overseas possessions. Philip had seized several islands and cities in [[ Caria ]] and [[ Thrace ]], while the [[ Battle of Panium ]] (198 BC) had resulted in the transfer of [[ Coele-Syria ]], including [[ Judaea | judea ]], from the Ptolemies to the [[ Seleucids ]]. Meanwhile, in the south of Egypt, the [[ Great Theban Revolt ]] began during the reign of Ptolemy IV,[[ ^17 ]] led by [[ Horwennefer ]] and by his successor [[ Ankhwennefer | ankhwennefer-pharaoh ]].[[ ^22 ]] Both the war and the internal revolt were still ongoing when the young Ptolemy V was officially crowned at Memphis at the age of 12 (seven years after the start of his reign) and when, just over a year later, the Memphis decree was issued.[[ ^20 ]]
+
+Stelae of this kind, which were established on the initiative of the temples rather than that of the king, are unique to Ptolemaic Egypt. In the preceding Pharaonic period it would have been unheard of for anyone but the divine rulers themselves to make national decisions: by contrast, this way of honouring a king was a feature of Greek cities. Rather than making his eulogy himself, the king had himself glorified and deified by his subjects or representative groups of his subjects.[[ ^23 ]] The decree records that Ptolemy V gave a gift of silver and grain to the [[ temples | egyptian-temple ]].[[ ^24 ]] It also records that there was particularly high [[ flooding of the Nile ]] in the eighth year of his reign, and he had the excess waters dammed for the benefit of the farmers.[[ ^24 ]] In return the priesthood pledged that the king's birthday and coronation days would be celebrated annually and that all the priests of Egypt would serve him alongside the other gods. The decree concludes with the instruction that a copy was to be placed in every temple, inscribed in the "language of the gods" (Egyptian hieroglyphs), the "language of documents" (Demotic), and the "language of the Greeks" as used by the Ptolemaic government.[[ ^25 ]][[ ^26 ]]
+
+Securing the favour of the priesthood was essential for the Ptolemaic kings to retain effective rule over the populace. The [[ High Priests | high-priest-of-ptah ]] of [[ Memphis | memphis-egypt ]]—where the king was crowned—were particularly important, as they were the highest religious authorities of the time and had influence throughout the kingdom.[[ ^27 ]] Given that the decree was issued at Memphis, the ancient capital of Egypt, rather than Alexandria, the centre of government of the ruling Ptolemies, it is evident that the young king was anxious to gain their active support.[[ ^28 ]] Thus, although the government of Egypt had been Greek-speaking ever since the [[ conquests | wars-of-alexander-the-great#egypt ]] of [[ Alexander the Great ]], the Memphis decree, like the three similar [[ earlier decrees | ptolemaic-decrees ]], included texts in Egyptian to show its connection to the general populace by way of the literate Egyptian priesthood.[[ ^29 ]]
+
+There can be no one definitive English translation of the decree, not only because modern understanding of the ancient languages continues to develop, but also because of the minor differences between the three original texts. Older translations by [[ E. A. Wallis Budge ]] (1904, 1913)[[ ^30 ]] and [[ Edwyn R. Bevan ]] (1927)[[ ^31 ]] are easily available but are now outdated, as can be seen by comparing them with the recent translation by R. S. Simpson, which is based on the demotic text and can be found online,[[ ^32 ]] or with the modern translations of all three texts, with introduction and facsimile drawing, that were published by Quirke and Andrews in 1989.[[ ^33 ]]
+
+The stele was almost certainly not originally placed at [[ Rashid | rosetta ]] (Rosetta) where it was found, but more likely came from a temple site farther inland, possibly the royal town of [[ Sais | sais-egypt ]].[[ ^34 ]] The temple from which it originally came was probably closed around AD 392 when [[ Roman emperor ]] [[ Theodosius I ]] ordered the closing of all non-Christian temples of worship.[[ ^35 ]] The original stele broke at some point, its largest piece becoming what we now know as the Rosetta Stone. Ancient Egyptian temples were later used as quarries for new construction, and the Rosetta Stone was probably re-used in this manner. Later it was incorporated in the foundations of a fortress constructed by the [[ Mameluke | mamluk ]] [[ Sultan ]] [[ Qaitbay ]] (c. 1416/18–1496) to defend the [[ Bolbitine branch | nile-delta ]] of the Nile at Rashid. There it lay for at least another three centuries until its rediscovery.[[ ^36 ]]
+
+Three other inscriptions relevant to the same Memphis decree have been found since the discovery of the Rosetta Stone: the [[ Nubayrah Stele ]], a stele found in [[ Elephantine ]] and Noub Taha, and an inscription found at the [[ Temple of Philae | philae ]] (on the [[ Philae obelisk ]]).[[ ^37 ]]
+
+== Rediscovery
+
+Led by [[ Napoleon ]], the French [[ Army of the Orient | armée-dorient-1798-order-of-battle ]] [[ invaded Egypt | french-invasion-of-egypt-and-syria ]] in 1798, accompanied by a corps of 151 technical experts (//savants//) known as the [[ Commission des Sciences et des Arts ]]. In mid-July 1799, French soldiers under the command of Colonel d'Hautpoul were strengthening the defences of [[ Fort Julien ]], a couple of miles north-east of the Egyptian port city of Rosetta (modern-day Rashid). Lieutenant [[ Pierre-François Bouchard ]] spotted a slab with inscriptions on one side that the soldiers had uncovered when demolishing a wall within the fort. He and d'Hautpoul saw at once that it might be important and informed General [[ Jacques-François Menou ]], who happened to be at Rosetta. The find was announced to Napoleon's newly founded scientific association in Cairo, the [[ Institut d'Égypte ]], in a report by Commission member [[ Michel Ange Lancret ]] noting that it contained three inscriptions, the first in hieroglyphs and the third in Greek, and rightly suggesting that the three inscriptions were versions of the same text. Lancret's report was received at a meeting of the Institute on 19 July. Bouchard, meanwhile, transported the stone to Cairo for examination by scholars.[[ ^38 ]]
+
+The discovery was reported in September in //[[ Courrier de l'Égypte ]]//, the official newspaper of the French occupational authorities, whose anonymous reporter expressed a hope that the stone might one day be the key to deciphering hieroglyphs.[[ ^10 ]] In 1800 three of the commission's technical experts devised ways to make copies of the texts on the stone. One of these experts was [[ Jean-Joseph Marcel ]], a printer and gifted linguist, who is credited as the first to recognise that the middle text was written in the Egyptian [[ demotic | demotic-egyptian-script ]] script, rarely used for stone inscriptions and seldom seen by scholars at that time, rather than [[ Syriac | syriac-language ]] as had originally been thought.[[ ^10 ]] It was artist and inventor [[ Nicolas-Jacques Conté ]] who found a way to use the stone itself as a [[ printing block | woodblock-printing ]] to reproduce the inscription.[[ ^39 ]] A slightly different method was adopted by [[ Antoine Galland | antoine-galland-17631851 ]]. The prints that resulted were taken to Paris by General [[ Charles Dugua ]]. Scholars in Europe were now able to see the inscriptions and attempt to read them.[[ ^40 ]]
+
+Napoleon returned to Europe in August 1799, abandoning his troops in Egypt. In March 1801, British forces [[ landed at Abu Qir Bay | battle-of-abukir-1801 ]]. Menou, now in command of the Army of the Orient, marched north towards the Mediterranean coast to meet the British, transporting the stone along with many other antiquities. The French were defeated in the [[ Battle of Alexandria | battle-of-alexandria-1801 ]], and the remnant of Menou's army retreated to Alexandria where they were [[ surrounded and besieged | siege-of-alexandria-1801 ]], with the stone now inside the city. [[ Menou surrendered | capitulation-of-alexandria-1801 ]] to the British and Ottomans on 30 August.[[ ^41 ]][[ ^42 ]]
+
+== From French to British possession
+
+After the surrender, a dispute arose over the fate of the French archaeological and scientific discoveries in Egypt, including the artefacts, biological specimens, notes, plans, and drawings collected by the members of the commission. Menou refused to hand them over, claiming that they belonged to the institute. British General [[ John Hely-Hutchinson | john-hely-hutchinson-2nd-earl-of-donoughmore ]] refused to end the siege until Menou gave in. Scholars [[ Edward Daniel Clarke ]] and [[ William Richard Hamilton ]], newly arrived from England, agreed to examine the collections in Alexandria and said they had found many artefacts that the French had not revealed. In a letter home, Clarke wrote that "we found much more in their possession than was represented or imagined".[[ ^43 ]]
+
+Hutchinson claimed that all materials were property of the [[ British Crown | the-crown ]], but French scholar [[ Étienne Geoffroy Saint-Hilaire ]] told Clarke and Hamilton that the French would rather burn all their discoveries than turn them over, referring ominously to the destruction of the [[ Library of Alexandria ]]. Clarke and Hamilton pleaded the French scholars' case to Hutchinson, who finally agreed that items such as natural history specimens would be considered the scholars' private property.[[ ^42 ]][[ ^44 ]] Menou quickly claimed the stone, too, as his private property.[[ ^45 ]][[ ^42 ]]
+
+It is not clear exactly how the stone was transferred into British hands, as contemporary accounts differ. Colonel [[ Tomkyns Hilgrove Turner ]], who was to escort it to England, claimed later that he had personally seized it from Menou and carried it away on a [[ gun-carriage | limbers-and-caissons ]]. In a much more detailed account, Edward Daniel Clarke stated that a French "officer and member of the Institute" had taken him, his student John Cripps, and Hamilton secretly into the back streets behind Menou's residence and revealed the stone hidden under protective carpets among Menou's baggage. According to Clarke, their informant feared that the stone might be stolen if French soldiers saw it. Hutchinson was informed at once and the stone was taken away—possibly by Turner and his gun-carriage.[[ ^46 ]]
+
+Turner brought the stone to England aboard the captured French frigate [[ HMS //Égyptienne// | hms-egyptienne-1799 ]], landing in [[ Portsmouth ]] in February 1802.[[ ^47 ]] His orders were to present it and the other antiquities to King [[ George III | george-iii-of-the-united-kingdom ]]. The King, represented by [[ War Secretary | secretary-of-state-for-war-and-the-colonies ]] [[ Lord Hobart | robert-hobart-4th-earl-of-buckinghamshire ]], directed that it should be placed in the [[ British Museum ]]. According to Turner's narrative, he and Hobart agreed that the stone should be presented to scholars at the [[ Society of Antiquaries of London ]], of which Turner was a member, before its final deposit in the museum. It was first seen and discussed there at a meeting on 11 March 1802.
+
+In 1802, the Society created four plaster casts of the inscriptions, which were given to the universities of [[ Oxford | university-of-oxford ]], [[ Cambridge | university-of-cambridge ]] and [[ Edinburgh | university-of-edinburgh ]] and to [[ Trinity College Dublin ]]. Soon afterwards, prints of the inscriptions were made and circulated to European scholars. Before the end of 1802, the stone was transferred to the British Museum, where it is located today.[[ ^47 ]] New inscriptions painted in white on the left and right edges of the slab stated that it was "Captured in Egypt by the [[ British Army ]] in 1801" and "Presented by King George III".[[ ^2 ]]
+
+The stone has been exhibited almost continuously in the British Museum since June 1802.[[ ^6 ]] During the middle of the 19th century, it was given the inventory number "EA 24", "EA" standing for "Egyptian Antiquities". It was part of a collection of ancient Egyptian monuments captured from the French expedition, including a [[ sarcophagus ]] of [[ Nectanebo II ]] (EA 10), the statue of a [[ high priest of Amun | high-priests-of-amun ]] (EA 81), and a large granite fist (EA 9).[[ ^48 ]] The objects were soon discovered to be too heavy for the floors of [[ Montagu House | montagu-house-bloomsbury ]] (the original building of The British Museum), and they were transferred to a new extension that was added to the mansion. The Rosetta Stone was transferred to the sculpture gallery in 1834 shortly after Montagu House was demolished and replaced by the building that now houses the British Museum.[[ ^49 ]] According to the museum's records, the Rosetta Stone is its most-visited single object,[[ ^50 ]] a simple image of it was the museum's best selling postcard for several decades,[[ ^51 ]] and a wide variety of merchandise bearing the text from the Rosetta Stone (or replicating its distinctive shape) is sold in the museum shops.
+
+The Rosetta Stone was originally displayed at a slight angle from the horizontal, and rested within a metal cradle that was made for it, which involved shaving off very small portions of its sides to ensure that the cradle fitted securely.[[ ^49 ]] It originally had no protective covering, and it was found necessary by 1847 to place it in a protective frame, despite the presence of attendants to ensure that it was not touched by visitors.[[ ^52 ]] Since 2004 the conserved stone has been on display in a specially built case in the centre of the Egyptian Sculpture Gallery. A replica of the Rosetta Stone is now available in the [[ King's Library ]] of the British Museum, without a case and free to touch, as it would have appeared to early 19th-century visitors.[[ ^53 ]]
+
+The museum was concerned about [[ heavy bombing in London | german-strategic-bombing-during-world-war-i#1917 ]] towards the end of the [[ First World War ]] in 1917, and the Rosetta Stone was moved to safety, along with other portable objects of value. The stone spent the next two years 15 m (50 ft) below ground level in a station of the [[ Postal Tube Railway | london-post-office-railway ]] at [[ Mount Pleasant | royal-mail-mount-pleasant-sorting-office ]] near [[ Holborn ]].[[ ^54 ]] Other than during wartime, the Rosetta Stone has left the British Museum only once: for one month in October 1972, to be displayed alongside Champollion's //[[ Lettre | lettre-à-m.-dacier ]]// at the [[ Louvre ]] in Paris on the 150th anniversary of the letter's publication.[[ ^51 ]] Even when the Rosetta Stone was undergoing conservation measures in 1999, the work was done in the gallery so that it could remain visible to the public.[[ ^55 ]]
+
+== Reading the Rosetta Stone
+
+Prior to the discovery of the Rosetta Stone and its eventual decipherment, the ancient [[ Egyptian language ]] and script had not been understood since shortly before the [[ fall of the Roman Empire | fall-of-the-western-roman-empire ]]. The usage of the [[ hieroglyphic script | egyptian-hieroglyphs ]] had become increasingly specialised even in the later [[ Pharaonic period | ancient-egypt ]]; by the [[ 4th century ]] AD, few Egyptians were capable of reading them. Monumental use of hieroglyphs ceased as [[ temple priesthoods died out and Egypt was converted to Christianity | decline-of-ancient-egyptian-religion ]]. There is a last inscription and a date for it: 24 August 394, found at [[ Philae ]] and known as the [[ Graffito of Esmet-Akhom ]].[[ ^56 ]] The last known demotic text, also from Philae, was written in 452.[[ ^57 ]]
+
+Hieroglyphs retained their pictorial appearance, and classical authors emphasised this aspect, in sharp contrast to the [[ Greek | greek-alphabet ]] and [[ Roman alphabets | latin-alphabet ]]. In the [[ 5th century ]], the priest [[ Horapollo ]] wrote //Hieroglyphica//, an explanation of almost 200 [[ glyphs | glyph ]]. His work was believed to be authoritative, yet it was misleading in many ways, and this and other works were a lasting impediment to the understanding of Egyptian writing.[[ ^58 ]] Later attempts at decipherment were made by [[ Arab historians | list-of-muslim-historians ]] in [[ medieval Egypt | egypt-in-the-middle-ages ]] during the 9th and 10th centuries. [[ Dhul-Nun al-Misri ]] and [[ Ibn Wahshiyya ]] were the first historians to study hieroglyphs, by comparing them to the contemporary [[ Coptic language ]] used by [[ Coptic | copts ]] priests in their time.[[ ^59 ]][[ ^60 ]] The study of hieroglyphs continued with fruitless attempts at decipherment by European scholars, notably [[ Pierius Valerianus ]] in the 16th century[[ ^61 ]] and [[ Athanasius Kircher ]] in the 17th.[[ ^62 ]] The discovery of the Rosetta Stone in 1799 provided critical missing information, gradually revealed by a succession of scholars, that eventually allowed [[ Jean-François Champollion ]] to solve the puzzle that Kircher had called the [[ riddle of the Sphinx | sphinx#riddle-of-the-sphinx ]].[[ ^63 ]]
+
+== Greek text
+
+The [[ Greek | ancient-greek ]] text on the Rosetta Stone provided the starting point, but it was not the easy half it looks. Ancient Greek was widely known to scholars, but they were not familiar with details of its use in the [[ Hellenistic | koine-greek ]] period as a government language in Ptolemaic Egypt; large-scale discoveries of Greek [[ papyri | papyrus ]] were a long way in the future. The earliest translations of the Greek text of the stone accordingly show the translators still struggling with the historical context and with administrative and religious jargon. [[ Stephen Weston | stephen-weston-antiquary ]] verbally presented an English translation of the Greek text at a [[ Society of Antiquaries | society-of-antiquaries-of-london ]] meeting in April 1802.[[ ^64 ]][[ ^65 ]]
+
+Meanwhile, two of the lithographic copies made in Egypt had reached the [[ Institut de France ]] in Paris in 1801. There, librarian and antiquarian [[ Gabriel de La Porte du Theil ]] set to work on a translation of the Greek, but he was dispatched elsewhere on Napoleon's orders almost immediately, and he left his unfinished work in the hands of colleague [[ Hubert-Pascal Ameilhon ]]. Ameilhon produced the first published translations of the Greek text in 1803, in both [[ Latin ]] and French to ensure that they would circulate widely. At [[ Cambridge ]], [[ Richard Porson ]] worked on the missing lower right corner of the Greek text. He produced a skillful suggested reconstruction, which was soon being circulated by the Society of Antiquaries alongside its prints of the inscription. At almost the same moment, [[ Christian Gottlob Heyne ]] in [[ Göttingen ]] was making a new Latin translation of the Greek text that was more reliable than Ameilhon's and was first published in 1803. It was reprinted by the Society of Antiquaries in a special issue of its journal //Archaeologia// in 1811, alongside Weston's previously unpublished English translation, [[ Colonel Turner's | tomkyns-hilgrove-turner ]] narrative, and other documents.[[ ^66 ]][[ ^67 ]]
+
+== Demotic text
+
+At the time of the stone's discovery, Swedish diplomat and scholar [[ Johan David Åkerblad ]] was working on a little-known script of which some examples had recently been found in Egypt, which came to be known as [[ Demotic | demotic-egyptian-script ]]. He called it "cursive Coptic" because he was convinced that it was used to record some form of the [[ Coptic language ]] (the direct descendant of Ancient Egyptian), although it had few similarities with the later [[ Coptic script | coptic-alphabet ]]. French Orientalist [[ Antoine-Isaac Silvestre de Sacy ]] had been discussing this work with Åkerblad when, in 1801, he received one of the early lithographic prints of the Rosetta Stone, from [[ Jean-Antoine Chaptal ]], French minister of the Interior. He realised that the middle text was in this same script.
+
+He and Åkerblad set to work, both focusing on the middle text and assuming that the script was alphabetical. They attempted to identify the points where Greek names ought to occur within this unknown text, by comparing it with the Greek. In 1802, Silvestre de Sacy reported to Chaptal that he had successfully identified five names (//[[ Alexandros | alexander-the-great ]]//, //[[ Alexandreia | alexandria ]]//, //[[ Ptolemaios | ptolemy-v-epiphanes ]]//, //[[ Arsinoe | arsinoe-iii-of-egypt ]]//, and Ptolemy's title //Epiphanes//), while Åkerblad published an alphabet of 29 letters (more than half of which were correct) that he had identified from the Greek names in the Demotic text.[[ ^64 ]] They could not, however, identify the remaining characters in the Demotic text, which, as is now known, included [[ ideographic | ideogram ]] and other symbols alongside the phonetic ones.[[ ^68 ]] The assumption that the script was purely alphabetical was the wall they stopped at.
+
+== Hieroglyphic text
+
+Silvestre de Sacy eventually gave up work on the stone, but he was to make another contribution. In 1811, prompted by discussions with a Chinese student about [[ Chinese script | chinese-character ]], Silvestre de Sacy considered a suggestion made by [[ Georg Zoëga | jörgen-zoega ]] in 1797 that the foreign names in Egyptian hieroglyphic inscriptions might be written phonetically; he also recalled that as early as 1761, [[ Jean-Jacques Barthélemy ]] had suggested that the characters enclosed in [[ cartouches | cartouche ]] in hieroglyphic inscriptions were proper names. Thus, when [[ Thomas Young | thomas-young-scientist ]], foreign secretary of the [[ Royal Society of London | royal-society ]], wrote to him about the stone in 1814, Silvestre de Sacy suggested in reply that in attempting to read the hieroglyphic text, Young might look for cartouches that ought to contain Greek names and try to identify phonetic characters in them.[[ ^69 ]]
+
+Young did so, with two results that together paved the way for the final decipherment. In the hieroglyphic text, he discovered the phonetic characters //p t o l m e s// (in today's transliteration //p t w l m y s//) that were used to write the Greek name //Ptolemaios//. He also noticed that these characters resembled the equivalent ones in the demotic script, and went on to note as many as 80 similarities between the hieroglyphic and demotic texts on the stone, an important discovery because the two scripts were previously thought to be entirely different from one another. This led him to deduce correctly that the demotic script was only partly phonetic, also consisting of ideographic characters derived from hieroglyphs. Young's new insights were prominent in the long article "Egypt" that he contributed to the //[[ Encyclopædia Britannica ]]// in 1819. He could make no further progress, however.[[ ^70 ]]
+
+In 1814, Young first exchanged correspondence about the stone with [[ Jean-François Champollion ]], a teacher at [[ Grenoble ]] who had produced a scholarly work on ancient Egypt. Champollion saw copies of the brief hieroglyphic and Greek inscriptions of the [[ Philae obelisk ]] in 1822, on which [[ William John Bankes ]] had tentatively noted the names //Ptolemaios// and //Kleopatra// in both languages.[[ ^71 ]] From this, Champollion identified the phonetic characters //k l e o p a t r a// (in today's transliteration //q l i҆ w p 3 d r 3.t//).[[ ^72 ]] On the basis of this and the foreign names on the Rosetta Stone, he quickly constructed an alphabet of phonetic hieroglyphic characters, completing his work on 14 September and announcing it publicly on 27 September in a lecture to the //[[ Académie royale des Inscriptions et Belles-Lettres | académie-des-inscriptions-et-belles-lettres ]]//.[[ ^73 ]] On the same day he wrote the famous //[[ Lettre à M. Dacier ]]// to [[ Bon-Joseph Dacier ]], secretary of the Académie, detailing his discovery. In the postscript Champollion notes that similar phonetic characters seemed to occur in both Greek and Egyptian names, a hypothesis confirmed in 1823, when he identified the names of pharaohs [[ Ramesses | ramesses-i ]] and [[ Thutmose | thutmose-i ]] written in cartouches at [[ Abu Simbel | abu-simbel-temples ]]. These far older hieroglyphic inscriptions had been copied by Bankes and sent to Champollion by [[ Jean-Nicolas Huyot ]]. From this point, the stories of the Rosetta Stone and the [[ decipherment of Egyptian hieroglyphs ]] diverge, as Champollion drew on many other texts to develop an Ancient Egyptian grammar and a hieroglyphic dictionary which were published after his death in 1832.[[ ^74 ]]
+
+== Later work
+
+Work on the stone now focused on fuller understanding of the texts and their contexts by comparing the three versions with one another. In 1824 Classical scholar [[ Antoine-Jean Letronne | jean-antoine-letronne ]] promised to prepare a new literal translation of the Greek text for Champollion's use. Champollion in return promised an analysis of all the points at which the three texts seemed to differ. Following Champollion's sudden death in 1832, his draft of this analysis could not be found, and Letronne's work stalled. [[ François Salvolini | francesco-salvolini ]], Champollion's former student and assistant, died in 1838, and this analysis and other missing drafts were found among his papers. This discovery incidentally demonstrated that Salvolini's own publication on the stone, published in 1837, was [[ plagiarism ]]. Letronne was at last able to complete his commentary on the Greek text and his new French translation of it, which appeared in 1841. During the early 1850s, German Egyptologists [[ Heinrich Brugsch | heinrich-karl-brugsch ]] and [[ Max Uhlemann ]] produced revised Latin translations based on the demotic and hieroglyphic texts. The first English translation followed in 1858, the work of three members of the [[ Philomathean Society ]] at the [[ University of Pennsylvania ]].[[ ^75 ]][[ ^76 ]]
+
+Whether one of the three texts was the standard version, from which the other two were originally translated, is a question that has remained controversial. Letronne attempted to show in 1841 that the Greek version, the product of the Egyptian government under the Macedonian [[ Ptolemies ]], was the original. Among recent authors, John Ray has stated that "the hieroglyphs were the most important of the scripts on the stone: they were there for the gods to read, and the more learned of their priesthood".[[ ^7 ]] Philippe Derchain and Heinz Josef Thissen have argued that all three versions were composed simultaneously, while Stephen Quirke sees in the decree "an intricate coalescence of three vital textual traditions".[[ ^77 ]] [[ Richard Parkinson | richard-b.-parkinson ]] points out that the hieroglyphic version strays from archaic formalism and occasionally lapses into language closer to that of the demotic register that the priests more commonly used in everyday life.[[ ^78 ]] The fact that the three versions cannot be matched word for word helps to explain why the decipherment has been more difficult than originally expected, especially for those original scholars who were expecting an exact bilingual key to Egyptian hieroglyphs.[[ ^79 ]]
+
+== Rivalries
+
+Even before the Salvolini affair, disputes over precedence and plagiarism punctuated the decipherment story. Thomas Young's work is acknowledged in Champollion's 1822 //Lettre à M. Dacier//, but incompletely, according to early British critics: for example, [[ James Browne | james-browne-writer ]], a sub-editor on the //Encyclopædia Britannica// (which had published Young's 1819 article), anonymously contributed a series of review articles to the //[[ Edinburgh Review ]]// in 1823, praising Young's work highly and alleging that the "unscrupulous" Champollion plagiarised it.[[ ^80 ]][[ ^81 ]] These articles were translated into French by [[ Julius Klaproth ]] and published in book form in 1827. Young's own 1823 publication reasserted the contribution that he had made. The early deaths of Young (1829) and Champollion (1832) did not put an end to these disputes. In his work on the stone in 1904 [[ E. A. Wallis Budge ]] gave special emphasis to Young's contribution compared with Champollion's.[[ ^82 ]] In the early 1970s, French visitors complained that the portrait of Champollion was smaller than one of Young on an adjacent information panel; English visitors complained that the opposite was true. The portraits were in fact the same size.[[ ^51 ]]
+
+== Requests for repatriation to Egypt
+
+Calls for the Rosetta Stone to be returned to Egypt were made in July 2003 by [[ Zahi Hawass ]], then Secretary-General of Egypt's [[ Supreme Council of Antiquities ]]. These calls, expressed in the Egyptian and international media, asked that the stele be [[ repatriated | art-repatriation ]] to Egypt, commenting that it was the "icon of our Egyptian identity".[[ ^83 ]] He repeated the proposal two years later in Paris, listing the stone as one of several key items belonging to Egypt's cultural heritage, a list which also included: the iconic [[ bust of Nefertiti | nefertiti-bust ]] in the [[ Egyptian Museum of Berlin ]]; a statue of the [[ Great Pyramid | great-pyramid-of-giza ]] architect [[ Hemiunu ]] in the [[ Roemer-und-Pelizaeus-Museum ]] in [[ Hildesheim ]], Germany; the [[ Dendera Temple Zodiac | dendera-zodiac ]] in the [[ Louvre ]] in Paris; and the [[ bust of Ankhhaf | ankhhaf-sculpture ]] in the [[ Museum of Fine Arts | museum-of-fine-arts-boston ]] in [[ Boston | boston-massachusetts ]].[[ ^84 ]] In August 2022, Hawass reiterated his previous demands.[[ ^85 ]][[ ^86 ]]
+
+In 2005, the British Museum presented Egypt with a full-sized fibreglass colour-matched replica of the stele. This was initially displayed in the renovated [[ Rashid National Museum ]], an Ottoman house in the town of [[ Rashid | rosetta ]] (Rosetta), the closest city to the site where the stone was found.[[ ^87 ]] In November 2005, Hawass suggested a three-month loan of the Rosetta Stone, while reiterating the eventual goal of a permanent return.[[ ^88 ]] In December 2009, he proposed to drop his claim for the permanent return of the Rosetta Stone if the British Museum lent the stone to Egypt for three months for the opening of the [[ Grand Egyptian Museum ]] at [[ Giza ]] in 2013.[[ ^89 ]]
+
+As [[ John Ray | john-d.-ray ]] has observed: "The day may come when the stone has spent longer in the British Museum than it ever did in Rosetta."[[ ^90 ]]
+
+National museums typically express strong opposition to the repatriation of objects of international cultural significance such as the Rosetta Stone. In response to repeated Greek requests for return of the [[ Elgin Marbles ]] from the [[ Parthenon ]] and similar requests to other museums around the world, in 2002, over 30 of the world's leading museums—including the British Museum, the Louvre, the [[ Pergamon Museum ]] in Berlin, and the [[ Metropolitan Museum | metropolitan-museum-of-art ]] in New York City—issued a joint statement: "Objects acquired in earlier times must be viewed in the light of different sensitivities and values reflective of that earlier era\...museums serve not just the citizens of one nation but the people of every nation."[[ ^91 ]]
+
+== Idiomatic use
+
+Various ancient bilingual or even trilingual [[ epigraphical ]] documents have sometimes been described as "Rosetta stones", as they permitted the decipherment of ancient written scripts. The bilingual [[ Greek | greek-script ]]-[[ Brahmi ]] coins of the [[ Greco-Bactrian ]] king [[ Agathocles | agathocles-of-bactria ]] have been described as "little Rosetta stones", allowing [[ Christian Lassen ]]'s initial progress towards deciphering the [[ Brahmi script ]], thus unlocking ancient [[ Indian epigraphy ]].[[ ^92 ]] The [[ Behistun Inscription ]] in Iran has also been compared to the Rosetta stone, as it links the translations of three ancient [[ Middle-Eastern ]] languages: [[ Old Persian ]], [[ Elamite | elamite-language ]], and [[ Akkadian | akkadian-language ]].[[ ^93 ]] The [[ Sardis bilingual | sardis-bilingual-inscription ]] has been called the Rosetta stone for the [[ Lydian language ]].[[ ^94 ]]
+
+The term //Rosetta stone// has been also used [[ idiomatically | idiom ]] to denote the first crucial key in the process of decryption of encoded information, especially when a small but representative sample is recognised as the clue to understanding a larger whole.[[ ^95 ]] According to the //[[ Oxford English Dictionary ]]//, the first figurative use of the term appeared in the 1902 edition of the //[[ Encyclopædia Britannica ]]// relating to an entry on the chemical analysis of [[ glucose ]].[[ ^95 ]] Another use of the phrase is found in [[ H. G. Wells ]]'s 1933 novel //[[ The Shape of Things to Come ]]//, where the protagonist finds a manuscript written in [[ shorthand ]] that provides a key to understanding additional scattered material that is sketched out in both [[ longhand ]] and on a [[ typewriter ]].[[ ^95 ]]
+
+Since then, the term has been widely used in other contexts. [[ Nobel laureate ]] [[ Theodor W. Hänsch ]] in a 1979 //[[ Scientific American ]]// article on [[ spectroscopy ]] wrote that "the spectrum of the hydrogen atoms has proven to be the Rosetta Stone of modern physics: once this pattern of lines had been deciphered much else could also be understood".[[ ^95 ]] Fully understanding the key set of genes to the [[ human leucocyte antigen ]] has been described as "the Rosetta Stone of immunology".[[ ^96 ]] The flowering plant //[[ Arabidopsis thaliana ]]// has been called the "Rosetta Stone of flowering time".[[ ^97 ]] A [[ gamma-ray burst ]] (GRB) found in conjunction with a [[ supernova ]] has been called a Rosetta Stone for understanding the origin of GRBs.[[ ^98 ]] The technique of [[ Doppler echocardiography ]] has been called a Rosetta Stone for clinicians trying to understand the complex process by which the [[ left ventricle ]] of the [[ human heart ]] can be filled during various forms of [[ diastolic dysfunction ]].[[ ^99 ]] The [[ European Space Agency ]]'s //[[ Rosetta | rosetta-spacecraft ]]// spacecraft was launched to study the [[ comet ]] [[ 67P/Churyumov–Gerasimenko ]] in the hope that determining its composition will advance understanding of the origins of the [[ Solar System ]].[[ ^100 ]]
+
+== Gallery
+
+- Replica of the Rosetta Stone, displayed as the original used to be, available to touch, in what was the [[ King's Library ]] of the British Museum, now the Enlightenment Gallery
+
+- A giant copy of the Rosetta Stone by [[ Joseph Kosuth ]] in [[ Figeac ]] in southern France, the birthplace of [[ Jean-François Champollion ]]
+
+- A crowd of visitors examining the Rosetta Stone at the British Museum in 2014, now behind glass
+
+[[ ^1 ]]: [[ Bierbrier (1999) | #bierbrier99 ]] pp. 111–113
+
+[[ ^2 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 23
+
+[[ ^3 ]]: [[ //Synopsis// (1847) | #synopsis ]] pp. 113–114
+
+[[ ^4 ]]: [[ Miller et al. (2000) | #miller00 ]] pp. 128–132
+
+[[ ^5 ]]: [[ Middleton and Klemm (2003) | #middleton03 ]] pp. 207–208
+
+[[ ^6 ]]: [[ The Rosetta Stone | #bmrs ]]
+
+[[ ^7 ]]: [[ Ray (2007) | #ray69 ]] p. 3
+
+[[ ^8 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] pp. 48–49, 98
+
+[[ ^9 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 28
+
+[[ ^10 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 20
+
+[[ ^11 ]]: [[ Budge (1913) | #budge69 ]] pp. 2–3
+
+[[ ^12 ]]: [[ Budge (1894) | #budgem ]] p. 106
+
+[[ ^13 ]]: [[ Budge (1894) | #budgem ]] p. 109
+
+[[ ^14 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 26
+
+[[ ^15 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 25
+
+[[ ^16 ]]: [[ Clarysse and Van der Veken (1983) | #clarysse83 ]] pp. 20–21
+
+[[ ^17 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 29
+
+[[ ^18 ]]: [[ Shaw & Nicholson (1995) | #shawnicholson1995 ]] p. 247
+
+[[ ^19 ]]: [[ Tyldesley (2006) | #tyldesley2006 ]] p. 194
+
+[[ ^20 ]]: [[ Clayton (2006) | #clayton06 ]] p. 211
+
+[[ ^21 ]]: [[ Bevan (1927) | #bevan27 ]] [[ pp. 252–262 | https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Africa/Egypt/_Texts/BEVHOP/8*.html ]]
+
+[[ ^22 ]]: [[ Assmann (2003) | #assmann ]] p. 376
+
+[[ ^23 ]]: [[ Clarysse (1999) | #clarysse99 ]] p. 51, with references there to [[ Quirke and Andrews (1989) | #quirke69 ]]
+
+[[ ^24 ]]: [[ Bevan (1927) | #bevan27 ]] pp. 264–265
+
+[[ ^25 ]]: [[ Ray (2007) | #ray69 ]] p. 136
+
+[[ ^26 ]]: [[ Parkinson et al. (1999) | #parkinson70 ]] p. 30
+
+[[ ^27 ]]: [[ Shaw (2000) | #shaw00 ]] p. 407
+
+[[ ^28 ]]: [[ Walker and Higgs (editors, 2001) | #walker2001 ]] p. 19
+
+[[ ^29 ]]: [[ Bagnall and Derow (2004) | #bagnall04 ]] (no. 137 in online version)
+
+[[ ^30 ]]: [[ Budge (1904) | #budge70 ]]; [[ Budge (1913) | #budge69 ]]
+
+[[ ^31 ]]: [[ Bevan (1927) | #bevan27 ]] pp. [[ 263–268 | https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Africa/Egypt/_Texts/BEVHOP/8*.html ]]
+
+[[ ^32 ]]: [[ Simpson (n. d.) | #simpson ]]; a revised version of [[ Simpson (1996) | #simpson96 ]] pp. 258–271
+
+[[ ^33 ]]: [[ Quirke and Andrews (1989) | #quirke69 ]]
+
+[[ ^34 ]]: [[ Parkinson (2005) | #parkinson70 ]] p. 14
+
+[[ ^35 ]]: [[ Parkinson (2005) | #parkinson70 ]] p. 17
+
+[[ ^36 ]]: [[ Parkinson (2005) | #parkinson70 ]] p. 20
+
+[[ ^37 ]]: [[ Clarysse (1999) | #clarysse99 ]] p. 42; [[ Nespoulous-Phalippou (2015) | #nespoulous-phalippou ]] pp. 283–285
+
+[[ ^38 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] pp. 17–20
+
+[[ ^39 ]]: [[ Adkins (2000) | #adkins69 ]] p. 38
+
+[[ ^40 ]]: [[ Gillispie (1987) | #gillispie87 ]] pp. 1–38
+
+[[ ^41 ]]: Wilson 1803, pp. 274–284.
+
+[[ ^42 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 21
+
+[[ ^43 ]]: [[ Burleigh (2007) | #burleigh07 ]] p. 212
+
+[[ ^44 ]]: [[ Burleigh (2007) | #burleigh07 ]] p. 214
+
+[[ ^45 ]]: [[ Budge (1913) | #budge69 ]] p. 2
+
+[[ ^46 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] pp. 21–22
+
+[[ ^47 ]]: [[ Andrews (1985) | #andrews69 ]] p. 12
+
+[[ ^48 ]]: [[ Parkinson (2005) | #parkinson70 ]] pp. 30–31
+
+[[ ^49 ]]: [[ Parkinson (2005) | #parkinson70 ]] p. 31
+
+[[ ^50 ]]: [[ Parkinson (2005) | #parkinson70 ]] p. 7
+
+[[ ^51 ]]: [[ Parkinson (2005) | #parkinson70 ]] p. 47
+
+[[ ^52 ]]: [[ Parkinson (2005) | #parkinson70 ]] p. 32
+
+[[ ^53 ]]: [[ Parkinson (2005) | #parkinson70 ]] p. 50
+
+[[ ^54 ]]: "[[ Everything you ever wanted to know about the Rosetta Stone | https://blog.britishmuseum.org/everything-you-ever-wanted-to-know-about-the-rosetta-stone/ ]]" (British Museum, 14 July 2017)
+
+[[ ^55 ]]: [[ Parkinson (2005) | #parkinson70 ]] pp. 50–51
+
+[[ ^56 ]]: [[ Ray (2007) | #ray69 ]] p. 11
+
+[[ ^57 ]]: [[ Iversen (1993) | #iversen ]] p. 30
+
+[[ ^58 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] pp. 15–16
+
+[[ ^59 ]]: [[ El Daly (2005) | #eldaly05 ]] pp. 65–75
+
+[[ ^60 ]]: [[ Ray (2007) | #ray69 ]] pp. 15–18
+
+[[ ^61 ]]: [[ Iversen (1993) | #iversen ]] pp. 70–72
+
+[[ ^62 ]]: [[ Ray (2007) | #ray69 ]] pp. 20–24
+
+[[ ^63 ]]: Powell, Barry B. (2009). [[ //Writing: Theory and History of the Technology of Civilization// | https://books.google.com/books?id=b6Gx-MwHvaoC&pg=PA91 ]]. John Wiley & Sons. p. 91. ISBN [[ 978-1-4051-6256-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4051-6256-2 ]].
+
+[[ ^64 ]]: [[ Budge (1913) | #budge69 ]] p. 1
+
+[[ ^65 ]]: [[ Andrews (1985) | #andrews69 ]] p. 13
+
+[[ ^66 ]]: [[ Budge (1904) | #budge70 ]] pp. 27–28
+
+[[ ^67 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 22
+
+[[ ^68 ]]: [[ Robinson (2009) | #robinson09 ]] pp. 59–61
+
+[[ ^69 ]]: [[ Robinson (2009) | #robinson09 ]] p. 61
+
+[[ ^70 ]]: [[ Robinson (2009) | #robinson09 ]] pp. 61–64
+
+[[ ^71 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 32
+
+[[ ^72 ]]: [[ Budge (1913) | #budge69 ]] pp. 3–6
+
+[[ ^73 ]]: E. Agazzi; M. Pauri (2013). [[ //The Reality of the Unobservable: Observability, Unobservability and Their Impact on the Issue of Scientific Realism// | https://books.google.com/books?id=Hr3wCAAAQBAJ&pg=PA97 ]]. Springer Science & Business Media. pp. 98–99. ISBN [[ 978-94-015-9391-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-94-015-9391-5 ]].
+
+[[ ^74 ]]: [[ Dewachter (1990) | #dewachter90 ]] p. 45
+
+[[ ^75 ]]: Harvey, Ian (23 February 2017). [[ "The Rosetta Stone: A decree carved in three different scripts is helping linguists decipher ancient texts \| The Vintage News" | https://www.thevintagenews.com/2017/02/23/the-rosetta-stone-a-decree-carved-in-three-different-scripts-is-helping-linguists-decipher-ancient-texts/ ]]. //thevintagenews//. Retrieved 11 March 2026.
+
+[[ ^76 ]]: [[ "Philomathean Society" | http://philomathean.org/page/About/Philo_History#:~:text=After%20the%20Society%20received%20%E2%80%9Ca,of%20the%20stone%20ever%20produced. ]]. //philomathean.org//. Retrieved 11 March 2026.
+
+[[ ^77 ]]: [[ Quirke and Andrews (1989) | #quirke69 ]] p. 10
+
+[[ ^78 ]]: [[ Parkinson (2005) | #parkinson70 ]] p. 13
+
+[[ ^79 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] pp. 30–31
+
+[[ ^80 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] pp. 35–38
+
+[[ ^81 ]]: [[ Robinson (2009) | #robinson09 ]] pp. 65–68
+
+[[ ^82 ]]: [[ Budge (1904) | #budge70 ]] vol. 1 pp. 59–134
+
+[[ ^83 ]]: [[ Edwardes and Milner (2003) | #edwardes03 ]]
+
+[[ ^84 ]]: Sarah El Shaarawi (5 October 2016). "Egypt's Own: Repatriation of Antiquities Proves to be a Mammoth Task". Newsweek – Middle East.
+
+[[ ^85 ]]: [[ "'Return Rosetta Stone to Egypt' demands country's leading archaeologist Zahi Hawass" | https://www.theartnewspaper.com/2022/08/22/return-rosetta-stone-to-egypt-demands-countrys-leading-archaeologist-zahi-hawass ]]. //The Art Newspaper – International art news and events//. 22 August 2022.
+
+[[ ^86 ]]: Stickings, Tim (19 August 2022). [[ "New push to bring Rosetta Stone back to Egypt amid 'awakening' on colonial loot" | https://www.thenationalnews.com/world/2022/08/19/new-push-to-bring-rosetta-stone-back-to-egypt-amid-awakening-on-colonial-loot/ ]]. //The National//.
+
+[[ ^87 ]]: [[ "Rose of the Nile" (2005) | #rose05 ]]
+
+[[ ^88 ]]: [[ Huttinger (2005) | #huttinger05 ]]
+
+[[ ^89 ]]: [[ "Antiquities wish list" (2005) | #antiquities05 ]]
+
+[[ ^90 ]]: [[ Ray (2007) | #ray69 ]] p. 4
+
+[[ ^91 ]]: [[ Bailey (2003) | #bailey03 ]]
+
+[[ ^92 ]]: Aruz, Joan; Fino, Elisabetta Valtz (2012). [[ //Afghanistan: Forging Civilizations Along the Silk Road// | https://books.google.com/books?id=p4_it5yw9WsC&pg=PA33 ]]. Metropolitan Museum of Art. p. 33. ISBN [[ 978-1-58839-452-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-58839-452-1 ]].
+
+[[ ^93 ]]: Dudney, Arthur (2015). [[ //Delhi: Pages From a Forgotten History// | https://books.google.com/books?id=OQ6fCwAAQBAJ&pg=PT55 ]]. Hay House, Inc. p. 55. ISBN [[ 978-93-84544-31-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-93-84544-31-7 ]].
+
+[[ ^94 ]]: Fred Woudhuizen, [[ The Lydian-Aramaic Bilingual Inscription from Sardis Reconsidered | https://www.academia.edu/37262803/The_Lydian_Aramaic_Bilingual_Inscription_from_Sardis_Reconsidered ]], p. 119
+
+[[ ^95 ]]: [[ //Oxford English dictionary// (1989) | #oup ]] s.v. "[[ Rosetta stone | http://dictionary.oed.com/cgi/findword?query_type=word&find=Find+word&queryword=Rosetta+stone ]]"  Deprecated link archived June 20, 2011, at [[ archive.today ]]
+
+[[ ^96 ]]: [[ "International Team" | #international ]]
+
+[[ ^97 ]]: [[ Simpson and Dean (2002) | #simpson02 ]]
+
+[[ ^98 ]]: [[ Cooper (2010) | #cooper10 ]]
+
+[[ ^99 ]]: [[ Nishimura and Tajik (1998) | #nishimura98 ]]
+
+[[ ^100 ]]: [[ "Rosetta's Comet Target 'Releases' Plentiful Water" | https://www.jpl.nasa.gov/news/rosettas-comet-target-releases-plentiful-water/ ]]. //NASA Jet Propulsion Laboratory (JPL)//. Retrieved 19 November 2024.

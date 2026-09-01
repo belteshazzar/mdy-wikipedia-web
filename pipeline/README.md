@@ -48,6 +48,34 @@ any of this costs nothing and the third is instant.
 - **`check-parse.mjs`** — every document parses and renders.
 - **`audit-images.mjs`** — the licences, and anything still unattributed.
 
+## The rewriting pass
+
+Phase 2. `docs/house-style.md` is the voice and the rules; `document.mjs` holds
+what is asked and what is done with the answer, so both transports below go
+through the same prompt and the same document surgery.
+
+```sh
+# with an API key in the environment
+node pipeline/rewrite.mjs babylon thoth          # → site/edited/en/*.mdy
+node pipeline/verify.mjs --all                   # → verdicts, back into them
+
+# without one: emit the request, answer it elsewhere, take the answer back
+node pipeline/rewrite.mjs --emit babylon         # → pipeline/requests/babylon.md
+node pipeline/rewrite.mjs --apply babylon pipeline/answers/babylon.json
+node pipeline/verify.mjs --emit babylon          # → pipeline/checks/babylon.md
+node pipeline/verify.mjs --apply babylon pipeline/reports/babylon.json
+```
+
+The emitted request is the request the driver would have sent, byte for byte,
+so answering it in a console or a subagent exercises the prompt rather than
+approximating it.
+
+`site/edited/` is committed — a rewrite is not reproducible and re-running it
+would not give the same words back. `site/corpus/` still is not.
+
+Each edited document names the revision it was rewritten from, so a re-import
+turns "which rewrites are stale" into a query rather than a memory.
+
 ## The site
 
 `site/` is the site root — the entry document, the layouts, and the corpus

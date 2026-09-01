@@ -1,0 +1,548 @@
++++
+title: Hanging Gardens of Babylon
+description: One of the Seven Wonders of the Ancient World
+hook: The Hanging Gardens are the only one of the Seven Wonders whose location
+  has never been definitively established, and no Babylonian text mentions
+  them at all. One scholar's answer is that they were real, and in the wrong
+  city.
+standfirst: One of the Seven Wonders of the Ancient World, said to have stood
+  at Babylon in what is now Iraq, and the only one that may never have been
+  built. What survives is five Greek and Roman descriptions, and an argument
+  about which city they describe.
+key-facts:
+  - name: Where it was said to be
+    value: Babylon, near present-day Hillah, Babil province, in Iraq
+  - name: When it was built
+    value: 6th century BC on the Wikidata record; the legend credits
+      Nebuchadnezzar II, who ruled between 605 and 562 BC
+  - name: Who built it, depending on who you read
+    value: Nebuchadnezzar II according to Berossus; a "Syrian king" according to
+      Diodorus Siculus and Quintus Curtius Rufus; the legendary queen
+      Semiramis in another tradition
+  - name: What survives of it
+    value: Nothing. No extant Babylonian texts mention the gardens and no
+      definitive archaeological evidence has been found in Babylon
+  - name: Also called
+    value: The Hanging Gardens of Semiramis, after the legendary queen also
+      credited with building them
+  - name: What it counts as
+    value: One of the Seven Wonders of the Ancient World; culture, Babylonia
+pull-quotes:
+  - text: In this palace he erected very high walls, supported by stone pillars;
+      and by planting what was called a pensile paradise, and replenishing it
+      with all sorts of trees, he rendered the prospect an exact resemblance
+      of a mountainous country. This he did to gratify his queen, because she
+      had been brought up in Media, and was fond of a mountainous situation.
+    attribution: Berossus, writing c. 290 BC, quoted by Josephus
+    section: descriptions-in-classical-literature
+  - text: Sennacherib king of the world king of Assyria. Over a great distance I
+      had a watercourse directed to the environs of Nineveh, joining together
+      the waters.... Over steep-sided valleys I spanned an aqueduct of white
+      limestone blocks, I made those waters flow over it.
+    attribution: Inscription on the aqueduct at Jerwan
+    section: identification-with-sennacheribs-gardens-at-nineveh
+  - text: a wonder for all peoples
+    attribution: Sennacherib, on his new palace and garden
+    section: identification-with-sennacheribs-gardens-at-nineveh
+timeline:
+  - when: 883–859 BC
+    what: "King Ashurnasirpal II creates a canal that cuts through the mountains,
+      and fruit tree orchards are planted: the Assyrian tradition of royal
+      garden building that Sennacherib inherits."
+  - when: c. 705/704 – c. 681 BC
+    what: Sennacherib reigns as king of Assyria and builds the gardens at his
+      palace at Nineveh that Stephanie Dalley identifies with the Hanging
+      Gardens.
+  - when: 669–631 BC
+    what: Ashurbanipal, Sennacherib's grandson, in whose North Palace at Nineveh a
+      bas relief shows a luxurious garden watered by an aqueduct.
+  - when: c. 645 BC
+    what: The "Garden Party" relief is carved in the North Palace at Nineveh,
+      showing Ashurbanipal and his wife under a pergola of climbing grapevines
+      among date palms and pine trees.
+  - when: between 605 and 562 BC
+    what: Nebuchadnezzar II rules Babylon; one legend has him build the gardens
+      for Queen Amytis.
+  - when: 6th century BC
+    what: Inception of the Hanging Gardens, on the Wikidata record.
+  - when: 331 BC
+    what: Before the Battle of Gaugamela, Alexander the Great camps for four days
+      near the aqueduct at Jerwan; the historians travelling with him record
+      the works in Greek.
+  - when: c. 290 BC
+    what: Berossus, a Babylonian priest of Marduk, writes the earliest known
+      mention of the gardens, and the only one to credit Nebuchadnezzar II
+      with them.
+  - when: c. 64 BC – 21 AD
+    what: Strabo, possibly following the lost account of Onesicritus, says the
+      gardens were watered by an Archimedes' screw from the Euphrates.
+  - when: c. 60–30 BC
+    what: Diodorus Siculus, drawing on Cleitarchus and Ctesias of Cnidus, gives
+      the measurements of a square garden built by a "Syrian king".
+  - when: c. 37–100 AD
+    what: Josephus quotes Berossus's description of the gardens.
+  - when: 1st century AD
+    what: Quintus Curtius Rufus puts the gardens on a citadel 20 stadia in
+      circumference; on the second theory, this is also about when they were
+      destroyed.
+  - when: 4th to 5th century AD
+    what: Philo of Byzantium, the paradoxographer, praises the engineering in A
+      Handbook to the Seven Wonders of the World.
+  - when: mid-19th century
+    what: Austin Henry Layard excavates parts of Sennacherib's palace at Nineveh;
+      his citadel plan shows contours consistent with the garden, though its
+      position has not been confirmed.
+image-plan:
+  - file: Hanging_Gardens_of_Babylon.jpg
+    role: hero
+    section: lead
+    caption: "A hand-coloured engraving, probably made in the 19th century after
+      the first excavations in the Assyrian capitals: the fabled gardens in
+      tiers, with the Tower of Babel behind. An imagined view, not a recorded
+      one."
+  - file: Ancient_seven_wonders_timeline.svg
+    role: inline
+    section: lead
+    caption: Timeline and map of the Seven Wonders of the Ancient World. The
+      Hanging Gardens are the one entry whose location has not been
+      definitively established.
+  - file: Waldeck_Hängende_Gärten_der_Semiramis.jpg
+    role: inline
+    section: descriptions-in-classical-literature
+    caption: Hanging gardens of Semiramis, by H. Waldeck. Construction has also
+      been attributed to the legendary queen, and the gardens have been called
+      the Hanging Gardens of Semiramis.
+  - file: Hanging_Gardens_of_Babylon.gif
+    role: full
+    section: identification-with-sennacheribs-gardens-at-nineveh
+    caption: "A copy of a bas relief from the North Palace of Ashurbanipal
+      (669–631 BC) at Nineveh, showing a luxurious garden watered by an
+      aqueduct: the contemporary Assyrian picture of a garden that Babylon has
+      never produced."
+  - file: Gardens_of_Ninevah.png
+    role: inline
+    section: identification-with-sennacheribs-gardens-at-nineveh
+    caption: An Assyrian wall relief of gardens at Nineveh. Several features
+      mentioned by the classical authors are discernible on these contemporary
+      images.
+  - file: Babylon_Babil_Iraq.jpg
+    role: inline
+    section: plants
+    caption: Date palms (Phoenix dactylifera) are a common tree species in
+      Babylon, and one of the plants that may have grown in the gardens.
+  - file: Assyrian_Relief_of_the_Banquet_of_Ashurbanipal_From_Nineveh_Gypsum_N_Palace_British_Museum_01.jpg
+    role: full
+    section: plants
+    caption: 'The "Garden Party" relief: Ashurbanipal and his wife seated under a
+      pergola of climbing grapevines with hanging grapes, small birds among
+      them, surrounded with fruiting date palms and pine trees. The head of a
+      defeated king hangs between the 1st and 2nd figures at left. North
+      Palace, Nineveh, c. 645 BC.'
+glossary:
+  - term: κρεμαστός (kremastós)
+    gloss: The Greek word the gardens are named from, literally 'overhanging';
+      broader than the modern English "hanging", it refers to trees planted on
+      a raised structure such as a terrace.
+  - term: Berossus
+    gloss: A Babylonian priest of Marduk whose writing of c. 290 BC is the
+      earliest known mention of the gardens and the only source to credit
+      Nebuchadnezzar II with them; it survives because Josephus quoted it.
+  - term: Archimedes' screw
+    gloss: The water-raising device Strabo says carried water from the Euphrates
+      up to the gardens; Sennacherib describes the making and operation of
+      screws to raise water in his own garden.
+  - term: plethron
+    gloss: The unit in which Diodorus gives the sides of the garden, approximately
+      four to a side. The article gives no modern equivalent.
+  - term: cubit
+    gloss: "The unit in which Diodorus gives the height of the uppermost gallery:
+      50 of them."
+  - term: stadion
+    gloss: "The unit in which Quintus Curtius Rufus gives the circumference of the
+      citadel the gardens stood on: 20 of them."
+  - term: bas relief
+    gloss: A carved wall panel; the ones from the North Palace of Ashurbanipal at
+      Nineveh show a luxurious garden watered by an aqueduct.
+  - term: '"lost-wax" process'
+    gloss: The casting technique Sennacherib said he was the first to replace,
+      with a new method used for his monumental (30 tonne) bronze castings.
+further:
+  - slug: babylon
+    why: The city the gardens were said to have been built in, where no extant
+      text mentions them and no definitive archaeological evidence has been
+      found.
+  - slug: assyria
+    why: Sennacherib's kingdom, with its tradition of royal garden building going
+      back to Ashurnasirpal II, and Stephanie Dalley's candidate for where the
+      gardens really were.
+  - slug: euphrates
+    why: The river Diodorus says the gardens were irrigated from, and which flowed
+      east of its current position in Nebuchadnezzar II's time, possibly over
+      whatever evidence survives.
+coordinates:
+  lat: 32.5355
+  lon: 44.4275
+image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Hanging_Gardens_of_Babylon.jpg
+images:
+  - file: Hanging_Gardens_of_Babylon.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hanging_Gardens_of_Babylon.jpg/500px-Hanging_Gardens_of_Babylon.jpg
+    width: 725
+    height: 502
+    caption: This hand-coloured engraving, probably made in the 19th century after
+      the first excavations in the Assyrian capitals, depicts the fabled
+      Hanging Gardens, with the Tower of Babel in the background.
+  - file: Ancient_seven_wonders_timeline.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ancient_seven_wonders_timeline.svg/250px-Ancient_seven_wonders_timeline.svg.png
+    width: 512
+    height: 614
+    caption: Timeline and map of the Seven Wonders of the Ancient World, including
+      the Hanging Gardens of Babylon
+  - file: Waldeck_Hängende_Gärten_der_Semiramis.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Waldeck_H%C3%A4ngende_G%C3%A4rten_der_Semiramis.jpg/330px-Waldeck_H%C3%A4ngende_G%C3%A4rten_der_Semiramis.jpg
+    width: 5970
+    height: 3228
+    caption: Hanging gardens of Semiramis, by H. Waldeck
+  - file: Hanging_Gardens_of_Babylon.gif
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hanging_Gardens_of_Babylon.gif/330px-Hanging_Gardens_of_Babylon.gif
+    width: 1008
+    height: 633
+    caption: This copy of a bas relief from the North Palace of Ashurbanipal
+      (669–631 BC) at Nineveh shows a luxurious garden watered by an aqueduct.
+  - file: Gardens_of_Ninevah.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gardens_of_Ninevah.png/250px-Gardens_of_Ninevah.png
+    width: 1126
+    height: 711
+    caption: Assyrian wall relief showing gardens in Nineveh
+  - file: Babylon_Babil_Iraq.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Babylon_Babil_Iraq.jpg/250px-Babylon_Babil_Iraq.jpg
+    width: 800
+    height: 597
+    caption: Date palms are a common tree species in Babylon.
+  - file: Assyrian_Relief_of_the_Banquet_of_Ashurbanipal_From_Nineveh_Gypsum_N_Palace_British_Museum_01.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Assyrian_Relief_of_the_Banquet_of_Ashurbanipal_From_Nineveh_Gypsum_N_Palace_British_Museum_01.jpg/960px-Assyrian_Relief_of_the_Banquet_of_Ashurbanipal_From_Nineveh_Gypsum_N_Palace_British_Museum_01.jpg
+    width: 7502
+    height: 3064
+    caption: The "Garden Party" relief depicting Ashurbanipal with his wife seated
+      under a pergola of climbing grapevines with hanging grapes, also small
+      birds, surrounded with fruiting date palms and pine trees. The head of a
+      defeated king hangs between the 1st and 2nd figures at left. North
+      Palace, Nineveh, c. 645 BC.
+sections:
+  - level: 2
+    id: descriptions-in-classical-literature
+    title: Descriptions in classical literature
+  - level: 2
+    id: historical-existence
+    title: Historical existence
+  - level: 2
+    id: identification-with-sennacheribs-gardens-at-nineveh
+    title: Identification with Sennacherib's gardens at Nineveh
+  - level: 2
+    id: plants
+    title: Plants
+wikidata:
+  id: Q41931
+  label: Hanging Gardens of Babylon
+  description: one of the seven wonders of ancient world
+  claims:
+    commons-category: Hanging Gardens of Babylon
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Babylon%3B_the_city_(above)%3B_the_hanging_gardens_of_Babylon_Wellcome_L0047679.jpg
+    instance-of:
+      - hanging garden
+      - Wonder of the Ancient World
+      - destroyed building or structure
+    part-of: Seven Wonders of the Ancient World
+    located-in-the-administrative-territorial-entity: Iraq
+    country: Assyrian Empire
+    location: Babylon
+    described-by-source:
+      - The Nuttall Encyclopædia
+      - Zedler, Großes vollständiges Universallexicon aller Wissenschaften und
+        Künste
+    coordinate-location:
+      lat: 32.5355
+      lon: 44.4275
+    on-focus-list-of-wikimedia-project:
+      value: Wikipedia:Vital articles/Level/4
+      when: 2022-10-31
+    topic-s-main-category: Category:Hanging Gardens of Babylon
+    culture: Babylonia
+    inception: 6th century BC
+link-titles:
+  akkadian-language: Akkadian language
+  alexander-the-great: Alexander the Great
+  almond: Almond
+  amytis-of-media: Amytis of Media
+  ancient-greece: Ancient Greece
+  aqueduct-bridge: Aqueduct (bridge)
+  archimedes-screw: Archimedes' screw
+  ash-tree: Ash tree
+  ashurnasirpal-ii: Ashurnasirpal II
+  assurbanipal: Assurbanipal
+  assyria: Assyria
+  austin-henry-layard: Austin Henry Layard
+  babylon: Babylon
+  babylon-governorate: Babylon Governorate
+  berossus: Berossus
+  british-museum: British Museum
+  cedrus: Cedrus
+  citadel: Citadel
+  cleitarchus: Cleitarchus
+  corbel-arch: Corbel arch
+  ctesias-of-cnidus: Ctesias of Cnidus
+  cubit: Cubit
+  cypress: Cypress
+  date-palm: Date palm
+  diodorus-siculus: Diodorus Siculus
+  ebony: Ebony
+  euphrates: Euphrates
+  fig: Fig
+  fir: Fir
+  garden: Garden
+  gaugamela: Gaugamela
+  grapevines: Grapevines
+  herodotus: Herodotus
+  hillah: Hillah
+  histories-herodotus: Histories (Herodotus)
+  introduced-species: Introduced species
+  iraq: Iraq
+  irrigation: Irrigation
+  jerwan: Jerwan
+  josephus: Josephus
+  juniper: Juniper
+  khinnis: Khinnis
+  limestone-block: Limestone block
+  lost-wax-casting: Lost-wax casting
+  marduk: Marduk
+  medes: Medes
+  mesopotamian: Mesopotamian
+  mosul: Mosul
+  myrrh: Myrrh
+  nebuchadnezzar-ii: Nebuchadnezzar II
+  neo-babylonian-empire: Neo-Babylonian Empire
+  nineveh: Nineveh
+  oak: Oak
+  olive: Olive
+  onesicritus: Onesicritus
+  oxford-university: Oxford University
+  paradoxography: Paradoxography
+  pergola: Pergola
+  philo-of-byzantium: Philo of Byzantium
+  pistacia-atlantica: Pistacia atlantica
+  plethron: Plethron
+  plum: Plum
+  pomegranate: Pomegranate
+  pyrus-communis: Pyrus communis
+  quince: Quince
+  quintus-curtius-rufus: Quintus Curtius Rufus
+  relief: Relief
+  rosewood: Rosewood
+  semiramis: Semiramis
+  sennacherib: Sennacherib
+  seven-wonders-of-the-ancient-world: Seven Wonders of the Ancient World
+  stadion-unit: Stadion (unit)
+  stephanie-dalley: Stephanie Dalley
+  strabo: Strabo
+  tamarix-aphylla: Tamarix aphylla
+  terebinth: Terebinth
+  terrace-building: Terrace (building)
+  tigris: Tigris
+  tower-of-babel: Tower of Babel
+  vitis-vinifera: Vitis vinifera
+  walnut: Walnut
+  willow: Willow
+source:
+  site: Wikipedia
+  lang: en
+  title: Hanging Gardens of Babylon
+  url: https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon
+  page-id: 66786
+  revision: "1349392265"
+  modified: 2026-04-17T03:16:43Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Hanging
+    Gardens of Babylon" (revision 1349392265), by Wikipedia contributors, used
+    under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/hanging-gardens-of-babylon.mdy
+  source-revision: "1349392265"
+  model: claude-opus-5
+  left-out: "Nothing in the article is unrepresented now that the lead has a
+    field of its own: the etymology, Nebuchadnezzar II and Amytis, Semiramis,
+    and the three theories are back above the first heading with footnotes [[
+    ^1 ]] to [[ ^11 ]] riding with the claims they support. What is still
+    worth flagging is the shape of some material rather than its absence.
+    Dalley's four bullet points and the two plant lists are left close to
+    their original form, as lists, rather than turned into continuous prose.
+    Both blockquotes are reproduced verbatim, and the inscription from the
+    aqueduct at Jerwan carries no footnote in the source, so it is quoted
+    without one. Two Wikidata claims went unused: described-by-source (The
+    Nuttall Encyclopædia; Zedler, Großes vollständiges Universallexicon aller
+    Wissenschaften und Künste) and the Wikipedia vital-articles listing,
+    neither of which tells a reader anything about the subject."
+  verified: true
+  verdict: minor-only
+  findings: 4
+  reviewed: false
++++
+The !!Hanging Gardens of Babylon!! were one of the [[ Seven Wonders of the Ancient World ]] listed by [[ Hellenic | ancient-greece ]] culture: an ascending series of tiered [[ gardens | garden ]] containing a wide variety of trees, shrubs, and vines, described as a remarkable feat of engineering and resembling a large green mountain constructed of mud bricks. They were said to have been built in the ancient city of [[ Babylon ]], near present-day [[ Hillah ]], [[ Babil province | babylon-governorate ]], in [[ Iraq ]]. The name is not quite the English word: it derives from the Greek κρεμαστός (//kremastós//, lit. 'overhanging'), which has a broader meaning than the modern English word "hanging" and refers to trees being planted on a raised structure such as a [[ terrace | terrace-building ]].[[ ^1 ]][[ ^2 ]][[ ^3 ]]
+
+According to one legend, the Hanging Gardens were built alongside a grand palace known as //The Marvel of Mankind//, by the [[ Neo-Babylonian | neo-babylonian-empire ]] King [[ Nebuchadnezzar II ]] (who ruled between 605 and 562 BC), for his [[ Median | medes ]] wife, Queen [[ Amytis | amytis-of-media ]], because she missed the green hills and valleys of her homeland. This was attested to by the Babylonian priest [[ Berossus ]], writing in about 290 BC, a description that was later quoted by [[ Josephus ]]. The construction of the Hanging Gardens has also been attributed to the legendary queen [[ Semiramis ]],[[ ^4 ]] and they have been called the //Hanging Gardens of Semiramis// as an alternative name.[[ ^5 ]]
+
+The Hanging Gardens are the only one of the Seven Wonders whose location has not been definitively established.[[ ^6 ]] No extant Babylonian texts mention the gardens, and no definitive archaeological evidence has been found in Babylon.[[ ^7 ]][[ ^8 ]] Three theories have been suggested to account for this. The first is that the gardens were purely mythical, and that the descriptions found in ancient Greek and Roman writings (including those of [[ Strabo ]], [[ Diodorus Siculus ]] and [[ Quintus Curtius Rufus ]]) represented a romantic ideal of an eastern garden.[[ ^9 ]] The second is that they existed in Babylon but were destroyed sometime around the first century AD.[[ ^10 ]][[ ^4 ]] The third is that the legend refers to a well-documented garden that the [[ Assyrian | assyria ]] King [[ Sennacherib ]] (704–681 BC) built in his capital city of [[ Nineveh ]] on the River [[ Tigris ]], near the modern city of [[ Mosul ]].[[ ^11 ]][[ ^1 ]]
+
+== Descriptions in classical literature
+
+There are five principal writers whose descriptions of Babylon exist in some form today. They concern themselves with the same handful of things: the size of the Hanging Gardens, their overall design, their means of [[ irrigation ]], and why they were built.
+
+The earliest of them is a Babylonian priest. [[ Josephus ]] (c. 37–100 AD) quotes a description of the gardens by [[ Berossus ]], a Babylonian priest of [[ Marduk ]],[[ ^6 ]] whose writing c. 290 BC is the earliest known mention of them.[[ ^5 ]] Berossus described the reign of Nebuchadnezzar II, and he is the only source to credit that king with the construction of the Hanging Gardens.[[ ^12 ]][[ ^13 ]]
+
+<blockquote
+  In this palace he erected very high walls, supported by stone pillars; and by
+  planting what was called a pensile paradise, and replenishing it with all
+  sorts of trees, he rendered the prospect an exact resemblance of a mountainous
+  country. This he did to gratify his queen, because she had been brought up in
+  Media, and was fond of a mountainous situation.[[ ^14 ]]
+
+[[ Diodorus Siculus ]] (active c. 60–30 BC) seems to have consulted the 4th century BC texts of both [[ Cleitarchus ]] (a historian of [[ Alexander the Great ]]) and [[ Ctesias of Cnidus ]]. He does not name Nebuchadnezzar; his builder is a "Syrian king". His garden is a square, each side approximately four [[ plethra | plethron ]] long, and tiered, with the uppermost gallery 50 [[ cubits | cubit ]] high. The walls, 22 feet thick, were made of brick. The bases of the tiered sections were sufficiently deep to provide root growth for the largest trees, and the water came from the nearby [[ Euphrates ]].[[ ^15 ]]
+
+[[ Quintus Curtius Rufus ]] (fl. 1st century AD) probably drew on the same sources as Diodorus.[[ ^16 ]] In his account the gardens stand on top of a [[ citadel ]], which was 20 [[ stadia | stadion-unit ]] in circumference, and the builder is again a "Syrian king", again for the reason that his queen missed her homeland.
+
+The account of [[ Strabo ]] (c. 64 BC – 21 AD) possibly based his description on the lost account of [[ Onesicritus ]] from the 4th century BC.[[ ^17 ]] Strabo is the one who says how the water got to the top: an [[ Archimedes' screw ]] leading to the gardens from the Euphrates river.
+
+The last of the classical sources thought to be independent of the others is //A Handbook to the Seven Wonders of the World// by the [[ paradoxographer | paradoxography ]] Philo of Byzantium, writing in the 4th to 5th century AD (not to be confused with [[ the earlier engineer of the same name | philo-of-byzantium ]]).[[ ^18 ]] His method of raising water by screw matches the one described by Strabo.[[ ^19 ]] What impresses Philo is the engineering and ingenuity of it: vast areas of deep soil, which had a tremendous mass, held so far above the natural grade of the surrounding land, and the irrigation techniques that kept them going.
+
+== Historical existence
+
+It is unclear whether the Hanging Gardens were an actual construction or a poetic creation, owing to the lack of documentation in contemporaneous Babylonian sources. The queen is missing as well: there is no mention of Nebuchadnezzar's wife Amytis, or of any other wives, although a political marriage to a Median or Persian would not have been unusual.[[ ^20 ]] Many records exist of Nebuchadnezzar's works, yet his long and complete inscriptions do not mention any garden.[[ ^21 ]]
+
+The case the other way is that the gardens were said to still exist at the time that later writers described them, and some of these accounts are regarded as deriving from people who had visited Babylon.[[ ^2 ]] [[ Herodotus ]], who describes Babylon in his //[[ Histories | histories-herodotus ]]//, does not mention the Hanging Gardens,[[ ^22 ]] although it could be that they were not yet well known to the Greeks at the time of his visit.[[ ^2 ]]
+
+To date, no archaeological evidence has been found at Babylon for the Hanging Gardens.[[ ^6 ]] It is possible that evidence exists beneath the Euphrates, which cannot be excavated safely at present: the river flowed east of its current position during the time of Nebuchadnezzar II, and little is known about the western portion of Babylon.[[ ^23 ]] Rollinger has suggested that Berossus attributed the Gardens to Nebuchadnezzar for political reasons, and that he had adopted the legend from elsewhere.[[ ^24 ]]
+
+== Identification with Sennacherib's gardens at Nineveh
+
+[[ Oxford | oxford-university ]] scholar [[ Stephanie Dalley ]] has proposed that the Hanging Gardens of Babylon were actually the well-documented gardens constructed by the [[ Assyrian | assyria ]] king [[ Sennacherib ]] (reigned c. 705/704 – c. 681 BC) for his palace at [[ Nineveh ]]. Dalley posits that during the intervening centuries the two sites became confused, and the extensive gardens at Sennacherib's palace were attributed to Nebuchadnezzar II's Babylon.[[ ^1 ]] Archaeological excavations have found traces of a vast system of aqueducts attributed to Sennacherib by an inscription on its remains, which Dalley proposes were part of an 80-kilometre (50 mi) series of canals, dams, and aqueducts used to carry water to Nineveh, with [[ water-raising screws | archimedes-screw ]] used to raise it to the upper levels of the gardens.[[ ^25 ]]
+
+Dalley bases her arguments on recent developments in the analysis of contemporary [[ Akkadian | akkadian-language ]] inscriptions. Her main points are:[[ ^26 ]]
+
+- The name //Babylon//, meaning "Gate of the Gods",[[ ^27 ]] was the name given to several [[ Mesopotamian ]] cities.[[ ^28 ]] Sennacherib renamed the city gates of [[ Nineveh ]] after gods,[[ ^29 ]] which suggests that he wished his city to be considered "a Babylon".
+- Only Josephus names Nebuchadnezzar as the king who built the gardens; although Nebuchadnezzar left many inscriptions, none mentions any garden or engineering works.[[ ^30 ]][[ Diodorus Siculus ]] and [[ Quintus Curtius Rufus ]] specify a "Syrian" king. By contrast, Sennacherib left written descriptions,[[ ^31 ]] and there is archaeological evidence of his water engineering.[[ ^32 ]] His grandson [[ Assurbanipal ]] pictured the mature garden on a sculptured wall panel in his palace.[[ ^33 ]]
+- Sennacherib called his new palace and garden "a wonder for all peoples". He describes the making and operation of screws to raise water in his garden.[[ ^34 ]]
+- The descriptions of the classical authors fit closely to these contemporary records. Before the Battle of [[ Gaugamela ]] in 331 BC [[ Alexander the Great ]] camped for four days near the aqueduct at [[ Jerwan ]].[[ ^35 ]] The historians who travelled with him would have had ample time to investigate the enormous works around them, recording them in Greek. These first-hand accounts have not survived into modern times, but were quoted by later Greek writers.
+
+King Sennacherib's garden was well-known not just for its beauty – a year-round oasis of lush green in a dusty summer landscape – but also for the marvelous feats of water engineering that maintained it.[[ ^36 ]] There was a tradition of Assyrian royal garden building behind it. King [[ Ashurnasirpal II ]] (883–859 BC) had created a canal, which cut through the mountains, and fruit tree orchards were planted; also mentioned were pines, cypresses and junipers, almond trees, date trees, ebony, rosewood, olive, oak, tamarisk, walnut, terebinth, ash, fir, pomegranate, pear, quince, fig, and grapes. A sculptured wall panel of Assurbanipal shows the garden in its maturity. One original panel[[ ^37 ]] and the drawing of another[[ ^38 ]] are held by the [[ British Museum ]], although neither is on public display. Several features mentioned by the classical authors are discernible on these contemporary images.
+
+Of Sennacherib's palace, he mentions the massive [[ limestone blocks | limestone-block ]] that reinforce the flood defences. Parts of the palace were excavated by [[ Austin Henry Layard ]] in the mid-19th century. His citadel plan shows contours which would be consistent with Sennacherib's garden, but its position has not been confirmed. The area has been used as a military base in recent times, making it difficult to investigate further.
+
+The irrigation of such a garden demanded an upgraded water supply to the city of Nineveh. The canals stretched over 50 kilometres (31 mi) into the mountains. Sennacherib was proud of the technologies he had employed and describes them in some detail on his inscriptions: at the headwater of Bavian ([[ Khinnis ]])[[ ^39 ]] his inscription mentions automatic sluice gates. An enormous [[ aqueduct | aqueduct-bridge#ancient-bridges-for-water ]] crossing the valley at [[ Jerwan ]] was constructed of over two million dressed stones. It used stone [[ arches | corbel-arch ]] and waterproof cement.[[ ^40 ]] On it is written:
+
+<blockquote
+  Sennacherib king of the world king of Assyria. Over a great distance I had a
+  watercourse directed to the environs of Nineveh, joining together the
+  waters.... Over steep-sided valleys I spanned an aqueduct of white limestone
+  blocks, I made those waters flow over it.
+
+Sennacherib claimed that he had built a "Wonder for all Peoples", and said he was the first to deploy a new casting technique in place of the [[ "lost-wax" process | lost-wax-casting ]] for his monumental (30 tonne) bronze castings. He was able to bring the water into his garden at a high level because it was sourced from further up in the mountains, and he then raised the water even higher by deploying his new water screws. This meant he could build a garden that towered above the landscape with large trees on the top of the terraces – a stunning artistic effect that surpassed those of his predecessors.
+
+== Plants
+
+The gardens, as depicted in artworks, featured blossoming flowers, ripe fruit, burbling waterfalls and terraces exuberant with rich foliage. Based on Babylonian literature, tradition, and the environmental characteristics of the area, some of the following plants may have been found in the gardens:[[ ^41 ]]
+
+- [[ Olive ]] (//Olea europaea//)
+- [[ Quince ]] (//Cydonia oblonga//)
+- [[ Common pear | pyrus-communis ]] (//Pyrus communis//)
+- [[ Fig ]] (//Ficus carica//)
+- [[ Almond ]] (//Prunus dulcis//)
+- [[ Common grape vine | vitis-vinifera ]] (//Vitis vinifera//)
+- [[ Date palm ]] (//Phoenix dactylifera//)
+- [[ Athel tamarisk | tamarix-aphylla ]] (//Tamarix aphylla//)
+- [[ Mt. Atlas mastic tree | pistacia-atlantica ]] (//Pistacia atlantica//)
+
+[[ Imported | introduced-species ]] plant varieties that may have been present in the gardens include [[ cedar | cedrus ]], [[ cypress ]], [[ ebony ]], [[ pomegranate ]], [[ plum ]], [[ rosewood ]], [[ terebinth ]], [[ juniper ]], [[ oak ]], [[ ash tree ]], [[ fir ]], [[ myrrh ]], [[ walnut ]], and [[ willow ]].[[ ^42 ]] Some of these plants were suspended over the terraces and draped over its walls with arches underneath.
+
+[[ ^1 ]]: Stephanie Dalley (1993). "Ancient Mesopotamian Gardens and the Identification of the Hanging Gardens of Babylon Resolved". //Garden History//. !!21!! (1): 7. doi:[[ 10.2307/1587050 | https://doi.org/10.2307%2F1587050 ]]. JSTOR [[ 1587050 | https://www.jstor.org/stable/1587050 ]].
+
+[[ ^2 ]]: Reade, Julian (2000). "Alexander the Great and the Hanging Gardens of Babylon". //[[ Iraq | iraq-journal ]]//. !!62!!: 195–217. doi:[[ 10.2307/4200490 | https://doi.org/10.2307%2F4200490 ]]. ISSN [[ 0021-0889 | https://search.worldcat.org/issn/0021-0889 ]]. JSTOR [[ 4200490 | https://www.jstor.org/stable/4200490 ]]. S2CID [[ 194130782 | https://api.semanticscholar.org/CorpusID:194130782 ]].
+
+[[ ^3 ]]: Foster, Karen Polinger (2004). "The Hanging Gardens of Nineveh". //Iraq//. !!66!!: 207–220. doi:[[ 10.2307/4200575 | https://doi.org/10.2307%2F4200575 ]]. ISSN [[ 0021-0889 | https://search.worldcat.org/issn/0021-0889 ]]. JSTOR [[ 4200575 | https://www.jstor.org/stable/4200575 ]].
+
+[[ ^4 ]]: [[ "The Hanging Gardens of Babylon" | https://web.archive.org/web/20200118052016/http://www.unmuseum.org/hangg.htm ]]. Archived from [[ the original | http://www.unmuseum.org/hangg.htm ]] on 18 January 2020. Retrieved 5 February 2014.
+
+[[ ^5 ]]: Cartwright M (July 2018). [[ "Hanging Gardens of Babylon" | https://www.worldhistory.org/Hanging_Gardens_of_Babylon/ ]]. //[[ World History Encyclopedia ]]//. Retrieved 15 September 2018.
+
+[[ ^6 ]]: Finkel (1988) p. 41.
+
+[[ ^7 ]]: Finkel (1988) p. 58.
+
+[[ ^8 ]]: Finkel, Irving; Seymour, Michael (2008). //Babylon: City of Wonders//. London: British Museum Press. p. 52. ISBN [[ 978-0-7141-1171-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-7141-1171-1 ]].``\{{cite book}}``:  CS1 maint: publisher location ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_publisher_location ]])
+
+[[ ^9 ]]: Finkel 2008
+
+[[ ^10 ]]: [[ "The Hanging Gardens of Babylon" | http://www.seven-wonders-world.com/hanging_gardens_babylon.htm ]]. Retrieved 5 February 2014.
+
+[[ ^11 ]]: [[ Dalley, Stephanie | stephanie-dalley ]] (2013). //The Mystery of the Hanging Garden of Babylon: an elusive World Wonder traced//. Oxford University Press. ISBN [[ 978-0-19-966226-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-966226-5 ]].
+
+[[ ^12 ]]: Finkel (2008) p. 108.
+
+[[ ^13 ]]: Dalley, Stephanie (1994). "Nineveh, Babylon and the Hanging Gardens: Cuneiform and Classical Sources Reconciled". //Iraq//. !!56!!: 45–58. doi:[[ 10.2307/4200384 | https://doi.org/10.2307%2F4200384 ]]. ISSN [[ 0021-0889 | https://search.worldcat.org/issn/0021-0889 ]]. JSTOR [[ 4200384 | https://www.jstor.org/stable/4200384 ]].
+
+[[ ^14 ]]: [[ //Joseph. contr. Appion.// | http://www.sacred-texts.com/cla/af/af05.htm ]] lib. 1. c. 19.—//Syncel. Chron.// 220.—//Euseb. Præp. Evan.// lib. 9.
+
+[[ ^15 ]]: Diodorus Siculus II.10-1-10
+
+[[ ^16 ]]: //History of Alexander// V.1.35-5
+
+[[ ^17 ]]: Strabo, //Geography// XVI.1.5, translation adapted from H.L. Jones, Loeb Classical Library edn (1961).
+
+[[ ^18 ]]: See Stephanie Dalley, "More about the Hanging Gardens", in //Of Pots and Pans: Papers on the Archaeology and History of Mesopotamia and Syria as presented to [[ David Oates | david-oates-archaeologist ]] on his 75th Birthday//, edited by L. al-Gailani-Werr, J.E. Curtis, H. Martin, A. McMahon, [[ J. Oates | joan-oates ]] and J.E. Reade, (London), pp. 67–73 ISBN [[ 1-897750-62-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-897750-62-5 ]].
+
+[[ ^19 ]]: Dalley (2013), p. 40. Dalley bases her translation on Brodersen (1992) who uses an early Greek text. A previous translation by [[ David Oates | david-oates-archaeologist ]], based on a Latin text, is found in Finkel (1988) pp. 45–46.
+
+[[ ^20 ]]: Finkel (2008) p. 109.
+
+[[ ^21 ]]: Dalley (2013)
+
+[[ ^22 ]]: Priestley, Jessica (2014). [[ //Herodotus and Hellenistic culture: Literary Studies in the Reception of the Histories// | https://books.google.com/books?id=IUbbAgAAQBAJ&pg=PA91 ]]. Oxford: Oxford University Press. p. 91. ISBN [[ 9780191510168 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780191510168 ]].
+
+[[ ^23 ]]: [[ Oates, Joan | joan-oates ]] (1986). //Babylon// (Revised ed.). London: Thames and Hudson. p. 144. ISBN [[ 0-500-27384-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-500-27384-7 ]].
+
+[[ ^24 ]]: [[ Rollinger, Robert | robert-rollinger ]] (2013). "Berossos and the Monuments". In Haubold, J.; et al. (eds.). //The World of Berossos//. Wiesbaden. p. 151. ISBN [[ 978-3-447-06728-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-447-06728-7 ]].``\{{cite book}}``:  CS1 maint: location missing publisher ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_location_missing_publisher ]])
+
+[[ ^25 ]]: Alberge, Dalya (5 May 2013). [[ "Babylon's hanging garden: ancient scripts give clue to missing wonder" | https://www.theguardian.com/science/2013/may/05/babylon-hanging-garden-wonder-nineveh ]]. //The Guardian//. Retrieved 6 May 2013.
+
+[[ ^26 ]]: Dalley, Stephanie (2013) //The Mystery of the Hanging Garden of Babylon: an elusive World Wonder traced//, Oxford University Press ISBN [[ 978-0-19-966226-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-966226-5 ]].
+
+[[ ^27 ]]: AR George, //Babylonian Topographical Texts//, (1992)
+
+[[ ^28 ]]: see for example //Cuneiform Texts in the British Museum//, Vol 19, page 25, line 25
+
+[[ ^29 ]]: Pongratz-Leisten, //Ina Sulmi Erub// (1994),
+
+[[ ^30 ]]: See Dalley (2013) ch 1 for a summary.
+
+[[ ^31 ]]: Especially: the Iraq Museum prism dated 694 BC published by A Heidel, //The Octagonal Sennacherib Prism in the Iraq Museum//, Sumer 9 (1953); and the British Museum prism BM103000 of the same date
+
+[[ ^32 ]]: T Jacobsen and S Lloyd, //Sennacherib's Aqueduct at Jerwan// (1935); Reade, //Studies in Assyrian Geography//, Revue d'Assyriologie 72 (1978); Channel 4 TV programme //Secret History: Finding Babylon's Hanging Garden//, 24 November 2013
+
+[[ ^33 ]]: AH Layard, //Discoveries in the Ruins of Nineveh and Babylon//, (1853)
+
+[[ ^34 ]]: Dalley (2013), pp. 62–63
+
+[[ ^35 ]]: R Lane Fox, //Alexander the Great// (1973)
+
+[[ ^36 ]]: Stephanie Dalley (2013). [[ //The Mystery of the Hanging Garden of Babylon: An Elusive World Wonder Traced// | https://books.google.com/books?id=7HUZYru5UiIC&q=alamittu+stephanie+dalley&pg=PA66 ]]. Oxford University Press. pp. 65–82. ISBN [[ 978-0-19-966226-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-966226-5 ]]. The quotations in this section are the translations of the author and are reproduced with the permission of OUP.
+
+[[ ^37 ]]: BM124939
+
+[[ ^38 ]]: Original Drawing IV 77
+
+[[ ^39 ]]: Layard (1853)
+
+[[ ^40 ]]: Jacobsen (1935)
+
+[[ ^41 ]]: [[ The Lost Gardens of Babylon - Guide to Ancient Plants | https://www.pbs.org/wnet/secrets/the-lost-gardens-of-babylon-guide-to-ancient-plants/1176/ ]] by [[ PBS ]], May 2, 2014
+
+[[ ^42 ]]: Stephanie Dalley (2013). [[ "page 48" | https://books.google.com/books?id=rkRoAgAAQBAJ&dq=seeds+plants&pg=PA48 ]]. //The Mystery of the Hanging Garden of Babylon//. OUP. ISBN [[ 978-0-19-163932-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-163932-6 ]].
