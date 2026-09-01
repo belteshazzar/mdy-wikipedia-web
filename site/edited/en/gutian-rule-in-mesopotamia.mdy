@@ -1,0 +1,946 @@
++++
+title: Gutian rule in Mesopotamia
+description: Gutian Dynasty of Sumer
+key-facts:
+  - name: Capital
+    value: Adab
+  - name: Languages
+    value: Gutian language and Sumerian language
+  - name: Came to power
+    value: c. 2220 BC
+  - name: Ended
+    value: c. 2119 BC
+  - name: First and last kings
+    value: Erridu-pizir (first), fl. c. 2220-2211 BC; Tirigan (last), fl. c.
+      2120-2119 BC
+  - name: Where that is now
+    value: Iraq
+image-plan:
+  - file: The_Gutians_capturing_a_Babylonian_city.jpg
+    role: hero
+    section: lead
+    caption: The Gutians attacking a Babylonian city, as Akkadians are making a
+      stand outside their city. A modern 19th century illustration, not an
+      ancient one.
+  - file: Utu-Hengal_victory_stele_AO_6018_(photograph_and_transcription_of_the_obverse).jpg
+    role: full
+    section: tablet-of-utu-hengal
+    caption: Utu-Hengal victory stele AO 6018, photographed alongside a
+      transcription of the obverse. Utu-hengal's long inscription described
+      the destruction of the Gutians under their king Tirigan, and it is what
+      makes the end of the dynasty feel certain. Louvre Museum.
+further:
+  - slug: akkadian-empire
+    why: The Gutian dynasty came to power after its decline and fall, and the
+      first attestation of Gutium is in the year names of Akkadian rulers.
+  - slug: gutians
+    why: Still fewer hard facts survive about the people than about their kings —
+      even their homeland is not known.
+  - slug: lagash
+    why: One of the Early Dynastic city-states that began to re-assert itself
+      while the Akkadian Empire fell into disarray and the Gutians pressed
+      their own claim to rulership.
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Votive_mace_head_mentioning_the_name_of_La-arab%2C_king_of_Gutium%2C_c._2150_BCE%2C_from_Sippar%2C_Iraq._British_Museum.jpg/3840px-Votive_mace_head_mentioning_the_name_of_La-arab%2C_king_of_Gutium%2C_c._2150_BCE%2C_from_Sippar%2C_Iraq._British_Museum.jpg
+images:
+  - file: The_Gutians_capturing_a_Babylonian_city.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Gutians_capturing_a_Babylonian_city.jpg/250px-The_Gutians_capturing_a_Babylonian_city.jpg
+    width: 850
+    height: 1156
+    caption: The Gutians attacking a Babylonian city, as Akkadians are making a
+      stand outside their city. Modern 19th century illustration.
+  - file: Utu-Hengal_victory_stele_AO_6018_(photograph_and_transcription_of_the_obverse).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Utu-Hengal_victory_stele_AO_6018_%28photograph_and_transcription_of_the_obverse%29.jpg/250px-Utu-Hengal_victory_stele_AO_6018_%28photograph_and_transcription_of_the_obverse%29.jpg
+    width: 5838
+    height: 7537
+    caption: Utu-Hengal victory stele AO 6018 (photograph and transcription of the
+      obverse). Louvre Museum
+infobox:
+  capital: Adab
+  common-languages: Gutian language and Sumerian language
+  government: Monarchy
+  fl-c-2220-2211-bc-mc: Erridu-pizir (first)
+  fl-c-2120-2119-bc-mc: Tirigan (last)
+  historical-era: Bronze Age
+  established: c. 2220 BC
+  disestablished: c. 2119 BC
+  today-part-of: Iraq
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 2
+    id: contemporary-sources
+    title: Contemporary sources
+  - level: 3
+    id: shar-kali-sharri-year-names
+    title: Shar-kali-sharri Year Names
+  - level: 3
+    id: ur-nammu-year-name
+    title: Ur-Nammu Year Name
+  - level: 3
+    id: tablet-of-lugalannatum
+    title: Tablet of Lugalannatum
+  - level: 3
+    id: cylindrical-tablet-of-nammahni
+    title: Cylindrical Tablet of Nammahni
+  - level: 3
+    id: tablet-of-išarum
+    title: Tablet of Išarum
+  - level: 3
+    id: tablet-of-utu-hengal
+    title: Tablet of Utu-hengal
+  - level: 2
+    id: in-later-literature
+    title: In later literature
+  - level: 3
+    id: great-revolt-against-naram-sin
+    title: Great Revolt against Naram-Sin
+  - level: 3
+    id: geographical-treatise-on-sargon-of-akkads-empire
+    title: Geographical Treatise on Sargon of Akkad's Empire
+  - level: 3
+    id: weidner-chronicle
+    title: Weidner Chronicle
+  - level: 3
+    id: cuthean-legend-of-naram-sin
+    title: Cuthean Legend of Naram-Sin
+  - level: 3
+    id: tablet-of-islikun-dagan
+    title: Tablet of Islikun-Dagan
+  - level: 3
+    id: lugal-ane-mundu-inscription
+    title: Lugal-Ane-mundu inscription
+  - level: 3
+    id: curse-of-akkad
+    title: Curse of Akkad
+  - level: 2
+    id: religion
+    title: Religion
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+wikidata:
+  id: Q1064034
+  label: Gutian dynasty of Sumer
+  description: Gutian Dynasty of Sumer
+  claims:
+    instance-of:
+      - value: Wikimedia list article
+      - value: historical period
+        from: 2199 BC
+        to: 2129 BC
+    commons-category: Gutian dynasty of Sumer
+    category-related-to-list: Category:Gutian dynasty of Sumer
+    family: Gutian dynasty of Sumer
+    country: Sumer
+link-titles:
+  abolition-of-monarchy: Abolition of monarchy
+  adab-city: Adab (city)
+  akkadian-empire: Akkadian Empire
+  akkadian-period: Akkadian Period
+  apilkin: Apilkin
+  babylonian-chronicles: Babylonian Chronicles
+  british-museum: British Museum
+  cuthean-legend-of-naram-sin: Cuthean Legend of Naram-Sin
+  elulmesh: Elulmesh
+  enshakushanna: Enshakushanna
+  erridupizir: Erridupizir
+  gutian-people: Gutian people
+  gutium: Gutium
+  hablum: Hablum
+  history-of-sumer: History of Sumer
+  ibate: Ibate
+  ibranum: Ibranum
+  igeshaush: Igeshaush
+  ilaba: Ilaba
+  ilulu: Ilulu
+  imta: Imta
+  inimabakesh: Inimabakesh
+  inkishush: Inkishush
+  irarum: Irarum
+  king-of-the-four-corners: King of the Four Corners
+  kurum: Kurum
+  la-erabum: La-erabum
+  lagash: Lagash
+  louvre-museum: Louvre Museum
+  lugal-anne-mundu: Lugal-Anne-Mundu
+  lugalanatum: Lugalanatum
+  lugalannatum: Lugalannatum
+  mesopotamia: Mesopotamia
+  middle-chronology: Middle chronology
+  naram-suen-of-akkad: Naram-Suen of Akkad
+  ninura: Ninura
+  puzur-suen-gutian-king: Puzur-Suen (Gutian king)
+  reign: Reign
+  sargon-of-akkad: Sargon of Akkad
+  sarlagab: Sarlagab
+  shar-kali-sharri: Shar-Kali-Sharri
+  sharkalisharri: Sharkalisharri
+  short-chronology: Short chronology
+  shulme: Shulme
+  siium: Siium
+  simurrum: Simurrum
+  sippar: Sippar
+  son-of-a-nobody: Son of a nobody
+  sumer: Sumer
+  sumerian-king-list: Sumerian King List
+  sumerian-language: Sumerian language
+  tempore: Tempore
+  third-dynasty-of-ur: Third Dynasty of Ur
+  throne: Throne
+  tirigan: Tirigan
+  umma: Umma
+  umman-manda: Umman Manda
+  ur-nammu: Ur-Nammu
+  uruk: Uruk
+  utu-hengal: Utu-hengal
+  yarla: Yarla
+  yarlagab: Yarlagab
+  yarlaganda: Yarlaganda
+source:
+  site: Wikipedia
+  lang: en
+  title: Gutian rule in Mesopotamia
+  url: https://en.wikipedia.org/wiki/Gutian_rule_in_Mesopotamia
+  page-id: 1153667
+  revision: "1357966856"
+  modified: 2026-06-05T19:38:52Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Gutian
+    rule in Mesopotamia" (revision 1357966856), by Wikipedia contributors,
+    used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/gutian-rule-in-mesopotamia.mdy
+  source-revision: "1357966856"
+  model: claude-opus-5
+  left-out: "\"Contemporary sources\" and \"In later literature\" have no prose
+    of their own in the source — each heading is followed straight away by its
+    subsections — so their bodies are empty rather than filled with invented
+    linking text. \"List of rulers\" is a table and is reproduced close to as
+    it was, with only its introductory paragraph rewritten. Several figures in
+    the source (the votive macehead of La-erabum and its inscription, the
+    Tablet of Lugalannatum, the detail of the name \"Gutium\", and the Tirigan
+    detail from the Utu-hengal stele) appear only as image URLs with no file
+    name in the record's image list, so they are not in the image plan; the
+    La-erabum macehead caption that sits above the first heading, and its
+    footnote [[ ^4 ]], therefore had nowhere to go and is dropped. The
+    Lugal-Ane-mundu quotation carries no footnote of its own in the source, so
+    none is attached to it here."
+  verified: false
+  reviewed: false
++++
+Near the end of the 3rd millennium BC, after the decline and fall of the [[ Akkadian Empire ]], Mesopotamia came under the !!Gutian dynasty!! ([[ Sumerian | sumerian-language ]]: 𒄖𒋾𒌝𒆠, gu-ti-um^^KI^^), a line of kings originating among the [[ Gutian people ]]. How long Gutian kings held rulership over [[ Mesopotamia ]] is uncertain, with estimates ranging from a few years up to a century. They were originally thought to be a horde that swept in and brought down Akkadian and [[ Sumerian | sumer ]] rule; they are now known to have been in the area for at least a century by then. By the end of the Akkadian period the Sumerian city of [[ Adab | adab-city ]] was occupied by the Gutians, who made it their capital.[[ ^1 ]][[ ^2 ]] The end of the dynasty is marked by the accession of [[ Uruk ]] ruler [[ Utu-hengal ]] (c. 2119 - 2112 BC), marking the short-lived "Fifth dynasty of Uruk", followed by Ur ruler [[ Ur-Nammu ]] (c. 2112 – 2094 BC), founder of the [[ Third Dynasty of Ur ]].
+
+There are very few hard facts available regarding the rulers of the Gutian dynasty, still fewer about the Gutian people; even their homeland is not known. What survives is a few royal inscriptions from one ruler, [[ Erridu-pizir | erridupizir ]], an inscribed macehead from another, [[ La-erabum ]], a handful of passing mentions from contemporary Mesopotamian rulers, and one long inscription by [[ Uruk ]] ruler [[ Utu-hengal ]]. Beyond those there are the many versions of the [[ Sumerian King List ]], most recensions of which were written long after the time of the Gutian dynasty and give different, sometimes contradictory accounts. The earliest version of the Sumerian King List, written in the Ur III period, not long afterward in time, does not mention the Gutians, and lists a Gutian ruler, [[ Tirigan ]], as a king of Adab.[[ ^3 ]] Yet the SKL remains our only source for most Gutian kings.
+
+Still, clearly the Gutian rulers had a huge impact on late 3rd millennium BC Mesopotamia, reflected in the vast array of literary compositions featuring them, continuing for almost two millennia.
+
+== History
+
+Gutium was once believed to be known from the 24th century BC, well before the time of the Gutian dynasty. That rested on a tablet purportedly from the Early Dynastic ruler of Adab [[ Lugal-Anne-Mundu ]], whose inscription included Gutium in the area paying tribute to the ruler. The inscription is now understood to be an Old Babylonian period literary composition written many centuries after the time of Lugal-Anne-Mundu.[[ ^5 ]][[ ^6 ]] The first attestation of Gutium came from early in the Sargonic period, when the Gutians are mentioned in year names of Akkadian rulers and established a capital at the prominent Early Dynastic Sumerian city of [[ Adab | adab-city ]].[[ ^1 ]]
+
+The full history of the Gutian dynasty is not known. What is known is that it lies roughly between two major empires of the late 3rd millennium BC, the Akkadian Empire and the later Ur III Empire. Towards the end of the reign of the last notable Akkadian ruler, [[ Shar-Kali-Sharri ]] (c. 2218-2193 BC), the Akkadian Empire went on to a period of disarray under several weak rulers, beginning a tumultuous time in Mesopotamia as Early Dynastic city-states such as [[ Lagash ]] and [[ Uruk ]] began to re-assert themselves. The Gutian newcomers in [[ Adab | adab-city ]] also asserted their claim to rulership.[[ ^1 ]] This contentious time ended with the rise of Ur III under [[ Ur-Nammu ]] (c. 2112 - 2094 BC).[[ ^7 ]]
+
+The end point of the Gutian dynasty is felt to be certain, and the reason is a long inscription of Utu-hengal (c. 2119 – 2112 BC), who was ruler of Uruk and thought to be the brother of the first Ur II ruler Ur-Nammu, describing the destruction of the Gutians under their king [[ Tirigan ]].[[ ^8 ]] For what happened up to then our only sources are the many conflicting recensions of the [[ Sumerian King List ]] (SKL) and the various literary compositions that were produced in the following centuries and millennia. Neither are historically reliable sources but can be mined for insights into the events of the Gutian period.[[ ^3 ]][[ ^9 ]][[ ^10 ]][[ ^11 ]][[ ^12 ]]
+
+== Contemporary sources
+
+
+
+== Shar-kali-sharri Year Names
+
+In the period before the Gutian dynasty gained rulership over Mesopotamia the Akkadian Empire controlled the region. Two year names of Akkadian ruler Shar-kali-sharri — the last before the empire began to unravel — record interaction with Gutium.
+
+- "In the year in which Szarkaliszarri laid the foundations of the temples of the goddess Annunitum and of the god Aba in Babylon and when he defeated Szarlak, king of Gutium"[[ ^13 ]]
+- "Year in which the yoke was imposed on Gutium".[[ ^14 ]]
+
+== Ur-Nammu Year Name
+
+One year name of Ur ruler Ur-Nammu mentions Gutium. It is uncertain if the year name was from the time when he was only governor at Ur, leaving the possibility it was a reflected year name of Utu-hengal, or was later after he had assumed rulership over Mesopotamia.
+
+- "Year Gutium was destroyed"[[ ^15 ]][[ ^16 ]]
+
+== Tablet of Lugalannatum
+
+The tablet marks the building of a temple, E-gidru, in Umma. In passing it mentions the name of a Gutian ruler.
+
+- "Lugal-ana-tuma, governor of Umma — 35 years having past since (the territory of) Umma was divided up — built the E-gidru at Umma, drove into the earth its foundation pegs, (and) saw after everything that was necessary therein. At that time, Si'um was king of Gutium."[[ ^17 ]]
+
+== Cylindrical Tablet of Nammahni
+
+The Umma ruler Nammahni, marking the construction of a temple to the goddess [[ Ninura ]], mentioned in passing the name of a Gutian ruler.
+
+- "For the  goddess Ninura, mother of Umma, Namahni, governor of Umma, built her E-ula temple (and) restored  it. At that time Iarlagan  was king of Gutium."[[ ^17 ]]
+
+== Tablet of Išarum
+
+A tablet from Umma, dating to the waning days of the Akkadian empire, mentions a Gutian governor.
+
+- "Thus says Išarum to Me-sag “As to the fact that Lugal-ĝiš and? Ka-Utu \... How can my loyal servant, who has held my feet, become hostile? (By) Ištar and Ilaba I swear that he shall approach me. I will not set the weapon of blood against him. Henceforth, I shall appoint him anew as the Gutian ensi. \..."[[ ^18 ]]
+
+== Tablet of Utu-hengal
+
+An inscription of the Uruk ruler Utu-hengal, known from 3 Old Babylonian copies, commemorated the defeat of Gutian (and its king Tirigan) and the return of rulership to Sumer. Note the Mesopotamian names of Tirigan's generals.
+
+- "The god Enlil — (as for) Gu[tium], the fanged serpent of the mountain, who acted with violence against the gods, who carried off the kingship of the land of Sumer to the mountain land, who fi[ll]ed the land of Sumer with wickedness, who took away the wife from the one who had a wife, who took away the child from the one who had a child, who put wickedness and evil in the land (of Sumer) — the god Enlil, lord of the foreign lands, commissioned Utu-hegal, the mighty man, king of Uruk, king of the four quarters, the king whose utterance cannot be countermanded, to destroy their name. (Thereupon) he (Utu-hegal) went to the goddess Inanna, his lady (and) prayed to her,(saying) 'My lady, lioness of battle, who butts the foreign lands, the god Enlil has com[missioned me]to bring back the kingship of the land of Sumer. [May you be my] a[lly] The enemy hordes had  trampled(everything). Tiri[gan], the king of Gutium, had \..., (but) no one set out against him. He had seized both banks of the Tigris River. In the south, in Sumer, he had blocked (water from) the fields. In the north, he had closed off the roads (and) caused tall grass to grow up along the highway(s) of the land. (But), the king granted power by the god Enlil, the one chosen in the heart of the goddess Inanna — Utu-hegal — the mighty man, went forth from  Uruk (and) set up \... in the temple of the god Iškur. He called  out to the citizens of his city,(saying): 'The god Enlil has given Gutium to me. My lady, the goddess  Inanna, is my ally. The god Dumuzi-ama-ušumgal-ana has declared 'It is a matter for me'. The god Gilgameš, son of the goddess Ninsun, has assigned him (Dumuzi) to me as bailiff. He made the citizens of Uruk (and) Kullab happy. His city followed him as if they were (just) one person. He (Utu-hegal) arranged in correct array his select elite troops. After he (Utu-hegal) departed (from) the temple of the god Iškur, on the fourth  day he set up\... in the  city of Nagsu on the Iturungal canal. On the fifth day he set up \... in the shrine Ili-tappe. He captured Ur-Ninazu (and) Nabi-Enlil, generals whom he (Tirigan) had sent as envoys to the land of Sumer, (and) put handcuffs  on them. After he departed (from) the shrine Ili-tappe, on the sixth day he set up \... at Karkar. He proceeded to the god Iskur (and) prayed  to him, (saying) 'O god Iškur! The god Enlil has given me (his) weapon. May you be my ally'. In the middle of that night he [got up], and at day break [proceeded] (to a point) upstream from Adab. He [prayed] to him (Utu), (saying) 'O god Utu! The god Enlil has given Gutium to me. May you be my ally' In that place, against the Gutians, he laid a trap (and) led (his) troops against them. Utu-hegal, the mighty man, defeated  their generals. Then Tirigan, king of Gutium, fled alone on foot. In the place where he (tried) to save his life — Dabrum — he (at  first) was safe. (But) since  the citizens  of Dabrum realized  that Utu-hegal was the king to whom the god Enlil had granted power, they did not let Tirigan go. The envoys of Utu-hegal captured Tirigan along  with his wife (and) children at Dabrum. They put handcuffs and a blindfold on him. Utu-hegal made him lie at the feet of the  god U[tu] and placed his foot on his neck. Gutium, the fanged  serpent of the mountain — \... drank water (from[?])  the watercourses.... (Utu-hegal) removed  \... He brought back the kingship  of the land of Sumer."[[ ^8 ]]
+
+== In later literature
+
+
+
+== Great Revolt against Naram-Sin
+
+This source lives on the borderline between history and literary composition. Some elements of it are from Old Babylonian copies of Naram-Sin royal inscriptions. That core was transformed into a wide variety of literary efforts with names like "Naram-Sin and the Enemy Hordes". A relevant one is "Gula-AN and the Seventeen Kings against Naram-Sin". The narrative is that Gutian king Gula-AN, leading 17 other kings, attacks Akkad and is defeated, captured, and then paroled by Naram-Sin, only to attack again resulting in a huge battle the results of which are unknown.
+
+- "\... Gula-AN, king of  Gut(i)um, [. . .], whom I [defeated] in my strong battle [. . .], and whom I had released to return to his land (but) PN [he joined], he who is not  ̆flesh nor blood, verily he is [. . .].  In the Amanus the cedar mountain his oracles [he consulted]. Before the great divides of the [silver(?)] mountains, its gate he captured and stealthily in the night he attacked and my a[rmed forces] he did kill, he did decimate and he did [trample down]. [He made] a confusing mass of  their corpses. The depressions and the wadis were [filled] with their blood. Until the sunrise, for six double hours he [made a forced march]. They did not let (me?) rest [. . .]. He pursued me, he [attacked] me frontally fu[riously]. 90,000 of  my troops, who were under the command of [PN], he did kill, he did decimate and he did tra[mple down]. In my 360,000 troops I [had confidence]. [[ Son of a nobody ]] [. . .], He encircled me. For the sake(?) of  life of Sargon [my fore(father)] \..."[[ ^19 ]] (BM 79987)
+
+== Geographical Treatise on Sargon of Akkad's Empire
+
+Another source of uncertain historicity or dating. It is known from a single tablet, findspot thought to be Qalat Sherqat, which was translated in 1925, in the early days of cuneiform studies. Gutium is listed among the area in Sargon's domain.
+
+- "\... From Sinu (?) to [ ] the land of Armani. From [ ]izzat to Abul-Adad, the land of Gutium. From Abul-Adad to Hallab, the land of Akkad. \... From Hisat to Sippar, the land of Akkad. From Tirqan of Gutium to Uzarilulu, the land of Edamarus. From Uzarilulu to Bit-Sin, the land of Mari. \..."[[ ^20 ]] (KAV 092)
+
+== Weidner Chronicle
+
+The Weidner Chronicle is a literary composition, known from 7 mostly fragmentary Neo-Assyrian and Neo-Babylonian (1st Millennium BC) recensions, purportedly a copy of a damaged Old Babylonian Period (1894 - 1595 BC) original which described events of centuries earlier. In the case of the Gutians the premise is that they destroyed the Akkadian Empire because Naram-Sin was mean to the city of Babylon.[[ ^21 ]] There are scholars who state that the description of the Gutian rule over parts of Mesopotamia was fiction, or that it at least gave undue importance to the Guti horde. This is believed to be perpetuated by the chroniclers of Uruk to turn Utu-hegal's minor victory into an event of universal significance for the purpose of solidifying support for his emergent regime. This view is based on the varying accounts of the surviving manuscripts, with many of them in total disagreement as to the length of the king's reign and even the identities of the Guti kings.[[ ^12 ]] The [[ Weidner Chronicle | babylonian-chronicles ]] accounts for the Gutian period as follows:
+
+- "Naram-Sin defiled the people of Babylon. Twice he called up the horde of Gutium against it. \... his people as with a goad \... he gave his sovereignty to the horde of Gutium. Gutium was an oppressive people. They did not know divine worship; rites and regulations they did not know how to perform properly. [Utuhegal] the "fisherman" caught fish as offering-presents on the edge of the seacoast. Until that fish was offered to the [Lord Prince] Marduk, it was not offered to any other god. The Gutians took the cooked fish away from him before it was offered. By his exalted command he took away sovereignty from the horde and gave it to Utuhegal"[[ ^22 ]]
+
+== Cuthean Legend of Naram-Sin
+
+In this text, the Gutians are "scattered" by an unknown horde, the [[ Umman Manda ]] on their way to attacking Naram-Sin, with the Gutians then picking up the pieces afterward.[[ ^23 ]] An excerpt reads
+
+- "\... They scattered the (army of  the upper) seas, and reached Gutium. \... They scattered (the army of) Gutium and reached Elam. \..."[[ ^24 ]]
+
+== Tablet of Islikun-Dagan
+
+A tablet, thought to be from Uruk and from the period following the fall of the Akkadian Empire Islikun-Dagan, known from another tablet read:
+
+- "Islikun-Dagan to \... Cultivate the land and preserve the cattle. Up to now the Gutian did not cultivate the land. Don't say 'How so?' You are strong, so settle Akkad (?),  and do you cultivate the land. Let the store-places and the  ponds be sought (?) out for you for an approach, and have the cattle brought into the city. With regard to (?) the cattle the Gutians have reared (?), now as for myself I shall say nothing, I shall pay you the money. I swear by the life of Sharkalisharri  that if you will indeed deliver the cattle the Gutians reared (?) of your own free will, I will transport (? lit. carry), and  that I will pay you the money when (the cattle) come to  me.[[ ^25 ]]
+
+== Lugal-Ane-mundu inscription
+
+Originally thought to be an authentic inscription of the 24th century BC ruler, it is now known to be a pseudoautobiographical literary composition. It is known from 3 Old Babylonian tablet copies. The fragmentary text lists areas that are tributary to Lugal-Ane-mundu.[[ ^5 ]]
+
+- "\... The \... of broad Gutium \... seized the \... in Zulum, \... The chief ministers of the Cedar Mountain, Elam, Marḫaši, Gutium, Subartu, Amurru, Sutium and \... The \... of the Cedar Mountain, Elam, Marḫaši, Gutium, \... Subartu, Amurru, Sutium, and the Mountain(?) of Eanna"
+
+== Curse of Akkad
+
+More commonly called the Curse of Agade (known by Sumerians as "The Frown of Enlil"), this is a Sumerian literary composition, many sources and versions of which have been found, purporting to describe the fall of the Akkadian Empire because it had been cursed by the gods. On the Gutians it says:
+
+- "Enlil brought out of the mountains those who do not resemble other people, who are not reckoned as part of the Land, the Gutians, an unbridled people, with human intelligence but canine instincts and monkeys' features. Like small birds they swooped on the ground in great flocks. Because of Enlil, they stretched their arms out across the plain like a net for animals. Nothing escaped their clutches, no one left their grasp. Messengers no longer traveled the highways, the courier's boat no longer passed along the rivers. The Gutians drove the trusty (?) goats of Enlil out of their folds and compelled their herdsmen to follow them, they drove the cows out of their pens and compelled their cowherds to follow them. Prisoners manned the watch. Brigands occupied the highways. The doors of the city gates of the Land lay dislodged in mud, and all the foreign lands uttered bitter cries from the walls of their cities. They established gardens for themselves within the cities, and not as usual on the wide plain outside. As if it had been before the time when cities were built and founded, the large arable tracts yielded no grain, the inundated tracts yielded no fish, the irrigated orchards yielded no syrup or wine, the thick clouds (?) did not rain, the macgurum plant did not grow."[[ ^26 ]][[ ^27 ]]
+
+== Religion
+
+We know little about what deities the Gutian rulers worshiped, though we do know that they did follow gods — both their own, and those of Mesopotamia — based on inscriptions of their first known ruler, Erridu-pizir, such as this one:
+
+- "[Upon his enemy] he inflicted punishment. Their survivors delivered (lit. “took here”) their offerings – their donkeys, their horses, their large and small cattle. They embraced the feet of the god of Gutium and Erridu-pizir, (saying): “Let our lord \... (rest broken)"[[ ^28 ]]
+
+and
+
+- "[The  god \... is his (personal) god], [the goddess  Esta]r-[Annuni]tum (is) his \..., (and) the god [[ Ilaba ]], the mighty one of the gods, is his clan (god). Erridu-pizir,  the mighty, king of Gutium and of the  four quarters: \... and dedicated a statue of myself to the god Enlil in Nippur. As for the one who removes  this inscription, may the gods Samas, Astar, [and] Ila[ba] tear out his foundations and destroy his  [p]rogeny."[[ ^29 ]]
+
+And on the mace head of a later Gutian ruler La-erabum
+
+- "Lasirab, the mig[hty, ki]ng of [G]utium, Lacuna \... fash[ioned] and dedicated (this mace) .As for the one who removes this inscription and writes his own name (instead), may the god of Gutium, Astar, and Sin tear out his foundations and destroy his progeny."[[ ^29 ]]
+
+One possible god of Gutium has been proposed, Abublab, identified with Ninurta.[[ ^30 ]]
+
+== List of rulers
+
+Aside from a few inscriptions, mostly from a single ruler, Erridupizir, most of what is known about the names and reigns of Gutian rulers comes from the //[[ Sumerian King List ]] (SKL)//. There are about two dozen sources for the //SKL//, most of them fragments, and they often conflict. The earliest source is from the Ur III period, well after some of the events described. Unlike the literary narratives, which have the Akkadian Empire falling to the Gutian hordes, the //SKL// has rulership passing from Akkad to Uruk, which then falls to the Gutians. It is also unknown if the dynasties listed in the //SKL// are all sequential or if there is overlap in rulership. Note that the order and dates vary in different recensions of the //SKL//. The listed reign lengths throughout much of the Gutian period are comparatively short and uniform. The following list should not be considered complete:
+
+<table
+  <tbody
+    <tr
+      <th>#
+
+      <th>Portrait or inscription
+
+      <th>Ruler
+
+      <th>Approx. date and length of reign
+
+      <th>Comments, notes, and references for mentions
+
+    <tr
+      <td colspan="5">!![[ Akkadian period ]] (c. 2350 – c. 2154 BC)!!
+
+    <tr
+      <th colspan="5">[[ Gutian kings not on the SKL | history-of-sumer#gutian-period ]] (c. 2350 – c. 2211 BC)
+
+    <tr
+      <td>1st
+
+      <td
+
+      <td>Sarlak
+
+      <td>//Uncertain,// fl. c. 2350 – c. 2250 BC
+        <br
+
+        ([[ MC | middle-chronology ]])
+
+        <br
+
+        fl. c. 2250 – c. 2150 BC([[ SC | short-chronology ]])
+
+      <td
+        - Historicity uncertain
+        - //[[ temp. | tempore ]]// of [[ Enshakushanna ]]
+        - //temp.// of [[ Sargon | sargon-of-akkad ]]
+
+    <tr
+      <td>2nd
+
+      <td
+
+      <td>Gula-AN
+
+      <td>//Uncertain,// fl. c. 2250 – c. 2220 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2150 – c. 2147 BC(SC)
+
+      <td
+        - Historicity uncertain
+        - //temp.// of [[ Naram-Suen | naram-suen-of-akkad ]] according to the narrative //Gula-AN and the Seventeen Kings against Naram-Sin//
+
+    <tr
+      <td>3rd
+
+      <td
+
+      <td>[[ Erridupizir ]]
+        <br
+
+        𒂊𒅕𒊑𒁺𒉿𒍣𒅕
+
+      <td>//Uncertain,// [[ reigned | reign ]] c. 2220 – c. 2211 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 2147 – c. 2138 BC(SC)(9 years)
+
+      <td
+        - //temp.// of Naram-Suen
+        - //temp.// of [[ Ka-Nisba | simurrum#rulers-of-simurrum ]]
+        - Thought to be the, //"king without a name"// mentioned on the //SKL//
+        - Held the title of, //"[[ King of the Four Corners ]]"//
+        - Known from a number of royal inscriptions[[ ^29 ]]
+
+    <tr
+      <th colspan="5">Gutian kings on the SKL (c. 2211 – c. 2120 BC)
+
+    <tr
+      <td colspan="5"
+        <blockquote
+          //"Then the reign of [[ Uruk ]] was [[ abolished | abolition-of-monarchy ]]
+          and the [[ kingship | throne ]] was taken to the land of [[ Gutium ]]. In the
+          land of Gutium, at first no king was famous; they ruled themselves for 5
+          years."//
+
+        — //[[ Sumerian King List ]] (SKL)//
+
+    <tr
+      <td>4th
+
+      <td rowspan="9"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Gutians_capturing_a_Babylonian_city.jpg/120px-The_Gutians_capturing_a_Babylonian_city.jpg" height="163" width="120"
+
+      <td>[[ Imta ]]
+
+      <td>//Uncertain,// fl. c. 2211 – c. 2208 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2138 – c. 2135 BC(SC)(3 years)
+
+      <td
+
+    <tr
+      <td>5th
+
+      <td>[[ Inkishush ]]
+        <br
+
+        𒅔𒆠𒋙
+
+      <td>//Uncertain,// fl. c. 2208 – c. 2202 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2135 – c. 2129 BC(SC)(6 or 7 years)
+
+      <td
+        - //temp.// of Naram-Suen
+
+    <tr
+      <td>6th
+
+      <td>[[ Sarlagab ]]
+        <br
+
+        𒉌𒆸𒆷𒃮
+
+      <td>//Uncertain,// fl. c. 2202 – c. 2196 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2129 – c. 2126 BC(SC)(6 years)
+
+      <td
+        - Same person as Sharlag (?)
+        - //temp.// of [[ Sharkalisharri ]][[ ^31 ]]
+
+    <tr
+      <td>7th
+
+      <td>[[ Shulme ]]
+        <br
+
+        𒂄𒈨𒂊
+
+      <td>//Uncertain,// fl. c. 2196 – c. 2190 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2126 – c. 2120 BC(SC)(6 years)
+
+      <td
+
+    <tr
+      <td>8th
+
+      <td>[[ Elulmesh ]]
+        <br
+
+        𒋛𒇻𒇻𒈨𒌍
+
+      <td>//Uncertain,// fl. c. 2190 – c. 2184 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2120 – c. 2114 BC(SC)(6 or 7 years)
+
+      <td
+        - Same person as [[ Elulu | ilulu ]] (?)
+
+    <tr
+      <td>9th
+
+      <td>[[ Inimabakesh ]]
+        <br
+
+        𒄿𒉌𒈠𒁀𒆠𒌍
+
+      <td>//Uncertain,// fl. c. 2184 – c. 2179 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2114 – c. 2109 BC(SC)(5 or 6 years)
+
+      <td
+
+    <tr
+      <td>10th
+
+      <td>[[ Igeshaush ]]
+        <br
+
+        𒄿𒄄𒌍𒀀𒍑
+
+      <td>//Uncertain,// fl. c. 2179 – c. 2173 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2109 – c. 2103 BC(SC)(3 or 6 years)
+
+      <td
+
+    <tr
+      <td>11th
+
+      <td>[[ Yarlagab ]]
+        <br
+
+        𒅀𒅈𒆷𒃮
+
+      <td>//Uncertain,// fl. c. 2173 – c. 2158 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2103 – c. 2088 BC(SC)(5 or 15 years)
+
+      <td
+
+    <tr
+      <td>12th
+
+      <td>[[ Ibate ]]
+        <br
+
+        𒄿𒁀𒋼
+
+      <td>//Uncertain,// fl. c. 2158 – c. 2155 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2088 – c. 2085 BC(SC)(3 years)
+
+      <td
+
+    <tr
+      <td colspan="5">!!Gutian period (c. 2154 – c. 2119 BC)!!
+
+    <tr
+      <td>13th
+
+      <td
+
+      <td>[[ Yarla ]]
+        <br
+
+        𒅀𒅈𒆷
+
+      <td>//Uncertain,// fl. c. 2155 – c. 2152 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2085 – c. 2082 BC(SC)(3 years)
+
+      <td
+
+    <tr
+      <td>14th
+
+      <td
+
+      <td>[[ Kurum ]]
+        <br
+
+        𒆪𒊒𒌝
+
+      <td>//Uncertain,// fl. c. 2152 – c. 2151 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2082 – c. 2081 BC(SC)(1 or 3 years)
+
+      <td
+
+    <tr
+      <td>15th
+
+      <td
+
+      <td>[[ Apilkin ]]
+        <br
+
+        𒀀𒉈𒆠𒅔
+
+      <td>//Uncertain,// fl. c. 2151 – c. 2148 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2081 – c. 2078 BC(SC)(3 years)
+
+      <td
+
+    <tr
+      <td>16th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Votive_mace_head_mentioning_the_name_of_La-arab%2C_king_of_Gutium%2C_c._2150_BCE%2C_from_Sippar%2C_Iraq._British_Museum.jpg/120px-Votive_mace_head_mentioning_the_name_of_La-arab%2C_king_of_Gutium%2C_c._2150_BCE%2C_from_Sippar%2C_Iraq._British_Museum.jpg" height="116" width="120"
+
+      <td>[[ La-erabum ]]
+        <br
+
+        𒆷𒂍𒊏𒁍𒌝
+
+      <td>//Uncertain,// fl. c. 2148 – c. 2146 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2078 – c. 2076 BC(SC)(2 years)
+
+      <td
+        - Known from a alabaster mace head inscription found at [[ Sippar ]][[ ^29 ]]
+
+    <tr
+      <td>17th
+
+      <td
+
+      <td>[[ Irarum ]]
+        <br
+
+        𒄿𒊏𒊒𒌝
+
+      <td>//Uncertain,// fl. c. 2146 – c. 2144 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2076 – c. 2074 BC(SC)(2 years)
+
+      <td
+
+    <tr
+      <td>18th
+
+      <td
+
+      <td>[[ Ibranum ]]
+        <br
+
+        𒅁𒊏𒉡𒌝
+
+      <td>//Uncertain,// fl. c. 2144 – c. 2143 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2074 – c. 2073 BC(SC)(1 year)
+
+      <td
+
+    <tr
+      <td>19th
+
+      <td
+
+      <td>[[ Hablum ]]
+        <br
+
+        𒄩𒀊𒈝
+
+      <td>//Uncertain,// fl. c. 2143 – c. 2141 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2073 – c. 2071 BC(SC)(2 years)
+
+      <td
+
+    <tr
+      <td>20th
+
+      <td
+
+      <td>[[ Puzur-Suen | puzur-suen-gutian-king ]]
+        <br
+
+        𒅤𒊭𒀭𒂗𒍪
+
+      <td>//Uncertain,// fl. c. 2141 – c. 2134 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2071 – c. 2064 BC(SC)(7 years)
+
+      <td
+        - Son of Hablum
+
+    <tr
+      <td>21st
+
+      <td
+
+      <td>[[ Yarlaganda ]]
+        <br
+
+        𒅀𒅈𒆷𒂵𒀭𒁕
+
+      <td>//Uncertain,// fl. c. 2134 – c. 2127 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2064 – c. 2057 BC(SC)(7 years)
+
+      <td
+        - Known from inscription of Nammahni of Umma.[[ ^29 ]]
+
+    <tr
+      <td>22nd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tablet_of_Lugalannatum.jpg/120px-Tablet_of_Lugalannatum.jpg" height="79" width="120"
+
+      <td>[[ Siium ]]
+        <br
+
+        𒋛𒅇𒌝
+
+      <td>//Uncertain,// fl. c. 2127 – c. 2120 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2057 – c. 2050 BC(SC)(7 years)
+
+      <td
+        - //temp.// of [[ Lugalannatum ]]
+        - Known from a foundation inscription at [[ Umma ]][[ ^32 ]]
+
+    <tr
+      <td>23rd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tirigan_and_%28Tiri.....Lugal_Gutium%29_on_the_Victory_Stele_of_Utu-Hengal.jpg/120px-Tirigan_and_%28Tiri.....Lugal_Gutium%29_on_the_Victory_Stele_of_Utu-Hengal.jpg" height="197" width="120"
+
+      <td>[[ Tirigan ]]
+        <br
+
+        𒋾𒌷𒂵𒀀𒀭
+
+      <td>//Uncertain,// fl. c. 2120 – c. 2119 BC
+        <br
+
+        (MC)
+
+        <br
+
+        fl. c. 2055, c. 2050 BC(SC)(40 days)
+
+      <td
+        - //temp.// of [[ Utu-hengal ]]
+        - //temp.// of [[ Ur-Nammu ]]
+        - Defeated by the [[ Uruk ]] king (Utu-hengal) according to victory stele erected in Uruk[[ ^33 ]]
+
+    <tr
+      <td colspan="5"
+        <blockquote
+          //"23 kings; they ruled for 125 years and 40 days. Then the army of Gutium was
+          defeated and the kingship was taken to Uruk."//
+
+        — //SKL//
+
+[[ ^1 ]]: M. Molina, "The palace of Adab during the Sargonic period", D. Wicke (ed.), //Der Palast im antiken und islamischen Orient, Colloquien der Deutschen Orient-Gesellschaft 9//, Wiesbaden: Harrassowitz 2019, pp. 151-20
+
+[[ ^2 ]]: Susanne Paulus, "Fraud, Forgery, and Fiction: Is There Still Hope for Agum-Kakrime?", Journal of Cuneiform Studies, vol. 70, pp. 115–66, 2018
+
+[[ ^3 ]]: Steinkeller, Piotr., "An Ur III Manuscript of the Sumerian King List.", In //Literatur, Politic und Recht in Mesopotamien: Festschrift für Claus Wilcke//, ed. Walther Sallaberger et al. 267–92, 2003 Orientalia Biblica et Christiana 14. Wiesbaden: Harrassowitz
+
+[[ ^4 ]]: [[ //The Sumerian Kings List// | https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/as11.pdf ]] (PDF). p. 119, note 305.
+
+[[ ^5 ]]: Douglas Frayne, "ADAB". Presargonic Period: Early Periods, Volume 1 (2700-2350 BC), RIM The Royal Inscriptions of Mesopotamia Volume 1, Toronto: University of Toronto Press, pp. 17-34, 2008 ISBN [[ 9780802035868 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780802035868 ]]
+
+[[ ^6 ]]: Gelb, I. J., "The Date of the Cruciform Monument of Maništušu", Journal of Near Eastern Studies, vol. 8, no. 4, pp. 346–48, 1949
+
+[[ ^7 ]]: Frayne, Douglas, "Ur-Nammu E3/2.1.1". Ur III Period (2112-2004 BC), Toronto: University of Toronto Press, pp. 5-90, 1997
+
+[[ ^8 ]]: Douglas Frayne, "Uruk" in "Sargonic and Gutian Periods (2234-2113 BC)", RIM The Royal Inscriptions of Mesopotamia Volume 2, Toronto: University of Toronto Press, pp. 274-296, 1993 ISBN [[ 0-8020-0593-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8020-0593-4 ]]
+
+[[ ^9 ]]: Michalowski, Piotr, "History as Charter: Some Observations on the Sumerian King List", JAOS 103, pp. 237–47, 1983
+
+[[ ^10 ]]: Vincente, Claudine-Adrienne, "The Tall Leilān Recension of the Sumerian King List", ZA 85: 234–70, 1995
+
+[[ ^11 ]]: Hallo, W. W., ""Beginning and End of the Sumerian King List in the Nippur Recension", JCS 17: 52–57, 1963
+
+[[ ^12 ]]: Jean-Jacques Glassner, "Mesopotamian Chronicles", Society of Biblical Literature, Atlanta, 2004 ISBN [[ 1-58983-090-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-58983-090-3 ]]
+
+[[ ^13 ]]: Lambert, Wilfred G., "Babylon: Origins". Babylon: Wissenskultur in Orient und Okzident", edited by Eva Cancik-Kirschbaum, Margarete van Ess and Joachim Marzahn, Berlin, Boston: De Gruyter, pp. 71-76, 2011
+
+[[ ^14 ]]: F. Thureau-Dangin, "Recueil des tablettes chaldéennes", Paris 1903
+
+[[ ^15 ]]: [[ Marcel Sigrist and Peter Damerow, "Mesopotamian Year Names", Cuneiform Digital Library Initiative, 2001 | https://cdli.ucla.edu/tools/yearnames/HTML/T6K1.htm ]]
+
+[[ ^16 ]]: Huber, Peter J., "Astronomical Dating of Ur III and Akkad", Archiv Für Orientforschung, vol. 46/47, pp. 50–79, 1999
+
+[[ ^17 ]]: Douglas Frayne, "Umma" in "Sargonic and Gutian Periods (2334-2119 BC)", RIM The Royal Inscriptions of Mesopotamia Volume 2, Toronto: University of Toronto Press, pp. 261-268, 1993 ISBN [[ 0-8020-0593-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8020-0593-4 ]]
+
+[[ ^18 ]]: Kraus, Nicholas. "The Weapon of Blood: Politics and Intrigue at the Decline of Akkad" Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 108, no. 1, pp. 1-9, 2018
+
+[[ ^19 ]]: Westenholz, Joan Goodnick. "Chapter 9. The Great Revolt against Naram-Sin". Legends of the Kings of Akkade: The Texts, University Park, USA: Penn State University Press, pp. 221-262, 1997
+
+[[ ^20 ]]: Albright, W. F., "A Babylonian Geographical Treatise on Sargon of Akkad's Empire", Journal of the American Oriental Society, vol. 45, pp. 193–245, 1925
+
+[[ ^21 ]]: Finkelstein, J. J., "Mesopotamian Historiography", Proceedings of the American Philosophical Society, vol. 107, no. 6, pp. 461–72, 1963
+
+[[ ^22 ]]: Al-Rawi, F. N. H. “Tablets from the Sippar Library. I. The ‘Weidner Chronicle’: A Supposititious Royal Letter Concerning a Vision.” Iraq, vol. 52, pp. 1–13, 1990
+
+[[ ^23 ]]: O. R. Gurney, "The Sultantepe Tablets (Continued). IV. The Cuthaean Legend of Naram-Sin", Anatolian Studies, vol. 5, pp. 93–113, 1955
+
+[[ ^24 ]]: Westenholz, Joan Goodnick, "Chapter 10. “Naram-Sin and the Enemy Hordes”: The “Cuthean Legend” of Naram-Sin". Legends of the Kings of Akkade: The Texts, University Park, USA: Penn State University Press, pp. 263-368, 1997
+
+[[ ^25 ]]: Smith, Sidney, "Notes on the Gutian Period", Journal of the Royal Asiatic Society of Great Britain and Ireland, no. 2, pp. 295–308, 1932
+
+[[ ^26 ]]: Cooper, Jerrold S., The Curse of Agade., The Johns Hopkins University Press: Baltimore/London, 1983
+
+[[ ^27 ]]: Jacobsen, Thorkild, The Harps that Once .... Sumerian Poetry in Translation. Yale University Press: New Haven/London, 1987
+
+[[ ^28 ]]: Markina, Ekaterina, "They embraced his feet, saying \... and ezēbum as idioms of loyalty and defiance in Sargonic", Zeitschrift für Assyriologie und Vorderasiatische Archäologie, vol. 100, no. 2, pp. 165-168, 2010
+
+[[ ^29 ]]: Douglas Frayne, "Gutium" in "Sargonic and Gutian Periods (2234-2113 BC)", RIM The Royal Inscriptions of Mesopotamia Volume 2, Toronto: University of Toronto Press, pp. 219-230, 1993 ISBN [[ 0-8020-0593-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8020-0593-4 ]]
+
+[[ ^30 ]]: [[ https://babylonian-collection.yale.edu/sites/default/files/files/Litke%2C%20Richard%20L_%20-%20A%20Reconstruction%20of%20the%20Assyro-Babylonian%20God-Lists_%20TBC%203%2C%201998.pdf | https://babylonian-collection.yale.edu/sites/default/files/files/Litke%2C%20Richard%20L_%20-%20A%20Reconstruction%20of%20the%20Assyro-Babylonian%20God-Lists_%20TBC%203%2C%201998.pdf ]] Litke,  Richard  L., "A Reconstruction of the Assyro-Babylonian God-Lists, AN: ^^[[ d | dingir ]]^^A NU-UM and AN: ANU SA AMÉLI", New Haven: Yale University, 1998
+
+[[ ^31 ]]: Douglas Frayne, "Akkad" in "Sargonic and Gutian Periods (2234-2113 BC)", RIM The Royal Inscriptions of Mesopotamia Volume 2, Toronto: University of Toronto Press, pp. 5-218, 1993 ISBN [[ 0-8020-0593-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8020-0593-4 ]]
+
+[[ ^32 ]]: W. Sallaberger, "Der kultische Kalender der Ur III - Zeit I", Berlin - New York 1993
+
+[[ ^33 ]]: THUREAU-DANGIN, Fr. (1912). "La Fin de la Domination Gutienne". //Revue d'Assyriologie et d'archéologie orientale//. !!9!! (3): 111–120. ISSN [[ 0373-6032 | https://search.worldcat.org/issn/0373-6032 ]]. JSTOR [[ 23283609 | https://www.jstor.org/stable/23283609 ]].

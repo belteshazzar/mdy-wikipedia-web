@@ -256,7 +256,9 @@ rewritten:
     the source by a stray \", ;\" which I have tidied to a semicolon; the
     romanized forms //nnw//, //Noun// and //nnwt// and both hieroglyphic
     strings are transcribed unchanged."
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 1
   reviewed: false
 +++
 !!Nun!! ("The Inert One") or !!Nu!! ("Watery One") (Ancient Egyptian: 𓏌𓐱𓏌𓐱𓏌𓐰𓇯𓈗𓀭, [[ romanized | romanization-of-ancient-egyptian ]]: //nnw//; Coptic: Ⲛⲟⲩⲛ, romanized: //Noun//) is, in [[ ancient Egyptian religion ]], the personification of the [[ primordial watery | cosmic-ocean ]] [[ abyss | abyssal-zone ]] which existed at the time of creation and from which the creator sun god [[ Ra ]] arose.[[ ^1 ]]

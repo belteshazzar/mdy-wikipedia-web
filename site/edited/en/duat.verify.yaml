@@ -1,0 +1,32 @@
+slug: duat
+findings:
+  - kind: unsupported
+    quote: "The //Duat// met the material world at a particular place: burial
+      chambers formed touching-points between the mundane world and the realm
+      of the dead.[[ ^9 ]]"
+    why: The source says only "To connect this realm to the material world, burial
+      chambers formed touching-points between the mundane world and the Duat."
+      It describes burial chambers (plural) as touching-points and never says
+      the Duat met the material world at "a particular place" — the singular
+      framing is the rewriter's addition.
+    severity: minor
+  - kind: unsupported
+    quote: For the deceased the important location was 'The Hall of Truth', often
+      depicted alongside the '[[ Weighing of the Heart ]]' ritual in //Books
+      of the Dead// and mentioned in the sixth hour of Ra's journey.[[ ^11
+      ]][[ ^7 ]]
+    why: The source says "Important locations pertaining to the deceased would be
+      'The Hall of Truth'" — an indefinite plural. The rewrite's definite
+      singular ("the important location") asserts it was the single important
+      location, which the source does not claim.
+    severity: minor
+  - kind: unsupported
+    quote: Only after confirming that they were sinless was the heart of the
+      deceased weighed by [[ Anubis ]] against the feather of [[ Maat ]],
+      which represents truth and justice.
+    why: The source reads "After confirming that they were sinless, the heart of
+      the deceased was weighed by Anubis against the feather of Maat". The
+      added "Only" makes the sinless declaration a strict precondition for the
+      weighing, a stronger claim than the source's plain sequence.
+    severity: minor
+verdict: minor-only

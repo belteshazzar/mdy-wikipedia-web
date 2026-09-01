@@ -1,0 +1,1603 @@
++++
+title: Lagash
+description: Ancient Mesopotamian city state
+key-facts:
+  - name: Where it is
+    value: Al-Shatrah, Dhi Qar Governorate, Iraq
+  - name: Region
+    value: Mesopotamia
+  - name: Built
+    value: 3rd millennium BC
+  - name: Periods it was lived in
+    value: Early Dynastic, Sargonic, Ur III
+  - name: Size of the site
+    value: 400 to 600 ha
+  - name: Excavated
+    value: 1887, 1968–1976, 1990, 2019–present
+image-plan:
+  - file: Relief_Ur-Nanshe_Louvre_AO2344.jpg
+    role: hero
+    section: lead
+    caption: "Ur-Nanshe at work on a temple: at the top he creates the foundation
+      for a shrine, at the bottom he presides over the dedication. Almost all
+      his known inscriptions deal with the construction of temples. Louvre."
+  - file: Sumer_map.jpg
+    role: full
+    section: history
+    caption: Lagash in green, before the expansion of the Akkadian Empire; the
+      territory of Sumer appears in orange. Circa 2350 BC.
+  - file: P1130735_Louvre_stèle_des_Vautours_rwk.JPG
+    role: full
+    section: eannatum
+    caption: Eannatum, King of Lagash, riding a war chariot, in a detail of the
+      Stele of the Vultures. His name "Eannatum" (𒂍𒀭𒈾𒁺) is written
+      vertically in two columns in front of his head. Louvre Museum.
+  - file: This_cuneiform_text_gives_the_city_of_Umma's_account_of_its_long-running_border_dispute_with_Lagash._Circa_2350_BCE._From_Umma,_Iraq._The_British_Museum,_London.jpg
+    role: inline
+    section: eannatum
+    caption: "Umma's side of the argument: a vase of King Gishakidu, king of Umma
+      and son of Ur-Lumma, giving the city of Umma's account of the
+      long-running border dispute with Lagash. It redefines the frontier by
+      recording the locations of stelae to the god Shara, and the distances
+      between them. Circa 2350 BC, from Umma, Iraq. Ref. 140889, British
+      Museum, London."
+  - file: Vase_Entemena_Louvre_AO2674.jpg
+    role: inline
+    section: entemena
+    caption: Entemena's inscribed silver vase, c. 2400 BC. Louvre.
+  - file: Vessel_fragment_depicting_the_goddess_Nisaba_(?)_and_an_inscription_from_Entemena,_ruler_of_Lagash,_circa_2430_BC,_chlorite,_Pergamon_Museum,_Berlin.jpg
+    role: inline
+    section: entemena
+    caption: The goddess Nisaba, on a vessel fragment carrying an inscription of
+      Entemena, ruler of Lagash (2430 BC). Steatite; Vorderasiatisches Museum
+      Berlin.
+  - file: Gudea_of_Lagash_Girsu.jpg
+    role: full
+    section: gudea
+    caption: Gudea of Lagash, who ruled c. 2144–2124 BC. Diorite statue found at
+      Girsu. Louvre Museum.
+  - file: Hammurabi's_Babylonia_1.svg
+    role: inline
+    section: archaeology
+    caption: At the time of Hammurabi, Lagash was located near the shoreline of
+      the gulf.
+  - file: Tell_al_Hiba_(22795101268).jpg
+    role: full
+    section: archaeology
+    caption: "What is left: one of the largest archaeological sites in the region,
+      and at its highest only 6 meters above the plain."
+  - file: Gudea_Lagashki_inscription_in_linear_script_and_cuneiform_script_on_clay.jpg
+    role: inline
+    section: archaeology
+    caption: The name Lagash Ki (𒉢𒁓𒆷𒆠, "Country of Lagash") on inscriptions of
+      Gudea, in monumental linear script and cuneiform script on clay.
+  - file: 3-D_reconstruction_of_Area_A.png
+    role: inline
+    section: level-i-architecture
+    caption: "Area A reconstructed by Keifuhui, from the front: the oval wall
+      enclosing the courtyard, with the temple-building reached by steps."
+  - file: 3-D_reconstruction_of_Area_A_by_Keifuhui.png
+    role: inline
+    section: level-i-architecture
+    caption: Another view of the same reconstruction of Area A by Keifuhui.
+  - file: 3-D_reconstruction_of_Area_B_by_Dcldeobi.png
+    role: inline
+    section: the-3hb-building
+    caption: Area B reconstructed by Dcldeobi, from the front.
+  - file: 3-D_reconstruction_of_Area_B_by_Dcldeobi_(Back).png
+    role: inline
+    section: the-4hb-building
+    caption: The same reconstruction of Area B by Dcldeobi, seen from the back.
+  - file: 3-D_reconstruction_of_Area_G.jpg
+    role: inline
+    section: area-g
+    caption: "Area G reconstructed by Nic9137: a building complex and a curving
+      wall, separated by around 30-40m."
+  - file: 3-D_reconstruction_of_Area_G_of_Lagash.jpg
+    role: inline
+    section: western-building-complex
+    caption: Another view of Area G by Nic9137.
+further:
+  - slug: akkadian-empire
+    why: Lagash was under its control for several centuries, and Rimush's
+      reconquest cost the cities of Ur and Lagash 8,049 killed by his own
+      record.
+  - slug: gutian-rule-in-mesopotamia
+    why: Whether Gudea's rich, independent Lagash sat inside the Gutian century or
+      after it is the article's live argument.
+  - slug: mesopotamia
+    why: Eannatum turned Lagash into a major power extending throughout large
+      areas of it.
+coordinates:
+  lat: 31.41138889
+  lon: 46.40722222
+images:
+  - file: Sumer_map.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sumer_map.jpg/330px-Sumer_map.jpg
+    width: 713
+    height: 715
+    caption: Location of Lagash before the expansion of the Akkadian Empire (in
+      green). The territory of Sumer appears in orange. Circa 2350 BC
+  - file: Relief_Ur-Nanshe_Louvre_AO2344.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Relief_Ur-Nanshe_Louvre_AO2344.jpg/250px-Relief_Ur-Nanshe_Louvre_AO2344.jpg
+    width: 2100
+    height: 1680
+    caption: Relief of Ur-Nanshe. At the top he creates the foundation for a
+      shrine, at the bottom he presides over the dedication (Louvre).
+  - file: Vase_Entemena_Louvre_AO2674.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vase_Entemena_Louvre_AO2674.jpg/250px-Vase_Entemena_Louvre_AO2674.jpg
+    width: 1700
+    height: 2560
+    caption: Entemena's inscribed silver vase, c. 2400 BC (Louvre)
+  - file: P1130735_Louvre_stèle_des_Vautours_rwk.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/P1130735_Louvre_st%C3%A8le_des_Vautours_rwk.JPG/250px-P1130735_Louvre_st%C3%A8le_des_Vautours_rwk.JPG
+    width: 2600
+    height: 2595
+    caption: Eannatum, King of Lagash, riding a war chariot (detail of the Stele
+      of the Vultures). His name "Eannatum" (𒂍𒀭𒈾𒁺) is written vertically
+      in two columns in front of his head. Louvre Museum.
+  - file: This_cuneiform_text_gives_the_city_of_Umma's_account_of_its_long-running_border_dispute_with_Lagash._Circa_2350_BCE._From_Umma,_Iraq._The_British_Museum,_London.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/This_cuneiform_text_gives_the_city_of_Umma%27s_account_of_its_long-running_border_dispute_with_Lagash._Circa_2350_BCE._From_Umma%2C_Iraq._The_British_Museum%2C_London.jpg/250px-thumbnail.jpg
+    width: 4288
+    height: 2848
+    caption: Vase of King Gishakidu, king of Umma, and son of Ur-Lumma, giving the
+      city of Umma's account of its long-running border dispute with Lagash.
+      The vase redefines the frontier by recording the locations of stelae to
+      the god Shara, as well as the distances between them. Circa 2350 BC.
+      From Umma, Iraq. Ref. 140889, British Museum, London.
+  - file: Gudea_of_Lagash_Girsu.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gudea_of_Lagash_Girsu.jpg/250px-Gudea_of_Lagash_Girsu.jpg
+    width: 2600
+    height: 3900
+    caption: Gudea of Lagash (ruled c. 2144–2124 BC). Diorite statue found at
+      Girsu (Louvre Museum)
+  - file: Hammurabi's_Babylonia_1.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hammurabi%27s_Babylonia_1.svg/250px-Hammurabi%27s_Babylonia_1.svg.png
+    width: 655
+    height: 570
+    caption: At the time of Hammurabi, Lagash was located near the shoreline of
+      the gulf.
+  - file: Vessel_fragment_depicting_the_goddess_Nisaba_(?)_and_an_inscription_from_Entemena,_ruler_of_Lagash,_circa_2430_BC,_chlorite,_Pergamon_Museum,_Berlin.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vessel_fragment_depicting_the_goddess_Nisaba_%28%3F%29_and_an_inscription_from_Entemena%2C_ruler_of_Lagash%2C_circa_2430_BC%2C_chlorite%2C_Pergamon_Museum%2C_Berlin.jpg/250px-Vessel_fragment_depicting_the_goddess_Nisaba_%28%3F%29_and_an_inscription_from_Entemena%2C_ruler_of_Lagash%2C_circa_2430_BC%2C_chlorite%2C_Pergamon_Museum%2C_Berlin.jpg
+    width: 2779
+    height: 3793
+    caption: Goddess Nisaba with an inscription of Entemena, ruler of Lagash (2430
+      BC), steatite, Vorderasiatisches Museum Berlin
+  - file: Tell_al_Hiba_(22795101268).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tell_al_Hiba_%2822795101268%29.jpg/250px-Tell_al_Hiba_%2822795101268%29.jpg
+    width: 1024
+    height: 768
+    caption: Remains of the ancient city of Lagash
+  - file: Gudea_Lagashki_inscription_in_linear_script_and_cuneiform_script_on_clay.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gudea_Lagashki_inscription_in_linear_script_and_cuneiform_script_on_clay.jpg/250px-Gudea_Lagashki_inscription_in_linear_script_and_cuneiform_script_on_clay.jpg
+    width: 1538
+    height: 1705
+    caption: The name Lagash Ki (𒉢𒁓𒆷𒆠, "Country of Lagash") on inscriptions of
+      Gudea, in monumental linear script and cuneiform script on clay.
+  - file: 3-D_reconstruction_of_Area_A.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/3-D_reconstruction_of_Area_A.png/500px-3-D_reconstruction_of_Area_A.png
+    width: 1920
+    height: 969
+    caption: 3-D reconstruction of Area A by Keifuhui (Front)
+  - file: 3-D_reconstruction_of_Area_A_by_Keifuhui.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/3-D_reconstruction_of_Area_A_by_Keifuhui.png/500px-3-D_reconstruction_of_Area_A_by_Keifuhui.png
+    width: 1920
+    height: 969
+    caption: 3-D reconstruction of Area A by Keifuhui
+  - file: 3-D_reconstruction_of_Area_B_by_Dcldeobi.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/3-D_reconstruction_of_Area_B_by_Dcldeobi.png/330px-3-D_reconstruction_of_Area_B_by_Dcldeobi.png
+    width: 2880
+    height: 1642
+    caption: 3-D reconstruction of Area B by Dcldeobi (Front)
+  - file: 3-D_reconstruction_of_Area_B_by_Dcldeobi_(Back).png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/3-D_reconstruction_of_Area_B_by_Dcldeobi_%28Back%29.png/500px-3-D_reconstruction_of_Area_B_by_Dcldeobi_%28Back%29.png
+    width: 2880
+    height: 1642
+    caption: 3-D reconstruction of Area B by Dcldeobi (Back)
+  - file: 3-D_reconstruction_of_Area_G.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/3-D_reconstruction_of_Area_G.jpg/500px-3-D_reconstruction_of_Area_G.jpg
+    width: 660
+    height: 250
+    caption: 3-D reconstruction of Area G by Nic9137
+  - file: 3-D_reconstruction_of_Area_G_of_Lagash.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/3-D_reconstruction_of_Area_G_of_Lagash.jpg/330px-3-D_reconstruction_of_Area_G_of_Lagash.jpg
+    width: 636
+    height: 287
+    caption: 3-D reconstruction of Area G by Nic9137
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/250px-Iraq_physical_map.svg.png
+  type: Settlement
+  periods: Early Dynastic, Sargonic, Ur III
+  location: Al-Shatrah, Dhi Qar Governorate, Iraq
+  region: Mesopotamia
+  history:
+    built: 3rd millennium BC
+  site-notes:
+    area: 400 to 600 ha
+    excavation-dates: 1887, 1968–1976, 1990, 2019–present
+    archaeologists: Robert Koldewey, Vaughn E. Crawford, Donald P. Hansen
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: first-dynasty-of-lagash-c.-2520--c.-2260-bc
+    title: First dynasty of Lagash (c. 2520 – c. 2260 BC)
+  - level: 4
+    id: ur-nanshe
+    title: Ur-Nanshe
+  - level: 4
+    id: eannatum
+    title: Eannatum
+  - level: 4
+    id: entemena
+    title: Entemena
+  - level: 3
+    id: under-the-akkadian-empire
+    title: Under the Akkadian Empire
+  - level: 3
+    id: second-dynasty-of-lagash-c.-2260--c.-2023-bc
+    title: Second dynasty of Lagash (c. 2260 – c. 2023 BC)
+  - level: 4
+    id: gudea
+    title: Gudea
+  - level: 4
+    id: nam-mahani
+    title: Nam-mahani
+  - level: 3
+    id: under-the-ur-iii-empire
+    title: Under the Ur III Empire
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 2
+    id: archaeological-remains
+    title: Archaeological remains
+  - level: 3
+    id: area-a-ibgal-of-inanna
+    title: Area A (Ibgal of Inanna)
+  - level: 4
+    id: level-i-architecture
+    title: Level I architecture
+  - level: 4
+    id: level-ii-and-level-iii-architecture
+    title: Level II and Level III architecture
+  - level: 3
+    id: area-b-3hb-building-and-4hb-building-at-bagara-of-ningirsu
+    title: Area B (3HB Building and 4HB Building at Bagara of Ningirsu)
+  - level: 4
+    id: the-3hb-building
+    title: The 3HB Building
+  - level: 4
+    id: the-4hb-building
+    title: The 4HB Building
+  - level: 3
+    id: area-c
+    title: Area C
+  - level: 3
+    id: area-g
+    title: Area G
+  - level: 4
+    id: western-building-complex
+    title: Western Building Complex
+  - level: 4
+    id: curving-wall-eastern-zone
+    title: Curving Wall (Eastern Zone)
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+wikidata:
+  id: Q207330
+  label: Lagash
+  description: ancient Mesopotamian city-state
+  claims:
+    coordinate-location:
+      lat: 31.411389
+      lon: 46.407222
+    country:
+      value: Iraq
+      from: 1932-10-03
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Relief_Ur-Nanshe_Louvre_AO2344.jpg
+    commons-category: Lagash
+    instance-of:
+      - historical country
+      - city-state
+    topic-s-main-category: Category:Lagash
+    commons-gallery: Lagash
+    described-by-source:
+      - Encyclopædia Britannica 11th edition
+      - Armenian Soviet Encyclopedia, vol. 4
+      - Great Soviet Encyclopedia (1926–1947)
+    category-for-maps-or-plans: Category:Maps of Lagash
+    dissolved-abolished-or-demolished: 2nd millennium BC
+    significant-event: war
+    native-label: 𒉢𒁓𒆷𒆠
+    culture: Sumer
+    inception: 25th century BC
+link-titles:
+  3rd-dynasty-of-ur: 3rd Dynasty of Ur
+  adab-city: Adab (city)
+  akkad-city: Akkad (city)
+  akkadian-empire: Akkadian Empire
+  akkadian-period: Akkadian Period
+  akshak: Akshak
+  akurgal: Akurgal
+  al-shatrah: Al-Shatrah
+  amorites: Amorites
+  ancient-near-east: Ancient Near East
+  anshan-persia: Anshan (Persia)
+  anzû: Anzû
+  bau-goddess: Bau (goddess)
+  british-museum: British Museum
+  city-state: City-state
+  code-of-ur-nammu: Code of Ur-Nammu
+  cuneiform: Cuneiform
+  damnatio-memoriae: Damnatio memoriae
+  der-sumer: Der (Sumer)
+  dhi-qar-governorate: Dhi Qar Governorate
+  dilmun: Dilmun
+  dudu-of-akkad: Dudu of Akkad
+  e-ninnu: E-ninnu
+  eanatum: Eanatum
+  eannatum: Eannatum
+  early-dynastic-iii: Early Dynastic III
+  early-dynastic-period-mesopotamia: Early Dynastic Period (Mesopotamia)
+  elam: Elam
+  en-anna-tum-i: En-anna-tum I
+  en-hegal: En-hegal
+  enakalle: Enakalle
+  enanatum-i: Enanatum I
+  enannatum-i: Enannatum I
+  enannatum-ii: Enannatum II
+  enentarzi: Enentarzi
+  enmetena: Enmetena
+  ensi-sumerian: Ensi (Sumerian)
+  entemena: Entemena
+  euphrates: Euphrates
+  gal-cuneiform: GAL (cuneiform)
+  gatumdag: Gatumdag
+  geoarchaeology: Geoarchaeology
+  geophysical-survey-archaeology: Geophysical survey (archaeology)
+  girsu: Girsu
+  gishakidu: Gishakidu
+  gudea: Gudea
+  gudea-cylinders: Gudea cylinders
+  gutian-dynasty-of-sumer: Gutian dynasty of Sumer
+  gutian-period: Gutian period
+  hammurabi: Hammurabi
+  history-of-sumer: History of Sumer
+  ibbi-sin: Ibbi-Sin
+  il-king-of-umma: Il, king of Umma
+  inanna: Inanna
+  institute-of-fine-arts: Institute of Fine Arts
+  ishtup-ilum: Ishtup-Ilum
+  isin-larsa-period: Isin-Larsa period
+  kazallu: Kazallu
+  khafajah: Khafajah
+  king-of-the-universe: King of the Universe
+  kutik-inshushinak: Kutik-Inshushinak
+  louvre: Louvre
+  louvre-museum: Louvre Museum
+  lugal: Lugal
+  lugal-kisalsi: Lugal-kisalsi
+  lugal-ushumgal: Lugal-ushumgal
+  lugalanda: Lugalanda
+  lugalshaengur: Lugalshaengur
+  lugalzagesi: Lugalzagesi
+  mari-syria: Mari, Syria
+  master-of-animals: Master of Animals
+  mesilim: Mesilim
+  metropolitan-museum-of-art: Metropolitan Museum of Art
+  middle-chronology: Middle chronology
+  nam-mahani: Nam-mahani
+  nanshe: Nanshe
+  naram-sin-of-akkad: Naram-Sin of Akkad
+  new-york-university: New York University
+  ningirsu: Ningirsu
+  nippur: Nippur
+  old-babylonian-empire: Old Babylonian Empire
+  pabilgagaltuku: Pabilgagaltuku
+  persian-gulf: Persian Gulf
+  phalanx-formation: Phalanx formation
+  pirig-me: Pirig-me
+  power-vacuum: Power vacuum
+  pre-dynastic-period-of-sumer: Pre-dynastic period of Sumer
+  puzer-mama: Puzer-Mama
+  reign: Reign
+  relief: Relief
+  rimush: Rimush
+  rimush-of-akkad: Rimush of Akkad
+  robert-koldewey: Robert Koldewey
+  sargon-of-akkad: Sargon of Akkad
+  seleucid: Seleucid
+  shar-kali-sharri: Shar-Kali-Sharri
+  shara-god: Shara (god)
+  shu-turul: Shu-turul
+  shul-utula: Shul-utula
+  statues-of-gudea: Statues of Gudea
+  steatite: Steatite
+  stele-of-the-vultures: Stele of the Vultures
+  sumer: Sumer
+  sumerian-king-list: Sumerian King List
+  sumerian-language: Sumerian language
+  tell-zurghul: Tell Zurghul
+  tempore: Tempore
+  thorkild-jacobsen: Thorkild Jacobsen
+  tigris: Tigris
+  umma: Umma
+  university-of-cambridge: University of Cambridge
+  university-of-pennsylvania: University of Pennsylvania
+  university-of-pennsylvania-museum-of-archaeology-and-anthropology: University of Pennsylvania Museum of Archaeology and Anthropology
+  university-of-pisa: University of Pisa
+  ur: Ur
+  ur-iii-period: Ur III period
+  ur-baba: Ur-Baba
+  ur-lumma: Ur-Lumma
+  ur-nammu: Ur-Nammu
+  ur-nanshe: Ur-Nanshe
+  ur-ningirsu: Ur-Ningirsu
+  ur-ningirsu-i: Ur-Ningirsu I
+  ur-ningirsu-ii: Ur-Ningirsu II
+  ur-gar: Ur-gar
+  urua: Urua
+  uruk: Uruk
+  uruk-period: Uruk period
+  urukagina: Urukagina
+  ush-king-of-umma: Ush, king of Umma
+  vorderasiatisches-museum-berlin: Vorderasiatisches Museum Berlin
+source:
+  site: Wikipedia
+  lang: en
+  title: Lagash
+  url: https://en.wikipedia.org/wiki/Lagash
+  page-id: 144497
+  revision: "1371073616"
+  modified: 2026-08-24T12:20:34Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Lagash"
+    (revision 1371073616), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/lagash.mdy
+  source-revision: "1371073616"
+  model: claude-opus-5
+  left-out: "Two headings have no prose of their own in the source —
+    \"Archaeological remains\" and \"Area B (3HB Building and 4HB Building at
+    Bagara of Ningirsu)\" both run straight into their subsections — so their
+    bodies are empty rather than invented. The three tables (3HB levels, 4HB
+    levels, and the list of rulers) are carried across as they stood, since
+    they are not prose. Two broken sentences were repaired without adding
+    anything: \"About 1800 cuneiform tablets ... have been found, mostly.\"
+    drops the stranded \"mostly\", and \"In 2023 and 2024 continued in Area H
+    and in 2025 in Area G\" becomes \"Work continued in Area H in 2023 and
+    2024, and in Area G in 2025\". The source's inline photo galleries were
+    not reproduced, so the footnotes that appear only in their captions (^25,
+    ^46, ^47, ^48, ^49) are not carried; every other footnote in the body is.
+    The infobox image (Iraq_physical_map.svg) is not in the supplied image
+    list and so is not in the image plan."
+  verified: false
+  reviewed: false
++++
+!!Lagash!![[ ^4 ]] (cuneiform: 𒉢𒁓𒆷𒆠 LAGAŠ^^KI^^; [[ Sumerian | sumerian-language ]]: //Lagaš//) was not one city but three. The state incorporated the cities of Lagash, Girsu, and Nina, and it was one of the oldest cities of the [[ Ancient Near East ]].[[ ^5 ]] [[ Girsu ]] (modern Telloh), about 25 km (16 mi) northwest of Lagash, was the religious center, with its main temple, the [[ E-ninnu ]], dedicated to the god [[ Ningirsu ]]. The ancient site of Nina ([[ Tell Zurghul ]]), around 10 km (6.2 mi) away, marks the southern limit of the state.
+
+Lagash itself was an ancient [[ city-state ]] located northwest of the junction of the [[ Euphrates ]] and [[ Tigris ]] rivers and east of [[ Uruk ]], about 22 kilometres (14 mi) east of the modern town of [[ Al-Shatrah ]], Iraq. The mound today is Al-Hiba, in [[ Dhi Qar Governorate ]].[[ ^5 ]]
+
+For a power of that size, it left a strange gap in the record: the dynasties of Lagash are not found on the //[[ Sumerian King List ]]//, despite Lagash being a power in the Early Dynastic period and a major city in the centuries that followed.[[ ^9 ]][[ ^10 ]]
+
+== History
+
+Some [[ Uruk period ]] pottery shards turned up in a surface survey, but significant occupation at the site began early in the 3rd Millennium BC, in the [[ Early Dynastic I period | early-dynastic-period-mesopotamia ]] (c. 2900–2600 BC). Surface surveys and excavations show the peak occupation, with an area of about 500 hectares, during the Early Dynastic III period (c. 2500–2334 BC) — the period that corresponds with what is now called the First Dynasty of Lagash.[[ ^6 ]]
+
+Lagash then came under the control of the [[ Akkadian Empire ]] for several centuries. With the fall of that empire, Lagash had a period of revival as an independent power during the 2nd Dynasty of Lagash, before coming under the control of the [[ 3rd Dynasty of Ur ]]. After the fall of Ur, there was some modest occupation in the [[ Isin-Larsa | isin-larsa-period ]] and [[ Old Babylonian | old-babylonian-empire ]] periods.[[ ^7 ]] Lagash was then largely deserted until a [[ Seleucid ]] era fortress was built there in the 2nd century BC.[[ ^8 ]]
+
+== First dynasty of Lagash (c. 2520 – c. 2260 BC)
+
+The dynasties of Lagash are not found on the //[[ Sumerian King List ]]// (SKL), despite being a power in the Early Dynastic period and a major city in the centuries that followed. One tablet, from the later Old Babylonian period and known as //The Rulers of Lagash//, was described by its translator as "rather fanciful" and is generally considered to be a satirical parody of the SKL. The thirty listed rulers, in the style of the SKL, having improbable reigns, include seven known rulers from the 1st Dynasty of Lagash, including [[ Ur-Nanshe ]], "Ane-tum", [[ En-entar-zid | enentarzi ]], [[ Ur-Ningirsu ]], [[ Ur-Bau | ur-baba ]], and [[ Gudea ]].[[ ^9 ]][[ ^10 ]]
+
+Little is known of the first two rulers of Lagash. [[ En-hegal ]] is believed to be the first ruler; a tablet with his name describes a business transaction, in which a possible King En-hegal buys land.[[ ^11 ]] Both his status and his date are disputed.[[ ^12 ]] He was followed by [[ Lugalshaengur ]], about whom also little is known.[[ ^13 ]] [[ Mesilim ]], who called himself King of Kish though it is uncertain which city he was from, named Lugalshaengur as an "ensi" of Lagash on a mace head.[[ ^14 ]]
+
+== Ur-Nanshe
+
+Many details, like the length of reign, are not known for the next ruler, [[ Ur-Nanshe ]], but a number of his inscriptions have been found, most at Lagash with one stele at Ur — which, along with [[ Umma ]], he claimed to have conquered in battle.[[ ^15 ]] Almost all deal with the construction of temples; one details how he "built the wester[n] channel at the side of Sa[la]/ channel at the side of S[al] (against) the [[ Amorites ]]". He is described as the "son of Gu-NI.DU" (occasionally as "son of Gur:SAR"), and his inscriptions list a number of sons and daughters.[[ ^16 ]] Several inscriptions say "He [had the ships of Dil]mun sub[mit] [timber] (to Lagaš) as tribute." His son [[ Akurgal ]] ruled briefly after him.[[ ^17 ]]
+
+== Eannatum
+
+The next ruler, [[ Eannatum ]] (earlier referred to as "Eannadu"), son of Akurgal and grandson of Ur-Nanshe, turned Lagash into a major power extending throughout large areas of Mesopotamia and to the east as well. An inscription found at ancient [[ Adab | adab-city ]] reads:
+
+<blockquote
+  "Eannatum, ruler of Lagash, granted strength by Enlil, nourished with special
+  milk by Ninhursag, nominated by Ningirsu, chosen in her heart by Nanshe, son
+  of Akurgal ruler of Lagash, defeated mountainous Elam, defeated [[ Urua ]],
+  defeated Umma, defeated Ur. At that time, he built a well of fired bricks for
+  Ningirsu in his (Ningirsu’s) broad courtyard. His personal god is
+  [[ Shulultul | shul-utula ]]. Then, Ningirsu loved Eannatum."[[ ^18 ]]
+
+Another inscription details his destruction of "Kiš, Akšak, and Mari at a place named Antasur". He also claimed to have taken the city of [[ Akshak ]] and killed its king, Zuzu.[[ ^19 ]] Eannatum took the city of Uru'az on the [[ Persian Gulf ]], and exacted tribute as far as [[ Mari | mari-syria ]]; however, many of the realms he conquered were often in revolt.[[ ^20 ]] During his reign, temples and palaces were repaired or erected at Lagash and elsewhere, and canals and reservoirs were excavated.[[ ^21 ]] [[ Dilmun ]] was a major trading partner.[[ ^22 ]]
+
+A long running border dispute, dating back at least to the time of Lugalshaengur, existed between the city-states of Umma and Lagash.[[ ^23 ]] In the time of Umma ruler Enakalle a formal border was established, mediated by Mesilim, “king of Kish”. Eannatum restored the border, including the boundary markers of [[ Mesilim ]].
+
+<blockquote
+  "Eanatum, ruler of Lagash, uncle of Enmetena ruler of Lagash, demarcated the
+  border with Enakalle, ruler of Umma. He extended the [boundary-]channel from
+  the Nun-channel to Guʾedena, leaving a 215-nindan [= 1,290 meters] [strip] of
+  Ningirsu’s land under Umma’s control, establishing a no-man’s land there. He
+  inscribed [and erected] monuments at that [boundary-]channel, and restored the
+  monument of Mesilim, but did not cross into the plain of Umma.
+"[[ ^24 ]]
+
+In c. 2450 BC, Lagash and the neighboring city of [[ Umma ]] fell out with each other after a border dispute over the Guʾedena, a fertile area lying between them. As described in [[ Stele of the Vultures ]], of which only a portion has been found (7 fragments), the current king of Lagash, [[ Eannatum ]], inspired by the patron god of his city, [[ Ningirsu ]], set out with his army to defeat the nearby city.[[ ^26 ]] According to the Stele's engravings, when the two sides met each other in the field, Eannatum dismounted from his chariot and proceeded to direct his men on foot. After lowering their spears, the Lagash army advanced upon the army from Umma in a dense [[ phalanx | phalanx-formation ]].[[ ^27 ]] After a brief clash, Eannatum and his army had gained victory over the army of Umma. This battle is one of the earliest depicted organised battles known to scholars and historians.[[ ^28 ]]
+
+Eannatum was succeeded by his brother, [[ En-anna-tum I ]]. Given the many inscriptions, his reign is assumed to be of some length. Most of them detailed the usual temple construction. One long tablet described the continued conflict with Umma:
+
+<blockquote
+  "For the god Hendursag, chief herald of the Abzu En-anatum, [ru]ler of [Laga]š
+  \... When the god Enlil(?)], for the god [Nin]g[ir]s[u], took [Gu'edena] from
+  the hands of Gisa (Umma) and filled En-anatum’s hands with it, Ur-LUM-ma,
+  ruler of Gisa (Umma), [h]i[red] [(mercenaries from) the foreign lands] and
+  transgressed the boun[da]ry-channel of the god Ningirsu (and said): \...
+  En-anatum crushed Ur-LUM-ma, ruler of Gisa (Umma) as far as E-kisura
+  (“Boundary) Channel”) of the god Ninœirsu. He pursued him into the \... of
+  (the town) LUM-ma-girnunta. (En-anatum) gagged (Ur-LUM-ma) (against future
+  land claims)"[[ ^14 ]]
+
+The conflict from the Umma side of things, from its ruler [[ Ur-Lumma ]]:
+
+<blockquote
+  "Urlumma, ruler of Umma, diverted water into the boundary-channel of Ningirsu
+  and the boundary-channel of Nan-she. He set fire to their monuments and
+  smashed them, and destroyed the established chapels of the gods that were
+  built on the boundary-levee called Namnunda-kigara. He recruited foreigners
+  and transgressed the boundary-ditch of Ningirsu."[[ ^29 ]]
+
+== Entemena
+
+The next ruler, [[ Entemena ]], increased the power of Lagash during his rule. A number of inscriptions from his reign are known.[[ ^30 ]][[ ^31 ]] He was a contemporary of Lugalkinishedudu of Uruk.[[ ^32 ]]
+
+Entemena was succeeded by his brother Enannatum II, with only one known inscription, where he "restored for the god Ningirsu his brewery".[[ ^14 ]] He was followed by two more minor rulers: Enentarzi, with only one inscription from his 5 year reign, which mentions his daughter Gem[e]-Baba, and Lugalanda, the son of Enentarzi, with several, one of which mentions his wife Bara-namtara. The last ruler of Lagash, [[ Urukagina ]], was known for his judicial, social, and economic reforms, and his may well be the first legal code known to have existed.[[ ^33 ]][[ ^34 ]] He was defeated by Lugalzagesi, beginning when Lugalzagesi was ruler of Umma and culminating as ruler of Uruk, bringing an end to the First Dynasty of Lagash.[[ ^35 ]]
+
+About 1800 [[ cuneiform ]] tablets from the reigns of the last three rulers of Lagash, of an administrative nature, have been found.[[ ^36 ]][[ ^37 ]][[ ^38 ]] The tablets are mostly from the "woman’s quarter", also known as the temple of the goddess [[ Babu | bau-goddess ]]. It was under the control of the Queen.[[ ^39 ]]
+
+== Under the Akkadian Empire
+
+In his conquest of [[ Sumer ]] circa 2300 BC, [[ Sargon of Akkad ]], after conquering and destroying [[ Uruk ]], then conquered [[ Ur ]] and E-Ninmar and "laid waste" the territory from Lagash to the sea, and from there went on to conquer and destroy [[ Umma ]], and he collected tribute from [[ Mari | mari-syria ]] and [[ Elam ]]. He triumphed over 34 cities in total.[[ ^40 ]]
+
+Sargon's son and successor [[ Rimush ]] faced widespread revolts, and had to reconquer the cities of [[ Ur ]], [[ Umma ]], [[ Adab | adab-city ]], Lagash, [[ Der | der-sumer ]], and [[ Kazallu ]] from rebellious //[[ ensis | ensi-sumerian ]]//. Rimush introduced mass slaughter and large scale destruction of the Sumerian city-states, and maintained meticulous records of his destruction.[[ ^41 ]] Most of the major Sumerian cities were destroyed, and Sumerian human losses were enormous: for the cities of [[ Ur ]] and Lagash, he records 8,049 killed, 5,460 "captured and enslaved" and 5,985 "expelled and annihilated".[[ ^41 ]][[ ^42 ]]
+
+A Victory Stele in several fragments (three in total, [[ Louvre Museum ]] AO 2678)[[ ^43 ]] has been attributed to Rimush on stylistic and epigraphical grounds. One of the fragments mentions Akkad and Lagash.[[ ^44 ]] It is thought that the stele represents the defeat of Lagash by the troops of Akkad.[[ ^45 ]] The stele was excavated in ancient [[ Girsu ]], one of the main cities of the territory of Lagash.[[ ^44 ]]
+
+== Second dynasty of Lagash (c. 2260 – c. 2023 BC)
+
+During the reigns of the first two rulers of this dynasty, Lugal-ushumgal (under [[ Naram-Sin | naram-sin-of-akkad ]] and [[ Shar-Kali-Sharri ]]) and Puzur-Mama (under Shar-kali-shari), Lagash was still under the control of the [[ Akkadian Empire ]]. It has been suggested that another governor, Ur-e, fell between them.[[ ^50 ]] After the death of Shar-Kali-shari, Puzur-Mama declared Lagash independent, which is known from an inscription that may also mention Elamite ruler [[ Kutik-Inshushinak ]]. This independence appears to have been tenuous, as Akkadian Empire ruler [[ Dudu | dudu-of-akkad ]] reports taking booty from there.[[ ^14 ]]
+
+With the fall of Akkad, Lagash achieved full independence under Ur-Ningirsu I (not to be confused with the later Lagash ruler named Ur-Ningirsu, the son of [[ Gudea ]]). Unlike the 1st Dynasty of Lagash, this series of rulers used year names. Two of Ur-Ningirsu are known, including "year: Ur-Ningirsu (became) ruler". His few inscriptions are religious in nature.[[ ^51 ]] Almost nothing is known of his son and successor.[[ ^52 ]] The next three rulers, Lu-Baba, Lugula, and Kaku, are known only from their first year names.
+
+The following ruler, Ur-Baba, is notable mainly because three of his daughters married later rulers of Lagash: Gudea, Nam-mahani, and Ur-gar.[[ ^53 ]] His inscriptions are all of a religious nature, including building or restoring the "Eninnu, the White Thunderbird".[[ ^54 ]] Five of his year names are known. At this point Lagash is still at best a small local power. In some case the absolute order of rulers is not known with complete certainty.[[ ^55 ]]
+
+== Gudea
+
+While the [[ Gutians | gutian-dynasty-of-sumer ]] had partially filled the [[ power vacuum ]] left by the fall of the Akkadian Empire, under Gudea Lagash entered a period of independence marked by riches and power.[[ ^56 ]] Thousands of inscriptions of various sorts have been found from his reign, and an untold number of [[ statues of Gudea ]].[[ ^57 ]] A number of cuneiform tablets of an administrative nature, from Gudea's rule, were found at nearby [[ Girsu ]].[[ ^58 ]] Also found at Girsu were the famous [[ Gudea cylinders ]], which contain the longest known text in the [[ Sumerian language ]].[[ ^59 ]][[ ^60 ]] He was prolific at temple building and restoring.[[ ^61 ]] He is known to have conducted some military operations to the east against [[ Anshan | anshan-persia ]] and Elam.[[ ^62 ]][[ ^63 ]] Twenty of Gudea's year names are known. All are of a religious nature except for one that marks the building of a canal and year six, "Year in which the city of Anszan was smitten by weapons".[[ ^64 ]]
+
+When he ruled is argued over. The conventional view has been that the reign of Gudea fell well before that of [[ Ur-Nammu ]], ruler of Ur, and during a time of Gutian power; a number of researchers contend that Gudea's rule overlaps with that of Ur-Nammu and the Gutians had already been defeated.[[ ^65 ]] This view is strengthened by the fact that Ur-Baba appointed Enanepada as high priestess of Ur while Naram-Sin of Akkad had appointed her predecessor Enmenana and Ur-Namma of Ur appointed her successor Ennirgalana.[[ ^66 ]]
+
+Gudea was succeeded by his son Ur-Ningirsu, followed by Ur-gar. Little is known about either aside from an ascension year name each and a small handful of inscriptions. It has been suggested that two other brief rulers fit into the sequence here, Ur-ayabba and Ur-Mama, but the evidence for that is thin.[[ ^67 ]] Two tablets dated to the reign of Ur-Nammu of Ur refer to Ur-ayabba as "ensi" of Lagash, meaning governor in Ur III terms and king in Lagash.[[ ^66 ]]
+
+== Nam-mahani
+
+Little is known of the next ruler aside from his ascension year name and a handful of religious inscriptions. Nam-mahani is primarily known for being defeated by Ur-Nammu, first ruler of the Ur III empire, and for being considered the last ruler of the second dynasty of Lagash (often called the Gudean Dynasty). In the prologue of the [[ Code of Ur-Nammu ]] it states "He slew Nam-ha-ni the ensi of Lagash".[[ ^68 ]] A number of his inscriptions were defaced and the statues of Nam-mahani and his wife were beheaded; the heads were not found with the statues, suggested to be due to an act of [[ Damnatio memoriae ]] attributed to Ur Nammu.[[ ^57 ]]
+
+== Under the Ur III Empire
+
+Under the control of Ur, the Lagash state (Lagash, Girsu, and Nigin) were the largest and most prosperous province of the empire. Such was its importance that the second highest official in the empire, the Grand Vizier, resided there.[[ ^69 ]][[ ^70 ]][[ ^71 ]][[ ^72 ]] The name of one governor of Lagash under Ur is known, Ir-Nanna. After the fifth year of the last Ur III ruler, [[ Ibbi-Sin ]], his year name was no longer used at Lagash, indicating Ur no longer controlled that city.[[ ^73 ]]
+
+== Archaeology
+
+Lagash is one of the largest archaeological sites in the region, measuring roughly 3.5 kilometers north to south and 1.5 kilometers east to west, though it is relatively low, being only 6 meters above the plain level at maximum. Much of the older area is under the current water table and not available for research. A drone survey posited that Lagash developed on four marsh islands, some of which were gated,[[ ^74 ]] but the notion that the city was marsh-based is in contention.[[ ^75 ]] Estimates of its area range from 400 to 600 hectares (990 to 1,480 acres). The site is divided by the bed of a canal/river, which runs diagonally through the mound.
+
+The site was first excavated, for six weeks, by [[ Robert Koldewey ]] in 1887[[ ^76 ]] — a season a later writer called a disaster:
+
+<blockquote
+  "To be sure, the difficulties involved were known, at least after Koldewey’s
+  disaster in el-Hibba where, unprepared to deal with structures of unbaked
+  material, he did not recognize the walls but only those baked bricks which had
+  been used for lining graves, leading him to conclude that el-Hibba was nothing
+  but an extended burial place."[[ ^77 ]]
+
+It was inspected during a survey of the area by [[ Thorkild Jacobsen ]] and Fuad Safar in 1953, finding the first evidence of its identification as Lagash.[[ ^78 ]] The major polity in the region of al-Hiba and Tello had formerly been identified as ŠIR.BUR.LA (//!!Shirpurla!!//).[[ ^79 ]]
+
+Tell Al-Hiba was again explored in five seasons of excavation between 1968 and 1976 by a team from the [[ Metropolitan Museum of Art ]] and the [[ Institute of Fine Arts ]] of [[ New York University ]]. The team was led by Vaughn E. Crawford, and included Donald P. Hansen and Robert D. Biggs. Twelve archaeological layers were found, with the bottom 9 being Early Dynastic and the lowest under the water table. The primary focus was the excavation of the temple [[ Ibgal | gal-cuneiform ]] of [[ Inanna ]] and the temple Bagara of Ningirsu, as well as an associated administrative area.[[ ^80 ]][[ ^81 ]][[ ^82 ]][[ ^83 ]]
+
+The team returned 12 years later, in 1990, for a sixth and final season of excavation led by D. P. Hansen. The work focused on “Area G” between the previously-excavated temple Ibgal of the goddess [[ Inanna ]] in the southwest edge of the city and the Bagara temple of [[ Ningirsu ]], both of which were built by Early Dynastic III king Eannatum. Temples to the goddesses [[ Gatumdag ]], [[ Nanshe ]], and [[ Bau | bau-goddess ]] are known to have existed but have not yet been found. A canal linked the E-ninnu temple of Ningirsu at Girsu, the E-sirara temple of Nanshe at Nigin, and the Bagara temple at Lagash, the three cities being part of one large state.[[ ^84 ]][[ ^85 ]][[ ^86 ]] In 1984 a surface survey found that most finds were from the Early Dynastic III period. Small amounts of Uruk, Jemdet Nasr, Isin-Larsa, Old Babylonian and Kassite shards were found in isolated areas.[[ ^87 ]]
+
+In March–April 2019, field work resumed as the Lagash Archaeological Project[[ ^88 ]] under the directorship of Dr. Holly Pittman of the [[ University of Pennsylvania ]]'s [[ Penn Museum | university-of-pennsylvania-museum-of-archaeology-and-anthropology ]] in collaboration with the [[ University of Cambridge ]] and Sara Pizzimenti of the [[ University of Pisa ]]. A second season ran from October to November in 2021. A third season ran from March 6 to April 10, 2022.[[ ^89 ]] The work primarily involved the Early Dynastic Period Area G and Area H locations, along with [[ Geophysical Surveying | geophysical-survey-archaeology ]] and [[ Geoarchaeology ]]. The focus was on an industrial area and associated streets, residences, and kilns. Aerial mapping of Lagash, both using UAV drone mapping and satellite imagery, was performed.[[ ^90 ]] In the fall of 2022 a 4th season of excavation resumed. Among the finds were a public eatery with ovens, a refrigeration system, benches, and large numbers of bowls and beakers.[[ ^91 ]][[ ^92 ]][[ ^93 ]][[ ^94 ]] Work continued in Area H in 2023 and 2024, and in Area G in 2025.[[ ^95 ]]
+
+== Archaeological remains
+
+
+
+== Area A (Ibgal of Inanna)
+
+Though commonly known as Area A or the Ibgal of [[ Inanna ]], this temple complex was actually named Eanna during the Ur periods, while Inanna’s sanctuary within Eanna was known as Ibgal.[[ ^96 ]]
+
+== Level I architecture
+
+Level I of Area A was occupied from [[ Early Dynastic | early-dynastic-period-mesopotamia ]] (ED I) to Ur III.[[ ^96 ]] It was used for both daily worship activities and festive celebrations, particularly for the queen of Lagash during the Barley and Malt-eating festivals of [[ Nanše | nanshe ]].[[ ^96 ]][[ ^97 ]]
+
+Level I consists of an oval wall on the Northeast end, surrounding an extensive courtyard. The fragments, together with comparison to another Sumerian temple at [[ Khafajah ]], show that the wall should originally be approximately 130m long.[[ ^98 ]]
+
+The temple-building is connected to the courtyard with steps. Twenty-five rooms have been excavated inside the building, of which the western ones would open up to the outside of the temple with corridors and form a tripartite entrance.[[ ^96 ]] Both the temple-building and the oval wall were built with plano-convex mud bricks, which was a very common material up to the late Early Dynastic III period. Additionally, foundations are found under the temple-building. They are composed of rectangular areas of various sizes, some as solid mud bricks and some as cavities of broken pieces of alluvial mud and layers of sand, then capped again with mud bricks.[[ ^98 ]]
+
+== Level II and Level III architecture
+
+Two more levels are present beneath Level I. All of them are similar to each other in terms of layout and construction materials. During the process of building on top of each other, workers at that time would choose to destroy some portions while keeping some others, leading to much open speculation as to the rationales behind.[[ ^99 ]]
+
+== Area B (3HB Building and 4HB Building at Bagara of Ningirsu)
+
+
+
+== The 3HB Building
+
+Three building levels were discovered, and 3HB III is the earliest and most well-preserved level. 3HB II and 3HB I shared the same layout with 3HB III. All three levels have a central niched-and-buttressed building which is surrounded by a low enclosure wall with unknown height.[[ ^96 ]]
+
+<table
+  <tbody
+    <tr
+      <th>Building Level
+
+      <th>Building Material[[ ^96 ]]
+
+      <th>Occupation Period[[ ^96 ]]
+
+      <th>Notes[[ ^96 ]]
+
+    <tr
+      <td>3HB III
+
+      <td>Plano-convex bricks, mud plaster
+
+      <td>ED IIIB
+        ([[ Eannatum ]]’s rule or later)
+
+      <td>Dimensions:
+        3HB Building: 24 x 20m
+
+        Enclosure Wall:
+
+        approximately 31m x 25m
+
+    <tr
+      <td>3HB II
+
+      <td>Plano-convex bricks, mud plaster
+
+      <td>ED IIIB – Late Akkadian
+
+      <td
+
+    <tr
+      <td>3HB I
+
+      <td>Plano-convex bricks, mud plaster
+
+      <td>Late – Post-Akkadian
+
+      <td
+
+An excavator believes that the 3HB Building was a “kitchen temple” that aimed at meeting some of the god’s demands.[[ ^100 ]] Alternatively, it has been suggested that the building was a shrine in the Bagara complex, as it shared more similarities with other temples than kitchens in terms of layout, features and contents.[[ ^96 ]]
+
+== The 4HB Building
+
+The excavators discovered five building levels. The layout of 4HB V cannot be obtained due to limited exploration. 4HB IV–4HB I shared the same layout. 4HB IVB was the first level that was exposed completely.[[ ^96 ]]
+
+<table
+  <tbody
+    <tr
+      <th>Building Level
+
+      <th>Building Material[[ ^96 ]]
+
+      <th>Occupation Period[[ ^96 ]]
+
+      <th>Notes[[ ^96 ]]
+
+    <tr
+      <td>4HB V
+
+      <td>Plano-convex bricks
+
+      <td>ED III
+        (Evidence from pottery)
+
+      <td
+
+    <tr
+      <td>4HB IVA
+
+      <td>Plano-convex bricks
+
+      <td>ED III
+        (Evidence from pottery)
+
+      <td
+
+    <tr
+      <td>4HB IVB
+
+      <td>Plano-convex bricks
+
+      <td>ED IIIB
+
+      <td>Dimensions:
+        4HB Building: 23 x 14m
+
+    <tr
+      <td>4HB III
+
+      <td>Plano-convex bricks
+
+      <td>ED IIIB – Late Akkadian
+
+      <td
+
+    <tr
+      <td>4HB II
+
+      <td>Plano-convex bricks
+
+      <td>Late – Post-Akkadian
+
+      <td
+
+    <tr
+      <td>4HB I
+
+      <td>Plano-convex bricks
+        and flat, square bricks
+
+      <td>[[ Gudea ]]’s rule
+
+      <td
+
+It has been suggested that the 4HB Building is a brewery, as ovens and storage vats and a tablet mentioning “the brewery” and “a brewer” were found.[[ ^100 ]] An alternate proposal is that 4HB building is a kitchen, as it shared lots of similarities with temple kitchens at [[ Ur ]] and [[ Nippur ]].[[ ^96 ]]
+
+== Area C
+
+Area C is located 360 meters southeast of Area B. It contains a large Early Dynastic administrative area with two building levels (1A and 1B). In level 1B were found sealing and tablets of [[ Eanatum ]], [[ Enanatum I ]], and [[ Enmetena ]].[[ ^101 ]]
+
+== Area G
+
+Area G is located at the midway of Area B in the North and Area A in the South. First excavated by Dr Donald P. Hansen in season 3H, Area G consists of a building complex and a curving wall which are separated by around 30-40m.[[ ^96 ]]
+
+== Western Building Complex
+
+5 building levels are found in the area. There is little information about Levels I and IIA, as they were poorly preserved without sealed floor deposits.[[ ^102 ]] In Levels IIB, III and IV, changes can be found in the building complex with reconstructions. In Level III, benches are built near the eastern and northern courtyards. Sealings made in the “piedmont” style which are found in the rooms share a resemblance with the Seal Impression Strata of Ur and sealings from Inanna Temple at Nippur,[[ ^102 ]] indicating the administrative nature of the buildings. Apart from institutional objects, fireplaces, bins and pottery were found in the rooms as well.[[ ^100 ]]
+
+== Curving Wall (Eastern Zone)
+
+A 2-m wide wall that runs from the south to the north is found on the eastern part of Area G. The features of the curving wall and the rooms found near it are determined to be different from other oval temples built in the Early Dynastic in other major states. Intrusive vertical drains are found at the base of the plano-convex foundation.[[ ^100 ]] Archaeologists excavated further deeper to the water level during season 4H and found extensive Early Dynastic I deposits.[[ ^96 ]]
+
+== List of rulers
+
+Although the first dynasty of Lagash has become well-known based on mentions in inscriptions contemporaneous with other dynasties from the Early Dynastic (ED) III period, it was not inscribed onto the //[[ Sumerian King List ]] (SKL)//. The first dynasty of Lagash preceded the dynasty of Akkad in a time in which Lagash exercised considerable influence in the region. The following list should not be considered complete:
+
+<table
+  <tbody
+    <tr
+      <th>Portrait or inscription
+
+      <th>Ruler
+
+      <th>Approx. date and length of reign
+
+      <th>Comments, notes, and references for mentions
+
+    <tr
+      <td colspan="4">!![[ Early Dynastic IIIa period | early-dynastic-iii ]] (c. 2600 – c. 2500 BC)!!
+
+    <tr
+      <th colspan="4">[[ Predynastic Lagash | pre-dynastic-period-of-sumer ]] (c. 2600 – c. 2520 BC)
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Enhegal_King_of_Lagash.jpg/120px-Enhegal_King_of_Lagash.jpg" height="184" width="120"
+
+      <td>([[ En-hegal ]])
+        <br
+
+        𒂗𒃶𒅅
+
+      <td>[[ reigned | reign ]] c. 2570 BC
+        <br
+
+        ([[ MC | middle-chronology ]])
+
+      <td
+        - Historicity certain
+        - Held the title of, //"[[ King | lugal ]] of Lagash"//
+        - One inscription known, recording a purchase of land[[ ^12 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lugalshaengur_inscription.jpg/120px-Lugalshaengur_inscription.jpg" height="40" width="120"
+
+      <td>([[ Lugalshaengur ]])
+        <br
+
+        𒈗𒊮𒇉
+
+      <td>r. c. 2530 BC
+        <br
+
+        (MC)
+
+      <td
+        - Historicity certain[[ ^103 ]]
+        - Held the title of, //"[[ Governor | ensi-sumerian ]] of Lagash"//
+        - //[[ temp. | tempore ]]// of [[ Mesilim ]][[ ^103 ]]
+
+    <tr
+      <th>Portrait or inscription
+
+      <th>Ruler
+
+      <th>Approx. date and length of reign (MC)
+
+      <th>Comments, notes, and references for mentions
+
+    <tr
+      <td colspan="4">!!Early Dynastic IIIb period (c. 2500 – c. 2350 BC)!!
+
+    <tr
+      <th colspan="4">[[ First dynasty of Lagash / Lagash I dynasty | history-of-sumer#first-dynasty-of-lagash ]] (c. 2520 – c. 2260 BC)
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ur-Nanshe.jpg/120px-Ur-Nanshe.jpg" height="166" width="120"
+
+      <td>[[ Ur-Nanshe ]] (Ur-nina)
+        <br
+
+        𒌨𒀭𒀏
+
+      <td>r. c. 2520 BC
+        <br
+
+        (MC)
+
+      <td
+        - Son of Gunidu
+        - Held the title of, //"King of Lagash"//
+        - //temp.// of [[ Pabilgagaltuku ]][[ ^103 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Inlay_Akurgal_Louvre_AO11249.jpg/120px-Inlay_Akurgal_Louvre_AO11249.jpg" height="180" width="120"
+
+      <td>[[ Akurgal ]]
+        <br
+
+        𒀀𒆳𒃲
+
+      <td>r. c. 2500 BC
+        <br
+
+        (MC)
+
+        <br
+
+        (9 years)
+
+      <td
+        - Son of Ur-Nanshe
+        - Held the title of, //"King of Lagash"//
+        - //temp.// of [[ Ush | ush-king-of-umma ]][[ ^103 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/P1130735_Louvre_st%C3%A8le_des_Vautours_rwk.JPG/120px-P1130735_Louvre_st%C3%A8le_des_Vautours_rwk.JPG" height="120" width="120"
+
+      <td>[[ Eannatum ]]
+        <br
+
+        𒂍𒀭𒈾𒁺
+
+      <td>r. c. 2450 BC
+        <br
+
+        (MC)
+
+        <br
+
+        (27 years)
+
+      <td
+        - Grandson of Ur-Nanshe (?)
+        - Held the title of, //"[[ King of Kish | king-of-the-universe#sargon-of-akkad-and-his-successors-23342154-bc ]]"//
+        - //temp.//[[ Enakalle ]][[ ^103 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_name_of_Enannatum_I%2C_ruler_or_king_of_Lagash_is_mentioned_in_this_inscribed_cuneiform_text._Detail_of_a_stone_plaque._Circa_2420_BCE._From_Girsu%2C_Iraq._The_British_Museum%2C_London.jpg/120px-thumbnail.jpg" height="80" width="120"
+
+      <td>[[ Enannatum I ]]
+        <br
+
+        𒂗𒀭𒈾𒁺
+
+      <td>r. c. 2425 BC
+        <br
+
+        (MC)
+
+        <br
+
+        (4 years)
+
+      <td
+        - Brother of Eannatum (?)
+        - Held the title of, //"Governor of Lagash"//
+        - //temp.//[[ Ur-Lumma ]][[ ^103 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Statue_of_Entemena%2C_Iraq_Museum.jpg/120px-Statue_of_Entemena%2C_Iraq_Museum.jpg" height="180" width="120"
+
+      <td>[[ Entemena ]]
+        <br
+
+        𒂗𒋼𒈨𒈾
+
+      <td>r. c. 2420 BC
+        <br
+
+        (MC)
+
+        <br
+
+        (27 years)
+
+      <td
+        - Son of Enannatum I
+        - Held the title of //"Governor of Lagash"//.[[ ^103 ]]
+        - //temp.//[[ Il | il-king-of-umma ]] of Umma (r.c. 2420BC).[[ ^103 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/British_Museum_-_Room_56_%2821162542886%29.jpg/120px-British_Museum_-_Room_56_%2821162542886%29.jpg" height="80" width="120"
+
+      <td>[[ Enannatum II ]]
+        <br
+
+        𒂗𒀭𒈾𒁺
+
+      <td>r. c. 2400 BC
+        <br
+
+        (MC)
+
+        <br
+
+        (5 years)
+
+      <td
+        - Son of Entemena.[[ ^103 ]]
+        - Held the title of //"Governor of Lagash"//.[[ ^103 ]]
+        - //temp.//[[ Gishakidu ]] of Umma (r.c. 2400BC).[[ ^103 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Report_to_Enentarzi_of_the_defeat_of_600_Elamites_who_came_to_plunder_Lagash.jpg/120px-Report_to_Enentarzi_of_the_defeat_of_600_Elamites_who_came_to_plunder_Lagash.jpg" height="62" width="120"
+
+      <td>[[ Enentarzi ]]
+        <br
+
+        𒂗𒇷𒋻𒍣
+
+      <td>r. c. 2400 BC
+        <br
+
+        (MC)
+
+        <br
+
+        (5 years)
+
+      <td
+        - A priest of Lagash.[[ ^103 ]]
+        - Held the title of //"Governor of Lagash"//.[[ ^103 ]]
+        - //temp.// Meanedu of Umma (r.c. 2400BC).[[ ^103 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Seal_Lugalanda_Louvre_AO13219.jpg/120px-Seal_Lugalanda_Louvre_AO13219.jpg" height="115" width="120"
+
+      <td>[[ Lugalanda ]]
+        <br
+
+        𒈗𒀭𒁕
+
+      <td>r. c. 2400 BC
+        <br
+
+        (MC)
+
+        <br
+
+        (6 years and 1 month)
+
+      <td
+        - Historicity certain.[[ ^103 ]]
+        - Held the title of //"Governor of Lagash"//.[[ ^103 ]]
+        - //temp.//[[ Lugal-kisalsi ]] of [[ Uruk ]] (r.c. 2400BC).[[ ^103 ]]
+
+    <tr
+      <td colspan="4">!!Proto-Imperial period (c. 2350 – c. 2260 BC)!!
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Clay_cone_Urukagina_Louvre_AO4598ab.jpg/120px-Clay_cone_Urukagina_Louvre_AO4598ab.jpg" height="100" width="120"
+
+      <td>[[ Urukagina ]]
+        <br
+
+        𒌷𒅗𒄀𒈾
+
+      <td>r. c. 2350 BC
+        <br
+
+        (MC)
+
+        <br
+
+        (11 years)
+
+      <td
+        - Held the title of //"King of Lagash"//.[[ ^103 ]]
+        - Issued a proclamation of social reforms.[[ ^103 ]]
+        - //temp.//[[ Lugalzagesi ]] of Umma (r.c. 2355–c. 2316BC).[[ ^103 ]]
+
+    <tr
+      <td
+
+      <td>Meszi
+
+      <td rowspan="2">//Uncertain//; these two rulers may have r. c. 2342 – c. 2260 BC sometime during the Proto-Imperial period.[[ ^103 ]]
+
+      <td
+        - //temp.//[[ Sargon of Akkad ]] (r.c. 2335–c. 2279BC).[[ ^103 ]]
+
+    <tr
+      <td
+
+      <td>Kitushi
+
+      <td
+        - Held the title of //"Governor of Lagash"//.[[ ^103 ]]
+        - //temp.//[[ Rimush of Akkad ]] (r.c. 2279–c. 2270BC).[[ ^103 ]]
+
+    <tr
+      <th>Portrait or inscription
+
+      <th>Ruler
+
+      <th>Approx. date and length of reign
+
+      <th>Comments, notes, and references for mentions
+
+    <tr
+      <td colspan="4">!![[ Akkadian period ]] (c. 2260 – c. 2154 BC)!!
+
+    <tr
+      <th colspan="4">[[ Second dynasty of Lagash / Lagash II dynasty | sumer#2nd-dynasty-of-lagash ]] (c. 2260 – c. 2023 BC)
+
+    <tr
+      <td
+
+      <td>Ki-Ku-Id
+
+      <td>r. c. 2260 BC
+        <br
+
+        (MC)
+
+      <td
+
+    <tr
+      <td
+
+      <td>Engilsa
+
+      <td>r. c. 2250 BC
+        <br
+
+        (MC)
+
+      <td
+
+    <tr
+      <td
+
+      <td>Ur-A
+
+      <td>r. c. 2230 BC
+        <br
+
+        (MC)
+
+      <td
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lugal-ushumgal%2C_ensi_of_Lagash%2C_circa_2200_BCE.jpg/120px-Lugal-ushumgal%2C_ensi_of_Lagash%2C_circa_2200_BCE.jpg" height="80" width="120"
+
+      <td>([[ Lugal-ushumgal ]])
+        <br
+
+        𒈗𒃲𒁔
+
+      <td>r. c. 2230 – c. 2210 BC
+        <br
+
+        (MC)
+
+      <td
+        - Historicity certain.
+        - Held the title of //"Governor of Lagash"//.
+        - //temp.//[[ Naram-Sin of Akkad ]] (r.c. 2254–c. 2218BC).
+
+    <tr
+      <td
+
+      <td>([[ Puzer-Mama ]])
+        <br
+
+        𒅤𒊭𒀭𒈠𒈠
+
+      <td rowspan="7">//Uncertain//; these seven rulers may have r. c. 2210 – c. 2164 BC sometime during the Akkadian period.
+
+      <td
+        - Held the title of //"King of Lagash"//.
+        - //temp.//[[ Shar-Kali-Sharri ]] of [[ Akkad | akkad-city ]] (r.c. 2218–c. 2193BC).
+        - Wrested independence from the Akkadian empire.
+
+    <tr
+      <td
+
+      <td>[[ Ur-Ningirsu I ]][[ ^104 ]]
+        <br
+
+        𒌨𒀭𒎏𒄈𒍪
+
+      <td
+
+    <tr
+      <td
+
+      <td>Ur-Mama
+
+      <td
+
+    <tr
+      <td
+
+      <td>Ur-Utu
+
+      <td
+
+    <tr
+      <td
+
+      <td>Lu-Baba[[ ^104 ]]
+
+      <td
+
+    <tr
+      <td
+
+      <td>Lugula[[ ^104 ]]
+        <br
+
+        𒇽𒄖𒆷
+
+      <td
+
+    <tr
+      <td
+
+      <td>Kaku[[ ^104 ]]
+        <br
+
+        𒅗𒆬
+
+      <td
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Diorite_Statue_of_Ur-Ba%27u%2C_Prince_of_Lagash%2C_c._2130_BC.jpg/120px-Diorite_Statue_of_Ur-Ba%27u%2C_Prince_of_Lagash%2C_c._2130_BC.jpg" height="202" width="120"
+
+      <td>[[ Ur-Baba ]]
+        <br
+
+        𒌨𒀭𒁀𒌑
+
+      <td>r. c. 2164 – c. 2144 BC
+        <br
+
+        (MC)
+
+        <br
+
+      <td
+        - Historicity certain.
+        - Held the title of //"King of Lagash"//.
+        - //temp.//[[ Shu-turul ]] of Akkad (r.c. 2168–c. 2154BC).
+
+    <tr
+      <td colspan="4">!![[ Gutian period ]] (c. 2154 – c. 2119 BC)!!
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gudea_of_Lagash_Girsu.jpg/120px-Gudea_of_Lagash_Girsu.jpg" height="180" width="120"
+
+      <td>[[ Gudea ]]
+        <br
+
+        𒅗𒌤𒀀
+
+      <td>r. c. 2144 – c. 2124 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 2080 – c. 2060 BC(SC)
+
+      <td
+        - Son-in-law of Ur-Baba.
+        - Held the title of //"Governor of Lagash"//.
+        - //temp.//[[ Ishtup-Ilum ]] of [[ Mari | mari-syria ]] (r.c. 2147–c. 2136BC).
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ur-Ningirsu_ruler_of_Lagash_portrait_circa_2110_BCE.jpg/120px-Ur-Ningirsu_ruler_of_Lagash_portrait_circa_2110_BCE.jpg" height="179" width="120"
+
+      <td>[[ Ur-Ningirsu II ]]
+        <br
+
+        𒌨𒀭𒎏𒄈𒍪
+
+      <td>r. c. 2124 – c. 2119 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 2060 – c. 2055 BC(SC)
+
+      <td
+        - Son of Gudea.
+        - Historicity certain.
+        - Held the title of //"Governor of Lagash"//.
+
+    <tr
+      <td
+
+      <td>[[ Pirig-me ]]
+        <br
+
+        𒊊𒀞
+
+      <td>r. c. 2119 – c. 2117 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 2055 – c. 2053 BC(SC)
+
+      <td
+        - Son of Ur-Ningirsu.[[ ^104 ]]
+        - Historicity certain.
+        - Held the title of //"Governor of Lagash"//.
+
+    <tr
+      <td
+
+      <td>[[ Ur-gar ]]
+        <br
+
+        𒌨𒃻
+
+      <td>r. c. 2117 – c. 2113 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 2053 – c. 2049 BC(SC)
+
+      <td
+        - Son-in-law of Ur-Baba.
+        - Historicity certain.
+        - Held the title of //"Governor of Lagash"//.
+
+    <tr
+      <td colspan="4">!![[ Ur III period ]] (c. 2119 – c. 2004 BC)!!
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Human-headed_bull_in_the_name_of_King_Nam-Mahani_of_Lagash%2C_dedicated_to_Nanshe%2C_circa_2100_BCE.jpg/120px-Human-headed_bull_in_the_name_of_King_Nam-Mahani_of_Lagash%2C_dedicated_to_Nanshe%2C_circa_2100_BCE.jpg" height="80" width="120"
+
+      <td>[[ Nam-mahani ]]
+        <br
+
+        𒉆𒈤𒉌
+
+      <td>r. c. 2113 – c. 2110 BC
+        <br
+
+        (MC)
+
+        <br
+
+        r. c. 2049 – c. 2046 BC(SC)
+
+      <td
+        - Grandson of Kaku.
+        - Held the title of //"Governor of Lagash"//.
+        - //temp.//[[ Ur-Nammu ]] of [[ Ur ]] (r.c. 2112–c. 2094BC).
+
+    <tr
+      <td
+
+      <td>Ur-Ninsuna
+
+      <td>r. c. 2090 – c. 2080 BC
+        <br
+
+        (MC)
+
+      <td
+
+    <tr
+      <td
+
+      <td>Ur-Nikimara
+
+      <td>r. c. 2080 – c. 2070 BC
+        <br
+
+        (MC)
+
+      <td
+
+    <tr
+      <td
+
+      <td>Lu-Kirilaza
+
+      <td>r. c. 2070 – c. 2050 BC
+        <br
+
+        (MC)
+
+      <td
+
+    <tr
+      <td
+
+      <td>Ir-Nanna
+
+      <td>r. c. 2050 – c. 2023 BC
+        <br
+
+        (MC)
+
+      <td
+
+[[ ^4 ]]: [NU,,11,,.BUR].LA^^[[ KI | determinative ]]^^ or [ŠIR.BUR].LA^^[[ KI | determinative ]]^^, "storehouse" [[ Akkadian | akkadian-language ]]: //Nakamtu//;
+
+[[ ^5 ]]: Williams, Henry (2018). [[ //Ancient Mesopotamia// | https://books.google.com/books?id=dPF4DwAAQBAJ&pg=PT57 ]]. Ozymandias Press. p. 57. ISBN [[ 978-1-5312-6292-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-5312-6292-1 ]].
+
+[[ ^6 ]]: McMahon, Augusta, et al., "[[ Dense urbanism and economic multi-centrism at third-millennium BC Lagash | https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2D27165A470831B32B9B29C72EBEF8AD/S0003598X23000364a.pdf/dense-urbanism-and-economic-multi-centrism-at-third-millennium-bc-lagash.pdf ]]", Antiquity, pp. 1-20, 2023
+
+[[ ^7 ]]: Westenholz, Joan Goodnick (1984). [[ "Kaku of Ur and Kaku of Lagash" | https://www.jstor.org/stable/544849 ]]. //Journal of Near Eastern Studies//. !!43!! (4): 339–342. doi:[[ 10.1086/373095 | https://doi.org/10.1086%2F373095 ]]. ISSN [[ 0022-2968 | https://search.worldcat.org/issn/0022-2968 ]]. JSTOR [[ 544849 | https://www.jstor.org/stable/544849 ]]. S2CID [[ 161962784 | https://api.semanticscholar.org/CorpusID:161962784 ]].
+
+[[ ^8 ]]: CHH,"[[ Sumerian Diorite Head: Purchased from the Francis Bartlett Donation of 1912 | https://www.jstor.org/stable/pdf/4170053.pdf ]]", Bulletin of the Museum of Fine Arts, pp.  30-34, 1927
+
+[[ ^9 ]]: Sollberger, Edmond. “The Rulers of Lagaš.” Journal of Cuneiform Studies, vol. 21, pp. 279–91, 1967
+
+[[ ^10 ]]: [[ "The rulers of Lagaš" | http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.1.2 ]]. //[[ Electronic Text Corpus of Sumerian Literature ]]//. June 1, 2003 [1998]. Retrieved 2021-07-26.
+
+[[ ^11 ]]: Barton, George A., "[[ Sumerian Business and Administrative Documents | https://archive.org/download/publications09pennuoft/publications09pennuoft.pdf ]]", Philadelphia University, 1915
+
+[[ ^12 ]]: [[ "Enhegal" | https://cdli.ox.ac.uk/wiki/doku.php?id=enhegal ]]. //CDLI Wiki//. January 14, 2010. Retrieved 2020-12-22.
+
+[[ ^13 ]]: Maeda, Tohru, "[[ King of Kish" in Pre-Sargonic Sumer | https://www.jstage.jst.go.jp/article/orient1960/17/0/17_0_1/_pdf ]]", Orient 17, pp. 1-17, 1981
+
+[[ ^14 ]]: Frayne, Douglas R., "Royal Inscriptions of Mesopotamia: Early Periods", RIME 1.08, 2007
+
+[[ ^15 ]]: Romano, Licia, "Urnanshe’s Family and the Evolution of Its Inside Relationships as Shown by Images", La famille dans le Proche-Orient ancien: réalités, symbolismes et images: Proceedings of the 55e Rencontre Assyriologique Internationale, Paris, edited by Lionel Marti, University Park, USA: Penn State University Press, pp. 183-192, 2014
+
+[[ ^16 ]]: Jacobsen, Thorkild, "Ur-Nanshe’s Diorite Plaque", Orientalia, vol. 54, no. 1/2, pp. 65–72, 1985
+
+[[ ^17 ]]: Douglas Frayne, "Lagas", in Presargonic Period: Early Periods, Volume 1 (2700-2350 BC), RIM The Royal Inscriptions of Mesopotamia Volume 1, Toronto: University of Toronto Press, pp. 77-293, 2008 ISBN 9780802035868
+
+[[ ^18 ]]: Wilson, Karen, "[[ Bismaya: Recovering the Lost City of Adab | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip138.pdf ]]", Oriental Institute Publications 138, Chicago, Ill, Univ. of Chicago Press, 2012 ISBN 9781885923639
+
+[[ ^19 ]]: Curchin, Leonard, "Eannatum and the Kings of Adab", Revue d’Assyriologie et d’archéologie Orientale, vol. 71, no. 1, pp. 93–95, 1977
+
+[[ ^20 ]]: Steinkeller, Piotr (2018-01-29). [[ "The birth of Elam in history" | https://www.taylorfrancis.com/chapters/edit/10.4324/9781315658032-11/birth-elam-history-piotr-steinkeller ]]. //The Elamite World//. Routledge. pp. 177–202. doi:[[ 10.4324/9781315658032-11 | https://doi.org/10.4324%2F9781315658032-11 ]]. ISBN [[ 978-1-315-65803-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-315-65803-2 ]].
+
+[[ ^21 ]]: Vukosavović, Filip, "On Some Early Dynastic Lagaš Temples", Die Welt Des Orients, vol. 44, no. 1, pp. 126–30, 2014
+
+[[ ^22 ]]: Foster, Benjamin R. and Foster, Karen Polinger, "Early City-States", Civilizations of Ancient Iraq, Princeton: Princeton University Press,  pp. 35-50, 2009
+
+[[ ^23 ]]: Hritz, C., "[[ The Umma-Lagash Border Conflict: A View from Above | https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/Publications/SAOC/saoc71.pdf ]]" in Altaweel, M. and Hritz, C. (eds.), From Sherds to Landscapes: Studies on the Ancient Near East in Honor of McGuire Gibson. Chicago: The Oriental Institute of the University of Chicago, pp. 109–32, 2021
+
+[[ ^24 ]]: Jerrold S. Cooper, "Reconstructing History from Ancient Inscriptions:The Lagash-Umma Border Conflict", Sources from the Ancient Near East 2/1; Malibu, CA: Undena, 1983
+
+[[ ^25 ]]: [[ "Vase of Lugalzagezi" | https://research.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=368267&page=5&partId=1&searchText=lugalzagesi ]]. //British Museum//.
+
+[[ ^26 ]]: Winter, Irene J., "After the Battle Is Over: The ‘Stele of the Vultures’ and the Beginning of Historical Narrative in the Art of the Ancient Near East", Studies in the History of Art, vol. 16, pp. 11–32, 1985
+
+[[ ^27 ]]: Alster, Bendt., "Images and Text on the ‘Stele of the Vultures.’", Archiv Für Orientforschung, vol. 50, pp. 1–10, 2003
+
+[[ ^28 ]]: Grant, R.G. (2005). //Battle//. London: Dorling Kindersley Limited. ISBN [[ 978-1-74033-593-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-74033-593-5 ]].
+
+[[ ^29 ]]: Cooper, Jerrold S., "Sumerian and Akkadian Royal Inscriptions, I. Presargonic Inscriptions", The  American  Oriental  Society  Translation  Series  1, New Haven: American Oriental Society, 1986
+
+[[ ^30 ]]: Nies, James B., "A Net Cylinder of Entemena", Journal of the American Oriental Society, vol. 36, pp. 137–39, 1916
+
+[[ ^31 ]]: Barton, George A., "A New Inscription of Entemena", Journal of the American Oriental Society, vol. 51, no. 3, pp. 262–65, 1931
+
+[[ ^32 ]]: Gadd, C. J., "Entemena : A New Incident", Revue d’Assyriologie et d’archéologie Orientale, vol. 27, no. 3, pp. 125–26, 1930
+
+[[ ^33 ]]: A. Deimel, "Die Reformtexte Urukaginas", Or. 2, 1920
+
+[[ ^34 ]]: Foxvog, Daniel A., "A New Lagaš Text Bearing on Uruinimgina’s Reforms", Journal of Cuneiform Studies, vol. 46, pp. 11–15, 1994
+
+[[ ^35 ]]: Lambert, Maurice, "La guerre entre Urukagina et Lugalzagesi", Rivista Degli Studi Orientali, vol. 41, no. 1, pp. 29–66, 1966
+
+[[ ^36 ]]: Stephens, Ferris J., "Notes on Some Economic Texts of the Time of Urukagina", Revue d’Assyriologie et d’archéologie Orientale, vol. 49, no. 3, 1955, pp. 129–36
+
+[[ ^37 ]]: Joachim Marzahn, "Altsumerische Verwaltungstexteaus Girsu/Lagaš. Vorderasiatische Schriftdenkmälerder Staatlichen Museen zu Berlin, Neue Folge Heft IX (Heft XXV), Berlin, Akademie-Verlag, 1991
+
+[[ ^38 ]]: Barton, George A., "The Babylonian Calendar in the Reigns of Lugalanda and Urkagina", Journal of the American Oriental Society, vol. 31, no. 3, pp. 251–71, 1911
+
+[[ ^39 ]]: Schrakamp, Ingo, "[[ Irrigation in 3rd millennium southern Mesopotamia: cuneiform evidence from the Early Dynastic IIIB City-State of Lagash (2475–2315 BC) | https://refubium.fu-berlin.de/bitstream/handle/fub188/23835/bsa_053_07.pdf?sequence=1 ]]", in Water Management in Ancient Civilizations, pp. 117-195, 2018
+
+[[ ^40 ]]: [[ "MS 2814 – The Schoyen Collection" | https://www.schoyencollection.com/history-collection-introduction/sumerian-history-collection/cuneiform-indus-valley-ms-2814 ]]. //www.schoyencollection.com//.
+
+[[ ^41 ]]: Hamblin, William J. (2006). [[ //Warfare in the Ancient Near East to 1600 BC: Holy Warriors at the Dawn of History// | https://books.google.com/books?id=biyDDd0uKGMC&pg=PT93 ]]. Routledge. ISBN [[ 978-1-134-52062-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-134-52062-6 ]].
+
+[[ ^42 ]]: Crowe, D. (2014). [[ //War Crimes, Genocide, and Justice: A Global History// | https://books.google.com/books?id=tSnFAgAAQBAJ&pg=PT10 ]]. Springer. p. 10. ISBN [[ 978-1-137-03701-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-137-03701-5 ]].
+
+[[ ^43 ]]: [[ "Site officiel du musée du Louvre" | http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=12124 ]]. //cartelfr.louvre.fr//.
+
+[[ ^44 ]]: Heuzey, Léon (1895). "Le Nom d'Agadé Sur Un Monument de Sirpourla". //Revue d'Assyriologie et d'archéologie orientale//. !!3!! (4): 113–117. ISSN [[ 0373-6032 | https://search.worldcat.org/issn/0373-6032 ]]. JSTOR [[ 23284246 | https://www.jstor.org/stable/23284246 ]].
+
+[[ ^45 ]]: Thomas, Ariane; Potts, Timothy (2020). [[ //Mesopotamia: Civilization Begins// | https://books.google.com/books?id=VsHEDwAAQBAJ&pg=PA179 ]]. Getty Publications. p. 79. ISBN [[ 978-1-60606-649-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-60606-649-2 ]].
+
+[[ ^46 ]]: [[ "Musée du Louvre-Lens - Portail documentaire - Stèle de victoire du roi Rimush (?)" | http://ressources.louvrelens.fr/EXPLOITATION/oeuvre-ao-2678.aspx ]]. //ressources.louvrelens.fr// (in French).
+
+[[ ^47 ]]: McKeon, John F. X. (1970). "An Akkadian Victory Stele". //Boston Museum Bulletin//. !!68!! (354): 235. ISSN [[ 0006-7997 | https://search.worldcat.org/issn/0006-7997 ]]. JSTOR [[ 4171539 | https://www.jstor.org/stable/4171539 ]].
+
+[[ ^48 ]]: Thomas, Ariane; Potts, Timothy (2020). [[ //Mesopotamia: Civilization Begins// | https://books.google.com/books?id=VsHEDwAAQBAJ&pg=PA179 ]]. Getty Publications. p. 79. ISBN [[ 978-1-60606-649-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-60606-649-2 ]].
+
+[[ ^49 ]]: Foster, Benjamin R. (1985). "The Sargonic Victory Stele from Telloh". //Iraq//. !!47!!: 15–30. doi:[[ 10.2307/4200229 | https://doi.org/10.2307%2F4200229 ]]. JSTOR [[ 4200229 | https://www.jstor.org/stable/4200229 ]]. S2CID [[ 161961660 | https://api.semanticscholar.org/CorpusID:161961660 ]].
+
+[[ ^50 ]]: Volk, K., "Puzur-Mama und die Reise des Königs", Zeitschrift  fiir  Assyriologie und verwandte Gebiete, vol. 82 (ZA. 82),  Berlin, 1992
+
+[[ ^51 ]]: Edzard, Sibylle, "Ur-Ningirsu I", Gudea and his Dynasty, Toronto: University of Toronto Press, pp. 7-11, 1997
+
+[[ ^52 ]]: Edzard, Sibylle, "Pirig-me", Gudea and his Dynasty, Toronto: University of Toronto Press, pp. 12-13, 1997
+
+[[ ^53 ]]: Suter, Claudia E, "Who are the Women in Mesopotamian Art from ca. 2334-1763 BCE?", Who are the Women in Mesopotamian Art from ca. 2334-1763 BCE?", Kaskal, vol. 5, 1000-1055, 2008
+
+[[ ^54 ]]: Heimpel, Wolfgang, "The Gates of the Eninnu", Journal of Cuneiform Studies, vol. 48, pp. 17–29, 1996
+
+[[ ^55 ]]: Edzard, Sibylle, "Ur-Baba", Gudea and his Dynasty, Toronto: University of Toronto Press, pp. 15-25, 1997
+
+[[ ^56 ]]: Zarins, Juris, "Lagash and the Gutians: a study of late 3rd millennium BC Mesopotamian archaeology, texts and politics", In Context: the Reade Festschrift, pp. 11-42, 2020
+
+[[ ^57 ]]: H. Steible, "Neusumerische Bau- und Weihinschriften, Teil 1: Inschriften der II. Dynastie von Lagas", FAOS9/1, Stuttgart 1991
+
+[[ ^58 ]]: Molina Martos, Manuel, and Massimo Maiocchi, "[[ Pre-Ur III administrative cuneiform tablets in the British Museum. I. Texts from the archives of Gudea's Dynasty | https://digital.csic.es/bitstream/10261/245574/1/pre_ur_administrative_british_museum.pdf ]]", Kaskal, vol. 15, pp. 1-46, 2018
+
+[[ ^59 ]]: Ira M. Price, "The great cylinder inscriptions A & B of Gudea: copied from the original clay cylinders of the Telloh Collection preserved in the Louvre. Transliteration, translation, notes, full vocabulary and sign-lifts", [[ Volume 1 | https://archive.org/download/greatcylinderins01pricuoft/greatcylinderins01pricuoft.pdf ]] [[ Volume 2 | https://archive.org/download/greatcylinderins02pricuoft/greatcylinderins02pricuoft.pdf ]], Hinrichs, 1899
+
+[[ ^60 ]]: Suter, Claudia E., "A New Edition of the Lagaš II Royal Inscriptions Including Gudea’s Cylinders", Journal of Cuneiform Studies, vol. 50,  pp. 67–75, 1998
+
+[[ ^61 ]]: Suter, Claudia E. Gudea's temple building: A comparison of written and pictorial accounts", Brill, 2000 ISBN [[ 978-90-56-93035-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-90-56-93035-6 ]]
+
+[[ ^62 ]]: Bartash, Vitali, "Gudea's Iranian Slaves: An Anatomy of Transregional Forced Mobility", Iraq 84, pp. 25-42, 2022
+
+[[ ^63 ]]: Hansen, Donald P, "A sculpture of Gudea, governor of Lagash", Bulletin of the Detroit Institute of Arts 64.1, pp. 4-19, 1988
+
+[[ ^64 ]]: [[ Year Names of Gudea at CDLI | https://cdli-gh.github.io/year-names/HTML/T4K2.htm ]]
+
+[[ ^65 ]]: Steinkeller, Piotr, "The Date of Gudea and His Dynasty", Journal of Cuneiform Studies, vol. 40, no. 1, pp. 47–53, 1988
+
+[[ ^66 ]]: Michalowski, Piotr, "Networks of Authority and Power in Ur III Times", in From the 21st Century B.C. to the 21st Century A.D.: Proceedings of the International Conference on Neo-Sumerian Studies Held in Madrid, 22–24 July 2010, edited by Steven J. Garfinkle and Manuel Molina, University Park, USA: Penn State University Press, pp. 169-206, 2013
+
+[[ ^67 ]]: Maeda, Tohru, "Two Rulers by the Name of Ur-Ningirsu in Pre-Ur III Lagash", acta sumerologica Japan 10, pp. 19–35, 1988
+
+[[ ^68 ]]: Finkelstein, J. J., "The Laws of Ur-Nammu", Journal of Cuneiform Studies, vol. 22, no. 3/4, pp. 66–82, 1968
+
+[[ ^69 ]]: Maekawa, Kazuya, "The erín-people in Lagash of Ur III times", Revue d'Assyriologie et d'archéologie orientale 70.1, pp. 9-44, 1976
+
+[[ ^70 ]]: Maekawa, Kazuya, "The agricultural texts of Ur III Lagash of the British Museum (V)", Acta Sumerologica 3, pp. 37-61, 1981
+
+[[ ^71 ]]: Maekawa, Kazuya, "The agricultural texts of Ur III Lagash of the British Museum (VIII)", ASJ, vol. 14, pp. 145-169, 1992
+
+[[ ^72 ]]: Zarins, Juris, "Magan Shipbuilders at the Ur III Lagash State Dockyards (2062-2025 BC)", in Intercultural Relations Between South and Southwest Asia. Studies in Commemoration of ECL During Caspers (1934–1996), Oxford: BAR International Series (1826), pp. 209-229, 2008
+
+[[ ^73 ]]: Frayne, Douglas, "Ibbi-Sîn E3/2.1.5", in Ur III Period (2112-2004 BC), Toronto: University of Toronto Press, pp. 361-392, 1997
+
+[[ ^74 ]]: E. Hammer. Multi-centric, marsh-based urbanism at the early Mesopotamian city of Lagash (Tell al-Hiba, Iraq). Journal of Anthropological Archaeology. Vol. 68, December 2022, 101458. doi: 10.1016/j.jaa.2022.101458
+
+[[ ^75 ]]: Pittman, Holly, et al., "Response to Emily Hammer’s article:“Multi-centric, Marsh-based urbanism at the early Mesopotamian city of Lagash (Tell al Hiba, Iraq)”", Journal of Anthropological Archaeology, 2023
+
+[[ ^76 ]]: Koldewey, Robert (1887-01-01). [[ "Die altbabylonischen Gräber in Surghul und El Hibba" | https://www.degruyter.com/document/doi/10.1515/zava.1887.2.1.403/html ]]. //Zeitschrift für Assyriologie und Vorderasiatische Archäologie// (in German). !!2!! (Jahresband): 403–430. doi:[[ 10.1515/zava.1887.2.1.403 | https://doi.org/10.1515%2Fzava.1887.2.1.403 ]]. ISSN [[ 1613-1150 | https://search.worldcat.org/issn/1613-1150 ]]. S2CID [[ 162346912 | https://api.semanticscholar.org/CorpusID:162346912 ]].
+
+[[ ^77 ]]: [[ https://cdli.mpiwg-berlin.mpg.de/articles/cdlj/2024-1 | https://cdli.mpiwg-berlin.mpg.de/articles/cdlj/2024-1 ]] Nissen, Hans J., "Uruk and I", Cuneiform Digital Library Journal 2024 (1), 2024
+
+[[ ^78 ]]: Falkenstein, Adam, "Die Inschriften Gudeas von Lagaš", Analecta Orientalia 30, Rome: Biblical Institute Press, 1966
+
+[[ ^79 ]]: Amiaud, Arthur. "[[ The Inscriptions of Telloh | http://www.sacred-texts.com/ane/rp/rp201/rp20112.htm ]]." //Records of the Past,// 2nd Ed. Vol. I. Ed. by A. H. Sayce, 1888. Accessed 19 Dec 2010. M. Amiaud notes that a Mr. Pinches (in his //Guide to the Kouyunjik Gallery//) contended ŠIR.BUR.LA^^ki^^ could be a logographic representation of "Lagash," but inconclusively.
+
+[[ ^80 ]]: Donald P. Hansen, "Al-Hiba, 1968–1969: A Preliminary Report", //[[ Artibus Asiae ]]//, 32, pp. 243–58, 1970
+
+[[ ^81 ]]: Donald P. Hansen, "Al-Hiba, 1970–1971: A Preliminary Report", //Artibus Asiae//, 35, pp. 2–70, 1973
+
+[[ ^82 ]]: Donald P. Hansen, "[[ Al-Hiba: A summary of four seasons of excavation: 1968–1976 | https://findit.library.yale.edu/images_layout/view?parentoid=15763284&increment=70 ]]", //Sumer//, 34, pp. 72–85, 1978
+
+[[ ^83 ]]: Vaughn E. Crawford, "Inscriptions from Lagash, Season Four, 1975–76", //[[ Journal of Cuneiform Studies ]]//, 29, pp. 189–222, 1977
+
+[[ ^84 ]]: [[ "Excavations in Iraq 1989-1990" | https://www.jstor.org/stable/4200346 ]]. //Iraq//. !!53!!: 169–182. 1991. doi:[[ 10.1017/S0021088900004277 | https://doi.org/10.1017%2FS0021088900004277 ]]. ISSN [[ 0021-0889 | https://search.worldcat.org/issn/0021-0889 ]]. JSTOR [[ 4200346 | https://www.jstor.org/stable/4200346 ]]. S2CID [[ 249898405 | https://api.semanticscholar.org/CorpusID:249898405 ]].
+
+[[ ^85 ]]: Hansen, D. P., "The Sixth Season at Al-Hiba", Mār Šipri 3 (1): 1–3, 1990
+
+[[ ^86 ]]: S. Renette, "Lagash I: The Ceramic Corpus from Al-Hiba, 1968–1990 A Chrono-Typology of the Pottery Tradition in Southern Mesopotamia during the 3rd and Early 2nd Millenium BCE", Brepols, 2021 ISBN [[ 978-2-503-59020-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-2-503-59020-2 ]]
+
+[[ ^87 ]]: E. Carter, "[[ A surface survey of Lagash, al-Hiba | https://findit.library.yale.edu/images_layout/view?parentoid=15763307&increment=58 ]]", 1984,// Sumer//, vol. 46/1-2, pp. 60–63, 1990
+
+[[ ^88 ]]: [[ Lagash Archaeological Project | https://web.sas.upenn.edu/lagash/ ]]
+
+[[ ^89 ]]: Ashby, Darren P., and Holly Pittman, "The Excavations at Tell al-Hiba–Areas A, B, and G", in Ancient Lagash Current Research and Future Trajectories - Proceedings of the Workshop held at the 10th ICAANE in Vienna, April 2016, pp. 87-114, 2022
+
+[[ ^90 ]]: Hammer, Emily, Elizabeth Stone, and Augusta McMahon. "[[ The Structure and Hydrology of the Early Dynastic City of Lagash (Tell al-Hiba) from Satellite and Aerial Images | https://www.cambridge.org/core/journals/iraq/article/structure-and-hydrology-of-the-early-dynastic-city-of-lagash-tell-alhiba-from-satellite-and-aerial-images/31702C1B64092F43C1275CB8FB640811 ]]". Iraq, vol. 84, pp. 1-25, 2022
+
+[[ ^91 ]]: Pittman, Holly, "[[ Lagash Archaeological Project, Dhi Qar Province, Iraq: The First Four Seasons, 1LAP-4LAP, 2019-2022 | https://web.sas.upenn.edu/lagash/current-excavations/current-excavations-publications/ ]]", Video Presentation for the Archaeological Institute of America, National Lecture Program, March 21, 2023
+
+[[ ^92 ]]: [[ Iraq dig uncovers 5,000 year old pub restaurant - Phys.org - Asaad Niazi - February 15, 2023 | https://phys.org/news/2023-02-iraq-uncovers-year-pub-restaurant.html ]]
+
+[[ ^93 ]]: [[ Unearthing the archaeological passing of time at Lagash, a site in southern Iraq - Michele W. Berger, University of Pennsylvania - Phys.org - January 24, 2023 | https://phys.org/news/2023-01-unearthing-archaeological-lagash-site-southern.html ]]
+
+[[ ^94 ]]: [[ Current Excavations Season 4: Fall 2022 - Penn Museum, University of Pennsylvania | https://web.sas.upenn.edu/lagash/current-excavations/2022-fall-season/ ]]
+
+[[ ^95 ]]: [[ https://onlinelibrary.wiley.com/doi/pdf/10.1002/gea.70027 | https://onlinelibrary.wiley.com/doi/pdf/10.1002/gea.70027 ]] Goodman, Reed, et al., "The Flooding of Lagash (Iraq): Evidence for Urban Destruction Under Lugalzagesi, the King of Uruk and Umma", Geoarchaeology 40.5, e70027, 2025
+
+[[ ^96 ]]: [[ https://repository.upenn.edu/cgi/viewcontent.cgi?article=3956&context=edissertations | https://repository.upenn.edu/cgi/viewcontent.cgi?article=3956&context=edissertations ]] Darren Ashby, "Late Third Millennium Bce Religious Architecture At Tell Al-Hiba, Ancient Lagash", Publicly Accessible Penn Dissertations, 2017
+
+[[ ^97 ]]: Beld, S. G., "The queen of Lagash: ritual economy in a Sumerian State", Ph.D Dissertation, Near East Studies, University of Michigan, Ann Arbor, 2002
+
+[[ ^98 ]]: Hansen, Donald P. (1970). [[ "Al-Hiba, 1968-1969, a Preliminary Report" | https://www.jstor.org/stable/3249506 ]]. //Artibus Asiae//. !!32!! (4): 243–258. doi:[[ 10.2307/3249506 | https://doi.org/10.2307%2F3249506 ]]. ISSN [[ 0004-3648 | https://search.worldcat.org/issn/0004-3648 ]]. JSTOR [[ 3249506 | https://www.jstor.org/stable/3249506 ]].
+
+[[ ^99 ]]: Hansen, Donald P. (1973). [[ "Al-Hiba, 1970-1971: A Preliminary Report" | https://www.jstor.org/stable/3249575 ]]. //Artibus Asiae//. !!35!! (1/2): 65. doi:[[ 10.2307/3249575 | https://doi.org/10.2307%2F3249575 ]]. ISSN [[ 0004-3648 | https://search.worldcat.org/issn/0004-3648 ]]. JSTOR [[ 3249575 | https://www.jstor.org/stable/3249575 ]].
+
+[[ ^100 ]]: Donald P. Hansen, "Royal building activity at Sumerian Lagash in the Early Dynastic Period", Biblical Archaeologist, vol. 55, pp. 206–11, 1992
+
+[[ ^101 ]]: [[ Bahrani, Zainab | zainab-bahrani ]], "The administrative building at Tell Al Hiba, Lagash", (Volumes I and II), Ph.D Dissertation, New York University, 1989.
+
+[[ ^102 ]]: [[ "Excavations in Iraq 1989-1990" | https://www.jstor.org/stable/4200346 ]]. //Iraq//. !!53!!: 175. 1991. ISSN [[ 0021-0889 | https://search.worldcat.org/issn/0021-0889 ]]. JSTOR [[ 4200346 | https://www.jstor.org/stable/4200346 ]].
+
+[[ ^103 ]]: Marchesi, Gianni (January 2015). [[ Sallaberger, Walther | walther-sallaberger ]]; Schrakamp, Ingo (eds.). [[ "Toward a Chronology of Early Dynastic Rulers in Mesopotamia" | https://www.academia.edu/10655886 ]]. //History and Philology (ARCANE 3; Turnhout)//: 139–156.
+
+[[ ^104 ]]: [[ "Brief notes on Lagash II chronology [CDLI Wiki\]" | http://cdli.ox.ac.uk/wiki/doku.php?id=brief_notes_on_lagash_ii_chronology ]]. //cdli.ox.ac.uk//.

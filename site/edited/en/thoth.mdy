@@ -1,28 +1,29 @@
 +++
 title: Thoth
 description: Ancient Egyptian deity of the Moon, learning, writing
-hook: The scribes who wrote ancient Egypt down kept a picture of Thoth in
-  their offices, and buried millions of mummified ibises in his honour. He was
-  the god who gave them writing — and, in Plato's telling, the god a king told
-  that his gift was a remedy for reminding, not remembering.
-standfirst: Ibis-headed god of the Moon, writing, wisdom and judgement,
-  worshipped at Hermopolis. He recorded the verdict when hearts were weighed,
-  won five days out of the Moon at gambling, ended up as the Greeks' Hermes,
-  and had the value of his own gift of writing doubted by Plato.
+hook: The Egyptians credited Thoth with the invention of writing; the Greeks
+  went further and made him the inventor of astronomy, mathematics, medicine
+  and civilized government as well. Millions of dead ibis, the bird whose head
+  he usually wears in art, were mummified and buried in his honor.
+standfirst: The ancient Egyptian god of the Moon, wisdom, writing, magic and
+  judgement, drawn with the head of an ibis or a baboon, whose chief temple
+  stood at Hermopolis. Egyptian scribes worshipped him universally and kept
+  his picture in their offices; the Greeks related him to their own Hermes.
 key-facts:
-  - name: Where he was worshipped
-    value: His major cult center was Hermopolis
-  - name: How you know him in a picture
+  - name: God of
+    value: the Moon, wisdom, knowledge, writing, hieroglyphs, science, magic, art,
+      and judgement
+  - name: Major cult center
+    value: Hermopolis
+  - name: Symbols
     value: Ibis, moon disk, papyrus scroll, reed pens, writing palette, stylus,
       baboon, scales
   - name: Consorts
     value: Maat, Seshat, Nehmetawy
   - name: Offspring
     value: Seshat
-  - name: The Greeks called him
-    value: Hermes
-  - name: The Romans called him
-    value: Mercury
+  - name: Counterparts
+    value: Hermes to the Greeks, Mercury to the Romans
 pull-quotes:
   - text: I am thy writing palette, O Thoth, and I have brought unto thee thine
       ink-jar. I am not of those who work iniquity in their secret places; let
@@ -33,102 +34,192 @@ pull-quotes:
     attribution: Egyptian hieroglyphs on an Achaemenid cylinder seal from Iran, c.
       6th–5th century BC
     section: history
+  - text: a remedy for reminding, not remembering, with the appearance but not the
+      reality of wisdom
+    attribution: King Thamus of Egypt on writing, in Plato's Phaedrus
+    section: history
 timeline:
   - when: c. 6th–5th century BC
-    what: An Achaemenid cylinder seal from Iran is cut with Egyptian hieroglyphs
+    what: An Achaemenid cylinder seal from Iran carries Egyptian hieroglyphs
       reading "Thoth is a protection over me".
-  - when: third or second century BC
-    what: Artapanus of Alexandria euhemerizes Thoth-Hermes as a historical human
-      being and claims he was the same person as Moses.
+    from: Modern impression of an [[ Achaemenid ]] cylinder seal from [[ Iran ]],
+      with [[ king holding | master-of-animals ]] two lion [[ griffins |
+      griffin ]] at bay and Egyptian [[ hieroglyphs ]] reading "Thoth is a
+      protection over me". (c. 6th–5th century BC).[[ ^31 ]]
+  - when: Third or second century BC
+    what: Artapanus of Alexandria, an Egyptian Jew, euhemerized Thoth-Hermes as a
+      historical human being and claimed he was the same person as Moses.
+    from: "[[ Artapanus of Alexandria ]], an Egyptian Jew who lived in the third
+      or second century BC, [[ euhemerized | euhemerism ]] Thoth-Hermes as a
+      historical human being and claimed he was the same person as [[ Moses
+      ]], based primarily on their shared roles as authors of texts and
+      creators of laws."
+  - when: Before the beginning of the Christian era
+    what: The Temple of Thoth at Hermopolis was mostly destroyed.
+    from: Later known as //el-Ashmunein// in [[ Egyptian Arabic ]], the Temple of
+      Thoth was mostly destroyed before the beginning of the Christian era.
   - when: "1826"
-    what: The very large pronaos of the Temple of Thoth at Hermopolis is still
-      standing.
-  - when: mid-19th century
-    what: The pronaos is demolished and used as fill for the foundation of a sugar
-      factory.
-  - when: c. 1904
-    what: An image of Thoth appears in The Gods of the Egyptians Volume 1 by E. A.
-      Wallis Budge.
+    what: The temple's very large pronaos was still standing.
+    from: Its very large [[ pronaos ]] was still standing in 1826, but was
+      demolished and used as fill for the foundation of a sugar factory by the
+      mid-19th century.[[ ^3 ]][[ ^4 ]]
+  - when: By the mid-19th century
+    what: The pronaos was demolished and used as fill for the foundation of a
+      sugar factory.
+    from: Its very large [[ pronaos ]] was still standing in 1826, but was
+      demolished and used as fill for the foundation of a sugar factory by the
+      mid-19th century.[[ ^3 ]][[ ^4 ]]
+  - when: "1948"
+    what: The Krewe of Thoth, the Mardi Gras parading group named for him, began
+      riding in New Orleans on the Sunday preceding Mardi Gras, as it has each
+      year since.
+    from: Thoth is the namesake for the Mardi Gras parading group, the “[[ Krewe
+      of Thoth ]]” that has ridden in New Orleans on the Sunday preceding [[
+      Mardi Gras ]] each year since 1948.
   - when: January 2020
-    what: Egypt's Minister of Tourism and Antiquities announces the discovery of
-      the collective graves of senior officials and high clergies of Thoth at
-      Tuna el-Gebel.
+    what: Egypt's Minister of Tourism and Antiquities announced the discovery of
+      collective graves of senior officials and high clergies of Thoth at Tuna
+      el-Gebel in Minya.
+    from: Egypt's Minister of Tourism and Antiquities announced the discovery of
+      the collective graves of senior officials and high clergies of the god
+      Thoth in [[ Tuna el-Gebel ]] in [[ Minya | minya-egypt ]] in January
+      2020.
 image-plan:
   - file: Abydos_Tempelrelief_Sethos_I._19.JPG
     role: hero
     section: lead
-    caption: "Thoth gives the ankh, the Egyptian symbol for life, to pharaoh Seti
-      I: a relief in the Temple of Seti I at Abydos."
+    caption: Thoth holds out the ankh, the Egyptian symbol for life, to the
+      pharaoh Seti I, in a relief in the Temple of Seti I at Abydos.
   - file: Thoth_as_baboo_E17496.jpg
     role: inline
     section: depictions
-    caption: "Not always a bird: a faience statue of Thoth as a baboon, with the
-      moon-disk on his head."
+    caption: A faience statue of Thoth as a baboon, with the moon-disk on his
+      head. He appears as a dog-faced baboon, or a man with a baboon's head,
+      when he is A'an, the god of equilibrium.
   - file: Tot,_Egyptian_God.svg
     role: inline
     section: attributes
-    caption: Thoth as drawn for The Gods of the Egyptians Volume 1 by E. A. Wallis
+    caption: Thoth as drawn in The Gods of the Egyptians Volume 1 by E. A. Wallis
       Budge, c. 1904.
   - file: The_Weighing_of_the_Heart.svg
     role: full
     section: history
-    caption: The jackal-headed Anubis weighs a heart against the feather of truth
-      on the scale of Maat while the ibis-headed Thoth records the result. A
-      heart equal to the feather passes to the afterlife; an imbalance is a
-      meal for Ammit, the chimera of crocodile, lion, and hippopotamus.
-      Details based on the Papyrus of Ani.
+    caption: "Based on the Papyrus of Ani: jackal-headed Anubis weighs a heart
+      against the feather of truth on the scale of Maat, while ibis-headed
+      Thoth records the result. A heart equal to the weight of the feather
+      allows passage to the afterlife; an imbalance results in a meal for
+      Ammit, the chimera of crocodile, lion, and hippopotamus."
   - file: Stela_showing_a_male_adorer_standing_before_2_Ibises_of_Thoth._Limestone,_sunken_relief._Early_19th_Dynasty._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology,_London.jpg
     role: inline
     section: history
-    caption: A worshipper stands before two ibises of Thoth on a limestone stela
-      in sunken relief, early 19th Dynasty.
+    caption: A worshipper before two ibises of Thoth, on a limestone stela in
+      sunken relief from the early 19th Dynasty. Millions of dead ibis were
+      mummified and buried in his honor.
   - file: Cylinder_seal_and_modern_impression_king_holding_two_lion_griffins_at_bay_and_Egyptian_hieroglyphs_ca._6th–5th_century_BC.jpg
     role: inline
     section: history
-    caption: 'Thoth travelled: a modern impression of an Achaemenid cylinder seal
-      from Iran, c. 6th–5th century BC, showing a king holding two lion
-      griffins at bay beside Egyptian hieroglyphs reading "Thoth is a
-      protection over me".'
+    caption: 'Modern impression of an Achaemenid cylinder seal from Iran, c.
+      6th–5th century BC: a king holds two lion griffins at bay, and the
+      Egyptian hieroglyphs read "Thoth is a protection over me".[[ ^31 ]]'
   - file: Thoth_writing.svg
     role: inline
     section: modern-cultural-references
-    caption: Thoth with the tools of his trade, a book and a stylus.
+    caption: Thoth depicted with a book and stylus.
 glossary:
-  - term: Ibis
-    gloss: The bird sacred to Thoth and the usual head on his human body; possibly
-      because the Egyptians saw the curve of its beak as a symbol of the
-      crescent moon.
-  - term: Hermopolis
-    gloss: Thoth's chief temple city — Egyptian //ḫmnw//, Khemenu, Coptic Shmun,
-      later el-Ashmunein — named by the Greeks as the //city of Hermes//.
+  - term: Djehuti
+    gloss: The Egyptological rendering of Thoth's name, the consonant skeleton
+      //ḏḥwty// written without reconstructed vowels. The god is sometimes
+      found under it, though the Greek form "Thoth" is more common.
+    from: Following Egyptological convention, which eschews vowel reconstruction,
+      the consonant skeleton //ḏḥwty// would be rendered "Djehuti" and the god
+      is sometimes found under this name. However, the Greek form "Thoth" is
+      more common.
   - term: Ma'at
-    gloss: Truth and order, and the goddess of it; the principle represented by
-      the feather weighed against a dead person's heart.
-  - term: Duat
-    gloss: The underworld, where Thoth appeared as the ape Aani, god of equilibrium.
+    gloss: Truth or order; Thoth's wife, the principle the feather on the scales
+      represents, and the deity who stood with him on either side of Ra's
+      solar barque.
+    from: His feminine counterpart is [[ Seshat ]], and his wife is [[ Ma'at ]].[[
+      ^2 ]] ... being one of the two deities (the other being [[ Ma'at ]]) who
+      stood on either side of [[ Ra's  | ra ]][[ solar barque ]].[[ ^5 ]] ...
+      the scales weighing the deceased's heart against the feather,
+      representing the principle of Maat, was exactly even.[[ ^7 ]] ... and
+      with Ma'at (truth/order) stood next to Ra on the nightly voyage across
+      the sky.
+  - term: Seshat
+    gloss: Thoth's feminine counterpart, the earlier deification of wisdom, who
+      was said to be his daughter, or variably his wife.
+    from: His feminine counterpart is [[ Seshat ]], and his wife is [[ Ma'at ]].[[
+      ^2 ]] ... his association with learning and measurement led him to be
+      connected with [[ Seshat ]], the earlier deification of wisdom, who was
+      said to be his daughter, or variably his wife.
   - term: Ankh
     gloss: The Egyptian symbol for life, which Thoth is often depicted holding.
+    from: Thoth is often depicted holding an [[ ankh ]], the Egyptian symbol for
+      life.
+  - term: Ammit
+    gloss: The chimera of crocodile, lion, and hippopotamus that makes a meal of a
+      heart that does not balance the feather of truth.
+    from: Having a heart equal to the weight of the feather allows passage to the
+      afterlife, whereas an imbalance results in a meal for [[ Ammit ]], the
+      chimera of crocodile, lion, and hippopotamus.
+  - term: Hermopolis
+    gloss: Thoth's cult center, Khmun or Khemenu in Egyptian, which the Greeks
+      named Hermopolis, meaning //city of Hermes//.
+    from: "Thoth's chief [[ temple | egyptian-temple ]] was located in the city of
+      [[ Hermopolis ]] (Ancient Egyptian: //[[ ḫmnw |
+      https://en.wiktionary.org/wiki/ḫmnw ]]// , [[ Egyptological
+      pronunciation ]]: Khemenu, Coptic: Ϣⲙⲟⲩⲛ //Shmun//). ... a cult of Thoth
+      gained prominence due to its main center, Khmun ([[ Hermopolis Magna ]])
+      ... leading to the Greeks' naming Thoth's cult center as Hermopolis,
+      meaning //city of Hermes//."
   - term: Hermes Trismegistus
-    gloss: The figure Thoth and Hermes were eventually combined into;
-      "Trismegistus" is the Greek τρισμέγιστος, a translation of Thoth's title
-      "Thrice great".
+    gloss: Thoth eventually combined with Hermes; the name is from Thoth's title
+      "Thrice great", translated to the Greek τρισμέγιστος (//trismégistos//).
+    from: One of Thoth's titles, "Thrice great", was translated to the Greek
+      τρισμέγιστος (//trismégistos//), making [[ Hermes Trismegistus ]].[[ ^15
+      ]][[ ^c ]] ... identified by the Greeks with their closest matching god
+      Hermes, with whom Thoth was eventually combined as [[ Hermes
+      Trismegistus ]],[[ ^c ]]
   - term: Euhemerize
     gloss: To treat a god as a historical human being, as Artapanus of Alexandria
       did with Thoth-Hermes.
-  - term: Pschent
-    gloss: The double crown of Upper and Lower Egypt, one of the crowns Thoth is
-      sometimes shown wearing.
+    from: "[[ Artapanus of Alexandria ]], an Egyptian Jew who lived in the third
+      or second century BC, [[ euhemerized | euhemerism ]] Thoth-Hermes as a
+      historical human being and claimed he was the same person as [[ Moses
+      ]]"
 further:
   - slug: book-of-the-dead
-    why: The Papyrus of Ani copy carries the scribe's prayer to Thoth, and Plate
-      XXIX Chapter CLXXV is said to be the oldest tradition written by Thoth
-      himself.
-  - slug: duat
-    why: The underworld where Thoth appeared as the ape Aani and reported when the
-      scales holding heart and feather came out exactly even.
+    why: Plate XXIX Chapter CLXXV (Budge) of the Book of the Dead is the oldest
+      tradition said to be the work of Thoth himself, and it is where the
+      scribe addresses him directly.
   - slug: artapanus-of-alexandria
-    why: The Egyptian Jew of the third or second century BC who made Thoth-Hermes
-      a man, and that man Moses.
+    why: The Egyptian Jew who turned Thoth-Hermes into a man and claimed that man
+      was Moses, inventing many details along the way.
+  - slug: duat
+    why: The underworld where Thoth appeared as the ape Aani, reporting when the
+      scales weighing the heart against the feather were exactly even.
+anchors:
+  hook: The Egyptians credited him as the author of all works of science,
+    religion, philosophy, and magic.[[ ^21 ]] The Greeks further declared him
+    the inventor of [[ astronomy ]], [[ astrology ]], [[ the science of
+    numbers | numerology ]], [[ mathematics ]], [[ geometry ]], [[ surveying
+    ]], [[ medicine ]], [[ botany ]], [[ theology ]], civilized government,
+    the alphabet, reading, writing, and [[ oratory | public-speaking ]]. ...
+    Thoth became credited by the ancient Egyptians as the inventor of writing
+    ([[ hieroglyphs | hieroglyph ]]),[[ ^26 ]] and was also considered to have
+    been the scribe of the underworld. ... In art, Thoth was usually depicted
+    with the head of an ibis, possibly because the Egyptians saw the curve of
+    the ibis' beak as a symbol of the crescent moon.[[ ^27 ]] ... Millions of
+    dead ibis were mummified and buried in his honor.[[ ^28 ]]
+  standfirst: In art, he was often depicted as a man with the head of an [[ ibis
+    | african-sacred-ibis ]] or a [[ baboon ]], animals sacred to him. ... He
+    is the god of the Moon, wisdom, knowledge, writing, hieroglyphs, science,
+    magic, art, and judgement. Thoth's chief [[ temple | egyptian-temple ]]
+    was located in the city of [[ Hermopolis ]] ... For this reason, Thoth was
+    universally worshipped by ancient Egyptian scribes. Many scribes had a
+    painting or a picture of Thoth in their "office". ... The Greeks related
+    Thoth to their god [[ Hermes ]] due to his similar attributes and
+    functions.[[ ^11 ]]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Thoth.svg/500px-Thoth.svg.png
 images:
   - file: Abydos_Tempelrelief_Sethos_I._19.JPG
@@ -381,80 +472,86 @@ rewritten:
   of: corpus/en/thoth.mdy
   source-revision: "1372336272"
   model: claude-opus-5
-  left-out: "Nothing in the article's prose is dropped: the lead now carries the
-    material that has no section of its own — Seshat as his feminine
-    counterpart and Ma'at as his wife [[ ^2 ]], the Temple of Thoth at
-    Hermopolis, its pronaos standing in 1826 and the sugar factory it became
-    fill for [[ ^3 ]][[ ^4 ]], his place with Ma'at on either side of Ra's
-    solar barque [[ ^5 ]], and the arbitration of godly disputes [[ ^6 ]] —
-    with its footnote references. 'Explanatory notes' is a heading with no
-    text under it in the source, so its body is empty rather than invented.
-    Footnote [[ ^31 ]] belongs to the cylinder-seal figure caption, which
-    becomes an image-plan caption, so it is not carried in any section body.
-    The reconstructed pronunciations in 'Name' are empty asterisks in the
-    source (the IPA is missing), and are reproduced as they stand. 'Modern
-    cultural references' is a list, kept as a list with its wording unchanged.
-    The 1826 and mid-19th-century timeline entries are kept as genuine dated
-    events from the prose; they are no longer the only place that material
-    lives."
-  verified: false
+  left-out: "The \"Explanatory notes\" section is a heading with nothing under
+    it in the document. The notes marked [[ ^b ]] and [[ ^c ]] are cited in
+    the prose but their text is not present, so the section is kept in place
+    with an empty body rather than filled in. In \"Name\", the source reads
+    \"perhaps pronounced * or *\": the phonetic forms have dropped out of the
+    document, so only the reconstruction *//ḏiḥautī,// could be carried
+    across. The infobox field name-in-hieroglyphs reads only \"or\", with no
+    hieroglyphs attached, so it is not among the key facts. Citation [[ ^31 ]]
+    belongs to the cylinder-seal caption rather than to any sentence of the
+    body, so it is carried in the image plan. \"Modern cultural references\"
+    is a list of works rather than prose, so it is left as a list; most of its
+    entries carry no footnote in the source and are reproduced as they stand.
+    Several sentences elsewhere (the Osiris myth, the Sixteenth dynasty
+    pharaoh Djehuty, the scribes' pictures of Thoth, the Moon's role in
+    Egyptian ritual) carry no citation in the source either; they are carried
+    across unchanged rather than dropped."
+  verified: true
+  verdict: minor-only
+  findings: 1
   reviewed: false
 +++
-!!Thoth!! (from Koine Greek: Θώθ //Thṓth//, borrowed from Coptic: Ⲑⲱⲟⲩⲧ //Thōout//, Ancient Egyptian: //Ḏḥwtj//, the reflex of //[[ ḏḥwtj | https://en.wiktionary.org/wiki/ḏḥwtj ]]// "[he] is like the ibis") is an [[ ancient Egyptian deity ]]: the god of the Moon, wisdom, knowledge, writing, hieroglyphs, science, magic, art, and judgement. In art, he was often depicted as a man with the head of an [[ ibis | african-sacred-ibis ]] or a [[ baboon ]], animals sacred to him. His feminine counterpart is [[ Seshat ]], and his wife is [[ Ma'at ]].[[ ^2 ]]
+!!Thoth!! is an [[ ancient Egyptian deity ]]: the god of the Moon, wisdom, knowledge, writing, hieroglyphs, science, magic, art, and judgement. In art, he was often depicted as a man with the head of an [[ ibis | african-sacred-ibis ]] or a [[ baboon ]], animals sacred to him. His feminine counterpart is [[ Seshat ]], and his wife is [[ Ma'at ]].[[ ^2 ]] The name is from Koine Greek: Θώθ //Thṓth//, borrowed from Coptic: Ⲑⲱⲟⲩⲧ //Thōout//, Ancient Egyptian: //Ḏḥwtj//, the reflex of //[[ ḏḥwtj | https://en.wiktionary.org/wiki/ḏḥwtj ]]// "[he] is like the ibis".
 
 His chief [[ temple | egyptian-temple ]] was located in the city of [[ Hermopolis ]] (Ancient Egyptian: //[[ ḫmnw | https://en.wiktionary.org/wiki/ḫmnw ]]// , [[ Egyptological pronunciation ]]: Khemenu, Coptic: Ϣⲙⲟⲩⲛ //Shmun//), later known as //el-Ashmunein// in [[ Egyptian Arabic ]]. The Temple of Thoth was mostly destroyed before the beginning of the Christian era. Its very large [[ pronaos ]] was still standing in 1826, but was demolished and used as fill for the foundation of a sugar factory by the mid-19th century.[[ ^3 ]][[ ^4 ]]
 
-Thoth played many vital and prominent roles in [[ Egyptian mythology ]], such as maintaining the universe, and being one of the two deities (the other being [[ Ma'at ]]) who stood on either side of [[ Ra's  | ra ]][[ solar barque ]].[[ ^5 ]] In the later history of ancient Egypt, Thoth became heavily associated with the arbitration of godly disputes,[[ ^6 ]] the arts of magic, the system of writing, and the judgment of the dead.[[ ^7 ]]
+Thoth played many vital and prominent roles in [[ Egyptian mythology ]], such as maintaining the universe, and being one of the two deities (the other being [[ Ma'at ]]) who stood on either side of [[ Ra's  | ra ]][[ solar barque ]].[[ ^5 ]] In the later history of ancient Egypt, he became heavily associated with the arbitration of godly disputes,[[ ^6 ]] the arts of magic, the system of writing, and the judgment of the dead.[[ ^7 ]]
 
 == Name
 
-Nobody knows how the Egyptians pronounced //ḏḥwty//. The [[ Egyptian | egyptian-language ]] pronunciation is not fully known, but may be reconstructed as *//ḏiḥautī,// perhaps pronounced * or *. The reconstruction rests on the [[ Ancient Greek ]] borrowing //Thōth// or //Theut//, and on the range of ways the name was transliterated into [[ Sahidic Coptic | coptic-language ]] variously as ⲑⲟⲟⲩⲧ //Thoout//, ⲑⲱⲑ //Thōth//, ⲑⲟⲟⲧ //Thoot//, ⲑⲁⲩⲧ //Thaut//, //Taauto//s (//Τααυτος//), //Thoor// (//Θωωρ//), as well as [[ Bohairic Coptic | coptic-language ]] ⲑⲱⲟⲩⲧ //Thōout//. These spellings reflect known sound changes from earlier Egyptian such as the loss of //ḏ// palatalization and merger of //ḥ// with //h// i.e. initial //ḏḥ > th > tʰ//.[[ ^8 ]] The loss of pre-Coptic final //y/j// is also common.[[ ^9 ]] Following Egyptological convention, which eschews vowel reconstruction, the consonant skeleton //ḏḥwty// would be rendered "Djehuti", and the god is sometimes found under this name. The Greek form "Thoth", however, is more common.
+The [[ Egyptian | egyptian-language ]] pronunciation of //ḏḥwty// is not fully known, but may be reconstructed as *//ḏiḥautī,// on the evidence of the [[ Ancient Greek ]] borrowing //Thōth// or //Theut// and of the many ways the name was transliterated into [[ Sahidic Coptic | coptic-language ]]: ⲑⲟⲟⲩⲧ //Thoout//, ⲑⲱⲑ //Thōth//, ⲑⲟⲟⲧ //Thoot//, ⲑⲁⲩⲧ //Thaut//, //Taauto//s (//Τααυτος//), //Thoor// (//Θωωρ//), as well as [[ Bohairic Coptic | coptic-language ]] ⲑⲱⲟⲩⲧ //Thōout//. These spellings reflect known sound changes from earlier Egyptian such as the loss of //ḏ// palatalization and merger of //ḥ// with //h// i.e. initial //ḏḥ > th > tʰ//.[[ ^8 ]] The loss of pre-Coptic final //y/j// is also common.[[ ^9 ]] Egyptological convention eschews vowel reconstruction, and by it the consonant skeleton //ḏḥwty// would be rendered "Djehuti"; the god is sometimes found under this name, though the Greek form "Thoth" is more common.
 
-Where the name came from is a second argument. According to Theodor Hopfner, Thoth's Egyptian name written as //ḏḥwty// originated from //ḏḥw//, claimed to be the oldest known name for the [[ ibis | african-sacred-ibis ]], normally written as //hbj//.[[ ^10 ]] The addition of //-ty// denotes that he possessed the attributes of the ibis.[[ ^11 ]] On this interpretation the name means "He who is like the ibis".
+According to Theodor Hopfner, Thoth's Egyptian name written as //ḏḥwty// originated from //ḏḥw//, claimed to be the oldest known name for the [[ ibis | african-sacred-ibis ]], normally written as //hbj//.[[ ^10 ]] The addition of //-ty// denotes that he possessed the attributes of the ibis.[[ ^11 ]] Hence Thoth's name would mean "He who is like the ibis", according to this interpretation.
 
-Other forms of the name //ḏḥwty// using older transcriptions include //Jehuti, Jehuty, Tahuti, Tehuti, Zehuti, Techu,// or //Tetu//. Multiple titles for Thoth, similar to the [[ pharaonic titulary | ancient-egyptian-royal-titulary ]], are also known, including //A//, //Sheps//, //Lord of Khemennu//, //Asten//, //Khenti//, //Mehi//, //Hab//, and //A'an//.[[ ^12 ]]
+Older transcriptions give other forms of the name: //Jehuti, Jehuty, Tahuti, Tehuti, Zehuti, Techu,// or //Tetu//. Multiple titles for Thoth, similar to the [[ pharaonic titulary | ancient-egyptian-royal-titulary ]], are also known, including //A//, //Sheps//, //Lord of Khemennu//, //Asten//, //Khenti//, //Mehi//, //Hab//, and //A'an//.[[ ^12 ]]
 
-Thoth was also known by specific aspects of himself. As the [[ Moon god ]] [[ Iah ]]-Djehuty (//j3ḥ-ḏḥw.ty)//,[[ ^b ]] he represented the Moon for the entire month.[[ ^13 ]][[ ^14 ]] The Greeks related him to their god [[ Hermes ]] because of his similar attributes and functions,[[ ^11 ]] and one of his titles, "Thrice great", was translated into the Greek τρισμέγιστος (//trismégistos//), making [[ Hermes Trismegistus ]].[[ ^15 ]][[ ^c ]]
+He was also known by specific aspects of himself, for instance the [[ Moon god ]] [[ Iah ]]-Djehuty (//j3ḥ-ḏḥw.ty)//,[[ ^b ]] representing the Moon for the entire month.[[ ^13 ]][[ ^14 ]] The Greeks related Thoth to their god [[ Hermes ]] due to his similar attributes and functions.[[ ^11 ]] One of Thoth's titles, "Thrice great", was translated to the Greek τρισμέγιστος (//trismégistos//), making [[ Hermes Trismegistus ]].[[ ^15 ]][[ ^c ]]
 
 == Depictions
 
-What Thoth looks like depends on the era and on the aspect the artist wished to convey. Usually he is depicted in his human form with the head of a green [[ ibis | african-sacred-ibis ]].[[ ^16 ]] In this form he can be represented as the reckoner of times and seasons by a [[ headdress ]] of the lunar disk sitting on top of a crescent moon resting on his head. When depicted as a form of [[ Shu | shu-egyptian-god ]] or Ankher, he was depicted wearing the respective god's headdress. Sometimes he was also seen in art wearing the [[ Atef ]] crown or the [[ double crown of Upper and Lower Egypt | pschent ]].[[ ^11 ]] When not depicted in this common form, he sometimes takes the form of the ibis directly.[[ ^16 ]]
+Thoth has been depicted in many ways depending on the era and on the aspect the artist wished to convey. Usually, he is depicted in his human form with the head of a green [[ ibis | african-sacred-ibis ]].[[ ^16 ]] In this form, he can be represented as the reckoner of times and seasons by a [[ headdress ]] of the lunar disk sitting on top of a crescent moon resting on his head. When depicted as a form of [[ Shu | shu-egyptian-god ]] or Ankher, he was depicted to be wearing the respective god's headdress. Sometimes he was also seen in art to be wearing the [[ Atef ]] crown or the [[ double crown of Upper and Lower Egypt | pschent ]].[[ ^11 ]] When not depicted in this common form, he sometimes takes the form of the ibis directly.[[ ^16 ]]
 
-He also appears as a dog-faced [[ baboon ]], or as a man with the head of a baboon, when he is A'an, the god of [[ equilibrium | https://en.wiktionary.org/wiki/equilibrium ]].[[ ^7 ]] In the form of A'ah-Djehuty, he took a more human-looking form.[[ ^17 ]] These forms are all [[ symbolic | symbol ]] and are [[ metaphors | metaphor ]] for Thoth's attributes. Thoth is often depicted holding an [[ ankh ]], the Egyptian symbol for life.
+He also appears as a dog-faced [[ baboon ]], or a man with the head of a baboon, when he is A'an, the god of [[ equilibrium | https://en.wiktionary.org/wiki/equilibrium ]].[[ ^7 ]] In the form of A'ah-Djehuty, he took a more human-looking form.[[ ^17 ]] These forms are all [[ symbolic | symbol ]] and are [[ metaphors | metaphor ]] for Thoth's attributes. Thoth is often depicted holding an [[ ankh ]], the Egyptian symbol for life.
 
 == Attributes
 
 Thoth's roles in Egyptian mythology were many. He served as scribe of the gods,[[ ^18 ]] credited with the invention of writing, music, and [[ Egyptian hieroglyphs ]].[[ ^19 ]] In the [[ underworld ]], [[ Duat ]], he appeared as an ape, [[ Aani ]], the god of equilibrium, who reported when the scales weighing the deceased's heart against the feather, representing the principle of Maat, was exactly even.[[ ^7 ]]
 
-The ancient Egyptians regarded Thoth as One, self-begotten, and self-produced.[[ ^16 ]] He is the master of both physical and [[ moral | morality ]] (i.e. [[ divine law ]]),[[ ^16 ]] making proper use of Ma'at.[[ ^20 ]] He is credited with making the calculations for the establishment of the heavens, stars, Earth,[[ ^16 ]] and everything in them,[[ ^20 ]] and with the authorship of all works of science, religion, philosophy, and magic.[[ ^21 ]]
+The ancient Egyptians regarded Thoth as One, self-begotten, and self-produced.[[ ^16 ]] He is the master of both physical and [[ moral | morality ]] (i.e. [[ divine law ]]),[[ ^16 ]] making proper use of Ma'at.[[ ^20 ]] He is credited with making the calculations for the establishment of the heavens, stars, Earth,[[ ^16 ]] and everything in them.[[ ^20 ]] The Egyptians credited him as the author of all works of science, religion, philosophy, and magic.[[ ^21 ]]
 
-The Greeks went further. They declared him the inventor of [[ astronomy ]], [[ astrology ]], [[ the science of numbers | numerology ]], [[ mathematics ]], [[ geometry ]], [[ surveying ]], [[ medicine ]], [[ botany ]], [[ theology ]], civilized government, the alphabet, reading, writing, and [[ oratory | public-speaking ]], and claimed he is the true author of every work of every branch of knowledge, human and divine.[[ ^19 ]]
+The Greeks went further, declaring him the inventor of [[ astronomy ]], [[ astrology ]], [[ the science of numbers | numerology ]], [[ mathematics ]], [[ geometry ]], [[ surveying ]], [[ medicine ]], [[ botany ]], [[ theology ]], civilized government, the alphabet, reading, writing, and [[ oratory | public-speaking ]]. They further claimed he is the true author of every work of every branch of knowledge, human and divine.[[ ^19 ]]
 
 == Mythology
 
-Five days of the Egyptian year were won in a bet. The Greek philosopher [[ Plutarch ]] credits Thoth with the creation of the 365-day calendar. Originally, according to the myth, the year was only 360 days long and [[ Nut | nut-goddess ]] was sterile during these days, unable to bear children. Thoth gambled with the [[ Moon | iah ]] for ⁠1/72⁠nd of its light (⁠360/72⁠ = 5), or 5 days, and won. During these 5 days, Nut and [[ Geb ]] gave birth to [[ Osiris ]], [[ Set | set-deity ]], [[ Isis ]], and [[ Nephthys ]].[[ ^22 ]][[ ^23 ]][[ ^24 ]]
+The Greek philosopher [[ Plutarch ]] credits Thoth with the creation of the 365-day calendar. Originally, according to the myth, the year was only 360 days long and [[ Nut | nut-goddess ]] was sterile during these days, unable to bear children. Thoth gambled with the [[ Moon | iah ]] for 1/72nd of its light (360/72 = 5), or 5 days, and won. During these 5 days, Nut and [[ Geb ]] gave birth to [[ Osiris ]], [[ Set | set-deity ]], [[ Isis ]], and [[ Nephthys ]].[[ ^22 ]][[ ^23 ]][[ ^24 ]]
 
 In the central [[ Osiris myth ]], Thoth gives Isis the words to restore her husband, allowing the pair to conceive [[ Horus ]]. Following a battle between Horus and Set, Thoth offers counsel and provides wisdom.
 
 == History
 
-Thoth is a Moon god, and that is where the rest of him starts. The Moon not only provides light at night, allowing time to still be measured without the Sun, but its phases and prominence gave it a significant importance in early astrology/astronomy, and its perceived cycles organized much of Egyptian society's rituals and events, both civil and religious. Consequently, Thoth gradually became seen as a [[ god of wisdom ]], [[ magic | magic-and-religion ]], and the measurement and regulation of events and of time.[[ ^25 ]] He was thus said to be the secretary and counselor of the [[ Sun god | solar-deity ]] Ra, and with Ma'at (truth/order) stood next to Ra on the nightly voyage across the sky.
+Thoth is a Moon god. The Moon not only provides light at night, allowing time to still be measured without the Sun, but its phases and prominence gave it a significant importance in early astrology/astronomy. The perceived cycles of the Moon also organized much of Egyptian society's rituals and events, both civil and religious. Consequently, Thoth gradually became seen as a [[ god of wisdom ]], [[ magic | magic-and-religion ]], and the measurement and regulation of events and of time.[[ ^25 ]] He was thus said to be the secretary and counselor of the [[ Sun god | solar-deity ]] Ra, and with Ma'at (truth/order) stood next to Ra on the nightly voyage across the sky.
 
-The ancient Egyptians credited him with the invention of writing ([[ hieroglyphs | hieroglyph ]]),[[ ^26 ]] and considered him the scribe of the underworld. For this reason Thoth was universally worshipped by ancient Egyptian scribes: many had a painting or a picture of him in their "office", and one of the symbols for scribes was that of the ibis. In art he was usually depicted with the head of an ibis, possibly because the Egyptians saw the curve of the ibis' beak as a symbol of the crescent moon.[[ ^27 ]] Sometimes he was depicted as a baboon holding up a crescent moon.
+Thoth became credited by the ancient Egyptians as the inventor of writing ([[ hieroglyphs | hieroglyph ]]),[[ ^26 ]] and was also considered to have been the scribe of the underworld. For this reason, Thoth was universally worshipped by ancient Egyptian scribes. Many scribes had a painting or a picture of Thoth in their "office", and one of the symbols for scribes was that of the ibis.
 
-During the [[ Late Period of ancient Egypt | late-period-of-egypt ]], a cult of Thoth gained prominence as its main center, Khmun ([[ Hermopolis Magna ]]), also became the capital. Millions of dead ibis were mummified and buried in his honor.[[ ^28 ]]
+In art, Thoth was usually depicted with the head of an ibis, possibly because the Egyptians saw the curve of the ibis' beak as a symbol of the crescent moon.[[ ^27 ]] Sometimes, he was depicted as a baboon holding up a crescent moon.
 
-Thoth was inserted in many tales as the wise counselor and persuader, and his association with learning and measurement led him to be connected with [[ Seshat ]], the earlier deification of wisdom, who was said to be his daughter, or variably his wife. His qualities also led to him being identified by the Greeks with their closest matching god Hermes, with whom he was eventually combined as [[ Hermes Trismegistus ]],[[ ^c ]] and to the Greeks' naming Thoth's cult center Hermopolis, meaning //city of Hermes//.
+During the [[ Late Period of ancient Egypt | late-period-of-egypt ]], a cult of Thoth gained prominence due to its main center, Khmun ([[ Hermopolis Magna ]]), also becoming the capital. Millions of dead ibis were mummified and buried in his honor.[[ ^28 ]]
 
-In the [[ Papyrus of Ani ]] copy of the [[ Egyptian Book of the Dead ]] the scribe proclaims "I am thy [[ writing palette | scribes-palette ]], O Thoth, and I have brought unto thee thine ink-jar. I am not of those who work iniquity in their secret places; let not evil happen unto me."[[ ^29 ]] Plate XXIX Chapter CLXXV (Budge) of the Book of the Dead is the oldest tradition said to be the work of Thoth himself.[[ ^30 ]] There was also an Egyptian pharaoh of the [[ Sixteenth dynasty | sixteenth-dynasty-of-egypt ]] named [[ Djehuty | sekhemre-sementawy-djehuty ]] (Thoth) after him, who reigned for three years.
+Thoth was inserted in many tales as the wise counselor and persuader, and his association with learning and measurement led him to be connected with [[ Seshat ]], the earlier deification of wisdom, who was said to be his daughter, or variably his wife. Thoth's qualities also led to him being identified by the Greeks with their closest matching god Hermes, with whom Thoth was eventually combined as [[ Hermes Trismegistus ]],[[ ^c ]] leading to the Greeks' naming Thoth's cult center as Hermopolis, meaning //city of Hermes//.
 
-Not everyone took the gift of writing as a gift. [[ Plato ]] mentions Thoth (as Θεὺθ, "Theuth")[[ ^32 ]] in his dialogue //[[ Phaedrus | phaedrus-dialogue ]]//, using the myth of Thoth to demonstrate that writing leads to laziness and forgetfulness. In the story, Thoth remarks to King [[ Thamus | thamus-mythical-king-of-egypt ]] of Egypt that writing is a wonderful substitute for memory. Thamus remarks that it is a remedy for reminding, not remembering, with the appearance but not the reality of wisdom. Future generations will hear much without being properly taught and will appear wise but not be so.[[ ^33 ]]
+In the [[ Papyrus of Ani ]] copy of the [[ Egyptian Book of the Dead ]] the scribe proclaims "I am thy [[ writing palette | scribes-palette ]], O Thoth, and I have brought unto thee thine ink-jar. I am not of those who work iniquity in their secret places; let not evil happen unto me."[[ ^29 ]] Plate XXIX Chapter CLXXV (Budge) of the Book of the Dead is the oldest tradition said to be the work of Thoth himself.[[ ^30 ]]
+
+There was also an Egyptian pharaoh of the [[ Sixteenth dynasty | sixteenth-dynasty-of-egypt ]] named [[ Djehuty | sekhemre-sementawy-djehuty ]] (Thoth) after him, and who reigned for three years.
+
+[[ Plato ]] mentions Thoth (as Θεὺθ, "Theuth")[[ ^32 ]] in his dialogue //[[ Phaedrus | phaedrus-dialogue ]]//. He uses the myth of Thoth to demonstrate that writing leads to laziness and forgetfulness. In the story, Thoth remarks to King [[ Thamus | thamus-mythical-king-of-egypt ]] of Egypt that writing is a wonderful substitute for memory. Thamus remarks that it is a remedy for reminding, not remembering, with the appearance but not the reality of wisdom. Future generations will hear much without being properly taught and will appear wise but not be so.[[ ^33 ]]
 
 [[ Artapanus of Alexandria ]], an Egyptian Jew who lived in the third or second century BC, [[ euhemerized | euhemerism ]] Thoth-Hermes as a historical human being and claimed he was the same person as [[ Moses ]], based primarily on their shared roles as authors of texts and creators of laws. Artapanus's biography of Moses conflates traditions about Moses and Thoth and invents many details.[[ ^34 ]] Many later authors, from [[ late antiquity ]] to the [[ Renaissance ]], either identified Hermes Trismegistus with Moses or regarded them as contemporaries who expounded similar beliefs.[[ ^35 ]]
 
 == Archaeology
 
-In January 2020, Egypt's Minister of Tourism and Antiquities announced the discovery of the collective graves of senior officials and high clergies of the god Thoth in [[ Tuna el-Gebel ]] in [[ Minya | minya-egypt ]]. An archaeological mission headed by [[ Mostafa Waziri ]] reported that 20 [[ sarcophagi ]] and [[ coffins | coffin ]] of various shapes and sizes were unearthed by their team, including five [[ anthropoid | https://en.wiktionary.org/wiki/anthropoid ]] sarcophagi made of [[ limestone ]] and carved with [[ hieroglyphic | egyptian-hieroglyphs ]] texts, as well as 16 tombs and five well-preserved wooden coffins.[[ ^36 ]][[ ^37 ]]
+In January 2020, Egypt's Minister of Tourism and Antiquities announced the discovery of the collective graves of senior officials and high clergies of the god Thoth in [[ Tuna el-Gebel ]] in [[ Minya | minya-egypt ]]. An archaeological mission headed by [[ Mostafa Waziri ]] reported that 20 [[ sarcophagi ]] and [[ coffins | coffin ]] of various shapes and sizes, including five [[ anthropoid | https://en.wiktionary.org/wiki/anthropoid ]] sarcophagi made of [[ limestone ]] and carved with [[ hieroglyphic | egyptian-hieroglyphs ]] texts, as well as 16 tombs and five well-preserved wooden coffins were unearthed by their team.[[ ^36 ]][[ ^37 ]]
 
 == Modern cultural references
 

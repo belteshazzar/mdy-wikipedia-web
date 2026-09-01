@@ -344,7 +344,8 @@ answers it the other way round.
 
 **Phase 3 — scale, by tier.** Pillar, body, long tail; verification on
 everything; provenance per document. Exit: the corpus, complete, and a query
-that lists every stale rewrite.
+that lists every stale rewrite. 🔄 — in progress; see
+[what phase 3 is landing](#what-phase-3-is-landing).
 
 **Phase 4 — the cross-article pages.** Timelines, era hubs, maps, search.
 Exit: at least three pages that no article contains.
@@ -673,6 +674,106 @@ The same field turned up things no test would have:
   written and untested.
 - **Ten parallel agents sharing one scratchpad overwrote each other's working
   files.** Harmless here, worth knowing before phase 3 runs hundreds.
+
+## What phase 3 is landing
+
+Not finished. Recorded as it goes, because the two changes below were made
+*because* of what phase 2 measured, and the evidence for them is worth keeping
+whether or not the scale-out completes.
+
+### Anchoring works
+
+Phase 2 found the short fields seven times more likely per word to say
+something the article does not, and blamed compression rather than
+carelessness. The fix: the hook, the standfirst and every timeline and
+glossary entry must quote the passage they compress, verbatim, written quote
+first. The quotes stay in the document as `anchors`.
+
+Three articles were re-run through it — the same house style, the same
+verifier prompt, the anchoring the only change:
+
+| | before | after |
+| --- | --- | --- |
+| Duat | blocked, 3 findings, 1 blocking | minor-only, 3 findings, **0 blocking** |
+| Thoth | blocked, 2 findings, 1 blocking | minor-only, 1 finding, **0 blocking** |
+| Nun | minor-only, 4 findings | minor-only, **1 finding** |
+| | 9 findings, 2 blocking | **5 findings, 0 blocking** |
+
+Both blocking findings went, and the two that had been the sharpest
+illustrations of the failure went with them. Duat's standfirst said the realm
+was "known only from funerary texts" where the source says "principally …
+among many other sources"; it now says "generally known best as". Thoth's hook
+made scribes the actor burying millions of mummified ibises where the source
+names no actor; it is now passive, and its anchor quotes the source sentence
+word for word.
+
+Three articles is not a study, and re-running any article produces different
+prose whether or not anything changed, so some of that is variance. But the
+direction is the same in all three, and the mechanism is visible in the text:
+a hook sitting one line from the sentence it compresses is a hook whose
+overreach a reviewer can see in ten seconds.
+
+### The tiering is inverted, and the cheap tier is now the safe one
+
+The table above gave a body-tier article a hook, a standfirst and an image
+plan and left the prose imported — which spends the cheap tier entirely on the
+fields that fail most, with no rewritten prose to anchor them. `--body` now
+writes the lead, the sections, the key facts and the image plan and **none of
+the five risky fields**, so a body-tier page has nothing in it that phase 2
+identified as dangerous. The page uses the article's own description where a
+standfirst would go.
+
+Ranking is a query rather than a guess: `pipeline/tiers.mjs` counts
+`langlinks`, which the import already records, so the sitelink count needs no
+second request. Alexander the Great at 219 languages down to Post-imperial
+Assyria at 3; the cut at 60 gives 20 pillar and 21 body. There is no long tail
+in a corpus this size — 41 articles about the ancient Near East are all of them
+somebody's pillar.
+
+### The image plan is consumed
+
+Phase 2 left it produced and ignored, which made a rewritten page *worse* than
+the import it replaced: its body carries no `<img>` of its own, so it showed a
+hero and nothing else. Each planned picture now goes in front of the heading of
+its section, at the size its role asks for, with the rewrite's caption and the
+manifest's credit.
+
+Two articles could not place everything, and the cause was upstream: the rights
+enrichment had only ever read the front matter's `images` list, and the bodies
+carry 585 distinct pictures against that list's 536. It reads both now — 527
+licensed files against 476 — and the layout resolves a planned file from the
+manifest rather than requiring a front-matter entry.
+
+What is left is transcription drift, and it is noisy rather than silent now:
+`--apply` checks every planned file against the manifest and every planned
+section against the outline, because both are checkable without a model. Two
+files in ten articles fail it — `Akerblad.jpg` for `Åkerblad.jpg`, and a name
+taken from Nun's broken figure markup.
+
+### Redirect fragmentation, reported by the documents again
+
+Three rewrites said, unprompted, that one subject is reachable under two slugs:
+`set-deity` / `set-mythology` / `set-god`, `shu-egyptian-god` / `shu-god`,
+`aegae-macedonia` / `aegae-macedon`. `--links wiki` slugifies each title as
+written and Wikipedia reaches one article by many.
+
+`pipeline/variants.mjs` was written to count it and cannot, which is the useful
+part: from inside the corpus, `Set (deity)` against `Set (mythology)` — one
+subject, two names — looks exactly like `Macedonia (ancient kingdom)` against
+`Macedonia (Roman province)` — two subjects, one name. It lists candidates and
+declines to total them. The fix is redirect resolution in the importer, the
+same gap that wrote `akkadian-empire` and `akkadian-period` as two documents in
+phase 0, and it belongs in a phase of its own.
+
+### Two bugs the phase found in itself
+
+**`--apply` left a verdict behind that no longer described anything.** A
+re-applied rewrite is new text, so the old verdict is void — the document loses
+it by being rewritten, and the report beside it now goes too.
+
+**The cheap tier broke `compose` on its first article**, which assumed every
+answer has a hook. Short fields go through one accessor that survives all three
+shapes: absent, a bare string, and the `{text, from}` pair.
 
 ## Open questions
 

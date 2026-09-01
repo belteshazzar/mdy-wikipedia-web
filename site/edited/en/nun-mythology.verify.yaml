@@ -1,0 +1,11 @@
+slug: nun-mythology
+findings:
+  - kind: unsupported
+    quote: The Egyptians punned on the name themselves.
+    why: The source does not say who made the wordplay. It says only that "The
+      name on Nun is paralleled with nen 'inactivity' in a play of words in,"
+      followed by the quotation, and separately that the name "has also been
+      compared to" Coptic noun. Attributing the pun to the Egyptians
+      themselves is an added claim.
+    severity: minor
+verdict: minor-only

@@ -353,7 +353,9 @@ rewritten:
     claims described-by-source: Pauly–Wissowa, commons-category,
     topic-s-main-category and the Wikidata image URL are not used, having
     nothing to attach to in the prose."
-  verified: false
+  verified: true
+  verdict: minor-only
+  findings: 3
   reviewed: false
 +++
 The !!Duat!! or !!Tuat!! ([[ Ancient Egyptian | ancient-egypt ]]: [[ Hieroglyph | egyptian-hieroglyphs ]]: 𓇽 romanized: [[ dwꜣt | https://en.wiktionary.org/wiki/dwꜣt#Egyptian ]]) is a concept in ancient [[ Egyptian mythology ]] involving death, most often seen as a realm where people go after they die, and generally known best as a dark subterranean realm that not only houses the deceased, but a variety of [[ deities | deity ]].[[ ^4 ]] Due to linguistic shifts within [[ Ancient Egypt ]], the //Duat// has also been called !!Te!! (Coptic: Ⲧⲏ, romanized: //Tē//) and !!Amenthes!! (Ancient Greek: Ἀμένθης, [[ romanized | romanization-of-ancient-greek ]]: //Aménthēs//).
