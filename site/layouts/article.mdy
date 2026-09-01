@@ -8,7 +8,47 @@
   // and one outside becomes a link to the Wikipedia article it came from,
   // marked as leaving. Neither is guessed — the corpus knows its own slugs,
   // and `link-titles` in the front matter carries the title behind each one.
+  const prefixOf = (src) => {
+    const at = String(src).lastIndexOf("/")
+    return at === -1 ? String(src) : String(src).slice(0, at)
+  }
+
   visit(tree, "element", (node) => {
+    // The body's own images, in the places the article put them. They arrive
+    // as the 250-pixel sidebar thumbnail Wikipedia rendered them at, which is
+    // a quarter of the width this column shows them in — so each one is
+    // swapped for the derivative the rights manifest recorded, and given the
+    // credit that manifest went and got.
+    if (node.tagName === "img") {
+      const found = req.figures[prefixOf(node.properties.src)]
+      if (!found) return
+      node.properties.src = found.src
+      node.properties.loading = "lazy"
+      node.properties.width = found.width
+      node.properties.height = found.height
+      return
+    }
+
+    if (node.tagName === "figure") {
+      let credit
+      for (const child of node.children) {
+        if (child.type !== "element" || child.tagName !== "img") continue
+        const found = req.figures[prefixOf(child.properties.src)]
+        if (found) credit = found.credit
+      }
+      if (!credit) return
+      for (const child of node.children) {
+        if (child.type !== "element" || child.tagName !== "figcaption") continue
+        child.children.push({
+          type: "element",
+          tagName: "span",
+          properties: {className: ["credit"]},
+          children: [{type: "text", value: credit}]
+        })
+      }
+      return
+    }
+
     if (node.tagName !== "a") return
     const href = node.properties.href
     if (typeof href !== "string" || !href || href.indexOf(":") !== -1) return
@@ -29,7 +69,6 @@
 })
 % const hero = req.hero
 % const sections = req.sections ?? []
-% const plates = req.plates ?? []
 
 % if (hero) {
 < section class="hero"
@@ -65,24 +104,13 @@
       % }
   % }
 
+  % if (req.hook) {
+  <p class="hook">{{ req.hook }}
+  % }
+
   % if (req.cards) {
   {{ req.cards }}
   % }
 
   < div class="prose"
     {{ req.content }}
-
-  % if (plates.length) {
-  < div
-    <p class="plates-head">Plates
-    < div class="plates-intro"
-      <p class="plates-note">{{ plates.length }} more images belong to this article. Where in it they belong is the one thing the import could not record — so they are gathered here, the way a printed history gathers its plates, until something has read the article and said which paragraph each one is about.
-    < div class="plates"
-      % for (const p of plates) {
-      < figure
-        <img src="{{ p.src }}" alt="{{ p.alt }}" loading="lazy"
-        < figcaption
-          {{ p.caption }}
-          {{ p.credit }}
-      % }
-  % }

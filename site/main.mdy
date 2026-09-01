@@ -23,6 +23,16 @@ baseURL: https://example.invalid
 %   return d.path && d.path.indexOf("corpus/en/") === 0 && d.ext === ".mdy"
 % })
 %
+% // A rewrite, where there is one. It never replaces the import — it is a
+% // second document that names the revision it was made from — so the site
+% // holds both and shows the rewrite, with `/compare/<slug>/` holding the two
+% // side by side, which is the whole question phase 2 exists to answer.
+% const rewrites = {}
+% for (const d of $.find({})) {
+%   if (!d.path || d.path.indexOf("edited/en/") !== 0 || d.ext !== ".mdy") continue
+%   rewrites[d.path.slice("edited/en/".length, -".mdy".length)] = d
+% }
+%
 % const slugOf = function (path) { return path.slice("corpus/en/".length, -".mdy".length) }
 %
 % // One value out of a Wikidata claim, which is a string, a dated record, or a
@@ -82,6 +92,16 @@ baseURL: https://example.invalid
 %   }
 % }
 %
+% // The body keeps its own `<img>` tags, in place, where the article put them —
+% // which the front matter's `images` list duplicates rather than replaces.
+% // Matching the two needs a key both sides spell the same way, and the file
+% // name is not it: the front matter decodes it and a src does not. Everything
+% // before the last slash of a thumbnail URL is the same string in both.
+% const prefixOf = function (src) {
+%   const at = String(src).lastIndexOf("/")
+%   return at === -1 ? String(src) : String(src).slice(0, at)
+% }
+%
 % const creditOf = function (image) {
 %   const who = image.author && image.author !== "unknown" ? image.author + " · " : ""
 %   return who + image.licence
@@ -137,20 +157,25 @@ baseURL: https://example.invalid
 %   }
 %   for (const image of later) ordered.push(image)
 %   const usable = []
+%   const byPrefix = {}
 %   for (const image of ordered) {
 %     const found = pick(image, 1280)
-%     if (found) usable.push(found)
+%     if (!found) continue
+%     usable.push(found)
+%     const inline = pick(image, 960)
+%     if (image.src && inline) {
+%       byPrefix[prefixOf(image.src)] = {
+%         src: inline.src, credit: creditOf(inline), width: inline.width, height: inline.height
+%       }
+%     }
 %   }
 %   const hero = usable.length ? usable[0] : undefined
-%   const plates = usable.slice(1, 13)
 %
-%   const platesOut = []
-%   for (const p of plates) {
-%     platesOut.push({
-%       src: p.src, alt: p.alt, caption: p.caption,
-%       credit: $.node({ type: "element", tagName: "span", properties: { className: ["credit"] }, children: [{ type: "text", value: creditOf(p) }] })
-%     })
-%   }
+%   // No plate section. The body keeps every image where the article put it —
+%   // 529 of this corpus's 536 front-matter images are already in the prose,
+%   // and the seven that are not are infobox images, which is the hero. The
+%   // front matter's list is a duplicate of the body's, not a replacement for
+%   // it, and gathering it at the end was answering a question nobody asked.
 %
 %   // An infobox is a record of nested groups. Only its scalars make an object
 %   // label; the groups are where a reader would drown.
@@ -182,13 +207,22 @@ baseURL: https://example.invalid
 %     held.push({ when: span, what: statement.value })
 %   }
 %
+%   const edited = rewrites[slug]
+%
 %   pages.push({
-%     path: doc.path, slug: slug, url: "/" + slug + "/",
-%     title: doc.title || slug, description: doc.description,
+%     path: edited ? edited.path : doc.path,
+%     originalPath: doc.path,
+%     edited: Boolean(edited),
+%     hook: edited ? edited.hook : undefined,
+%     rewritten: edited ? edited.rewritten : undefined,
+%     slug: slug, url: "/" + slug + "/",
+%     title: doc.title || slug,
+%     description: (edited && edited.standfirst) || doc.description,
 %     eyebrow: eyebrowParts.join(" · "), sections: doc.sections || [],
-%     hero: hero, plates: platesOut, facts: facts, held: held,
+%     hero: hero, facts: facts, held: held,
 %     isPlace: isPlace, kind: kind, source: doc.source || {},
 %     titles: doc["link-titles"] || {},
+%     figures: byPrefix,
 %     sitelinks: (doc["lang-links"] || []).length
 %   })
 % }
@@ -208,10 +242,33 @@ baseURL: https://example.invalid
 %   const body = $.render({ path: page.path })
 %   const article = $.render({ path: "layouts/article.mdy" }, {
 %     title: page.title, description: page.description, eyebrow: page.eyebrow,
-%     hero: page.hero, sections: page.sections, plates: page.plates,
-%     cards: cards, content: body, here: here, titles: page.titles
+%     hero: page.hero, sections: page.sections,
+%     cards: cards, content: body, here: here, titles: page.titles,
+%     figures: page.figures, hook: page.hook
 %   })
-%   const colophon = $.render({ path: "layouts/colophon.mdy" }, { title: page.title, source: page.source })
+%   const colophon = $.render({ path: "layouts/colophon.mdy" }, {
+%     title: page.title, source: page.source,
+%     rewritten: page.rewritten
+%       ? "Model " + page.rewritten.model + ", from revision " + page.rewritten["source-revision"] +
+%         ". " + (page.rewritten.verified ? "Checked against the source by a second pass." : "Not yet checked.") +
+%         (page.rewritten.reviewed ? " Read by a person." : " Not yet read by a person.")
+%       : undefined
+%   })
+%
+%   // The two side by side, which is how the question gets answered.
+%   if (page.edited) {
+%     const compare = $.render({ path: "layouts/compare.mdy" }, {
+%       title: page.title, url: page.url,
+%       before: $.render({ path: page.originalPath }),
+%       after: $.render({ path: page.path }),
+%       hook: page.hook, standfirst: page.description,
+%       rewritten: page.rewritten
+%     })
+%     $.emit("compare/" + page.slug + "/index.html", style.render({ path: "layouts/base.mdy" }, {
+%       content: compare, colophon: colophon, site: site,
+%       page: { title: page.title + " — before and after", url: "/compare/" + page.slug + "/" }
+%     }))
+%   }
 %
 %   $.emit(page.slug + "/index.html", style.render({ path: "layouts/base.mdy" }, {
 %     content: article, colophon: colophon, site: site,

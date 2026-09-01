@@ -15,3 +15,7 @@ static/img/
 # the query, the titles, the tools — and two commands rebuild it, with every
 # document recording the revision it came from. See docs/ancient-plan.md.
 site/corpus/
+
+# Credentials for the rewriting pass. `pipeline/rewrite.mjs` reads
+# ANTHROPIC_API_KEY from the environment; this is somewhere to keep it.
+.env

@@ -257,6 +257,41 @@ a:focus-visible { outline: 2px solid var(--blue); outline-offset: 3px; border-ra
 /* The footnotes the converter made are apparatus, not prose. */
 .prose .footnotes, .prose ol.footnotes { font-size: 0.84rem; color: var(--muted); }
 
+/* --------------------------------------------------- the body's own figures
+ * An article places its own pictures, and it turns out the import keeps them
+ * there — so a figure in the prose breaks the measure rather than sitting in
+ * it, which is what a picture is for. Bare images (a template that lost its
+ * figure on the way through) are centred and given the same treatment. */
+
+.prose figure {
+  margin: 2.6rem 0;
+  width: min(46rem, calc(100vw - 2rem));
+  margin-left: calc((min(46rem, 100vw - 2rem) - 100%) / -2);
+}
+
+.prose figure img { width: 100%; background: var(--surface); border-radius: 2px; }
+
+.prose figure figcaption {
+  padding: 0.7rem 0 0;
+  margin: 0;
+  max-width: 40rem;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+/* An image the article dropped in without a figure around it. */
+.prose > p > img,
+.prose > img {
+  margin: 2rem auto;
+  border-radius: 2px;
+  background: var(--surface);
+}
+
+/* A tall portrait would otherwise fill the screen on its own. */
+.prose figure img,
+.prose img { max-height: 46rem; object-fit: contain; }
+
 /* ----------------------------------------------------------------- figures */
 
 figure { margin: 0; }
@@ -465,3 +500,54 @@ figcaption .credit a:hover { color: var(--blue); }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+/* ------------------------------------------------------------------- the hook
+ * The reason to care, set large, above everything the article inherited. It
+ * only exists on a rewritten page; an imported one goes straight to prose. */
+
+.hook {
+  font-size: clamp(1.3rem, 2.6vw, 1.72rem);
+  line-height: 1.35;
+  font-weight: 400;
+  margin: 0 0 2.2rem;
+  color: var(--ink);
+  text-wrap: pretty;
+  border-left: 2px solid var(--ochre);
+  padding-left: 1.2rem;
+}
+
+/* ----------------------------------------------------------------- compare
+ * Two columns, one parser, no diff. The question a diff cannot answer is
+ * whether the right-hand column is better. */
+
+.compare-head { padding: clamp(2.5rem, 6vw, 4rem) clamp(1rem, 4vw, 3rem) 1.5rem; max-width: 46rem; }
+.compare-head h1 { font-size: clamp(2rem, 5vw, 3rem); font-weight: 700; line-height: 1.05; letter-spacing: -0.02em; margin: 0.5rem 0 0; }
+.compare-meta { margin-top: 1rem; font-size: 0.9rem; }
+
+.compare {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.5rem;
+  padding: 0 clamp(1rem, 4vw, 3rem) 5rem;
+  align-items: start;
+}
+
+@media (min-width: 64rem) { .compare { grid-template-columns: 1fr 1fr; gap: 3.5rem; } }
+
+.compare-label {
+  font-family: Archivo, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.13em;
+  font-size: 0.66rem;
+  font-weight: 500;
+  color: var(--faint);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.7rem;
+  margin: 0 0 1.5rem;
+}
+
+.compare section:last-child .compare-label { color: var(--ochre); border-bottom-color: var(--ochre); }
+
+/* Inside two columns a figure has no measure to break out of. */
+.compare .prose figure { width: 100%; margin-left: 0; margin-right: 0; }
+.compare .prose { font-size: 17px; }

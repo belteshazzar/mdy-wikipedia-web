@@ -1,0 +1,20 @@
+% // The imported article on the left, the rewrite on the right, both rendered
+% // by the same parser. Not a diff: a diff of a rewrite is unreadable, and the
+% // question is not what changed but whether the right-hand column is better.
+< section class="compare-head"
+  <p class="eyebrow">Before and after
+  <h1>{{ req.title }}
+  % if (req.hook) {
+  <p class="standfirst">{{ req.hook }}
+  % }
+  <p class="compare-meta">[[ Read the page | {{ req.url }} ]]
+
+< div class="compare"
+  < section
+    <p class="compare-label">Wikipedia, imported
+    < div class="prose"
+      {{ req.before }}
+  < section
+    <p class="compare-label">Rewritten
+    < div class="prose"
+      {{ req.after }}

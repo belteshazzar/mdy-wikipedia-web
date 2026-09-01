@@ -14,6 +14,7 @@
     "test": "node --test test/*.test.js"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.122.0",
     "@mdy-docs/mdy-site": "file:third-party/mdy-docs/packages/mdy-site",
     "@mdy-docs/mdy-wikipedia": "file:third-party/mdy-wikipedia",
     "mdy-docs": "file:third-party/mdy-docs"
