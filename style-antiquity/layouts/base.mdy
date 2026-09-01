@@ -13,7 +13,15 @@
     < header class="site-head"
       <a class="wordmark" href="/">{{ req.site.title }}
       < nav class="site-nav"
-        <a href="/">All articles
+        <a href="/">Articles
+        <a href="/timeline/">Timeline
+        <a href="/glossary/">Glossary
+        <a href="/quotations/">Quotations
+        <a href="/places/">Places
+      < search class="site-search"
+        <input id="search-input" type="search" placeholder="Search the corpus…" aria-label="Search" autocomplete="off"
+        <ul id="search-results" hidden
     {{ req.content }}
+    <script src="/search.js"
     < footer class="colophon"
       {{ req.colophon }}

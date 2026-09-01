@@ -1,0 +1,24 @@
+% // A dictionary of the ancient world, assembled rather than written: every
+% // term is one an article needed to explain, glossed by that article.
+< section class="index-head"
+  <p class="eyebrow">{{ req.count }} terms, each defined by the article that needed it
+  <h1>Glossary
+  <p>Not a reference work somebody sat down to write. Every entry is a word one of these articles had to stop and explain, kept where it was explained.
+
+< nav class="alphabet"
+  % for (const group of req.letters) {
+  <a href="#letter-{{ group.letter }}">{{ group.letter }}
+  % }
+
+< div class="glossary"
+  % for (const group of req.letters) {
+  < section class="letter"
+    <h2 id="letter-{{ group.letter }}">{{ group.letter }}
+    < dl
+      % for (const term of group.terms) {
+      <dt>{{ term.term }}
+      < dd
+        {{ term.gloss }}
+        <span class="term-from">[[ {{ term.title }} | {{ term.url }} ]]
+      % }
+  % }

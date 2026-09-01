@@ -1,0 +1,21 @@
+% // Three thousand years in one column. Nobody wrote this page: it is every
+% // dated event from every rewritten article, sorted, banded and linked back
+% // to the article it came from.
+< section class="index-head"
+  <p class="eyebrow">{{ req.count }} dated events · {{ req.articles }} articles · one column
+  <h1>Timeline
+  <p>Every date the corpus knows, in order. Each one belongs to an article and links back to it; nothing here was written for this page. Where a source dates something to a millennium, it sits in the middle of that millennium, because that is the only honest place to put it.
+
+< div class="timeline"
+  % for (const band of req.bands) {
+  < section class="band"
+    <h2 id="{{ band.key }}">{{ band.label }}
+    < div class="band-events"
+      % for (const event of band.events) {
+      < div class="event"
+        <p class="event-when">{{ event.when }}
+        < div class="event-what"
+          {{ event.what }}
+          <p class="event-from">[[ {{ event.title }} | {{ event.url }} ]]
+      % }
+  % }

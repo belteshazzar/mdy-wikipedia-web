@@ -570,3 +570,270 @@ figcaption .credit a:hover { color: var(--blue); }
 }
 
 .prose figure.planned figcaption { margin: 0 auto; }
+
+/* ================================================================= phase 4
+ * The pages no article contains. They are all the same shape underneath — a
+ * long list of things gathered from everywhere — so they share a rhythm: a
+ * band or letter heading in the margin, the material beside it. */
+
+.timeline, .glossary, .quotations {
+  padding: 0 clamp(1rem, 4vw, 3rem) 5rem;
+  max-width: 62rem;
+  margin: 0 auto;
+}
+
+/* ------------------------------------------------------------- the timeline */
+
+.band { padding-top: 2.5rem; }
+
+.band h2 {
+  font-family: Archivo, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--ochre);
+  border-top: 1px solid var(--rule);
+  padding-top: 1rem;
+  margin: 0 0 1.4rem;
+  position: sticky;
+  top: 0;
+  background: var(--ground);
+  z-index: 1;
+}
+
+.band-events { display: flex; flex-direction: column; }
+
+.event {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.15rem;
+  padding: 0.85rem 0;
+  border-top: 1px solid var(--rule);
+}
+
+.event:first-child { border-top: 0; }
+
+@media (min-width: 46rem) {
+  .event { grid-template-columns: 11rem minmax(0, 1fr); gap: 0 2rem; }
+}
+
+.event-when {
+  font-family: Archivo, Arial, sans-serif;
+  font-size: 0.74rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ochre);
+  font-variant-numeric: tabular-nums;
+  margin: 0;
+  padding-top: 0.2em;
+}
+
+.event-what { font-size: 0.98rem; line-height: 1.55; }
+.event-what > p:first-child { margin: 0; }
+
+.event-from, .term-from, .saying-from {
+  font-family: Archivo, Arial, sans-serif;
+  font-size: 0.66rem;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  margin: 0.35rem 0 0;
+}
+
+.event-from a, .term-from a, .saying-from a { color: var(--faint); border: 0; }
+.event-from a:hover, .term-from a:hover, .saying-from a:hover { color: var(--blue); }
+
+/* -------------------------------------------------------------- the glossary */
+
+.alphabet {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0 clamp(1rem, 4vw, 3rem) 1.5rem;
+  max-width: 62rem;
+  margin: 0 auto;
+}
+
+.alphabet a {
+  font-family: Archivo, Arial, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 0.25rem 0.6rem;
+  color: var(--muted);
+}
+
+.alphabet a:hover { border-color: var(--blue); color: var(--blue); }
+
+.letter { padding-top: 2rem; }
+
+.letter h2 {
+  font-family: Spectral, Georgia, serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--ochre);
+  border-top: 1px solid var(--rule);
+  padding-top: 0.8rem;
+  margin: 0 0 1rem;
+}
+
+.glossary dl { margin: 0; display: flex; flex-direction: column; }
+
+.glossary dt {
+  font-family: Spectral, Georgia, serif;
+  font-weight: 600;
+  font-size: 1.06rem;
+  margin-top: 1.1rem;
+}
+
+.glossary dd { margin: 0.2rem 0 0; color: var(--muted); font-size: 0.96rem; line-height: 1.55; }
+
+/* ------------------------------------------------------------ the quotations */
+
+.quotations { display: flex; flex-direction: column; gap: 2.2rem; padding-top: 2rem; }
+
+.saying {
+  border-left: 2px solid var(--ochre);
+  padding: 0 0 0 1.6rem;
+  margin: 0;
+}
+
+.saying > p:first-child {
+  font-family: Spectral, Georgia, serif;
+  font-size: clamp(1.1rem, 2vw, 1.32rem);
+  line-height: 1.5;
+  font-style: italic;
+  font-weight: 300;
+  margin: 0;
+  color: var(--ink);
+  text-wrap: pretty;
+}
+
+.saying-who {
+  font-family: Archivo, Arial, sans-serif;
+  font-size: 0.74rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0.7rem 0 0;
+}
+
+/* ---------------------------------------------------------------- the plot */
+
+.plot-wrap { padding: 1rem clamp(1rem, 4vw, 3rem) 0; max-width: 62rem; margin: 0 auto; }
+
+.plot {
+  position: relative;
+  aspect-ratio: 3 / 2;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background:
+    repeating-linear-gradient(to right, var(--rule) 0 1px, transparent 1px 12.5%),
+    repeating-linear-gradient(to bottom, var(--rule) 0 1px, transparent 1px 16.66%),
+    var(--surface);
+}
+
+.pin { position: absolute; transform: translate(-50%, -50%); border: 0; text-align: center; }
+.pin-dot { display: block; width: 9px; height: 9px; border-radius: 50%; background: var(--ochre); margin: 0 auto; }
+
+/* Babylon and its Hanging Gardens have the same coordinates, so labels here
+   will overlap however they are placed. A chip behind each one keeps both
+   readable, and hovering lifts the one you want to the front. */
+.pin-label {
+  display: block;
+  font-family: Archivo, Arial, sans-serif;
+  font-size: 0.66rem;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin-top: 0.3rem;
+  white-space: nowrap;
+  background: var(--ground);
+  padding: 0.1rem 0.3rem;
+  border-radius: 2px;
+}
+
+.pin { z-index: 1; }
+.pin:hover { z-index: 3; }
+.pin:hover .pin-dot { background: var(--blue); }
+.pin:hover .pin-label { color: var(--ink); background: var(--raised); }
+
+/* Room for a label under a pin sitting on the bottom edge. */
+.plot { margin-bottom: 1.5rem; }
+
+/* ------------------------------------------------------------------ search */
+
+.site-search { position: relative; margin-left: auto; }
+
+#search-input {
+  font-family: Archivo, Arial, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 0.4rem 0.7rem;
+  width: 11rem;
+  transition: width 0.15s ease, border-color 0.15s ease;
+}
+
+#search-input:focus { outline: none; border-color: var(--blue); width: 15rem; }
+#search-input::placeholder { color: var(--faint); }
+
+#search-results {
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  right: 0;
+  width: min(26rem, calc(100vw - 2rem));
+  max-height: 60vh;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0.4rem 0;
+  list-style: none;
+  background: var(--raised);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  box-shadow: var(--shadow);
+  z-index: 10;
+}
+
+#search-results li { padding: 0.5rem 0.9rem; border-top: 1px solid var(--rule); }
+#search-results li:first-child { border-top: 0; }
+
+#search-results a {
+  font-family: Spectral, Georgia, serif;
+  font-size: 0.98rem;
+  color: var(--ink);
+  border: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+}
+
+#search-results a:hover { color: var(--blue); }
+
+.result-kind {
+  font-family: Archivo, Arial, sans-serif;
+  font-size: 0.58rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--faint);
+  margin-left: auto;
+  flex: none;
+}
+
+.result-note {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.4;
+  margin-top: 0.15rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+@media (prefers-reduced-motion: reduce) { #search-input { transition: none; } }

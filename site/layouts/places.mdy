@@ -1,0 +1,32 @@
+% // Not a map — there is no basemap to draw on. A plot of where these places
+% // are in relation to each other, which is a different and smaller claim.
+< section class="index-head"
+  <p class="eyebrow">{{ req.count }} places the corpus can locate
+  <h1>Places
+  <p>Every article whose subject has coordinates, plotted against each other. There is no coastline behind them: this shows relative position and nothing more. Degrees {{ req.west }} to {{ req.east }} east, {{ req.south }} to {{ req.north }} north.
+
+< div class="plot-wrap"
+  < div class="plot"
+    % for (const place of req.places) {
+    < a class="pin" href="{{ place.url }}" style="left: {{ place.x }}%; top: {{ place.y }}%"
+      <span class="pin-dot"
+      <span class="pin-label">{{ place.title }}
+    % }
+
+< div class="page"
+  < div class="prose"
+    < table
+      < thead
+        < tr
+          <th>Place
+          <th>North
+          <th>East
+          <th>When
+      < tbody
+        % for (const place of req.places) {
+        < tr
+          <td>[[ {{ place.title }} | {{ place.url }} ]]
+          <td>{{ place.lat }}
+          <td>{{ place.lon }}
+          <td>{{ place.when }}
+        % }

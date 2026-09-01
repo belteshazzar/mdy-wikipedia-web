@@ -348,7 +348,8 @@ that lists every stale rewrite. ✅ — see
 [what phase 3 landed](#what-phase-3-landed).
 
 **Phase 4 — the cross-article pages.** Timelines, era hubs, maps, search.
-Exit: at least three pages that no article contains.
+Exit: at least three pages that no article contains. ✅ — see
+[what phase 4 landed](#what-phase-4-landed).
 
 ## What phase 0 landed
 
@@ -911,6 +912,75 @@ it by being rewritten, and the report beside it now goes too.
 **The cheap tier broke `compose` on its first article**, which assumed every
 answer has a hook. Short fields go through one accessor that survives all three
 shapes: absent, a bare string, and the `{text, from}` pair.
+
+## What phase 4 landed
+
+Four pages and a search index, all of them queries over the corpus rather than
+anything anybody wrote. No model was called: this is the part the conversion
+was for.
+
+**`/timeline/` — 358 dated events from 25 articles, in one column.** Banded by
+millennium before 1000 BC and by century after, because a century heading
+across the third millennium would be forty headings over material dated to the
+nearest five hundred years. Every entry links back to the article it came from.
+
+Its value shows up within eight lines of each other: cuneiform invented for
+Sumerian, the first monumental statues of Min at Koptos, and the earliest known
+empire in southern Egypt. Two civilisations interleaved by date. No article
+contains that view and Wikipedia has no way to ask for it.
+
+Dates are parsed out of the way historians write them — `c. 2200 BC`,
+`3rd millennium BC`, `24 August 394` — and a millennium sorts to its middle,
+which is the only honest place to put a thousand-year span. 14 of the 372
+events had dates too vague to place and are left out rather than guessed at.
+
+**`/glossary/` — 199 terms, each defined by the article that needed it.** Not a
+reference work somebody sat down to write: every entry is a word one of these
+articles had to stop and explain. Two bugs found by looking at it — terms
+carrying MDY italic markup filed themselves under `/`, and quoted terms under
+`'`; and `šar kiššati` filed under `š` in a group of its own after Z. Terms are
+filed under a folded, markup-stripped key now and displayed as written. Greek
+is deliberately not folded: κρεμαστός is not a k with a mark on it.
+
+**`/quotations/` — 71 passages.** What the ancient writers and the modern
+scholars arguing about them actually said, gathered out of forty-one articles.
+
+**`/places/` — the 9 articles with coordinates, plotted against each other.**
+Deliberately not called a map: there is no basemap to draw on, so it shows
+relative position and says so in its own standfirst. Babylon and its Hanging
+Gardens share coordinates exactly, so their labels always collide; each one
+gets a chip behind it and hovering lifts the one you want.
+
+**Search, over everything.** The index is built with `$.tokenize` — the host's
+own word-list algorithm, the one nisaba uses — so what the widget matches is
+what a query against the document set would have matched. 240 records: 41
+articles by their whole vocabulary, and all 199 glossary terms as records of
+their own, because somebody typing *lamassu* wants the definition first and the
+article it came from second. Tested by typing into a real browser rather than
+by inspection: *lamassu*, *babylon*, *hanging gardens*, *turtanu*, *ziggurat*
+each return the right thing first.
+
+### What this cost, and what it did not
+
+No API calls, no verification, no review. Every one of these pages is a `$.find`
+and a sort. That is the whole argument for having converted the articles into
+documents with data in the first place — the expensive, risky, model-driven
+half of this project produced the prose, and the part that makes the site worth
+visiting came out of the front matter for nothing.
+
+### What is knowingly left
+
+- **The search index is 819 KB.** Fetched lazily on first keystroke and it
+  gzips to a fraction of that, but it is 41 articles' whole vocabulary and it
+  will not scale linearly to 5,000.
+- **Era hubs, as distinct from the timeline.** The phase named both; the
+  timeline is the one that earned its place, and a hub per period would mostly
+  restate it against a corpus this size.
+- **`key-facts` still has no anchor.** Phase 3's clearest recommendation, and
+  phase 4 did not touch the rewriting pass.
+- **The caption `cite` field**, `--drop-pronunciation`, and redirect
+  resolution — all three want a re-import, which marks every rewrite stale at
+  once. They belong together in a phase of their own.
 
 ## Open questions
 

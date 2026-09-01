@@ -271,6 +271,7 @@ baseURL: https://example.invalid
 %     eyebrow: eyebrowParts.join(" · "), sections: doc.sections || [],
 %     hero: planned || hero, facts: facts, held: held, plan: plan,
 %     isPlace: isPlace, kind: kind, source: doc.source || {},
+%     coordinates: doc.coordinates,
 %     titles: doc["link-titles"] || {},
 %     figures: byPrefix,
 %     sitelinks: (doc["lang-links"] || []).length
@@ -326,6 +327,261 @@ baseURL: https://example.invalid
 %   }))
 % }
 %
+% // The colophon a page that is not an article carries: the corpus as a whole
+% // rather than one revision of one page.
+% const siteColophon = $.render({ path: "layouts/colophon.mdy" }, {
+%   title: site.title,
+%   source: {
+%     title: "Wikipedia", url: "https://en.wikipedia.org/", revision: "various",
+%     retrieved: "2026-09-01",
+%     "license-url": "https://creativecommons.org/licenses/by-sa/4.0/"
+%   }
+% })
+%
+% // ----------------------------------------------------------------- phase 4
+% //
+% // The pages no article contains. Every one of them is a query over the
+% // corpus rather than something somebody wrote: the timeline is 372 dated
+% // events from 25 articles in one column, the glossary is 199 terms each
+% // defined by the article that needed it, the quotations are what the ancient
+% // sources actually said, gathered. None of it exists on Wikipedia, because
+% // Wikipedia has no way to ask.
+%
+% // A sortable year out of the way a historian writes one. Approximate by
+% // design: "3rd millennium BC" is a thousand years wide and sorts to the
+% // middle of them, which is the only honest place to put it.
+% const yearOf = function (text) {
+%   const t = String(text)
+%   const bc = /\bB\.?C\.?E?\b/i.test(t)
+%   const millennium = /(\d+)(?:st|nd|rd|th)\s+millennium/i.exec(t)
+%   const century = /(\d+)(?:st|nd|rd|th)\s+century/i.exec(t)
+%   // Three or four digits first: "24 August 394" must not sort as the year 24.
+%   const wide = /(\d{3,4})/.exec(t)
+%   const narrow = /(\d{1,4})/.exec(t)
+%   let n
+%   if (millennium) n = Number(millennium[1]) * 1000 - 500
+%   else if (century) n = Number(century[1]) * 100 - 50
+%   else if (wide) n = Number(wide[1])
+%   else if (narrow) n = Number(narrow[1])
+%   if (n === undefined) return undefined
+%   return bc ? 0 - n : n
+% }
+%
+% // Degrees to one place. A bounding box printed as 47.44194444 is a number
+% // pretending to a precision the sentence around it does not have.
+% // A term with its MDY markup and opening punctuation taken off, for filing.
+% const folds = [
+%   ["š", "s"], ["ṣ", "s"], ["ś", "s"], ["ṭ", "t"], ["ṯ", "t"], ["ṱ", "t"],
+%   ["ḥ", "h"], ["ḫ", "h"], ["ḏ", "d"], ["ḍ", "d"], ["ġ", "g"], ["ʾ", ""],
+%   ["ā", "a"], ["ē", "e"], ["ī", "i"], ["ō", "o"], ["ū", "u"], ["ʿ", ""]
+% ]
+%
+% const sortable = function (text) {
+%   let out = String(text).split("//").join("").split("!!").join("")
+%   // Transliteration diacritics file under the letter they are: `šar kiššati`
+%   // belongs at S, not in a group of its own after Z. Greek is left alone,
+%   // because κρεμαστός is not a k with a mark on it.
+%   for (const fold of folds) out = out.split(fold[0]).join(fold[1])
+%   return out.replace(/^[^A-Za-z0-9\u00C0-\u024F\u0370-\u03FF]+/, "")
+% }
+%
+% const round1 = function (n) { return Math.round(Number(n) * 10) / 10 }
+%
+% const ordinal = function (n) {
+%   const rest = n % 100
+%   if (rest > 10 && rest < 14) return n + "th"
+%   const last = n % 10
+%   if (last === 1) return n + "st"
+%   if (last === 2) return n + "nd"
+%   if (last === 3) return n + "rd"
+%   return n + "th"
+% }
+%
+% // Millennia before 1000 BC, centuries after. A century band across the third
+% // millennium would be forty headings over material dated to the nearest five
+% // hundred years.
+% const bandOf = function (year) {
+%   if (year <= -1000) {
+%     const m = Math.ceil(0 - year / 1000)
+%     return { key: 0 - m * 1000, label: ordinal(m) + " millennium BC" }
+%   }
+%   if (year < 0) {
+%     const c = Math.ceil(0 - year / 100)
+%     return { key: 0 - c * 100, label: ordinal(c) + " century BC" }
+%   }
+%   const c = Math.floor(year / 100) + 1
+%   return { key: c * 100, label: ordinal(c) + " century AD" }
+% }
+%
+% const events = []
+% const terms = []
+% const sayings = []
+% const located = []
+%
+% for (const page of pages) {
+%   const doc = rewrites[page.slug] || $.findOne({ path: "corpus/en/" + page.slug + ".mdy" })
+%   if (!doc) continue
+%
+%   for (const entry of doc.timeline || []) {
+%     const year = yearOf(entry.when)
+%     if (year === undefined) continue
+%     events.push({
+%       year: year, when: entry.when, what: entry.what,
+%       title: page.title, url: page.url
+%     })
+%   }
+%
+%   for (const entry of doc.glossary || []) {
+%     if (!entry.term) continue
+%     terms.push({
+%       term: entry.term, gloss: entry.gloss,
+%       title: page.title, url: page.url,
+%       // A term keeps its markup when it is shown — half of these are
+%       // transliterations and belong in italic — but it must not be filed
+%       // under it. `//iššiak Aššur//` filed itself under a slash, and
+%       // `'capitals'` under an apostrophe.
+%       sort: sortable(entry.term),
+%       initial: sortable(entry.term).slice(0, 1).toUpperCase()
+%     })
+%   }
+%
+%   for (const entry of doc["pull-quotes"] || []) {
+%     if (!entry.text) continue
+%     sayings.push({
+%       text: entry.text, attribution: entry.attribution,
+%       title: page.title, url: page.url
+%     })
+%   }
+%
+%   if (page.coordinates && page.coordinates.lat !== undefined) {
+%     located.push({
+%       title: page.title, url: page.url,
+%       lat: Number(page.coordinates.lat), lon: Number(page.coordinates.lon),
+%       when: page.eyebrow
+%     })
+%   }
+% }
+%
+% events.sort(function (a, b) { return a.year - b.year })
+% terms.sort(function (a, b) {
+%   const x = String(a.sort).toLowerCase()
+%   const y = String(b.sort).toLowerCase()
+%   return x < y ? -1 : x > y ? 1 : 0
+% })
+%
+% // Bands, in order, each with its events.
+% const bands = []
+% for (const event of events) {
+%   const band = bandOf(event.year)
+%   let last = bands.length ? bands[bands.length - 1] : undefined
+%   if (!last || last.key !== band.key) {
+%     last = { key: band.key, label: band.label, events: [] }
+%     bands.push(last)
+%   }
+%   last.events.push(event)
+% }
+%
+% // Terms, in order, each with its initial letter.
+% const letters = []
+% for (const term of terms) {
+%   let last = letters.length ? letters[letters.length - 1] : undefined
+%   if (!last || last.letter !== term.initial) {
+%     last = { letter: term.initial, terms: [] }
+%     letters.push(last)
+%   }
+%   last.terms.push(term)
+% }
+%
+% $.emit("timeline/index.html", style.render({ path: "layouts/base.mdy" }, {
+%   content: $.render({ path: "layouts/timeline.mdy" }, {
+%     bands: bands, count: events.length, articles: pages.length
+%   }),
+%   colophon: siteColophon, site: site,
+%   page: { title: "Timeline", url: "/timeline/" }
+% }))
+%
+% $.emit("glossary/index.html", style.render({ path: "layouts/base.mdy" }, {
+%   content: $.render({ path: "layouts/glossary.mdy" }, {
+%     letters: letters, count: terms.length
+%   }),
+%   colophon: siteColophon, site: site,
+%   page: { title: "Glossary", url: "/glossary/" }
+% }))
+%
+% $.emit("quotations/index.html", style.render({ path: "layouts/base.mdy" }, {
+%   content: $.render({ path: "layouts/quotations.mdy" }, {
+%     quotes: sayings, count: sayings.length
+%   }),
+%   colophon: siteColophon, site: site,
+%   page: { title: "Quotations", url: "/quotations/" }
+% }))
+%
+% // A plotted chart rather than a map: there is no basemap to draw on, so it
+% // shows where these places are in relation to each other and says so.
+% let west = 999
+% let east = -999
+% let north = -999
+% let south = 999
+% for (const place of located) {
+%   if (place.lon < west) west = place.lon
+%   if (place.lon > east) east = place.lon
+%   if (place.lat > north) north = place.lat
+%   if (place.lat < south) south = place.lat
+% }
+% const pad = 2
+% const plotted = []
+% for (const place of located) {
+%   plotted.push({
+%     title: place.title, url: place.url, when: place.when,
+%     lat: place.lat, lon: place.lon,
+%     x: ((place.lon - (west - pad)) / ((east + pad) - (west - pad))) * 100,
+%     y: (((north + pad) - place.lat) / ((north + pad) - (south - pad))) * 100
+%   })
+% }
+%
+% $.emit("places/index.html", style.render({ path: "layouts/base.mdy" }, {
+%   content: $.render({ path: "layouts/places.mdy" }, {
+%     places: plotted, count: plotted.length,
+%     west: round1(west), east: round1(east), north: round1(north), south: round1(south)
+%   }),
+%   colophon: siteColophon, site: site,
+%   page: { title: "Places", url: "/places/" }
+% }))
+%
+% // The search index. `$.tokenize` is the host's own word-list algorithm — the
+% // one nisaba uses — so what the widget matches on is what the database would
+% // have matched on. Words are deduplicated: a 40,000-word article contributes
+% // its vocabulary, not its length.
+% const searchIndex = []
+%
+% for (const page of pages) {
+%   const doc = rewrites[page.slug]
+%   const parts = [page.title, page.description || ""]
+%   if (page.hook) parts.push(page.hook)
+%   parts.push($.text({ path: page.path }))
+%   const seen = {}
+%   const words = []
+%   for (const word of $.tokenize(parts.join(" "))) {
+%     if (seen[word]) continue
+%     seen[word] = true
+%     words.push(word)
+%   }
+%   searchIndex.push({ u: page.url, t: page.title, d: page.description || "", k: "article", w: words })
+% }
+%
+% // A glossary term is worth finding on its own — somebody searching "lamassu"
+% // wants the definition, and the article it came from second.
+% for (const term of terms) {
+%   searchIndex.push({
+%     // The display form, with the italic markers taken off: a result reading
+%     // `//lamassu//` is the markup leaking into the interface.
+%     u: term.url, t: term.sort, d: term.gloss || "", k: "term",
+%     w: $.tokenize(term.term + " " + (term.gloss || ""))
+%   })
+% }
+%
+% $.emit("search-index.json", JSON.stringify(searchIndex))
+%
 % const listed = []
 % let credited = 0
 % for (const key of Object.keys(rights)) credited = credited + 1
@@ -339,11 +595,8 @@ baseURL: https://example.invalid
 % const index = $.render({ path: "layouts/index.mdy" }, {
 %   site: site, articles: listed, count: pages.length, images: credited
 % })
-% const indexColophon = $.render({ path: "layouts/colophon.mdy" }, {
-%   title: site.title,
-%   source: { title: "Wikipedia", url: "https://en.wikipedia.org/", revision: "various", retrieved: "2026-09-01", "license-url": "https://creativecommons.org/licenses/by-sa/4.0/" }
-% })
+
 % $.emit("index.html", style.render({ path: "layouts/base.mdy" }, {
-%   content: index, colophon: indexColophon, site: site,
+%   content: index, colophon: siteColophon, site: site,
 %   page: { title: site.title, url: "/", description: site.description }
 % }))

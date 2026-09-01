@@ -1,0 +1,16 @@
+% // What the sources actually said. Every quotation the rewriting pass found
+% // worth setting apart, gathered out of forty-one articles.
+< section class="index-head"
+  <p class="eyebrow">{{ req.count }} quotations, gathered from {{ req.count }} places in the corpus
+  <h1>In their own words
+  <p>Ancient writers, and the modern scholars who argue about them. Every one of these is quoted verbatim inside an article; this page only puts them together.
+
+< div class="quotations"
+  % for (const quote of req.quotes) {
+  < blockquote class="saying"
+    <p>{{ quote.text }}
+    % if (quote.attribution) {
+    <p class="saying-who">{{ quote.attribution }}
+    % }
+    <p class="saying-from">[[ {{ quote.title }} | {{ quote.url }} ]]
+  % }
