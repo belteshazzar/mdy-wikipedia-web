@@ -219,6 +219,14 @@ So each of those fields carries a \`from\`: the passage it compresses, copied ou
 MECHANICS
 - The article's LEAD — the prose above its first heading — is rewritten into "lead". It is the most-read part of the article. The hook and the standfirst do not replace it; they sit above it and are much shorter.
 - Section headings are reproduced verbatim and every section is present, in order, with its original id.
+- A quotation set off on its own is a block quote, written as an element:
+
+    < blockquote
+      The words, indented two columns under it.
+
+  MDY has no closing tags — the indent is the element, and it ends where the
+  indent does. Two rewrites flattened block quotes to inline because they were
+  told the inline markup and not this.
 - Bodies are MDY markup: !!bold!!, //italic//, [[ label | target ]] for links — copy links across unchanged, do not invent new ones — and [[ ^n ]] for footnote references.
 - Every [[ ^n ]] in the source belongs with the claim it supports. Carry it. Where you merge two sentences, carry both. A sentence whose citation you cannot carry does not get written.
 - Dates, numbers, names, titles, measurements and quotations are transcribed exactly.

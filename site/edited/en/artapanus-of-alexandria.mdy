@@ -1,0 +1,175 @@
++++
+title: Artapanus of Alexandria
+description: Alexandrian Jewish historian
+key-facts:
+  - name: Lived in
+    value: Alexandria — though some scholars argue he resided in the countryside;
+      either way, in Egypt
+  - name: Active
+    value: 3rd century BC into the 2nd century BC, in the Hellenistic period
+  - name: Worked as
+    value: Historian and writer
+  - name: Wrote in
+    value: Ancient Greek
+  - name: His book
+    value: //Concerning The Jews//, a history of the Jews, written between 250 and
+      100 BCE and now lost
+  - name: Survives through
+    value: Quotation in Clement of Alexandria and Eusebius of Caesarea
+image-plan:
+  - file: ArtapanusGermanRiessler.djvu
+    role: hero
+    section: lead
+    caption: "A fragment of Artapanus in print: the scan is from Paul Rießler's
+      1928 //Altjüdisches Schrifttum außerhalb der Bibel//. Nothing of his own
+      book survives; what there is comes second-hand, through later writers
+      who quoted him."
+further:
+  - slug: alexandria
+    why: The city Artapanus is believed to have lived in, and the one his name
+      carries.
+  - slug: thoth
+    why: The Egyptian god of wisdom and time whose knowledge, in Artapanus'
+      telling, Moses attained by interpreting the sacred letters.
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ArtapanusGermanRiessler.djvu/page1-1920px-ArtapanusGermanRiessler.djvu.jpg
+images:
+  - file: ArtapanusGermanRiessler.djvu
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ArtapanusGermanRiessler.djvu/page1-250px-ArtapanusGermanRiessler.djvu.jpg
+    width: 3507
+    height: 4960
+    caption: Fragment of "Artapanus of Alexandria", scan from 1928 Altjüdisches
+      Schrifttum außerhalb der Bibel by Paul Rießler
+sections:
+  - level: 2
+    id: works-and-portrayal-of-moses
+    title: Works and portrayal of Moses
+  - level: 2
+    id: theology-and-motivation
+    title: Theology and motivation
+  - level: 2
+    id: literary-impact
+    title: Literary impact
+wikidata:
+  id: Q706089
+  label: Artapanus of Alexandria
+  description: Alexandrian Jewish historian
+  claims:
+    sex-or-gender: male
+    instance-of: human
+    occupation:
+      - historian
+      - writer
+    time-period: Hellenistic period
+    floruit:
+      value: 3rd century BC
+      from: 3rd century BC
+      to: 2nd century BC
+    described-by-source:
+      - Jewish Encyclopedia of Brockhaus and Efron
+      - Dictionnaire de la Bible
+      - Pauly–Wissowa
+    residence: Alexandria
+    date-of-birth: 2nd century BC
+    date-of-death: 2nd century BC
+    copyright-status-as-a-creator: copyrights on works have expired
+    languages-spoken-written-or-signed: Ancient Greek
+    writing-language: Ancient Greek
+link-titles:
+  abraham: Abraham
+  alexander-polyhistor: Alexander Polyhistor
+  alexandria: Alexandria
+  alexandrian-jewish: Alexandrian Jewish
+  ancient-near-east: Ancient Near East
+  clement-of-alexandria: Clement of Alexandria
+  eusebius-of-caesarea: Eusebius of Caesarea
+  hermes: Hermes
+  hermopolis: Hermopolis
+  j.-j.-collins: J. J. Collins
+  james-h.-charlesworth: James H. Charlesworth
+  joseph-genesis: Joseph (Genesis)
+  josephus: Josephus
+  manetho: Manetho
+  moses: Moses
+  musaeus-of-athens: Musaeus of Athens
+  orpheus: Orpheus
+  præparatio-evangelica: Præparatio Evangelica
+  ptolemy-iv-philopator: Ptolemy IV Philopator
+  septuagint: Septuagint
+  sesostris: Sesostris
+  stromata: Stromata
+source:
+  site: Wikipedia
+  lang: en
+  title: Artapanus of Alexandria
+  url: https://en.wikipedia.org/wiki/Artapanus_of_Alexandria
+  page-id: 3840081
+  revision: "1310832281"
+  modified: 2025-09-11T21:11:15Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Artapanus
+    of Alexandria" (revision 1310832281), by Wikipedia contributors, used
+    under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/artapanus-of-alexandria.mdy
+  source-revision: "1310832281"
+  model: claude-opus-5
+  left-out: The 'Literary impact' section carries no footnote reference in the
+    source, and the opening sentences of the lead about Artapanus' origin and
+    residence carry none either, so none could be attached to them here. The
+    source spells his name 'Artanpanus' once, in the Gruen paragraph; that has
+    been left as 'Artapanus' throughout. No hook, standfirst, pull quotes,
+    timeline or glossary are included, as this is a body-tier request.
+  verified: false
+  reviewed: false
++++
+!!Artapanus of Alexandria!! (Gk. Ἀρτάπανος ὁ Ἀλεξανδρεύς) was a historian of [[ Alexandrian Jewish ]] origin who wrote a history of the Jews that has not survived. He is believed to have lived in [[ Alexandria ]], during the later half of the 3rd or 2nd century BCE. Most scholars assume that is where he lived; others argue he resided in the countryside. Regardless, Artapanus lived in Egypt.
+
+The book was //Concerning The Jews//, written in Greek between 250 and 100 BCE. Its date is an argument assembled from who he was answering and who quoted him. His writings may be interpreted as a response to those such as [[ Manetho ]] writing as early as the 3rd century BCE; therefore, Artapanus most likely wrote no earlier than the middle of the 3rd century. It is arguable that he wrote in the second half of the 3rd century BCE under the influence of [[ Ptolemy IV Philopator ]]’s reign between 221 and 204 BCE; however, [[ Alexander Polyhistor ]]’s citation of Artapanus in the middle of the 1st century BCE makes it likely that Artapanus wrote no later than the end of the 2nd century BCE. Polyhistor’s writings have not survived to the present.[[ ^1 ]][[ ^2 ]]
+
+Parts of the work survive because two later historians quoted it: [[ Clement of Alexandria ]] in //[[ Stromata ]]// (Book I, chapter 23.154,2f) and [[ Eusebius of Caesarea ]] in //[[ Præparatio Evangelica ]]// (Book IX, chapters 18, 23, and 27). Even that is at one remove. According to [[ J. J. Collins ]] and [[ James H. Charlesworth ]], "we do not have actual excerpts from Artapanus but only the summaries of [[ Alexander Polyhistor ]], insofar as these have been preserved by Eusebius."[[ ^3 ]]
+
+== Works and portrayal of Moses
+
+There is general scholarly consensus that Artapanus used the [[ Septuagint ]] as a framework for his historical narrative, liberally manipulating its stories to create his own unique account. He describes the Egyptian adventures of the three major Jewish patriarchs, [[ Abraham ]], [[ Joseph | joseph-genesis ]], and [[ Moses ]], depicting them as heroes responsible for many of the cultural innovations of the [[ ancient Near East ]].[[ ^1 ]]
+
+According to Artapanus, Abraham taught an Egyptian pharaoh the science of astrology, while Moses bestowed many “useful benefits on mankind” by inventing boats, Egyptian weapons, and philosophy. (Eusebius, PrEv 9.27.4) He also recounts that the Greeks called Moses [[ Musaeus | musaeus-of-athens ]] and that he taught [[ Orpheus ]], who was widely considered to be the father of Greek culture.[[ ^4 ]] Similarly, Artapanus credits Moses with the division of Egypt into 36 nomes as well as the successful conquest of Ethiopia, two accomplishments traditionally attributed to the Egyptian folk hero [[ Sesostris ]].[[ ^5 ]] Throughout the narrative Artapanus insists that the public loved these Jewish figures for their impressive innovations and achievements. The Ethiopians, he remarks, went so far as to circumcise themselves out of admiration for Moses.[[ ^1 ]]
+
+One of the most striking aspects of Artapanus' works is the ease with which he syncretizes Jewish and Egyptian culture and religion. Moses, he writes, was responsible for appointing "for each of the [36] nomes the god to be worshipped, and that they should be cats and dogs and ibises."[[ ^1 ]] There is no doubt that Artapanus was familiar with the animal cults of Egypt, and many cult centers for the worship of cats, such as Tell el-Bubastis, and ibises, such as Tuna el-Gebel (outside of [[ Hermopolis ]]), were flourishing in the time Artapanus was writing.[[ ^6 ]] Unfortunately, the mention of "cats and dogs and ibises" does not give us enough knowledge about the various cult centers that might be used for dating the work. Nor can we know from only Artapanus' account the extent to which this religious syncretism existed in the minds of other Jews or Egyptians writing or living at this time. Although Artapanus credits Moses with the foundation of the animal cults, he also claims that the "consecrated animals" were destroyed during the crossing of the Red Sea.[[ ^1 ]]
+
+Moses is also identified with [[ Hermes ]] in 9.27.6 (Eusebius, PrEv): "On account of these things Moses was loved by the masses, and was deemed worthy of godlike honor by the priests and called Hermes, on account of the interpretation of sacred letters."[[ ^1 ]] Hermes was a Greek messenger god who was in Egyptian traditions associated with Thoth (Djehuty), the god of wisdom and time who invented writing.[[ ^7 ]] John J. Collins points out the Greek linguistic play that must have existed in Artapanus' day of Moses, Thoth, and the common name Thutmosis; yet this is not why Artapanus associates Moses with Thoth. Instead, Artapanus makes the connection between the Jewish patriarchs who taught the Egyptians skills such as astrology (Abraham, Eusebius PrEv 9.18.1) and Moses who, by interpreting the sacred letters (presumably Hebrew Script), attained the godlike knowledge of Thoth. Some scholars have also made a connection between Moses and the obscure Jewish figure Enoch, as Enoch was said to have taught human beings the "right" kind of astrology (for instance, the solar calendar; 1 Enoch 1–36); however Artapanus only clearly denotes Moses' association with Hermes/Thoth.
+
+== Theology and motivation
+
+Artapanus’ theology is an issue of extreme contention among the scholarly community. Some scholars take him to be a polytheistic Jew. John Barclay, for example, sees Artapanus’ acceptance of the Egyptian animal cults and his depiction of Moses as divine as signs of his polytheism.[[ ^4 ]] Others observe that his fascination with the miraculous powers of Moses is reminiscent of Hellenistic paganism.[[ ^8 ]] A different group of scholars, however, believes that Artapanus practiced monolatry – he himself worshipped only one god but acknowledged the possible existence of others.[[ ^9 ]] They argue that Artapanus maintains the superiority of YHVH throughout his text, and that his depiction of Moses as divine actually has biblical origins.[[ ^1 ]]
+
+His motivation for writing the history is equally debated. One branch of analysis emphasizes the underlying tension between the diaspora Jews and their Hellenistic neighbors. Some scholars, such as Carl Holladay, see Artapanus’ writings as “competitive historiography.”[[ ^10 ]] These scholars argue that Artapanus aimed to defend the Jews from the attacks of gentile historians such as Manetho, and this explains his superior depiction of the Jewish patriarchs.[[ ^4 ]] James Charlesworth of Princeton University, for example, argues Artapanus composed a “pro-Jewish apology” in response to anti-Moses and other anti-Jewish Egyptian stereotypes.[[ ^11 ]] Others refute the former argument, claiming it is highly unlikely that any gentiles would read an embellished history of the Jews that disparaged their own cultures’ accomplishments.[[ ^8 ]] Instead, these scholars insist that Artapanus’ target audience was primarily the Jews themselves, and he wrote this romantic history to bolster their national pride. Some scholars accept both of these arguments, claiming that Artapanus’ narrative at once represents an apologetic historiography and a romantic piece of national propaganda.
+
+On the other hand, Erich Gruen insists that these arguments completely miss Artapanus’ humor and thus his major motivation. He argues that Artapanus did not intend for his readers to take his imaginative tale literally, since anyone familiar with the biblical stories would quickly recognize his fantastical additions and manipulations. Instead, Gruen insists that Artapanus playfully teases the pharaohs and exaggerates the accomplishments of the Jewish patriarchs to “comic proportions” in order to demonstrate his own self-confidence as a diaspora Jew. It is this sense of comfort that he aimed to give his Jewish readers.[[ ^5 ]]
+
+== Literary impact
+
+Although it is possible that Artapanus influenced the Jewish historian [[ Josephus ]], it seems that he generally had little impact on later Jewish literature.
+
+[[ ^1 ]]: Collins, John J. (1983) “Artapanus”, pp. 889–903 in //The Old Testament Pseudepigrapha//: Vol. 2 Expansions of the "Old Testament" and Legends, Wisdom and Philosophical Literature, Prayers, Psalms, and Odes, Fragments of Lost Judeo-Hellenistic Works. Ed James H. Charlesworth. Garden City, N. Y.: Doubleday.
+
+[[ ^2 ]]: From Charlesworth, //The Old Testament Pseudepigrapha//. Quote: //The text can also be found in Jacoby's// Die Fragmente der griechischen Historiker (//FGH//, vol. 3C, n0. 726, pp. 519-24) and in A. -M. Denis, //Fragmenta pseudoepigrapharum quae supersunt graeca// (Denis, PVTG 2, pp. 186-95)
+
+[[ ^3 ]]: [[ J. J. Collins ]], //Artapanus (Third to Second Century B.C.). A New Translation and Introduction//, in [[ James H. Charlesworth ]] (1985), //The Old Testament Pseudoepigrapha//, Garden City, NY: Doubleday & Company Inc., Volume 2, ISBN [[ 0-385-09630-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-385-09630-5 ]] (Vol. 1), ISBN [[ 0-385-18813-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-385-18813-7 ]] (Vol. 2), p. 889.
+
+[[ ^4 ]]: Barclay, John M. G. (1996) //Jews in the Mediterranean Diaspora//. Berkeley and Los Angeles, California: University of California Press.
+
+[[ ^5 ]]: Gruen, Erich S. (2002) //Diaspora: Jews Amidst Greeks and Romans//. Cambridge Massachusetts: Harvard University Press
+
+[[ ^6 ]]: Herodotus, Histories II.67; Ikram, Salima. Divine Creatures: Animals in Ancient Egypt, Cairo: AUC Press, 2005.
+
+[[ ^7 ]]: Wilkinson, Richard H. (2003) //The Complete Gods and Goddesses of Ancient Egypt//. London: Thames & Hudson.
+
+[[ ^8 ]]: Tiede, David Lenz (1972). //The Charismatic Figure as Miracle Worker//. SBL Dissertation Series 1. Missoula, Mont: Society of Biblical Literature, pp. 146–77
+
+[[ ^9 ]]: Koskenniemi, E. (2002). "Greeks, Egyptians and Jews in the Fragments of Artapanus". //Journal for the Study of the Pseudepigrapha//. !!13!!: 17–31. doi:[[ 10.1177/095182070201300102 | https://doi.org/10.1177%2F095182070201300102 ]]. S2CID [[ 161979830 | https://api.semanticscholar.org/CorpusID:161979830 ]].
+
+[[ ^10 ]]: Holladay, Carl R. (1989) //Fragments from Hellenistic Jewish Authors//: Volume I: Historians. Society of Biblical Literature
+
+[[ ^11 ]]: Charlesworth, James. H., P. Dykers, and M. J. H. Charlesworth (1981). //The Pseudepigrapha and Modern Research//. Chico, CA: Scholars. pp. 82–3.

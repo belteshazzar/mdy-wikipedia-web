@@ -1,0 +1,384 @@
++++
+title: Tigris–Euphrates river system
+description: River system in the Middle East
+key-facts:
+  - name: Where it ends
+    value: Empties into the Persian Gulf
+  - name: Area it drains
+    value: 879,790 km2 (339,690 mi2)
+  - name: Countries it crosses
+    value: Turkey, Syria, Iraq, Iran, Kuwait
+  - name: Rivers
+    value: Tigris, Euphrates, Greater Zab, Lesser Zab.
+  - name: Biome
+    value: Temperate floodplain rivers and wetlands
+  - name: Ecological realm
+    value: Palearctic
+image-plan:
+  - file: Euphrates_River.jpg
+    role: hero
+    section: lead
+    caption: A palm orchard in the lower Euphrates valley, in a lower watershed
+      with a hot and arid subtropical climate.
+  - file: Marsh_Arabs_in_a_mashoof.jpg
+    role: inline
+    section: mesopotamian-marshes
+    caption: Marsh Arabs poling a mashoof in the marshes of southern Iraq,
+      historically the largest wetland ecosystem of Western Eurasia.
+  - file: Ataturk_dam_1-GAP.jpg
+    role: inline
+    section: water-dispute
+    caption: The Atatürk Dam along the Euphrates River. Turkey's dam construction
+      puts it in control of an estimated 45% of the system's water sources.
+further:
+  - slug: mesopotamia
+    why: The plain between the two rivers, where literate urban civilization first
+      emerged in the Uruk period.
+  - slug: akkadian-empire
+    why: One of the empires that arose and fell in the river basin, alongside
+      Sumer, Babylonia and Assyria.
+  - slug: tigris
+    why: The eastern of the two primary rivers, rising at Lake Hazar and fed by
+      tributaries from the Zagros Mountains.
+image: https://upload.wikimedia.org/wikipedia/commons/0/06/Tigr-euph.png
+images:
+  - file: Euphrates_River.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Euphrates_River.jpg/250px-Euphrates_River.jpg
+    width: 768
+    height: 482
+    caption: Palm orchard in the lower Euphrates valley
+  - file: Marsh_Arabs_in_a_mashoof.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Marsh_Arabs_in_a_mashoof.jpg/330px-Marsh_Arabs_in_a_mashoof.jpg
+    width: 1472
+    height: 1077
+    caption: Marsh Arabs poling a mashoof in the marshes of southern Iraq
+  - file: Ataturk_dam_1-GAP.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ataturk_dam_1-GAP.jpg/250px-Ataturk_dam_1-GAP.jpg
+    width: 640
+    height: 480
+    caption: The Atatürk Dam along the Euphrates River
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tigr-euph.png/330px-Tigr-euph.png
+  ecology:
+    realm: Palearctic
+    biome: Temperate floodplain rivers and wetlands
+  geography:
+    area: 879,790 km2 (339,690 mi2)
+    countries:
+      - Turkey
+      - Syria
+      - Iraq
+      - Iran
+      - Kuwait
+    oceans-or-seas: Empties into the Persian Gulf
+    rivers: Tigris, Euphrates, Greater Zab, Lesser Zab.
+sections:
+  - level: 2
+    id: geography
+    title: Geography
+  - level: 2
+    id: history
+    title: History
+  - level: 2
+    id: ecology
+    title: Ecology
+  - level: 3
+    id: mesopotamian-marshes
+    title: Mesopotamian Marshes
+  - level: 2
+    id: ecological-threats
+    title: Ecological threats
+  - level: 2
+    id: water-dispute
+    title: Water dispute
+  - level: 2
+    id: in-media
+    title: In media
+wikidata:
+  id: Q3608991
+  label: Tigris–Euphrates river system
+  description: river system in the Middle East
+  claims:
+    instance-of: drainage system
+    part-of:
+      - Palearctic realm
+      - flooded grasslands and savannas
+    page-banner: https://commons.wikimedia.org/wiki/Special:FilePath/Tigres_Banner.jpg
+    topic-s-main-category: Q32673941
+    coordinate-location:
+      lat: 33.7
+      lon: 43.5
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Tigr-euph.png
+    country:
+      - Turkey
+      - Syria
+      - Iraq
+      - Iran
+      - Kuwait
+    drainage-basin: Persian Gulf Basin
+    mouth-of-the-watercourse: Persian Gulf
+link-titles:
+  2003-invasion-of-iraq: 2003 invasion of Iraq
+  akkadian-empire: Akkadian Empire
+  al-qurnah: Al-Qurnah
+  alluvial-plain: Alluvial plain
+  antelope: Antelope
+  aphanius: Aphanius
+  assyria: Assyria
+  atatürk-dam: Atatürk Dam
+  baathist: Ba'athist
+  baathist-iraq: Ba'athist Iraq
+  babylonia: Babylonia
+  barbus: Barbus
+  basra-reed-warbler: Basra reed warbler
+  batman-dam: Batman Dam
+  batman-river: Batman River
+  batman-river-loach: Batman River loach
+  bubalus-bubalis: Bubalus bubalis
+  bubiyan-island: Bubiyan Island
+  bull-shark: Bull shark
+  bunns-short-tailed-bandicoot-rat: Bunn's short-tailed bandicoot rat
+  caecocypris-basimi: Caecocypris basimi
+  central-marshes-iraq: Central Marshes (Iraq)
+  civilization: Civilization
+  cobitis: Cobitis
+  confluence: Confluence
+  cradle-of-civilization: Cradle of Civilization
+  critically-endangered: Critically Endangered
+  cubic-metres-per-second: Cubic metres per second
+  dawn-of-the-world: Dawn of the World
+  desertification: Desertification
+  domestic-buffalo: Domestic buffalo
+  draining-of-the-mesopotamian-marshes: Draining of the Mesopotamian Marshes
+  draining-of-the-qurna-marshes: Draining of the Qurna Marshes
+  ecoregion: Ecoregion
+  ecosystem: Ecosystem
+  eidinemacheilus-smithi: Eidinemacheilus smithi
+  endemic-ecology: Endemic (ecology)
+  endemism: Endemism
+  euphrates: Euphrates
+  eurasia: Eurasia
+  fertile-crescent: Fertile Crescent
+  garra-elegans: Garra elegans
+  gazelle: Gazelle
+  glyptothorax: Glyptothorax
+  glyptothorax-steindachneriactioneditredlink1: Glyptothorax steindachneri?action=edit&redlink=1
+  gulf-war: Gulf War
+  habitat-destruction: Habitat destruction
+  habitat-fragmentation: Habitat fragmentation
+  haditha: Haditha
+  halophyte: Halophyte
+  hammar-marshes: Hammar Marshes
+  hawizeh-marshes-iraq/iran: Hawizeh Marshes (Iraq/Iran)
+  hilsa-shad: Hilsa shad
+  hydroelectricity: Hydroelectricity
+  hydrology: Hydrology
+  ilisu-dam: Ilisu Dam
+  iran: Iran
+  iran-cave-barb: Iran cave barb
+  iraniraq-war: Iran–Iraq War
+  iraniraq-border: Iran–Iraq border
+  iraq: Iraq
+  iraq-babbler: Iraq babbler
+  iraq-blind-barb: Iraq blind barb
+  iraq-sanctions: Iraq sanctions
+  irrigation: Irrigation
+  jerboa: Jerboa
+  juncaceae: Juncaceae
+  karasu-euphrates: Karasu (Euphrates)
+  karun: Karun
+  kurd: Kurd
+  kuwait: Kuwait
+  lake-hazar: Lake Hazar
+  mangar-fish: Mangar (fish)
+  marsh-arabs: Marsh Arabs
+  marshland: Marshland
+  mashoof: Mashoof
+  mesopotamia: Mesopotamia
+  mesopotamian-marshes: Mesopotamian Marshes
+  murat-river: Murat River
+  oil-exploration: Oil exploration
+  orthrias: Orthrias
+  papyrus: Papyrus
+  persian-gulf: Persian Gulf
+  plankton: Plankton
+  qanat: Qanat
+  red-fox: Red fox
+  reed-plant: Reed (plant)
+  riparian-forest: Riparian forest
+  rodent: Rodent
+  saddam-hussein: Saddam Hussein
+  schistura: Schistura
+  shatt-al-arab: Shatt al-Arab
+  shia-muslim: Shi'a Muslim
+  soil-salination: Soil salination
+  southeastern-anatolia-project: Southeastern Anatolia Project
+  sumer: Sumer
+  syria: Syria
+  tigris: Tigris
+  trans-boundary-river: Trans-boundary river
+  tributary: Tributary
+  turkey: Turkey
+  united-nations-environmental-program: United Nations Environmental Program
+  uruk-period: Uruk period
+  water-bird: Water bird
+  water-dispute: Water dispute
+  water-scarcity: Water scarcity
+  west-asia: West Asia
+  wild-boar: Wild boar
+  wildlife: Wildlife
+  zagros-mountains: Zagros Mountains
+source:
+  site: Wikipedia
+  lang: en
+  title: Tigris–Euphrates river system
+  url: https://en.wikipedia.org/wiki/Tigris%E2%80%93Euphrates_river_system
+  page-id: 209798
+  revision: "1358367698"
+  modified: 2026-06-08T06:47:17Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article
+    "Tigris–Euphrates river system" (revision 1358367698), by Wikipedia
+    contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/tigriseuphrates-river-system.mdy
+  source-revision: "1358367698"
+  model: claude-opus-5
+  left-out: The figure in "Ecological threats" — the visualization of variations
+    in total water storage in the two basins from January 2003 through
+    December 2009 — has no file name in the supplied image list, so it is not
+    in the image plan; its caption text is likewise not carried into the
+    prose, since the article's body does not state those figures. The infobox
+    map (Tigr-euph.png) and the Wikidata page banner are also not among the
+    listed image files, so neither was planned. "In media" is a two-item list
+    of films and was left as a list; it carries no citations in the source.
+  verified: false
+  reviewed: false
++++
+Two rivers rise in eastern [[ Turkey ]] and end as one. The [[ Tigris ]] begins at [[ Lake Hazar ]]; the [[ Euphrates ]] begins in the [[ Karasu | karasu-euphrates ]] and the [[ Murat River ]]. Both descend through valleys and gorges to the uplands of Syria and northern Iraq and then to the [[ alluvial plain ]] of central Iraq, running south-east across it until they combine at [[ Al-Qurnah ]] to form the [[ Shatt al-Arab ]] and discharge into the [[ Persian Gulf ]].[[ ^1 ]]
+
+That is the !!Tigris–Euphrates river system!!, a large river system in [[ West Asia ]]: the two primary rivers together with smaller [[ tributaries | tributary ]], some of which reach the Tigris from the [[ Zagros Mountains ]] to the east. Between them they drain 879,790 square kilometres (339,690 sq mi),[[ ^2 ]] almost the entire area of [[ Iraq ]] as well as portions of Turkey, [[ Syria ]], [[ Iran ]] and [[ Kuwait ]].[[ ^3 ]][[ ^4 ]][[ ^5 ]][[ ^6 ]][[ ^7 ]]
+
+The region has historical importance as part of the [[ Fertile Crescent ]], where [[ Mesopotamian | mesopotamia ]] civilization first emerged.
+
+== Geography
+
+The Tigris–Euphrates Basin is shared between Turkey, Syria, Iraq, Iran, and Kuwait.[[ ^6 ]][[ ^3 ]][[ ^4 ]][[ ^5 ]][[ ^7 ]] Many tributaries of the Tigris originate in Iran; the [[ Shatt al-Arab ]], formed by the [[ confluence ]] of the Euphrates and Tigris, makes up a portion of the [[ Iran–Iraq border ]], and Kuwait's [[ Bubiyan Island ]] is part of its delta.[[ ^8 ]][[ ^9 ]] Since the 1960s and in the 1970s, when Turkey began the [[ GAP project | southeastern-anatolia-project ]] in earnest, water disputes have regularly occurred, in addition to the associated dam's effects on the environment. Syrian and Iranian dam construction has also contributed to political tension within the basin, particularly during drought.
+
+The [[ ecoregion ]] is characterized by two large rivers, the [[ Tigris ]] and [[ Euphrates ]]. The high mountains in the upper watershed receive more rain and snow than the lower watershed, which has a hot and arid subtropical climate. Annual snow melt from the mountains brings spring floods, and sustains permanent and seasonal marshes in the lowlands.
+
+The plain between the two rivers is known as [[ Mesopotamia ]]. As part of the larger [[ Fertile Crescent ]], it saw the earliest emergence of literate urban [[ civilization ]] in the [[ Uruk period ]], and for this reason it is often described as a "[[ Cradle of Civilization ]]".
+
+In the lower basin there is a large floodplain where the Euphrates, Tigris and [[ Karun ]] rivers converge to create the [[ Mesopotamian Marshes ]], which include permanent lakes, marshes and [[ riparian forests | riparian-forest ]]. The [[ hydrology ]] of these vast marshes is extremely important to the ecology of the entire upper [[ Persian Gulf ]].
+
+== History
+
+Some of the first civilizations emerged from the confluence of the Tigris and Euphrates rivers. From ancient times empires arose and fell in the river basin, including [[ Sumer ]], [[ Akkad | akkadian-empire ]], [[ Babylonia ]] and [[ Assyria ]]. Being part of the [[ Fertile Crescent ]], the river system is recognized as the site of one of the world's first agricultural centers, with archeological sites containing preserved grain dating up to 12,500 years ago.[[ ^10 ]] Major cities including Ur and Babylon used the river system to promote trade and the sharing of cultures.[[ ^11 ]]
+
+Iran has a history as an agricultural nation despite its aridity, the result of its invention of the [[ qanat ]] system thousands of years ago, which uses gravity to transport water through subterranean tunnels.[[ ^12 ]]
+
+== Ecology
+
+The most abundant fishes are species of barbs (//[[ Barbus ]]//), some of which can reach up to two meters in length. Some species have been important food sources for residents for thousands of years; the [[ mangar fish ]] in particular has been harvested for food in the Tigris-Euphrates basin. Many species move seasonally between the river and the marshes for spawning, feeding, and overwintering. The [[ hilsa shad ]] (//Tenualosa ilisha//) is an important food fish that lives in the coastal waters and spawns in the lower reaches of the basin. Other ocean species occasionally visit the lower reaches of the rivers; [[ bull sharks | bull-shark ]] (//Carcharhinus leucas//) used to swim up the Tigris as far as Baghdad.[[ ^13 ]]
+
+[[ Endemic | endemism ]] fish species in the lower basin include //Glyptothorax steindachneri// and //[[ Garra elegans ]]//, as well as two cave fishes, //[[ Caecocypris basimi ]]// and the [[ Iraq blind barb ]] (//Garra widdowsoni//), from a cave habitat near [[ Haditha ]] on the Euphrates.[[ ^13 ]]
+
+One-third of the fish species in the upper watersheds are endemic, including species of //[[ Aphanius ]], [[ Glyptothorax ]], [[ Cobitis ]], [[ Orthrias ]]//, and //[[ Schistura ]]//. Two blind fish species, the [[ Iran cave barb ]] (//Garra typhlops//) and the [[ Zagros blind loach | eidinemacheilus-smithi ]] (//Eidinemacheilus smithi//), are endemic to cave systems in Iran's upper Karun River watershed.[[ ^14 ]]
+
+The [[ Batman River loach ]] (//Paraschistura chrysicristinae//) is a [[ Critically Endangered ]] fish species endemic to the [[ Batman | batman-river ]] and Ambar rivers, Turkish tributaries of the Tigris. It is endangered by drought, [[ habitat destruction ]] and [[ habitat fragmentation ]] from the construction of the [[ Batman Dam ]]. It had not been observed since 1974 and was feared extinct until a 2021 expedition netted 14 fish living above the Batman Dam.[[ ^15 ]]
+
+== Mesopotamian Marshes
+
+The [[ Mesopotamian Marshes ]] in southern Iraq were historically the largest wetland [[ ecosystem ]] of Western [[ Eurasia ]]. The aquatic vegetation includes [[ reeds | reed-plant ]], [[ rushes | juncaceae ]] and [[ papyrus ]], which support numerous species, and the areas around the Tigris and the Euphrates are very fertile. Marshy land is home to water birds, some stopping here while migrating, some spending the winter in these marshes and living off the lizards, snakes, frogs and fish. Other animals found in these marshes are [[ water buffalo | domestic-buffalo ]], two [[ endemic | endemic-ecology ]] [[ rodent ]] species, [[ antelopes | antelope ]] and [[ gazelles | gazelle ]], and small animals such as the [[ jerboa ]] and several other mammals. The wetland birds [[ Basra reed warbler ]] (//Acrocephalus griseldis//) and [[ Iraq babbler ]] (//Argya altirostris//) are native to the Mesopotamian Marshes; the Basra reed warbler is endangered. Another wetland endemic species, [[ Bunn's short-tailed bandicoot rat ]] (//Nesokia bunnii//), is possibly extinct.
+
+[[ Their drainage | draining-of-the-mesopotamian-marshes ]] began in the 1950s, to reclaim land for agriculture and [[ oil exploration ]]. [[ Saddam Hussein ]] extended this work in the late 1980s and early 1990s, as part of ecological warfare against the Marsh Arabs, a rebellious group of people in Baathist Iraq. However, with the breaching of the dikes by local communities after the [[ 2003 invasion of Iraq ]] and the ending of a four-year drought that same year, the process has been reversed and the marshes have experienced a substantial rate of recovery. The permanent wetlands now cover more than 50% of pre-1970s levels, with a remarkable regrowth of the [[ Hammar | hammar-marshes ]] and [[ Hawizeh Marshes | hawizeh-marshes-iraq/iran ]] and some recovery of the [[ Central Marshes | central-marshes-iraq ]].[[ ^16 ]]
+
+== Ecological threats
+
+Iraq suffers from [[ desertification ]] and [[ soil salination ]] due in large part to thousands of years of agricultural activity. Water and plant life are sparse. [[ Saddam Hussein ]]'s government water-control projects [[ drained the inhabited marsh areas | draining-of-the-qurna-marshes ]] east of An Nasiriyah by drying up or diverting streams and rivers, and [[ Shi'a Muslims | shia-muslim ]] were displaced under the [[ Ba'athist ]] regime. The destruction of the natural habitat poses serious threats to the area's [[ wildlife ]] populations. There are also inadequate supplies of potable water.
+
+The [[ marshlands | marshland ]] were an extensive natural wetland [[ ecosystem ]], which developed over thousands of years in the Tigris–Euphrates basin and once covered 15–20,000 square kilometers. In the 1980s, this ecoregion was put in grave danger during the [[ Iran–Iraq War ]]. After the 1991 [[ Gulf War ]], Iraq's President [[ Saddam Hussein ]] initiated a drainage project on these marshes, leading to degradation of ecosystem services that caused economic and social issues for civilians.[[ ^17 ]] The [[ Mesopotamian Marshes ]], which were inhabited by the [[ Marsh Arabs ]], were [[ almost completely drained | draining-of-the-mesopotamian-marshes ]]. Although they had started to recover after the fall of [[ Ba'athist Iraq ]] in 2003, drought, intensive dam construction and irrigation schemes upstream have caused them to dry up once more.[[ ^18 ]]
+
+According to the [[ United Nations Environmental Program ]] and the AMAR Charitable Foundation, between 84% and 90% of the marshes have been destroyed since the 1970s. In 1994, 60 percent of the wetlands were destroyed by Hussein's regime, drained to permit military access and greater political control of the native [[ Marsh Arabs ]]. Canals, dykes and dams were built routing the water of the Tigris and Euphrates Rivers around the marshes, instead of allowing water to move slowly through the marshland. After part of the Euphrates was dried up due to re-routing its water to the sea, a dam was built so water could not back up from the Tigris and sustain the former marshland. Some marshlands were burned, and pipes buried underground helped to carry away water for quicker drying.
+
+The drying of the marshes led to the disappearance of the [[ salt-tolerant vegetation | halophyte ]]; the [[ plankton ]] rich waters that fertilized surrounding soils; 52 native fish species; and the [[ wild boar ]], [[ red fox ]], [[ buffalo | bubalus-bubalis ]] and [[ water birds | water-bird ]] of the marsh habitat.
+
+Riparian entities have constructed dams along the Tigris–Euphrates river system as a method of water management in response to droughts. Turkey, for example, is in control of an estimated 45% of the system's water sources due to its dam constructions for water quantity and hydroelectric power.[[ ^19 ]]
+
+Climate change also affects the environmental and social well-being.[[ ^20 ]] Climate change and human interaction have directly impacted the Tigris–Euphrates river system, leading to a negative trend in water storage capabilities in the river basin.[[ ^21 ]] The combination of diminishing water levels in the system and rising sea levels indicates the potential for rapid seawater intrusion in the river basin.[[ ^22 ]] This is especially concerning as the demand for clean water increases while the water supply decreases. Currently, West Asia and North Africa are acknowledged as the most water scarce region in the world, with 61% of the population living in areas with high or very high water stress.[[ ^23 ]] As climate change worsens and population grows, [[ water scarcity ]] in the region is expected to worsen, with 100% of people living in West Asia and North Africa living in areas with high water stress by 2050.[[ ^24 ]]
+
+== Water dispute
+
+The issue of water rights became a point of contention for Iraq, Turkey and Syria beginning in the 1960s, when Turkey implemented a public-works project (the [[ GAP project | southeastern-anatolia-project ]]) aimed at harvesting the water from the Tigris and Euphrates rivers through the construction of 22 dams, for [[ irrigation ]] and [[ hydroelectric energy | hydroelectricity ]] purposes. Although the [[ water dispute ]] between Turkey and Syria was more problematic, the GAP project was also perceived as a threat by Iraq. In 1983, the Joint Technical Committee (JTC) was established to solve ongoing data controversies between Turkey, Syria, and Iraq, but it stopped meeting in the early 1990s after only passing two bilateral agreements.[[ ^25 ]] The tension between Turkey and Iraq about the issue was increased by the effect of Syria and Turkey's participation in the [[ UN embargo against Iraq | iraq-sanctions ]] following the [[ Gulf War ]]. However, the issue had never become as significant as the water dispute between Turkey and Syria.[[ ^26 ]]
+
+The 2008 drought in Iraq sparked new negotiations between Iraq and Turkey over [[ trans-boundary river ]] flows. Although the drought affected Turkey, Syria and Iran as well, Iraq complained regularly about reduced water flows, and particularly about the Euphrates River because of the large number of dams on it. Turkey agreed to increase the flow several times, beyond its means, in order to supply Iraq with water. Iraq has seen significant declines in water storage and crop yields because of the drought. To make matters worse, Iraq's water infrastructure has suffered from years of conflict and neglect.[[ ^27 ]]
+
+In 2008, Turkey, Iraq and Syria agreed to restart the Joint Trilateral Committee on water for the three nations for better water resources management. Turkey, Iraq and Syria signed a memorandum of understanding on September 3, 2009, in order to strengthen communication within the Tigris–Euphrates Basin and to develop joint water-flow-monitoring stations. On September 19, 2009, Turkey formally agreed to increase the flow of the Euphrates River to 450 to 500 [[ m^^3^^/s | cubic-metres-per-second ]], but only until October 20, 2009. In exchange, Iraq agreed to trade petroleum with Turkey and help curb [[ Kurdish | kurd ]] militant activity in their border region. One of Turkey's last large GAP dams on the Tigris, the [[ Ilisu Dam ]], is strongly opposed by Iraq and is the source of political strife.[[ ^28 ]] The [[ Southeastern Anatolia Project ]] (Turkish acronym: GAP) continues to be a source of tension in the region. GAP is a massive hydroelectric project, consisting of 21 dams and 19 hydroelectric facilities.[[ ^29 ]] In 2020, Iraqi authorities complained that the Ilısu Dam had decreased the Tigris river inflows and caused water shortages in Iraqi plains.[[ ^30 ]]
+
+== In media
+
+- //[[ Dawn of the World ]]//, film, 2008.
+- //Zaman, The Man From The Reeds//, film, 2003
+
+[[ ^1 ]]: [[ "Euphrates River" | https://www.britannica.com/place/Euphrates-River ]]. Encyclopædia Britannica. 17 December 2017. Retrieved 17 December 2017.
+
+[[ ^2 ]]: "Euphrates–Tigris River Basin". //AQUASTAT Survey 2008//, UN Food and Agriculture Organization. Accessed 30 June 2020. [[ http://www.fao.org/nr/water/aquastat/basins/euphrates-tigris/Euphrates.tigris-CP_eng.pdf | http://www.fao.org/nr/water/aquastat/basins/euphrates-tigris/Euphrates.tigris-CP_eng.pdf ]]
+
+[[ ^3 ]]: Matthew Zentner (2012). [[ //Design and impact of water treaties: Managing climate change// | https://books.google.com/books?id=uJse5WYKvtMC&pg=PA144 ]]. Springer. p. 144. ISBN [[ 978-3-642-23743-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-642-23743-0 ]]. The Tigris-Euphrates-Shatt al Arab is shared between Iraq, Iran, Syria, Kuwait and Turkey.
+
+[[ ^4 ]]: [[ "Lower Tigris & Euphrates" | https://web.archive.org/web/20151117022326/http://www.feow.org/ecoregions/details/lower_tigris_euphrates ]]. feow.org. 2013. Archived from [[ the original | http://www.feow.org/ecoregions/details/lower_tigris_euphrates ]] on 2015-11-17.
+
+[[ ^5 ]]: Jacques Descloitres, MODIS Rapid Response Team (February 3, 2003). [[ "Mesopotamia" | https://archive.org/details/VE-IMG-4987 ]] – via Internet Archive.
+
+[[ ^6 ]]: Deniz Bozkurt; Omer Lutfi Sen (2012). [[ "Hydrological response of past and future climate changes in the Euphrates-Tigris Basin" | http://meetingorganizer.copernicus.org/EGU2011/EGU2011-11072.pdf ]] (PDF). p. 1. The Euphrates-Tigris Basin, covering areas in five countries (Turkey, Iraq, Syria, Iran and Kuwait), is a major water resource of the Middle East.
+
+[[ ^7 ]]: [[ "Tigris-Euphrates river system" | https://www.britannica.com/place/Tigris-Euphrates-river-system#/media/1/595616/546 ]]. Encyclopædia Britannica. 17 December 2017.
+
+[[ ^8 ]]: Dan Caldwel (2011). [[ //Vortex of Conflict: U.S. Policy Toward Afghanistan, Pakistan, and Iraq// | https://books.google.com/books?id=QifgYV59DK0C&pg=PA60 ]]. Stanford University Press. p. 60. ISBN [[ 978-0-8047-7749-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-8047-7749-0 ]].
+
+[[ ^9 ]]: Reinink-Smith, Linda; Carter, Robert (2022). [[ "Late Holocene development of Bubiyan Island, Kuwait" | https://www.cambridge.org/core/journals/quaternary-research/article/abs/late-holocene-development-of-bubiyan-island-kuwait/FD3CB9742FC8B0A5EDE6EBAC8F15C301 ]]. //Quaternary Research//. !!109!!: 16–38. Bibcode:[[ 2022QuRes.109\...16R | https://ui.adsabs.harvard.edu/abs/2022QuRes.109...16R ]]. doi:[[ 10.1017/qua.2022.3 | https://doi.org/10.1017%2Fqua.2022.3 ]]. S2CID [[ 248250022 | https://api.semanticscholar.org/CorpusID:248250022 ]].
+
+[[ ^10 ]]: Brown, Terence (February 2009). [[ "The complex origins of domesticated crops in the Fertile Crescent" | https://www.cell.com/trends/microbiology/fulltext/S0169-5347(08)00347-9 ]]. //[[ Trends in Ecology and Evolution ]]//. !!24!! (2): 103–109. Bibcode:[[ 2009TEcoE..24..103B | https://ui.adsabs.harvard.edu/abs/2009TEcoE..24..103B ]]. doi:[[ 10.1016/j.tree.2008.09.008 | https://doi.org/10.1016%2Fj.tree.2008.09.008 ]]. PMID [[ 19100651 | https://pubmed.ncbi.nlm.nih.gov/19100651 ]] – via Cell.com.
+
+[[ ^11 ]]: [[ "Euphrates River: A Cradle of Civilizations - Ocean Info" | https://oceaninfo.com/rivers/euphrates-river/ ]]. //oceaninfo.com//. 2024-02-01. Retrieved 2024-10-02.
+
+[[ ^12 ]]: Wulff, H. E. (1968). "The Qanats of Iran". //Scientific American//. !!218!! (4): 94–107. Bibcode:[[ 1968SciAm.218d..94W | https://ui.adsabs.harvard.edu/abs/1968SciAm.218d..94W ]]. doi:[[ 10.1038/scientificamerican0468-94 | https://doi.org/10.1038%2Fscientificamerican0468-94 ]]. ISSN [[ 0036-8733 | https://search.worldcat.org/issn/0036-8733 ]]. JSTOR [[ 24926204 | https://www.jstor.org/stable/24926204 ]].
+
+[[ ^13 ]]: "Lower Tigris & Euphrates". //Freshwater Ecoregions of the World//. Accessed 30 June 2020. [[ https://www.feow.org/ecoregions/details/441 | https://www.feow.org/ecoregions/details/441 ]]
+
+[[ ^14 ]]: "Upper Tigris & Euphrates". //Freshwater Ecoregions of the World//. Accessed 30 June 2020. [[ https://www.feow.org/ecoregions/details/442 | https://www.feow.org/ecoregions/details/442 ]]
+
+[[ ^15 ]]: Greene, Graeme (2021) "Batman loach returns: fish feared extinct found in Turkey". //The Guardian// 9 December 2021. [[ https://www.theguardian.com/environment/2021/dec/09/batman-loach-returns-fish-feared-extinct-for-decades-spotted-in-turkey-aoe | https://www.theguardian.com/environment/2021/dec/09/batman-loach-returns-fish-feared-extinct-for-decades-spotted-in-turkey-aoe ]]
+
+[[ ^16 ]]: [[ Iraqi Marshlands: Steady Progress to Recovery | http://www.grid.unep.ch/product/poster/images/iraqi_marshlandsb ]] Archived 2011-06-08 at the [[ Wayback Machine ]] ([[ UNEP ]])
+
+[[ ^17 ]]: [[ "Climate Change and Vulnerability in the Middle East" | https://carnegieendowment.org/posts/2023/07/climate-change-and-vulnerability-in-the-middle-east?lang=en#iraq ]]. //Carnegie Endowment for International Peace//. Retrieved 2024-09-27.
+
+[[ ^18 ]]: [[ "Iraq marshes face grave new threat" | https://news.bbc.co.uk/2/hi/middle_east/7906512.stm ]]. February 24, 2009 – via news.bbc.co.uk.
+
+[[ ^19 ]]: Torabi Haghighi, Ali; Akbari, Mahdi; Noori, Roohollah; Danandeh Mehr, Ali; Gohari, Alireza; Sönmez, Mehmet Emin; Abou Zaki, Nizar; Yilmaz, Nese; Kløve, Bjørn (2023-08-01). [[ "The impact of Turkey's water resources development on the flow regime of the Tigris River in Iraq" | https://www.sciencedirect.com/science/article/pii/S2214581823001416 ]]. //Journal of Hydrology: Regional Studies//. !!48!! 101454. Bibcode:[[ 2023JHyRS..4801454T | https://ui.adsabs.harvard.edu/abs/2023JHyRS..4801454T ]]. doi:[[ 10.1016/j.ejrh.2023.101454 | https://doi.org/10.1016%2Fj.ejrh.2023.101454 ]]. ISSN [[ 2214-5818 | https://search.worldcat.org/issn/2214-5818 ]].
+
+[[ ^20 ]]: Sowers, J., Vengosh, A., & Weinthal, E. (2011). Climate change, water resources, and the politics of adaptation in the Middle East and North Africa. //Climatic Change//, //104//(3), 599-627.
+
+[[ ^21 ]]: Chang, Li-Ling; Niu, Guo-Yue (2023-03-21). [[ "The Impacts of Interannual Climate Variability on the Declining Trend in Terrestrial Water Storage over the Tigris–Euphrates River Basin" | https://journals.ametsoc.org/view/journals/hydr/24/3/JHM-D-22-0026.1.xml ]]. //Journal of Hydrometeorology//. !!24!! (3): 549–560. Bibcode:[[ 2023JHyMe..24..549C | https://ui.adsabs.harvard.edu/abs/2023JHyMe..24..549C ]]. doi:[[ 10.1175/JHM-D-22-0026.1 | https://doi.org/10.1175%2FJHM-D-22-0026.1 ]]. ISSN [[ 1525-7541 | https://search.worldcat.org/issn/1525-7541 ]].
+
+[[ ^22 ]]: Montazeri, Amirhossein; Mazaheri, Mehdi; Morid, Saeed; Mosaddeghi, Mohammad Reza (2023-02-01). [[ "Effects of upstream activities of Tigris-Euphrates River Basin on water and soil resources of Shatt al-Arab Border River" | https://linkinghub.elsevier.com/retrieve/pii/S0048969722068516 ]]. //Science of the Total Environment//. !!858!! (Pt 1) 159751. Bibcode:[[ 2023ScTEn.85859751M | https://ui.adsabs.harvard.edu/abs/2023ScTEn.85859751M ]]. doi:[[ 10.1016/j.scitotenv.2022.159751 | https://doi.org/10.1016%2Fj.scitotenv.2022.159751 ]]. ISSN [[ 0048-9697 | https://search.worldcat.org/issn/0048-9697 ]]. PMID [[ 36349620 | https://pubmed.ncbi.nlm.nih.gov/36349620 ]].
+
+[[ ^23 ]]: [[ "The Euphrates-Tigris Basin: A Fragile Geopolitical Landscape" | https://www.ispionline.it/en/publication/euphrates-tigris-basin-fragile-geopolitical-landscape-25168#:~:text=The%20Middle%20East%20and%20North,is%20only%20about%20one%20percent. ]]. //ISPI//. Retrieved 2024-10-03.
+
+[[ ^24 ]]: Kuzma, Samantha; Saccoccia, Liz; Chertock, Marlena (2023-08-16). [[ "25 Countries, Housing One-quarter of the Population, Face Extremely High Water Stress" | https://www.wri.org/insights/highest-water-stressed-countries ]]. ``\{{cite journal}}``: Cite journal requires ``|journal=`` ([[ help | https://en.wikipedia.org/wiki/Help%3ACS1_errors#missing periodical ]])
+
+[[ ^25 ]]: Zentner, Matthew (2011-10-13). [[ //Design and impact of water treaties: Managing climate change// | https://books.google.com/books?id=uJse5WYKvtMC&pg=PA144 ]]. Springer Science & Business Media. ISBN [[ 978-3-642-23743-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-642-23743-0 ]].
+
+[[ ^26 ]]: Uzgel I., 1992. //GÜVENSİZLİK ÜÇGENİ: TÜRKİYE, SURİYE, IRAK VE SU SORUNU//, MÜLKİYELİLER BİRLİĞİ DERGİSİ, 162, p.47-52
+
+[[ ^27 ]]: [[ "Turkey lets more water out of dams to Iraq: MP" | https://www.reuters.com/article/environmentNews/idUSTRE54M0XG20090523 ]]. //Reuters//. 23 May 2009.
+
+[[ ^28 ]]: [[ "Turkey to up Euphrates flow to Iraq" | https://web.archive.org/web/20101231233038/http://www.google.com/hostednews/afp/article/ALeqM5giDgd3ukLR8UcfziUQcNToKyM_tw ]]. //AFP//. 19 September 2009. Archived from [[ the original | http://www.google.com/hostednews/afp/article/ALeqM5giDgd3ukLR8UcfziUQcNToKyM_tw ]] on 31 December 2010.
+
+[[ ^29 ]]: Wolf, Aaron. [[ "Middle East Water Conflicts and Directions for Conflict Resolution" | https://web.archive.org/web/20151125225040/http://pdf.usaid.gov/pdf_docs/PNABY541.pdf ]] (PDF). International Food Policy Research Institute. Archived from [[ the original | http://pdf.usaid.gov/pdf_docs/PNABY541.pdf ]] (PDF) on November 25, 2015.
+
+[[ ^30 ]]: [[ "Iraq complains Turkey causing water shortages" | https://thearabweekly.com/iraq-complains-turkey-causing-water-shortages ]]. //The Arab Weekly//. 17 July 2020.
