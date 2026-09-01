@@ -1,20 +1,13 @@
 node_modules/
-dist/
 
-# What `--vault` writes: converted articles, a reading session's worth. Output
-# the app produces rather than anything it needs, and it grows every time
-# somebody follows a link.
-vault/
+# Build artifacts. `npm run build` writes these, and they are committed to
+# the repo, but they are not worth keeping around in the working tree.
+dist/
 
 # Image derivatives, fetched from Commons' thumbnailer by
 # pipeline/enrich-images.mjs --download. corpus/images.yaml records where each
 # one came from, so they are reproducible and not worth committing.
 static/img/
-
-# The corpus, for the same reason: `pipeline/` holds what it is made from —
-# the query, the titles, the tools — and two commands rebuild it, with every
-# document recording the revision it came from. See docs/ancient-plan.md.
-site/corpus/
 
 # Credentials for the rewriting pass. `pipeline/rewrite.mjs` reads
 # ANTHROPIC_API_KEY from the environment; this is somewhere to keep it.
@@ -27,3 +20,4 @@ pipeline/requests/
 pipeline/answers/
 pipeline/checks/
 pipeline/reports/
+.DS_Store

@@ -1,0 +1,348 @@
++++
+title: Rosetta Stone decree
+description: Decree passed by a council of priests, inscribed on the Rosetta Stone
+image: https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG
+images:
+  - file: Rosetta_Stone.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/250px-Rosetta_Stone.JPG
+    width: 3665
+    height: 4288
+    caption: The Rosetta Stone on display in the British Museum, London
+wikidata:
+  id: Q7368696
+  label: Rosetta Stone decree
+  description: decree passed by a council of priests, inscribed on the Rosetta Stone
+  claims:
+    instance-of:
+      - decree
+      - discovered text
+      - inscription
+    main-subject: Ptolemy V Epiphanes
+    country: Egypt
+    language-of-work-or-name:
+      - Egyptian
+      - Demotic Egyptian
+      - Ancient Greek
+    described-at-url:
+      - https://www.sacred-texts.com/egy/trs/trs07.htm
+      - https://hdl.handle.net/21.11101/0000-0001-B537-5
+    writing-system:
+      - Egyptian hieroglyphs
+      - Egyptian Demotic
+      - Greek alphabet
+categories:
+  - 196 BC
+  - 2nd-century BC texts
+  - Decrees
+  - Memphis, Egypt
+  - Multilingual texts
+  - Rosetta Stone
+langlinks:
+  es: Decreto de la Piedra de Rosetta
+  ha: Dokar Rosetta Stone
+  id: Maklumat Batu Rosetta
+  ru: Мемфисский декрет
+  si: රොසෙටා පාෂාණ ආඥාව
+link-titles:
+  agathoclea-mistress: Agathoclea (mistress)
+  age-of-majority: Age of majority
+  alexandria: Alexandria
+  ancient-greek: Ancient Greek
+  ancient-macedonian-calendar: Ancient Macedonian calendar
+  ankhwennefer-pharaoh: Ankhwennefer (pharaoh)
+  antiochus-iii-the-great: Antiochus III the Great
+  apis-deity: Apis (deity)
+  aristomenes-of-alyzeia: Aristomenes of Alyzeia
+  battle-of-panium: Battle of Panium
+  british-museum: British Museum
+  caria: Caria
+  cleopatra-i-syra: Cleopatra I Syra
+  coele-syria: Coele-Syria
+  cyperaceae: Cyperaceae
+  cyperus-papyrus: Cyperus papyrus
+  decipherment-of-ancient-egyptian-scripts: Decipherment of ancient Egyptian scripts
+  demotic-egyptian-script: Demotic Egyptian script
+  egyptian-hieroglyphs: Egyptian hieroglyphs
+  great-theban-revolt: Great Theban Revolt
+  hermopolis: Hermopolis
+  horwennefer: Horwennefer
+  impressment: Impressment
+  judea: Judea
+  lycopolis-delta: Lycopolis (Delta)
+  memphis-egypt: Memphis, Egypt
+  mnevis: Mnevis
+  naucratis: Naucratis
+  philae-temple-complex: Philae temple complex
+  philip-v-of-macedon: Philip V of Macedon
+  pschent: Pschent
+  ptolemaic-dynasty: Ptolemaic dynasty
+  ptolemaic-synodal-decrees: Ptolemaic synodal decrees
+  ptolemy-iv-philopator: Ptolemy IV Philopator
+  ptolemy-v: Ptolemy V
+  season-of-the-emergence: Season of the Emergence
+  seleucid-empire: Seleucid Empire
+  thrace: Thrace
+  tlepolemus-regent-of-egypt: Tlepolemus (regent of Egypt)
+  upper-egypt: Upper Egypt
+  upper-and-lower-egypt: Upper and Lower Egypt
+  uraeus: Uraeus
+sections:
+  - level: 2
+    id: context
+    title: Context
+  - level: 2
+    id: text
+    title: Text
+  - level: 2
+    id: copies
+    title: Copies
+source:
+  site: Wikipedia
+  lang: en
+  title: Rosetta Stone decree
+  url: https://en.wikipedia.org/wiki/Rosetta_Stone_decree
+  page-id: 28189112
+  revision: "1353281085"
+  modified: 2026-05-09T09:35:58Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Rosetta
+    Stone decree" (revision 1353281085), by Wikipedia contributors, used under
+    CC BY-SA 4.0.
++++
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/250px-Rosetta_Stone.JPG" height="292" width="250"
+
+  <figcaption>The Rosetta Stone on display in the [[ British Museum ]], London
+
+The !!Rosetta Stone decree!!, or the !!Decree of Memphis!!, is a
+[[ Ptolemaic decree | ptolemaic-synodal-decrees ]] most notable for its
+bilingual and tri-scriptual nature, which enabled the
+[[ decipherment of Egyptian hieroglyphs | decipherment-of-ancient-egyptian-scripts ]].
+Issued by a council of priests confirming the royal cult of [[ Ptolemy V ]] in
+196 BC at [[ Memphis | memphis-egypt ]], it was written in
+[[ Egyptian hieroglyphs ]], [[ Egyptian Demotic | demotic-egyptian-script ]]
+and [[ Ancient Greek ]]. It mentions the Egyptian rebellion against the Greek
+rulers, otherwise known only through Greek sources and remains of
+graffiti.[[ ^1 ]]
+
+== Context
+
+The native Egyptian population at home was treated as second-class citizens by
+its [[ Greek rulers | ptolemaic-dynasty ]] and imperialists, while the economy
+had suffered because of the wars.[[ ^1 ]] [[ Seleucids | seleucid-empire ]],
+for example, won over the previously Ptolemaic-ruled territory of
+[[ Coele-Syria ]], including [[ Judaea | judea ]], after the
+[[ Battle of Panium ]] (198 BC), while other territories were divided between
+[[ Antiochus III the Great ]] and [[ Philip V of Macedon ]], who had seized
+several islands and cities in [[ Caria ]] and [[ Thrace ]]. During the reign
+of Ptolemy IV,[[ ^2 ]] there was the long-standing [[ Great Theban Revolt ]]
+(206–186 BC)[[ ^3 ]] led by [[ Horwennefer ]] and by his successor
+[[ Ankhwennefer | ankhwennefer-pharaoh ]], which had begun in the south of
+Egypt.[[ ^4 ]] These were still ongoing when the young Ptolemy V was
+officially crowned at Memphis at the age of 12 (seven years after the start of
+his reign).[[ ^5 ]] Egyptian cities joining the rebellion had faced economic
+and political consequences such as the closure of ports.[[ ^1 ]]
+
+Ptolemy V Epiphanes reigned from 204 to 181 BC, the son of
+[[ Ptolemy IV Philopator ]] and his wife and sister Arsinoe. He had become
+ruler at the age of five after the sudden death of both of his parents, who
+were murdered in a conspiracy that involved Ptolemy IV's mistress
+[[ Agathoclea | agathoclea-mistress ]], according to contemporary sources. The
+conspirators effectively ruled Egypt as Ptolemy V's guardians[[ ^6 ]][[ ^5 ]]
+until a revolt broke out two years later under general
+[[ Tlepolemus | tlepolemus-regent-of-egypt ]], when Agathoclea and her family
+were lynched by a mob in Alexandria. Tlepolemus, in turn, was replaced as
+guardian in 201 BC by [[ Aristomenes of Alyzia | aristomenes-of-alyzeia ]],
+who was chief minister at the time of the Memphis decree.[[ ^7 ]]
+
+Ptolemy V was crowned at Memphis in the year after his
+[[ majority | age-of-majority ]], when the priests of Egypt assembled there
+and passed the decree.[[ ^8 ]]
+
+== Text
+
+The text as recorded on the Rosetta Stone is considered the most complete of
+any of the surviving stelae, as it preserves the inscription in three scripts
+and two languages.[[ ^9 ]] The first script is Egyptian hieroglyphs, the
+second is [[ Demotic | demotic-egyptian-script ]], and the third is Greek
+capitals. Only parts of the last fourteen lines of hieroglyphs remain; these
+correspond to the last twenty-eight lines of Greek text which is also damaged.
+The Demotic section is thirty-two lines of which the starts of fourteen are
+damaged (reading right to left). Fifty-four lines of Greek are present,
+twenty-six of which are damaged at the ends.[[ ^10 ]] The majority of the
+damaged and missing sections of the hieroglyphic portion of the inscription
+can be restored using a copy of the decree from Damanhur
+([[ Hermopolis Magna | hermopolis ]]) which was discovered in 1896. It
+post-dates the Rosetta Stone by fourteen years and as such has slightly
+different content, omitting details that are no longer relevant.[[ ^10 ]]
+
+Demotic was possibly the draft language of the decree, based on the rendering
+of the section describing the shrine housing the statue of the king. The
+wording makes the most sense in Demotic, with the Greek version not making
+much sense, and the hieroglyphic version lacking a determinative, rendering
+the meaning unspecific.[[ ^11 ]] However, the text is a composite, with
+sections drawing on Greek or pharaonic traditions more than others.[[ ^12 ]]
+
+The inscription opens with the date of the decree:
+
+<blockquote
+  [Year 9, [[ Xandikos | ancient-macedonian-calendar ]], day] 4 which
+  corresponds to the second month of the Egyptians,
+  [[ Winter | season-of-the-emergence ]], day 18 (under) Pharaoh\...[[ ^13 ]]
+
+This date corresponds to 27 March 196 B.C.[[ ^14 ]] It does not record the day
+the decree was issued, but the date on which priests assembled as part of
+national festivals. On the Rosetta Stone, this is the coronation of the king,
+while on other stelae the occasion is the installation of a sacred
+animal.[[ ^15 ]]
+
+The text records that Ptolemy reduced or abolished taxes for the army and
+general population:
+
+<blockquote
+  Of the dues and taxes existing in Egypt some he has cut and others he has
+  abolished completely in order to cause the army and all other people to be
+  happy in his time as [Pharaoh].[[ ^16 ]]
+
+Taxes levied on temples and their estates were also relaxed, with the order
+that "the divine revenues of the gods and the silver and grain which are given
+as syntaxis to their [temples] each year and the portions which accrue to the
+gods from vineyards and gardens and all other property over which they had
+rights under his father, that they remain in their possession\..."[[ ^17 ]]
+These tax breaks extended to the priesthood, as they were ordered "not to pay
+their tax for serving as priest above the amount they paid up to year one of
+his father. He has relieved the people [who are in] the offices of the temples
+of the sailing they make to [[ Alexandria ]] every year\..."[[ ^17 ]]
+
+The generosity of the king is also extolled, having granted amnesty to
+prisoners, and outlawing [[ pressganging | impressment ]].[[ ^18 ]] Much space
+is dedicated to detailing the silver and grain given to temples, especially
+those centered on the animal cults with Ptolemy making "numerous benefactions
+to the [[ Apis | apis-deity ]] and [[ Mnevis ]] and the other animals which
+are sacred in Egypt\... his heart being concerned with their affairs at all
+times, giving whatever was desired for their burials great and revered and
+bearing that which occurred for them (at) their temples when they celebrate
+festivals and make burnt offerings before them and the other things it is
+fitting to do."[[ ^19 ]] Additionally, restoration and rebuilding of temples
+was carried out throughout Egypt.[[ ^19 ]]
+
+Earlier copies of the text recount the king's victory in the siege of Shekan
+([[ Lycopolis | lycopolis-delta ]]), which was "fortified by the enemy with
+every device."[[ ^20 ]] He shows amnesty to "the men who had been on the other
+side in the rebellion which occurred in Egypt, to let them [return] to their
+homes and their property belong to them (again)."[[ ^20 ]] The same clemency
+is not shown to the leaders of the rebellion, who are "slain at the stake" in
+Memphis as part of the festivities surrounding Ptolemy's ascension.[[ ^20 ]]
+Later versions from Upper Egypt refer to the conquering of Thebes after its
+rebellion.[[ ^21 ]]
+
+The cult of the king is established, with temples throughout Egypt ordered to
+"\...set up a statue of Pharaoh Ptolemy\... in the (most) conspicuous place in
+the temple\..."[[ ^22 ]] The cult statue is to be made in Egyptian style, and
+is to be attended by priests three times daily, giving the image the same
+rituals they would perform for other gods.[[ ^22 ]] The priests of all temples
+throughout Egypt are given the title "priests of the God who appears, whose
+goodness is perfect" in addition to their existing titles.[[ ^23 ]] The
+specific appearance of the shrine in which the statue of the king is to be
+kept is described in detail, with royal crowns replacing the traditional
+[[ uraeus ]] frieze atop the shrine; the centre-most crown is to be the
+[[ Double Crown | pschent ]]. The [[ papyrus | cyperus-papyrus ]] and
+[[ sedge | cyperaceae ]] are to appear on the corners, supporting a uraeus
+seated on a basket, "signifying Pharaoh who illumines
+[[ Upper and Lower Egypt ]]."[[ ^24 ]] The shrine is to be "\...set it in the
+sanctuary with the other gold shrines."[[ ^22 ]] The feast days of the king
+are assigned as with the "last day of the fourth month of Summer" which is
+celebrated as the pharaoh's birthday; the "seventeenth day of the second month
+of Winter" is to be celebrated as the anniversary of his ascension.[[ ^25 ]]
+The two days "\...are to be celebrated as festival every month in all the
+temples of Egypt\..."[[ ^25 ]] Additionally, "they are to celebrate festival
+and procession in the temples and all of Egypt for Pharaoh Ptolemy\... each
+year on the first day of the first month of Inundation for five
+days\...[[ ^25 ]] It is also stipulated that the statue of the king should
+take part in the major festivals of other deities, and that his statue should
+process with them.[[ ^24 ]]
+
+The worship of the king is also extended to the general population, with
+"ordinary people who so wish" to have in their homes a gold shrine similar to
+that found in the temples containing a statue of the king "and to celebrate
+the festivals and processions described above each year\..."[[ ^23 ]]
+
+The text ends with instruction that temples throughout Egypt are to erect a
+stela bearing a copy of the decree recorded in three scripts and two
+languages.[[ ^23 ]]
+
+== Copies
+
+As a result of the instruction to erect copies of the decree in temples
+throughout Egypt, ten securely dated copies of the decree survive. The Rosetta
+Stone preserves the earliest and most complete copy of the decree, from year 9
+of Ptolemy V’s reign. Two copies of the text were inscribed on the wall of
+[[ Philae | philae-temple-complex ]] temple; one, known as Philensis II, dates
+to year 19, while the second, Philensis I, dates to year 21. The latest dated
+text is a year 23 stela from Asphynis. Duplicates of the various versions
+exist, with three copies of the Rosetta Stone text known from [[ Naucratis ]],
+Elephantine, and Noub Taha; a further copy each is known for the Philensis
+inscriptions and Asphynis. Three additional fragmentary copies exist but they
+are not securely dated to Ptolemy's reign.[[ ^26 ]]
+
+The content of the text is broadly the same across the various copies, with
+later versions omitting or adding details as relevant. These include adding
+Ptolemy’s wife, [[ Cleopatra I | cleopatra-i-syra ]], to the royal cult after
+their marriage, and recording military expeditions. The specific details also
+vary according to the location of the stele; copies from [[ Upper Egypt ]]
+record the reconquering of Thebes in year 19 instead of the siege of
+Lycopolis.[[ ^26 ]]
+
+[[ ^1 ]]: [[ Silverstein (2023) | #silverstein ]]
+
+[[ ^2 ]]: [[ Parkinson et al. (1999) | #parkinson69 ]] p. 29
+
+[[ ^3 ]]: Veïsse, Anne-Emmanuelle (23 June 2022). "The 'Great Theban Revolt', 206–186 bce". In Kosmin, Paul J.; Moyer, Ian S. (eds.). [[ //Cultures of Resistance in the Hellenistic East// | https://academic.oup.com/book/43827/chapter-abstract/370254409?redirectedFrom=fulltext&login=false ]]. Oxford University Press. pp. 57–74. doi:[[ 10.1093/oso/9780192863478.003.0003 | https://doi.org/10.1093%2Foso%2F9780192863478.003.0003 ]]. Retrieved 28 April 2026.
+
+[[ ^4 ]]: [[ Assmann (2003) | #assmann ]] p. 376
+
+[[ ^5 ]]: [[ Clayton (2006) | #clayton06 ]] p. 211
+
+[[ ^6 ]]: [[ Tyldesley (2006) | #tyldesley2006 ]] p. 194
+
+[[ ^7 ]]: [[ Bevan (1927) | #bevan27 ]] [[ pp. 252–262 | https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Africa/Egypt/_Texts/BEVHOP/8*.html ]]
+
+[[ ^8 ]]: Pfeiffer 2015, pp. 111–112.
+
+[[ ^9 ]]: Quirke & Andrews 1988, p. 9.
+
+[[ ^10 ]]: Andrews 1985, pp. 20–21.
+
+[[ ^11 ]]: Andrews 1985, p. 43.
+
+[[ ^12 ]]: Quirke & Andrews 1988, pp. 9–10.
+
+[[ ^13 ]]: Quirke & Andrews 1988, p. 16.
+
+[[ ^14 ]]: Andrews 1985, p. 41.
+
+[[ ^15 ]]: Quirke & Andrews 1988, p. 8.
+
+[[ ^16 ]]: Quirke & Andrews 1988, p. 17.
+
+[[ ^17 ]]: Quirke & Andrews 1988, pp. 17–19.
+
+[[ ^18 ]]: Quirke & Andrews 1988, pp. 17–18.
+
+[[ ^19 ]]: Quirke & Andrews 1988, p. 19.
+
+[[ ^20 ]]: Quirke & Andrews 1988, pp. 18–19.
+
+[[ ^21 ]]: Müller 1920, pp. 60–61.
+
+[[ ^22 ]]: Quirke & Andrews 1988, pp. 20–21.
+
+[[ ^23 ]]: Quirke & Andrews 1988, p. 22.
+
+[[ ^24 ]]: Quirke & Andrews 1988, p. 21.
+
+[[ ^25 ]]: Quirke & Andrews 1988, pp. 21–22.
+
+[[ ^26 ]]: Quirke & Andrews 1988, pp. 7–8.

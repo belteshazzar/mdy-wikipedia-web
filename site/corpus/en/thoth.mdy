@@ -1,0 +1,703 @@
++++
+title: Thoth
+description: Ancient Egyptian deity of the Moon, learning, writing
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Thoth.svg/500px-Thoth.svg.png
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Thoth.svg/250px-Thoth.svg.png
+    caption: Thoth, in one of his forms as an ibis-headed man
+  name-in-hieroglyphs: or
+  major-cult-center: Hermopolis
+  symbol: Ibis, moon disk, papyrus scroll, reed pens, writing palette, stylus,
+    baboon, scales
+  consort: Maat, Seshat, Nehmetawy
+  offspring: Seshat
+  equivalents:
+    greek: Hermes
+    roman: Mercury
+images:
+  - file: Abydos_Tempelrelief_Sethos_I._19.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Abydos_Tempelrelief_Sethos_I._19.JPG/250px-Abydos_Tempelrelief_Sethos_I._19.JPG
+    width: 4127
+    height: 3089
+    caption: Relief in the Temple of Seti I (Abydos) of Thoth giving the ankh to
+      pharaoh Seti I.
+  - file: Thoth_as_baboo_E17496.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Thoth_as_baboo_E17496.jpg/250px-Thoth_as_baboo_E17496.jpg
+    width: 1913
+    height: 2857
+    caption: Faience statue of Thoth as baboon depicted with the moon-disk on his head.
+  - file: Tot,_Egyptian_God.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tot%2C_Egyptian_God.svg/250px-Tot%2C_Egyptian_God.svg.png
+    width: 531
+    height: 990
+    caption: Image of Thoth from The Gods of the Egyptians Volume 1 by E. A. Wallis
+      Budge, c. 1904
+  - file: The_Weighing_of_the_Heart.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Weighing_of_the_Heart.svg/250px-The_Weighing_of_the_Heart.svg.png
+    width: 2002
+    height: 898
+    caption: Details based from the Papyrus of Ani depicts the jackal-headed Anubis
+      weighing a heart against the feather of truth on the scale of Maat, while
+      ibis-headed Thoth records the result. Having a heart equal to the weight
+      of the feather allows passage to the afterlife, whereas an imbalance
+      results in a meal for Ammit, the chimera of crocodile, lion, and
+      hippopotamus.
+  - file: Stela_showing_a_male_adorer_standing_before_2_Ibises_of_Thoth._Limestone,_sunken_relief._Early_19th_Dynasty._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology,_London.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Stela_showing_a_male_adorer_standing_before_2_Ibises_of_Thoth._Limestone%2C_sunken_relief._Early_19th_Dynasty._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/250px-thumbnail.jpg
+    width: 4016
+    height: 4397
+    caption: Worshipper before two ibises of Thoth. (early 19th Dynasty)
+  - file: Cylinder_seal_and_modern_impression_king_holding_two_lion_griffins_at_bay_and_Egyptian_hieroglyphs_ca._6th–5th_century_BC.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cylinder_seal_and_modern_impression_king_holding_two_lion_griffins_at_bay_and_Egyptian_hieroglyphs_ca._6th%E2%80%935th_century_BC.jpg/250px-Cylinder_seal_and_modern_impression_king_holding_two_lion_griffins_at_bay_and_Egyptian_hieroglyphs_ca._6th%E2%80%935th_century_BC.jpg
+    width: 407
+    height: 281
+    caption: Modern impression of an Achaemenid cylinder seal from Iran, with king
+      holding two lion griffins at bay and Egyptian hieroglyphs reading "Thoth
+      is a protection over me". (c. 6th–5th century BC).
+  - file: Thoth_writing.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Thoth_writing.svg/250px-Thoth_writing.svg.png
+    width: 375
+    height: 687
+    caption: Thoth depicted with a book and stylus
+wikidata:
+  id: Q146921
+  label: Thoth
+  description: Egyptian deity
+  claims:
+    commons-category: Thoth
+    part-of: Egyptian mythology
+    topic-s-main-category: Category:Thoth
+    sex-or-gender: male
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Thoth.svg
+    said-to-be-the-same-as: Hermes
+    spouse:
+      - Maat
+      - Nehmetawy
+    described-by-source:
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - The Nuttall Encyclopædia
+      - Otto's encyclopedia
+      - Encyclopædia Britannica 11th edition
+      - Pauly–Wissowa
+    worshipped-by: Ancient Egypt
+    instance-of:
+      - Ancient Egyptian deity
+      - lunar deity
+    different-from: Thout
+    field-of-work: Egyptian mythology
+categories:
+  - Avian humanoids
+  - Bird deities
+  - Creators of writing systems
+  - Egyptian gods
+  - Hermeticism
+  - Justice gods
+  - Knowledge gods
+  - Lunar gods
+  - Magic gods
+  - Mercurian deities
+  - Moses
+  - Mythological monkeys
+  - Primordial teachers
+  - Scribes
+  - Thoth
+  - Time and fate gods
+  - Underworld gods
+  - Wisdom gods
+langlinks:
+  af: Thoth
+  gsw: Thoth
+  ar: تحوت
+  arz: تحوت
+  az: Tot
+  be: Тот
+  bg: Тот
+  bn: থোথ
+  br: Tot
+  bs: Thoth
+  ca: Tot (déu)
+  cdo: Thoth
+  cs: Thovt
+  cy: Thoth
+  da: Thoth
+  de: Thot
+  el: Θωθ
+  eo: Toto
+  es: Thot
+  et: Thot
+  eu: Tot
+  fa: تحوت
+  fi: Thot
+  fr: Thot
+  ga: Tót
+  gl: Thoth
+  he: תחות
+  hi: थोथ
+  hr: Thoth
+  hu: Thot
+  hy: Թոթ
+  id: Thoth
+  is: Þoþ
+  it: Thot
+  ja: トート
+  jv: Thoth
+  ka: თოტი
+  ko: 토트
+  la: Thoth
+  lt: Totas
+  lv: Tots
+  mk: Тот
+  ml: തോത്ത്
+  mni: ꯊꯣꯊ
+  ms: Thoth
+  nds-nl: Thoth
+  nl: Thoth (mythologie)
+  nb: Tot
+  oc: Tòt
+  pl: Thot
+  pt: Tote
+  ro: Thot
+  ru: Тот
+  scn: Thoth
+  sco: Thoth
+  sh: Tot
+  simple: Thoth
+  sk: Thovt
+  sl: Tot
+  sq: Thoti
+  sr: Теут
+  sv: Thot
+  ta: தோத்
+  tl: Thoth
+  tr: Thoth
+  uk: Тот
+  ur: تحوت
+  vi: Thoth
+  war: Thoth
+  wuu: 托特
+  xmf: თოტი
+  zh: 托特
+  yue: 圖特
+link-titles:
+  19th-dynasty: 19th Dynasty
+  aani: Aani
+  achaemenid: Achaemenid
+  african-sacred-ibis: African sacred ibis
+  age-of-mythology: Age of Mythology
+  aleister-crowley: Aleister Crowley
+  american-gods: American Gods
+  american-gods-tv-series: American Gods (TV series)
+  ammit: Ammit
+  ancient-egyptian-deity: Ancient Egyptian deity
+  ancient-egyptian-language: Ancient Egyptian language
+  ancient-egyptian-royal-titulary: Ancient Egyptian royal titulary
+  ancient-greek: Ancient Greek
+  ankh: Ankh
+  anubis: Anubis
+  artapanus-of-alexandria: Artapanus of Alexandria
+  astrology: Astrology
+  astronomy: Astronomy
+  atef: Atef
+  baboon: Baboon
+  bobiverse: Bobiverse
+  book: Book
+  botany: Botany
+  chadwick-boseman: Chadwick Boseman
+  coffin: Coffin
+  coptic-language: Coptic language
+  dc-comics: DC Comics
+  dennis-e.-taylor: Dennis E. Taylor
+  divine-law: Divine law
+  duat: Duat
+  e.-a.-wallis-budge: E. A. Wallis Budge
+  egyptian-arabic: Egyptian Arabic
+  egyptian-book-of-the-dead: Egyptian Book of the Dead
+  egyptian-hieroglyphs: Egyptian hieroglyphs
+  egyptian-language: Egyptian language
+  egyptian-mythology: Egyptian mythology
+  egyptian-temple: Egyptian temple
+  egyptological-pronunciation: Egyptological pronunciation
+  ensemble-studios: Ensemble Studios
+  euhemerism: Euhemerism
+  geb: Geb
+  geometry: Geometry
+  god-of-war-franchise: God of War (franchise)
+  god-of-wisdom: God of wisdom
+  gods-of-egypt-film: Gods of Egypt (film)
+  griffin: Griffin
+  h.-p.-lovecraft: H. P. Lovecraft
+  headdress: Headdress
+  hermes: Hermes
+  hermes-trismegistus: Hermes Trismegistus
+  hermopolis: Hermopolis
+  hermopolis-magna: Hermopolis Magna
+  hi-rez-studios: Hi-Rez Studios
+  hieroglyph: Hieroglyph
+  hieroglyphs: Hieroglyphs
+  horus: Horus
+  iah: Iah
+  ian-wallace-author: Ian Wallace (author)
+  imhotep: Imhotep
+  iran: Iran
+  isis: Isis
+  jojos-bizarre-adventure: JoJo's Bizarre Adventure
+  koine-greek-language: Koine Greek language
+  krewe-of-thoth: Krewe of Thoth
+  late-period-of-egypt: Late Period of Egypt
+  late-antiquity: Late antiquity
+  limestone: Limestone
+  maat: Maat
+  magic-and-religion: Magic and religion
+  mardi-gras: Mardi Gras
+  marvel-comics: Marvel Comics
+  master-of-animals: Master of Animals
+  mathematics: Mathematics
+  medicine: Medicine
+  metaphor: Metaphor
+  minya-egypt: Minya, Egypt
+  moon-god: Moon god
+  morality: Morality
+  moses: Moses
+  mostafa-waziri: Mostafa Waziri
+  multiplayer-online-battle-arena: Multiplayer online battle arena
+  neil-gaiman: Neil Gaiman
+  nephthys: Nephthys
+  not-till-we-are-lostactioneditredlink1: Not Till We Are Lost?action=edit&redlink=1
+  numerology: Numerology
+  nut-goddess: Nut (goddess)
+  osiris: Osiris
+  osiris-myth: Osiris myth
+  papyrus-of-ani: Papyrus of Ani
+  phaedrus-dialogue: Phaedrus (dialogue)
+  plato: Plato
+  plutarch: Plutarch
+  pronaos: Pronaos
+  pschent: Pschent
+  public-speaking: Public speaking
+  ra: Ra
+  renaissance: Renaissance
+  sarcophagi: Sarcophagi
+  scribes-palette: Scribe's palette
+  sekhemre-sementawy-djehuty: Sekhemre Sementawy Djehuty
+  seshat: Seshat
+  set-deity: Set (deity)
+  seti-i: Seti I
+  shu-egyptian-god: Shu (Egyptian god)
+  sixteenth-dynasty-of-egypt: Sixteenth Dynasty of Egypt
+  smite-video-game: Smite (video game)
+  solar-barque: Solar barque
+  solar-deity: Solar deity
+  stylus: Stylus
+  surveying: Surveying
+  symbol: Symbol
+  temple-of-seti-i-abydos: Temple of Seti I (Abydos)
+  thamus-mythical-king-of-egypt: Thamus (mythical King of Egypt)
+  the-book-of-thoth-crowley: The Book of Thoth (Crowley)
+  the-mummy-1932-film: The Mummy (1932 film)
+  theology: Theology
+  thoth-tarot: Thoth Tarot
+  total-war-pharaoh: "Total War: Pharaoh"
+  tuna-el-gebel: Tuna el-Gebel
+  underworld: Underworld
+  welcome-to-demon-school-iruma-kun: Welcome to Demon School! Iruma-kun
+  yog-sothoth: Yog-Sothoth
+  zone-of-the-enders: Zone of the Enders
+sections:
+  - level: 2
+    id: name
+    title: Name
+  - level: 2
+    id: depictions
+    title: Depictions
+  - level: 2
+    id: attributes
+    title: Attributes
+  - level: 2
+    id: mythology
+    title: Mythology
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: archaeology
+    title: Archaeology
+  - level: 2
+    id: modern-cultural-references
+    title: Modern cultural references
+  - level: 2
+    id: explanatory-notes
+    title: Explanatory notes
+source:
+  site: Wikipedia
+  lang: en
+  title: Thoth
+  url: https://en.wikipedia.org/wiki/Thoth
+  page-id: 69035
+  revision: "1372336272"
+  modified: 2026-08-31T08:56:20Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Thoth"
+    (revision 1372336272), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+!!Thoth!! (from Koine Greek: Θώθ //Thṓth//, borrowed from Coptic: Ⲑⲱⲟⲩⲧ
+//Thōout//, Ancient Egyptian: //Ḏḥwtj//, the reflex of
+//[[ ḏḥwtj | https://en.wiktionary.org/wiki/ḏḥwtj ]]// "[he] is like the
+ibis") is an [[ ancient Egyptian deity ]]. In art, he was often depicted as a
+man with the head of an [[ ibis | african-sacred-ibis ]] or a [[ baboon ]],
+animals sacred to him. His feminine counterpart is [[ Seshat ]], and his wife
+is [[ Ma'at ]].[[ ^2 ]] He is the god of the Moon, wisdom, knowledge, writing,
+hieroglyphs, science, magic, art, and judgement.
+
+Thoth's chief [[ temple | egyptian-temple ]] was located in the city of
+[[ Hermopolis ]] (Ancient Egyptian:
+//[[ ḫmnw | https://en.wiktionary.org/wiki/ḫmnw ]]// ,
+[[ Egyptological pronunciation ]]: Khemenu, Coptic: Ϣⲙⲟⲩⲛ //Shmun//). Later
+known as //el-Ashmunein// in [[ Egyptian Arabic ]], the Temple of Thoth was
+mostly destroyed before the beginning of the Christian era. Its very large
+[[ pronaos ]] was still standing in 1826, but was demolished and used as fill
+for the foundation of a sugar factory by the mid-19th century.[[ ^3 ]][[ ^4 ]]
+
+Thoth played many vital and prominent roles in [[ Egyptian mythology ]], such
+as maintaining the universe, and being one of the two deities (the other being
+[[ Ma'at ]]) who stood on either side of
+[[ Ra's  | ra ]][[ solar barque ]].[[ ^5 ]] In the later history of ancient
+Egypt, Thoth became heavily associated with the arbitration of godly
+disputes,[[ ^6 ]] the arts of magic, the system of writing, and the judgment
+of the dead.[[ ^7 ]]
+
+== Name
+
+The [[ Egyptian | egyptian-language ]] pronunciation of //ḏḥwty// is not fully
+known, but may be reconstructed as *//ḏiḥautī,// perhaps pronounced * or *.
+This reconstruction is based on the [[ Ancient Greek ]] borrowing //Thōth// or
+//Theut// and the fact that the name was transliterated into
+[[ Sahidic Coptic | coptic-language ]] variously as ⲑⲟⲟⲩⲧ //Thoout//, ⲑⲱⲑ
+//Thōth//, ⲑⲟⲟⲧ //Thoot//, ⲑⲁⲩⲧ //Thaut//, //Taauto//s (//Τααυτος//),
+//Thoor// (//Θωωρ//), as well as [[ Bohairic Coptic | coptic-language ]] ⲑⲱⲟⲩⲧ
+//Thōout//. These spellings reflect known sound changes from earlier Egyptian
+such as the loss of //ḏ// palatalization and merger of //ḥ// with //h// i.e.
+initial //ḏḥ > th > tʰ//.[[ ^8 ]] The loss of pre-Coptic final //y/j// is also
+common.[[ ^9 ]] Following Egyptological convention, which eschews vowel
+reconstruction, the consonant skeleton //ḏḥwty// would be rendered "Djehuti"
+and the god is sometimes found under this name. However, the Greek form
+"Thoth" is more common.
+
+According to Theodor Hopfner, Thoth's Egyptian name written as //ḏḥwty//
+originated from //ḏḥw//, claimed to be the oldest known name for the
+[[ ibis | african-sacred-ibis ]], normally written as //hbj//.[[ ^10 ]] The
+addition of //-ty// denotes that he possessed the attributes of the
+ibis.[[ ^11 ]] Hence Thoth's name would mean "He who is like the ibis",
+according to this interpretation.
+
+Other forms of the name //ḏḥwty// using older transcriptions include //Jehuti,
+Jehuty, Tahuti, Tehuti, Zehuti, Techu,// or //Tetu//. Multiple titles for
+Thoth, similar to the
+[[ pharaonic titulary | ancient-egyptian-royal-titulary ]], are also known,
+including //A//, //Sheps//, //Lord of Khemennu//, //Asten//, //Khenti//,
+//Mehi//, //Hab//, and //A'an//.[[ ^12 ]]
+
+In addition, Thoth was also known by specific aspects of himself, for instance
+the [[ Moon god ]] [[ Iah ]]-Djehuty (//j3ḥ-ḏḥw.ty)//,[[ ^b ]] representing
+the Moon for the entire month.[[ ^13 ]][[ ^14 ]] The Greeks related Thoth to
+their god [[ Hermes ]] due to his similar attributes and functions.[[ ^11 ]]
+One of Thoth's titles, "Thrice great", was translated to the Greek
+τρισμέγιστος (//trismégistos//), making
+[[ Hermes Trismegistus ]].[[ ^15 ]][[ ^c ]]
+
+== Depictions
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Abydos_Tempelrelief_Sethos_I._19.JPG/250px-Abydos_Tempelrelief_Sethos_I._19.JPG" height="187" width="250"
+
+  <figcaption>Relief in the [[ Temple of Seti I (Abydos) ]] of Thoth giving the [[ ankh ]] to pharaoh [[ Seti I ]].
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Thoth_as_baboo_E17496.jpg/250px-Thoth_as_baboo_E17496.jpg" height="284" width="190"
+
+  <figcaption>Faience statue of Thoth as baboon depicted with the moon-disk on his head.
+
+Thoth has been depicted in many ways depending on the era and on the aspect
+the artist wished to convey. Usually, he is depicted in his human form with
+the head of a green [[ ibis | african-sacred-ibis ]].[[ ^16 ]] In this form,
+he can be represented as the reckoner of times and seasons by a
+[[ headdress ]] of the lunar disk sitting on top of a crescent moon resting on
+his head. When depicted as a form of [[ Shu | shu-egyptian-god ]] or Ankher,
+he was depicted to be wearing the respective god's headdress. Sometimes he was
+also seen in art to be wearing the [[ Atef ]] crown or the
+[[ double crown of Upper and Lower Egypt | pschent ]].[[ ^11 ]] When not
+depicted in this common form, he sometimes takes the form of the ibis
+directly.[[ ^16 ]]
+
+He also appears as a dog-faced [[ baboon ]] or a man with the head of a baboon
+when he is A'an, the god of
+[[ equilibrium | https://en.wiktionary.org/wiki/equilibrium ]].[[ ^7 ]] In the
+form of A'ah-Djehuty, he took a more human-looking form.[[ ^17 ]] These forms
+are all [[ symbolic | symbol ]] and are [[ metaphors | metaphor ]] for Thoth's
+attributes. Thoth is often depicted holding an [[ ankh ]], the Egyptian symbol
+for life.
+
+== Attributes
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tot%2C_Egyptian_God.svg/250px-Tot%2C_Egyptian_God.svg.png" height="354" width="190"
+
+  <figcaption>Image of Thoth from //The Gods of the Egyptians Volume 1// by [[ E. A. Wallis Budge ]], c. 1904
+
+Thoth's roles in Egyptian mythology were many. He served as scribe of the
+gods,[[ ^18 ]] credited with the invention of writing, music, and
+[[ Egyptian hieroglyphs ]].[[ ^19 ]] In the [[ underworld ]], [[ Duat ]], he
+appeared as an ape, [[ Aani ]], the god of equilibrium, who reported when the
+scales weighing the deceased's heart against the feather, representing the
+principle of Maat, was exactly even.[[ ^7 ]]
+
+The ancient Egyptians regarded Thoth as One, self-begotten, and
+self-produced.[[ ^16 ]] He is the master of both physical and
+[[ moral | morality ]] (i.e. [[ divine law ]]),[[ ^16 ]] making proper use of
+Ma'at.[[ ^20 ]] He is credited with making the calculations for the
+establishment of the heavens, stars, Earth,[[ ^16 ]] and everything in
+them.[[ ^20 ]]
+
+The Egyptians credited him as the author of all works of science, religion,
+philosophy, and magic.[[ ^21 ]] The Greeks further declared him the inventor
+of [[ astronomy ]], [[ astrology ]],
+[[ the science of numbers | numerology ]], [[ mathematics ]], [[ geometry ]],
+[[ surveying ]], [[ medicine ]], [[ botany ]], [[ theology ]], civilized
+government, the alphabet, reading, writing, and
+[[ oratory | public-speaking ]]. They further claimed he is the true author of
+every work of every branch of knowledge, human and divine.[[ ^19 ]]
+
+== Mythology
+
+The Greek philosopher [[ Plutarch ]] credits Thoth with the creation of the
+365-day calendar. Originally, according to the myth, the year was only
+360 days long and [[ Nut | nut-goddess ]] was sterile during these days,
+unable to bear children. Thoth gambled with the [[ Moon | iah ]] for ⁠1/72⁠nd
+of its light (⁠360/72⁠ = 5), or 5 days, and won. During these 5 days, Nut and
+[[ Geb ]] gave birth to [[ Osiris ]], [[ Set | set-deity ]], [[ Isis ]], and
+[[ Nephthys ]].[[ ^22 ]][[ ^23 ]][[ ^24 ]]
+
+In the central [[ Osiris myth ]], Thoth gives Isis the words to restore her
+husband, allowing the pair to conceive [[ Horus ]]. Following a battle between
+Horus and Set, Thoth offers counsel and provides wisdom.
+
+== History
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Weighing_of_the_Heart.svg/250px-The_Weighing_of_the_Heart.svg.png" height="112" width="250"
+
+  <figcaption>Details based from the [[ Papyrus of Ani ]] depicts the jackal-headed [[ Anubis ]] weighing a heart against the feather of truth on the scale of [[ Maat ]], while ibis-headed Thoth records the result. Having a heart equal to the weight of the feather allows passage to the afterlife, whereas an imbalance results in a meal for [[ Ammit ]], the chimera of crocodile, lion, and hippopotamus.
+
+Thoth is a Moon god. The Moon not only provides light at night, allowing time
+to still be measured without the Sun, but its phases and prominence gave it a
+significant importance in early astrology/astronomy. The perceived cycles of
+the Moon also organized much of Egyptian society's rituals and events, both
+civil and religious. Consequently, Thoth gradually became seen as a
+[[ god of wisdom ]], [[ magic | magic-and-religion ]], and the measurement and
+regulation of events and of time.[[ ^25 ]] He was thus said to be the
+secretary and counselor of the [[ Sun god | solar-deity ]] Ra, and with Ma'at
+(truth/order) stood next to Ra on the nightly voyage across the sky.
+
+Thoth became credited by the ancient Egyptians as the inventor of writing
+([[ hieroglyphs | hieroglyph ]]),[[ ^26 ]] and was also considered to have
+been the scribe of the underworld. For this reason, Thoth was universally
+worshipped by ancient Egyptian scribes. Many scribes had a painting or a
+picture of Thoth in their "office". Likewise, one of the symbols for scribes
+was that of the ibis.
+
+In art, Thoth was usually depicted with the head of an ibis, possibly because
+the Egyptians saw the curve of the ibis' beak as a symbol of the crescent
+moon.[[ ^27 ]] Sometimes, he was depicted as a baboon holding up a crescent
+moon.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Stela_showing_a_male_adorer_standing_before_2_Ibises_of_Thoth._Limestone%2C_sunken_relief._Early_19th_Dynasty._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/250px-thumbnail.jpg" height="208" width="190"
+
+  <figcaption>Worshipper before two ibises of Thoth. (early [[ 19th Dynasty ]])
+
+During the [[ Late Period of ancient Egypt | late-period-of-egypt ]], a cult
+of Thoth gained prominence due to its main center, Khmun
+([[ Hermopolis Magna ]]), also becoming the capital. Millions of dead ibis
+were mummified and buried in his honor.[[ ^28 ]]
+
+Thoth was inserted in many tales as the wise counselor and persuader, and his
+association with learning and measurement led him to be connected with
+[[ Seshat ]], the earlier deification of wisdom, who was said to be his
+daughter, or variably his wife. Thoth's qualities also led to him being
+identified by the Greeks with their closest matching god Hermes, with whom
+Thoth was eventually combined as [[ Hermes Trismegistus ]],[[ ^c ]] leading to
+the Greeks' naming Thoth's cult center as Hermopolis, meaning //city of
+Hermes//.
+
+In the [[ Papyrus of Ani ]] copy of the [[ Egyptian Book of the Dead ]] the
+scribe proclaims "I am thy [[ writing palette | scribes-palette ]], O Thoth,
+and I have brought unto thee thine ink-jar. I am not of those who work
+iniquity in their secret places; let not evil happen unto me."[[ ^29 ]] Plate
+XXIX Chapter CLXXV (Budge) of the Book of the Dead is the oldest tradition
+said to be the work of Thoth himself.[[ ^30 ]]
+
+There was also an Egyptian pharaoh of the
+[[ Sixteenth dynasty | sixteenth-dynasty-of-egypt ]] named
+[[ Djehuty | sekhemre-sementawy-djehuty ]] (Thoth) after him, and who reigned
+for three years.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cylinder_seal_and_modern_impression_king_holding_two_lion_griffins_at_bay_and_Egyptian_hieroglyphs_ca._6th%E2%80%935th_century_BC.jpg/250px-Cylinder_seal_and_modern_impression_king_holding_two_lion_griffins_at_bay_and_Egyptian_hieroglyphs_ca._6th%E2%80%935th_century_BC.jpg" height="173" width="250"
+
+  <figcaption>Modern impression of an [[ Achaemenid ]] cylinder seal from [[ Iran ]], with [[ king holding | master-of-animals ]] two lion [[ griffins | griffin ]] at bay and Egyptian [[ hieroglyphs ]] reading "Thoth is a protection over me". (c. 6th–5th century BC).[[ ^31 ]]
+
+[[ Plato ]] mentions Thoth (as Θεὺθ, "Theuth")[[ ^32 ]] in his dialogue
+//[[ Phaedrus | phaedrus-dialogue ]]//. He uses the myth of Thoth to
+demonstrate that writing leads to laziness and forgetfulness. In the story,
+Thoth remarks to King [[ Thamus | thamus-mythical-king-of-egypt ]] of Egypt
+that writing is a wonderful substitute for memory. Thamus remarks that it is a
+remedy for reminding, not remembering, with the appearance but not the reality
+of wisdom. Future generations will hear much without being properly taught and
+will appear wise but not be so.[[ ^33 ]]
+
+[[ Artapanus of Alexandria ]], an Egyptian Jew who lived in the third or
+second century BC, [[ euhemerized | euhemerism ]] Thoth-Hermes as a historical
+human being and claimed he was the same person as [[ Moses ]], based primarily
+on their shared roles as authors of texts and creators of laws. Artapanus's
+biography of Moses conflates traditions about Moses and Thoth and invents many
+details.[[ ^34 ]] Many later authors, from [[ late antiquity ]] to the
+[[ Renaissance ]], either identified Hermes Trismegistus with Moses or
+regarded them as contemporaries who expounded similar beliefs.[[ ^35 ]]
+
+=== Archaeology
+
+Egypt's Minister of Tourism and Antiquities announced the discovery of the
+collective graves of senior officials and high clergies of the god Thoth in
+[[ Tuna el-Gebel ]] in [[ Minya | minya-egypt ]] in January 2020. An
+archaeological mission headed by [[ Mostafa Waziri ]] reported that 20
+[[ sarcophagi ]] and [[ coffins | coffin ]] of various shapes and sizes,
+including five [[ anthropoid | https://en.wiktionary.org/wiki/anthropoid ]]
+sarcophagi made of [[ limestone ]] and carved with
+[[ hieroglyphic | egyptian-hieroglyphs ]] texts, as well as 16 tombs and five
+well-preserved wooden coffins were unearthed by their team.[[ ^36 ]][[ ^37 ]]
+
+== Modern cultural references
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Thoth_writing.svg/250px-Thoth_writing.svg.png" height="348" width="190"
+
+  <figcaption>Thoth depicted with a [[ book ]] and [[ stylus ]]
+
+Thoth has been seen as a god of wisdom and has been used in modern literature,
+especially since the early 20th century when ancient Egyptian ideas were quite
+popular.
+
+- In the 1932 film //[[ The Mummy | the-mummy-1932-film ]]// the "scroll of Thoth" is a life-giving scroll. Reading its symbols out loud causes [[ Imhotep ]] to rise from the dead.
+- In //Croyd// by [[ Ian Wallace | ian-wallace-author ]] (Berkeley Medallion, 1968), Thoth is the father of the Galactic Agent hero, Croyd.
+- [[ Aleister Crowley ]]'s Egyptian style //[[ Thoth Tarot ]]// deck, and its written description in his 1944 book //[[ The Book of Thoth | the-book-of-thoth-crowley ]]//, were named in reference to the theory that Tarot cards were the Egyptian book of Thoth.[[ ^38 ]]
+- [[ H. P. Lovecraft ]] also used the word "Thoth" as the basis for his alien god, "[[ Yog-Sothoth ]]", an entity associated with sorcery and esoteric knowledge.[[ ^39 ]]
+- Thoth's other name Jehuty was the name of the playable Orbital Frame mecha in the //[[ Zone of the Enders ]]// franchise.
+- In the manga series //[[ JoJo's Bizarre Adventure ]]//, Thoth lends his name to the character Boingo's Stand, which manifests as a comic book with premonitory stories.
+- In the 2016 film //[[ Gods of Egypt | gods-of-egypt-film ]]//, Thoth is played by [[ Chadwick Boseman ]].[[ ^40 ]]
+- Thoth appears in the 2021 comic book series //God of War: Fallen God//,[[ ^41 ]] which is based on the //[[ God of War | god-of-war-franchise ]]// video game franchise.
+- In the 2002 [[ Ensemble Studios ]] game //[[ Age of Mythology ]]//, Thoth is one of nine minor gods that can be worshipped by Egyptian players.[[ ^42 ]][[ ^43 ]]
+- In [[ Neil Gaiman ]]'s 2001 novel //[[ American Gods ]]// and its [[ 2017–2021 TV adaptation | american-gods-tv-series ]], Thoth is portrayed as Mr. Ibis, who runs a funeral parlor alongside [[ Anubis ]], known as Mr. Jacquel.
+- Thoth is one of many playable gods in [[ Hi-Rez Studios ]]' [[ multiplayer online battle arena ]] (MOBA) video game //[[ Smite | smite-video-game ]]//.[[ ^44 ]]
+- In //[[ Welcome to Demon School! Iruma-kun ]]//, Thoth is a character who takes the form of a sphinx.
+- Thoth is depicted in both [[ Marvel Comics ]] and [[ DC Comics ]].
+- Appears in 2023's //[[ Total War: Pharaoh ]]// as one of the gods the player can pray to. Thoth decreases construction times and costs, as well as fortifying armor for soldiers.
+- Thoth is the namesake for the Mardi Gras parading group, the “[[ Krewe of Thoth ]]” that has ridden in New Orleans on the Sunday preceding [[ Mardi Gras ]] each year since 1948. The krewe’s logo includes a modern depiction of Thoth on the logo and is a frequently seen sculpted onto a float riding in the parade.[[ ^45 ]]
+- Thoth is a recurring summonable character in the //Shin Megami Tensei// and //Persona// series.
+- In [[ Dennis E. Taylor ]]'s fifth book of the [[ Bobiverse ]] series Not Till We Are Lost, Thoth serves as the namesake of an AI alluding to it's wisdom.
+
+
+== Explanatory notes
+
+[[ ^2 ]]: Eric H Cline, David O'Connor (January 5, 2006), //Thutmose III: A New Biography//, University of Michigan Press, p. 127
+
+[[ ^3 ]]: Verner, Miroslav (2013). [[ //Temple of the World: Sanctuaries, Cults, and Mysteries of Ancient Egypt// | https://books.google.com/books?id=Khh0BgAAQBAJ&pg=PA149 ]]. American University in Cairo Press. p. 149. ISBN [[ 978-977-416-563-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-977-416-563-4 ]].
+
+[[ ^4 ]]: [[ "Destruction of Egyptian Monuments"  | https://en.wikisource.org/wiki/Littell%27s_Living_Age/Volume_153/Issue_1972/Destruction_of_Egyptian_Monuments ]]. //Littell's Living Age// – via [[ Wikisource ]].
+
+[[ ^5 ]]: Budge (1969), p. 400.
+
+[[ ^6 ]]: Budge (1969), p. 405.
+
+[[ ^7 ]]: Budge (1969), p. 403.
+
+[[ ^8 ]]: Allen (2013), p. [[ 50 | https://books.google.com/books?id=Gd6aAAAAQBAJ&pg=PA50 ]].
+
+[[ ^9 ]]: Allen (2013), p. [[ 37 | https://books.google.com/books?id=Gd6aAAAAQBAJ&pg=PA37 ]].
+
+[[ ^10 ]]: Hopfner, Theodor, b. 1886. Der tierkult der alten Agypter nach den griechisch-romischen berichten und den wichtigeren denkmalern. Wien, In kommission bei A. Holder, 1913. Call#= 060 VPD v.57
+
+[[ ^11 ]]: Budge (1969), p. 402.
+
+[[ ^12 ]]: Budge (1969), pp. 402–403.
+
+[[ ^b ]]: Also transliterated "Aah Te-Huti" or "Aah-Tehuti".
+
+[[ ^13 ]]: Budge (1969), pp. 412–413.
+
+[[ ^14 ]]: Coulter, Charles Russell; Turner, Patricia (4 July 2013). //Encyclopedia of Ancient Deities//. Routledge. p. 3. ISBN [[ 978-1-135-96397-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-135-96397-2 ]]. Aah Te-Huti Aah-Tehuti [\...] (Egypt): A manifestation of Thoth, this moon god is represented by an ibis head surmounted by a crescent and a disk.
+
+[[ ^15 ]]: Budge (1969), p. 415.
+
+[[ ^c ]]: A survey of the literary and archaeological evidence for the background of Hermes Trismegistus in the Greek Hermes and the Egyptian Thoth may be found in Bull (2018), pp. 33–96.
+
+[[ ^16 ]]: Budge (1969), p. 401.
+
+[[ ^17 ]]: Budge (1969), plate between pp. 408–409.
+
+[[ ^18 ]]: Budge (1969), p. 408.
+
+[[ ^19 ]]: Budge (1969), p. 414.
+
+[[ ^20 ]]: Budge (1969), p. 407.
+
+[[ ^21 ]]: Hall (1925), p. 224.
+
+[[ ^22 ]]: Hart, George (15 August 1990). [[ //Egyptian Myths// | https://archive.org/details/egyptianmyths00hart/page/40/mode/2up?q=plutarch ]]. University of Texas Press. pp. 40−41. ISBN [[ 0-292-72076-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-292-72076-9 ]].
+
+[[ ^23 ]]: Hart, George (15 August 1990). [[ //A Dictionary of Egyptian Gods and Goddesses// | https://archive.org/details/egyptianmyths00hart/page/40/mode/2up?q=plutarch ]]. University of Texas Press. pp. 144−145. ISBN [[ 978-0-292-72076-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-292-72076-3 ]].
+
+[[ ^24 ]]: Plutarch. [[ //Isis and Osiris// | https://www.loebclassics.com/view/plutarch-moralia_isis_osiris/1936/pb_LCL306.31.xml ]]. Loeb Classics. pp. LCL 306: 30−31.
+
+[[ ^25 ]]: [[ Assmann, Jan | jan-assmann ]], //[[ The Search for God in Ancient Egypt ]]//, 2001, pp. 80–81
+
+[[ ^26 ]]: Littleton, C.Scott (2002). [[ //Mythology. The illustrated anthology of world myth & storytelling// | https://archive.org/details/mythologyillustr0000unse_i7i9/page/24 ]]. London: Duncan Baird Publishers. pp. [[ 24 | https://archive.org/details/mythologyillustr0000unse_i7i9/page/24 ]]. ISBN [[ 978-1-903296-37-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-903296-37-0 ]].
+
+[[ ^27 ]]: Wilkinson, Richard H., //The Complete Gods and Goddesses of Ancient Egypt//, 2003, p. 217
+
+[[ ^28 ]]: Wasef, Sally; Subramanian, Sankar; O'Rorke, Richard; Huynen, Leon; El-Marghani, Samia; Curtis, Caitlin; Popinga, Alex; Holland, Barbara; Ikram, Salima; Millar, Craig; Willerslev, Eske; Lambert, David (2019). [[ "Mitogenomic diversity in Sacred Ibis Mummies sheds light on early Egyptian practices" | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6853290 ]]. //PLOS ONE//. !!14!! (11) e0223964. Bibcode:[[ 2019PLoSO..1423964W | https://ui.adsabs.harvard.edu/abs/2019PLoSO..1423964W ]]. doi:[[ 10.1371/journal.pone.0223964 | https://doi.org/10.1371%2Fjournal.pone.0223964 ]]. PMC [[ 6853290 | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6853290 ]]. PMID [[ 31721774 | https://pubmed.ncbi.nlm.nih.gov/31721774 ]].
+
+[[ ^29 ]]: Budge (1999), p. 562.
+
+[[ ^30 ]]: Budge (1999), p. 282.
+
+[[ ^31 ]]: [[ "Cylinder seal and modern impression: king holding two lion griffins at bay" | https://www.metmuseum.org/art/collection/search/323560 ]]. Metropolitan Museum of Art. Accession number: 36.106.2.
+
+[[ ^32 ]]: Plato. [[ "Phaedrus" | https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0174:text=Phaedrus:page=274 ]]. //Perseus Digital Library//. p. 274. Retrieved 18 June 2024.
+
+[[ ^33 ]]: //The Dialogues of Plato//, Benjamin Jowett translation (1892), vol. 2, p. 153
+
+[[ ^34 ]]: Mussies (1982), pp. 91, 97, 99–100.
+
+[[ ^35 ]]: Mussies (1982), pp. 118–120.
+
+[[ ^36 ]]: El-Aref, Nevine (30 January 2020). [[ "In photos: Communal tombs for high priests uncovered Upper Egypt – Ancient Egypt – Heritage" | http://english.ahram.org.eg/NewsContent/9/40/362609/Heritage/Ancient-Egypt/In-photos-Communal-tombs-for-high-priests-uncovere.aspx ]]. //Ahram Online//. Retrieved 28 June 2020.
+
+[[ ^37 ]]: [[ "Tombs of High Priests Discovered in Upper Egypt" | https://archaeology.org/news/2020/01/31/200131-tombs-priests-egypt/ ]]. //Archaeology Magazine//. 30 January 2020. Retrieved 28 June 2020.
+
+[[ ^38 ]]: Crowley (1944); DuQuette (2003).
+
+[[ ^39 ]]: Steadman, John L. (1 September 2015). [[ //H. P. Lovecraft and the Black Magickal Tradition: The Master of Horror's Influence on Modern Occultism// | https://books.google.com/books?id=fKkwCgAAQBAJ&q=lovecraft+thoth+yog+sothoth&pg=PA125 ]]. Weiser Books. ISBN [[ 978-1-63341-000-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-63341-000-8 ]].
+
+[[ ^40 ]]: Lee, Benjamin (13 November 2015). [[ "//Gods of Egypt// posters spark anger with 'whitewashed' cast" | https://www.theguardian.com/film/2015/nov/13/gods-of-egypt-posters-anger-whitewashed-cast-twitter-exodus ]]. //[[ The Guardian ]]//. London. Retrieved 1 January 2017.
+
+[[ ^41 ]]: Sawan, Amer (14 June 2021). [[ "God of War: Kratos Comes Face to Face With Brand New Pantheon" | https://www.cbr.com/god-of-war-fallen-god-egyptian-pantheon/ ]]. //CBR.com//. Retrieved 17 June 2021.
+
+[[ ^42 ]]: [[ "The Minor Gods: Egyptian" | https://www.ign.com/wikis/age-of-mythology/The_Minor_Gods:_Egyptian ]]. //Age of Mythology Wiki Guide//. IGN. 27 March 2012. Retrieved 30 November 2023.
+
+[[ ^43 ]]: [[ //Age of Mythology// | https://archive.org/details/Age_of_Mythology/page/n11/mode/2up ]] (game manual). Microsoft Game Studios. 2002 – via Internet Archive.
+
+[[ ^44 ]]: [[ "Gods" | https://www.smitegame.com/gods/ ]]. //Smite//. Retrieved 1 October 2021.
+
+[[ ^45 ]]: McLarney, Andrew (11 November 2023). [[ "Total War: Pharaoh - Best Gods To Pray To" | https://gamerant.com/best-gods-deities-pray-total-war-pharaoh/ ]]. //gamerant.com//. [[ Valnet ]]. Retrieved 28 September 2025.

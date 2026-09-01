@@ -1,0 +1,671 @@
++++
+title: Nile Delta
+description: African river delta bordering the Mediterranean
+coordinates:
+  lat: 30.9
+  lon: 31.11666667
+image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Nile_delta_landsat_false_color.jpg
+images:
+  - file: Nile_delta_landsat_false_color.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nile_delta_landsat_false_color.jpg/250px-Nile_delta_landsat_false_color.jpg
+    width: 1024
+    height: 768
+    caption: NASA satellite photograph of the Nile Delta (shown in false color)
+  - file: Nile_River_Delta_at_Night.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nile_River_Delta_at_Night.JPG/250px-Nile_River_Delta_at_Night.JPG
+    width: 4256
+    height: 2832
+    caption: The Nile Delta at night as seen from the ISS in October 2010.
+  - file: Nile_River_and_delta_from_orbit.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nile_River_and_delta_from_orbit.jpg/250px-Nile_River_and_delta_from_orbit.jpg
+    width: 700
+    height: 550
+    caption: Nile River and Delta
+  - file: Nile_Delta_Surrounding.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nile_Delta_Surrounding.jpg/250px-Nile_Delta_Surrounding.jpg
+    width: 503
+    height: 467
+    caption: Ancient branches of the Nile, showing Wadi Tumilat, and the lakes east
+      of the Delta
+  - file: AncientEgyptJamesRennell01.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/AncientEgyptJamesRennell01.jpg/250px-AncientEgyptJamesRennell01.jpg
+    width: 1548
+    height: 1715
+    caption: The Nile Delta at the time of Herodotus, according to James Rennell (1800)
+  - file: Egypt_2010_population_density1.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Egypt_2010_population_density1.png/250px-Egypt_2010_population_density1.png
+    width: 654
+    height: 600
+    caption: Population density
+  - file: Chlidonias_hybrida_3_(Marek_Szczepanek).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chlidonias_hybrida_3_%28Marek_Szczepanek%29.jpg/250px-Chlidonias_hybrida_3_%28Marek_Szczepanek%29.jpg
+    width: 650
+    height: 420
+    caption: Whiskered tern
+  - file: Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_(5457306559).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306559%29.jpg/250px-Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306559%29.jpg
+    width: 3258
+    height: 2484
+    caption: Population density and low elevation coastal zones. The Nile Delta is
+      especially vulnerable to sea level rise.
+wikidata:
+  id: Q179528
+  label: Nile Delta
+  description: delta formed in Northern Egypt where the Nile River drains into the
+    Mediterranean Sea
+  claims:
+    instance-of: river delta
+    commons-category: Nile Delta
+    country:
+      value: Egypt
+      from: 1922-02-28
+    topic-s-main-category: Category:Nile Delta
+    coordinate-location:
+      lat: 30.9
+      lon: 31.11666667
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Nile_River_and_delta_from_orbit.jpg
+    spoken-text-audio: https://commons.wikimedia.org/wiki/Special:FilePath/Nl-Nijldelta-article.ogg
+    category-for-maps-or-plans: Category:Maps of the Nile Delta
+    delta-of: Nile
+    described-by-source: Pauly–Wissowa
+    detail-map: https://commons.wikimedia.org/wiki/Special:FilePath/Niledelta_33.svg
+    maintained-by-wikiproject:
+      - WikiProject Egypt
+      - WikiProject Rivers
+      - WikiProject Ecology
+      - WikiProject Ecoregions
+      - WikiProject Geology
+      - WikiProject Limnology and Oceanography
+categories:
+  - Eastern Mediterranean
+  - Ecoregions of Egypt
+  - Flooded grasslands and savannas
+  - Freshwater ecoregions of Africa
+  - Landforms of Egypt
+  - Landforms of the Mediterranean
+  - Nile
+  - Nile Delta
+  - River deltas of Africa
+langlinks:
+  af: Nyldelta
+  ar: دلتا النيل
+  arc: ܫܦܠܘܗܝ ܕܢܝܠܘܣ
+  arz: دلتا النيل
+  av: Нилалъул делта
+  az: Nil deltası
+  be: Дэльта Ніла
+  be-tarask: Дэльта Нілу
+  bg: Делта на Нил
+  bh: नील डेल्टा
+  bs: Delta Nila
+  ca: Delta del Nil
+  ceb: Nile Delta
+  cs: Delta Nilu
+  da: Nildeltaet
+  de: Nildelta
+  el: Δέλτα του Νείλου
+  eo: Nildelto
+  es: Delta del Nilo
+  eu: Niloren delta
+  fa: دلتای نیل
+  fi: Niilin suisto
+  fr: Delta du Nil
+  ga: Deilt na Níle
+  gl: Delta do Nilo
+  he: הדלתא של הנילוס
+  hr: Delta Nila
+  hy: Նեղոսի դելտա
+  id: Delta Nil
+  is: Nílarósar
+  it: Delta del Nilo
+  ja: ナイル川デルタ
+  jv: Dèlta Kali Nil
+  ka: ნილოსის დელტა
+  kab: Asafi n Nnil
+  ko: 나일강 삼각주
+  la: Delta Nili
+  li: Nieldelta
+  lt: Nilo delta
+  lv: Nīlas delta
+  mg: Vinanihefak' i Nily
+  ml: നൈൽ ഡെൽറ്റ
+  ms: Delta Nil
+  nl: Nijldelta
+  nn: Nildeltaet
+  nb: Nildeltaet
+  pl: Delta Nilu
+  pt: Delta do Nilo
+  ro: Delta Nilului
+  ru: Дельта Нила
+  sh: Delta Nila
+  si: නයිල් ගංගා ඩෙල්ටාව
+  simple: Nile Delta
+  sk: Delta Nílu
+  sl: Delta Nila
+  sr: Делта Нила
+  sv: Nildeltat
+  sw: Delta ya Nile
+  ta: நைல் வடிநிலம்
+  th: ดินดอนสามเหลี่ยมปากแม่น้ำไนล์
+  tl: Sabangan ng Nilo
+  tr: Nil Deltası
+  uk: Дельта Нілу
+  ur: نیل ڈیلٹا
+  vi: Châu thổ sông Nin
+  war: Delta nga Nilo
+  wuu: 尼罗河三角洲
+  zh: 尼罗河三角洲
+  yue: 尼羅河三角洲
+link-titles:
+  abusir-lake-mariout: Abusir (Lake Mariout)
+  agnou: Agnou
+  agricultural: Agricultural
+  agricultural-land: Agricultural land
+  agriculture: Agriculture
+  alexandria: Alexandria
+  alexandria-governorate: Alexandria Governorate
+  amulet: Amulet
+  arabic-language: Arabic language
+  aristotle: Aristotle
+  aswan-dam: Aswan Dam
+  autumn: Autumn
+  avaris: Avaris
+  baltim: Baltim
+  beheira-governorate: Beheira Governorate
+  bilbeis: Bilbeis
+  bubastis: Bubastis
+  butic-lakeactioneditredlink1: Butic lake?action=edit&redlink=1
+  buto: Buto
+  cairo: Cairo
+  cairo-governorate: Cairo Governorate
+  canobus: Canobus
+  canopus-egypt: Canopus (Egypt)
+  cormorant: Cormorant
+  cyperus-papyrus: Cyperus papyrus
+  dakahlia-governorate: Dakahlia Governorate
+  damanhur: Damanhur
+  damietta: Damietta
+  damietta-governorate: Damietta Governorate
+  desouk: Desouk
+  distributary: Distributary
+  ecosystem: Ecosystem
+  egret: Egret
+  el-mahalla-el-kubra: El Mahalla El Kubra
+  el-mansoura: El Mansoura
+  faience: Faience
+  false-color: False color
+  fish-farm: Fish farm
+  flathead-grey-mullet: Flathead grey mullet
+  flavius-josephus: Flavius Josephus
+  flood-control: Flood control
+  flood-management: Flood management
+  flooding-of-the-nile: Flooding of the Nile
+  franck-goddio: Franck Goddio
+  frog: Frog
+  geomorphology: Geomorphology
+  george-of-cyprus-geographer: George of Cyprus (geographer)
+  gharbia-governorate: Gharbia Governorate
+  global-warming: Global warming
+  governorates-of-egypt: Governorates of Egypt
+  grey-heron: Grey heron
+  heracleion: Heracleion
+  herodotus: Herodotus
+  hippopotamus: Hippopotamus
+  hot-desert-climate: Hot desert climate
+  ibis: Ibis
+  international-space-station: International Space Station
+  ismailia-governorate: Ismailia Governorate
+  james-rennell: James Rennell
+  judea: Judea
+  kafr-el-sheikh: Kafr El Sheikh
+  kafr-el-sheikh-governorate: Kafr el-Sheikh Governorate
+  kentish-plover: Kentish plover
+  köppen-geiger-climate-classification-system: Köppen-Geiger climate classification system
+  lagoon: Lagoon
+  lake-burullus: Lake Burullus
+  lake-idku: Lake Idku
+  lake-manzala: Lake Manzala
+  lake-mariout: Lake Mariout
+  little-gull: Little gull
+  low-elevation-coastal-zone: Low Elevation Coastal Zone
+  lower-egypt: Lower Egypt
+  mansoura: Mansoura
+  mediterranean-sea: Mediterranean Sea
+  mendes: Mendes
+  mongoose: Mongoose
+  monufia-governorate: Monufia Governorate
+  mostafa-waziri: Mostafa Waziri
+  nasa: NASA
+  naqada-ii: Naqada II
+  nelumbo-nucifera: Nelumbo nucifera
+  nile: Nile
+  nile-crocodile: Nile crocodile
+  nile-monitor: Nile monitor
+  northern-coast-of-egypt: Northern coast of Egypt
+  northern-shoveler: Northern shoveler
+  pelusium: Pelusium
+  port-said: Port Said
+  port-said-governorate: Port Said Governorate
+  ptolemy: Ptolemy
+  ptolemy-ii: Ptolemy II
+  qalyubia-governorate: Qalyubia Governorate
+  river-delta: River delta
+  rosetta: Rosetta
+  rosetta-stone: Rosetta Stone
+  sais-egypt: Sais, Egypt
+  sea-level-rise: Sea level rise
+  sebennytos: Sebennytos
+  second-intermediate-period-of-egypt: Second Intermediate Period of Egypt
+  sharqia-governorate: Sharqia Governorate
+  shubra-el-kheima: Shubra El Kheima
+  silting: Silting
+  suez-canal: Suez Canal
+  suez-governorate: Suez Governorate
+  tanis: Tanis
+  tanis-egypt: Tanis, Egypt
+  tanta: Tanta
+  tinnis: Tinnis
+  titus: Titus
+  topsoil: Topsoil
+  tortoise: Tortoise
+  turtle: Turtle
+  vespasian: Vespasian
+  wadi-tumilat: Wadi Tumilat
+  whiskered-tern: Whiskered tern
+  winter: Winter
+  zagazig: Zagazig
+sections:
+  - level: 2
+    id: geography
+    title: Geography
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: ancient-branches-of-the-nile
+    title: Ancient branches of the Nile
+  - level: 4
+    id: george-of-cyprus-list
+    title: George of Cyprus list
+  - level: 4
+    id: butic-canal
+    title: Butic Canal
+  - level: 2
+    id: population
+    title: Population
+  - level: 2
+    id: wildlife
+    title: Wildlife
+  - level: 2
+    id: climate
+    title: Climate
+  - level: 2
+    id: sea-level-rise
+    title: Sea level rise
+  - level: 2
+    id: governorates-and-large-cities
+    title: Governorates and large cities
+source:
+  site: Wikipedia
+  lang: en
+  title: Nile Delta
+  url: https://en.wikipedia.org/wiki/Nile_Delta
+  page-id: 498611
+  revision: "1368797517"
+  modified: 2026-08-11T04:08:32Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Nile Delta"
+    (revision 1368797517), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nile_delta_landsat_false_color.jpg/250px-Nile_delta_landsat_false_color.jpg" height="188" width="250"
+
+  <figcaption>[[ NASA ]] satellite photograph of the Nile Delta (shown in [[ false color ]])
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nile_River_Delta_at_Night.JPG/250px-Nile_River_Delta_at_Night.JPG" height="166" width="250"
+
+  <figcaption>The Nile Delta at night as seen from the [[ ISS | international-space-station ]] in October 2010.
+
+The !!Nile Delta!! (Arabic: دلتا النيل, //Delta an-Nīl// or simply الدلتا,
+//ad-Delta//) is the [[ delta | river-delta ]] formed in [[ Lower Egypt ]]
+where the [[ Nile ]] River spreads out and drains into the
+[[ Mediterranean Sea ]].[[ ^1 ]] It is one of the world's largest deltas. From
+[[ Alexandria ]] in the west to [[ Port Said ]] in the east; it covers 240 km
+(150 mi) of the Mediterranean coastline and is a rich [[ agricultural ]]
+region.[[ ^2 ]] From north to south the delta is about 160 km (100 mi) long.
+The Delta begins from [[ Cairo ]].[[ ^3 ]]
+
+== Geography
+
+
+From north to south, the delta is about 160 km (100 mi) long. From west to
+east, it covers some 240 km (150 mi) of coastline. The delta is sometimes
+divided into sections, with the Nile dividing into two main
+[[ distributaries | distributary ]], the [[ Damietta ]] and the
+[[ Rosetta ]],[[ ^4 ]] flowing into the Mediterranean at port cities with the
+same names. In the past, the delta had several distributaries, but these have
+been lost due to [[ flood control | flood-management ]], silting, and changing
+relief. One such defunct distributary is [[ Wadi Tumilat ]].
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nile_River_and_delta_from_orbit.jpg/250px-Nile_River_and_delta_from_orbit.jpg" height="196" width="250"
+
+  <figcaption>Nile River and Delta
+
+The [[ Suez Canal ]] is east of the delta and enters the coastal
+[[ Lake Manzala ]] in the north-east of the delta. To the north-west are three
+other coastal lakes or lagoons: [[ Lake Burullus ]], [[ Lake Idku ]] and
+[[ Lake Mariout ]].
+
+The Nile is considered to be an "arcuate" delta (arc-shaped), as it resembles
+a triangle or flower when seen from above. [[ Aristotle ]] speculated that the
+delta was constructed for agricultural purposes due to the drying of the
+region of Egypt.[[ ^5 ]]
+
+In the modern day, the outer edges of the delta are eroding, and some coastal
+[[ lagoons | lagoon ]] have seen increasing salinity levels as their
+connection to the Mediterranean Sea increases. Because the delta no longer
+receives nutrients and sediments from upstream, thanks to the 1970 completion
+of the [[ Aswan Dam ]], the soils of the floodplains have become poorer, and
+large amounts of fertilizers are now used. [[ Topsoil ]] in the delta can be
+as much as 21 m (70 ft) in depth.
+
+== History
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nile_Delta_Surrounding.jpg/250px-Nile_Delta_Surrounding.jpg" height="232" width="250"
+
+  <figcaption>Ancient branches of the Nile, showing Wadi Tumilat, and the lakes east of the Delta
+
+People have lived in the Nile Delta region for thousands of years, and it has
+been intensively farmed for at least the past five thousand years. The delta
+was a major part of Lower Egypt, and many archaeological sites are located in
+and around the region.[[ ^6 ]] Artifacts belonging to ancient sites have been
+found on the delta's coast. The [[ Rosetta Stone ]] was found in the delta in
+1799 in the port city of Rosetta (an anglicized version of the name
+[[ Rashid | rosetta ]]). In July 2019 a small Greek temple, ancient granite
+columns, treasure-carrying ships, and bronze coins from the reign of
+[[ Ptolemy II ]], dating back to the third and fourth centuries BC, were found
+at the sunken city of [[ Heracleion ]], colloquially known as Egypt's
+Atlantis. The investigations were conducted by Egyptian and European divers
+led by the underwater archaeologist [[ Franck Goddio ]]. They also uncovered a
+devastated historic temple (the city's main temple) underwater off Egypt's
+north coast.[[ ^7 ]][[ ^8 ]][[ ^9 ]][[ ^10 ]]
+
+In January 2019, archaeologists led by [[ Mostafa Waziri ]] working in the Kom
+Al-Khelgan area of the Nile Delta discovered tombs from the
+[[ Second Intermediate Period | second-intermediate-period-of-egypt ]] and
+burials from the [[ Naqada II ]] era. The burial site contained the remains of
+animals, [[ amulets | amulet ]] and scarabs carved from [[ faience ]], round
+and oval pots with handles, flint knives, broken and burned pottery. All
+burials included skulls and skeletons in the bending position and were not
+very well-preserved.[[ ^11 ]][[ ^12 ]]
+
+=== Ancient branches of the Nile
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/AncientEgyptJamesRennell01.jpg/250px-AncientEgyptJamesRennell01.jpg" alt="Ancient Nile delta." height="277" width="250"
+
+  <figcaption>The Nile Delta at the time of [[ Herodotus ]], according to [[ James Rennell ]] (1800)
+
+Records from ancient times (such as by [[ Ptolemy ]]) reported that the delta
+had seven [[ distributaries | distributary ]] or branches, (from east to
+west):[[ ^4 ]]
+
+- the [[ Pelusiac | pelusium ]]
+- the [[ Tanitic | tanis ]]
+- the [[ Mendesian | mendes ]]
+- the Phatnitic or Phatmetic (later the [[ Damietta ]])
+- the [[ Sebennytic | sebennytos ]]
+- the Bolbitine (later the [[ Rosetta ]])[[ ^13 ]]
+- the [[ Canopic | canobus ]] (also called the Herakleotic,[[ ^14 ]] Agathodaemon[[ ^15 ]])
+
+==== [[ George of Cyprus | george-of-cyprus-geographer ]] list
+
+Source:[[ ^16 ]]
+
+- Alexandrian (Schedia canal)
+- Colynthin (Canopic)
+- [[ Agnu | agnou ]] (Rosetta)
+- Parollos ([[ Burullus | lake-burullus ]])
+- Chasmatos ([[ Baltim ]])
+- Tamiathe (Damietta)
+- Tenese ([[ Tinnis ]])
+
+Modern Egyptologists suggest that in the Pharaonic era there were at a time
+five main branches:[[ ^17 ]][[ ^18 ]]
+
+- the Pelusiac
+- the Sebennytic
+- the Canopic
+- the Damietta
+- the Rosetta
+
+The first three have dried up over the centuries due to [[ flood control ]],
+[[ silting ]] and changing relief, while the last two still exist today. The
+[[ Delta used to flood annually | flooding-of-the-nile ]], but this ended with
+the construction of the [[ Aswan Dam ]].
+
+==== Butic Canal
+
+Butic Canal, or Butic River, was an ancient east-west watercourse in the Nile
+Delta. It had a reconstructed length of about 185-200 km, which would make it
+the longest canal in Egypt.[[ ^19 ]] It did not pass by the town of
+[[ Buto ]], itself, but went south of it and the large Butic lake that almost
+reached the Mediterranean Sea.
+
+The earliest reference to this canal is in [[ Flavius Josephus ]]’ History of
+the Jewish War.[[ ^20 ]] It is only an indirect reference; Josephus is
+describing the events around 70 CE, during the reign of [[ Vespasian ]] and
+his son [[ Titus ]]. At that time, the Roman authorities moved troops from
+[[ Alexandria ]] to [[ Judea ]], partly by ship, in order to fight against the
+Jewish rebellion.
+
+Also, the 2nd century CE geographer [[ Ptolemy ]] described this canal as
+spanning the entire width of the delta from east to west.[[ ^21 ]] He calls
+this canal //Boutikos potamos//. It probably reached from [[ Pelusium ]] in
+the east, to Hermopolis Parva ([[ Damanhur ]]) in the west.
+
+According to Schiestl (2021), in the eastern delta, the canal is much better
+attested, and some portions of it have been located. But in the western delta,
+its traces are more difficult to find. He suggests that the eastern portion of
+the canal was much older, but the western portion was only completed in the
+
+Roman times.[[ ^19 ]]
+
+== Population
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Egypt_2010_population_density1.png/250px-Egypt_2010_population_density1.png" height="229" width="250"
+
+  <figcaption>Population density
+
+About 70 million people live in the Delta region. Outside of major cities,
+population density in the delta averages 1,000/km^^2^^ (2,600/sq mi) or more.
+[[ Cairo ]] is the largest city in the delta. Other large cities in the delta
+include [[ Shubra El Kheima ]], [[ Port Said ]], [[ El Mahalla El Kubra ]],
+[[ Mansura | el-mansoura ]], [[ Tanta ]], and [[ Zagazig ]].[[ ^22 ]]
+
+== Wildlife
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chlidonias_hybrida_3_%28Marek_Szczepanek%29.jpg/250px-Chlidonias_hybrida_3_%28Marek_Szczepanek%29.jpg" height="162" width="250"
+
+  <figcaption>[[ Whiskered tern ]]
+
+During [[ autumn ]], parts of the Nile River are red with
+[[ lotus flowers | nelumbo-nucifera ]]. The Lower Nile (North) and the Upper
+Nile (South) have plants that grow in abundance. The Upper Nile plant is the
+Egyptian lotus, and the Lower Nile plant is the Papyrus Sedge
+(//[[ Cyperus papyrus ]]//), although it is not nearly as plentiful as it once
+was, and is becoming quite rare.[[ ^23 ]]
+
+Several hundred thousand water birds spend their winter in the delta,
+including the world's largest concentrations of
+[[ little gulls | little-gull ]] and [[ whiskered terns | whiskered-tern ]].
+Other birds making their homes in the delta include
+[[ grey herons | grey-heron ]], [[ Kentish plovers | kentish-plover ]],
+[[ shovelers | northern-shoveler ]], [[ cormorants | cormorant ]],
+[[ egrets | egret ]] and [[ ibises | ibis ]].
+
+Other animals found in the delta include [[ frogs | frog ]],
+[[ turtles | turtle ]], [[ tortoises | tortoise ]],
+[[ mongooses | mongoose ]], and the [[ Nile monitor ]].
+[[ Nile crocodiles | nile-crocodile ]] and [[ hippopotamus ]], two animals
+which were widespread in the delta during antiquity, are no longer found
+there. Fish found in the delta include the [[ flathead grey mullet ]] and
+soles.
+
+== Climate
+
+The Delta has a [[ hot desert climate ]]
+([[ Köppen | köppen-geiger-climate-classification-system ]]: //BWh//) as the
+rest of Egypt, but its northernmost part, as is the case with the rest of the
+[[ northern coast of Egypt ]] which is the wettest region in the country, has
+relatively moderate temperatures, with highs usually not surpassing 31 °C
+(88 °F) in the summer. Only 100–200 mm (4–8 in) of rain falls on the delta
+area during an average year, and most of this falls in the winter months. The
+delta experiences its hottest temperatures in July and August, with a maximum
+average of 34 °C (93 °F). Winter temperatures normally range from 9 °C (48 °F)
+at nights to 19 °C (66 °F) in the daytime. With cooler temperatures and some
+rain, the Nile Delta region becomes quite humid during the [[ winter ]]
+months.[[ ^24 ]][[ ^25 ]]
+
+== Sea level rise
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306559%29.jpg/250px-Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306559%29.jpg" height="191" width="250"
+
+  <figcaption>Population density and [[ low elevation coastal zones | low-elevation-coastal-zone ]]. The Nile Delta is especially vulnerable to [[ sea level rise ]].
+
+Egypt's Mediterranean coastline loses land to the sea, in some places to 90 m
+(100 yd) a year. The low-lying Nile Delta area in particular is vulnerable to
+[[ sea level rise ]] associated with [[ global warming ]].[[ ^26 ]] This
+effect is exacerbated by the lack of sediments being deposited since the
+construction of the [[ Aswan Dam ]]. If the polar ice caps were to melt, much
+of the northern delta, including the ancient port city of [[ Alexandria ]],
+could disappear under the Mediterranean. A 30 cm (12 in) rise in sea level
+could affect about 6.6% of the total land cover area in the Nile Delta region.
+At 1 m (3 ft 3 in) sea level rise, an estimated 887 thousand people could be
+at risk of flooding and displacement and about 100 km^^2^^ (40 sq mi) of
+vegetation, 16 km^^2^^ (10 sq mi) wetland, 402 km^^2^^ (160 sq mi) cropland,
+and 47 km^^2^^ (20 sq mi) of urban area land could be destroyed,[[ ^27 ]]
+flooding about 450 km^^2^^ (170 sq mi).[[ ^28 ]] Some areas of the Nile
+Delta's [[ agricultural land ]] have been rendered saline by sea level rise;
+farming has been abandoned in some places, while in others sand has been
+brought in to reduce the effect. In addition to [[ agriculture ]], the delta's
+[[ ecosystems | ecosystem ]] and tourist industry could be hurt by global
+warming. Food shortages resulting from climate change could lead to seven
+million "climate refugees" by the end of the 21st century. Nevertheless,
+environmental damage to the delta is not currently one of Egypt's
+priorities.[[ ^29 ]]
+
+The delta's coastline has also undergone changes in [[ geomorphology ]] as a
+result of the reclamation of coastal dunes and lagoons to form new
+agricultural land and [[ fish farms | fish-farm ]] as well as the expansion of
+coastal urban areas.[[ ^30 ]]
+
+== Governorates and large cities
+
+The Nile Delta forms part of these [[ governorates | governorates-of-egypt ]]:
+
+- [[ Cairo | cairo-governorate ]]
+- [[ Alexandria | alexandria-governorate ]]
+- [[ Beheira | beheira-governorate ]]
+- [[ Kafr el Sheikh | kafr-el-sheikh-governorate ]]
+- [[ Gharbiya | gharbia-governorate ]]
+- [[ Minufiya | monufia-governorate ]]
+- [[ Qalyubiya | qalyubia-governorate ]]
+- [[ Dakahlia | dakahlia-governorate ]]
+- [[ Damietta | damietta-governorate ]]
+- [[ Sharqiyah | sharqia-governorate ]]
+- [[ Port Said | port-said-governorate ]]
+- [[ Ismailia | ismailia-governorate ]]
+- [[ Suez | suez-governorate ]]
+
+Large cities located in the Nile Delta:
+
+- [[ Cairo ]]
+- [[ Abusir | abusir-lake-mariout ]]
+- [[ Alexandria ]]
+- [[ Avaris ]]
+- [[ Bilbeis ]]
+- [[ Bubastis ]]
+- [[ Canopus | canopus-egypt ]]
+- [[ Damanhur ]]
+- [[ Desouk ]]
+- [[ Damietta ]]
+- [[ El Mahalla El Kubra ]]
+- [[ Kafr El Sheikh ]]
+- [[ Mendes ]]
+- [[ Mansoura ]]
+- [[ Pelusium ]]
+- [[ Port Said ]]
+- [[ Rosetta ]]
+- [[ Sais | sais-egypt ]]
+- [[ Tanis | tanis-egypt ]]
+- [[ Tanta ]]
+- [[ Zagazig ]]
+
+[[ ^1 ]]: Dumont, Henri J. (6 May 2009). [[ //The Nile: Origin, Environments, Limnology and Human Use// | https://books.google.com/books?id=iF_U1NoknHoC&pg=PA88 ]]. Springer Science & Business Media. p. 88. ISBN [[ 978-1-4020-9726-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4020-9726-3 ]].
+
+[[ ^2 ]]: Negm, Abdelazim M. (25 May 2017). [[ //The Nile Delta// | https://books.google.com/books?id=2YQlDwAAQBAJ&pg=PA36 ]]. Springer. p. 36. ISBN [[ 978-3-319-56124-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-319-56124-0 ]].
+
+[[ ^3 ]]: [[ //Zeidan, Bakenaz. (2006). The Nile Delta in a global vision. Sharm El-Sheikh.// | https://web.archive.org/web/20200710041833/https://www.researchgte.net/publication/228920048 ]], archived from [[ the original | https://www.researchgte.net/publication/228920048 ]] on 10 July 2020, retrieved 10 July 2020
+
+[[ ^4 ]]: John Cooper (30 September 2014). [[ //The Medieval Nile: Route, Navigation, and Landscape in Islamic Egypt// | https://books.google.com/books?id=hYWlBAAAQBAJ&pg=PA34 ]]. The American University in Cairo Press. p. 76. ISBN [[ 978-977-416-614-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-977-416-614-3 ]].
+
+[[ ^5 ]]: Holz, Robert K (1969). //Man-made landforms in the Nile delta//. American Geographical Society. OCLC [[ 38826202 | https://search.worldcat.org/oclc/38826202 ]].
+
+[[ ^6 ]]: [[ Location of the site | http://www.e-c-h-o.org/khd/location.html ]] Archived 15 January 2010 at the [[ Wayback Machine ]], Kafr Hassan Dawood On-Line, with a map of early sites of the delta.
+
+[[ ^7 ]]: [[ "Mysterious temple discovered in the ruins of sunken ancient city" | https://www.9news.com.au/world/ancient-egypt-news-underwater-archaeologist-discovery-treasures--subaquatic-temple-city-of-heracleion/265ba5c2-d31d-4e80-9487-d4475f86b8a3 ]]. //www.9news.com.au//. 26 July 2019. Retrieved 17 August 2019.
+
+[[ ^8 ]]: History, Laura Geggel 2019-07-29T10:37:58Z (29 July 2019). [[ "Divers Find Remains of Ancient Temple in Sunken Egyptian City" | https://www.livescience.com/66045-underwater-ancient-egypt-city-temple.html ]]. //livescience.com//. Retrieved 17 August 2019.``\{{cite web}}``:  CS1 maint: numeric names: authors list ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_numeric_names%3A_authors_list ]])
+
+[[ ^9 ]]: Santos, Edwin (28 July 2019). [[ "Archaeologists discover a sunken ancient settlement underwater" | https://web.archive.org/web/20190817155916/https://nosymedia.info/archaeologists-discover-a-sunken-ancient-settlement-underwater/1410/ ]]. //Nosy Media//. Archived from [[ the original | https://nosymedia.info/archaeologists-discover-a-sunken-ancient-settlement-underwater/1410/ ]] on 17 August 2019. Retrieved 17 August 2019.
+
+[[ ^10 ]]: EDT, Katherine Hignett On 7/23/19 at 11:06 AM (23 July 2019). [[ "Ancient Egypt: Underwater archaeologists uncover destroyed temple in the sunken city of Heracleion" | https://www.newsweek.com/ancient-egypt-underwater-cities-sunken-cities-temple-coins-jewelry-archaeology-1450695 ]]. //Newsweek//. Retrieved 17 August 2019.``\{{cite web}}``:  CS1 maint: numeric names: authors list ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_numeric_names%3A_authors_list ]])
+
+[[ ^11 ]]: [[ "3,500-Year-Old Tombs Unearthed in Egypt's Nile Delta - Archaeology Magazine" | https://archaeology.org/news/2019/01/24/190124-nile-delta-tombs/ ]]. //www.archaeology.org//. 24 January 2019. Retrieved 11 September 2020.
+
+[[ ^12 ]]: [[ "Ancient tombs and prehistoric burials found in Nile Delta - Ancient Egypt - Heritage" | http://english.ahram.org.eg/NewsContent/9/40/322326/Heritage/Ancient-Egypt/Ancient-tombs-and-prehistoric-burials-found-in-Nil.aspx ]]. //Ahram Online//. Retrieved 11 September 2020.
+
+[[ ^13 ]]: Hayes, W. 'Most Ancient Egypt', p. 87, //[[ Journal of Near Eastern Studies ]]//, 23 (1964), 73–114.
+
+[[ ^14 ]]: e.g. at [[ Callisthenes ]] Alexander 1.31.
+
+[[ ^15 ]]: e.g. in Ptolemy, //Geography//.
+
+[[ ^16 ]]: Cooper, John Peter (2008). //The Medieval Nile: Route, navigation and landscape in Islamic Egypt//. p. 34.
+
+[[ ^17 ]]: Shaw, Ian; Nicholson, Paul (1995). //The Dictionary of Ancient Egypt//. London: [[ British Museum Press ]]. p. 83.
+
+[[ ^18 ]]: Margaret Bunson, //Encyclopedia of Ancient Egypt//. Infobase Publishing, 2009, ISBN [[ 1438109970 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1438109970 ]], p. 98.
+
+[[ ^19 ]]: Schiestl, Robert (26 January 2021). [[ "A new look at the Butic Canal, Egypt" | https://doi.org/10.5194%2Fegqsj-70-29-2021 ]]. //E&G Quaternary Science Journal//. !!70!! (1): 29–38. doi:[[ 10.5194/egqsj-70-29-2021 | https://doi.org/10.5194%2Fegqsj-70-29-2021 ]]. ISSN [[ 2199-9090 | https://search.worldcat.org/issn/2199-9090 ]].
+
+[[ ^20 ]]: Josephus BI,IV, 11, 5
+
+[[ ^21 ]]: The Geography by Ptolemy, 4, 5, 44
+
+[[ ^22 ]]: [[ City Population website | http://www.citypopulation.de/Egypt.html ]], citing Central Agency for Public Mobilisation and Statistics Egypt (web), accessed 11 April 1908.
+
+[[ ^23 ]]: Beentje, H.J.; Lansdown, R.V. (2018). [[ "//Cyperus papyrus//" | https://www.iucnredlist.org/species/164158/120152171 ]]. //[[ IUCN Red List of Threatened Species | iucn-red-list ]]//. !!2018!! e.T164158A120152171. doi:[[ 10.2305/IUCN.UK.2018-2.RLTS.T164158A120152171.en | https://doi.org/10.2305%2FIUCN.UK.2018-2.RLTS.T164158A120152171.en ]]. Retrieved 11 November 2021.
+
+[[ ^24 ]]: [[ //Nile Delta Facts// | https://sciencing.com/nile-delta-7289614.html ]], 24 April 2017
+
+[[ ^25 ]]: [[ "Blue Green Atlas - The Climate of Egypt" | https://bluegreenatlas.com/climate/egypt_climate.html ]]. //bluegreenatlas.com//. Retrieved 3 March 2026.
+
+[[ ^26 ]]: [[ "Global Warming Threatens Egypt's Coastlines and the Nile Delta" | https://web.archive.org/web/20110929143417/http://www.ecoworld.com/global-warming/global-warming-egypt.html ]]. //EcoWorld//. 25 September 2009. Archived from [[ the original | http://www.ecoworld.com/global-warming/global-warming-egypt.html ]] on 29 September 2011. Retrieved 22 August 2019.
+
+[[ ^27 ]]: Hasan, Emad; Khan, Sadiq Ibrahim; Hong, Yang (2015). "Investigation of potential sea level rise impact on the Nile Delta, Egypt using digital elevation models". //Environmental Monitoring and Assessment//. !!187!! (10): 649. Bibcode:[[ 2015EMnAs.187..649H | https://ui.adsabs.harvard.edu/abs/2015EMnAs.187..649H ]]. doi:[[ 10.1007/s10661-015-4868-9 | https://doi.org/10.1007%2Fs10661-015-4868-9 ]]. PMID [[ 26410824 | https://pubmed.ncbi.nlm.nih.gov/26410824 ]]. S2CID [[ 207139887 | https://api.semanticscholar.org/CorpusID:207139887 ]].
+
+[[ ^28 ]]: [[ "Egypt's Nile Delta falls prey to climate change" | http://www.alarabiya.net/articles/2010/01/28/98672.html ]]. 28 January 2010.
+
+[[ ^29 ]]: [[ "Egypt fertile Nile Delta falls prey to climate change" | https://web.archive.org/web/20110209093815/http://news.egypt.com/en/201001288902/news/-egypt-news/egypt-fertile-nile-delta-falls-prey-to-climate-change.html ]]. //Egypt News//. 28 January 2010. Archived from [[ the original | http://news.egypt.com/en/201001288902/news/-egypt-news/egypt-fertile-nile-delta-falls-prey-to-climate-change.html ]] on 9 February 2011. Retrieved 22 August 2019.
+
+[[ ^30 ]]: El Banna, Mahmoud M.; Frihy, Omran E. (2009). "Human-induced changes in the geomorphology of the northeastern coast of the Nile delta, Egypt". //Geomorphology//. !!107!! (1): 72–78. Bibcode:[[ 2009Geomo.107\...72E | https://ui.adsabs.harvard.edu/abs/2009Geomo.107...72E ]]. doi:[[ 10.1016/j.geomorph.2007.06.025 | https://doi.org/10.1016%2Fj.geomorph.2007.06.025 ]].

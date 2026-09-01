@@ -1,0 +1,1905 @@
++++
+title: Ancient Egyptian religion
+images:
+  - file: God_Min,_Temple_of_Koptos,_circa_3300_BCE_(reconstruction_drawing_and_existing_pieces_I,_II_and_III).png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/God_Min%2C_Temple_of_Koptos%2C_circa_3300_BCE_%28reconstruction_drawing_and_existing_pieces_I%2C_II_and_III%29.png/250px-God_Min%2C_Temple_of_Koptos%2C_circa_3300_BCE_%28reconstruction_drawing_and_existing_pieces_I%2C_II_and_III%29.png
+    width: 1493
+    height: 2434
+    caption: Reconstruction of the Koptos colossi, pre-dynastic colossal statues of
+      the God Min, Koptos, Late Naqada II- Early Naqada III, about 3300 BC.
+  - file: Narmer_Palette_smiting_side.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Narmer_Palette_smiting_side.jpg/250px-Narmer_Palette_smiting_side.jpg
+    width: 2295
+    height: 3388
+    caption: The Narmer Palette. The face of a woman with the horns and ears of a
+      cow, representing Bat or Hathor, appears twice at the top of the palette,
+      and a falcon representing Horus appears to the right of the palette.
+  - file: Pyramide_Djedkare_elevation.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pyramide_Djedkare_elevation.jpg/250px-Pyramide_Djedkare_elevation.jpg
+    width: 1099
+    height: 662
+    caption: The pyramid complex of Djedkare Isesi
+  - file: La_salle_dAkhenaton_(1356-1340_av_J.C.)_(Musée_du_Caire)_(2076972086).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_salle_dAkhenaton_%281356-1340_av_J.C.%29_%28Mus%C3%A9e_du_Caire%29_%282076972086%29.jpg/250px-La_salle_dAkhenaton_%281356-1340_av_J.C.%29_%28Mus%C3%A9e_du_Caire%29_%282076972086%29.jpg
+    width: 1150
+    height: 1448
+    caption: Akhenaten and his family worshipping the Aten
+  - file: Copper_alloy_statues.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Copper_alloy_statues.jpg/250px-Copper_alloy_statues.jpg
+    width: 3830
+    height: 5745
+    caption: Copper-alloy statuettes of Anubis (left) and Horus (centre) as Roman
+      officers with contrapposto stances (National Archaeological Museum,
+      Athens)
+  - file: Marble_statue_of_Isis,_the_goddess_holds_a_situla_and_sistrum,_ritual_implements_used_in_her_worship,_from_117_until_138_AD,_found_at_Hadrian's_Villa_(Pantanello),_Palazzo_Nuovo,_Capitoline_Museums_(12945630725).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Marble_statue_of_Isis%2C_the_goddess_holds_a_situla_and_sistrum%2C_ritual_implements_used_in_her_worship%2C_from_117_until_138_AD%2C_found_at_Hadrian%27s_Villa_%28Pantanello%29%2C_Palazzo_Nuovo%2C_Capitoline_Museums_%2812945630725%29.jpg/250px-thumbnail.jpg
+    width: 2878
+    height: 4851
+    caption: Distinctively Roman statue of Isis holding a sistrum and a situla
+  - file: Philae_Temple_of_Isis_coptic_cross_1.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Philae_Temple_of_Isis_coptic_cross_1.JPG/250px-Philae_Temple_of_Isis_coptic_cross_1.JPG
+    width: 2592
+    height: 3888
+    caption: Coptic Christian Cross on a column in the ancient Egyptian Temple of Philae
+  - file: Th_oltar.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Th_oltar.JPG/250px-Th_oltar.JPG
+    width: 2621
+    height: 1251
+    caption: Altar to Thoth of a Kemetic follower
+  - file: La_Tombe_de_Horemheb_cropped.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/La_Tombe_de_Horemheb_cropped.jpg/250px-La_Tombe_de_Horemheb_cropped.jpg
+    width: 372
+    height: 514
+    caption: The gods Osiris, Anubis, and Horus in the Tomb of Horemheb (KV57) in
+      the Valley of the Kings
+  - file: Casa_degli_Amorini_Dorati._Fresco._09.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Casa_degli_Amorini_Dorati._Fresco._09.JPG/330px-Casa_degli_Amorini_Dorati._Fresco._09.JPG
+    width: 5184
+    height: 3456
+    caption: Anubis, Harpocrates, Isis and Serapis, antique fresco in Pompeii, Italy
+  - file: Sunrise_at_Creation.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sunrise_at_Creation.jpg/250px-Sunrise_at_Creation.jpg
+    width: 1840
+    height: 1232
+    caption: The sun rises over the circular mound of creation as goddesses pour out
+      the primeval waters around it
+  - file: Nun_Raises_the_Sun.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nun_Raises_the_Sun.jpg/250px-Nun_Raises_the_Sun.jpg
+    width: 1280
+    height: 1720
+    caption: Nun lifts the solar barque with the new-born sun from the waters of
+      creation.
+  - file: Ägyptisches_Museum_Kairo_2016-03-29_Chephren_03.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%C3%84gyptisches_Museum_Kairo_2016-03-29_Chephren_03.jpg/330px-%C3%84gyptisches_Museum_Kairo_2016-03-29_Chephren_03.jpg
+    width: 4905
+    height: 3270
+    caption: Statue of Khafre, an Old Kingdom pharaoh, embraced by Horus
+  - file: Le_roi_Ramsès_parmi_les_dieux_(Louvre,_B_13).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Le_roi_Rams%C3%A8s_parmi_les_dieux_%28Louvre%2C_B_13%29.jpg/250px-Le_roi_Rams%C3%A8s_parmi_les_dieux_%28Louvre%2C_B_13%29.jpg
+    width: 2816
+    height: 2112
+    caption: Horus offers life to the pharaoh, Ramesses II. Painted limestone. c.
+      1275 BC. 19th dynasty. From the small temple built by Ramses II in Abydos.
+      Louvre museum, Paris, France.
+  - file: GuardianStatueofAmenemhmatII.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GuardianStatueofAmenemhmatII.jpg/250px-GuardianStatueofAmenemhmatII.jpg
+    width: 895
+    height: 1200
+    caption: A figure wearing the red crown of Lower Egypt and whose face appears to
+      reflect the features of the reigning king, most probably Amenemhat II or
+      Senwosret II. It functioned as a divine guardian for the imiut.
+  - file: The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg/500px-The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
+    width: 2446
+    height: 1112
+    caption: The Weighing of the Heart in the Hall of Maat as depicted in the
+      Papyrus of Hunefer (19th Dynasty, c. 1300 BCE)
+  - file: Maat.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Maat.jpg/250px-Maat.jpg
+    width: 351
+    height: 525
+    caption: Ma'at wearing the feather of truth
+  - file: Relief_depicting_Akhenaton_and_Nefertiti_with_three_of_their_daughters_under_the_rays_of_Aton_01_(cropped).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Relief_depicting_Akhenaton_and_Nefertiti_with_three_of_their_daughters_under_the_rays_of_Aton_01_%28cropped%29.jpg/250px-Relief_depicting_Akhenaton_and_Nefertiti_with_three_of_their_daughters_under_the_rays_of_Aton_01_%28cropped%29.jpg
+    width: 3270
+    height: 2759
+    caption: Relief depicting Akhenaten and Nefertiti with three of their daughters
+      under the rays of Aten.
+  - file: Book_of_Gates_Barque_of_Ra_cropped.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Book_of_Gates_Barque_of_Ra_cropped.jpg/330px-Book_of_Gates_Barque_of_Ra_cropped.jpg
+    width: 355
+    height: 215
+    caption: Ra (at center) travels through the underworld in his barque,
+      accompanied by other gods
+  - file: Abydos_Tempelrelief_Sethos_I._36.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Abydos_Tempelrelief_Sethos_I._36.JPG/330px-Abydos_Tempelrelief_Sethos_I._36.JPG
+    width: 4344
+    height: 3256
+    caption: Wall relief depicting the Osiris myth. Isis, in the form of a bird,
+      copulates with the deceased Osiris. At either side are Horus, although he
+      is as yet unborn, and Isis in human form.
+  - file: El_pesado_del_corazón_en_el_Papiro_de_Hunefer.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg/330px-El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg
+    width: 1035
+    height: 651
+    caption: Section of the Book of the Dead for the scribe Hunefer, depicting the
+      Weighing of the Heart.
+  - file: Philae_temple_at_night.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Philae_temple_at_night.jpg/330px-Philae_temple_at_night.jpg
+    width: 2458
+    height: 1517
+    caption: First pylon and colonnade of the Temple of Isis at Philae
+  - file: Re-Horakhty_Stela.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Re-Horakhty_Stela.jpg/250px-Re-Horakhty_Stela.jpg
+    width: 1790
+    height: 2132
+    caption: Ancient Egyptian wooden stela depicting Lady Djedkhonsuiwesankh giving
+      offerings of food, drink, and flowers to Re-Horakhty
+  - file: Apis_bull_on_coffin.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Apis_bull_on_coffin.jpg/250px-Apis_bull_on_coffin.jpg
+    width: 1063
+    height: 1061
+    caption: The Apis bull
+  - file: Wedjat_(Udjat)_Eye_of_Horus_pendant.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Eye_of_Ra_pendant.jpg/250px-Eye_of_Ra_pendant.jpg
+    width: 866
+    height: 650
+    caption: Amulet in the shape of the Eye of Horus, a common magical symbol
+  - file: Opening_of_the_mouth_ceremony.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Opening_of_the_mouth_ceremony.jpg/330px-Opening_of_the_mouth_ceremony.jpg
+    width: 2168
+    height: 1775
+    caption: The Opening of the Mouth ceremony being performed before the tomb
+wikidata:
+  id: Q447131
+  label: religion of ancient Egypt
+  description: system of polytheistic beliefs and rituals of ancient Egyptian
+  claims:
+    topic-s-main-category: Category:Ancient Egyptian religion
+    instance-of: religion
+    described-by-source: Armenian Soviet Encyclopedia, vol. 3
+    image:
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Philae_temple_at_night.jpg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Geb%2C_Nut%2C_Shu.jpg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Eye_of_Ra_pendant.jpg
+    commons-category: Religion in ancient Egypt
+    location-of-formation: Land of Punt
+    subclass-of: Puntic polytheism
+    influenced-by: Puntic polytheism
+    part-of: Egyptian mythology
+categories:
+  - Ancient Egyptian religion
+langlinks:
+  gsw: Altägyptische Religion
+  ar: ديانة قدماء المصريين
+  arz: الدين المصرى القديم
+  ast: Relixón del Antiguu Exiptu
+  az: Qədim Misir dini
+  be: Рэлігія Старажытнага Егіпта
+  bn: প্রাচীন মিশরীয় ধর্ম
+  ca: Religió de l'antic Egipte
+  cs: Egyptské náboženství
+  cv: Авалхи Египет тĕнĕ
+  da: Egyptisk religion
+  de: Altägyptische Religion
+  el: Αρχαία αιγυπτιακή θρησκεία
+  eo: Religio de Antikva Egiptio
+  es: Religión del Antiguo Egipto
+  et: Egiptuse jumalad
+  eu: Antzinako Egiptoko erlijioa
+  fa: دین مصر باستان
+  fi: Muinaisen Egyptin uskonto
+  fr: Religion de l'Égypte antique
+  gl: Relixión exipcia antiga
+  gv: Jeeghyn Egyptagh
+  he: דת מצרים העתיקה
+  hi: मिस्र का धर्म
+  hu: Ókori egyiptomi vallás
+  hy: Եգիպտական դիցաբանություն
+  id: Agama Mesir kuno
+  is: Fornegypsk trúarbrögð
+  it: Religione egizia
+  ja: 古代エジプトの宗教
+  kn: ಈಜಿಪ್ತಿನ ಪುರಾತನ ಸಾಹಿತ್ಯ
+  ko: 고대 이집트 종교
+  la: Religio Aegyptia
+  mad: Aghâma Mesir kona
+  min: Ugamo Mesir Kuno
+  ms: Agama Mesir purba
+  ne: प्राचीन मिस्री धर्म
+  nb: Oldtidens egyptiske religion
+  pl: Religia starożytnego Egiptu
+  pnb: پراݨا مصری مذہب
+  ps: د لرغوني مصر دین
+  pt: Religião no Antigo Egito
+  ro: Religia egipteană antică
+  ru: Древнеегипетская религия
+  si: පුරාතන ඊජිප්තියානු ආගම
+  simple: Religion of ancient Egypt
+  sk: Náboženstvo starovekého Egypta
+  sl: Egipčanska religija
+  sq: Feja e lashtë egjiptiane
+  sr: Староегипатска религија
+  sv: Fornegyptisk religion
+  ta: பண்டைய எகிப்தின் சமயம்
+  tg: Дини Мисри Бостон
+  th: ศาสนาอียิปต์โบราณ
+  tr: Antik Mısır dini
+  tt: Борынгы Мисыр дине
+  uk: Релігія Стародавнього Єгипту
+  ur: قدیم مصری مذہب
+  uz: Qadimgi Misr dini
+  vi: Tôn giáo Ai Cập cổ đại
+  zh: 古埃及宗教
+link-titles:
+  abydos-egypt: Abydos, Egypt
+  abyssal-zone: Abyssal zone
+  afterlife: Afterlife
+  akhenaten: Akhenaten
+  amarna: Amarna
+  amarna-period: Amarna Period
+  amduat: Amduat
+  amenemhat-ii: Amenemhat II
+  amr-ibn-al-as: Amr ibn al-As
+  amulet: Amulet
+  amun: Amun
+  ancient-egypt: Ancient Egypt
+  ancient-egyptian-concept-of-the-soul: Ancient Egyptian concept of the soul
+  ancient-egyptian-creation-myths: Ancient Egyptian creation myths
+  ancient-egyptian-deities: Ancient Egyptian deities
+  ancient-egyptian-funerary-practices: Ancient Egyptian funerary practices
+  ancient-egyptian-funerary-texts: Ancient Egyptian funerary texts
+  ancient-egyptian-history: Ancient Egyptian history
+  ancient-egyptian-mythology: Ancient Egyptian mythology
+  ancient-egyptian-retainer-sacrifices: Ancient Egyptian retainer sacrifices
+  ancient-mesopotamian-religion: Ancient Mesopotamian religion
+  ankh: Ankh
+  anubis: Anubis
+  apep: Apep
+  apis-deity: Apis (deity)
+  art-of-ancient-egypt: Art of ancient Egypt
+  ashmolean-museum: Ashmolean Museum
+  assessors-of-maat: Assessors of Ma'at
+  aten: Aten
+  atenism: Atenism
+  atum: Atum
+  bat-goddess: Bat (goddess)
+  bes: Bes
+  book-of-caverns: Book of Caverns
+  book-of-gates: Book of Gates
+  book-of-the-dead: Book of the Dead
+  byzantine-empire: Byzantine Empire
+  cat: Cat
+  christianity: Christianity
+  classical-antiquity: Classical antiquity
+  coffin-texts: Coffin Texts
+  contrapposto: Contrapposto
+  coronation-of-the-pharaoh: Coronation of the pharaoh
+  cosmic-ocean: Cosmic ocean
+  cosmos: Cosmos
+  cult-image: Cult image
+  desiccation: Desiccation
+  dioscorus-of-aphrodito: Dioscorus of Aphrodito
+  djedkare-isesi: Djedkare Isesi
+  duat: Duat
+  early-dynastic-period-egypt: Early Dynastic Period (Egypt)
+  egypt-roman-province: Egypt (Roman province)
+  egyptian-language: Egyptian language
+  egyptian-prehistory: Egyptian prehistory
+  egyptian-temple: Egyptian temple
+  egyptologists: Egyptologists
+  elysium: Elysium
+  embalming: Embalming
+  ennead: Ennead
+  epithet: Epithet
+  eritrea: Eritrea
+  eye-of-horus: Eye of Horus
+  fifth-dynasty: Fifth Dynasty
+  first-intermediate-period: First Intermediate Period
+  flinders-petrie: Flinders Petrie
+  french-campaign-in-egypt-and-syria: French campaign in Egypt and Syria
+  geb: Geb
+  harpocrates: Harpocrates
+  heka-god: Heka (god)
+  heliopolis-ancient-egypt: Heliopolis (ancient Egypt)
+  hell: Hell
+  hellenistic-period: Hellenistic period
+  henotheism: Henotheism
+  hermanubis: Hermanubis
+  hermeticism: Hermeticism
+  horus: Horus
+  hunefer: Hunefer
+  imhotep: Imhotep
+  imiut-fetish: Imiut fetish
+  io-mythology: Io (mythology)
+  isfet-egyptian-mythology: Isfet (Egyptian mythology)
+  isis: Isis
+  islam: Islam
+  james-peter-allen: James Peter Allen
+  justinian-i: Justinian I
+  kv57: KV57
+  karnak: Karnak
+  kemetism: Kemetism
+  khafre: Khafre
+  koptos: Koptos
+  koptos-colossi: Koptos colossi
+  land-of-punt: Land of Punt
+  late-antiquity: Late antiquity
+  lector-priest: Lector priest
+  louvre-museum: Louvre museum
+  maat: Maat
+  mastaba: Mastaba
+  memphis-egypt: Memphis, Egypt
+  middle-kingdom-of-egypt: Middle Kingdom of Egypt
+  min-god: Min (god)
+  min-symbol-hieroglyph: Min symbol (hieroglyph)
+  modern-paganism: Modern paganism
+  monolatry: Monolatry
+  montu: Montu
+  mortuary-temple: Mortuary temple
+  mummy: Mummy
+  naming-ceremony: Naming ceremony
+  naqada-ii: Naqada II
+  naqada-iii: Naqada III
+  narmer: Narmer
+  narmer-palette: Narmer Palette
+  narses: Narses
+  national-archaeological-museum-athens: National Archaeological Museum, Athens
+  nekhen: Nekhen
+  new-kingdom-of-egypt: New Kingdom of Egypt
+  nile-flood: Nile flood
+  nu-mythology: Nu (mythology)
+  nubia: Nubia
+  nut-goddess: Nut (goddess)
+  old-kingdom-of-egypt: Old Kingdom of Egypt
+  opening-of-the-mouth-ceremony: Opening of the mouth ceremony
+  opet-festival: Opet Festival
+  oracle: Oracle
+  osiris: Osiris
+  osiris-myth: Osiris myth
+  papyrus: Papyrus
+  papyrus-of-hunefer: Papyrus of Hunefer
+  persecution-of-pagans-in-the-late-roman-empire: Persecution of pagans in the late Roman Empire
+  pharaoh: Pharaoh
+  philae: Philae
+  philae-temple-complex: Philae temple complex
+  plutarch: Plutarch
+  polytheism: Polytheism
+  pompeii: Pompeii
+  precinct-of-amun-re: Precinct of Amun-Re
+  prehistoric-egypt: Prehistoric Egypt
+  primordial-ocean: Primordial ocean
+  priscus: Priscus
+  procopius: Procopius
+  ptah: Ptah
+  ptolemaic-dynasty: Ptolemaic dynasty
+  pylon-architecture: Pylon (architecture)
+  pyramid: Pyramid
+  pyramid-texts: Pyramid Texts
+  ra: Ra
+  ramesses-ii: Ramesses II
+  red-sea: Red Sea
+  rock-cut-tomb: Rock-cut tomb
+  roman-egypt: Roman Egypt
+  roman-empire: Roman Empire
+  second-intermediate-period-of-egypt: Second Intermediate Period of Egypt
+  sed-festival: Sed festival
+  senwosret-ii: Senwosret II
+  serapis: Serapis
+  set-deity: Set (deity)
+  shu-egyptian-god: Shu (Egyptian god)
+  solar-barque: Solar barque
+  sphinx: Sphinx
+  stele: Stele
+  sympathetic-magic: Sympathetic magic
+  syncretism: Syncretism
+  taweret: Taweret
+  the-indestructibles: The Indestructibles
+  thebaid: Thebaid
+  thebes-egypt: Thebes, Egypt
+  third-intermediate-period-of-egypt: Third Intermediate Period of Egypt
+  thoth: Thoth
+  traditional-african-religions: Traditional African religions
+  twenty-sixth-dynasty: Twenty-sixth Dynasty
+  underworld: Underworld
+  upper-egypt: Upper Egypt
+  ushabti: Ushabti
+  votive-offering: Votive offering
+  western-esotericism: Western esotericism
+  winged-sun: Winged sun
+  zoomorphism: Zoomorphism
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: predynastic-period
+    title: Predynastic period
+  - level: 3
+    id: early-dynastic-period
+    title: Early Dynastic period
+  - level: 3
+    id: old-and-middle-kingdoms
+    title: Old and Middle Kingdoms
+  - level: 3
+    id: new-kingdom
+    title: New Kingdom
+  - level: 3
+    id: later-periods
+    title: Later periods
+  - level: 3
+    id: legacy
+    title: Legacy
+  - level: 4
+    id: modern-times
+    title: Modern times
+  - level: 2
+    id: beliefs
+    title: Beliefs
+  - level: 3
+    id: deities
+    title: Deities
+  - level: 3
+    id: cosmology
+    title: Cosmology
+  - level: 3
+    id: kingship
+    title: Kingship
+  - level: 3
+    id: afterlife
+    title: Afterlife
+  - level: 3
+    id: atenism
+    title: Atenism
+  - level: 2
+    id: writings
+    title: Writings
+  - level: 3
+    id: mythology
+    title: Mythology
+  - level: 3
+    id: ritual-and-magical-texts
+    title: Ritual and magical texts
+  - level: 3
+    id: hymns-and-prayers
+    title: Hymns and prayers
+  - level: 3
+    id: funerary-texts
+    title: Funerary texts
+  - level: 2
+    id: practices
+    title: Practices
+  - level: 3
+    id: temples
+    title: Temples
+  - level: 3
+    id: official-rituals-and-festivals
+    title: Official rituals and festivals
+  - level: 3
+    id: animal-cults
+    title: Animal cults
+  - level: 3
+    id: oracles
+    title: Oracles
+  - level: 3
+    id: popular-religion
+    title: Popular religion
+  - level: 3
+    id: magic
+    title: Magic
+  - level: 3
+    id: funerary-practices
+    title: Funerary practices
+source:
+  site: Wikipedia
+  lang: en
+  title: Ancient Egyptian religion
+  url: https://en.wikipedia.org/wiki/Ancient_Egyptian_religion
+  page-id: 10331
+  revision: "1369276138"
+  modified: 2026-08-14T00:28:58Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Ancient
+    Egyptian religion" (revision 1369276138), by Wikipedia contributors, used
+    under CC BY-SA 4.0.
++++
+!!Ancient Egyptian religion!! was a complex system of
+[[ polytheistic | polytheism ]] beliefs and rituals that formed an integral
+part of [[ ancient Egyptian | ancient-egypt ]] culture. It centered on the
+Egyptians' interactions with [[ many deities | ancient-egyptian-deities ]]
+believed to be present and in control of the world. About 1,500 deities are
+known.[[ ^1 ]] Rituals such as prayer and offerings were provided to the gods
+to gain their favor. Formal religious practice centered on the
+[[ pharaohs | pharaoh ]], the rulers of Egypt, believed to possess divine
+powers by virtue of their positions. They acted as intermediaries between
+their people and the gods, and were obligated to sustain the gods through
+rituals and offerings so that they could maintain [[ Ma'at ]], the order of
+the [[ cosmos ]], and repel [[ Isfet | isfet-egyptian-mythology ]], which was
+chaos. The state dedicated enormous resources to religious rituals and to the
+construction of [[ temples | egyptian-temple ]].
+
+Individuals could interact with the gods for their own purposes, appealing for
+help through prayer or compelling the gods to act through
+[[ magic | heka-god ]]. These practices were distinct from, but closely linked
+with, the formal rituals and institutions. The popular religious tradition
+grew more prominent over the course of
+[[ Egyptian history | ancient-egyptian-history ]] as the status of the pharaoh
+declined. Egyptian belief in the [[ afterlife ]] and the importance of
+[[ funerary practices | ancient-egyptian-funerary-practices ]] is evident in
+the great efforts made to ensure the survival of their
+[[ souls | ancient-egyptian-concept-of-the-soul ]] after death – via the
+provision of tombs, grave goods and offerings to preserve the bodies and
+spirits of the deceased.
+
+The religion had its roots in [[ Egypt's prehistory | egyptian-prehistory ]]
+and lasted for 3,500 years. The details of religious belief changed over time
+as the importance of particular gods rose and declined, and their intricate
+relationships shifted. At various times, certain gods became preeminent over
+the others, including the sun god [[ Ra ]], the creator god [[ Amun ]], and
+the mother goddess [[ Isis ]]. For a brief period, in the
+[[ theology | atenism ]] promulgated by the pharaoh [[ Akhenaten ]], a single
+god, the [[ Aten ]], replaced the traditional pantheon. Ancient Egyptian
+religion and [[ mythology | ancient-egyptian-mythology ]] left behind many
+writings and monuments, along with significant influences on ancient and
+modern cultures. The religion decentralized following the
+[[ Roman conquest of Egypt | roman-egypt ]] in 30 BC and was
+[[ suppressed | persecution-of-pagans-in-the-late-roman-empire ]] during the
+[[ Christian | christianity ]] period. Practices such as mummification halted,
+and the ancient Egyptian religion was considered to have fully died in the
+530s. Following the Arab conquest of Egypt under [[ Amr ibn al-As ]],
+Egyptians started to convert to [[ Islam ]].
+
+== History
+
+The beginnings of Egyptian religion extend into prehistory, though evidence
+for them comes only from the sparse and ambiguous archaeological record.
+Careful burials during the [[ Predynastic period | prehistoric-egypt ]] imply
+that the people of this time believed in some form of an afterlife. At the
+same time, animals were ritually buried, a practice which may reflect the
+development of [[ zoomorphic | zoomorphism ]] deities like those found in the
+later religion.[[ ^2 ]] The evidence is less clear for gods in human form, and
+this type of deity may have emerged more slowly than those in animal shape.
+Each region of Egypt originally had its own patron deity, but it is likely
+that, as these small communities conquered or absorbed each other, the god of
+the defeated area was either subsumed into the other god's mythology or
+entirely replaced by it. This resulted in a complex pantheon in which some
+deities remained only locally important while others developed more universal
+significance.[[ ^3 ]][[ ^4 ]]
+
+Archaeological data has suggested that the Egyptian religious system had
+close, cultural affinities with Eastern African populations and arose from an
+[[ African substratum | traditional-african-religions ]] rather than deriving
+from the [[ Mesopotamian | ancient-mesopotamian-religion ]] or Mediterranean
+regions.[[ ^5 ]][[ ^6 ]][[ ^7 ]][[ ^8 ]]
+
+A number of scholars have associated the [[ Land of Punt ]] with the homeland
+of Egyptian deities or ancestors, this has been attributed to the fact that
+Punt was called //Ta netjer// which translated into the "God's
+Land".[[ ^9 ]][[ ^10 ]][[ ^11 ]]
+
+=== Predynastic period
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/God_Min%2C_Temple_of_Koptos%2C_circa_3300_BCE_%28reconstruction_drawing_and_existing_pieces_I%2C_II_and_III%29.png/250px-God_Min%2C_Temple_of_Koptos%2C_circa_3300_BCE_%28reconstruction_drawing_and_existing_pieces_I%2C_II_and_III%29.png" height="408" width="250"
+
+  <figcaption>Reconstruction of the [[ Koptos colossi ]], pre-dynastic colossal statues of the God [[ Min | min-god ]], [[ Koptos ]], Late [[ Naqada II ]]- Early [[ Naqada III ]], about 3300 BC.[[ ^12 ]][[ ^13 ]]
+
+The first known depictions of the Egyptian god of fertility
+[[ Min | min-god ]], appear in the form of monumental statues discovered in an
+ancient temple at [[ Koptos ]], dated to the late [[ Naqada II ]] to early
+[[ Naqada III ]] periods circa 3300 BC, and now displayed in the
+[[ Ashmolean Museum ]] following their discovery by [[ Flinders Petrie ]] in
+[[ Koptos ]] at the end of the 19th century.[[ ^12 ]][[ ^13 ]] The estimated
+size of the three known statues ranges from 372 cm to 403 cm.[[ ^14 ]] The
+statues show a bearded man, naked but for a belt and a sash, holding his erect
+penis.[[ ^12 ]] An
+[[ early form of the character for "//Min// | min-symbol-hieroglyph ]] is
+inscribed on the side of two of these statues.[[ ^12 ]]
+
+On the Koptos monumental statues of Min, generally dated to circa 3300 BC
+during the late [[ Naqada II ]]- early [[ Naqada III ]] periods, the
+[[ Min symbol | min-symbol-hieroglyph ]] is inscribed, together with marine
+objects: the "sword" of a sawfish and two shells of the Pterocera
+species.[[ ^12 ]][[ ^15 ]] These symbols seem to corroborate the traditional
+origin histories of the god, according to which he originated in the fabulous
+"[[ Land of Punt ]]", in the [[ Eritrean | eritrea ]] region bordering on the
+[[ Red Sea ]].[[ ^15 ]]
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Temple_of_Koptos%2C_plan.jpg/250px-Temple_of_Koptos%2C_plan.jpg" alt="Plan of the Temple of Min in Koptos, where three monumental statues of Min were discovered, dated to circa 3300 BC" height="115" width="175"
+
+    Plan of the Temple of Min in Koptos, where three monumental statues of Min
+    were discovered, dated to circa 3300 BC
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Min_II%2C_right_sash_inscriptions.jpg/250px-Min_II%2C_right_sash_inscriptions.jpg" alt="Engravings with the character for Min, with swordfish blades and sea shells, on one of the Koptos Temple statues." height="140" width="175"
+
+    Engravings with the character for //[[ Min | min-god ]]//, with swordfish
+    blades and sea shells, on one of the Koptos Temple statues.
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Entrance_guardian_lion._Min_Temple_of_Koptos%2C_circa_3300_BCE_%28Ashmolean%2C_AN1894.105b%29.jpg/250px-Entrance_guardian_lion._Min_Temple_of_Koptos%2C_circa_3300_BCE_%28Ashmolean%2C_AN1894.105b%29.jpg" alt="Guardian lion at the entrance of the Min Temple of Koptos, circa 3300 BC (Ashmolean Museum, AN1894.105b)" height="175" width="132"
+
+    Guardian lion at the entrance of the Min Temple of Koptos, circa 3300 BC
+    (Ashmolean Museum, AN1894.105b)
+
+=== Early Dynastic period
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Narmer_Palette_smiting_side.jpg/250px-Narmer_Palette_smiting_side.jpg" height="369" width="250"
+
+  <figcaption>The [[ Narmer Palette ]]. The face of a woman with the horns and ears of a cow, representing [[ Bat | bat-goddess ]] or Hathor, appears twice at the top of the palette, and a falcon representing Horus appears to the right of the palette.
+
+The [[ Early Dynastic Period | early-dynastic-period-egypt ]] began with the
+unification of Egypt around 3000 BC. This event transformed Egyptian religion,
+as some deities rose to national importance and the cult of the divine pharaoh
+became the central focus of religious activity.[[ ^16 ]] Horus was identified
+with the king, and his cult center in the Upper Egyptian city of [[ Nekhen ]]
+was among the most important religious sites of the period. Another important
+center was [[ Abydos | abydos-egypt ]], where the early rulers built large
+funerary complexes.[[ ^17 ]]
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Narmer-Tjet2.JPG/250px-Narmer-Tjet2.JPG" alt="Narmer, a Predynastic ruler, accompanied by men carrying the standards of various local gods" height="123" width="175"
+
+    [[ Narmer ]], a Predynastic ruler, accompanied by men carrying the standards
+    of various local gods
+
+=== Old and Middle Kingdoms
+
+During the [[ Old Kingdom | old-kingdom-of-egypt ]], the priesthoods of the
+major deities attempted to organize the complicated national pantheon into
+groups linked by their mythology and worshipped in a single cult center, such
+as the [[ Ennead ]] of [[ Heliopolis | heliopolis-ancient-egypt ]], which
+linked important deities such as [[ Atum ]], Ra, Osiris, and
+[[ Set | set-deity ]] in a single creation myth.[[ ^18 ]] Meanwhile, pyramids,
+accompanied by large mortuary temple complexes, replaced
+[[ mastabas | mastaba ]] as the tombs of pharaohs. In contrast with the great
+size of the pyramid complexes, temples to gods remained comparatively small,
+suggesting that official religion in this period emphasized the cult of the
+divine king more than the direct worship of deities. The funerary rituals and
+architecture of this time greatly influenced the more elaborate temples and
+rituals used in worshipping the gods in later periods.[[ ^19 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pyramide_Djedkare_elevation.jpg/250px-Pyramide_Djedkare_elevation.jpg" height="151" width="250"
+
+  <figcaption>The pyramid complex of [[ Djedkare Isesi ]]
+
+The Ancient Egyptians regarded the sun as a powerful life force. The sun god
+Ra had been worshipped from the Early Dynastic period (3100–2686 BCE), but it
+was not until the Old Kingdom (2686–2181 BCE), when Ra became the dominant
+figure in the Egyptian pantheon, that the Sun Cult took power.[[ ^20 ]] Early
+in the Old Kingdom, Ra grew in influence, and his cult center at Heliopolis
+became the nation's most important religious site.[[ ^21 ]] By the
+[[ Fifth Dynasty ]], Ra was the most prominent god in Egypt and had developed
+the close links with kingship and the afterlife that he retained for the rest
+of Egyptian history.[[ ^22 ]] Around the same time, [[ Osiris ]] became an
+important afterlife deity. The [[ Pyramid Texts ]], first written at this
+time, reflect the prominence of the solar and Osirian concepts of the
+afterlife, although they also contain remnants of much older
+traditions.[[ ^23 ]] The texts are an extremely important source for
+understanding early Egyptian theology.[[ ^24 ]]
+
+Symbols such as the 'winged disc' took on new features. The solar disk with
+the wings of a hawk was originally the symbol of Horus and associated with his
+cult in the Delta town of Behdet. The sacred cobras were added on either side
+of the disc during the Old Kingdom. The winged disc had protective
+significance and was found on temple ceilings and ceremonial entrances.
+
+In the 22nd century BC, the Old Kingdom collapsed into the disorder of the
+[[ First Intermediate Period ]]. Eventually, rulers from
+[[ Thebes | thebes-egypt ]] reunified the Egyptian nation in the
+[[ Middle Kingdom | middle-kingdom-of-egypt ]] (c. 2055–1650 BC). These Theban
+pharaohs initially promoted their patron god [[ Montu ]] to national
+importance, but during the Middle Kingdom, he was eclipsed by the rising
+popularity of [[ Amun ]].[[ ^25 ]] In this new Egyptian state, personal piety
+grew more important and was expressed more freely in writing, a trend that
+continued in the New Kingdom.[[ ^26 ]]
+
+=== New Kingdom
+
+The Middle Kingdom crumbled in the
+[[ Second Intermediate Period | second-intermediate-period-of-egypt ]]
+(c. 1650–1550 BC), but the country was again reunited by Theban rulers, who
+became the first pharaohs of the [[ New Kingdom | new-kingdom-of-egypt ]].
+Under the new regime, [[ Amun ]] became the supreme state god. He was
+syncretized with Ra, the long-established patron of kingship and his
+[[ temple at Karnak | precinct-of-amun-re ]] in Thebes became Egypt's most
+important religious center. Amun's elevation was partly due to the great
+importance of Thebes, but it was also due to the increasingly professional
+priesthood. Their sophisticated theological discussion produced detailed
+descriptions of Amun's universal power.[[ ^27 ]][[ ^28 ]]
+
+Increased contact with outside peoples in this period led to the adoption of
+many Near Eastern deities into the pantheon. At the same time, the subjugated
+[[ Nubians | nubia ]] absorbed Egyptian religious beliefs, and in particular,
+adopted Amun as their own.[[ ^29 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_salle_dAkhenaton_%281356-1340_av_J.C.%29_%28Mus%C3%A9e_du_Caire%29_%282076972086%29.jpg/250px-La_salle_dAkhenaton_%281356-1340_av_J.C.%29_%28Mus%C3%A9e_du_Caire%29_%282076972086%29.jpg" height="315" width="250"
+
+  <figcaption>Akhenaten and his family worshipping the Aten
+
+The New Kingdom religious order was disrupted when [[ Akhenaten ]] acceded,
+and replaced Amun with the [[ Aten ]] as the state god. Eventually, he
+eliminated the official worship of most other gods and moved Egypt's capital
+to a new city at [[ Amarna ]]. This part of Egyptian history, the
+[[ Amarna Period ]], is named after this. In doing so, Akhenaten claimed
+unprecedented status: only he could worship the Aten, and the populace
+directed their worship toward him. The Atenist system lacked well-developed
+mythology and afterlife beliefs, and the Aten seemed distant and impersonal,
+so the new order did not appeal to ordinary Egyptians.[[ ^30 ]] Thus, many
+probably continued to worship the traditional gods in private. Nevertheless,
+the withdrawal of state support for the other deities severely disrupted
+Egyptian society.[[ ^31 ]] Akhenaten's successors restored the traditional
+religious system, and eventually, they dismantled all Atenist
+monuments.[[ ^32 ]]
+
+Before the Amarna Period, popular religion had trended toward more personal
+relationships between worshippers and their gods. Akhenaten's changes had
+reversed this trend, but once the traditional religion was restored, there was
+a backlash. The populace began to believe that the gods were much more
+directly involved in daily life. Amun, the supreme god, was increasingly seen
+as the final arbiter of human destiny, the true ruler of Egypt. The pharaoh
+was correspondingly more human and less divine. The importance of oracles as a
+means of decision-making grew, as did the wealth and influence of the oracles'
+interpreters, the priesthood. These trends undermined the traditional
+structure of society and contributed to the breakdown of the New
+Kingdom.[[ ^33 ]][[ ^34 ]]
+
+=== Later periods
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Copper_alloy_statues.jpg/250px-Copper_alloy_statues.jpg" height="375" width="250"
+
+  <figcaption>Copper-alloy statuettes of Anubis (left) and Horus (centre) as Roman officers with //[[ contrapposto ]]// stances ([[ National Archaeological Museum, Athens ]])
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Marble_statue_of_Isis%2C_the_goddess_holds_a_situla_and_sistrum%2C_ritual_implements_used_in_her_worship%2C_from_117_until_138_AD%2C_found_at_Hadrian%27s_Villa_%28Pantanello%29%2C_Palazzo_Nuovo%2C_Capitoline_Museums_%2812945630725%29.jpg/250px-thumbnail.jpg" height="421" width="250"
+
+  <figcaption>Distinctively [[ Roman | roman-egypt ]] statue of Isis holding a sistrum and a situla
+
+In the 1st millennium BC, Egypt was significantly weaker than in earlier
+times, and in several periods foreigners seized the country and assumed the
+position of pharaoh. The importance of the pharaoh continued to decline, and
+the emphasis on popular piety continued to increase. Animal cults, a
+characteristically Egyptian form of worship, became increasingly popular in
+this period, possibly as a response to the uncertainty and foreign influence
+of the time.[[ ^35 ]] Isis grew more popular as a goddess of protection,
+magic, and personal salvation, and became the most important goddess in
+Egypt.[[ ^36 ]]
+
+In the 4th century BC, Egypt became a [[ Hellenistic | hellenistic-period ]]
+kingdom under the [[ Ptolemaic dynasty ]] (305–30 BC), which assumed the
+pharaonic role, maintaining the traditional religion and building or
+rebuilding many temples. The kingdom's Greek ruling class identified the
+Egyptian deities with their own.[[ ^37 ]] From this cross-cultural syncretism
+emerged [[ Serapis ]], a god who combined Osiris and Apis with characteristics
+of Greek deities, and who became very popular among the Greek population.
+Nevertheless, for the most part the two belief systems remained separate, and
+the Egyptian deities remained Egyptian.[[ ^38 ]]
+
+Ptolemaic-era beliefs changed little after Egypt became a
+[[ province | egypt-roman-province ]] of the [[ Roman Empire ]] in 30 BC, with
+the Ptolemaic kings replaced by distant emperors.[[ ^37 ]] The cult of Isis
+appealed even to Greeks and Romans outside Egypt, and in Hellenized form it
+spread across the empire.[[ ^39 ]] In Egypt itself, as the empire weakened,
+official temples fell into decay, and without their centralizing influence
+religious practice became fragmented and localized. Meanwhile,
+[[ Christianity ]] spread across Egypt, and in the third and fourth centuries
+AD, edicts by Christian emperors and the missionary activity of Christians
+eroded traditional beliefs.
+
+Nevertheless, the traditional Egyptian religion persisted for a long time. The
+traditional worship in the temples of the city of [[ Philae ]] apparently
+survived at least until the 5th century, despite the active Christianization
+of Egypt. In fact, the fifth-century historian [[ Priscus ]] mentions a treaty
+between the Roman commander Maximinus and the Blemmyes and Nobades in 452,
+which among other things ensured access to the [[ cult image ]] of
+Isis.[[ ^40 ]][[ ^41 ]][[ ^42 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Philae_Temple_of_Isis_coptic_cross_1.JPG/250px-Philae_Temple_of_Isis_coptic_cross_1.JPG" height="300" width="200"
+
+  <figcaption>Coptic Christian Cross on a column in the [[ ancient Egyptian Temple of Philae | philae-temple-complex ]]
+
+According to the 6th-century historian [[ Procopius ]], the temples in Philae
+was closed down officially in AD 537 by the local commander [[ Narses ]] the
+Persarmenian in accordance with an order of
+[[ Byzantine emperor | byzantine-empire ]] [[ Justinian I ]].[[ ^43 ]] This
+event is conventionally considered to mark the end of ancient Egyptian
+religion.[[ ^44 ]] However, its importance has recently come into question,
+following a major study by Jitse Dijkstra who argues that organized paganism
+at Philae ended in the fifth century, based on the fact that the last
+inscriptional evidence of an active pagan priesthood there dates to the
+450s.[[ ^40 ]][[ ^42 ]] Nevertheless, some adherence to traditional religion
+seems to have survived into the sixth century, based on a petition from
+[[ Dioscorus of Aphrodito ]] to the governor of the [[ Thebaid ]] dated to
+567.[[ ^45 ]][[ ^42 ]] The letter warns of an unnamed man (the text calls him
+"eater of raw meat") who, in addition to plundering houses and stealing tax
+revenue, is alleged to have restored paganism at "the sanctuaries", possibly
+referring to the temples at Philae.[[ ^45 ]][[ ^42 ]]
+
+While it persisted among the populace for some time, Egyptian religion slowly
+faded away.[[ ^46 ]]
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sousse_mosaic_calendar_November.JPG/250px-Sousse_mosaic_calendar_November.JPG" alt="Hermanubis in the November panel of a Roman mosaic calendar from Sousse, Tunisia" height="128" width="170"
+
+    [[ Hermanubis ]] in the November panel of a Roman mosaic calendar from Sousse,
+    Tunisia
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pompeii_-_Temple_of_Isis_-_Io_and_Isis_-_MAN.jpg/250px-Pompeii_-_Temple_of_Isis_-_Io_and_Isis_-_MAN.jpg" alt="Isis (seated right) welcoming the Greek Io into Egypt, depicted on the southern wall of the Ekklesiasterion" height="138" width="170"
+
+    Isis (seated right) welcoming the Greek [[ Io | io-mythology ]] into Egypt,
+    depicted on the southern wall of the Ekklesiasterion
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Statue_of_the_god_Anubis.jpg/120px-Statue_of_the_god_Anubis.jpg" alt="Statue of Hermanubis from Rome" height="170" width="113"
+
+    Statue of Hermanubis from Rome
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wien_KHM_Isis_I_158.jpg/120px-Wien_KHM_Isis_I_158.jpg" alt="Roman black and white marble statue of Isis" height="170" width="79"
+
+    Roman black and white marble statue of Isis
+
+=== Legacy
+
+Egyptian religion produced the temples and tombs which are ancient Egypt's
+most enduring monuments, but it also influenced other cultures. In pharaonic
+times many of its symbols, such as the [[ sphinx ]] and
+[[ winged solar disk | winged-sun ]], were adopted by other cultures across
+the Mediterranean and Near East, as were some of its deities, such as
+[[ Bes ]]. Some of these connections are difficult to trace. The Greek concept
+of [[ Elysium ]] may have derived from the Egyptian vision of the
+afterlife.[[ ^47 ]] In late antiquity, the Christian conception of [[ Hell ]]
+was most likely influenced by some of the imagery of the Duat. Egyptian
+beliefs also influenced or gave rise to several
+[[ esoteric | western-esotericism ]] belief systems developed by Greeks and
+Romans, who considered Egypt as a source of mystic wisdom. [[ Hermeticism ]],
+for instance, derived from the tradition of secret magical knowledge
+associated with [[ Thoth ]].[[ ^48 ]]
+
+==== Modern times
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Th_oltar.JPG/250px-Th_oltar.JPG" height="119" width="250"
+
+  <figcaption>Altar to [[ Thoth ]] of a [[ Kemetic | kemetism ]] follower
+
+Traces of ancient beliefs remained in Egyptian folk traditions into modern
+times, but its influence on modern societies greatly increased with the
+[[ French Campaign in Egypt and Syria ]] in 1798 and their seeing the
+monuments and images. As a result of it, Westerners began to study Egyptian
+beliefs firsthand, and Egyptian religious motifs were adopted into Western
+art.[[ ^49 ]][[ ^50 ]] Egyptian religion has since had a significant influence
+in popular culture. Due to continued interest in Egyptian beliefs, in the late
+20th century, several new religious groups going under the blanket term of
+[[ Kemetism ]] have formed based on different reconstructions of ancient
+Egyptian religion.[[ ^51 ]] Kemetism is a
+[[ neopagan religion | modern-paganism ]] and revival of the ancient Egyptian
+religion and related expressions of religion in
+[[ classical | classical-antiquity ]] and [[ late antiquity ]], emerging
+during the 1970s. Kemetics do not consider themselves direct descendants of
+the ancient Egyptian religion but consistently speak of its recreation or
+restoration.[[ ^52 ]][[ ^53 ]]
+
+== Beliefs
+
+The beliefs and rituals now referred to as "ancient Egyptian religion" were
+integral within every aspect of Egyptian culture; thus the
+[[ Egyptian language ]] possessed no single term corresponding to the concept
+of religion. Ancient Egyptian religion consisted of a vast and varying set of
+beliefs and practices, linked by their common focus on the interaction between
+the world of humans and the world of the divine. The characteristics of the
+gods who populated the divine realm were inextricably linked to the Egyptians'
+understanding of the properties of the world in which they lived.[[ ^54 ]]
+
+=== Deities
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/La_Tombe_de_Horemheb_cropped.jpg/250px-La_Tombe_de_Horemheb_cropped.jpg" alt="Painted relief of a seated man with green skin and tight garments, a man with the head of a jackal, and a man with the head of a falcon" height="345" width="250"
+
+  <figcaption>The gods [[ Osiris ]], [[ Anubis ]], and [[ Horus ]] in the Tomb of Horemheb ([[ KV57 ]]) in the Valley of the Kings
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Casa_degli_Amorini_Dorati._Fresco._09.JPG/330px-Casa_degli_Amorini_Dorati._Fresco._09.JPG" height="177" width="265"
+
+  <figcaption>[[ Anubis ]], [[ Harpocrates ]], [[ Isis ]] and [[ Serapis ]], antique fresco in [[ Pompeii ]], Italy
+
+The Egyptians believed that the phenomena of nature were divine forces in and
+of themselves.[[ ^55 ]] These deified forces included the elements, animal
+characteristics, or abstract forces. The Egyptians believed in a pantheon of
+gods, which were involved in all aspects of nature and human society. Their
+religious practices were efforts to sustain and placate these phenomena and
+turn them to human advantage.[[ ^56 ]] This [[ polytheistic | polytheism ]]
+system was very complex, as some deities were believed to exist in many
+different manifestations, and some had multiple mythological roles.
+Conversely, many natural forces, such as the sun, were associated with
+multiple deities. The diverse pantheon ranged from gods with vital roles in
+the universe to minor deities or "demons" with very limited or localized
+functions.[[ ^57 ]] It could include gods adopted from foreign cultures, and
+sometimes humans: deceased pharaohs were believed to be divine, and
+occasionally, distinguished commoners such as [[ Imhotep ]] also became
+deified.[[ ^58 ]]
+
+The depictions of the gods in [[ art | art-of-ancient-egypt ]] were not meant
+as literal representations of how the gods might appear if they were visible,
+as the gods' true natures were believed to be mysterious. Instead, these
+depictions gave recognizable forms to the abstract deities by using symbolic
+imagery to indicate each god's role in nature.[[ ^59 ]] This iconography was
+not fixed, and many of the gods could be depicted in more than one
+form.[[ ^60 ]]
+
+Many gods were associated with particular regions in Egypt where their cults
+were most important. However, these associations changed over time, and they
+did not mean that the god associated with a place had originated there. For
+instance, the god [[ Montu ]] was original patron of the city of
+[[ Thebes | thebes-egypt ]]. Over the course of the
+[[ Middle Kingdom | middle-kingdom-of-egypt ]], however, he was displaced in
+that role by [[ Amun ]], who may have arisen elsewhere. The national
+popularity and importance of individual gods fluctuated in a similar
+way.[[ ^61 ]]
+
+Deities had complex interrelationships, which partly reflected the interaction
+of the forces they represented. The Egyptians often grouped gods together to
+reflect these relationships. One of the more common combinations was a family
+triad consisting of a father, mother, and child, who were worshipped together.
+Some groups had wide-ranging importance. One such group, the [[ Ennead ]],
+assembled nine deities into a theological system that was involved in the
+mythological areas of creation, kingship, and the afterlife.[[ ^62 ]]
+
+The relationships between deities could also be expressed in the process of
+[[ syncretism ]], in which two or more different gods were linked to form a
+composite deity. This process was a recognition of the presence of one god
+"in" another when the second god took on a role belonging to the first. These
+links between deities were fluid, and did not represent the permanent merging
+of two gods into one; therefore, some gods could develop multiple syncretic
+connections.[[ ^63 ]] Sometimes, syncretism combined deities with very similar
+characteristics. At other times, it joined gods with very different natures,
+as when Amun, the god of hidden power, was linked with [[ Ra ]], the god of
+the sun. The resulting god, Amun-Ra, thus united the power that lay behind all
+things with the greatest and most visible force in nature.[[ ^64 ]]
+
+Many deities could be given [[ epithets | epithet ]] that seem to indicate
+that they were greater than any other god, suggesting some kind of unity
+beyond the multitude of natural forces. This is particularly true of a few
+gods who, at various points, rose to supreme importance in Egyptian religion.
+These included the royal patron Horus, the sun-god Ra, and the mother-goddess
+Isis.[[ ^65 ]] During the [[ New Kingdom | new-kingdom-of-egypt ]]
+(c. 1550–c. 1070 BC), Amun held this position. The theology of the period
+described in particular detail Amun's presence in and rule over all things, so
+that he, more than any other deity, embodied the all-encompassing power of the
+divine.[[ ^66 ]]
+
+=== Cosmology
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sunrise_at_Creation.jpg/250px-Sunrise_at_Creation.jpg" height="167" width="250"
+
+  <figcaption>The sun rises over the circular mound of creation as goddesses pour out the [[ primeval waters | cosmic-ocean ]] around it
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nun_Raises_the_Sun.jpg/250px-Nun_Raises_the_Sun.jpg" height="336" width="250"
+
+  <figcaption>Nun lifts the [[ solar barque ]] with the new-born sun from the waters of creation.
+
+The Egyptian conception of the universe centered on //[[ Ma'at ]]//, a word
+that encompasses several concepts in English, including "truth", "justice",
+and "order". It was the fixed, eternal order of the universe, both in the
+cosmos and in human society, and was often personified as a goddess. It had
+existed since the creation of the world, and without it the world would lose
+its cohesion. In Egyptian belief, //Ma'at// was constantly under threat from
+the forces of disorder, so all of society was required to maintain it. On the
+human level this meant that all members of society should cooperate and
+coexist; on the cosmic level it meant that all of the forces of nature—the
+gods—should continue to function in balance.[[ ^67 ]] This latter goal was
+central to Egyptian religion. The Egyptians sought to maintain //Ma'at// in
+the cosmos by sustaining the gods through offerings and by performing rituals
+which staved off disorder and perpetuated the cycles of
+nature.[[ ^68 ]][[ ^69 ]]
+
+The most important part of the Egyptian view of the cosmos was the conception
+of time, which was greatly concerned with the maintenance of //Ma'at//.
+Throughout the linear passage of time, a cyclical pattern recurred, in which
+//Ma'at// was renewed by periodic events which echoed the original creation.
+Among these events were the annual [[ Nile flood ]] and the succession from
+one king to another, but the most important was the daily journey of the sun
+god Ra.[[ ^70 ]][[ ^71 ]]
+
+When thinking of the shape of the cosmos, the Egyptians saw the earth as a
+flat expanse of land, personified by the god [[ Geb ]], over which arched the
+sky goddess [[ Nut | nut-goddess ]]. The two were separated by
+[[ Shu | shu-egyptian-god ]], the god of air. Beneath the Earth lay a parallel
+[[ underworld ]] and undersky, and beyond the skies lay the infinite expanse
+of [[ Nu | nu-mythology ]], the chaos and primordial watery
+[[ abyss | abyssal-zone ]] that had existed before creation.[[ ^72 ]][[ ^73 ]]
+The Egyptians also believed in a place called the [[ Duat ]], a mysterious
+region associated with death and rebirth, that may have lain in the underworld
+or in the sky. Each day, Ra traveled over the earth across the underside of
+the sky, and at night he passed through the Duat to be reborn at
+dawn.[[ ^74 ]]
+
+In Egyptian belief, this cosmos was inhabited by three types of sentient
+beings: one was the gods; another was the spirits of deceased humans, who
+existed in the divine realm and possessed many of the gods' abilities; living
+humans were the third category, and the most important among them was the
+pharaoh, who bridged the human and divine realms.[[ ^75 ]]
+
+=== Kingship
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%C3%84gyptisches_Museum_Kairo_2016-03-29_Chephren_03.jpg/330px-%C3%84gyptisches_Museum_Kairo_2016-03-29_Chephren_03.jpg" height="187" width="280"
+
+  <figcaption>Statue of [[ Khafre ]], an [[ Old Kingdom | old-kingdom-of-egypt ]] pharaoh, embraced by [[ Horus ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Le_roi_Rams%C3%A8s_parmi_les_dieux_%28Louvre%2C_B_13%29.jpg/250px-Le_roi_Rams%C3%A8s_parmi_les_dieux_%28Louvre%2C_B_13%29.jpg" height="188" width="250"
+
+  <figcaption>Horus offers [[ life | ankh ]] to the pharaoh, [[ Ramesses II ]]. Painted limestone. c. 1275 BC. 19th dynasty. From the small temple built by Ramses II in [[ Abydos | abydos-egypt ]]. [[ Louvre museum ]], Paris, France.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GuardianStatueofAmenemhmatII.jpg/250px-GuardianStatueofAmenemhmatII.jpg" height="268" width="200"
+
+  <figcaption>A figure wearing the red crown of Lower Egypt and whose face appears to reflect the features of the reigning king, most probably [[ Amenemhat II ]] or [[ Senwosret II ]]. It functioned as a divine guardian for the [[ imiut | imiut-fetish ]].[[ ^76 ]]
+
+[[ Egyptologists ]] have long debated the degree to which the pharaoh was
+considered a god. It seems most likely that the Egyptians viewed royal
+authority itself as a divine force. Therefore, although the Egyptians
+recognized that the pharaoh was human and subject to human weakness, they
+simultaneously viewed him as a god, because the divine power of kingship was
+incarnated in him. He therefore acted as intermediary between Egypt's people
+and the gods.[[ ^77 ]] He was key to upholding //Ma'at//, both by maintaining
+justice and harmony in human society and by sustaining the gods with temples
+and offerings. For these reasons, he oversaw all state religious
+activity.[[ ^78 ]] However, the pharaoh's real-life influence and prestige
+could differ from his portrayal in official writings and depictions, and
+beginning in the late New Kingdom his religious importance declined
+drastically.[[ ^79 ]][[ ^80 ]]
+
+The king was also associated with many specific deities. He was identified
+directly with [[ Horus ]], who represented kingship itself, and he was seen as
+the son of Ra, who ruled and regulated nature as the pharaoh ruled and
+regulated society. By the New Kingdom he was also associated with Amun, the
+supreme force in the cosmos.[[ ^81 ]] Upon his death, the king became fully
+deified. In this state, he was directly identified with Ra, and was also
+associated with [[ Osiris ]], god of death and rebirth and the mythological
+father of Horus.[[ ^82 ]] Many mortuary temples were dedicated to the worship
+of deceased pharaohs as gods.[[ ^69 ]]
+
+=== Afterlife
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg/500px-The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg" height="182" width="400"
+
+  <figcaption>The Weighing of the Heart in the Hall of [[ Maat ]] as depicted in the [[ Papyrus of Hunefer ]] (19th Dynasty, c. 1300 BCE)
+
+The elaborate beliefs about death and the afterlife reinforced the Egyptians
+theology in humans possessions a
+//[[ ka | ancient-egyptian-concept-of-the-soul#ka-vital-essence ]]//, or
+life-force, which left the body at the point of death. In life, the //ka//
+received its sustenance from food and drink, so it was believed that, to
+endure after death, the //ka// must continue to receive offerings of food,
+whose spiritual essence it could still consume. Each person also had a
+//[[ ba | ancient-egyptian-concept-of-the-soul#ba-personality ]]//, the set of
+spiritual characteristics unique to each individual.[[ ^83 ]] Unlike the
+//ka//, the //ba// remained attached to the body after death. Egyptian funeral
+rituals were intended to release the //ba// from the body so that it could
+move freely, and to rejoin it with the //ka// so that it could live on as an
+//[[ akh | ancient-egyptian-concept-of-the-soul#akh-intellect ]]//. However,
+it was also important that the body of the deceased be preserved by
+mummification, as the Egyptians believed that the //ba// returned to its body
+each night to receive new life, before emerging in the morning as an
+//akh//.[[ ^84 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Maat.jpg/250px-Maat.jpg" height="284" width="190"
+
+  <figcaption>[[ Ma'at ]] wearing the feather of truth
+
+In early times the deceased pharaoh was believed to
+[[ ascend to the sky and dwell among the stars | the-indestructibles#cosmogony ]].[[ ^85 ]]
+Over the course of the [[ Old Kingdom | old-kingdom-of-egypt ]] (c. 2686–2181
+BC), however, he came to be more closely associated with the daily rebirth of
+the sun god [[ Ra ]] and with the underworld ruler Osiris as those deities
+grew more important.[[ ^86 ]]
+
+In the fully developed afterlife beliefs of the New Kingdom, the soul had to
+avoid a variety of supernatural dangers in the Duat, before undergoing a final
+judgement, known as the "Weighing of the Heart", carried out by Osiris and by
+the [[ Assessors of Ma'at ]]. In this judgement, the gods compared the actions
+of the deceased while alive (symbolized by the heart) to the feather of Ma'at,
+to determine whether he or she had behaved in accordance with Ma'at. If the
+deceased was judged worthy, his or her //ka// and //ba// were united into an
+//akh//.[[ ^87 ]] Several beliefs coexisted about the //akh//'s destination.
+Often the dead were said to dwell in the realm of Osiris, a lush and pleasant
+land in the underworld.[[ ^88 ]] The solar vision of the afterlife, in which
+the deceased soul traveled with Ra on his daily journey, was still primarily
+associated with royalty, but could extend to other people as well. Over the
+course of the Middle and New Kingdoms, the notion that the //akh// could also
+travel in the world of the living, and to some degree magically affect events
+there, became increasingly prevalent.[[ ^89 ]]
+
+=== Atenism
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Relief_depicting_Akhenaton_and_Nefertiti_with_three_of_their_daughters_under_the_rays_of_Aton_01_%28cropped%29.jpg/250px-Relief_depicting_Akhenaton_and_Nefertiti_with_three_of_their_daughters_under_the_rays_of_Aton_01_%28cropped%29.jpg" height="211" width="250"
+
+  <figcaption>Relief depicting Akhenaten and Nefertiti with three of their daughters under the rays of Aten.
+
+During the New Kingdom the pharaoh [[ Akhenaten ]] abolished the official
+worship of other gods in favor of the sun-disk [[ Aten ]]. This is often seen
+as the first instance of true monotheism in history, although the details of
+Atenist theology are still unclear and the suggestion that it was monotheistic
+is disputed. The exclusion of all but one god from worship was a radical
+departure from Egyptian tradition and some see Akhenaten as a practitioner of
+[[ monolatry ]] or [[ henotheism ]] rather than monotheism,[[ ^90 ]][[ ^91 ]]
+as he did not actively deny the existence of other gods; he simply refrained
+from worshipping any but the Aten. Under Akhenaten's successors Egypt reverted
+to its traditional religion, and Akhenaten himself came to be reviled as a
+heretic.[[ ^92 ]][[ ^93 ]]
+
+== Writings
+
+While the Egyptians had no unified religious scripture, they produced many
+religious writings of various types. Together the disparate texts provide an
+extensive, but still incomplete, understanding of Egyptian religious practices
+and beliefs.[[ ^94 ]]
+
+=== Mythology
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Book_of_Gates_Barque_of_Ra_cropped.jpg/330px-Book_of_Gates_Barque_of_Ra_cropped.jpg" height="182" width="300"
+
+  <figcaption>[[ Ra ]] (at center) travels through the underworld in his barque, accompanied by other gods[[ ^95 ]]
+
+Egyptian myths were stories intended to illustrate and explain the gods'
+actions and roles in nature. The details of the events they recounted could
+change to convey different symbolic perspectives on the mysterious divine
+events they described, so many myths exist in different and conflicting
+versions.[[ ^96 ]] Mythical narratives were rarely written in full, and more
+often texts only contain episodes from or allusions to a larger myth.[[ ^97 ]]
+Knowledge of Egyptian mythology, therefore, is derived mostly from hymns that
+detail the roles of specific deities, from ritual and magical texts which
+describe actions related to mythic events, and from funerary texts which
+mention the roles of many deities in the afterlife. Some information is also
+provided by allusions in secular texts.[[ ^94 ]] Finally, Greeks and Romans
+such as [[ Plutarch ]] recorded some of the extant myths late in Egyptian
+history.[[ ^98 ]]
+
+Among the significant Egyptian myths were the
+[[ creation myths | ancient-egyptian-creation-myths ]]. According to these
+stories, the world emerged as a dry space in the [[ primordial ocean ]] of
+chaos. Because the sun is essential to life on earth, the first rising of Ra
+marked the moment of this emergence. Different forms of the myth describe the
+process of creation in various ways: a transformation of the primordial god
+[[ Atum ]] into the elements that form the world, as the creative speech of
+the intellectual god [[ Ptah ]], and as an act of the hidden power of
+Amun.[[ ^99 ]] Regardless of these variations, the act of creation represented
+the initial establishment of Ma'at and the pattern for the subsequent cycles
+of time.[[ ^69 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Abydos_Tempelrelief_Sethos_I._36.JPG/330px-Abydos_Tempelrelief_Sethos_I._36.JPG" alt="Relief of a man wearing a tall crown lying on a bier as a bird hovers over his phallus. A falcon-headed man stands at the foot of the bier and a woman with a headdress like a tall chair stands at the head." height="225" width="300"
+
+  <figcaption>Wall relief depicting the [[ Osiris myth ]]. Isis, in the form of a bird, copulates with the deceased Osiris. At either side are Horus, although he is as yet unborn, and Isis in human form.[[ ^100 ]]
+
+The most important of all Egyptian myths was the [[ Osiris myth ]].[[ ^101 ]]
+It tells of the divine ruler Osiris, who was murdered by his jealous brother
+[[ Set | set-deity ]], a god often associated with chaos.[[ ^102 ]] Osiris'
+sister and wife [[ Isis ]] resurrected him so that he could conceive an heir,
+Horus. Osiris then entered the underworld and became the ruler of the dead.
+Once grown, Horus fought and defeated Set to become king himself.[[ ^103 ]]
+Set's association with chaos, and the identification of Osiris and Horus as
+the rightful rulers, provided a rationale for pharaonic succession and
+portrayed the pharaohs as the upholders of order. At the same time, Osiris'
+death and rebirth were related to the Egyptian agricultural cycle, in which
+crops grew in the wake of the Nile inundation, and provided a template for the
+resurrection of human souls after death.[[ ^104 ]]
+
+Another important mythic motif was the journey of Ra through the Duat each
+night. In the course of this journey, Ra met with Osiris, who again acted as
+an agent of regeneration, so that his life was renewed. He also fought each
+night with [[ Apep ]], a serpentine god representing chaos. The defeat of Apep
+and the meeting with Osiris ensured the rising of the sun the next morning, an
+event that represented rebirth and the victory of order over chaos.[[ ^105 ]]
+
+=== Ritual and magical texts
+
+The procedures for religious rituals were frequently written on
+[[ papyri | papyrus ]], which were used as instructions for those performing
+the ritual. These ritual texts were kept mainly in the temple libraries.
+Temples themselves are also inscribed with such texts, often accompanied by
+illustrations. Unlike the ritual papyri, these inscriptions were not intended
+as instructions, but were meant to symbolically perpetuate the rituals even
+if, in reality, people ceased to perform them.[[ ^106 ]] Magical texts
+likewise describe rituals, although these rituals were part of the spells used
+for specific goals in everyday life. Despite their mundane purpose, many of
+these texts also originated in temple libraries and later became disseminated
+among the general populace.[[ ^107 ]]
+
+=== Hymns and prayers
+
+The Egyptians produced numerous prayers and hymns, written in the form of
+poetry. Hymns and prayers follow a similar structure and are distinguished
+mainly by the purposes they serve. Hymns were written to praise particular
+deities.[[ ^108 ]] Like ritual texts, they were written on papyri and on
+temple walls, and they were probably recited as part of the rituals they
+accompany in temple inscriptions.[[ ^109 ]] Most are structured according to a
+set literary formula, designed to expound on the nature, aspects, and
+mythological functions of a given deity.[[ ^108 ]] They tend to speak more
+explicitly about fundamental theology than other Egyptian religious writings,
+and became particularly important in the New Kingdom, a period of particularly
+active theological discourse.[[ ^110 ]] Prayers follow the same general
+pattern as hymns, but address the relevant god in a more personal way, asking
+for blessings, help, or forgiveness for wrongdoing. Such prayers are rare
+before the New Kingdom, indicating that in earlier periods such direct
+personal interaction with a deity was not believed possible, or at least was
+less likely to be expressed in writing. They are known mainly from
+inscriptions on statues and [[ stelae | stele ]] left in sacred sites as
+[[ votive offerings | votive-offering ]].[[ ^111 ]]
+
+=== Funerary texts
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg/330px-El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg" height="189" width="301"
+
+  <figcaption>Section of the Book of the Dead for the scribe [[ Hunefer ]], depicting the Weighing of the Heart.
+
+Among the most significant and extensively preserved Egyptian writings are
+[[ funerary texts | ancient-egyptian-funerary-texts ]] designed to ensure that
+deceased souls reached a pleasant afterlife.[[ ^112 ]] The earliest of these
+are the [[ Pyramid Texts ]]. They are a loose collection of hundreds of spells
+inscribed on the walls of royal pyramids during the Old Kingdom, intended to
+magically provide pharaohs with the means to join the company of the gods in
+the afterlife.[[ ^113 ]] The spells appear in differing arrangements and
+combinations, and few of them appear in all of the pyramids.[[ ^114 ]]
+
+At the end of the Old Kingdom a new body of funerary spells, which included
+material from the Pyramid Texts, began appearing in tombs, inscribed primarily
+on coffins. This collection of writings is known as the [[ Coffin Texts ]],
+and was not reserved for royalty, but appeared in the tombs of non-royal
+officials.[[ ^115 ]] In the New Kingdom, several new funerary texts emerged,
+of which the best-known is the [[ Book of the Dead ]]. Unlike the earlier
+books, it often contains extensive illustrations, or vignettes.[[ ^116 ]] The
+book was copied on papyrus and sold to commoners to be placed in their
+tombs.[[ ^117 ]]
+
+The Coffin Texts included sections with detailed descriptions of the
+underworld and instructions on how to overcome its hazards. In the New
+Kingdom, this material gave rise to several "books of the netherworld",
+including the [[ Book of Gates ]], the [[ Book of Caverns ]], and the
+[[ Amduat ]].[[ ^118 ]] Unlike the loose collections of spells, these
+netherworld books are structured depictions of Ra's passage through the Duat,
+and by analogy, the journey of the deceased person's soul through the realm of
+the dead. They were originally restricted to pharaonic tombs, but in the Third
+Intermediate Period they came to be used more widely.[[ ^119 ]]
+
+== Practices
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Philae_temple_at_night.jpg/330px-Philae_temple_at_night.jpg" height="185" width="300"
+
+  <figcaption>First [[ pylon | pylon-architecture ]] and colonnade of the Temple of [[ Isis ]] at [[ Philae ]]
+
+=== Temples
+
+Temples existed from the beginning of Egyptian history, and at the height of
+the civilization they were present in most of its towns. They included both
+[[ mortuary temples | mortuary-temple ]] to serve the spirits of deceased
+pharaohs and temples dedicated to patron gods, although the distinction was
+blurred because divinity and kingship were so closely intertwined.[[ ^69 ]]
+The temples were not primarily intended as places for worship by the general
+populace, and the common people had a complex set of religious practices of
+their own. Instead, the state-run temples served as houses for the gods, in
+which physical images which served as their intermediaries were cared for and
+provided with offerings. This service was believed to be necessary to sustain
+the gods, so that they could in turn maintain the universe itself.[[ ^120 ]]
+Thus, temples were central to Egyptian society, and vast resources were
+devoted to their upkeep, including both donations from the monarchy and large
+estates of their own. Pharaohs often expanded them as part of their obligation
+to honor the gods, so that many temples grew to enormous size.[[ ^121 ]]
+However, not all gods had temples dedicated to them, as many gods who were
+important in official theology received only minimal worship, and many
+household gods were the focus of popular veneration rather than temple
+ritual.[[ ^122 ]]
+
+The earliest Egyptian temples were small, impermanent structures, but through
+the Old and Middle Kingdoms their designs grew more elaborate, and they were
+increasingly built out of stone. In the New Kingdom, a basic temple layout
+emerged, which had evolved from common elements in Old and Middle Kingdom
+temples. With variations, this plan was used for most of the temples built
+from then on, and most of those that survive today adhere to it. In this
+standard plan, the temple was built along a central processional way that led
+through a series of courts and halls to the sanctuary, which held a statue of
+the temple's god. Access to this most sacred part of the temple was restricted
+to the pharaoh and the highest-ranking priests. The journey from the temple
+entrance to the sanctuary was seen as a journey from the human world to the
+divine realm, a point emphasized by the complex mythological symbolism present
+in temple architecture.[[ ^123 ]] Well beyond the temple building proper was
+the outermost wall. Between the two lay many subsidiary buildings, including
+workshops and storage areas to supply the temple's needs, and the library
+where the temple's sacred writings and mundane records were kept, and which
+also served as a center of learning on a multitude of subjects.[[ ^124 ]]
+
+Theoretically it was the duty of the pharaoh to carry out temple rituals, as
+he was Egypt's official representative to the gods. In reality, ritual duties
+were almost always carried out by priests. During the Old and Middle Kingdoms,
+there was no separate class of priests; instead, many government officials
+served in this capacity for several months out of the year before returning to
+their secular duties. Only in the New Kingdom did professional priesthood
+become widespread, although most lower-ranking priests were still part-time.
+All were still employed by the state, and the pharaoh had final say in their
+appointments.[[ ^125 ]] However, as the wealth of the temples grew, the
+influence of their priesthoods increased, until it rivaled that of the
+pharaoh. In the political fragmentation of the
+[[ Third Intermediate Period | third-intermediate-period-of-egypt ]]
+(c. 1070–664 BC), the high priests of Amun at [[ Karnak ]] even became the
+effective rulers of [[ Upper Egypt ]].[[ ^126 ]] The temple staff also
+included many people other than priests, such as musicians and chanters in
+temple ceremonies. Outside the temple were artisans and other laborers who
+helped supply the temple's needs, as well as farmers who worked on temple
+estates. All were paid with portions of the temple's income. Large temples
+were therefore very important centers of economic activity, sometimes
+employing thousands of people.[[ ^127 ]]
+
+=== Official rituals and festivals
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Re-Horakhty_Stela.jpg/250px-Re-Horakhty_Stela.jpg" height="298" width="250"
+
+  <figcaption>Ancient Egyptian wooden stela depicting Lady Djedkhonsuiwesankh giving offerings of food, drink, and flowers to [[ Re-Horakhty | ra ]]
+
+State religious practice included both temple rituals involved in the cult of
+a deity, and ceremonies related to divine kingship. Among the latter were
+[[ coronation ceremonies | coronation-of-the-pharaoh ]] and the
+[[ Sed festival ]], a ritual renewal of the pharaoh's strength that took place
+periodically during his reign.[[ ^128 ]] There were numerous temple rituals,
+including rites that took place across the country and rites limited to single
+temples or to the temples of a single god. Some were performed daily, while
+others took place annually or on rare occasions.[[ ^129 ]] The most common
+temple ritual was the morning offering ceremony, performed daily in temples
+across Egypt. In it, a high-ranking priest, or occasionally the pharaoh,
+washed, anointed, and elaborately dressed the god's statue before presenting
+it with offerings. Afterward, when the god had consumed the spiritual essence
+of the offerings, the items themselves were taken to be distributed among the
+priests.[[ ^128 ]]
+
+The less frequent temple rituals, or festivals, were still numerous, with
+dozens occurring every year. These festivals often entailed actions beyond
+simple offerings to the gods, such as reenactments of particular myths or the
+symbolic destruction of the forces of disorder.[[ ^130 ]] Most of these events
+were probably celebrated only by the priests and took place only inside the
+temple.[[ ^129 ]] However, the most important temple festivals, like the
+[[ Opet Festival ]] celebrated at Karnak, usually involved a procession
+carrying the god's image out of the sanctuary in a model barque to visit other
+significant sites, such as the temple of a related deity. Commoners gathered
+to watch the procession and sometimes received portions of the unusually large
+offerings given to the gods on these occasions.[[ ^131 ]]
+
+=== Animal cults
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Apis_bull_on_coffin.jpg/250px-Apis_bull_on_coffin.jpg" height="250" width="250"
+
+  <figcaption>The Apis bull
+
+At many sacred sites, the Egyptians worshipped individual animals which they
+believed to be manifestations of particular deities. These animals were
+selected based on specific sacred markings which were believed to indicate
+their fitness for the role. Some of these cult animals retained their
+positions for the rest of their lives, as with the
+[[ Apis bull | apis-deity ]] worshipped in Memphis as a manifestation of Ptah.
+Other animals were selected for much shorter periods. These cults grew more
+popular in later times, and many temples began raising stocks of such animals
+from which to choose a new divine manifestation.[[ ^132 ]] A separate practice
+developed in the [[ Twenty-sixth Dynasty ]], when people began mummifying any
+member of a particular animal species as an offering to the god whom the
+species represented. Millions of mummified [[ cats | cat ]], birds, and other
+creatures were buried at temples honoring Egyptian
+deities.[[ ^133 ]][[ ^134 ]] Worshippers paid the priests of a particular
+deity to obtain and mummify an animal associated with that deity, and the
+mummy was placed in a cemetery near the god's cult center.
+
+=== Oracles
+
+The Egyptians used [[ oracles | oracle ]] to ask the gods for knowledge or
+guidance. Egyptian oracles are known mainly from the New Kingdom and
+afterward, though they probably appeared much earlier. People of all classes,
+including the king, asked questions of oracles.[[ ^135 ]] The most common
+means of consulting an oracle was to pose a question to the divine image while
+it was being carried in a festival procession, and interpret an answer from
+the barque's movements. Other methods included interpreting the behavior of
+cult animals, drawing lots, or consulting statues through which a priest
+apparently spoke. The means of discerning the god's will gave great influence
+to the priests who spoke and interpreted the god's message.[[ ^136 ]]
+
+=== Popular religion
+
+While the state cults were meant to preserve the stability of the Egyptian
+world, lay individuals had their own religious practices that related more
+directly to daily life.[[ ^137 ]] This popular religion left less evidence
+than the official cults, and because this evidence was mostly produced by the
+wealthiest portion of the Egyptian population, it is uncertain to what degree
+it reflects the practices of the populace as a whole.[[ ^138 ]]
+
+Popular religious practice included ceremonies marking important transitions
+in life. These included birth, because of the danger involved in the process,
+and [[ naming | naming-ceremony ]], because the name was held to be a crucial
+part of a person's identity. The most important of these ceremonies were those
+surrounding death, because they ensured the soul's survival beyond
+it.[[ ^139 ]] Other religious practices sought to discern the gods' will or
+seek their knowledge. These included the interpretation of dreams, which could
+be seen as messages from the divine realm, and the consultation of oracles.
+People also sought to affect the gods' behavior to their own benefit through
+magical rituals.[[ ^140 ]]
+
+Individual Egyptians also prayed to gods and gave them private offerings.
+Evidence of this type of personal piety is sparse before the New Kingdom. This
+is probably due to cultural restrictions on depiction of nonroyal religious
+activity, which relaxed during the Middle and New Kingdoms. Personal piety
+became still more prominent in the late New Kingdom, when it was believed that
+the gods intervened directly in individual lives, punishing wrongdoers and
+saving the pious from disaster.[[ ^111 ]] Official temples were important
+venues for private prayer and offering, even though their central activities
+were closed to laypeople. Egyptians frequently donated goods to be offered to
+the temple deity and objects inscribed with prayers to be placed in temple
+courts. Often they prayed in person before temple statues or in shrines set
+aside for their use.[[ ^138 ]] Yet in addition to temples, the populace also
+used separate local chapels, smaller but more accessible than the formal
+temples. These chapels were very numerous and probably staffed by members of
+the community.[[ ^141 ]] Households, too, often had their own small shrines
+for offering to gods or deceased relatives.[[ ^142 ]]
+
+The deities invoked in these situations differed somewhat from those at the
+center of state cults. Many of the important popular deities, such as the
+fertility goddess [[ Taweret ]] and the household protector [[ Bes ]], had no
+temples of their own. However, many other gods, including Amun and Osiris,
+were very important in both popular and official religion.[[ ^143 ]] Some
+individuals might be particularly devoted to a single god. Often they favored
+deities affiliated with their own region, or with their role in life. The god
+[[ Ptah ]], for instance, was particularly important in his cult center of
+[[ Memphis | memphis-egypt ]], but as the patron of craftsmen he received the
+nationwide veneration of many in that occupation.[[ ^144 ]]
+
+=== Magic
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Eye_of_Ra_pendant.jpg/250px-Eye_of_Ra_pendant.jpg" height="188" width="250"
+
+  <figcaption>Amulet in the shape of the [[ Eye of Horus ]], a common magical symbol
+
+The word "//magic//" is normally used to translate the Egyptian term //heka//,
+which meant, as [[ James P. Allen | james-peter-allen ]] puts it, "the ability
+to make things happen by indirect means".[[ ^145 ]]
+
+//Heka// was believed to be a natural phenomenon, the force which was used to
+create the universe and which the gods employed to work their will. Humans
+could also use it, and magical practices were closely intertwined with
+religion. In fact, even the regular rituals performed in temples were counted
+as magical.[[ ^146 ]] Individuals also frequently employed magical techniques
+for personal purposes. Although these ends could be harmful to other people,
+no form of magic was considered inimical in itself. Instead, magic was seen
+primarily as a way for humans to prevent or overcome negative
+events.[[ ^147 ]]
+
+Magic was closely associated with the priesthood. Because temple libraries
+contained numerous magical texts, great magical knowledge was ascribed to the
+[[ lector priests | lector-priest ]], who studied these texts. These priests
+often worked outside their temples, hiring out their magical services to
+laymen. Other professions also commonly employed magic as part of their work,
+including doctors, scorpion-charmers, and makers of magical amulets. It is
+also possible that the peasantry used simple magic for their own purposes, but
+because this magical knowledge would have been passed down orally, there is
+limited evidence of it.[[ ^148 ]]
+
+Language was closely linked with //heka//, to such a degree that [[ Thoth ]],
+the god of writing, was sometimes said to be the inventor of
+//heka//.[[ ^149 ]] Therefore, magic frequently involved written or spoken
+incantations, although these were usually accompanied by ritual actions. Often
+these rituals invoked an appropriate deity to perform the desired action,
+using the power of //heka// to compel the deity to act. Sometimes this
+entailed casting the practitioner or subject of a ritual in the role of a
+character in mythology, thus inducing the god to act toward that person as it
+had in the myth.
+
+Rituals also employed [[ sympathetic magic ]], using objects believed to have
+a magically significant resemblance to the subject of the rite. The Egyptians
+also commonly used objects believed to be imbued with //heka// of their own,
+such as the magically protective [[ amulets | amulet ]] worn in great numbers
+by ordinary Egyptians.[[ ^150 ]]
+
+=== Funerary practices
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Opening_of_the_mouth_ceremony.jpg/330px-Opening_of_the_mouth_ceremony.jpg" height="246" width="300"
+
+  <figcaption>The Opening of the Mouth ceremony being performed before the tomb
+
+Because it was considered necessary for the survival of the soul, preservation
+of the body was a central part of Egyptian funerary practices. Originally the
+Egyptians buried their dead in the desert, where the arid conditions
+[[ mummified | mummy ]] the body naturally. In the Early Dynastic Period,
+however, they began using tombs for greater protection, and the body was
+insulated from the [[ desiccating | desiccation ]] effect of the sand and was
+subject to natural decay. Thus, the Egyptians developed their elaborate
+[[ embalming ]] practices, in which the corpse was artificially desiccated and
+wrapped to be placed in its coffin.[[ ^151 ]] The quality of the process
+varied according to cost, however, and those who could not afford it were
+still buried in desert graves.[[ ^152 ]]
+
+Once the mummification process was complete, the mummy was carried from the
+deceased person's house to the tomb in a funeral procession that included his
+or her relatives and friends, along with a variety of priests. Before the
+burial, these priests performed several rituals, including the
+[[ opening of the mouth ceremony ]] intended to restore the dead person's
+senses and give him or her the ability to receive offerings. Then the mummy
+was buried and the tomb sealed.[[ ^153 ]] Afterwards, relatives or hired
+priests gave food offerings to the deceased in a nearby mortuary chapel at
+regular intervals. Over time, families inevitably neglected offerings to
+long-dead relatives, so most mortuary cults only lasted one or two
+generations.[[ ^154 ]] However, while the cult lasted, the living sometimes
+wrote letters asking deceased relatives for help, in the belief that the dead
+could affect the world of the living as the gods did.[[ ^155 ]]
+
+The first Egyptian tombs were [[ mastabas | mastaba ]], rectangular brick
+structures where kings and nobles were entombed. Each of them contained a
+subterranean burial chamber and a separate, above ground chapel for mortuary
+rituals. In the Old Kingdom, the mastaba developed into the [[ pyramid ]],
+which symbolized the primeval mound of Egyptian myth. Pyramids were reserved
+for royalty, and were accompanied by large mortuary temples sitting at their
+base. Middle Kingdom pharaohs continued to build pyramids, but the popularity
+of mastabas waned. Increasingly, commoners with sufficient means were buried
+in [[ rock-cut tombs | rock-cut-tomb ]] with separate mortuary chapels nearby,
+an approach which was less vulnerable to tomb robbery. By the beginning of the
+New Kingdom even the pharaohs were buried in such tombs, and they continued to
+be used until the decline of the religion itself.[[ ^156 ]]
+
+Tombs could contain a great variety of other items, including statues of the
+deceased to serve as substitutes for the body in case it was
+damaged.[[ ^157 ]] Because it was believed that the deceased would have to do
+work in the afterlife, just as in life, burials often included
+[[ small models of humans | ushabti ]] to do work in place of the
+deceased.[[ ^158 ]]
+[[ Human sacrifices | ancient-egyptian-retainer-sacrifices ]] found in early
+royal tombs were probably meant to serve the pharaoh in his
+afterlife.[[ ^159 ]]
+
+The tombs of wealthier individuals could also contain furniture, clothing, and
+other everyday objects intended for use in the afterlife, along with amulets
+and other items intended to provide magical protection against the hazards of
+the spirit world.[[ ^160 ]] Further protection was provided by funerary texts
+included in the burial. The tomb walls also bore artwork, such as images of
+the deceased eating food that were believed to allow him or her to magically
+receive sustenance even after the mortuary offerings had ceased.[[ ^161 ]]
+
+[[ ^1 ]]: Kaelin, Oskar (2016-11-22). [[ "Gods in Ancient Egypt" | https://oxfordre.com/religion/display/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-244 ]]. //Oxford Research Encyclopedia of Religion//. doi:[[ 10.1093/acrefore/9780199340378.013.244 | https://doi.org/10.1093%2Facrefore%2F9780199340378.013.244 ]]. ISBN [[ 978-0-19-934037-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-934037-8 ]]. Retrieved 2023-04-10.``\{{cite web}}``:  CS1 maint: periodical has ISBN ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_periodical_has_ISBN ]])
+
+[[ ^2 ]]: Wilkinson 2003, pp. 12–15.
+
+[[ ^3 ]]: Wilkinson 2003, p. 31.
+
+[[ ^4 ]]: David 2002, pp. 50–52.
+
+[[ ^5 ]]: Smith, Stuart Tyson (January 2018). [[ "Gift of the Nile? Climate change, the origins of Egyptian civilization and its interactions within northeast Africa" | https://www.academia.edu/43275151 ]]. //Across the Mediterranean – along the Nile: Studies in Egyptology, Nubiology, and late Antiquity dedicated to László Török//. Budapest, HU.``\{{cite book}}``:  CS1 maint: location missing publisher ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_location_missing_publisher ]])
+
+[[ ^6 ]]: "A large number of gods go back to prehistoric times. The images of a cow and star goddess (Hathor), the falcon (Horus), and the human-shaped figures of the fertility god (Min) can be traced back to that period. Some rites, such as the "running of the Apil-bull," the "hoeing of the ground," and other fertility and hunting rites (e.g., the hippopotamus hunt) presumably date from early times.. Connections with the religions in southwest Asia cannot be traced with certainty."
+"It is doubtful whether Osiris can be regarded as equal to Tammuz or Adonis, or whether Hathor is related to the "Great Mother." There are closer relations with northeast African religions. The numerous animal cults (especially bovine cults and panther gods) and details of ritual dresses (animal tails, masks, grass aprons, etc) probably are of African origin. The kinship in particular shows some African elements, such as the king as the head ritualist (i.e., medicine man), the limitations and renewal of the reign (jubilees, regicide), and the position of the king's mother (a matriarchal element). Some of them can be found among the Ethiopians in Napata and Meroe, others among the Prenilotic tribes (Shilluk).""Egyptian religion". //[[ Encyclopedia Britannica ]]//. Macropedia. Vol. 6. 1984. pp. 506–508.
+
+[[ ^7 ]]: Frankfort, Henri (1978). //Kingship and the Gods: A study of ancient Near Eastern religion as the integration of society & nature//. Phoenix. Chicago, IL: University of Chicago Press. pp. 161–223. ISBN [[ 0-226-26011-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-226-26011-9 ]].
+
+[[ ^8 ]]: Manzo, Andrea (2022). //Ancient Egypt in its African context: Economic networks, social and cultural interactions//. Cambridge University Press. pp. 1–50. ISBN [[ 978-1-0090-7454-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-0090-7454-4 ]].
+
+[[ ^9 ]]: Budge, e a Wallis (1914). [[ //A Short History Of The Egyptian People// | https://archive.org/details/in.ernet.dli.2015.96741/page/n27/mode/2up?q=aboriginal ]]. p. 10.
+
+[[ ^10 ]]: Lam, Aboubacry Moussa (1993). [[ //De l'origine égyptienne des Peuls// | https://books.google.com/books?id=jVhkQgAACAAJ ]] (in French). Présence africaine. p. 345. ISBN [[ 978-2-7087-0570-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-2-7087-0570-8 ]].
+
+[[ ^11 ]]: "The most interesting part of the Egyptian knowledge about Sub-Saharan Africa is in relation to Punt and God's Land, or the lands of the gods. These lands had traded with Egypt since 2500 BC or even before. The Egyptians are not known to have had any war with the people of Punt, probably due to the fact that the land was not near enough to wage wars of conquest (kitchen, 1999: 174). These were lands of semi-mythical "horizon dwellers". Egyptians also considered their gods or ancestors to have originated from these lands thought to be in eastern and southern Africa (Whicker, 1990) and hence "God's land" ([[ Kitchen | kenneth-kitchen ]], 1993:592). The records of the last Millennium BC show that Osiris and Isis, the most powerful Egyptian god and goddess, were "Ethiopians"/Black originating from countries in the south of Africa ([[ Leclant | jean-leclant ]], 1997: 157; Kendall, 1997: 171; Waterfield, 1967)."Chami, Felix (2006). [[ //The unity of African ancient history: 3000 BC to AD 500// | https://archive.org/details/unityofafricanan0000cham/page/148/mode/2up ]]. Dar es Salaam, Tanzania : E & D Ltd. p. 148. ISBN [[ 978-1-904855-82-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-904855-82-8 ]].
+
+[[ ^12 ]]: Baqué-Manzano, Lucas (2002). [[ "Further arguments on the Coptos colossi" | https://www.researchgate.net/publication/290949422 ]]. //Bulletin de l'Institut français d'archéologie orientale// (102): 17–61.
+
+[[ ^13 ]]: [[ "Exhibit notice" | https://www.flickr.com/photos/156915032@N07/54768587791/in/dateposted-public/ ]]. //Ashmolean Museum//. 6 September 2025.
+
+[[ ^14 ]]: Baqué-Manzano, Lucas (2002). [[ "Further arguments on the Coptos colossi" | https://www.researchgate.net/publication/290949422 ]]. //Bulletin de l'Institut français d'archéologie orientale// (102): 42.
+
+[[ ^15 ]]: Betrò, Maria C. (1996). [[ //Hieroglyphics: the writings of ancient Egypt// | https://archive.org/details/PJ1097.B46/page/n103/mode/2up ]]. p. 211.
+
+[[ ^16 ]]: Wilkinson 2003, p. 15.
+
+[[ ^17 ]]: Wilkinson 2000, pp. 17–19.
+
+[[ ^18 ]]: David 2002, pp. 51, 81–85.
+
+[[ ^19 ]]: Dunand & Zivie-Coche 2005, pp. 78–79.
+
+[[ ^20 ]]: Strudwick, Helen (2006). //The Encyclopedia of Ancient Egypt//. New York: Sterling Publishing Co., Inc. pp. 108–111. ISBN [[ 978-1-4351-4654-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4351-4654-9 ]].
+
+[[ ^21 ]]: Malek 2000, pp. 92–93, 108–9.
+
+[[ ^22 ]]: David 2002, pp. 90–91, 112.
+
+[[ ^23 ]]: Malek 2000, p. 113.
+
+[[ ^24 ]]: David 2002, p. 92.
+
+[[ ^25 ]]: David 2002, p. 154.
+
+[[ ^26 ]]: Callender, Gae, "The Middle Kingdom", in Shaw 2000, pp. 180–81.
+
+[[ ^27 ]]: David 2002, pp. 181–84, 186.
+
+[[ ^28 ]]: Assmann 2001, pp. 166, 191–92.
+
+[[ ^29 ]]: David 2002, pp. 276, 304.
+
+[[ ^30 ]]: David 2002, pp. 215–18, 238.
+
+[[ ^31 ]]: Van Dijk 2000, pp. 287, 311.
+
+[[ ^32 ]]: David 2002, pp. 238–39.
+
+[[ ^33 ]]: Van Dijk 2000, pp. 289, 310–12.
+
+[[ ^34 ]]: Assmann, //State and Religion in the New Kingdom//, in Simpson 1989, pp. 72–79.
+
+[[ ^35 ]]: David 2002, pp. 312–17.
+
+[[ ^36 ]]: Wilkinson 2003, pp. 51, 146–49.
+
+[[ ^37 ]]: Peacock 2000, pp. 437–38.
+
+[[ ^38 ]]: David 2002, pp. 325–28.
+
+[[ ^39 ]]: David 2002, p. 326.
+
+[[ ^40 ]]: Holger, Kockelmann (2012-04-24). [[ "Philae" | http://escholarship.org/uc/item/1456t8bn#page-2 ]]. In Wendrich, Willeke; et al. (eds.). //UCLA Encyclopedia of Egyptology//. Vol. 1.
+
+[[ ^41 ]]: Lloyd, Alan B. (2001). "Philae". In Redford, Donald (ed.). //The Oxford Encyclopedia of Ancient Egypt//. Vol. 3. Oxford: Oxford University Press. pp. 40–44. ISBN [[ 0-19-513823-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-19-513823-6 ]].
+
+[[ ^42 ]]: Moawad, Samuel (2013). "Christianity on Philae". In [[ Gabra, Gawdat | gawdat-gabra ]]; Takla, Hany N. (eds.). //Christianity and Monasticism in Aswan and Nubia//. Christianity and Monasticism in Egypt. Cairo: American University in Cairo Press. pp. 27–38. ISBN [[ 978-977-416-561-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-977-416-561-0 ]].
+
+[[ ^43 ]]: [[ Procopius ]] //Bell. Pers.// 1.19.37
+
+[[ ^44 ]]: Joann Fletcher (2016). [[ //The amazing history of Egypt// | http://www.historyextra.com/podcast/history-Egypt-Joann-Fletcher ]] (MP3) (podcast). BBC History Magazine.  Event occurs at 53:46. Retrieved 17 Jan 2016.
+
+[[ ^45 ]]: Dijkstra, Jitse H.F. (2004). "A Cult of Isis at Philae after Justinian? Reconsidering 'P. Cair. Masp.' I 67004". //Zeitschrift für Papyrologie und Epigraphik//. !!146!!: 137–154. JSTOR [[ 20191757 | https://www.jstor.org/stable/20191757 ]].
+
+[[ ^46 ]]: Frankfurter 1998, pp. 23–30.
+
+[[ ^47 ]]: Assmann 2001, p. 392.
+
+[[ ^48 ]]: Hornung 2001, pp. 1, 9–11, 73–75.
+
+[[ ^49 ]]: Hornung 2001, p. 75.
+
+[[ ^50 ]]: Fleming & Lothian 1997, pp. 133–36.
+
+[[ ^51 ]]: Melton 2009, pp. 841, 847, 851, 855.
+
+[[ ^52 ]]: [[ "International Network of Kemetics" | https://web.archive.org/web/20081005061721/http://www.inkemetic.org/ ]]. Archived from [[ the original | http://www.inkemetic.org/ ]] on 2008-10-05. Retrieved 2008-08-21.
+
+[[ ^53 ]]: Raneb, Djehutijdjedef. [[ "Egypt - the image of heaven" | http://kemet.pise.cz/4520-egypt-obraz-nebes.html ]] (in Czech). Retrieved 2009-09-26.
+
+[[ ^54 ]]: Assmann 2001, pp. 1–5, 80.
+
+[[ ^55 ]]: Assmann 2001, pp. 63–64, 82.
+
+[[ ^56 ]]: Allen 2000, pp. 43–44.
+
+[[ ^57 ]]: Wilkinson 2003, pp. 30, 32, 89.
+
+[[ ^58 ]]: Silverman 1991, pp. 55–58.
+
+[[ ^59 ]]: David 2002, p. 53.
+
+[[ ^60 ]]: Wilkinson 2003, pp. 28.
+
+[[ ^61 ]]: Teeter 2001, pp. 340–44.
+
+[[ ^62 ]]: Wilkinson 2003, pp. 74–79.
+
+[[ ^63 ]]: Dunand & Zivie-Coche 2005, pp. 27–28.
+
+[[ ^64 ]]: Wilkinson 2003, pp. 33–35.
+
+[[ ^65 ]]: Wilkinson 2003, pp. 36, 67.
+
+[[ ^66 ]]: Assmann 2001, pp. 189–92, 241–42.
+
+[[ ^67 ]]: Allen 2000, pp. 115–17.
+
+[[ ^68 ]]: Assmann 2001, pp. 4–5.
+
+[[ ^69 ]]: Shafer 1997, pp. 2–4.
+
+[[ ^70 ]]: Assmann 2001, pp. 68–79.
+
+[[ ^71 ]]: Allen 2000, pp. 104, 127.
+
+[[ ^72 ]]: Lesko 1991, pp. 117–21.
+
+[[ ^73 ]]: Dunand & Zivie-Coche 2005, pp. 45–46.
+
+[[ ^74 ]]: Allen, James P., "The Cosmology of the Pyramid Texts", in Simpson 1989, pp. 20–26.
+
+[[ ^75 ]]: Allen 2000, p. 31.
+
+[[ ^76 ]]: [[ "Guardian Figure" | https://www.metmuseum.org/art/collection/search/543864 ]]. //www.metmuseum.org//. [[ Metropolitan Museum of Art ]]. Retrieved 9 February 2022.
+
+[[ ^77 ]]: Wilkinson 2003, pp. 54–56.
+
+[[ ^78 ]]: Assmann 2001, pp. 5–6.
+
+[[ ^79 ]]: Wilkinson 2003, p. 55.
+
+[[ ^80 ]]: Van Dijk 2000, pp. 311–12.
+
+[[ ^81 ]]: David 2002, pp. 69, 95, 184.
+
+[[ ^82 ]]: Wilkinson 2003, pp. 60–63.
+
+[[ ^83 ]]: Allen 2000, pp. 79–80.
+
+[[ ^84 ]]: Allen 2000, pp. 94–95.
+
+[[ ^85 ]]: Taylor 2001, p. 25.
+
+[[ ^86 ]]: David 2002, pp. 90, 94–95.
+
+[[ ^87 ]]: Fleming & Lothian 1997, p. 104.
+
+[[ ^88 ]]: David 2002, pp. 160–61.
+
+[[ ^89 ]]: Assmann 2005, pp. 209–10, 398–402.
+
+[[ ^90 ]]: [[ Montserrat, Dominic | dominic-montserrat ]] (2000), //Akhenaten: History, Fantasy and Ancient Egypt//, Routledge, pp. 36ff, ISBN [[ 0-415-18549-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-415-18549-1 ]].
+
+[[ ^91 ]]: Najovits, Simson (2003). [[ //Egypt, trunk of the tree// | https://books.google.com/books?id=UrR848g3gp8C&pg=PA88 ]]. Vol. 2. Algora. pp. 131–44. ISBN [[ 978-0-87586-256-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-87586-256-9 ]].
+
+[[ ^92 ]]: Dunand & Zivie-Coche 2005, p. 35.
+
+[[ ^93 ]]: Allen 2000, p. 198.
+
+[[ ^94 ]]: Traunecker 2001, pp. 1–5.
+
+[[ ^95 ]]: Wilkinson 2003, pp. 222–223.
+
+[[ ^96 ]]: Tobin 2001, pp. 464–68.
+
+[[ ^97 ]]: Pinch 1995, p. 18.
+
+[[ ^98 ]]: Fleming & Lothian 1997, p. 26.
+
+[[ ^99 ]]: Allen 2000, pp. 143–45, 171–73, 182.
+
+[[ ^100 ]]: Meeks & Favard-Meeks 1996, p. 37.
+
+[[ ^101 ]]: Assmann 2001, p. 124.
+
+[[ ^102 ]]: Fleming & Lothian 1997, pp. 76, 78.
+
+[[ ^103 ]]: Quirke & Spencer 1992, p. 67.
+
+[[ ^104 ]]: Fleming & Lothian 1997, pp. 84, 107–108.
+
+[[ ^105 ]]: Fleming & Lothian 1997, pp. 33, 38–39.
+
+[[ ^106 ]]: Dunand & Zivie-Coche 2005, pp. 93–99.
+
+[[ ^107 ]]: Pinch 1995, p. 63.
+
+[[ ^108 ]]: Foster 2001, vol. II, pp. 312–17.
+
+[[ ^109 ]]: Dunand & Zivie-Coche 2005, p. 94.
+
+[[ ^110 ]]: Assmann 2001, p. 166.
+
+[[ ^111 ]]: Ockinga, Boyo, "Piety", in Redford 2001, vol. III, pp. 44–46.
+
+[[ ^112 ]]: Allen 2000, p. 315.
+
+[[ ^113 ]]: Hornung 1999, pp. 1–5.
+
+[[ ^114 ]]: David 2002, p. 93.
+
+[[ ^115 ]]: Taylor 2001, pp. 194–95.
+
+[[ ^116 ]]: Hornung 1999, pp. xvii, 14.
+
+[[ ^117 ]]: Quirke & Spencer 1992, p. 98.
+
+[[ ^118 ]]: Allen 2000, pp. 316–17.
+
+[[ ^119 ]]: Hornung 1999, pp. 26–27, 30.
+
+[[ ^120 ]]: Wilkinson 2003, pp. 42–44.
+
+[[ ^121 ]]: Wilkinson 2000, pp. 8–9, 50.
+
+[[ ^122 ]]: Wilkinson 2000, p. 82.
+
+[[ ^123 ]]: Dunand & Zivie-Coche 2005, pp. 72–82, 86–89.
+
+[[ ^124 ]]: Wilkinson 2000, pp. 72–75.
+
+[[ ^125 ]]: Shafer 1997, p. 9.
+
+[[ ^126 ]]: Wilkinson 2000, pp. 9, 25–26.
+
+[[ ^127 ]]: Wilkinson 2000, pp. 92–93.
+
+[[ ^128 ]]: Thompson, Stephen E., "Cults: Overview", in Redford 2001, vol. I, 326–332
+
+[[ ^129 ]]: Wilkinson 2000, p. 95
+
+[[ ^130 ]]: Dunand & Zivie-Coche 2005, pp. 93–95; Shafer 1997, p. 25
+
+[[ ^131 ]]: Shafer 1997, pp. 27–28.
+
+[[ ^132 ]]: Dunand & Zivie-Coche 2005, pp. 21, 83.
+
+[[ ^133 ]]: Quirke & Spencer 1992, pp. 78, 92–94.
+
+[[ ^134 ]]: Owen, James (2004). [[ "Egyptian Animals Were Mummified Same Way as Humans" | https://web.archive.org/web/20040917002041/http://news.nationalgeographic.com/news/2004/09/0915_040915_petmummies.html ]]. //National Geographic News//. Archived from [[ the original | https://news.nationalgeographic.com/news/2004/09/0915_040915_petmummies.html ]] on September 17, 2004. Retrieved 2010-08-06.
+
+[[ ^135 ]]: Kruchten, Jean-Marie, "Oracles", in Redford 2001, pp. 609–611
+
+[[ ^136 ]]: Frankfurter 1998, pp. 145–152.
+
+[[ ^137 ]]: Sadek 1988, pp. 1–2.
+
+[[ ^138 ]]: Wilkinson 2003, pp. 46
+
+[[ ^139 ]]: Dunand & Zivie-Coche 2005, pp. 128–131.
+
+[[ ^140 ]]: Baines, in Shafer 1991, pp. 164–171
+
+[[ ^141 ]]: Lesko, Barbara S. "Cults: Private Cults", in Redford 2001, vol. I, pp. 336–339
+
+[[ ^142 ]]: Sadek 1988, pp. 76–78.
+
+[[ ^143 ]]: David 2002, pp. 273, 276–277.
+
+[[ ^144 ]]: Traunecker 2001, p. 98.
+
+[[ ^145 ]]: Allen 2000, pp. 156–157.
+
+[[ ^146 ]]: Pinch 1995, pp. 9–17.
+
+[[ ^147 ]]: Baines, in Shafer 1991, p. 165.
+
+[[ ^148 ]]: Pinch 1995, pp. 51–63.
+
+[[ ^149 ]]: Pinch 1995, pp. 16, 28.
+
+[[ ^150 ]]: Pinch 1995, pp. 73–78.
+
+[[ ^151 ]]: Quirke & Spencer 1992, pp. 86–90.
+
+[[ ^152 ]]: David 2002, pp. 300–1.
+
+[[ ^153 ]]: Taylor 2001, pp. 187–93.
+
+[[ ^154 ]]: Taylor 2001, p. 95.
+
+[[ ^155 ]]: David 2002, p. 282.
+
+[[ ^156 ]]: Taylor 2001, pp. 141–55.
+
+[[ ^157 ]]: Fleming & Lothian 1997, pp. 100–1.
+
+[[ ^158 ]]: Taylor 2001, pp. 99–103.
+
+[[ ^159 ]]: Sergio Donadoni, //The Egyptians//, (Chicago: [[ University of Chicago Press ]], 1997) p. 262
+
+[[ ^160 ]]: Taylor 2001, pp. 107–10, 200–13.
+
+[[ ^161 ]]: Quirke & Spencer 1992, pp. 97–98, 112.

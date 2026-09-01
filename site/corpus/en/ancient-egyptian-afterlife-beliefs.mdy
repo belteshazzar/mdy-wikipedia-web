@@ -1,0 +1,745 @@
++++
+title: Ancient Egyptian afterlife beliefs
+image: https://upload.wikimedia.org/wikipedia/commons/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg
+images:
+  - file: El_pesado_del_corazón_en_el_Papiro_de_Hunefer.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg/250px-El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg
+    width: 1035
+    height: 651
+    caption: This detail scene from the Papyrus of Hunefer (c. 1375 BC) shows
+      Hunefer's heart being weighed on the scale of Maat against the feather of
+      truth, by the jackal-headed Anubis. The ibis-headed Thoth, scribe of the
+      gods, records the result. If his heart is lighter than the feather,
+      Hunefer is allowed to pass into the afterlife. If not, he is eaten by the
+      waiting Ammit. Vignettes such as these were a common illustration in
+      Egyptian books of the dead.
+  - file: Opening_of_the_mouth_ceremony_(cropped).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Opening_of_the_mouth_ceremony_%28cropped%29.jpg/250px-Opening_of_the_mouth_ceremony_%28cropped%29.jpg
+    width: 1679
+    height: 1116
+    caption: The Opening of the Mouth ceremony being performed on a mummy before the
+      tomb. Anubis attending the mummy of the deceased. Extract from the Papyrus
+      of Hunefer, a 19th-Dynasty Book of the Dead (c. 1300 BC)
+  - file: Hieroglyph_Text_from_Teti_I_pyramid.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hieroglyph_Text_from_Teti_I_pyramid.jpg/250px-Hieroglyph_Text_from_Teti_I_pyramid.jpg
+    width: 2272
+    height: 1704
+    caption: Pyramid Text within the burial pyramid of Teti I
+  - file: The_11th_hour_of_the_book_Amduat_(5090498771).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_11th_hour_of_the_book_Amduat_%285090498771%29.jpg/250px-The_11th_hour_of_the_book_Amduat_%285090498771%29.jpg
+    width: 2568
+    height: 3052
+    caption: The 11th hour of the book Amduat
+  - file: Isis_and_Nepthys_as_kites_by_the_bier.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Isis_and_Nepthys_as_kites_by_the_bier.jpg/330px-Isis_and_Nepthys_as_kites_by_the_bier.jpg
+    width: 1024
+    height: 446
+    caption: Isis (left) and Nephthys (right) as kites near the bier of a mummy,
+      thirteenth century BCE
+  - file: Book_of_Gates_Barque_of_Ra_cropped.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Book_of_Gates_Barque_of_Ra_cropped.jpg/250px-Book_of_Gates_Barque_of_Ra_cropped.jpg
+    width: 355
+    height: 215
+    caption: Af or Afu (commonly known as Afu-Ra), the ram-headed form of Ra when
+      traveling the Duat on the subterrestrial Nile (the 12 hours of night and
+      the underworld) on the Mesektet barque along with Sia (left and front of
+      barque) and Heka (right and behind of barque), surrounded by the
+      protective coiled serpent deity Mehen
+  - file: Bookofthedead-144145.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bookofthedead-144145.jpg/250px-Bookofthedead-144145.jpg
+    width: 1087
+    height: 359
+    caption: Ani and his wife face the 'seven gates of the House of Osiris'. Below,
+      they encounter ten of the 21 'mysterious portals of the House of Osiris in
+      the Field of Reeds'. All are guarded by gate deities.
+  - file: Egypt.Papyrus.01.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Egypt.Papyrus.01.jpg/250px-Egypt.Papyrus.01.jpg
+    width: 640
+    height: 480
+    caption: A section of the Book of the Dead showing the Weighing of the Heart in
+      the Duat. The enthroned Osiris is seated in his shrine
+  - file: The_Weighing_of_the_Heart.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Weighing_of_the_Heart.svg/500px-The_Weighing_of_the_Heart.svg.png
+    width: 2002
+    height: 898
+    caption: The Weighing of the Heart in the Hall of Maat.
+  - file: Ani_chap125.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ani_chap125.jpg/250px-Ani_chap125.jpg
+    width: 631
+    height: 377
+    caption: "Papyrus of Ani: some of the 42 Judges of Maat are visible, seated and
+      in small size"
+  - file: Early_Ammit.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Early_Ammit.jpg/250px-Early_Ammit.jpg
+    width: 1436
+    height: 1132
+    caption: Ammit "Devourer of the Dead", and (above) the lake of fire guarded by
+      baboons, from the papyrus of Nebqed (18th Dynasty, ca. 1391-1353 BCE)
+  - file: 27.1_Iaru.tif
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/27.1_Iaru.tif/lossless-page1-250px-27.1_Iaru.tif.png
+    width: 1048
+    height: 1025
+    caption: Painting of Aaru in the tomb of Sennedjem in Deir el-Medina.
+  - file: BD_Field_of_Hotep.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BD_Field_of_Hotep.jpg/250px-BD_Field_of_Hotep.jpg
+    width: 2633
+    height: 1930
+    caption: Depiction of the "Field of Reeds" within the Papyrus of Ani, currently
+      at the British Museum.
+wikidata:
+  id: Q1687413
+  label: Ancient Egyptian afterlife beliefs
+  description: complex rituals
+categories:
+  - Afterlife
+  - Ancient Egyptian religion
+langlinks:
+  ar: المعتقدات المصرية القديمة بالحياة الآخرة
+  bn: প্রাচীন মিশরীয় পরকালতত্ত্ব
+  de: Jenseits (Altes Ägypten)
+  el: Αρχαίες αιγυπτιακές πεποιθήσεις για τη μεταθανάτια ζωή
+  es: Antiguas creencias egipcias del más allá
+  fa: باورهای زندگی پس از مرگ مصر باستان
+  fr: Au-delà (Égypte antique)
+  he: אמונות החיים שלאחר המוות במצרים העתיקה
+  hy: Հին եգիպտացիների համոզմունքներն անդրշիրիմյան կյանքի մասին
+  id: Kepercayaan alam baka Mesir Kuno
+  ms: Kepercayaan akhirat Mesir Purba
+  zh: 古埃及来世信仰
+link-titles:
+  aaru: Aaru
+  afterlife: Afterlife
+  am-heh: Am-heh
+  amduat: Amduat
+  ammit: Ammit
+  ancient-egyptian-concept-of-the-soul: Ancient Egyptian concept of the soul
+  ancient-egyptian-pyramids: Ancient Egyptian pyramids
+  ancient-egyptian-religion: Ancient Egyptian religion
+  anubis: Anubis
+  assessors-of-maat: Assessors of Maat
+  book-of-caverns: Book of Caverns
+  book-of-gates: Book of Gates
+  book-of-nut: Book of Nut
+  book-of-the-dead: Book of the dead
+  book-of-the-earth: Book of the Earth
+  british-museum: British Museum
+  coffin-texts: Coffin Texts
+  culture-of-egypt: Culture of Egypt
+  deir-el-medina: Deir el-Medina
+  duat: Duat
+  egyptian-gods: Egyptian gods
+  false-door: False door
+  false-witness: False witness
+  feather-of-truth: Feather of truth
+  fifth-dynasty-of-egypt: Fifth Dynasty of Egypt
+  gate-deities-of-the-underworld: Gate deities of the underworld
+  grave-goods: Grave goods
+  heart-scarab: Heart scarab
+  heka-god: Heka (god)
+  horus: Horus
+  hunefer: Hunefer
+  ibis: Ibis
+  isis: Isis
+  jackal: Jackal
+  khufu-ship: Khufu ship
+  kite-bird: Kite (bird)
+  lake-of-fire: Lake of fire
+  maat: Maat
+  mehen: Mehen
+  middle-kingdom-of-egypt: Middle Kingdom of Egypt
+  mummy: Mummy
+  nephthys: Nephthys
+  new-kingdom-of-egypt: New Kingdom of Egypt
+  nile: Nile
+  nineteenth-dynasty-of-egypt: Nineteenth Dynasty of Egypt
+  nut-goddess: Nut (goddess)
+  old-kingdom-of-egypt: Old Kingdom of Egypt
+  opening-of-the-mouth: Opening of the Mouth
+  osiris: Osiris
+  papyrus: Papyrus
+  papyrus-of-ani: Papyrus of Ani
+  pharaoh: Pharaoh
+  pharaohs: Pharaohs
+  pylon-architecture: Pylon (architecture)
+  pyramid-texts: Pyramid Texts
+  pyramid-of-khufu: Pyramid of Khufu
+  ra: Ra
+  ritual: Ritual
+  sia-god: Sia (god)
+  thoth: Thoth
+  vignette-graphic-design: Vignette (graphic design)
+  wepwawet: Wepwawet
+sections:
+  - level: 2
+    id: funeral-practices
+    title: Funeral practices
+  - level: 3
+    id: tombs
+    title: Tombs
+  - level: 3
+    id: afterlife-texts
+    title: Afterlife texts
+  - level: 4
+    id: pyramid-texts
+    title: Pyramid Texts
+  - level: 4
+    id: coffin-texts
+    title: Coffin Texts
+  - level: 4
+    id: book-of-the-dead
+    title: Book of the Dead
+  - level: 4
+    id: books-of-the-netherworld
+    title: Books of the Netherworld
+  - level: 4
+    id: books-of-the-sky
+    title: Books of the Sky
+  - level: 3
+    id: coffins
+    title: Coffins
+  - level: 3
+    id: mummification-process
+    title: Mummification process
+  - level: 3
+    id: funeral-offerings
+    title: Funeral offerings
+  - level: 2
+    id: journey-to-the-afterlife
+    title: Journey to the afterlife
+  - level: 2
+    id: judgment-of-the-dead
+    title: Judgment of the dead
+  - level: 2
+    id: lake-of-fire
+    title: Lake of fire
+  - level: 2
+    id: rebirth
+    title: Rebirth
+  - level: 2
+    id: gender
+    title: Gender
+  - level: 2
+    id: sekhet-aaru
+    title: Sekhet-Aaru
+source:
+  site: Wikipedia
+  lang: en
+  title: Ancient Egyptian afterlife beliefs
+  url: https://en.wikipedia.org/wiki/Ancient_Egyptian_afterlife_beliefs
+  page-id: 56695079
+  revision: "1356193620"
+  modified: 2026-05-26T07:00:41Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Ancient
+    Egyptian afterlife beliefs" (revision 1356193620), by Wikipedia
+    contributors, used under CC BY-SA 4.0.
++++
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg/250px-El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg" height="157" width="250"
+
+  <figcaption>This detail scene from the Papyrus of [[ Hunefer ]] (c. 1375 BC) shows Hunefer's heart being weighed on the scale of [[ Maat ]] against the [[ feather of truth ]], by the [[ jackal ]]-headed [[ Anubis ]]. The [[ ibis ]]-headed [[ Thoth ]], scribe of the gods, records the result. If his heart is lighter than the feather, Hunefer is allowed to pass into the [[ afterlife ]]. If not, he is eaten by the waiting Ammit. [[ Vignettes | vignette-graphic-design ]] such as these were a common illustration in Egyptian [[ books of the dead | book-of-the-dead ]].[[ ^1 ]]
+
+!!Ancient Egyptian afterlife beliefs!! were centered around a variety of
+complex [[ rituals | ritual ]] that were influenced by many aspects of
+[[ Egyptian culture | culture-of-egypt ]].
+[[ Religion | ancient-egyptian-religion ]] was a major contributor, since it
+was an important social practice that bound all Egyptians together. For
+instance, many of the [[ Egyptian gods ]] played roles in guiding the souls of
+the dead through the [[ afterlife ]]. With the evolution of writing, religious
+ideals were recorded and quickly spread throughout the Egyptian community. The
+solidification and commencement of these doctrines were formed in the creation
+of afterlife texts which illustrated and explained what the dead would need to
+know in order to complete the journey safely.
+
+Egyptian religious doctrines included three afterlife ideologies: belief in an
+underworld, eternal life, and rebirth of the soul. The underworld, also known
+as the [[ Duat ]], had only one entrance that could be reached by traveling
+through the tomb of the deceased. The initial image a soul would be presented
+with upon entering this realm was a corridor lined with an array of
+fascinating statues, including a variation of the hawk-headed god,
+[[ Horus ]]. The path taken to the underworld may have varied between kings
+and common people. After entry, spirits were presented to another prominent
+god, [[ Osiris ]]. Osiris would determine the virtue of the deceased's soul
+and grant those deemed deserving a peaceful afterlife. The Egyptian concept of
+'eternal life' was often seen as being reborn indefinitely. Therefore, the
+souls who had lived their life elegantly were guided to Osiris to be born
+again.[[ ^2 ]]
+
+In order to achieve the ideal afterlife, many practices had to be performed
+during one's life. This may have included acting justly and following the
+beliefs of the Egyptian creed. Additionally, the Egyptians stressed the
+rituals completed after an individual's life has ended. In other words, it was
+the responsibility of the living to carry out the final traditions required so
+the dead could promptly meet their final fate. Ultimately, maintaining high
+religious morals by both the living and the dead, as well as complying to a
+variety of traditions, guaranteed the deceased a smoother transition into the
+underworld.
+
+Egyptians hoped to perform their jobs and partake in their hobbies in the
+afterlife.[[ ^3 ]] Rivers and natural locales with fertile soil for farmers
+were thought to exist in the afterlife, and drawings on tomb walls of objects
+such as boats were thought to make them appear in the afterlife for previous
+users or owners.[[ ^3 ]]
+
+== Funeral practices
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Opening_of_the_mouth_ceremony_%28cropped%29.jpg/250px-Opening_of_the_mouth_ceremony_%28cropped%29.jpg" height="166" width="250"
+
+  <figcaption>The [[ Opening of the Mouth ]] ceremony being performed on a mummy before the tomb. [[ Anubis ]] attending the [[ mummy ]] of the deceased. Extract from the Papyrus of [[ Hunefer ]], a [[ 19th-Dynasty | nineteenth-dynasty-of-egypt ]] [[ Book of the Dead ]] (c. 1300 BC)
+
+There were many challenges the dead had to face before they were able to enter
+into the final stages of the afterlife. However, through the support of the
+living, the dead had access to the protection and knowledge they would need to
+be reborn in the netherworld.
+
+=== Tombs
+
+The design and scale of Egyptian burial tombs varied from period to period,
+even though their function remained the same. While most tombs were built
+during the lifetime of the person it was meant for, Egyptian tombs were
+constructed to house the body of the dead, but also functioned to transmit the
+soul to the underworld.[[ ^4 ]] Most of what was found in a tomb depended on
+the status of the person buried within it. However, in order to assist the
+dead, most tombs were decorated with texts meant to help guide the deceased's
+soul to the afterlife, something that was attainable to all.[[ ^5 ]] It was
+believed that a [[ false door ]] was a threshold between the worlds of the
+living and the dead and through which a deity or the spirit of the deceased
+could enter and exit.[[ ^6 ]] [[ Pharaohs ]]' tombs were provided with vast
+quantities of wealth. [[ Grave goods ]] and treasury are usually personal
+possessions, supplies to smooth the deceased's journey into the afterlife or
+offerings to the gods.
+
+=== Afterlife texts
+
+Throughout the centuries, the Egyptian people decorated their tombs and
+coffins with religious spells and texts hoping to help the dead in the
+afterlife. As Egyptian culture developed, these texts also evolved and became
+more complex and extensive in nature.
+
+==== Pyramid Texts
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hieroglyph_Text_from_Teti_I_pyramid.jpg/250px-Hieroglyph_Text_from_Teti_I_pyramid.jpg" alt="A" height="188" width="250"
+
+  <figcaption>Pyramid Text within the burial pyramid of Teti I
+
+The [[ Pyramid Texts ]] were the first religious spells to be carved into the
+walls of royal [[ ancient Egyptian pyramids ]]. Beginning in the
+[[ Old Kingdom period | old-kingdom-of-egypt ]], these texts were used
+exclusively by the Egyptian [[ pharaohs | pharaoh ]] to decorate the walls of
+their tombs. However, Egyptian Queens and high-ranking government officials
+soon began to use Pyramid Texts in their burial tombs as well. The purpose of
+these texts were to help the pharaoh successfully complete his journey through
+the afterlife, by conveying knowledge to the deceased about the paths he
+should take and the dangers he might face along the way.[[ ^7 ]]
+
+==== Coffin Texts
+
+In the [[ Middle Kingdom period | middle-kingdom-of-egypt ]] the Pyramid Texts
+were replaced by the [[ Coffin Texts ]]. The Coffin Texts were spells that
+were inscribed into the coffins of the dead. They were meant to protect the
+deceased in the afterlife and provide them with the transformation magic they
+would need along their journey. These Coffin Texts were generally more
+attainable, providing the common people of Egypt the opportunity to attain a
+proper afterlife. It is also important to note that the collection of Coffin
+Texts known as [[ The Book of Two Ways | coffin-texts ]] functioned as the
+earliest manual to the afterlife.[[ ^8 ]]
+
+==== Book of the Dead
+
+The [[ Book of the Dead ]] was an extensive collection of spells that included
+material from both the Pyramid Texts and the Coffin Texts. In the
+[[ New Kingdom period | new-kingdom-of-egypt ]], the Book of the Dead was
+normally recorded on [[ papyrus ]]. However, it could also be found on tomb
+walls, coffins and the wrappings of mummies. Like the Coffin Texts, the spells
+illustrated within the Book of the Dead were used by everyone. These spells
+offered advice, protection and knowledge to the dead as they journeyed through
+the netherworld.[[ ^9 ]]
+
+==== Books of the Netherworld
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_11th_hour_of_the_book_Amduat_%285090498771%29.jpg/250px-The_11th_hour_of_the_book_Amduat_%285090498771%29.jpg" height="297" width="250"
+
+  <figcaption>The 11th hour of the book Amduat
+
+The Books of the Netherworld contained multiple texts that provided the
+deceased with a description of the underworld and served as a guide to help
+the dead during their final journey. Since the deceased were often seen
+replicating the rebirth cycle of [[ Ra ]] as they traveled through the
+afterlife, these texts primarily focused on the second half of the sun god's
+journey, which took him through the underworld at night. The earlier Books of
+the Netherworld, which include the [[ Amduat ]] and the [[ Book of Gates ]],
+divided their narratives into twelve parts, symbolizing the twelve hours the
+sun god spent in the underworld. Later books such as the [[ Book of Caverns ]]
+and the [[ Book of the Earth ]] used a more sectionalized approach when
+presenting their narratives. All of these books also contained complex
+illustrations of the netherworld, which could often be seen etched into
+coffins and the walls of burial tombs.[[ ^10 ]]
+
+==== Books of the Sky
+
+The Books of Sky consisted of three afterlife texts titled, the
+[[ Book of Nut ]], the Book of Day and the Book of Night. Carved into the
+ceiling of tombs these texts emphasized the role the goddess
+[[ Nut | nut-goddess ]] played in the Egyptian afterlife.[[ ^11 ]]
+
+=== Coffins
+
+Coffins in Egyptian culture date back to the Old Kingdom. During this era,
+coffins were relatively simple; they were equilateral makings with minor
+details. These included three openings, one that the Ka was intended to pass
+through and two that represented eyes. However, as time passed coffins and
+their structures evolved. By the New Kingdom, coffins had not only become more
+popular around the area but were distributed for sale. The deceased's body was
+now represented by the coffin as it held a shape and was decorated with
+features that resembled the individual inside it.[[ ^12 ]] The deceased were
+also often depicted in white clothes, because it represented the soul's purity
+after it had passed through judgement, in the Hall of [[ Maat ]].[[ ^13 ]]
+Additionally, the orientation of the deceased was very important to ancient
+Egyptians. In early periods, the body would have laid promptly on their side
+with their head directed to the south. This later shifted and with the body
+flat on its back, the north became a more favorable position for the dead's
+head to lie.[[ ^14 ]]
+
+=== Mummification process
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Isis_and_Nepthys_as_kites_by_the_bier.jpg/330px-Isis_and_Nepthys_as_kites_by_the_bier.jpg" height="131" width="300"
+
+  <figcaption>[[ Isis ]] (left) and [[ Nephthys ]] (right) as [[ kites | kite-bird ]] near the bier of a mummy, thirteenth century BCE
+
+[[ Mummification | mummy ]] was a practice that the ancient Egyptians adopted
+because they believed that the body needed to be preserved in order for the
+dead to be reborn in the afterlife.[[ ^15 ]] Initially, Egyptians thought that
+like [[ Ra ]], their physical bodies, or Khat, would reawaken after they
+completed their journey through the underworld.[[ ^16 ]] Once the Egyptians
+realized that the bodies of their dead would eventually decay, they started to
+see the remains of the dead as a vessel for the deceased's spirit. The body
+was dismembered and wrapped in bandages to safeguard it, if the soul decided
+to return.[[ ^17 ]] The [[ heart scarab ]] was an amulet used as a grave good
+or jewelry worn by the deceased pharaoh. The function of the heart scarab was
+to bind the heart to silence while it was being weighed in the underworld to
+ensure that the heart did not bear [[ false witness ]] against the
+deceased.[[ ^18 ]] A heart scarab was often placed on their heart and bound
+underneath the bandages of the mummy. This was to ensure that it could not be
+physically removed from their person.[[ ^19 ]]
+
+=== Funeral offerings
+
+Many Egyptians considered the tomb to be a home for the dead, so it was
+customary to leave offerings near the body of the deceased.[[ ^20 ]] Egyptians
+believed that even after death, one's spirit would live on because the life
+force was a separate entity that could detach itself from the body. This life
+force was named the
+[[ //Ka// | ancient-egyptian-concept-of-the-soul#ka-vital-essence ]], and was
+considered to be one part of what the Egyptian believed to be the immortal
+soul. The [[ //Ba// | ancient-egyptian-concept-of-the-soul#ba-personality ]]
+was another part of the soul that had increased mobility and dwel within the
+Ka.[[ ^21 ]] Offerings that were left for the dead included clothing and
+valuable ornaments; the most important offering, however, was food,[[ ^22 ]]
+because even though the Ka was separated from the body, it could still
+starve.[[ ^21 ]]
+
+== Journey to the afterlife
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Book_of_Gates_Barque_of_Ra_cropped.jpg/250px-Book_of_Gates_Barque_of_Ra_cropped.jpg" height="133" width="220"
+
+  <figcaption>//Af// or //Afu// (commonly known as //Afu-Ra//), the ram-headed form of Ra when traveling the //Duat// on the subterrestrial [[ Nile ]] (the 12 hours of night and the underworld) on the //Mesektet// barque along with [[ Sia | sia-god ]] (left and front of barque) and [[ Heka | heka-god ]] (right and behind of barque), surrounded by the protective coiled serpent deity [[ Mehen ]]
+
+Ancient Egyptians theorized the passage to the afterlife in a series of
+stages. The first phase was believed to encompass the vehicle of
+transportation, which would eventually direct their departed souls to
+immortality.
+
+Boat passages to the underworld were strictly reserved for pharaohs who had
+died. The Egyptian sun god, [[ Ra ]], was believed to travel to the underworld
+by boat as the sun set. As a way to mimic Ra's daily expedition, the ancient
+people of Egypt would construct model boats, ranging in many sizes in which
+they would bury alongside their pharaohs. For example, next to the
+[[ Pyramid of Khufu ]], researchers uncovered [[ Khufu ship ]], a boat the
+size of traditional ships, which displayed not only the extreme devotion
+Egyptians had for their leader, but their dedication to obtaining eternity for
+all. In other words, a great deal of the requirements for the deceased to
+properly reach the underworld rested on the living. In order for the pharaoh
+to arrive at his final destination, his people had to construct a variety of
+boats to ensure his departure. As a result, communities had to come together
+to support each other, otherwise their perspective of immortality, as well as
+their beliefs, would end indefinitely. Therefore, commitment to helping others
+achieve eternity was a vital component to Egyptian culture, as demonstrated by
+the gallant boats buried with their rulers.[[ ^23 ]]
+
+Additionally, an alternate vehicle for entrance to the underworld was the
+coffin. While kings often used coffins in addition to, or in substitution of
+the boat belief, everyday citizens had less choice. Therefore, this method was
+more universal while alluding to a different, more frequent path of entry. To
+compare, while passages by boat directed the deceased to the sun god Ra,
+coffins were thought to guide individuals to the sky goddess
+[[ Nut | nut-goddess ]]. Each coffin was uniquely attributed to the person who
+rested in it. In other words, every coffin was subject to a variety of
+interpretations, all of which were intended to promote the deceased in
+obtaining eternity.[[ ^23 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bookofthedead-144145.jpg/250px-Bookofthedead-144145.jpg" height="83" width="250"
+
+  <figcaption>Ani and his wife face the 'seven gates of the House of Osiris'. Below, they encounter ten of the 21 'mysterious portals of the House of Osiris in the [[ Field of Reeds | aaru ]]'. All are guarded by gate deities.[[ ^24 ]]
+
+The path to the afterlife for the deceased was a difficult one. There were
+various gates, doors and [[ pylons | pylon-architecture ]] located in
+Duat,[[ ^25 ]] which the deceased would be required to pass. These gates had
+[[ deities | gate-deities-of-the-underworld ]] in charge of guarding them,
+sometimes there are more than 1,000 guardian deities listed,[[ ^26 ]]
+according to Ancient funerary texts. Every gate was guarded by a minor deity,
+commonly depicted as being zoo-anthropomorphic adorned with enormous
+threatening knives,[[ ^26 ]] who allowed access only to the souls capable of
+pronouncing the secret name of the deity themself, as a sort of
+"password".[[ ^26 ]] Therefore, the deceased would be buried with writings
+containing the names of these deities. A lot of these deities were given names
+that inspired terror and, above all, evoked their fearful powers. The names of
+these deities from time to time are disturbing, for instance, "He who dances
+in blood" and "Mistress Of Anger", or as harmless as "Mistress Of The Altar".
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Egypt.Papyrus.01.jpg/250px-Egypt.Papyrus.01.jpg" height="188" width="250"
+
+  <figcaption>A section of the Book of the Dead showing the Weighing of the Heart in the Duat. The enthroned Osiris is seated in his shrine
+
+Ancient Egyptians saw [[ Wepwawet ]] as one who opened the ways to, and
+through, Duat, for the spirits of the dead. However, not all who died were
+presented with the opportunity to travel to the underworld. Since the living
+were obligated to ensure that the deceased could travel to the afterlife, it
+was also in their control to eliminate one's chance in achieving eternity.
+Therefore, the living had an array of options that prevented a second life to
+an unworthy individual who had died. The most famous included decapitation,
+which when executed, "killed a person twice". As a result, the second death
+associated with decapitation was also assumed to have annihilated the chance
+at another life. As noted in Egyptian texts, this instance was incredibly
+feared, but happened most often to those who rebelled or disobeyed the
+king.[[ ^27 ]]
+
+== Judgment of the dead
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Weighing_of_the_Heart.svg/500px-The_Weighing_of_the_Heart.svg.png" height="179" width="400"
+
+  <figcaption>The Weighing of the Heart in the Hall of [[ Maat ]].
+
+To the ancient Egyptians, the judgment of the dead was the process that
+allowed the Egyptian gods to judge the worthiness of the souls of the
+deceased. Deeply rooted in the Egyptian belief in immortality, judgment was
+one of the most important parts of the journey through the afterlife. As such,
+many variations of judgment scenes appear in the Egyptian afterlife texts.
+Each soul that entered the afterlife was handled individually during judgment.
+When the deceased had completed their journey through the underworld, they
+arrived at the Hall of [[ Maat ]]. Here their purity would be the determining
+factor in whether they would be allowed to enter the Kingdom of
+Osiris.[[ ^28 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ani_chap125.jpg/250px-Ani_chap125.jpg" height="149" width="250"
+
+  <figcaption>Papyrus of Ani: some of the 42 Judges of Maat are visible, seated and in small size
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Early_Ammit.jpg/250px-Early_Ammit.jpg" height="197" width="250"
+
+  <figcaption>[[ Ammit ]] "Devourer of the Dead", and (above) the [[ lake of fire ]] guarded by baboons, from the papyrus of Nebqed (18th Dynasty, ca. 1391-1353 BCE)
+
+The deceased's first task was to correctly address each of the forty-two
+[[ Assessors of Maat ]] by name, while reciting the sins they did not commit
+during their lifetime.[[ ^29 ]] This process allowed the dead to demonstrate
+that they knew each of the judges’ names or Ren and established that they were
+pure, and free of sin. After confirming that they were sinless, the deceased
+was presented with the balance that was used to weigh their heart against the
+feather of [[ Maat ]].[[ ^30 ]] [[ Anubis ]] was the god often seen
+administering this test. If the deceased's heart balanced with the feather of
+Maat, [[ Thoth ]] would record the result and they would be presented to
+Osiris, who admitted them into the Sekhet-Aaru. However, if their heart was
+heavier than the feather, it was to be devoured by the Goddess [[ Ammit ]],
+permanently destroying the soul of the deceased, ceasing to exist.[[ ^31 ]]
+
+== Lake of fire
+
+Fiery rivers and lakes in the underworld are mentioned in works such as the
+Coffin Texts and the //Book of the Dead//. Around their edges sit flaming
+braziers or baboons. Ra would pass through this lake on his journey through
+the Duat, renewing his boat.[[ ^32 ]][[ ^33 ]] Chapter 126 of the //Book of
+the Dead// is associated with this vignette and the text is addressed to the
+"four baboons who sit in the prow of the Barque of Re."[[ ^34 ]] The lake was
+one of the dangers encountered on the journey through the Duat and had a dual
+nature. The baboons who guarded the pool were a force that could refresh and
+protect the deceased if they knew the correct recitation or destroy them if
+they did not. In the 21st Dynasty, human figures are depicted within the
+lakes. These represent enemies of the king or gods and their inclusion within
+the pools ensures their permanent destruction. In this way, the deceased could
+avoid meeting a similar fate, and be victorious over the forces of chaos like
+Ra.[[ ^35 ]] [[ Am-heh ]], whose name means "devourer of millions" or "eater
+of eternity",[[ ^36 ]] is a hunting dog headed god from the underworld who
+lived in a lake of fire.[[ ^37 ]]
+
+== Rebirth
+
+There were numerous ways for Egyptians to secure their fate. Many of the
+actions Egyptian people took after death were to influence the god's decision
+in allowing for another life.
+
+After judgement, entities were thought to return to the Mother Goddess' womb.
+During this stage, the soul meets its former body that is restored. To
+demonstrate, in the Book of Dead there is a series of lines that read as
+follows, "I unite your limbs, I hold your discharges together, I surround your
+flesh, I drive away the fluids of your decay, I sweep away your
+//[[ bꜣw | https://en.wiktionary.org/wiki/bꜣw ]]//, I wipe away your tears, I
+heal all your limbs, each being united with the other; I surround you with the
+work of the weaving goddess, I complete you and form you as Re."[[ ^38 ]] The
+belief continues as the nude being approaches the Goddess and enters her womb
+as her son. To compare, this dogma is deeply related to the birth of the sun
+god Ra, who enters the goddess's womb every night, and is reborn as the sun
+rises.[[ ^39 ]] Ra's relation to the afterlife is very connected through the
+religious components that justify the rising and setting of the sun.[[ ^40 ]]
+
+Ultimately, the immortality desired by ancient Egyptians was reflected in
+endless lives. By doing worthy deeds in their current life, they would be
+granted a second life for all of eternity.
+
+== Gender
+
+According to Egyptologist Kathlyn M. Cooney,[[ ^41 ]] ancient Egyptian women
+were forced to redefine their gender by encompassing more masculine features.
+Osiris, who was the ultimate ruler of the underworld, was applauded for his
+incredible superiority as a result of his virility. Additionally, the overall
+theme associated with gods connected their male attributes to resurrection,
+and goddesses were much more vigilant. This ideology was conspired from
+original doctrines, which denoted the overall creator a male. Statues and
+other forms of display made significant notice of their creator's masculine
+qualities, more specifically pointing out his erect penis. Therefore, to
+appease their god's preferences women's tombs and coffins displayed male
+qualities. Examples of male modifications included name combinations, in which
+women engraved "Osiris" before their own name on their coffins. This
+demonstrated the collaboration of women with a god who was capable of rebirth,
+because alone their gender restricted them.[[ ^41 ]]
+
+== Sekhet-Aaru
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/27.1_Iaru.tif/lossless-page1-250px-27.1_Iaru.tif.png" height="245" width="250"
+
+  <figcaption>Painting of Aaru in the tomb of Sennedjem in [[ Deir el-Medina ]].
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BD_Field_of_Hotep.jpg/250px-BD_Field_of_Hotep.jpg" height="183" width="250"
+
+  <figcaption>Depiction of the "Field of Reeds" within the [[ Papyrus of Ani ]], currently at the [[ British Museum ]].
+
+Sekhet-Aaru, the "Field of Reeds", was the final destination for all souls who
+had been granted rebirth. This concept evolved in the
+[[ Fifth Dynasty | fifth-dynasty-of-egypt ]].[[ ^42 ]] Sekhet-Aaru was
+essentially thought to be paradise and encompassed this visualization. The
+Field of Reeds was visualized as a very lush region, filled with waterfalls
+among other natural wonders.[[ ^43 ]] Egyptian images, such as the Papyrus of
+Nebseni, depicted the land as being divided into numerous sections. Each
+division was imagined to resemble island structures, in which travel by boat
+is necessary.[[ ^44 ]]
+
+Those who were granted access to the Field of Reeds included both gods and
+righteous souls. The fertility of the land was greatly emphasized as this
+possessed two of the major rewards in obtaining immortality: access to the
+[[ Nile ]], and the ability to farm foods. As a result, the deceased ate and
+drank the same delicacies devoured by their gods. In turn, this promoted the
+belief that by obtaining immortality, individuals also accumulated aspects
+that resembled gods. Additionally, a third notable honor of residing in
+Sekhet-Aaru was the means of communication. The deceased were able to convey
+thoughts to one another, the gods, and those they had previously
+lost.[[ ^42 ]]
+
+[[ ^1 ]]: [[ "Egyptian Book of the Dead" | https://web.archive.org/web/20120926051942/http://www.egyptartsite.com/hall1.html ]]. Egyptartsite.com. Archived from [[ the original | https://www.egyptartsite.com/hall1.html ]] on 2012-09-26. Retrieved 2012-08-18.
+
+[[ ^2 ]]: Mojsov, Bojana (2001). "The Ancient Egyptian Underworld in the Tomb of Sety I: Sacred Books of Eternal Life". //The Massachusetts Review//. !!42!! (4): 489–506. JSTOR [[ 25091798 | https://www.jstor.org/stable/25091798 ]].
+
+[[ ^3 ]]: Williams, Ann R., ed. (2022). //Treasures of Egypt: A Legacy In Photographs from the Pyramids to Cleopatra//. Foreword by Fredrik Hiebert. Washington, D.C.: [[ National Geographic ]]. p. 109. ISBN [[ 978-1-4262-2263-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4262-2263-4 ]].
+
+[[ ^4 ]]: Morenz, Siegfried (1960). //Egyptian Religion//. Ithaca, New York: Cornell University Press. pp. 194–201.
+
+[[ ^5 ]]: Amenta, Alessia (2002). [[ "The Egyptian Tomb as a House of Life for the Afterlife" | https://www.academia.edu/31660429 ]]. //Egyptological Essays on State and Society//: 18–26.
+
+[[ ^6 ]]: Bard, KA (1999). //Encyclopedia of the Archaeology of Ancient Egypt//. NY, NY: Routledge.
+
+[[ ^7 ]]: Hornung, Erik (1999). //The Ancient Egyptian Books of the Afterlife//. Ithaca, New York: Cornell University Press. pp. 1–6.
+
+[[ ^8 ]]: Hornung, Erik (1999). //The Ancient Egyptian Books of the Afterlife//. Ithaca, New York: Cornell University Press. pp. 7–11.
+
+[[ ^9 ]]: Hornung, Erik (1999). //The Ancient Egyptian Books of the Afterlife//. Ithaca, New York: Cornell University Press. pp. 13–22.
+
+[[ ^10 ]]: Hornung, Erik (1999). //The Ancient Egyptian Books of the Afterlife//. Ithaca, New York: Cornell University Press. pp. 26–111.
+
+[[ ^11 ]]: Hornung, Erik (1999). //The Ancient Egyptian Books of the Afterlife//. Ithaca, New York: Cornell University Press. pp. 112–135.
+
+[[ ^12 ]]: [[ "Artifacts: Mummy Cases, Coffins, and Sarcophagi, Mummification, Online Exhibits, Exhibits, Spurlock Museum, U of I" | http://www.spurlock.illinois.edu/exhibits/online/mummification/artifacts6.html ]]. //www.spurlock.illinois.edu//. Retrieved 2018-04-30.
+
+[[ ^13 ]]: Cooney, Kathlyn M. (2010). "GENDER TRANSFORMATION IN DEATH: A Case Study of Coffins from Ramesside Period Egypt". //Near Eastern Archaeology//. !!73!! (4): 230. doi:[[ 10.1086/NEA41103940 | https://doi.org/10.1086%2FNEA41103940 ]]. JSTOR [[ 41103940 | https://www.jstor.org/stable/41103940 ]]. S2CID [[ 166450284 | https://api.semanticscholar.org/CorpusID:166450284 ]].
+
+[[ ^14 ]]: Raven, Maarten J. (2005). "Egyptian Concepts on the Orientation of the Human Body". //The Journal of Egyptian Archaeology//. !!91!!: 37–53. doi:[[ 10.1177/030751330509100103 | https://doi.org/10.1177%2F030751330509100103 ]]. JSTOR [[ 3822392 | https://www.jstor.org/stable/3822392 ]]. S2CID [[ 162109010 | https://api.semanticscholar.org/CorpusID:162109010 ]].
+
+[[ ^15 ]]: Budge, Wallis. //Egyptian Religion: Egyptian Ideas of the Future Life//. New York: Bell Publishing Company. pp. 188–189.
+
+[[ ^16 ]]: Budge, Wallis. //Egyptian Religion: Egyptian Ideas of the Future Life//. New York: Bell Publishing Company. p. 194.
+
+[[ ^17 ]]: Budge, Wallis. //Egyptian Religion: Egyptian Ideas of the Future Life//. New York: Bell Publishing Company. pp. 188–200.
+
+[[ ^18 ]]: Andrews, Carol (2007). //"Amulets" In The Oxford Encyclopedia of Ancient Egypt//. Oxford University Press.
+
+[[ ^19 ]]: Liszka, Kate (2015). [[ "Scarab Amulets in the Egyptian Collection of the Princeton University Art Museum" | https://www.jstor.org/stable/26388759 ]]. //Record of the Art Museum, Princeton University//. !!74!!: 4–19. ISSN [[ 0032-843X | https://search.worldcat.org/issn/0032-843X ]]. JSTOR [[ 26388759 | https://www.jstor.org/stable/26388759 ]].
+
+[[ ^20 ]]: Morenz, Siegfried (1960). //Egyptian Religion//. Ithaca, New York: Cornell University Press. p. 202.
+
+[[ ^21 ]]: Budge, Wallis. //Egyptian Religion: Egyptian Ideas of the Future Life//. New York: Bell Publishing Company. p. 190.
+
+[[ ^22 ]]: Morenz, Siegfried (1960). //Egyptian Religion//. Ithaca, New York: Cornell University Press. p. 201.
+
+[[ ^23 ]]: Taylor, John H. (2001–2004). [[ //Death and the Afterlife in Ancient Egypt// | https://books.google.com/books?id=f4eRywSWJzAC&q=+boat&pg=PA9 ]]. University of Chicago Press. ISBN [[ 9780226791647 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780226791647 ]].
+
+[[ ^24 ]]: Taylor 2010, p.143
+
+[[ ^25 ]]: [[ "Minor Netherworld Deities of Ancient Egypt" | http://www.touregypt.net/featurestories/minorgods.htm ]]. //www.touregypt.net// (in Russian). Retrieved 2018-04-23.
+
+[[ ^26 ]]: Wilkinson 2003, pp. 81–2.
+
+[[ ^27 ]]: Picardo, Nicholas S. (2007). ""Semantic Homicide" and the So-called Reserve Heads: The Theme of Decapitation in Egyptian Funerary Religion and Some Implications for the Old Kingdom". //Journal of the American Research Center in Egypt//. !!43!!: 221–252. JSTOR [[ 27801614 | https://www.jstor.org/stable/27801614 ]].
+
+[[ ^28 ]]: Budge, Wallis. //Egyptian Religion: Egyptian Ideas of the Future Life//. New York: Bell Publishing Company. pp. 136, 152.
+
+[[ ^29 ]]: Coogan, Michael D. (2013). //A Reader of Ancient Near Eastern Texts: Sources for the Study of the Old Testament,"Negative Confessions"//. New York: Oxford University Press. pp. 149–150.
+
+[[ ^30 ]]: Budge, Wallis. //Egyptian Religion: Egyptian Ideas of the Future Life//. New York: Bell Publishing Company. pp. 161–162.
+
+[[ ^31 ]]: Coogan, Michael D. (2013). //A Reader of Ancient Near Eastern Texts: Sources for the Study of the Old Testament,"The Weighting of the Heart"//. New York: Oxford University Press. pp. 150–154.
+
+[[ ^32 ]]: Wilkinson, Richard H. (1992). [[ //Reading Egyptian Art : a hieroglyphic guide to ancient Egyptian painting and sculpture// | https://archive.org/details/readingegyptiana0000wilk_k5f9/page/160/mode/2up ]] (1998 ed.). London: Thames and Hudson. p. 161. ISBN [[ 0-500-27751-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-500-27751-6 ]]. Retrieved 1 October 2022.
+
+[[ ^33 ]]: Faulkner, Raymond O.; Goelet, Ogden Jr.; Andrews, Carol A. R. (1994). Dassow, Eva von (ed.). [[ //The Egyptian Book of the Dead : the Book of Going Forth by Day// | https://archive.org/details/egyptianbookofde0000unse/page/168/mode/1up ]]. San Francisco: Chronicle Books. p. 168. ISBN [[ 978-0-8118-0767-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-8118-0767-8 ]]. Retrieved 1 October 2022.
+
+[[ ^34 ]]: Faulkner, R. O. (1985). Andrews, Carol (ed.). //The Ancient Egyptian Book of the Dead// (1993 ed.). London: British Museum Press. p. 115. ISBN [[ 0-7141-0946-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-7141-0946-0 ]].
+
+[[ ^35 ]]: Boyschou, Melissa (2011). [[ //Destruction by Fire: Interpreting the Lake of Fire Vignette from Two Twenty-First Dynasty Funerary Papyri// | https://www.academia.edu/4856449 ]] (MA). University of Memphis. pp. V, 61–64.
+
+[[ ^36 ]]: Budge, E. A. Wallis (1911). [[ //A Hieroglyphic Vocabulary to the Theban Recension of the Book of the Dead// | https://books.google.com/books?id=S-VtnQAACAAJ&q=A+Hieroglyphic+Vocabulary+to+the+Theban+Recension+of+the+Book+of+the+Dead ]]. AMS Press. ISBN [[ 9780404113353 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780404113353 ]]. ``\{{cite book}}``: ISBN / Date incompatibility ([[ help | https://en.wikipedia.org/wiki/Help%3ACS1_errors#invalid isbn date ]])
+
+[[ ^37 ]]: "gizmodo.com". //Gizmodo//. 17 February 2015. Retrieved 2016-10-11.
+
+[[ ^38 ]]: Hays, Christopher B. (2012). ""My Beloved Son, Come and Rest in Me": Job's Return to His Mother's Womb (Job 1:21a) in Light of Egyptian Mythology". //Vetus Testamentum//. !!62!! (4): 607–621. doi:[[ 10.1163/15685330-12341088 | https://doi.org/10.1163%2F15685330-12341088 ]]. JSTOR [[ 23496681 | https://www.jstor.org/stable/23496681 ]].
+
+[[ ^39 ]]: Budge, Sir Ernest Alfred Wallis (1901). [[ //The Book of the Dead: An English Translation of the Chapters, Hymns, Etc., of the Theban Recension, with Introduction, Notes, Etc// | https://archive.org/details/in.ernet.dli.2015.49326 ]]. Open Court Pub. mother.
+
+[[ ^40 ]]: Janák, Jiří (2003). "Journey to the Resurrection. Chapter 105 of the Book of the Dead in the New Kingdom". //Studien zur Altägyptischen Kultur//. !!31!!: 193–210. JSTOR [[ 25152890 | https://www.jstor.org/stable/25152890 ]].
+
+[[ ^41 ]]: Cooney, Kathlyn (Kara). [[ "Gender Transformation in Death: A Case Study of Coffins from Ramesside Period Egypt" | https://www.academia.edu/998725 ]].
+
+[[ ^42 ]]: Budge, E. A. Wallis (2013-02-20). [[ //Egyptian Ideas of the Afterlife// | https://books.google.com/books?id=Y8rCAgAAQBAJ&q=Sekhet-Aaru+&pg=PT106 ]]. Courier Corporation. ISBN [[ 9780486158679 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780486158679 ]].
+
+[[ ^43 ]]: Bonacker, Wilhelm (1950). "The Egyptian "Book of the Two Ways"". //Imago Mundi//. !!7!!: 5–17. doi:[[ 10.1080/03085695008591952 | https://doi.org/10.1080%2F03085695008591952 ]]. JSTOR [[ 1149949 | https://www.jstor.org/stable/1149949 ]].
+
+[[ ^44 ]]: Budge, E. A. Wallis (1908). [[ //Egyptian Ideas Of The Future Life// | https://books.google.com/books?id=-hWusY9vYv0C&q=Sekhet-Aaru+of+Elysian+Fields&pg=PA176 ]].
