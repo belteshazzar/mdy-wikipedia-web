@@ -259,10 +259,21 @@ baseURL: https://example.invalid
 %     const isHero = entry.role === "hero" && !planned
 %     if (isHero) planned = found
 %     const place = found && entry.role !== "drop" && !isHero
+%     const caption = place ? (entry.caption || found.caption || "") : ""
 %     if (place) plan.push({
 %       src: found.src,
 %       credit: creditOf(found),
-%       caption: entry.caption || found.caption,
+%       caption: caption,
+%       // An attribute is not parsed as MDY, so alt gets the caption with its
+%       // markup taken off rather than a literal `!!` read out by a screen
+%       // reader. A link keeps its label and loses its target.
+%       alt: String(caption)
+%         .split("//").join("")
+%         .split("!!").join("")
+%         .replace(/\[\[ *\^[^\]]*\]\]/g, "")
+%         .replace(/\[\[ *([^\]|]*?) *\| *[^\]]*\]\]/g, "$1")
+%         .replace(/\[\[ *([^\]]*?) *\]\]/g, "$1")
+%         .trim(),
 %       section: entry.section || "lead",
 %       role: entry.role,
 %       width: found.width,

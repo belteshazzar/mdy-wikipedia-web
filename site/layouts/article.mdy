@@ -9,60 +9,43 @@
   // marked as leaving. Neither is guessed — the corpus knows its own slugs,
   // and `link-titles` in the front matter carries the title behind each one.
   // A rewritten page's figures come from its image plan rather than from
-  // markup, because the rewritten body has none. Walk the prose once, and put
-  // each planned picture in front of the heading of the section it belongs to;
-  // anything for the lead goes at the very top. Done by rebuilding the child
-  // list rather than splicing during a visit, so nothing is inserted into an
-  // array that is being walked.
-  const plan = req.plan ?? []
+  // markup, because the rewritten body has none.
+  //
+  // They are WRITTEN as markup below and only MOVED here. Building them as
+  // nodes meant building their captions as text, and a caption is MDY — it
+  // carries italics, links, and the footnote reference the source attached to
+  // it. Every citation this pipeline has ever lost was a footnote on a figure
+  // caption; letting the parser have them is the fix.
+  let planned = []
 
-  if (plan.length) {
+  visit(tree, "element", (node) => {
+    const classes = node.properties?.className ?? []
+
+    if (!classes.includes || !classes.includes("planned-source")) return
+
+    planned = node.children.filter((c) => c.type === "element" && c.tagName === "figure")
+    node.children = []
+  })
+
+  const sectionOf = (figure) =>
+    figure.properties?.dataSection ?? figure.properties?.["data-section"] ?? "lead"
+
+  if (planned.length) {
     visit(tree, "element", (node) => {
       const classes = node.properties?.className ?? []
       if (!classes.includes || !classes.includes("prose")) return
 
-      const figure = (item) => ({
-        type: "element",
-        tagName: "figure",
-        properties: {className: ["planned", item.role]},
-        children: [
-          {
-            type: "element",
-            tagName: "img",
-            properties: {
-              src: item.src, alt: item.caption, loading: "lazy",
-              width: item.width, height: item.height
-            },
-            children: []
-          },
-          {
-            type: "element",
-            tagName: "figcaption",
-            properties: {},
-            children: [
-              {type: "text", value: item.caption},
-              {
-                type: "element",
-                tagName: "span",
-                properties: {className: ["credit"]},
-                children: [{type: "text", value: item.credit}]
-              }
-            ]
-          }
-        ]
-      })
-
       const out = []
 
-      for (const item of plan) {
-        if (item.section === "lead") out.push(figure(item))
+      for (const figure of planned) {
+        if (sectionOf(figure) === "lead") out.push(figure)
       }
 
       for (const child of node.children) {
         if (child.type === "element" && child.tagName === "h2") {
           const id = child.properties?.id
-          for (const item of plan) {
-            if (item.section !== "lead" && item.section === id) out.push(figure(item))
+          for (const figure of planned) {
+            if (sectionOf(figure) !== "lead" && sectionOf(figure) === id) out.push(figure)
           }
         }
         out.push(child)
@@ -166,6 +149,17 @@
       < li class="depth-{{ s.level }}"
         <a href="#{{ s.id }}">{{ s.title }}
       % }
+  % }
+
+  % if ((req.plan ?? []).length) {
+  < div class="planned-source"
+    % for (const item of req.plan) {
+    < figure class="planned {{ item.role }}" data-section="{{ item.section }}"
+      <img src="{{ item.src }}" alt="{{ item.alt }}" loading="lazy" width="{{ item.width }}" height="{{ item.height }}"
+      < figcaption
+        {{ item.caption }}
+        <span class="credit">{{ item.credit }}
+    % }
   % }
 
   % if (req.hook) {

@@ -893,3 +893,8 @@ figcaption .credit a:hover { color: var(--blue); }
 .browse.ring h2 { font-size: 1.05rem; }
 .browse.ring p { font-size: 0.86rem; }
 .browse.ring img, .browse.ring .noimage { aspect-ratio: 3 / 2; }
+
+/* The planned figures are written here and moved into the prose by the
+   article layout's transform. If that ever fails they must not pile up at the
+   top of the page instead. */
+.planned-source { display: none; }

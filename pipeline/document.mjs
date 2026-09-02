@@ -127,8 +127,12 @@ export const schema = {
       items: {
         type: 'object',
         additionalProperties: false,
-        required: ['name', 'value'],
-        properties: {name: {type: 'string'}, value: {type: 'string'}}
+        required: ['name', 'value', 'from'],
+        properties: {
+          name: {type: 'string'},
+          value: {type: 'string'},
+          from: {type: 'string', description: 'The passage this is taken from, copied VERBATIM.'}
+        }
       }
     },
     'image-plan': {
@@ -143,7 +147,11 @@ export const schema = {
           file: {type: 'string'},
           role: {type: 'string', enum: ['hero', 'full', 'inline', 'drop']},
           section: {type: 'string', description: 'The section id it belongs in, or "lead".'},
-          caption: {type: 'string'}
+          caption: {
+            type: 'string',
+            description:
+              'MDY, and it is parsed: !!bold!!, //italic//, [[ label | target ]] and — this is the point — [[ ^n ]]. If the caption you are rewriting carried a footnote reference in the source, carry it here. Captions used not to be able to hold one, and every citation this pipeline has ever lost was a footnote on a figure.'
+          }
         }
       }
     },
@@ -219,7 +227,9 @@ WHAT YOU ARE PRODUCING
 Fields a magazine page is laid out from, not an essay. The prose matters, but a hook that does not fit above a photograph and a caption that names a file are failures of the same kind.
 
 THE SHORT FIELDS ARE WHERE THIS GOES WRONG
-The hook, standfirst, timeline and glossary are a twentieth of the words and, measured over ten articles, seven times more likely to say something the article does not. The cause is not carelessness, it is compression: the shortest arresting version of a hedged claim is the unhedged one. "Knowledge of it derives principally from funerary texts, among many other sources" does not fit above a photograph; "known only from funerary texts" does, and is false.
+The hook, standfirst, key facts, timeline and glossary are a twentieth of the words and, measured over ten articles, seven times more likely to say something the article does not. The cause is not carelessness, it is compression: the shortest arresting version of a hedged claim is the unhedged one. "Knowledge of it derives principally from funerary texts, among many other sources" does not fit above a photograph; "known only from funerary texts" does, and is false.
+
+A key fact is the worst of them for its size: five articles in the last run lost a hedge there and nowhere else — a price the source attributes to "one source" stated flat, a text said to survive as "quotation" where the cited scholars say only summaries do.
 
 So each of those fields carries a \`from\`: the passage it compresses, copied out of the article word for word. Write the quote first and the field second. If what you have written asserts more than the quote does — a hedge dropped, a scope widened, an actor supplied, a cause implied — then it is the field that is wrong, not the quote, and you rewrite it until the quote covers it.
 
