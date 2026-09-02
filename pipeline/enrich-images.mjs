@@ -163,12 +163,25 @@ function fileOf(src) {
   // the file, percent-encoded, and the front matter spells it decoded.
   const match = /\/thumb\/[^/]+\/[^/]+\/([^/]+)\//.exec(String(src))
 
-  if (!match) return
+  if (match) {
+    try {
+      return decodeURIComponent(match[1])
+    } catch {
+      return match[1]
+    }
+  }
+
+  // Not every image URL is a thumbnail. The front matter's own `image` — the
+  // lead picture, which is what a page opens on — is often the file itself,
+  // and it is the one image a hero is most likely to need.
+  const direct = /\/([^/?#]+\.(?:jpe?g|png|gif|svg|webp|tiff?))(?:[?#]|$)/i.exec(String(src))
+
+  if (!direct) return
 
   try {
-    return decodeURIComponent(match[1])
+    return decodeURIComponent(direct[1])
   } catch {
-    return match[1]
+    return direct[1]
   }
 }
 
@@ -189,8 +202,19 @@ for (const name of (await readdir(join(root, lang))).filter((n) => n.endsWith('.
     wanted.set(file, entry)
   }
 
-  for (const image of YAML.parse(matter[1]).images ?? []) {
+  const data = YAML.parse(matter[1])
+
+  for (const image of data.images ?? []) {
     if (image.file) add(image.file, image)
+  }
+
+  // The infobox picture. It is named only as a URL and appears in no list, so
+  // without this a page's own lead image can be the one thing on it with no
+  // licence — which is exactly backwards.
+  if (data.image) {
+    const file = fileOf(data.image)
+
+    if (file) add(file, {src: data.image})
   }
 
   // And the ones only the body has. The front matter's `images` list is a
@@ -198,7 +222,12 @@ for (const name of (await readdir(join(root, lang))).filter((n) => n.endsWith('.
   // bodies of this corpus carry 585 distinct pictures against the front
   // matter's 536. The missing 49 are why a rewrite's image plan can name a
   // photograph nothing here has the rights for.
-  for (const [, src] of String(matter[2]).matchAll(/<img [^>]*src="([^"]+)"/g)) {
+  // Attributes on ONE line, because MDY has no closing tags: `<img src="…"
+  // width="180"` simply ends. `[^>]*` therefore runs across newlines until it
+  // meets a `>` somewhere in later prose, swallowing every image in between —
+  // which is why images that are plainly in the body had no rights record and
+  // could not be shown.
+  for (const [, src] of String(matter[2]).matchAll(/<img[^\n]*?src="([^"]+)"/g)) {
     const file = fileOf(src)
 
     if (file) add(file, {src})

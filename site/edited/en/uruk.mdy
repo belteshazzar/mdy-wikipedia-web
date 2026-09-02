@@ -1,0 +1,2933 @@
++++
+title: Uruk
+description: Ancient city of Sumer and Babylonia
+hook: At its peak around 3100 BC, Uruk may have had up to 50,000 residents,
+  with 80,000–90,000 people living in its environs. That made it the largest
+  urban area in the world at the time.
+standfirst: Uruk is the type site for the Uruk period and played a leading
+  role in the early urbanization of Sumer in the mid-4th millennium BC. With
+  the rise of the Akkadian Empire the city lost its prime importance, and it
+  was finally abandoned shortly before or after the Islamic conquest of
+  633–638.
+key-facts:
+  - name: Where it is
+    value: Muthanna Governorate, Iraq
+    from: "location: Muthanna Governorate, Iraq"
+  - name: Built
+    value: c. 5000 BC
+    from: |-
+      history:
+          built: c. 5000 BC
+          abandoned: c. 700 AD
+  - name: Abandoned
+    value: c. 700 AD
+    from: |-
+      history:
+          built: c. 5000 BC
+          abandoned: c. 700 AD
+  - name: Occupied through
+    value: Uruk period to Early Middle Ages
+    from: "periods: Uruk period to Early Middle Ages"
+  - name: Size of the site
+    value: 6 km2 (2.3 sq mi)
+    from: |-
+      site-notes:
+          area: 6 km2 (2.3 sq mi)
+  - name: Dug in
+    value: 1850, 1854, 1902, 1912–1913, 1928–1939, 1953–1978, 2001–2002,
+      2016–present
+    from: "excavation-dates: 1850, 1854, 1902, 1912–1913, 1928–1939, 1953–1978,
+      2001–2002, 2016–present"
+pull-quotes:
+  - text: Then Kish was defeated and the kingship was taken to Eanna (Uruk).
+    attribution: Sumerian King List (SKL)
+    section: list-of-rulers
+  - text: Meshkiangasher entered the sea and disappeared.
+    attribution: SKL
+    section: list-of-rulers
+  - text: 12 kings; they ruled for 2,310 years. Then Uruk was defeated and the
+      kingship was taken to Ur.
+    attribution: SKL
+    section: list-of-rulers
+  - text: For the god Iškur, lord, fearsome splendour of heaven and earth, his
+      lord, for the life of Ilum-gāmil, king of Uruk, son of Sîn-irībam,
+      Ubar-Adad, his servant, son of Apil-Kubi, built the Esaggianidu, ('House
+      — whose closing is good'), the residence of his office of en, and
+      thereby made it truly befitting his own li[fe]
+    attribution: Clay cone inscription from the time of Ilum-gāmil, king of Uruk
+    section: early-dynastic-akkadian-ur-iii-and-old-babylonian-period
+  - text: In Uruk, in southern Mesopotamia, Sumerian civilization seems to have
+      reached its creative peak. This is pointed out repeatedly in the
+      references to this city in religious and, especially, in literary texts,
+      including those of mythological content; the historical tradition as
+      preserved in the Sumerian king-list confirms it. From Uruk the center of
+      political gravity seems to have moved to Ur.
+    attribution: Oppenheim
+    section: political-history
+timeline:
+  - when: c. 5000BC
+    what: The founding of Uruk, in the level called Uruk XVIII, the Eridu period.
+    from: "- Uruk XVIII Eridu period (c. 5000BC): the founding of Uruk"
+  - when: 4000–3200 BC
+    what: "The Uruk period, or 'Uruk expansion': villages give way to a larger
+      urban center with a full-time bureaucracy, military, and stratified
+      society, with Uruk the main force of urbanization and state formation."
+    from: In addition to being one of the first cities, Uruk was the main force of
+      [[ urbanization ]] and [[ state formation ]] during the Uruk period, or
+      'Uruk expansion' (4000–3200 BC). This period of 800 years saw a shift
+      from small, agricultural villages to a larger urban center with a
+      full-time bureaucracy, military, and stratified society. Although other
+      settlements coexisted with Uruk, they were generally about 10 [[
+      hectares | hectare ]] while Uruk was significantly larger and more
+      complex. The Uruk period culture exported by Sumerian traders and
+      colonists influenced all surrounding peoples, who gradually evolved
+      their own comparable, competing economies and cultures. Ultimately, Uruk
+      could not maintain long-distance control over colonies such as [[ Tell
+      Brak ]] by military force.
+  - when: c. 3800 BC
+    what: Two centers of 20 ha (49 acres), Uruk in the south and Nippur in the
+      north, stand among much smaller 10 ha (25 acres) settlements.
+    from: Uruk played a very important part in the political history of Sumer.
+      From the Early Uruk period onward, the city exerted [[ hegemony ]] over
+      nearby settlements. At this time (c. 3800 BC), there were two centers of
+      20 ha (49 acres), Uruk in the south and [[ Nippur ]] in the north
+      surrounded by much smaller 10 ha (25 acres) settlements.[[ ^25 ]] Later,
+      in the Late Uruk period, its sphere of influence extended over all Sumer
+      and beyond to external colonies in upper Mesopotamia and Syria.
+  - when: 3200 BC
+    what: The inception date recorded for the city in its Wikidata entry.
+    from: "inception: 3200 BC"
+  - when: c. 3100 BC
+    what: By the end of the Uruk period the city has reached 250 ha (620 acres).
+    from: By the end of the Uruk period c. 3100 BC) Uruk had reached a size of
+      250 ha (620 acres). During the following [[ Jemdet Nasr period ]] it
+      grew to a size of 600 ha (1,500 acres) by c. 2800 BC with the main
+      temple area of Eanna being completely rebuilt after leveling the
+      foundations of the Uruk period construction.[[ ^29 ]] A new city wall
+      was constructed in this period.[[ ^30 ]]
+  - when: around 3000 BC
+    what: The 40-to-50-foot (12 to 15 m) high brick city wall, 9 km (5.6 mi)
+      around, is estimated by sedimentary strata dating to have been erected.
+    from: From 1912 to 1913, [[ Julius Jordan ]] and his team from the [[ German
+      Oriental Society | deutsche-orient-gesellschaft ]] discovered the temple
+      of [[ Ishtar | inanna ]], one of four known temples located at the site.
+      The temples at Uruk were quite remarkable as they were constructed with
+      brick and adorned with colorful [[ mosaics | mosaic ]]. Jordan also
+      discovered part of the [[ city wall | defensive-wall ]]. It was later
+      discovered that this 40-to-50-foot (12 to 15 m) high brick wall,
+      probably utilized as a defense mechanism, totally encompassed the city
+      at a length of 9 km (5.6 mi). Utilizing sedimentary strata dating
+      techniques, this wall is estimated to have been erected around 3000 BC.
+      Jordan produced a contour map of the entire site.[[ ^30 ]]
+  - when: c. 2800 BC
+    what: Uruk grows to 600 ha (1,500 acres) in the Jemdet Nasr period, the main
+      temple area of Eanna completely rebuilt.
+    from: By the end of the Uruk period c. 3100 BC) Uruk had reached a size of
+      250 ha (620 acres). During the following [[ Jemdet Nasr period ]] it
+      grew to a size of 600 ha (1,500 acres) by c. 2800 BC with the main
+      temple area of Eanna being completely rebuilt after leveling the
+      foundations of the Uruk period construction.[[ ^29 ]] A new city wall
+      was constructed in this period.[[ ^30 ]]
+  - when: 27th century BC
+    what: Gilgamesh rules Uruk, according to the chronology presented in the
+      Sumerian King List.
+    from: Uruk is the [[ type site ]] for the [[ Uruk period ]] and played a
+      leading role in the early urbanization of [[ Sumer ]] in the mid-4th
+      millennium BC. At its peak around 3100 BC, the city may have had up to
+      50,000 residents,[[ ^2 ]][[ ^3 ]] with 80,000–90,000 people living in
+      its environs,[[ ^4 ]] making it the largest urban area in the world at
+      the time. [[ Gilgamesh ]], according to the [[ chronology ]] presented
+      in the //[[ Sumerian King List ]]// (//SKL//), ruled Uruk in the 27th
+      century BC. After the end of the [[ Early Dynastic |
+      early-dynastic-period ]] period, with the rise of the [[ Akkadian Empire
+      ]], the city lost its prime importance. It had periods of flourishing
+      during the [[ Isin-Larsa period ]], [[ Neo-Assyrian |
+      neo-assyrian-empire ]] and [[ Neo-Babylonian | neo-babylonian-empire ]]
+      periods and throughout the [[ Achaemenid | achaemenid-empire ]] (550–330
+      BC), [[ Seleucid | seleucid-empire ]] (312–63 BC) and [[ Parthian |
+      parthian-empire ]] (227 BC to AD 224) periods, until it was finally
+      abandoned shortly before or after the [[ Islamic conquest |
+      muslim-conquest-of-persia ]] of 633–638. [[ William Kennett Loftus |
+      william-loftus-archaeologist ]] visited the site of Uruk in 1849,
+      identifying it as "Erech", known as "the second city of [[ Nimrod ]]",
+      and led the first excavations from 1850 to 1854.[[ ^5 ]][[ ^6 ]]
+  - when: c. 2000 BC
+    what: Ur collapses and Uruk goes into a steep decline.
+    from: "Following the collapse of Ur (c. 2000 BC), Uruk went into a steep
+      decline until about 850 BC when the [[ Neo-Assyrian Empire ]] annexed it
+      as a provincial capital. Under the Neo-Assyrians and [[ Neo-Babylonians
+      | neo-babylonian-empire ]], Uruk regained much of its former glory. By
+      250 BC, a new temple complex, the 'Head Temple' (Akkadian: //Bīt Reš//),
+      was added northeast of the Uruk-period Anu district. The //Bīt Reš//
+      along with the //[[ Esagila ]]// was one of the two main centers of [[
+      Neo-Babylonian astronomy | babylonian-astronomy ]]. All of the temples
+      and canals were restored again under [[ Nabopolassar ]]. During this
+      era, Uruk was divided into five main districts: the [[ Adad | hadad ]]
+      Temple, Royal Orchard, Ištar Gate, Lugalirra Temple, and [[ Šamaš |
+      shamash ]] Gate districts.[[ ^18 ]]"
+  - when: about 850 BC
+    what: The Neo-Assyrian Empire annexes Uruk as a provincial capital.
+    from: "Following the collapse of Ur (c. 2000 BC), Uruk went into a steep
+      decline until about 850 BC when the [[ Neo-Assyrian Empire ]] annexed it
+      as a provincial capital. Under the Neo-Assyrians and [[ Neo-Babylonians
+      | neo-babylonian-empire ]], Uruk regained much of its former glory. By
+      250 BC, a new temple complex, the 'Head Temple' (Akkadian: //Bīt Reš//),
+      was added northeast of the Uruk-period Anu district. The //Bīt Reš//
+      along with the //[[ Esagila ]]// was one of the two main centers of [[
+      Neo-Babylonian astronomy | babylonian-astronomy ]]. All of the temples
+      and canals were restored again under [[ Nabopolassar ]]. During this
+      era, Uruk was divided into five main districts: the [[ Adad | hadad ]]
+      Temple, Royal Orchard, Ištar Gate, Lugalirra Temple, and [[ Šamaš |
+      shamash ]] Gate districts.[[ ^18 ]]"
+  - when: By 250 BC
+    what: "The 'Head Temple' (Akkadian: Bīt Reš) is added northeast of the
+      Uruk-period Anu district."
+    from: "Following the collapse of Ur (c. 2000 BC), Uruk went into a steep
+      decline until about 850 BC when the [[ Neo-Assyrian Empire ]] annexed it
+      as a provincial capital. Under the Neo-Assyrians and [[ Neo-Babylonians
+      | neo-babylonian-empire ]], Uruk regained much of its former glory. By
+      250 BC, a new temple complex, the 'Head Temple' (Akkadian: //Bīt Reš//),
+      was added northeast of the Uruk-period Anu district. The //Bīt Reš//
+      along with the //[[ Esagila ]]// was one of the two main centers of [[
+      Neo-Babylonian astronomy | babylonian-astronomy ]]. All of the temples
+      and canals were restored again under [[ Nabopolassar ]]. During this
+      era, Uruk was divided into five main districts: the [[ Adad | hadad ]]
+      Temple, Royal Orchard, Ištar Gate, Lugalirra Temple, and [[ Šamaš |
+      shamash ]] Gate districts.[[ ^18 ]]"
+  - when: 200 BC
+    what: The 'Great Sanctuary' of Ishtar is added between the Anu and Eanna
+      districts.
+    from: "Uruk, known as Orcha (Ὄρχα) to the Greeks, continued to thrive under
+      the [[ Seleucid Empire ]]. During this period, Uruk was a city of
+      300 hectares and perhaps 40,000 inhabitants.[[ ^18 ]][[ ^19 ]][[ ^20 ]]
+      In 200 BC, the 'Great Sanctuary' (Cuneiform: E₂.IRI₁₂.GAL, Sumerian:
+      eš-gal) of [[ Ishtar | inanna ]] was added between the Anu and Eanna
+      districts. The ziggurat of the temple of Anu, which was rebuilt in this
+      period, was the largest ever built in Mesopotamia.[[ ^20 ]] When the
+      Seleucids lost Mesopotamia to the [[ Parthians | parthian-empire ]] in
+      141 BC, Uruk continued in use.[[ ^21 ]] The decline of Uruk after the
+      Parthians may have been in part caused by a shift in the Euphrates
+      River. By 300 AD, Uruk was mostly abandoned, but a group of [[ Mandaeans
+      ]] settled there, based on some finds of [[ Mandaic | mandaic-language
+      ]] [[ incantation bowls | incantation-bowl ]], and by c. 700 AD it was
+      completely abandoned.[[ ^22 ]]"
+  - when: 141 BC
+    what: The Seleucids lose Mesopotamia to the Parthians; Uruk continues in use.
+    from: "Uruk, known as Orcha (Ὄρχα) to the Greeks, continued to thrive under
+      the [[ Seleucid Empire ]]. During this period, Uruk was a city of
+      300 hectares and perhaps 40,000 inhabitants.[[ ^18 ]][[ ^19 ]][[ ^20 ]]
+      In 200 BC, the 'Great Sanctuary' (Cuneiform: E₂.IRI₁₂.GAL, Sumerian:
+      eš-gal) of [[ Ishtar | inanna ]] was added between the Anu and Eanna
+      districts. The ziggurat of the temple of Anu, which was rebuilt in this
+      period, was the largest ever built in Mesopotamia.[[ ^20 ]] When the
+      Seleucids lost Mesopotamia to the [[ Parthians | parthian-empire ]] in
+      141 BC, Uruk continued in use.[[ ^21 ]] The decline of Uruk after the
+      Parthians may have been in part caused by a shift in the Euphrates
+      River. By 300 AD, Uruk was mostly abandoned, but a group of [[ Mandaeans
+      ]] settled there, based on some finds of [[ Mandaic | mandaic-language
+      ]] [[ incantation bowls | incantation-bowl ]], and by c. 700 AD it was
+      completely abandoned.[[ ^22 ]]"
+  - when: 79 or 80 AD
+    what: W22340a, an astronomical almanac, is the last dated cuneiform tablet
+      from Uruk.
+    from: A number of [[ Proto-cuneiform ]] clay tablets were found at Uruk.
+      Around 190 were Uruk V period (c. 3500 BC) "numerical tablets" or
+      "impressed tablets", 1776 were from the Uruk IV period (c. 3300 BC),
+      3,094 from the Uruk III period (c. 3200–2900 BC) which is also called
+      the [[ Jemdet Nasr period ]].[[ ^52 ]][[ ^53 ]] Later cuneiform tablets
+      were deciphered and include the famous //SKL//, a record of kings of the
+      Sumerian civilization. There was an even larger cache of legal and
+      scholarly tablets of the [[ Neo-Babylonian | neo-babylonian-empire ]],
+      [[ Late Babylonian | akkadian-language ]], and [[ Seleucid |
+      seleucid-empire ]] period, that have been published by [[ Adam
+      Falkenstein ]] and other [[ Assyriological | assyriology ]] members of
+      the German Archaeological Institute in Baghdad as Jan J. A. Djik,[[ ^54
+      ]] [[ Hermann Hunger ]], Antoine Cavigneaux, Egbert von Weiher,[[ ^55
+      ]][[ ^56 ]][[ ^57 ]][[ ^58 ]] and Karlheinz Kessler, or others as Erlend
+      Gehlken.[[ ^59 ]][[ ^60 ]][[ ^61 ]] Many of the cuneiform tablets form
+      acquisitions by museums and collections as the [[ British Museum ]], [[
+      Yale Babylonian Collection ]], and the [[ Louvre ]]. The latter holds a
+      unique cuneiform tablet in Aramaic known as the [[ Aramaic Uruk
+      incantation ]]. The last dated cuneiform tablet from Uruk was W22340a,
+      an astronomical almanac, which is dated to 79 or 80 AD.[[ ^62 ]]
+  - when: By 300 AD
+    what: Uruk is mostly abandoned, but a group of Mandaeans settle there, on the
+      evidence of some finds of Mandaic incantation bowls.
+    from: "Uruk, known as Orcha (Ὄρχα) to the Greeks, continued to thrive under
+      the [[ Seleucid Empire ]]. During this period, Uruk was a city of
+      300 hectares and perhaps 40,000 inhabitants.[[ ^18 ]][[ ^19 ]][[ ^20 ]]
+      In 200 BC, the 'Great Sanctuary' (Cuneiform: E₂.IRI₁₂.GAL, Sumerian:
+      eš-gal) of [[ Ishtar | inanna ]] was added between the Anu and Eanna
+      districts. The ziggurat of the temple of Anu, which was rebuilt in this
+      period, was the largest ever built in Mesopotamia.[[ ^20 ]] When the
+      Seleucids lost Mesopotamia to the [[ Parthians | parthian-empire ]] in
+      141 BC, Uruk continued in use.[[ ^21 ]] The decline of Uruk after the
+      Parthians may have been in part caused by a shift in the Euphrates
+      River. By 300 AD, Uruk was mostly abandoned, but a group of [[ Mandaeans
+      ]] settled there, based on some finds of [[ Mandaic | mandaic-language
+      ]] [[ incantation bowls | incantation-bowl ]], and by c. 700 AD it was
+      completely abandoned.[[ ^22 ]]"
+  - when: c. 700 AD
+    what: The site is completely abandoned.
+    from: "Uruk, known as Orcha (Ὄρχα) to the Greeks, continued to thrive under
+      the [[ Seleucid Empire ]]. During this period, Uruk was a city of
+      300 hectares and perhaps 40,000 inhabitants.[[ ^18 ]][[ ^19 ]][[ ^20 ]]
+      In 200 BC, the 'Great Sanctuary' (Cuneiform: E₂.IRI₁₂.GAL, Sumerian:
+      eš-gal) of [[ Ishtar | inanna ]] was added between the Anu and Eanna
+      districts. The ziggurat of the temple of Anu, which was rebuilt in this
+      period, was the largest ever built in Mesopotamia.[[ ^20 ]] When the
+      Seleucids lost Mesopotamia to the [[ Parthians | parthian-empire ]] in
+      141 BC, Uruk continued in use.[[ ^21 ]] The decline of Uruk after the
+      Parthians may have been in part caused by a shift in the Euphrates
+      River. By 300 AD, Uruk was mostly abandoned, but a group of [[ Mandaeans
+      ]] settled there, based on some finds of [[ Mandaic | mandaic-language
+      ]] [[ incantation bowls | incantation-bowl ]], and by c. 700 AD it was
+      completely abandoned.[[ ^22 ]]"
+  - when: "1835"
+    what: Fraser and Ross are the first to note the location of Uruk.
+    from: The location of Uruk was first noted by Fraser and Ross in 1835.[[ ^32
+      ]] [[ William Loftus | william-loftus-archaeologist ]] excavated there
+      in 1850 and 1854 after a scouting mission in 1849. By Loftus' own
+      account, he admits that the first excavations were superficial at best,
+      as his financiers forced him to deliver large museum artifacts at a
+      minimal cost.[[ ^5 ]] A large basalt stela found by Loftus was later
+      lost.[[ ^33 ]] Warka was also scouted by archaeologist [[ Walter Andrae
+      ]] in 1902.[[ ^34 ]] In 1905 Warka was visited by archaeologist [[ Edgar
+      James Banks ]].[[ ^35 ]]
+  - when: "1849"
+    what: William Kennett Loftus visits the site, identifying it as "Erech", known
+      as "the second city of Nimrod".
+    from: '[[ William Kennett Loftus | william-loftus-archaeologist ]] visited the
+      site of Uruk in 1849, identifying it as "Erech", known as "the second
+      city of [[ Nimrod ]]", and led the first excavations from 1850 to
+      1854.[[ ^5 ]][[ ^6 ]]'
+  - when: 1850 to 1854
+    what: Loftus leads the first excavations at Uruk.
+    from: '[[ William Kennett Loftus | william-loftus-archaeologist ]] visited the
+      site of Uruk in 1849, identifying it as "Erech", known as "the second
+      city of [[ Nimrod ]]", and led the first excavations from 1850 to
+      1854.[[ ^5 ]][[ ^6 ]]'
+  - when: 1912 to 1913
+    what: Julius Jordan and his team from the German Oriental Society discover the
+      temple of Ishtar and part of the city wall.
+    from: From 1912 to 1913, [[ Julius Jordan ]] and his team from the [[ German
+      Oriental Society | deutsche-orient-gesellschaft ]] discovered the temple
+      of [[ Ishtar | inanna ]], one of four known temples located at the site.
+      The temples at Uruk were quite remarkable as they were constructed with
+      brick and adorned with colorful [[ mosaics | mosaic ]]. Jordan also
+      discovered part of the [[ city wall | defensive-wall ]]. It was later
+      discovered that this 40-to-50-foot (12 to 15 m) high brick wall,
+      probably utilized as a defense mechanism, totally encompassed the city
+      at a length of 9 km (5.6 mi). Utilizing sedimentary strata dating
+      techniques, this wall is estimated to have been erected around 3000 BC.
+      Jordan produced a contour map of the entire site.[[ ^30 ]]
+  - when: 2016 (40th Session)
+    what: Uruk Archaeological City is inscribed as part of the Ahwar of Southern
+      Iraq.
+    from: |2-
+        unesco-world-heritage-site:
+          official-name: Uruk Archaeological City
+          part-of: Ahwar of Southern Iraq
+          criteria: "Mixed: (iii)(v)(ix)(x)"
+          reference: 1481-005
+          inscription: 2016 (40th Session)
+image-plan:
+  - file: Warka_vase_(background_retouched).jpg
+    role: hero
+    section: lead
+    caption: A devotional scene to [[ Inanna ]], the [[ Warka Vase ]], c.
+      3200–3000 BC, Uruk. This is one of the earliest surviving works of
+      narrative relief sculpture.
+  - file: Uruk_expansion.svg
+    role: full
+    section: uruk-period
+    caption: Uruk expansion and colonial outposts, c. 3600–3200 BC
+  - file: Uruk3000BCE.jpg
+    role: inline
+    section: early-dynastic-akkadian-ur-iii-and-old-babylonian-period
+    caption: Clay impression of a cylinder seal with monstrous lions and
+      lion-headed eagles, Mesopotamia, Uruk Period (4100–3000 BC). Louvre
+      Museum.
+  - file: Limestone_foundation_peg_of_Lugal-kisal-si,_from_Uruk,_Iraq._C._2380_BCE._Pergamon_Museum.jpg
+    role: inline
+    section: early-dynastic-akkadian-ur-iii-and-old-babylonian-period
+    caption: Foundation peg of [[ Lugal-kisalsi ]], king of Uruk, Ur and Kish,
+      circa 2380 BC. The inscription reads "For (the goddess) [[ Namma | nammu
+      ]], wife of (the god) [[ An | anu ]], Lugalkisalsi, King of Uruk, King
+      of Ur, erected this temple of Namma". [[ Pergamon Museum ]] VA 4855.[[
+      ^2 ]]
+  - file: Tablet_of_Sin-Gamil_of_Uruk.jpg
+    role: inline
+    section: early-dynastic-akkadian-ur-iii-and-old-babylonian-period
+    caption: Dedication tablet of [[ Sîn-gāmil ]], ruler of Uruk, 18th century BC
+  - file: British_Museum_Foundation_Tablet.jpg
+    role: inline
+    section: uruk-into-late-antiquity
+    caption: Foundation tablet from the Temple of Inanna at Uruk (Eanna), dating
+      to the reign of Ur-Nammu
+  - file: Gebel_el-Arak_Knife_ivory_handle_(front_top_part_detail).jpg
+    role: full
+    section: political-history
+    caption: A Mesopotamian king as [[ Master of Animals ]] on the [[ Gebel
+      el-Arak Knife ]] (c. 3300–3200 BC, [[ Abydos, Egypt ]]), a work
+      indicating [[ Egypt-Mesopotamia relations | egyptmesopotamia-relations
+      ]] and showing the early influence of Mesopotamia on [[ Egypt ]] and the
+      state of Mesopotamian royal iconography in the Uruk period. [[ Louvre
+      ]].[[ ^23 ]][[ ^24 ]]
+  - file: Uruk_King-Priest_3300_BCE_portrait_detail.jpg
+    role: inline
+    section: political-history
+    caption: Probable Uruk King-Priest with a beard and hat (c. 3300 BC, Uruk). [[
+      Louvre ]].[[ ^27 ]]
+  - file: Part_of_front_of_Inanna_temple_of_Kara_Indasch_from_Uruk_Vorderasiatisches_Museum_Berlin.jpg
+    role: inline
+    section: architecture
+    caption: Relief on the front of the Inanna temple of [[ Karaindash ]] from
+      Uruk. Mid 15th century BC. [[ Pergamon Museum ]], Berlin.
+  - file: Uruk_Temple_of_Charyos_(2).jpg
+    role: inline
+    section: architecture
+    caption: The [[ Parthian | parthian-empire ]] Temple of Charyios at Uruk
+  - file: Meso2mil-English.JPG
+    role: full
+    section: archaeology
+    caption: ""
+  - file: Male_deity_pouring_a_life-giving_water_from_a_vessel._Facade_of_Inanna_Temple_at_Uruk,_Iraq._15th_century_BC._The_Pergamon_Museum.jpg
+    role: inline
+    section: archaeology
+    caption: Male deity pouring a life-giving water from a vessel. Facade of
+      Inanna Temple at Uruk, Iraq. 15th century BC. The Pergamon Museum.
+  - file: معبد_كاريوس_...اوروك_...._مدينة_الوركاء_..._المثنى.jpg
+    role: inline
+    section: archaeology
+    caption: Ruins of the [[ Temple of Gareus ]] at Uruk, c. 100 CE
+  - file: Uruk_Ziggurat_(30744982822).jpg
+    role: full
+    section: cuneiform-tablets
+    caption: A massive ziggurat dating from the 4th millennium BC stands at the
+      entrance to Uruk (Warka), 39 km east of [[ Samawah ]], Iraq
+  - file: Glockentopf.jpg
+    role: inline
+    section: cuneiform-tablets
+    caption: Late Uruk Period [[ beveled rim bowls | beveled-rim-bowl ]] used for
+      ration distribution
+  - file: Eanna4composite.svg
+    role: inline
+    section: eanna-district
+    caption: Eanna IVa (light brown) and IVb (dark brown)
+  - file: Cylinder_seal_king_Louvre_AO6620.jpg
+    role: inline
+    section: eanna-district
+    caption: An Uruk period cylinder-seal and its impression, c. 3100 BC. [[
+      Louvre ]].
+  - file: Pictographs_Recording_the_Allocation_of_Beer_(London,_England).jpg
+    role: inline
+    section: eanna-district
+    caption: Tablet from Uruk III (c. 3200–3000 BC) recording beer distributions
+      from the storerooms of an institution,[[ ^67 ]] [[ British Museum ]]
+glossary:
+  - term: Eanna
+    gloss: The 'House of Heaven', which Enmerkar is related to have constructed
+      for the goddess Inanna in the Eanna District of Uruk.
+    from: "According to the //SKL//, Uruk was founded by the king [[ Enmerkar ]].
+      Though the king-list mentions a father before him, the epic //[[
+      Enmerkar and the Lord of Aratta ]]// relates that Enmerkar constructed
+      the //[[ House of Heaven | eanna ]]// (Sumerian: //e₂-anna//; cuneiform:
+      𒂍𒀭 E₂.AN) for the goddess [[ Inanna ]] in the Eanna District of Uruk.
+      In the //[[ Epic of Gilgamesh ]]//, Gilgamesh builds the city wall
+      around Uruk and is king of the city."
+  - term: Sumerian King List (SKL)
+    gloss: The king-list that Uruk's dynastic categorizations are described solely
+      from, and which is of problematic historical accuracy.
+    from: Dynastic categorizations are described solely from the //[[ Sumerian
+      King List ]]//, which is of problematic historical accuracy;[[ ^11 ]][[
+      ^12 ]] the organization might be analogous to [[ Manetho ]]'s.
+  - term: Beveled rim bowls
+    gloss: The most common type of container used during the Uruk period; they are
+      believed to be vessels for serving rations of food or drink to dependent
+      laborers.
+    from: "[[ Beveled rim bowls | beveled-rim-bowl ]] were the most common type of
+      container used during the Uruk period. They are believed to be vessels
+      for serving rations of food or drink to dependent laborers. The
+      introduction of the fast [[ wheel | potters-wheel ]] for throwing
+      pottery was developed during the later part of the Uruk period, and made
+      the mass production of pottery simpler and more standardized.[[ ^65 ]]"
+  - term: Tripartite and T-shaped
+    gloss: "The two main typologies of Sumerian architecture: Tripartite, with
+      three parallel halls, and T-Shaped, with three halls, with the central
+      hall extending into two perpendicular bays at one end."
+    from: "Uruk has some of the first monumental constructions in architectural
+      history, and certainly the largest of its era. Much of Near Eastern
+      architecture can trace its roots to these prototypical buildings. The
+      structures of Uruk are cited under two different naming conventions: one
+      in German from the initial expedition and the English translation of the
+      same. The site's stratigraphy is complex, and as a result, much of the
+      dating is disputed. In general, the structures follow the two main
+      typologies of [[ Sumerian architecture | architecture-of-mesopotamia ]]:
+      Tripartite, with three parallel halls, and T-Shaped, with three halls,
+      with the central hall extending into two perpendicular bays at one end.
+      The following table summarizes the significant architecture of the Eanna
+      and Anu Districts.[[ ^28 ]] Temple N, the Cone-Mosaic Courtyard, and the
+      Round Pillar Hall are often referred to as a single structure: the
+      Cone-Mosaic Temple."
+  - term: Riemchen
+    gloss: The 16 cm (6.3 in)×16 cm (6.3 in) brick shape called Riemchen by the
+      Germans, first used in the Riemchen Building and then in all buildings
+      of Uruk IV period Eanna.
+    from: "Between these two monumental structures a complex of buildings (called
+      A–C, E–K, Riemchen, Cone-Mosaic), courts, and walls was built during
+      Eanna IVb. These buildings were built during a time of great expansion
+      in Uruk as the city grew to 250 ha (620 acres) and established
+      long-distance trade, and are a continuation of architecture from the
+      previous period. The Riemchen Building, named for the 16 cm
+      (6.3 in)×16 cm (6.3 in) brick shape called //Riemchen// by the Germans,
+      is a memorial with a ritual fire kept burning in the center for the
+      Stone-Cone Temple after it was destroyed. For this reason, Uruk IV
+      period represents a reorientation of belief and culture. The facade of
+      this memorial may have been covered in geometric and figural murals. The
+      Riemchen bricks first used in this temple were used to construct all
+      buildings of Uruk IV period Eanna. The use of colored cones as a façade
+      treatment was greatly developed as well, perhaps used to greatest effect
+      in the Cone-Mosaic Temple. Composed of three parts: Temple N, the Round
+      Pillar Hall, and the Cone-Mosaic Courtyard, this temple was the most
+      monumental structure of Eanna at the time. They were all ritually
+      destroyed and the entire Eanna district was rebuilt in period IVa at an
+      even grander scale."
+  - term: ĝiparu
+    gloss: A woven reed mat, ritually used as a nuptial bed, over which the podium
+      of the Stone Temple was built.
+    from: The Stone Temple was built of limestone and bitumen on a podium of [[
+      rammed earth ]] and plastered with lime mortar. The podium itself was
+      built over a woven reed mat called //[[ ĝiparu | giparu ]]//, which was
+      ritually used as a nuptial bed. The ĝiparu was a source of generative
+      power which then radiated upward into the structure. The structure of
+      the Stone Temple further develops some mythological concepts from //[[
+      Enuma Elish | enūma-eliš ]]//, perhaps involving libation rites as
+      indicated from the channels, tanks, and vessels found there. The
+      structure was ritually destroyed, covered with alternating layers of
+      clay and stone, then excavated and filled with mortar sometime later.
+  - term: Bīt Reš
+    gloss: The 'Head Temple', added northeast of the Uruk-period Anu district by
+      250 BC; with the Esagila it was one of the two main centers of
+      Neo-Babylonian astronomy.
+    from: "Following the collapse of Ur (c. 2000 BC), Uruk went into a steep
+      decline until about 850 BC when the [[ Neo-Assyrian Empire ]] annexed it
+      as a provincial capital. Under the Neo-Assyrians and [[ Neo-Babylonians
+      | neo-babylonian-empire ]], Uruk regained much of its former glory. By
+      250 BC, a new temple complex, the 'Head Temple' (Akkadian: //Bīt Reš//),
+      was added northeast of the Uruk-period Anu district. The //Bīt Reš//
+      along with the //[[ Esagila ]]// was one of the two main centers of [[
+      Neo-Babylonian astronomy | babylonian-astronomy ]]. All of the temples
+      and canals were restored again under [[ Nabopolassar ]]. During this
+      era, Uruk was divided into five main districts: the [[ Adad | hadad ]]
+      Temple, Royal Orchard, Ištar Gate, Lugalirra Temple, and [[ Šamaš |
+      shamash ]] Gate districts.[[ ^18 ]]"
+  - term: Mask of Warka
+    gloss: A carved marble female face dating from 3100 BC, also called the 'Lady
+      of Uruk' and the 'Sumerian Mona Lisa', and one of the earliest
+      representations of the human face.
+    from: The [[ Mask of Warka ]], also known as the 'Lady of Uruk' and the
+      'Sumerian [[ Mona Lisa ]]', dating from 3100 BC, is one of the earliest
+      representations of the human face. The carved marble female face is
+      probably a depiction of Inanna. It is approximately 20 cm (7.9 in) tall,
+      and may have been incorporated into a larger cult image. The mask was
+      looted from the [[ Iraq Museum ]] during the [[ invasion of Iraq |
+      2003-invasion-of-iraq ]] in April 2003. It was recovered in September
+      2003 and returned to the museum.
+further:
+  - slug: ur
+    why: Uruk kept losing the kingship to Ur on the Sumerian King List, and later
+      revived as a major economic and cultural center under Ur's sovereignty.
+  - slug: akkadian-empire
+    why: It was the rise of the Akkadian Empire that cost Uruk its prime
+      importance, and the Akkadian Empire that annexed it.
+  - slug: larsa
+    why: Uruk's independence in the Isin-Larsa period ran out when Irdanene was
+      defeated by Rīm-Sîn I of Larsa in his year 14 (c. 1740 BC).
+anchors:
+  hook: At its peak around 3100 BC, the city may have had up to 50,000
+    residents,[[ ^2 ]][[ ^3 ]] with 80,000–90,000 people living in its
+    environs,[[ ^4 ]] making it the largest urban area in the world at the
+    time.
+  standfirst: Uruk is the [[ type site ]] for the [[ Uruk period ]] and played a
+    leading role in the early urbanization of [[ Sumer ]] in the mid-4th
+    millennium BC. At its peak around 3100 BC, the city may have had up to
+    50,000 residents,[[ ^2 ]][[ ^3 ]] with 80,000–90,000 people living in its
+    environs,[[ ^4 ]] making it the largest urban area in the world at the
+    time. [[ Gilgamesh ]], according to the [[ chronology ]] presented in the
+    //[[ Sumerian King List ]]// (//SKL//), ruled Uruk in the 27th century BC.
+    After the end of the [[ Early Dynastic | early-dynastic-period ]] period,
+    with the rise of the [[ Akkadian Empire ]], the city lost its prime
+    importance. It had periods of flourishing during the [[ Isin-Larsa period
+    ]], [[ Neo-Assyrian | neo-assyrian-empire ]] and [[ Neo-Babylonian |
+    neo-babylonian-empire ]] periods and throughout the [[ Achaemenid |
+    achaemenid-empire ]] (550–330 BC), [[ Seleucid | seleucid-empire ]]
+    (312–63 BC) and [[ Parthian | parthian-empire ]] (227 BC to AD 224)
+    periods, until it was finally abandoned shortly before or after the [[
+    Islamic conquest | muslim-conquest-of-persia ]] of 633–638. [[ William
+    Kennett Loftus | william-loftus-archaeologist ]] visited the site of Uruk
+    in 1849, identifying it as "Erech", known as "the second city of [[ Nimrod
+    ]]", and led the first excavations from 1850 to 1854.[[ ^5 ]][[ ^6 ]]
+coordinates:
+  lat: 31.32416667
+  lon: 45.63722222
+images:
+  - file: Warka_vase_(background_retouched).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Warka_vase_%28background_retouched%29.jpg/250px-Warka_vase_%28background_retouched%29.jpg
+    width: 2824
+    height: 6632
+    caption: Devotional scene to Inanna, Warka Vase, c. 3200–3000 BC, Uruk. This
+      is one of the earliest surviving works of narrative relief sculpture.
+  - file: Uruk_expansion.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Uruk_expansion.svg/330px-Uruk_expansion.svg.png
+    width: 1185
+    height: 961
+    caption: Uruk expansion and colonial outposts, c. 3600–3200 BC
+  - file: Uruk3000BCE.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Uruk3000BCE.jpg/250px-Uruk3000BCE.jpg
+    width: 1650
+    height: 826
+    caption: Clay impression of a cylinder seal with monstrous lions and
+      lion-headed eagles, Mesopotamia, Uruk Period (4100–3000 BC). Louvre
+      Museum.
+  - file: Limestone_foundation_peg_of_Lugal-kisal-si,_from_Uruk,_Iraq._C._2380_BCE._Pergamon_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Limestone_foundation_peg_of_Lugal-kisal-si%2C_from_Uruk%2C_Iraq._C._2380_BCE._Pergamon_Museum.jpg/250px-Limestone_foundation_peg_of_Lugal-kisal-si%2C_from_Uruk%2C_Iraq._C._2380_BCE._Pergamon_Museum.jpg
+    width: 3410
+    height: 5171
+    caption: Foundation peg of Lugal-kisalsi, king of Uruk, Ur and Kish, circa
+      2380 BC. The inscription reads "For (the goddess) Namma, wife of (the
+      god) An, Lugalkisalsi, King of Uruk, King of Ur, erected this temple of
+      Namma". Pergamon Museum VA 4855.
+  - file: Tablet_of_Sin-Gamil_of_Uruk.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tablet_of_Sin-Gamil_of_Uruk.jpg/250px-Tablet_of_Sin-Gamil_of_Uruk.jpg
+    width: 808
+    height: 620
+    caption: Dedication tablet of Sîn-gāmil, ruler of Uruk, 18th century BC
+  - file: British_Museum_Foundation_Tablet.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/British_Museum_Foundation_Tablet.jpg/250px-British_Museum_Foundation_Tablet.jpg
+    width: 1112
+    height: 1752
+    caption: Foundation tablet from the Temple of Inanna at Uruk (Eanna), dating
+      to the reign of Ur-Nammu
+  - file: Gebel_el-Arak_Knife_ivory_handle_(front_top_part_detail).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gebel_el-Arak_Knife_ivory_handle_%28front_top_part_detail%29.jpg/250px-Gebel_el-Arak_Knife_ivory_handle_%28front_top_part_detail%29.jpg
+    width: 1582
+    height: 1100
+    caption: Mesopotamian king as Master of Animals on the Gebel el-Arak Knife (c.
+      3300–3200 BC, Abydos, Egypt), a work indicating Egypt-Mesopotamia
+      relations and showing the early influence of Mesopotamia on Egypt and
+      the state of Mesopotamian royal iconography in the Uruk period. Louvre.
+  - file: Uruk_King-Priest_3300_BCE_portrait_detail.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Uruk_King-Priest_3300_BCE_portrait_detail.jpg/250px-Uruk_King-Priest_3300_BCE_portrait_detail.jpg
+    width: 1304
+    height: 1833
+    caption: Probable Uruk King-Priest with a beard and hat (c. 3300 BC, Uruk).
+      Louvre.
+  - file: Part_of_front_of_Inanna_temple_of_Kara_Indasch_from_Uruk_Vorderasiatisches_Museum_Berlin.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Part_of_front_of_Inanna_temple_of_Kara_Indasch_from_Uruk_Vorderasiatisches_Museum_Berlin.jpg/250px-Part_of_front_of_Inanna_temple_of_Kara_Indasch_from_Uruk_Vorderasiatisches_Museum_Berlin.jpg
+    width: 2035
+    height: 1580
+    caption: Relief on the front of the Inanna temple of Karaindash from Uruk. Mid
+      15th century BC. Pergamon Museum, Berlin.
+  - file: Uruk_Temple_of_Charyos_(2).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Uruk_Temple_of_Charyos_%282%29.jpg/250px-Uruk_Temple_of_Charyos_%282%29.jpg
+    width: 4752
+    height: 2568
+    caption: The Parthian Temple of Charyios at Uruk
+  - file: Meso2mil-English.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Meso2mil-English.JPG/330px-Meso2mil-English.JPG
+    width: 577
+    height: 599
+    caption: "Mesopotamia in the 2nd millennium BC. From north to south: Nineveh,
+      Qattara (or Karana), Dūr-Katlimmu, Assur, Arrapha, Terqa, Nuzi, Mari,
+      Eshnunna, Dur-Kurigalzu, Der, Sippar, Babylon, Kish, Susa, Borsippa,
+      Nippur, Isin, Uruk, Larsa and Ur."
+  - file: Male_deity_pouring_a_life-giving_water_from_a_vessel._Facade_of_Inanna_Temple_at_Uruk,_Iraq._15th_century_BC._The_Pergamon_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Male_deity_pouring_a_life-giving_water_from_a_vessel._Facade_of_Inanna_Temple_at_Uruk%2C_Iraq._15th_century_BC._The_Pergamon_Museum.jpg/250px-Male_deity_pouring_a_life-giving_water_from_a_vessel._Facade_of_Inanna_Temple_at_Uruk%2C_Iraq._15th_century_BC._The_Pergamon_Museum.jpg
+    width: 2848
+    height: 4288
+    caption: Male deity pouring a life-giving water from a vessel. Facade of
+      Inanna Temple at Uruk, Iraq. 15th century BC. The Pergamon Museum.
+  - file: معبد_كاريوس_...اوروك_...._مدينة_الوركاء_..._المثنى.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%D9%85%D8%B9%D8%A8%D8%AF_%D9%83%D8%A7%D8%B1%D9%8A%D9%88%D8%B3_...%D8%A7%D9%88%D8%B1%D9%88%D9%83_...._%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%88%D8%B1%D9%83%D8%A7%D8%A1_..._%D8%A7%D9%84%D9%85%D8%AB%D9%86%D9%89.jpg/250px-%D9%85%D8%B9%D8%A8%D8%AF_%D9%83%D8%A7%D8%B1%D9%8A%D9%88%D8%B3_...%D8%A7%D9%88%D8%B1%D9%88%D9%83_...._%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%88%D8%B1%D9%83%D8%A7%D8%A1_..._%D8%A7%D9%84%D9%85%D8%AB%D9%86%D9%89.jpg
+    width: 5472
+    height: 3648
+    caption: Ruins of the Temple of Gareus at Uruk, c. 100 CE
+  - file: Uruk_Ziggurat_(30744982822).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Uruk_Ziggurat_%2830744982822%29.jpg/250px-Uruk_Ziggurat_%2830744982822%29.jpg
+    width: 1024
+    height: 768
+    caption: A massive ziggurat dating from the 4th millennium BC stands at the
+      entrance to Uruk (Warka), 39 km east of Samawah, Iraq
+  - file: Glockentopf.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Glockentopf.jpg/250px-Glockentopf.jpg
+    width: 1608
+    height: 1088
+    caption: Late Uruk Period beveled rim bowls used for ration distribution
+  - file: Eanna4composite.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Eanna4composite.svg/250px-Eanna4composite.svg.png
+    width: 1878
+    height: 1356
+    caption: Eanna IVa (light brown) and IVb (dark brown)
+  - file: Cylinder_seal_king_Louvre_AO6620.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cylinder_seal_king_Louvre_AO6620.jpg/250px-Cylinder_seal_king_Louvre_AO6620.jpg
+    width: 2000
+    height: 1100
+    caption: An Uruk period cylinder-seal and its impression, c. 3100 BC. Louvre.
+  - file: Pictographs_Recording_the_Allocation_of_Beer_(London,_England).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pictographs_Recording_the_Allocation_of_Beer_%28London%2C_England%29.jpg/250px-Pictographs_Recording_the_Allocation_of_Beer_%28London%2C_England%29.jpg
+    width: 3332
+    height: 2121
+    caption: Tablet from Uruk III (c. 3200–3000 BC) recording beer distributions
+      from the storerooms of an institution, British Museum
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/250px-Iraq_physical_map.svg.png
+  type: Settlement
+  periods: Uruk period to Early Middle Ages
+  location: Muthanna Governorate, Iraq
+  region: Mesopotamia
+  history:
+    built: c. 5000 BC
+    abandoned: c. 700 AD
+  site-notes:
+    area: 6 km2 (2.3 sq mi)
+    excavation-dates: 1850, 1854, 1902, 1912–1913, 1928–1939, 1953–1978,
+      2001–2002, 2016–present
+    archaeologists: William Loftus, Walter Andrae, Julius Jordan, Heinrich Lenzen,
+      Margarete van Ess
+  unesco-world-heritage-site:
+    official-name: Uruk Archaeological City
+    part-of: Ahwar of Southern Iraq
+    criteria: "Mixed: (iii)(v)(ix)(x)"
+    reference: 1481-005
+    inscription: 2016 (40th Session)
+    area: 541 ha (2.09 sq mi)
+    buffer-zone: 292 ha (1.13 sq mi)
+sections:
+  - level: 2
+    id: toponymy
+    title: Toponymy
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: uruk-period
+    title: Uruk period
+  - level: 3
+    id: early-dynastic-akkadian-ur-iii-and-old-babylonian-period
+    title: Early Dynastic, Akkadian, Ur III, and Old Babylonian period
+  - level: 3
+    id: uruk-into-late-antiquity
+    title: Uruk into Late Antiquity
+  - level: 3
+    id: political-history
+    title: Political history
+  - level: 2
+    id: architecture
+    title: Architecture
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 3
+    id: cuneiform-tablets
+    title: Cuneiform tablets
+  - level: 3
+    id: artifacts
+    title: Artifacts
+  - level: 3
+    id: archaeological-levels-of-uruk
+    title: Archaeological levels of Uruk
+  - level: 3
+    id: anu-district
+    title: Anu District
+  - level: 3
+    id: eanna-district
+    title: Eanna District
+  - level: 3
+    id: possible-tomb-of-gilgamesh
+    title: Possible tomb of Gilgamesh
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+wikidata:
+  id: Q168518
+  label: Uruk
+  description: ancient city of Sumer and Babylonia
+  claims:
+    image:
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Uruk_Archaeological_site_at_Warka.jpg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Part_of_front_of_Inanna_temple_of_Kara_Indasch_from_Uruk_Vorderasiatisches_Museum_Berlin.jpg
+    commons-category: Uruk
+    coordinate-location:
+      lat: 31.3259
+      lon: 45.6374
+    country: Iraq
+    located-in-the-administrative-territorial-entity: Al Muthanna Governorate
+    instance-of:
+      - ancient city
+      - archaeological site
+      - type site
+      - city-state
+      - human settlement
+    heritage-designation:
+      value: part of UNESCO World Heritage Site
+      from: "2016"
+    part-of:
+      - Ahwar of Southern Iraq
+      - Warka
+    topic-s-main-category: Category:Uruk
+    area:
+      - 541 hectare
+      - 292 hectare
+      - 450 hectare
+    described-by-source:
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Granat Encyclopedic Dictionary
+      - Encyclopædia Britannica 11th edition
+      - Great Soviet Encyclopedia (1926–1947)
+    culture:
+      - Sumer
+      - Uruk period
+    inception: 3200 BC
+    location:
+      - Mesopotamia
+      - Sumer
+    video: https://commons.wikimedia.org/wiki/Special:FilePath/Uruk%2C_erste_Metropole_der_Weltgeschichte_(CC_BY_4.0).webm
+    continent: Asia
+    has-part-s: Kula
+link-titles:
+  2003-invasion-of-iraq: 2003 invasion of Iraq
+  2nd-millennium-bc: 2nd millennium BC
+  abydos-egypt: Abydos, Egypt
+  achaemenid-empire: Achaemenid Empire
+  adam-falkenstein: Adam Falkenstein
+  aga-of-kish: Aga of Kish
+  akkad-city: Akkad (city)
+  akkadian-empire: Akkadian Empire
+  akkadian-period: Akkadian Period
+  akkadian-language: Akkadian language
+  akkadian-royal-titulary: Akkadian royal titulary
+  akurgal: Akurgal
+  amorites: Amorites
+  an-am: An-am
+  ancient-greek: Ancient Greek
+  anu: Anu
+  anu-ziggurat: Anu ziggurat
+  aqueduct-water-supply: Aqueduct (water supply)
+  aramaic-uruk-incantation: Aramaic Uruk incantation
+  aratta: Aratta
+  architecture-of-mesopotamia: Architecture of Mesopotamia
+  arrapha: Arrapha
+  assur: Assur
+  assyriology: Assyriology
+  babylon: Babylon
+  babylonian-astronomy: Babylonian astronomy
+  beveled-rim-bowl: Beveled rim bowl
+  biblical-hebrew: Biblical Hebrew
+  borsippa: Borsippa
+  british-museum: British Museum
+  bronze-age: Bronze Age
+  buttress: Buttress
+  chronology: Chronology
+  city-state: City-state
+  cuneiform: Cuneiform
+  cush-bible: Cush (Bible)
+  damiq-ilishu: Damiq-ilishu
+  death-of-gilgamesh: Death of Gilgamesh
+  defensive-wall: Defensive wall
+  der-sumer: Der (Sumer)
+  deutsche-orient-gesellschaft: Deutsche Orient-Gesellschaft
+  digital-twin: Digital twin
+  dumuzid-the-fisherman: Dumuzid the Fisherman
+  dur-kurigalzu: Dur-Kurigalzu
+  e-sara: E-sara
+  en-cuneiform: EN (cuneiform)
+  eanna: Eanna
+  early-dynastic-i: Early Dynastic I
+  early-dynastic-period: Early Dynastic Period
+  early-dynastic-period-mesopotamia: Early Dynastic Period (Mesopotamia)
+  edgar-james-banks: Edgar James Banks
+  egbert-von-weiheractioneditredlink1: Egbert von Weiher?action=edit&redlink=1
+  egypt: Egypt
+  egyptmesopotamia-relations: Egypt–Mesopotamia relations
+  elulu: Elulu
+  en-nun-tarah-ana: En-nun-tarah-ana
+  enakalle: Enakalle
+  enentarzi: Enentarzi
+  enmebaragesi: Enmebaragesi
+  enmerkar: Enmerkar
+  enmerkar-and-the-lord-of-aratta: Enmerkar and the Lord of Aratta
+  enshakushanna: Enshakushanna
+  ensi-sumerian: Ensi (Sumerian)
+  enūma-eliš: Enūma Eliš
+  epic-of-gilgamesh: Epic of Gilgamesh
+  eridu: Eridu
+  esagila: Esagila
+  eshnunna: Eshnunna
+  euphrates: Euphrates
+  first-dynasty-of-ur: First dynasty of Ur
+  fortification: Fortification
+  gebel-el-arak-knife: Gebel el-Arak Knife
+  german-archaeological-institute: German Archaeological Institute
+  gilgamesh: Gilgamesh
+  giparu: Giparu
+  girsu: Girsu
+  gutian-dynasty: Gutian dynasty
+  gutian-dynasty-of-sumer: Gutian dynasty of Sumer
+  gutian-period: Gutian period
+  gutian-rule-in-mesopotamia: Gutian rule in Mesopotamia
+  gutium: Gutium
+  hadad: Hadad
+  hamazi: Hamazi
+  hectare: Hectare
+  hegemony: Hegemony
+  hermann-hunger: Hermann Hunger
+  history-of-sumer: History of Sumer
+  history-of-writing: History of writing
+  ikūn-pî-ištar: Ikūn-pî-Ištar
+  il-king-of-umma: Il, king of Umma
+  inanna: Inanna
+  incantation-bowl: Incantation bowl
+  iraq: Iraq
+  iraq-museum: Iraq Museum
+  irdanene: Irdanene
+  isin: Isin
+  isin-larsa-period: Isin-Larsa period
+  jemdet-nasr-period: Jemdet Nasr period
+  julius-jordan: Julius Jordan
+  karaindash: Karaindash
+  karlheinz-kessleractioneditredlink1: Karlheinz Kessler?action=edit&redlink=1
+  king-of-sumer-and-akkad: King of Sumer and Akkad
+  king-of-the-four-corners: King of the Four Corners
+  king-of-the-universe: King of the Universe
+  kish-sumer: Kish (Sumer)
+  kullaba: Kullaba
+  kushim-uruk-period: Kushim (Uruk period)
+  la-bashum: La-ba'shum
+  larsa: Larsa
+  legend: Legend
+  limestone: Limestone
+  list-of-kings-of-akkad: List of kings of Akkad
+  louvre: Louvre
+  lugal: Lugal
+  lugal-kinishe-dudu: Lugal-kinishe-dudu
+  lugal-kisalsi: Lugal-kisalsi
+  lugal-kitun: Lugal-kitun
+  lugalanda: Lugalanda
+  lugalbanda: Lugalbanda
+  lugalbanda-and-the-anzud-bird: Lugalbanda and the Anzud Bird
+  lugalbanda-in-the-mountain-cave: Lugalbanda in the Mountain Cave
+  lugalnamniršumma: Lugalnamniršumma
+  lugalsilâsi-i: Lugalsilâsi I
+  lugalzagesi: Lugalzagesi
+  magnetometer: Magnetometer
+  mandaeans: Mandaeans
+  mandaic-language: Mandaic language
+  manetho: Manetho
+  mari-syria: Mari, Syria
+  mask-of-warka: Mask of Warka
+  master-of-animals: Master of Animals
+  melem-ana: Melem-ana
+  mesannepada: Mesannepada
+  mesh-he: Mesh-he
+  meshkiangasher: Meshkiangasher
+  meskalamdug: Meskalamdug
+  mesopotamia: Mesopotamia
+  mona-lisa: Mona Lisa
+  mosaic: Mosaic
+  mudbrick: Mudbrick
+  muslim-conquest-of-persia: Muslim conquest of Persia
+  muthanna-governorate: Muthanna Governorate
+  nabopolassar: Nabopolassar
+  nammu: Nammu
+  naram-suen-of-akkad: Naram-Suen of Akkad
+  narrative: Narrative
+  near-east: Near East
+  neo-assyrian-empire: Neo-Assyrian Empire
+  neo-babylonian-empire: Neo-Babylonian Empire
+  nimrod: Nimrod
+  nineveh: Nineveh
+  nippur: Nippur
+  nuzi: Nuzi
+  parthian-empire: Parthian Empire
+  pergamon-museum: Pergamon Museum
+  podium: Podium
+  potters-wheel: Potter's wheel
+  proto-cuneiform: Proto-cuneiform
+  rammed-earth: Rammed earth
+  rim-sîn-i: Rim-Sîn I
+  rîm-anum: Rîm-Anum
+  samawah: Samawah
+  sargon-of-akkad: Sargon of Akkad
+  seleucid-empire: Seleucid Empire
+  shamash: Shamash
+  shepherd: Shepherd
+  silli-adad: Silli-Adad
+  sin-eribam: Sin-Eribam
+  sin-iddinam: Sin-Iddinam
+  sin-iqisham: Sin-Iqisham
+  sippar: Sippar
+  state-formation: State formation
+  sumer: Sumer
+  sumerian-king-list: Sumerian King List
+  sumerian-language: Sumerian language
+  susa: Susa
+  sîn-gāmil: Sîn-gāmil
+  sîn-kāšid: Sîn-kāšid
+  tell-archaeology: Tell (archaeology)
+  tell-brak: Tell Brak
+  tell-sheikh-hamad: Tell Sheikh Hamad
+  tell-al-lahm: Tell al-Lahm
+  tell-al-rimah: Tell al-Rimah
+  temple-of-gareus: Temple of Gareus
+  tempore: Tempore
+  terqa: Terqa
+  terrace-building: Terrace (building)
+  third-dynasty-of-ur: Third dynasty of Ur
+  throne: Throne
+  tummal: Tummal
+  type-site: Type site
+  typology-urban-planning-and-architecture: Typology (urban planning and architecture)
+  uru-sumerogram: URU (Sumerogram)
+  ubaid-period: Ubaid period
+  udul-kalama: Udul-kalama
+  ukush: Ukush
+  ur: Ur
+  ur-iii-period: Ur III period
+  ur-lumma: Ur-Lumma
+  ur-nammu: Ur-Nammu
+  ur-nungal: Ur-Nungal
+  ur-pabilsag: Ur-Pabilsag
+  ur-zababa: Ur-Zababa
+  ur-gigir: Ur-gigir
+  ur-nigin: Ur-nigin
+  urbanization: Urbanization
+  uruk-period: Uruk period
+  urukagina: Urukagina
+  urzage: Urzage
+  ush-king-of-umma: Ush, king of Umma
+  utu-hengal: Utu-hengal
+  venice: Venice
+  venus: Venus
+  walter-andrae: Walter Andrae
+  warad-sin: Warad-Sin
+  warka-vase: Warka Vase
+  william-loftus-archaeologist: William Loftus (archaeologist)
+  world-war-ii: World War II
+  yale-babylonian-collection: Yale Babylonian Collection
+  ziggurat: Ziggurat
+  é-temple: É (temple)
+source:
+  site: Wikipedia
+  lang: en
+  title: Uruk
+  url: https://en.wikipedia.org/wiki/Uruk
+  page-id: 85442
+  revision: "1368696268"
+  modified: 2026-08-10T15:40:44Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Uruk"
+    (revision 1368696268), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/uruk.mdy
+  source-digest: 8d590a4b8fcd501a
+  source-revision: "1368696268"
+  model: claude-opus-5
+  left-out: "Figures are carried in the image-plan rather than repeated in the
+    section bodies, so the <figure> blocks have been lifted out of the prose.
+    Three image blocks in the source have no entry in the article's image list
+    and so are kept verbatim inside their sections instead: the 'Architecture
+    of Uruk' gallery, the Artifacts gallery, and the two bare <img> tags under
+    'Anu/ White Temple ziggurat'. The Archaeology section's figure captioned
+    'Reconstruction video of Uruk (English subtitles)' has no image file in
+    the source and is dropped. The Eanna/Anu architecture table, the
+    archaeological-levels list, the four temple names, the six-part division
+    of the site, the two report series and the whole List of rulers table are
+    tables and lists rather than prose, so they are reproduced verbatim rather
+    than rewritten. One transcription note: the source reads \"By the end of
+    the Uruk period c. 3100 BC)\" with an unmatched parenthesis, which the
+    rewrite closes as \"(c. 3100 BC)\". Figures that disagree inside the
+    document are left disagreeing rather than reconciled: the infobox gives
+    the site area as 6 km2 (2.3 sq mi) while the Archaeology prose says around
+    5.5 km^^2^^ (2.1 sq mi), and the Wikidata inception of 3200 BC sits
+    against an infobox build date of c. 5000 BC. The Toponymy section is a
+    list of spellings in seven scripts and the List of rulers is a table, so
+    both are left close to as they were."
+  verified: false
+  reviewed: false
++++
+At its peak around 3100 BC, Uruk may have had up to 50,000 residents,[[ ^2 ]][[ ^3 ]] with 80,000–90,000 people living in its environs,[[ ^4 ]] making it the largest urban area in the world at the time. It is the [[ type site ]] for the [[ Uruk period ]] and played a leading role in the early urbanization of [[ Sumer ]] in the mid-4th millennium BC.
+
+!!Uruk!!, the archeological site known today as !!Warka!!, was an ancient city in the [[ Near East ]] or West Asia, located east of the current bed of the [[ Euphrates ]] River, on an ancient, now-dried channel of the river in [[ Muthanna Governorate ]], Iraq. The site lies 93 kilometers (58 miles) northwest of ancient [[ Ur ]], 108 kilometers (67 miles) southeast of ancient [[ Nippur ]], and 24 kilometers (15 miles) northwest of ancient [[ Larsa ]].[[ ^1 ]]
+
+[[ Gilgamesh ]], according to the [[ chronology ]] presented in the //[[ Sumerian King List ]]// (//SKL//), ruled Uruk in the 27th century BC. After the end of the [[ Early Dynastic | early-dynastic-period ]] period, with the rise of the [[ Akkadian Empire ]], the city lost its prime importance. It had periods of flourishing during the [[ Isin-Larsa period ]], [[ Neo-Assyrian | neo-assyrian-empire ]] and [[ Neo-Babylonian | neo-babylonian-empire ]] periods and throughout the [[ Achaemenid | achaemenid-empire ]] (550–330 BC), [[ Seleucid | seleucid-empire ]] (312–63 BC) and [[ Parthian | parthian-empire ]] (227 BC to AD 224) periods, until it was finally abandoned shortly before or after the [[ Islamic conquest | muslim-conquest-of-persia ]] of 633–638.
+
+[[ William Kennett Loftus | william-loftus-archaeologist ]] visited the site of Uruk in 1849, identifying it as "Erech", known as "the second city of [[ Nimrod ]]", and led the first excavations from 1850 to 1854.[[ ^5 ]][[ ^6 ]]
+
+== Toponymy
+
+Uruk ([[ /ˈʊrʊk/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]]) has several spellings in [[ cuneiform ]]. In [[ Sumerian | sumerian-language ]], it is 𒀕𒆠 //unugᵏⁱ//,[[ ^7 ]] and in [[ Akkadian | akkadian-language ]], it is spelled 𒌷𒀕 or 𒌷𒀔 //Uruk// (^^[[ URU | uru-sumerogram ]]^^UNUG). In Arabic, it is called وركاء (//Warkāʾ//) or أوروك (//Auruk//); in Syriac, ܐܘܿܪܘܿܟ (//ʾÚrūk//); and in [[ Biblical Hebrew ]], אֶרֶךְ (//ʾÉreḵ//). In [[ Ancient Greek ]], it was known as Ὀρχόη (//Orkhóē//), Ὀρέχ (//Orékh//), and Ὠρύγεια (//Ōrúgeia//).
+
+Many Linguists also state that the name [[ Iraq ]] derived from Uruk.[[ ^8 ]]
+
+== History
+
+According to the //SKL//, Uruk was founded by the king [[ Enmerkar ]]. The king-list mentions a father before him, but the epic //[[ Enmerkar and the Lord of Aratta ]]// relates that Enmerkar constructed the //[[ House of Heaven | eanna ]]// (Sumerian: //e₂-anna//; cuneiform: 𒂍𒀭 E₂.AN) for the goddess [[ Inanna ]] in the Eanna District of Uruk. In the //[[ Epic of Gilgamesh ]]//, Gilgamesh builds the city wall around Uruk and is king of the city.
+
+The city was made by merger. Uruk went through several phases of growth, from the Early Uruk period (4000–3500 BC) to the Late Uruk period (3500–3100 BC).[[ ^1 ]] It was formed when two smaller [[ Ubaid | ubaid-period ]] settlements developed into the cities of Unug and [[ Kullaba ]] and later merged to become Uruk. The temple complexes at their cores became the Eanna District (Unug) dedicated to Inanna and the "Anu" District of [[ Kullaba ]].[[ ^1 ]]
+
+The two halves did not look alike. The Eanna District comprised several buildings with workshop spaces and was walled off from the city; by contrast, the Anu District was built on a terrace with a temple at the top. It is clear Eanna was dedicated to [[ Inanna ]] from the earliest Uruk period throughout the history of the city.[[ ^9 ]] The rest of the city was composed of typical courtyard houses, grouped by profession of the occupants, in districts around Eanna and Anu. Uruk was extremely well penetrated by a canal system that has been described as "[[ Venice ]] in the desert".[[ ^10 ]] This canal system flowed throughout the city connecting it with the maritime trade on the ancient Euphrates River as well as the surrounding agricultural belt.
+
+The river has since moved. The original city of Uruk was situated southwest of the ancient Euphrates River; today, the site of Warka is northeast of the river. The change in position was caused by a shift in the Euphrates at some point in history, which, together with salinization from irrigation, may have contributed to the decline of Uruk.
+
+== Uruk period
+
+In addition to being one of the first cities, Uruk was the main force of [[ urbanization ]] and [[ state formation ]] during the Uruk period, or 'Uruk expansion' (4000–3200 BC). This period of 800 years saw a shift from small, agricultural villages to a larger urban center with a full-time bureaucracy, military, and stratified society. Other settlements coexisted with Uruk, but they were generally about 10 [[ hectares | hectare ]], while Uruk was significantly larger and more complex.
+
+The Uruk period culture exported by Sumerian traders and colonists influenced all surrounding peoples, who gradually evolved their own comparable, competing economies and cultures. Ultimately, Uruk could not maintain long-distance control over colonies such as [[ Tell Brak ]] by military force.
+
+== Early Dynastic, Akkadian, Ur III, and Old Babylonian period
+
+Dynastic categorizations are described solely from the //[[ Sumerian King List ]]//, which is of problematic historical accuracy;[[ ^11 ]][[ ^12 ]] the organization might be analogous to [[ Manetho ]]'s.
+
+In 2009, two different copies of an inscription were put forth as evidence of a 19th-century BC ruler of Uruk named Naram-sin.[[ ^13 ]]
+
+Uruk continued as a principality of Ur, Babylon, and later Achaemenid, Seleucid, and Parthian Empires. It enjoyed brief periods of independence during the Isin-Larsa period, under kings such as (possibly [[ Ikūn-pî-Ištar ]], Sumu-binasa, Alila-hadum, and Naram-Sin), [[ Sîn-kāšid ]], his son Sîn-irībam, his son Sîn-gāmil, Ilum-gāmil, brother of [[ Sîn-gāmil ]], Etēia, [[ AN-am,,3,, | an-am ]] (Dingiram), ÌR,,3,,-ne-ne ([[ Irdanene ]]), who was defeated by [[ Rīm-Sîn I | rim-sîn-i ]] of Larsa in his year 14 (c. 1740 BC), [[ Rîm-Anum ]] and Nabi-ilīšu.[[ ^14 ]][[ ^13 ]][[ ^15 ]][[ ^16 ]][[ ^17 ]]
+
+It is known that during the time of Ilum-gāmil a temple was built for the god [[ Iškur | hadad ]] (Hadad), based on a clay cone inscription reading:
+
+<blockquote
+  "For the god Iškur, lord, fearsome splendour of heaven and earth, his lord, for the life of Ilum-gāmil, king of Uruk, son of Sîn-irībam, Ubar-Adad, his servant, son of Apil-Kubi, built the Esaggianidu, ('House — whose closing is good'), the residence of his office of en, and thereby made it truly befitting his own li[fe]".[[ ^14 ]]
+
+== Uruk into Late Antiquity
+
+Uruk had been a thriving city in Early Dynastic Sumer, especially Early Dynastic II, but it was ultimately annexed by the [[ Akkadian Empire ]] and went into decline. Later, in the Neo-Sumerian period, Uruk enjoyed a revival as a major economic and cultural center under the sovereignty of [[ Ur ]]. The Eanna District was restored as part of an ambitious building program, which included a new temple for Inanna. This temple included a [[ ziggurat ]], the 'House of the Universe' (Cuneiform: [[ E₂ | é-temple ]].[[ SAR.A | e-sara ]]) (𒂍𒊬𒀀) to the northeast of the Uruk period Eanna ruins.
+
+Following the collapse of Ur (c. 2000 BC), Uruk went into a steep decline until about 850 BC when the [[ Neo-Assyrian Empire ]] annexed it as a provincial capital. Under the Neo-Assyrians and [[ Neo-Babylonians | neo-babylonian-empire ]], Uruk regained much of its former glory. By 250 BC, a new temple complex, the 'Head Temple' (Akkadian: //Bīt Reš//), was added northeast of the Uruk-period Anu district. The //Bīt Reš// along with the //[[ Esagila ]]// was one of the two main centers of [[ Neo-Babylonian astronomy | babylonian-astronomy ]]. All of the temples and canals were restored again under [[ Nabopolassar ]]. During this era, Uruk was divided into five main districts: the [[ Adad | hadad ]] Temple, Royal Orchard, Ištar Gate, Lugalirra Temple, and [[ Šamaš | shamash ]] Gate districts.[[ ^18 ]]
+
+Uruk, known as Orcha (Ὄρχα) to the Greeks, continued to thrive under the [[ Seleucid Empire ]]. During this period, Uruk was a city of 300 hectares and perhaps 40,000 inhabitants.[[ ^18 ]][[ ^19 ]][[ ^20 ]] In 200 BC, the 'Great Sanctuary' (Cuneiform: E₂.IRI₁₂.GAL, Sumerian: eš-gal) of [[ Ishtar | inanna ]] was added between the Anu and Eanna districts. The ziggurat of the temple of Anu, which was rebuilt in this period, was the largest ever built in Mesopotamia.[[ ^20 ]]
+
+When the Seleucids lost Mesopotamia to the [[ Parthians | parthian-empire ]] in 141 BC, Uruk continued in use.[[ ^21 ]] The decline of Uruk after the Parthians may have been in part caused by a shift in the Euphrates River. By 300 AD, Uruk was mostly abandoned, but a group of [[ Mandaeans ]] settled there, based on some finds of [[ Mandaic | mandaic-language ]] [[ incantation bowls | incantation-bowl ]], and by c. 700 AD it was completely abandoned.[[ ^22 ]]
+
+== Political history
+
+Uruk played a very important part in the political history of Sumer. From the Early Uruk period onward, the city exerted [[ hegemony ]] over nearby settlements. At this time (c. 3800 BC), there were two centers of 20 ha (49 acres), Uruk in the south and [[ Nippur ]] in the north surrounded by much smaller 10 ha (25 acres) settlements.[[ ^25 ]] Later, in the Late Uruk period, its sphere of influence extended over all Sumer and beyond to external colonies in upper Mesopotamia and Syria.
+
+<blockquote
+  In Uruk, in southern Mesopotamia, Sumerian civilization seems to have reached
+  its creative peak. This is pointed out repeatedly in the references to this
+  city in religious and, especially, in literary texts, including those of
+  mythological content; the historical tradition as preserved in the Sumerian
+  king-list confirms it. From Uruk the center of political gravity seems to have
+  moved to [[ Ur ]].
+
+— Oppenheim[[ ^26 ]]
+
+The recorded chronology of rulers of Uruk includes both mythological and historical figures across five dynasties. As in the rest of Sumer, power moved progressively from the temple to the palace. Rulers from the Early Dynastic period exercised control over Uruk and, at times, over all of Sumer. In myth, kingship was brought down from heaven to [[ Eridu ]], then passed through five cities in succession until the deluge, which ended the Uruk period. Afterwards, kingship passed to [[ Kish | kish-sumer ]] at the beginning of the Early Dynastic period, which corresponds to the beginning of the [[ Early Bronze Age | bronze-age ]] in Sumer.
+
+In the Early Dynastic I period (2900–2800 BC), Uruk was in theory under the control of Kish. This period is sometimes called the Golden Age. During the Early Dynastic II period (2800–2600 BC), Uruk was again the dominant city exercising control of Sumer; this period corresponds to the First Dynasty of Uruk, also known as the Heroic Age. However, by the Early Dynastic IIIa period (2600–2500 BC) Uruk had lost sovereignty, this time to Ur. This period, corresponding to the Early Bronze Age III, is the end of the First Dynasty of Uruk. In the Early Dynastic IIIb period (2500–2334 BC), also called the Pre-Sargonic period (before the rise of the [[ Akkadian Empire ]] under [[ Sargon of Akkad ]]), Uruk remained under Ur's rule.
+
+== Architecture
+
+Uruk has some of the first monumental constructions in architectural history, and certainly the largest of its era. Much of Near Eastern architecture can trace its roots to these prototypical buildings. The structures of Uruk are cited under two different naming conventions: one in German from the initial expedition and the English translation of the same. The site's stratigraphy is complex, and as a result, much of the dating is disputed. In general, the structures follow the two main typologies of [[ Sumerian architecture | architecture-of-mesopotamia ]]: Tripartite, with three parallel halls, and T-Shaped, with three halls, with the central hall extending into two perpendicular bays at one end. The following table summarizes the significant architecture of the Eanna and Anu Districts.[[ ^28 ]] Temple N, the Cone-Mosaic Courtyard, and the Round Pillar Hall are often referred to as a single structure: the Cone-Mosaic Temple.
+
+<table
+  <tbody
+    <tr
+      <th colspan="7">Eanna district: 4000–3000 BC
+
+    <tr
+      <th>Structure name
+
+      <th>German name
+
+      <th>Period
+
+      <th>Typology
+
+      <th>Material
+
+      <th>Area in m^^2^^
+
+    <tr
+      <td>Stone-Cone Temple
+
+      <td>Steinstifttempel
+
+      <td>Uruk VI
+
+      <td>T-shaped
+
+      <td>Limestone and bitumen
+
+      <td>x
+
+    <tr
+      <td>Limestone Temple
+
+      <td>Kalksteintempel
+
+      <td>Uruk V
+
+      <td>T-shaped
+
+      <td>Limestone and bitumen
+
+      <td>2373
+
+    <tr
+      <td>Riemchen Building
+
+      <td>Riemchengebäude
+
+      <td>Uruk IVb
+
+      <td>unique
+
+      <td>Adobe brick
+
+      <td>x
+
+    <tr
+      <td>Cone-Mosaic Temple
+
+      <td>Stiftmosaikgebäude
+
+      <td>Uruk IVb
+
+      <td>unique
+
+      <td>x
+
+      <td>x
+
+    <tr
+      <td>Temple A
+
+      <td>Gebäude A
+
+      <td>Uruk IVb
+
+      <td>Tripartite
+
+      <td>Adobe brick
+
+      <td>738
+
+    <tr
+      <td>Temple B
+
+      <td>Gebäude B
+
+      <td>Uruk IVb
+
+      <td>Tripartite
+
+      <td>Adobe brick
+
+      <td>338
+
+    <tr
+      <td>Temple C
+
+      <td>Gebäude C
+
+      <td>Uruk IVb
+
+      <td>T-shaped
+
+      <td>Adobe brick
+
+      <td>1314
+
+    <tr
+      <td>Temple/Palace E
+
+      <td>Gebäude E
+
+      <td>Uruk IVb
+
+      <td>unique
+
+      <td>Adobe brick
+
+      <td>2905
+
+    <tr
+      <td>Temple F
+
+      <td>Gebäude F
+
+      <td>Uruk IVb
+
+      <td>T-shaped
+
+      <td>Adobe brick
+
+      <td>465
+
+    <tr
+      <td>Temple G
+
+      <td>Gebäude G
+
+      <td>Uruk IVb
+
+      <td>T-shaped
+
+      <td>Adobe brick
+
+      <td>734
+
+    <tr
+      <td>Temple H
+
+      <td>Gebäude H
+
+      <td>Uruk IVb
+
+      <td>T-shaped
+
+      <td>Adobe brick
+
+      <td>628
+
+    <tr
+      <td>Temple D
+
+      <td>Gebäude D
+
+      <td>Uruk IVa
+
+      <td>T-shaped
+
+      <td>Adobe brick
+
+      <td>2596
+
+    <tr
+      <td>Room I
+
+      <td>Gebäude I
+
+      <td>Uruk V
+
+      <td>x
+
+      <td>x
+
+      <td>x
+
+    <tr
+      <td>Temple J
+
+      <td>Gebäude J
+
+      <td>Uruk IVb
+
+      <td>x
+
+      <td>Adobe brick
+
+      <td>x
+
+    <tr
+      <td>Temple K
+
+      <td>Gebäude K
+
+      <td>Uruk IVb
+
+      <td>x
+
+      <td>Adobe brick
+
+      <td>x
+
+    <tr
+      <td>Temple L
+
+      <td>Gebäude L
+
+      <td>Uruk V
+
+      <td>x
+
+      <td>x
+
+      <td>x
+
+    <tr
+      <td>Temple M
+
+      <td>Gebäude M
+
+      <td>Uruk IVa
+
+      <td>x
+
+      <td>Adobe brick
+
+      <td>x
+
+    <tr
+      <td>Temple N
+
+      <td>Gebäude N
+
+      <td>Uruk IVb
+
+      <td>unique
+
+      <td>Adobe brick
+
+      <td>x
+
+    <tr
+      <td>Temple O
+
+      <td>Gebäude O
+
+      <td>x
+
+      <td>x
+
+      <td>x
+
+      <td>x
+
+    <tr
+      <td>Hall Building/Great Hall
+
+      <td>Hallenbau
+
+      <td>Uruk IVa
+
+      <td>unique
+
+      <td>Adobe brick
+
+      <td>821
+
+    <tr
+      <td>Pillar Hall
+
+      <td>Pfeilerhalle
+
+      <td>Uruk IVa
+
+      <td>unique
+
+      <td>x
+
+      <td>219
+
+    <tr
+      <td>Bath Building
+
+      <td>Bäder
+
+      <td>Uruk III
+
+      <td>unique
+
+      <td>x
+
+      <td>x
+
+    <tr
+      <td>Red Temple
+
+      <td>Roter Tempel
+
+      <td>Uruk IVa
+
+      <td>x
+
+      <td>Adobe brick
+
+      <td>x
+
+    <tr
+      <td>Great Court
+
+      <td>Großer Hof
+
+      <td>Uruk IVa
+
+      <td>unique
+
+      <td>Burnt Brick
+
+      <td>2873
+
+    <tr
+      <td>Rammed-Earth Building
+
+      <td>Stampflehm
+
+      <td>Uruk III
+
+      <td>unique
+
+      <td>x
+
+      <td>x
+
+    <tr
+      <td>Round Pillar Hall
+
+      <td>Rundpeifeilerhalle
+
+      <td>Uruk IVb
+
+      <td>unique
+
+      <td>Adobe brick
+
+      <td>x
+
+    <tr
+      <th colspan="7">Anu district: 4000–3000 BC
+
+    <tr
+      <td>Stone Building
+
+      <td>Steingebäude
+
+      <td>Uruk VI
+
+      <td>unique
+
+      <td>Limestone and bitumen
+
+      <td>x
+
+    <tr
+      <td>White Temple
+
+      <td>x
+
+      <td>Uruk III
+
+      <td>Tripartite
+
+      <td>Adobe brick
+
+      <td>382
+
+It is clear that Eanna was dedicated to Inanna, symbolized by [[ Venus ]] from the Uruk period. At that time, she was worshipped in four aspects as Inanna of the netherworld (Sumerian: ᵈinanna-kur), Inanna of the morning (Sumerian: ᵈinanna-hud₂), Inanna of the evening (Sumerian: ᵈinanna-sig), and Inanna (Sumerian: ᵈinanna-NUN).[[ ^9 ]] The names of four temples in Uruk at this time are known, but it is impossible to match them with either a specific structure and in some cases a deity.[[ ^9 ]]
+
+- sanctuary of Inanna (Sumerian: eš-ᵈinanna)
+- sanctuary of Inanna of the evening (Sumerian: eš-ᵈinanna-sig)
+- temple of heaven (Sumerian: e₂-an)
+- temple of heaven and netherworld (Sumerian: e₂-an-ki)
+
+<ul
+  <li>Architecture of Uruk
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Eanna5.svg/120px-Eanna5.svg.png" alt="Plan of Eanna VI–V" height="72" width="100"
+
+    Plan of Eanna VI–V
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Eanna4b.svg/120px-Eanna4b.svg.png" alt="Plan of Eanna IVb" height="72" width="100"
+
+    Plan of Eanna IVb
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Eanna4a.svg/120px-Eanna4a.svg.png" alt="Plan of Eanna IVa" height="72" width="100"
+
+    Plan of Eanna IVa
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eanna3.svg/120px-Eanna3.svg.png" alt="Plan of Eanna III" height="72" width="100"
+
+    Plan of Eanna III
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Eanna_neosumerian.svg/120px-Eanna_neosumerian.svg.png" alt="Plan of Neo-Sumerian Eanna" height="79" width="100"
+
+    Plan of Neo-Sumerian Eanna
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Anu_district.svg/120px-Anu_district.svg.png" alt="Plan of Anu District Phase E" height="72" width="100"
+
+    Plan of Anu District Phase E
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pergamonmuseum_Inanna_01.jpg/120px-Pergamonmuseum_Inanna_01.jpg" alt="Reconstruction of a mosaic from the Eanna temple" height="100" width="75"
+
+    Reconstruction of a mosaic from the Eanna temple
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pergamonmuseum_Inanna_02.jpg/120px-Pergamonmuseum_Inanna_02.jpg" alt="Detail of Reconstruction of a mosaic from the Eanna temple" height="75" width="100"
+
+    Detail of Reconstruction of a mosaic from the Eanna temple
+
+== Archaeology
+
+By the end of the Uruk period (c. 3100 BC) Uruk had reached a size of 250 ha (620 acres). During the following [[ Jemdet Nasr period ]] it grew to a size of 600 ha (1,500 acres) by c. 2800 BC, with the main temple area of Eanna being completely rebuilt after leveling the foundations of the Uruk period construction.[[ ^29 ]] A new city wall was constructed in this period.[[ ^30 ]]
+
+The site, which lies about 50 miles (80 km) northwest of ancient [[ Ur ]], is one of the largest in the region at around 5.5 km^^2^^ (2.1 sq mi) in area. The maximum extent is 3 km (1.9 miles) north/south, and 2.5 km (1.6 miles) east/west. There are three major [[ tells | tell-archaeology ]] within the site: The Eanna district, Bit Resh (Kullaba), and Irigal. Archaeologically, the site is divided into six parts
+
+1. the É-Anna ziggurat ' Egipar-imin,
+2. the É-Anna enclosure (Zingel),
+3. the Anu-Antum temple complex, BitRes and Anu-ziggurat,
+4. Irigal, the South Building,
+5. Parthian structures including the Gareus-temple, and the Multiple Apse building,
+6. the "Gilgameš" city-wall with associated Sinkâsid Palace and the Seleucid Bit Akîtu.[[ ^31 ]]
+
+The location of Uruk was first noted by Fraser and Ross in 1835.[[ ^32 ]] [[ William Loftus | william-loftus-archaeologist ]] excavated there in 1850 and 1854 after a scouting mission in 1849. By Loftus' own account, he admits that the first excavations were superficial at best, as his financiers forced him to deliver large museum artifacts at a minimal cost.[[ ^5 ]] A large basalt stela found by Loftus was later lost.[[ ^33 ]] Warka was also scouted by archaeologist [[ Walter Andrae ]] in 1902.[[ ^34 ]] In 1905 Warka was visited by archaeologist [[ Edgar James Banks ]].[[ ^35 ]]
+
+From 1912 to 1913, [[ Julius Jordan ]] and his team from the [[ German Oriental Society | deutsche-orient-gesellschaft ]] discovered the temple of [[ Ishtar | inanna ]], one of four known temples located at the site. The temples at Uruk were quite remarkable as they were constructed with brick and adorned with colorful [[ mosaics | mosaic ]]. Jordan also discovered part of the [[ city wall | defensive-wall ]]. It was later discovered that this 40-to-50-foot (12 to 15 m) high brick wall, probably utilized as a defense mechanism, totally encompassed the city at a length of 9 km (5.6 mi). Utilizing sedimentary strata dating techniques, this wall is estimated to have been erected around 3000 BC. Jordan produced a contour map of the entire site.[[ ^30 ]]
+
+The GOS returned to Uruk in 1928 and excavated until 1939, when [[ World War II ]] intervened. The team was led by Jordan until 1931 when Jordan became Director of Antiquities in Baghdad, then by A. Nöldeke, Ernst Heinrich, and H. J. Lenzen.[[ ^36 ]][[ ^37 ]] Among the finds was the Stela of the Lion Hunt, excavated in a Jemdat Nadr layer but stylistically dated to Uruk IV.[[ ^38 ]]
+
+The German excavations resumed after the war and were under the direction of Heinrich Lenzen from 1954 to 1967.[[ ^39 ]][[ ^40 ]][[ ^41 ]] He was followed in 1968 by J. Schmidt, and in 1978 by R.M. Boehmer.[[ ^42 ]][[ ^43 ]] In total, the German archaeologists spent 39 seasons working at Uruk. The results are documented in two series of reports:
+
+- //Ausgrabungen der Deutschen Forschungsgemeinschaft in Uruk// (ADFU), 17 volumes, 1912–2001
+- //Ausgrabungen in Uruk-Warka, Endberichte// (AUWE), 25 volumes, 1987–2007
+
+Most recently, from 2001 to 2002, the [[ German Archaeological Institute ]] team led by Margarete van Ess, with Joerg Fassbinder and Helmut Becker, conducted a partial [[ magnetometer ]] survey in Uruk. In addition to the geophysical survey, core samples and aerial photographs were taken. This was followed up with high-resolution satellite imagery in 2005.[[ ^44 ]] Work resumed in 2016 and is currently concentrated on the city wall area and a survey of the surrounding landscape.[[ ^45 ]][[ ^46 ]][[ ^47 ]] Part of the work has been to create a [[ digital twin ]] of the Uruk archaeological area.[[ ^48 ]] The current effort also involves geophysical surveying. The soil characteristics of the site make ground penetrating radar unsuitable so caesium magnetometers, combined with electrical resistivity probes, are being used.[[ ^49 ]] Afterward 25 sediment cores, up to 13 meters deep, were done in 2024 and 2025 and a virtual geophysical topology of the Uruk area was produced.[[ ^50 ]][[ ^51 ]]
+
+== Cuneiform tablets
+
+A number of [[ Proto-cuneiform ]] clay tablets were found at Uruk. Around 190 were Uruk V period (c. 3500 BC) "numerical tablets" or "impressed tablets", 1776 were from the Uruk IV period (c. 3300 BC), 3,094 from the Uruk III period (c. 3200–2900 BC) which is also called the [[ Jemdet Nasr period ]].[[ ^52 ]][[ ^53 ]] Later cuneiform tablets were deciphered and include the famous //SKL//, a record of kings of the Sumerian civilization.
+
+There was an even larger cache of legal and scholarly tablets of the [[ Neo-Babylonian | neo-babylonian-empire ]], [[ Late Babylonian | akkadian-language ]], and [[ Seleucid | seleucid-empire ]] period, that have been published by [[ Adam Falkenstein ]] and other [[ Assyriological | assyriology ]] members of the German Archaeological Institute in Baghdad as Jan J. A. Djik,[[ ^54 ]] [[ Hermann Hunger ]], Antoine Cavigneaux, Egbert von Weiher,[[ ^55 ]][[ ^56 ]][[ ^57 ]][[ ^58 ]] and Karlheinz Kessler, or others as Erlend Gehlken.[[ ^59 ]][[ ^60 ]][[ ^61 ]] Many of the cuneiform tablets form acquisitions by museums and collections as the [[ British Museum ]], [[ Yale Babylonian Collection ]], and the [[ Louvre ]]. The latter holds a unique cuneiform tablet in Aramaic known as the [[ Aramaic Uruk incantation ]]. The last dated cuneiform tablet from Uruk was W22340a, an astronomical almanac, which is dated to 79 or 80 AD.[[ ^62 ]]
+
+The oldest known writing to feature a person's name was found in Uruk, in the form of several tablets that mention [[ Kushim | kushim-uruk-period ]], who (assuming they are an individual person) served as an accountant recording transactions made in trading barley – //29,086 measures barley 37 months Kushim//.[[ ^63 ]][[ ^64 ]]
+
+[[ Beveled rim bowls | beveled-rim-bowl ]] were the most common type of container used during the Uruk period. They are believed to be vessels for serving rations of food or drink to dependent laborers. The introduction of the fast [[ wheel | potters-wheel ]] for throwing pottery was developed during the later part of the Uruk period, and made the mass production of pottery simpler and more standardized.[[ ^65 ]]
+
+== Artifacts
+
+The [[ Mask of Warka ]], also known as the 'Lady of Uruk' and the 'Sumerian [[ Mona Lisa ]]', dating from 3100 BC, is one of the earliest representations of the human face. The carved marble female face is probably a depiction of Inanna. It is approximately 20 cm (7.9 in) tall, and may have been incorporated into a larger cult image. The mask was looted from the [[ Iraq Museum ]] during the [[ invasion of Iraq | 2003-invasion-of-iraq ]] in April 2003. It was recovered in September 2003 and returned to the museum.
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Male_bust_Louvre_AO10921.jpg/120px-Male_bust_Louvre_AO10921.jpg" alt="Lugal-kisalsi, king of Uruk" height="120" width="120"
+
+    [[ Lugal-kisalsi ]], king of Uruk
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Warka_mask_%28cropped%29.jpg/120px-Warka_mask_%28cropped%29.jpg" alt="Mask of Warka" height="120" width="101"
+
+    Mask of Warka
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bull_Warka_Louvre_AO8218.jpg/120px-Bull_Warka_Louvre_AO8218.jpg" alt="Bull sculpture, Jemdet Nasr period, c. 3000 BC" height="73" width="120"
+
+    Bull sculpture, [[ Jemdet Nasr period ]], c. 3000BC
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stele_of_lion_hunt%2C_from_Uruk%2C_Iraq%2C_3000-2900_BCE._Iraq_Museum.jpg/120px-Stele_of_lion_hunt%2C_from_Uruk%2C_Iraq%2C_3000-2900_BCE._Iraq_Museum.jpg" alt="Stele of the Lion Hunt – Uruk period" height="120" width="85"
+
+    Stele of the Lion Hunt – Uruk period
+
+== Archaeological levels of Uruk
+
+Archeologists have discovered multiple cities of Uruk built atop each other in chronological order.[[ ^28 ]]
+
+- Uruk XVIII Eridu period (c. 5000BC): the founding of Uruk
+- Uruk XVIII–XVI Late Ubaid period (4800–4200BC)
+- Uruk XVI–X Early Uruk period (4000–3800BC)
+- Uruk IX–VI Middle Uruk period (3800–3400BC)
+- Uruk V–IV Late Uruk period (3400–3100BC): the earliest monumental temples of Eanna District are built
+- Uruk III Jemdet Nasr period (3100–2900BC): the 9km city wall is built
+- Uruk II
+- Uruk I
+
+== Anu District
+
+Anu/ White Temple ziggurat
+
+Anu/ White Temple ziggurat
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/White_Temple_%27E_at_Uruk%2C_3500-3000_BCE.jpg/250px-White_Temple_%27E_at_Uruk%2C_3500-3000_BCE.jpg" height="108" width="218"
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/White_Temple_ziggurat_in_Uruk.jpg/250px-White_Temple_ziggurat_in_Uruk.jpg" height="129" width="218"
+
+The area traditionally called the Anu district consists of a single massive terrace, the [[ Anu ziggurat ]], originally proposed to have been dedicated to the Sumerian sky god [[ Anu ]].
+
+The Stone Temple was built of limestone and bitumen on a podium of [[ rammed earth ]] and plastered with lime mortar. The podium itself was built over a woven reed mat called //[[ ĝiparu | giparu ]]//, which was ritually used as a nuptial bed. The ĝiparu was a source of generative power which then radiated upward into the structure. The structure of the Stone Temple further develops some mythological concepts from //[[ Enuma Elish | enūma-eliš ]]//, perhaps involving libation rites as indicated from the channels, tanks, and vessels found there. The structure was ritually destroyed, covered with alternating layers of clay and stone, then excavated and filled with mortar sometime later.
+
+== Eanna District
+
+The Eanna district is historically significant as both writing and monumental public architecture emerged here during Uruk periods VI–IV. The combination of these two developments places Eanna as arguably the first true city and civilization in human history. Eanna during period IVa contains the earliest examples of writing.[[ ^66 ]]
+
+The first building of [[ Eanna ]], Stone-Cone Temple (Mosaic Temple), was built in period VI over a preexisting Ubaid temple and is enclosed by a limestone wall with an elaborate system of [[ buttresses | buttress ]]. The Stone-Cone Temple, named for the [[ mosaic ]] of colored stone cones driven into the [[ adobe brick | mudbrick ]] façade, may be the earliest water cult in Mesopotamia. It was "destroyed by force" in Uruk IVb period and its contents interred in the Riemchen Building.[[ ^40 ]]
+
+In the following period, Uruk V, about 100 m east of the Stone-Cone Temple the Limestone Temple was built on a 2 m high rammed-earth [[ podium ]] over a pre-existing Ubaid temple, which like the Stone-Cone Temple represents a continuation of Ubaid culture. However, the Limestone Temple was unprecedented for its size and use of stone, a clear departure from traditional Ubaid architecture. The stone was quarried from an outcrop at Umayyad about 60 km east of Uruk. It is unclear if the entire temple or just the foundation was built of this [[ limestone ]]. The Limestone Temple is probably the first Inanna temple, but it is impossible to know with certainty. Like the Stone-Cone temple the Limestone temple was also covered in cone mosaics. Both of these temples were rectangles with their corners aligned to the cardinal directions, a central hall flanked along the long axis by two smaller halls, and buttressed façades; the prototype of all future Mesopotamian temple architectural [[ typology | typology-urban-planning-and-architecture ]].
+
+Between these two monumental structures a complex of buildings (called A–C, E–K, Riemchen, Cone-Mosaic), courts, and walls was built during Eanna IVb. These buildings were built during a time of great expansion in Uruk as the city grew to 250 ha (620 acres) and established long-distance trade, and are a continuation of architecture from the previous period. The Riemchen Building, named for the 16 cm (6.3 in)×16 cm (6.3 in) brick shape called //Riemchen// by the Germans, is a memorial with a ritual fire kept burning in the center for the Stone-Cone Temple after it was destroyed. For this reason, Uruk IV period represents a reorientation of belief and culture. The facade of this memorial may have been covered in geometric and figural murals. The Riemchen bricks first used in this temple were used to construct all buildings of Uruk IV period Eanna. The use of colored cones as a façade treatment was greatly developed as well, perhaps used to greatest effect in the Cone-Mosaic Temple. Composed of three parts: Temple N, the Round Pillar Hall, and the Cone-Mosaic Courtyard, this temple was the most monumental structure of Eanna at the time. They were all ritually destroyed and the entire Eanna district was rebuilt in period IVa at an even grander scale.
+
+During Eanna IVa, the Limestone Temple was demolished and the Red Temple built on its foundations. The accumulated debris of the Uruk IVb buildings were formed into a [[ terrace | terrace-building ]], the L-Shaped Terrace, on which Buildings C, D, M, Great Hall, and Pillar Hall were built. Building E was initially thought to be a palace, but later proven to be a communal building. Also in period IV, the Great Court, a sunken courtyard surrounded by two tiers of benches covered in cone mosaic, was built. A small [[ aqueduct | aqueduct-water-supply ]] drains into the Great Courtyard, which may have irrigated a garden at one time. The impressive buildings of this period were built as Uruk reached its zenith and expanded to 600 hectares. All the buildings of Eanna IVa were destroyed sometime in Uruk III, for unclear reasons.
+
+The architecture of Eanna in period III was very different from what had preceded it. The complex of monumental temples was replaced with baths around the Great Courtyard and the labyrinthine Rammed-Earth Building. This period corresponds to [[ Early Dynastic Sumer | history-of-sumer ]] c. 2900 BC, a time of great social upheaval when the dominance of Uruk was eclipsed by competing [[ city-states | city-state ]]. The [[ fortress | fortification ]]-like architecture of this time is a reflection of that turmoil. The temple of Inanna continued functioning during this time in a new form and under a new name, 'The House of Inanna in Uruk' (Sumerian: //e₂-ᵈinanna unuᵏⁱ-ga//). The location of this structure is currently unknown.[[ ^9 ]]
+
+== Possible tomb of Gilgamesh
+
+Media interest was excited in 2003 by a report that the German Archaeological Institute team had discovered something that might be the tomb of the legendary king Gilgamesh. The Sumerian poem //[[ The Death of Gilgamesh | death-of-gilgamesh ]]// describes how the River Euphrates parted after Gilgamesh died and he was buried underneath it, before the river was restored to its course. The Euphrates has changed its course since the time when Gilgamesh is supposed to have lived, and the route it followed then is now dry.
+
+In an interview, Fassbinder was careful to state that they had no solid proof and that the structure had not been excavated and they would not know unless it was, but said that magnetometric scans had revealed buried structures in the former bed of the Euphrates that matched the description in the poem. He commented that other scans of that part of the site so far were a surprisingly good match for Sumerian descriptions of Uruk as it was in Gilgamesh's day, making the theory that the poem was also right about the tomb more plausible.
+
+The invasion of Iraq happened shortly after the announcement. The site at Uruk escaped looting during the war,[[ ^68 ]] and further investigations have been done there since then, but there has been no further public comment on the possible tomb. When asked about it by an independent researcher, Fassbinder was reticent, saying only that the media coverage had been exaggerated and that he had only said that it //might// be the tomb of Gilgamesh.[[ ^69 ]]
+
+== List of rulers
+
+The //[[ Sumerian King List ]] (SKL)// lists only 22 rulers among five dynasties of Uruk. The sixth dynasty was an [[ Amorite | amorites ]] dynasty not mentioned on the //SKL//. The following list should not be considered complete.
+
+Rulers in orange are legendary figures with notably uncertain historicity.
+
+<table
+  <tbody
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>[[ Epithet | akkadian-royal-titulary#epithets ]]
+
+      <th>Reign
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!![[ Early Dynastic I period | early-dynastic-i ]] (c. 2900 – c. 2700 BC)!!
+
+    <tr
+      <th colspan="7">First dynasty of Uruk / Uruk I dynasty (c. 2900 – c. 2700 BC)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then [[ Kish | kish-sumer ]] was defeated and the [[ kingship | throne ]]
+          was taken to [[ Eanna ]] (Uruk)."//
+
+        — //[[ Sumerian King List ]] (SKL)//
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Obverse._Gilgamesh_and_Aga._Old_Babylonian_period%2C_from_southern_Iraq._Sulaymaniyah_Museum%2C_Iraqi_Kurdistan.jpg/120px-Obverse._Gilgamesh_and_Aga._Old_Babylonian_period%2C_from_southern_Iraq._Sulaymaniyah_Museum%2C_Iraqi_Kurdistan.jpg" height="172" width="120"
+
+      <td>[[ Gilgamesh ]]
+        <br
+
+        𒀭𒄑𒉋𒂵𒈨𒌋𒌋𒌋
+
+      <td
+
+      <td>//"the lord of Kulaba"//
+
+      <td>c. 2800 BC
+
+      <td
+        - Built the walls of Uruk
+        - //temp.// of and victorious over [[ Aga | aga-of-kish ]]
+        - Historicity certain
+
+    <tr bgcolor="#FFD068"
+      <td>2nd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lista_Reale_Sumerica.jpg/120px-Lista_Reale_Sumerica.jpg" height="64" width="120"
+
+      <td>[[ Meshkiangasher ]]
+        <br
+
+        𒈩𒆠𒉘𒂵𒊺𒅕
+
+      <td>Son of [[ Utu | shamash ]]
+
+      <td
+
+      <td>c. 2775 BC
+        <br
+
+        (324 years)
+
+      <td
+        - Said on the //SKL// to have held the titles of both //"[[ Lord | en-cuneiform ]]"// and //"[[ King | lugal ]]"// of Eanna (Uruk); furthermore, held the //"[[ Kingship | hegemony ]]"// over //all// of Sumer
+        - He has been compared with [[ Biblical Cush | cush-bible ]][[ ^70 ]]
+        - His reign has long been suspected to be a fabrication from the [[ Ur III period | third-dynasty-of-ur ]][[ ^71 ]]
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Meshkiangasher entered the sea and disappeared."//
+
+        — //SKL//
+
+    <tr
+      <td>3rd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Enmerkar_and_the_Lord_of_Aratta_Ashmolean.jpg/120px-Enmerkar_and_the_Lord_of_Aratta_Ashmolean.jpg" height="102" width="120"
+
+      <td>[[ Enmerkar ]]
+        <br
+
+        𒂗𒈨𒅕𒃸
+
+      <td
+
+      <td>//"the king of Uruk, who built Uruk"//
+
+      <td>c. 2750 BC
+
+      <td
+        - Said to have reigned for at least 50 years in the [[ tale | narrative#in-mythology ]] of //[[ Lugalbanda and the Anzud Bird ]]//
+        - Said to have [[ invented writing | history-of-writing ]] and to have besieged [[ Aratta ]] for up to a year in the [[ legend ]] of //[[ Enmerkar and the Lord of Aratta ]]//
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+
+    <tr bgcolor="#FFD068"
+      <td>4th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Obverse._The_story_of_Lugalbanda_in_the_Mountain_Cave%2C_Old-Babylonian_period%2C_from_southern_Iraq._Sulaymaniyah_Museum%2C_Iraqi_Kurdistan.jpg/120px-Obverse._The_story_of_Lugalbanda_in_the_Mountain_Cave%2C_Old-Babylonian_period%2C_from_southern_Iraq._Sulaymaniyah_Museum%2C_Iraqi_Kurdistan.jpg" height="184" width="120"
+
+      <td>[[ Lugalbanda ]]
+        <br
+
+        𒈗𒌉𒁕
+
+      <td
+
+      <td>//"the [[ shepherd | shepherd#religion ]]"//
+
+      <td>c. 2700 BC
+        <br
+
+        (1,200 years)
+
+      <td
+        - Said to have been a soldier in the army of Enmerkar in the tale of //[[ Lugalbanda in the Mountain Cave ]]//
+        - Described as //"[[ the shepherd | shepherd#religion ]]"// for his [[ epiphet | akkadian-royal-titulary#epithets ]] on the //SKL// and to have held the title of //"king"// of not just Uruk; but, all of Sumer
+        - Historicity uncertain
+
+    <tr bgcolor="#FFD068"
+      <td>5th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Inanna_prefers_the_farmer._Enkimdu_and_Damuzi_were_mentioned._Terracotta_tablet_from_Nippur%2C_Iraq._1st_half_of_the_2nd_millennium_BCE._Ancient_Orient_Museum%2C_Istanbul.jpg/120px-thumbnail.jpg" height="168" width="120"
+
+      <td>[[ Dumuzid | dumuzid-the-fisherman ]]
+        <br
+
+        𒌉𒍣𒋗𒄩
+
+      <td
+
+      <td>//"the fisherman whose city was [[ Kuara | tell-al-lahm#kuara-kuara ]]"//
+
+      <td>c. 2700 BC
+        <br
+
+        (100 years)
+
+      <td
+        - Defeated invading forces headed by Gudam
+        - //[[ temp. | tempore ]]// of [[ Enmebaragesi ]]
+        - Historicity uncertain
+
+    <tr
+      <td colspan="7">!!Early Dynastic II period (c. 2700 – c. 2600 BC)!!
+
+    <tr
+      <td>6th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Transcription_of_the_Weld-Blundell_Prism._Stephen_Herbert_Langdon_%281876-1937%29_Published_in_1923.jpg/120px-Transcription_of_the_Weld-Blundell_Prism._Stephen_Herbert_Langdon_%281876-1937%29_Published_in_1923.jpg" height="61" width="120"
+
+      <td>[[ Ur-Nungal ]]
+        <br
+
+        𒌨𒀭𒉣𒃲
+
+      <td
+
+      <td
+
+      <td>c. 2650 – c. 2620 BC
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //[[ Tummal Chronicle | tummal ]]//
+        - Historicity uncertain
+
+    <tr
+      <td>7th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Translation_of_the_Weld-Blundell_Prism._Stephen_Herbert_Langdon_%281876-1937%29_Published_in_1923.jpg/120px-Translation_of_the_Weld-Blundell_Prism._Stephen_Herbert_Langdon_%281876-1937%29_Published_in_1923.jpg" height="45" width="120"
+
+      <td>[[ Udul-kalama ]]
+        <br
+
+        𒌋𒊨𒌦𒈠
+
+      <td
+
+      <td
+
+      <td>c. 2620 – c. 2605 BC
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>8th
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg/120px-Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg" height="127" width="120"
+
+      <td>[[ La-ba'shum ]]
+        <br
+
+        𒆷𒁀𒀪𒋳
+
+      <td
+
+      <td
+
+      <td>c. 2605 – c. 2596 BC
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>9th
+
+      <td rowspan="4"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Weld-Blundell_Prism_with_transcription_and_translation_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg/120px-Weld-Blundell_Prism_with_transcription_and_translation_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg" height="175" width="120"
+
+      <td>[[ En-nun-tarah-ana ]]
+        <br
+
+        𒂗𒉣𒁰𒀭𒈾
+
+      <td
+
+      <td
+
+      <td>c. 2596 – c. 2588 BC
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>10th
+
+      <td>[[ Mesh-he ]]
+        <br
+
+        𒈩𒃶
+
+      <td
+
+      <td>//"the smith"//
+
+      <td>c. 2588 - c. 2552 BC
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>11th
+
+      <td>[[ Melem-ana ]]
+        <br
+
+        𒈨𒉈𒀭𒈾
+
+      <td
+
+      <td
+
+      <td>c. 2552 - c. 2546 BC
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>12th
+
+      <td>[[ Lugal-kitun ]]
+        <br
+
+        𒈗𒆠𒂅
+
+      <td
+
+      <td
+
+      <td>c. 2546 - c. 2510 BC
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"12 kings; they ruled for 2,310 years. Then Uruk was defeated and the
+          kingship was taken to [[ Ur | first-dynasty-of-ur#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <td colspan="7">!!Early Dynastic IIIa period (c. 2550 – c. 2500 BC)!!
+
+    <tr
+      <td
+
+      <td
+
+      <td>Lumma[[ ^72 ]]
+        <br
+
+        𒈝𒈠
+
+      <td
+
+      <td
+
+      <td rowspan="2">//Uncertain//; these two rulers may have fl. c. 2600 – c. 2500 BC sometime during the [[ Early Dynastic | early-dynastic-period-mesopotamia ]] (ED) IIIa period
+
+      <td
+        - Historicity certain, attested from tablet from Shuruppak now in the Istanbul museum.[[ ^73 ]]
+        - //temp.// of Menunsi[[ ^74 ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>Ursangpae
+
+      <td
+
+      <td
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Ur-Pabilsag ]][[ ^74 ]]
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!!Early Dynastic IIIb period (c. 2500 – c. 2350 BC)!!
+
+    <tr
+      <td
+
+      <td
+
+      <td>[[ Lugalnamniršumma ]]
+        <br
+
+        𒈗𒉆𒉪𒋧
+
+      <td
+
+      <td
+
+      <td rowspan="2">//Uncertain//; these two rulers may have fl. c. 2500 – c. 2400 BC sometime during the ED IIIb period
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Akurgal ]][[ ^74 ]]
+        - //"[[ King of Kish | king-of-the-universe#sargon-of-akkad-and-his-successors-23342154-bc ]]"//
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BM_91013_Tablet_dedicated_by_Lugal-tarsi.jpg/120px-BM_91013_Tablet_dedicated_by_Lugal-tarsi.jpg" height="71" width="120"
+
+      <td>[[ Lugalsilâsi I ]]
+        <br
+
+        𒈗𒋻𒋛
+
+      <td
+
+      <td
+
+      <td
+        - //temp.// of [[ Ush | ush-king-of-umma ]][[ ^74 ]]
+        - Assaulted [[ Girsu ]] on ten separate occasions[[ ^75 ]]
+        - //"King of Kish"//
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Golden_helmet_of_Meskalamdug_in_the_British_Museum.jpg/120px-Golden_helmet_of_Meskalamdug_in_the_British_Museum.jpg" height="114" width="120"
+
+      <td>[[ Meskalamdug ]]
+        <br
+
+        𒈩𒌦𒄭
+
+      <td
+
+      <td
+
+      <td>r. c. 2600, c. 2500 BC
+
+      <td
+        - //"King of Kish"//
+        - //temp.// of [[ Enakalle ]][[ ^74 ]]
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Seal_impression_of_Mesanepada%2C_king_of_Kish.jpg/120px-Seal_impression_of_Mesanepada%2C_king_of_Kish.jpg" height="93" width="120"
+
+      <td>[[ Mesannepada ]]
+        <br
+
+        𒈩𒀭𒉌𒅆𒊒𒁕
+
+      <td
+
+      <td
+
+      <td>r. c. 2500 BC
+        <br
+
+        (80 years)[[ ^74 ]]
+
+      <td
+        - Historicity certain
+        - //"King of Kish"//
+        - //temp.// of [[ Ur-Lumma ]][[ ^74 ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>[[ Urzage ]]
+        <br
+
+        𒌨𒍠𒌓𒁺
+
+      <td
+
+      <td
+
+      <td>c. 2400 BC
+
+      <td
+        - Historicity certain
+        - //"King of Kish"//
+        - //temp.// of [[ Il | il-king-of-umma ]][[ ^74 ]]
+
+    <tr
+      <th colspan="7">[[ Second dynasty of Uruk / Uruk II dynasty | history-of-sumer#first-dynasty-of-uruk ]] (c. 2500 – c. 2340 BC)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then [[ Hamazi ]] was defeated and the kingship was taken to Uruk."//
+
+        — //SKL//
+
+    <tr
+      <td>2nd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Foundation_nail_Entemena_Louvre_AO22934.jpg/120px-Foundation_nail_Entemena_Louvre_AO22934.jpg" height="80" width="120"
+
+      <td>[[ Lugal-kinishe-dudu ]]
+        <br
+
+        𒈗𒆠𒉌𒂠𒌌𒌌
+
+      <td
+
+      <td
+
+      <td>c. 2400 BC[[ ^74 ]]
+
+      <td
+        - Historicity certain.[[ ^74 ]]
+        - Held the title of, //"King of Uruk and Ur"//.[[ ^74 ]]
+        - //temp.// of [[ Enentarzi ]][[ ^74 ]]
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Limestone_foundation_peg_of_Lugal-kisal-si%2C_from_Uruk%2C_Iraq._C._2380_BCE._Pergamon_Museum.jpg/120px-Limestone_foundation_peg_of_Lugal-kisal-si%2C_from_Uruk%2C_Iraq._C._2380_BCE._Pergamon_Museum.jpg" height="182" width="120"
+
+      <td>[[ Lugal-kisalsi ]]
+        <br
+
+        𒈗𒆦𒋛
+
+      <td>Son of Lugal-kinishe-dudu
+
+      <td
+
+      <td>c. 2400 BC
+
+      <td
+        - Historicity certain.[[ ^74 ]]
+        - Held the title of, //"King of Uruk and Ur"//.[[ ^74 ]]
+        - //temp.// of [[ Lugalanda ]][[ ^74 ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>Urni
+        <br
+
+        𒌨𒉌𒉌𒋾
+
+      <td
+
+      <td
+
+      <td rowspan="2">//Uncertain//; these two rulers may have fl. c. 2400 – c. 2350 BC sometime during the EDIIIb period.[[ ^74 ]]
+        - Historicity certain.[[ ^74 ]]
+        - //temp.// of [[ Elulu ]][[ ^74 ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>Lugalsilâsi II
+        <br
+
+        𒈗𒋻𒋛
+
+      <td
+
+      <td
+
+      <td
+        - Historicity certain.[[ ^74 ]]
+        - //temp.// of [[ Urukagina ]][[ ^74 ]]
+
+    <tr
+      <td>3rd
+
+      <td
+
+      <td>Argandea
+        <br
+
+        𒅈𒂵𒀭𒀀
+
+      <td
+
+      <td
+
+      <td>r. c. 2350 BC
+        <br
+
+        (7 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td colspan="7">!!Proto-Imperial period (c. 2350 – c. 2254 BC)!!
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fragments_in_the_name_of_Enshakushanna.jpg/120px-Fragments_in_the_name_of_Enshakushanna.jpg" height="83" width="120"
+
+      <td>[[ Enshakushanna ]]
+        <br
+
+        𒂗𒊮𒊨𒀭𒈾
+
+      <td
+
+      <td
+
+      <td>c. 2350 BC
+
+      <td
+        - Historicity certain.[[ ^74 ]]
+        - Held the title of //"[[ lord of Sumer and king of all the land | king-of-sumer-and-akkad ]]"//.[[ ^74 ]]
+        - //temp.// of [[ Ur-Zababa ]][[ ^74 ]]
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"3 kings; they ruled for 187 years. Then Uruk was defeated and the kingship
+          was taken to [[ Ur | ur#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <th colspan="7">[[ Third dynasty of Uruk / Uruk III dynasty | history-of-sumer#empire-of-lugal-zage-si-of-uruk ]] (c. 2340 – c. 2254 BC)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then Kish was defeated and the kingship was taken to Uruk."//
+
+        — //SKL//
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lugalzagesi_king_of_Uruk_king_of_the_Land_son_of_Ukush.jpg/120px-Lugalzagesi_king_of_Uruk_king_of_the_Land_son_of_Ukush.jpg" height="100" width="120"
+
+      <td>[[ Lugalzagesi ]]
+        <br
+
+        𒈗𒍠𒄀𒋛
+
+      <td>Son of [[ Ukush ]]
+
+      <td
+
+      <td>r. c. 2340 – c. 2316 BC
+        <br
+
+        (25 to 34 years)
+
+      <td
+        - Historicity certain.[[ ^74 ]]
+        - Held the title of //"[[ king of the land | king-of-the-four-corners#background-29002334-bc ]]"//.[[ ^74 ]]
+        - //temp.// of [[ Sargom | sargon-of-akkad ]][[ ^76 ]]
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"1 king; he ruled for 25 years. Then the reign of Uruk was abolished and the
+          kingship was taken to [[ Akkad | list-of-kings-of-akkad#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <td
+
+      <td
+
+      <td>Girimesi
+        <br
+
+        𒀀𒄩𒋻𒁺𒋛
+
+      <td
+
+      <td
+
+      <td>//Uncertain//; this ruler may have fl. c. 2350 – c. 2254 BC sometime during the Proto-Imperial period.[[ ^74 ]]
+
+      <td
+        - Historicity certain.
+        - //temp.// of Ikun-Ishar[[ ^74 ]]
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!![[ Akkadian period ]] (c. 2254 – c. 2154 BC)!!
+
+    <tr
+      <th colspan="7">Fourth dynasty of Uruk / Uruk IV dynasty (c. 2254 – c. 2124 BC)
+
+    <tr
+      <td
+
+      <td
+
+      <td>Amar-girid
+        <br
+
+        𒀫𒀭𒄌𒆠
+
+      <td
+
+      <td
+
+      <td>r. c. 2254 BC
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Naram-Suen | naram-suen-of-akkad ]]
+        - A ruler of Uruk who led a southern coalition of eight city-states during the [[ Great Revolt | gutian-rule-in-mesopotamia#great-revolt-against-naram-sin ]] against Naram-Suen
+
+    <tr
+      <td colspan="7">!![[ Gutian period ]] (c. 2154 – c. 2119 BC)!!
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then [[ Akkad | akkad-city ]] was defeated and the kingship was taken to
+          Uruk."//
+
+        — //SKL//
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Sumerian_King_List%2C_Ashmolean_Museum%2C_Oxford.jpg/120px-The_Sumerian_King_List%2C_Ashmolean_Museum%2C_Oxford.jpg" height="173" width="120"
+
+      <td>[[ Ur-nigin ]]
+        <br
+
+        𒌨𒌋𒌓𒆤
+
+      <td
+
+      <td
+
+      <td>r. c. 2154 – c. 2147 BC
+        <br
+
+        (7 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - May have served as a //"[[ governor | ensi-sumerian ]]"// of Uruk under the Akkadian empire
+        - Historicity uncertain
+
+    <tr
+      <td>2nd
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sumerische_K%C3%B6nigsliste.JPG/120px-Sumerische_K%C3%B6nigsliste.JPG" height="247" width="120"
+
+      <td>[[ Ur-gigir ]]
+        <br
+
+        𒌨𒄑𒇀
+
+      <td>Son of Ur-nigin
+
+      <td
+
+      <td>r. c. 2147 – c. 2141 BC
+        <br
+
+        (6 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>3rd
+
+      <td rowspan="3"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Sumeriankinglist.jpg/120px-Sumeriankinglist.jpg" height="221" width="120"
+
+      <td>Kuda
+        <br
+
+        𒋻𒁕
+
+      <td
+
+      <td
+
+      <td>r. c. 2141 – c. 2135 BC
+        <br
+
+        (6 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>4th
+
+      <td>Puzur-ili
+        <br
+
+        𒅤𒊭𒉌𒉌
+
+      <td
+
+      <td
+
+      <td>r. c. 2135 – c. 2130 BC
+        <br
+
+        (5 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td>5th
+
+      <td>Ur-Utu
+        <br
+
+        𒌨𒀭𒌓
+
+      <td>Son of Ur-gigir
+
+      <td
+
+      <td>r. c. 2130 – c. 2124 BC
+        <br
+
+        (6 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"5 kings; they ruled for 30 years. Then the reign of Uruk was abolished and
+          the kingship was taken to the land of
+          [[ Gutium | gutian-dynasty#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!![[ Ur III period ]] (c. 2119 – c. 2004 BC)!!
+
+    <tr
+      <th colspan="7">[[ Fifth dynasty of Uruk / Uruk V dynasty | history-of-sumer#fifth-dynasty-of-uruk ]] (c. 2124 – c. 1872 BC)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then the army of [[ Gutium ]] was defeated and the kingship was taken to
+          Uruk."//
+
+        — //SKL//
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Utu-Khegal%2C_Prince_of_the_Summerian_city_of_Erech%2C_imploring_victory_against_the_Gutian_king_Tirikan.jpg/120px-Utu-Khegal%2C_Prince_of_the_Summerian_city_of_Erech%2C_imploring_victory_against_the_Gutian_king_Tirikan.jpg" height="86" width="120"
+
+      <td>[[ Utu-hengal ]]
+        <br
+
+        𒀭𒌓𒃶𒅅
+
+      <td
+
+      <td
+
+      <td>c. 2119 – c. 2112 BC
+
+      <td
+        - A //"governor"// of Uruk who overthrew the [[ Gutians | gutian-dynasty-of-sumer ]] and briefly ruled Sumer until he was succeeded by [[ Ur-Nammu ]], who he had appointed governor of [[ Ur ]], thus ending the final Sumerian dynasty of Uruk.[[ ^77 ]]
+        - Said on the //SKL// to have held the title of, //"King"// of not just Uruk; but, to have held the //"Kingship"// over //all// of Sumer
+        - Historicity certain
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"1 king; he ruled for 7 years, 6 months, and 15 days. Then Uruk was defeated
+          and the kingship was taken to
+          [[ Ur | third-dynasty-of-ur#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!![[ Isin-Larsa period ]] (c. 2025 – c. 1763 BC)!!
+
+    <tr
+      <th colspan="7">Sixth dynasty of Uruk / Uruk VI dynasty (c. 1872 – c. 1802 BC)
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mesopotamian_-_Sin_Kashid_Cone_-_Walters_481804_-_View_A.jpg/120px-Mesopotamian_-_Sin_Kashid_Cone_-_Walters_481804_-_View_A.jpg" height="198" width="120"
+
+      <td>[[ Sîn-kāšid ]]
+        <br
+
+        𒀭𒂗𒍪𒂵𒅆𒀉
+
+      <td
+
+      <td
+
+      <td>c. 1865 - c. 1833 BC
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Sin-Iddinam ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>[[ Sin-iribam | sin-eribam ]]
+
+      <td>Son of Sîn-kāšid
+
+      <td
+
+      <td>c. 1833 - c. 1827 BC
+
+      <td
+        - Son of Sîn-kāšid
+        - Historicity certain
+        - //temp.// of [[ Sin-Eribam ]]
+
+    <tr
+      <td
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tablet_of_Sin-Gamil_of_Uruk.jpg/120px-Tablet_of_Sin-Gamil_of_Uruk.jpg" height="92" width="120"
+
+      <td>[[ Sîn-gāmil ]]
+
+      <td>Son of Sin-iribam
+
+      <td
+
+      <td>c. 1827 - c. 1824 BC
+
+      <td
+        - Son of Sin-eribam
+        - Historicity certain
+        - //temp.// of [[ Sin-Iqisham ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>[[ An-am ]]
+        <br
+
+        𒀭𒀀𒀭
+
+      <td
+
+      <td
+
+      <td>c. 1824 - c. 1816 BC
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Silli-Adad ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>[[ Irdanene ]]
+
+      <td>Son of An-am
+
+      <td
+
+      <td>c. 1816 - c. 1810 BC
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Warad-Sin ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>[[ Rîm-Anum ]]
+
+      <td
+
+      <td
+
+      <td>c. 1810 - c. 1802 BC
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Rim-Sîn I ]]
+
+    <tr
+      <td
+
+      <td
+
+      <td>Nabi-ilishu
+
+      <td
+
+      <td
+
+      <td>c. 1802 BC
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Damiq-ilishu ]]
+
+[[ ^1 ]]: Harmansah, Ömür (2007-12-03). [[ "The Archaeology of Mesopotamia: Ceremonial centers, urbanization and state formation in Southern Mesopotamia" | https://proteus.brown.edu/mesopotamianarchaeology/699 ]]. Retrieved 2011-08-28.``\{{cite web}}``:  CS1 maint: deprecated archival service ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_deprecated_archival_service ]])
+
+[[ ^2 ]]: Nissen, Hans J (2003). "Uruk and the formation of the city". In Aruz, J (ed.). //Art of the First Cities: The Third Millennium B.C. from the Mediterranean to the Indus//. New York: Metropolitan Museum of Art. pp. 11–20. ISBN [[ 978-0-300-09883-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-300-09883-9 ]].
+
+[[ ^3 ]]: NASA Jet Propulsion Laboratory (2013). [[ "Ancient Uruk, Iraq" | https://www.jpl.nasa.gov/images/pia17576-ancient-uruk-iraq/ ]]. Retrieved 2026-06-06.
+
+[[ ^4 ]]: Algaze, Guillermo (2013). "The end of prehistory and the Uruk period". In [[ Crawford, Harriet | harriet-crawford ]] (ed.). //The Sumerian World//. London: Routledge. pp. 68–95. ISBN [[ 978-1-138-23863-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-138-23863-3 ]].
+
+[[ ^5 ]]: [[ https://archive.org/download/travelsresearche00loft/travelsresearche00loft.pdf | https://archive.org/download/travelsresearche00loft/travelsresearche00loft.pdf ]] William Loftus, "Travels and researches in Chaldæa and Susiana; with an account of excavations at Warka, the Erech of Nimrod, and Shúsh, Shushan the Palace of Esther, in 1849-52", J. Nisbet and Co, 1857
+
+[[ ^6 ]]: [[ Warwick Ball ]], "Rome in the East: the transformation of an empire", Routledge, 2016
+
+[[ ^7 ]]: [[ "Pennsylvania Sumerian Dictionary, ePSD2" | https://oracc.museum.upenn.edu/epsd2/sux?zoom=U&page=1 ]]. //University of Pennsylvania//.
+
+[[ ^8 ]]: Harper, Douglas. [[ "Iraq" | https://www.etymonline.com/word/Iraq ]]. //Online Etymology Dictionary//.
+
+[[ ^9 ]]: [[ Beaulieu, Paul-Alain | paul-alain-beaulieu ]] (2003). [[ //The Pantheon of Uruk During the Neo-Babylonian Period// | https://books.google.com/books?id=v-WRJhvfudIC ]]. BRILL. ISBN [[ 90-04-13024-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F90-04-13024-1 ]].
+
+[[ ^10 ]]: Fassbinder, J.W.E., and H. Becker, "Magnetometry at Uruk (Iraq): The city of King Gilgamesh", Archaeologia Polona, vol. 41, pp. 122–124, 2003
+
+[[ ^11 ]]: Kesecker, Nshan (January 2018). [[ "Lugalzagesi: The First Emperor of Mesopotamia?" | https://www.academia.edu/38693392 ]]. //ARAMAZD Armenian Journal of Near Eastern Studies//. !!12!!: 76–96. doi:[[ 10.32028/ajnes.v12i1.893 | https://doi.org/10.32028%2Fajnes.v12i1.893 ]]. S2CID [[ 257461809 | https://api.semanticscholar.org/CorpusID:257461809 ]].
+
+[[ ^12 ]]: Marchesi, Gianni, "The Sumerian King List and the early history of Mesopotamia", //Vicino Oriente Quaderno//, pp. 231–248, 2010
+
+[[ ^13 ]]: Eva von Dassow, "Narām-Sîn of Uruk: A New King in an Old Shoebox", //Journal of Cuneiform Studies//, vol. 61, pp. 63–91, 2009
+
+[[ ^14 ]]: Frayne, Douglas, "Uruk", //Old Babylonian Period (2003-1595 B.C.)//: Early Periods, Volume 4, Toronto: University of Toronto Press, pp. 439–483, 1990
+
+[[ ^15 ]]: Rients de Boer, "Beginnings of Old Babylonian Babylon: Sumu-Abum and Sumu-La-El", //Journal of Cuneiform Studies//, vol. 70, pp. 53–86, 2018
+
+[[ ^16 ]]: Seri, Andrea, "The archive of the house of prisoners and political history", //The House of Prisoners: Slavery and State in Uruk during the Revolt against Samsu-iluna//, Berlin, Boston: De Gruyter, pp. 20–54, 2013
+
+[[ ^17 ]]: Witold Tyborowski, "New Tablets from Kisurra and the Chronology of Central Babylonia in the Early Old Babylonian Period", //Zeitschrift für Assyriologie und Vorderasiatische Archäologie//, vol. 102, iss. 2, pp. 245–269, 2012, ISSN 0084-5299
+
+[[ ^18 ]]: H. D. Baker, "The Urban Landscape in First Millennium BC Babylonia", University of Vienna, 2002
+
+[[ ^19 ]]: R. van der Spek  "The Latest on Seleucid Empire Building in the East". //Journal of the American Oriental Society// 138.2 (2018): 385–394.
+
+[[ ^20 ]]: R. van der Spek. "Feeding Hellenistic Seleucia on the Tigris". In R. Alston & O. van Nijf, eds. //Feeding the Ancient Greek City// 36. Leuven ; Dudley, Massachusetts: Peeters Publishers, 2008.
+
+[[ ^21 ]]: C. A. Petrie, "Seleucid Uruk: An Analysis of Ceramic Distribution", //Iraq//, vol. 64, 2002, pp. 85–123, 2002
+
+[[ ^22 ]]: [[ Rudolf Macuch ]], "Gefäßinschriften", in Eva Strommenger (ed.), Gefässe aus Uruk von der Neubabylonischen Zeit bis zu den Sasaniden (= Ausgrabungen der deutschen Forschungsgemeinschaft in Uruk-Warka 7), pp. 55–57, pl. 57.1–3, Berlin: Gebr. Mann, 1967
+
+[[ ^23 ]]: [[ "Couteau du Gebel el-Arak at the Louvre Museum" | http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=668 ]]. //cartelfr.louvre.fr//.
+
+[[ ^24 ]]: Cooper, Jerrol S. (1996). [[ //The Study of the Ancient Near East in the Twenty-first Century: The William Foxwell Albright Centennial Conference// | https://books.google.com/books?id=3hc1Yp0VcjoC&pg=PA10 ]]. Eisenbrauns. pp. 10–14. ISBN [[ 978-0-931464-96-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-931464-96-6 ]].
+
+[[ ^25 ]]: [[ Crawford, Harriet E.W. | harriet-crawford ]], "Sumer and the Sumerians", Cambridge University Press, 2004. ISBN [[ 0-521-53338-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-521-53338-4 ]]
+
+[[ ^26 ]]: Oppenheim, A. Leo; [[ Erica Reiner ]] (1977). [[ //Ancient Mesopotamia: Portrait of a Dead Civilization// | https://archive.org/details/ancientmesopotam00aleo ]]. Chicago: University of Chicago Press. pp. [[ 445 | https://archive.org/details/ancientmesopotam00aleo/page/445 ]]. ISBN [[ 0-226-63187-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-226-63187-7 ]].
+
+[[ ^27 ]]: [[ "Site officiel du musée du Louvre" | http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=11232 ]]. //cartelfr.louvre.fr//.
+
+[[ ^28 ]]: Charvát, Petr; [[ Zainab Bahrani ]]; Marc Van de Mieroop (2002). [[ //Mesopotamia Before History// | https://archive.org/details/MesopotamiaBeforeHistory/mode/2up ]]. London: Routledge. ISBN [[ 0-415-25104-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-415-25104-4 ]].
+
+[[ ^29 ]]: Nissen, H. J., "Uruk: Key Site of the Period and Key Site of the Problem", in Artefacts of Complexity: Tracking the Uruk in the Near East, edited by J. N. Postgate,  Warminster: British School of Archaeology in Iraq, pp. 1–16, 2002
+
+[[ ^30 ]]: Nissen, H. J., "The City Wall of Uruk", in Ucko, P. J., R. Tringham and G. W. Dimbleby (eds.), Man, Settlement and Urbanism. London: Duckworth, pp. 793–98, 1972
+
+[[ ^31 ]]: North, Robert, "Status of the Warka Excavation", //Orientalia//, vol. 26, no. 3, pp. 185–256, 1957
+
+[[ ^32 ]]: [[ https://archive.org/details/Travel18341835FraserKoordistan/mode/1up | https://archive.org/details/Travel18341835FraserKoordistan/mode/1up ]] Fraser, James Baillie, "Travels in Koordistan, Mesopotamia, Etc: Including an Account of Parts of Those Countries Hitherto Unvisited by Europeans", R. Bentley, 1840
+
+[[ ^33 ]]: Reade, Julian, "Early monuments in Gulf stone at the British Museum, with observations on some Gudea statues and the location of Agade", vol. 92, no. 2, pp. 258-295, 2002
+
+[[ ^34 ]]: Walter Andrae, "Die deutschen Ausgrabungen in Warka (Uruk)", Berlin, 1935
+
+[[ ^35 ]]: Banks, Edgar James. [[ "Warka, the Ruins of Erech (Gen. 10: 10) \| The Biblical World 25.4, pp. 302–305, 1905" | https://www.journals.uchicago.edu/doi/pdf/10.1086/473565 ]]. doi:[[ 10.1086/473565 | https://doi.org/10.1086%2F473565 ]].
+
+[[ ^36 ]]: Julius Jordan, "Uruk-Warka nach dem ausgrabungen durch die Deutsche Orient-Gesellschaft", Hinrichs, 1928 (German)
+
+[[ ^37 ]]: [[ https://commons.library.stonybrook.edu/cgi/viewcontent.cgi?article=1307&context=amar | https://commons.library.stonybrook.edu/cgi/viewcontent.cgi?article=1307&context=amar ]] Ernst Heinrich, "Kleinfunde aus den archaischen Tempelschichten in Uruk", Harrassowitz, Leipzig 1936 (German)
+
+[[ ^38 ]]: Faraj Basmachi (1949). [[ //The Lion-Hunt Stela from Warka \| Sumer// | https://findit.library.yale.edu/images_layout/view?parentoid=15763212&increment=87 ]]. Vol. 5, iss. 1. pp. 87–90.
+
+[[ ^39 ]]: H. J. Lenzen, "The Ningiszida Temple Built by Marduk-Apla-Iddina II at Uruk (Warka)", //Iraq//, vol. 19, no. 2, pp. 146–150, 1957
+
+[[ ^40 ]]: H. J. Lenzen (1960). [[ //The E-anna district after excavations in the winter of 1958–59 \| Sumer// | https://findit.library.yale.edu/images_layout/view?parentoid=15763248&increment=8 ]]. Vol. 16. pp. 3–11.
+
+[[ ^41 ]]: H. J. Lenzen, "New discoveries at Warka in southern Iraq", //Archaeology//, vol. 17, pp. 122–131, 1964
+
+[[ ^42 ]]: J. Schmidt, "Uruk-Warka, Susammenfassender Bericht uber die 27. Kampagne 1969", //Baghdader//, vol. 5, pp. 51–96, 1970
+
+[[ ^43 ]]: Rainer Michael Boehmer, "Uruk 1980–1990: a progress report", //Antiquity//, vol. 65, pp. 465–478, 1991
+
+[[ ^44 ]]: M. van Ess and J. Fassbinder, "Magnetic prospection of Uruk (Warka) Iraq", in: //La Prospection Géophysique, Dossiers d'Archeologie// Nr. 308, pp. 20–25, Nov. 2005
+
+[[ ^45 ]]: Van Ess, Margarete, and J. Fassbinder, "Uruk-Warka. Archaeological Research 2016–2018, Preliminary Report", //Sumer Journal of Archaeology of Iraq// 65, pp. 47–85, 2019
+
+[[ ^46 ]]: Margarete van Ess, [[ "Uruk, Irak. Wissenschaftliche Forschungen 2019" | https://publications.dainst.org/journals/efb/article/download/2252/6690 ]], //e-Forschungsberichte des Deutschen Archäologischen Instituts//, vol. 2, pp. 117–121, 2019
+
+[[ ^47 ]]: van Ess, Margarete, et al., [[ "Uruk, Irak. Wissenschaftliche Forschungen und Konservierungsarbeiten. Die Arbeiten der Jahre 2020 bis 2022" | https://publications.dainst.org/journals/efb/article/download/3980/7665 ]], //e-Forschungsberichte//, pp. 1–31, 2022
+
+[[ ^48 ]]: Haibt, Max (2024). [[ "End-to-end digital twin creation of the archaeological landscape in Uruk-Warka (Iraq)" | https://doi.org/10.1080%2F17538947.2024.2324964 ]]. //International Journal of Digital Earth//. !!17!! (1) 2324964. Bibcode:[[ 2024IJDE\...1724964H | https://ui.adsabs.harvard.edu/abs/2024IJDE...1724964H ]]. doi:[[ 10.1080/17538947.2024.2324964 | https://doi.org/10.1080%2F17538947.2024.2324964 ]].
+
+[[ ^49 ]]: Fassbinder, Jörg W. E., "Beneath the Euphrates Sediments: Magnetic Traces of the Mesopotamian Megacity Uruk-Warka", Ancient East ANE Today 8, 2020
+
+[[ ^50 ]]: Haibt, Max; Reize, Felix; Brückner, Helmut; Fassbinder, Jörg W.E.; Van Ess, Margarete (2025). [[ "Virtual replication of sediment cores for geoarchaeological research in Uruk-Warka (Iraq)" | https://doi.org/10.1016%2Fj.ophoto.2025.100093 ]]. //ISPRS Open Journal of Photogrammetry and Remote Sensing//. !!17!! 100093. doi:[[ 10.1016/j.ophoto.2025.100093 | https://doi.org/10.1016%2Fj.ophoto.2025.100093 ]].
+
+[[ ^51 ]]: Fassbinder, Jörg WE, Sandra E. Hahn, and Mandana Parsi, "Archaeological Geophysics in the Marshy Area of Southern Mesopotamia. Insights and Details of Water Management in Uruk-Warka, Ur, and Fara-Šuruppak", Sumer and the Sea: Deltas, Shoreline, and Urban Water Management in 3rd Millennium Mesopotamia. Proceedings of the 1st ARWA International Research Workshop (Rome, 2–4 June 2021), pp. 79-90 , 2025 ISBN [[ 978-2-503-61468-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-2-503-61468-7 ]]
+
+[[ ^52 ]]: Hans J. Nissen, "The Archaic Texts from Uruk", //World Archaeology//, vol. 17, no. 3, pp. 317–334, 1986
+
+[[ ^53 ]]: M. W. Green, "Archaic Uruk Cuneiform", //American Journal of Archaeology//, vol. 90, no. 4, pp. 464–466, 1986
+
+[[ ^54 ]]: Jan J. A. Djik, "Texte aus dem Rēš-Heiligtum in Uruk-Warka", (= //Baghdader Mitteilungen//. Beiheft 2), Berlin: Gebr. Mann Verlag, 1980 ISBN [[ 3-7861-1282-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F3-7861-1282-7 ]]
+
+[[ ^55 ]]: Egbert von Weiher, "Spätbabylonischen Texte aus Uruk, Teil II". (= Ausgrabungen der Deutschen Forschungsgemeinschaft in Uruk-Warka 10), Berlin: Gebr. Mann Verlag, 1983 ISBN [[ 3-7861-1336-X | https://en.wikipedia.org/wiki/Special%3ABookSources%2F3-7861-1336-X ]]
+
+[[ ^56 ]]: Egbert von Weiher, "Spätbabylonischen Texte aus Uruk, Teil III", (= Ausgrabungen der Deutschen Forschungsgemeinschaft in Uruk-Warka 12), Berlin: Gebr. Mann Verlag, 1988 ISBN [[ 3-7861-1508-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F3-7861-1508-7 ]]
+
+[[ ^57 ]]: Egbert von Weiher, "Uruk. Spätbabylonischen Texte aus aus dem Planquadrat U 18, Teil IV", (= Ausgrabungen in Uruk-Warka. Endberichte 12), Mainz am Rhein: Philipp von Zabern, 1993 ISBN [[ 3-8053-1504-X | https://en.wikipedia.org/wiki/Special%3ABookSources%2F3-8053-1504-X ]]
+
+[[ ^58 ]]: Egbert von Weiher, //Uruk. Spätbabylonischen Texte aus aus dem Planquadrat U 18, Teil V// (= Ausgrabungen in Uruk-Warka. Endberichte 13), Mainz am Rhein: Philipp von Zabern, 1998 ISBN [[ 3-8053-1850-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F3-8053-1850-2 ]]
+
+[[ ^59 ]]: Erlend Gehlken, "Uruk. Spätbabylonischen Wirtschaftstext aus dem Eanna-Archiv, Teil 1", (= Ausgrabungen in Uruk-Warka. Endberichte 5), Mainz am Rhein: Philipp von Zabern, 1990 ISBN [[ 3-8053-1217-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F3-8053-1217-2 ]]
+
+[[ ^60 ]]: Erlend Gehlken, "Uruk. Spätbabylonischen Wirtschaftstext aus dem Eanna-Archiv, Teil 2", (= Ausgrabungen in Uruk-Warka. Endberichte 11), Mainz am Rhein: Philipp von Zabern, 1996 ISBN [[ 3-8053-1545-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F3-8053-1545-7 ]]
+
+[[ ^61 ]]: Corò, Paola, "The Missing Link – Connections between Administrative and Legal Documents in Hellenistic Uruk", //Archiv für Orientforschung//, vol. 53, pp. 86–92, 2015
+
+[[ ^62 ]]: Hunger, Hermann and de Jong, Teije, "Almanac W22340a From Uruk: The Latest Datable Cuneiform Tablet", //Zeitschrift für Assyriologie und vorderasiatische Archäologie//, vol. 104, no. 2, pp. 182–194, 2014
+
+[[ ^63 ]]: Mattessich, Richard, "Recent Insights into Mesopotamian Accounting of the 3rd Millennium B.C — Successor to Token Accounting", //The Accounting Historians Journal//, vol. 25, no. 1, pp. 1–27, 1998
+
+[[ ^64 ]]: Nissen, HansJörg; Damerow, Peter; Englund, Robert K., //Archaic Bookkeeping: Early Writing and Techniques of Economic Administration in the Ancient Near East//, Chicago: University of Chicago Press, 1993
+
+[[ ^65 ]]: Burmeister, Stefan (2017). //The Interplay of People and Technologies Archaeological Case Studies on Innovations//. Bernbeck, Reinhard (1st ed.). Berlin. ISBN [[ 978-3-9816751-8-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-9816751-8-4 ]]. OCLC [[ 987573072 | https://search.worldcat.org/oclc/987573072 ]].``\{{cite book}}``:  CS1 maint: location missing publisher ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_location_missing_publisher ]])
+
+[[ ^66 ]]: Nissen, Hans J. (2015). "Urbanization and the techniques of communication: the Mesopotamian city of Uruk during the fourth millennium BCE". In [[ Yoffee, Norman | norman-yoffee ]] (ed.). //Early Cities in Comparative Perspective, 4000 BCE–1200 CE//. [[ The Cambridge World History ]]. Vol. 3. Cambridge University Press. p. 113. ISBN [[ 978-0-521-19008-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-521-19008-4 ]].
+
+[[ ^67 ]]: [[ "Tablet MSVO 3,12 /BM 140855: description on CDLI" | http://www.cdli.ucla.edu/cdlisearch/search/index.php?SearchMode=Browse&ResultCount=1&txtID_Txt=P005323 ]].
+
+[[ ^68 ]]: Gibson, McGuire (1 January 2009). [[ "The Theft of Iraq's Antiquities" | https://www.lrb.co.uk/the-paper/v31/n01/mcguire-gibson/diary ]]. //London Review of Books//. !!31!! (1). Retrieved 4 June 2026.
+
+[[ ^69 ]]: Long, Kelvin F. [[ "The Curious Case of King Gilgamesh Tomb" | https://grahamhancock.com/longkf1/ ]].
+
+[[ ^70 ]]: [[ Rohl, David | david-rohl ]] (1998). //Legend: Genesis of Civilisation//. London: [[ Random House ]]. ISBN [[ 978-0-7126-7747-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-7126-7747-9 ]].
+
+[[ ^71 ]]: Mittermayer, C. (2009). [[ //Enmerkara und der Herr von Arata: Ein ungleicher Wettstreit// | https://books.google.com/books?id=LcsLEcCMAR8C ]] (in German). [[ Academic Press ]]. ISBN [[ 978-3-525-54359-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-525-54359-7 ]].
+
+[[ ^72 ]]: Steinkeller, Piotr, "A Campaign of Southern City-States against Kiš as Documented in the ED IIIa Sources from Šuruppak (Fara)", Journal of Cuneiform Studies 76.1, pp. 3-26, 2024
+
+[[ ^73 ]]: Jestin, Raymond R. 1937. Tablettes Sumériennes de S̈uruppak Conservées Au Musée de Stamboul. Mémoires de L’institut Français d’Archéologie de Stamboul 3. Paris : E. de Boccard.
+
+[[ ^74 ]]: Marchesi, Gianni (January 2015). Sallaberger, W.; Schrakamp, I. (eds.). [[ "Toward a Chronology of Early Dynastic Rulers in Mesopotamia" | https://www.academia.edu/10655886 ]]. //History & Philology (ARCANE 3; Turnhout)//: 139–156.
+
+[[ ^75 ]]: Kesecker, Nshan (January 2018). [[ "Lugalzagesi: The First Emperor of Mesopotamia?" | https://www.academia.edu/38693392 ]]. //ARAMAZD Armenian Journal of Near Eastern Studies//. !!12!!: 76–96. doi:[[ 10.32028/ajnes.v12i1.893 | https://doi.org/10.32028%2Fajnes.v12i1.893 ]]. S2CID [[ 257461809 | https://api.semanticscholar.org/CorpusID:257461809 ]].
+
+[[ ^76 ]]: , Jerold S. Cooper, //Sumerian and Akkadian Royal Inscriptions: Presargonic Inscriptions//, Eisenbrauns, 1986, ISBN [[ 0-940490-82-X | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-940490-82-X ]]
+
+[[ ^77 ]]: C.J Gadd (1924). [[ //A Sumerian reading-book// | https://archive.org/details/ASumerianReading-book ]]. Clarendon Press.

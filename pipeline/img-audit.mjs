@@ -9,7 +9,8 @@ for (const f of (await readdir('site/corpus/en')).filter(n => n.endsWith('.mdy')
   const fm = YAML.parse(m[1]).images ?? []
   const body = m[2]
   const prefix = (src) => String(src).slice(0, String(src).lastIndexOf('/'))
-  const inBody = new Set([...body.matchAll(/<img [^>]*src="([^"]+)"/g)].map(x => prefix(x[1])))
+  // One line: MDY elements have no closing `>`, so `[^>]*` crosses newlines.
+  const inBody = new Set([...body.matchAll(/<img[^\n]*?src="([^"]+)"/g)].map(x => prefix(x[1])))
   const notShown = fm.filter(i => i.src && !inBody.has(prefix(i.src)))
   fmTotal += fm.length; bodyTotal += inBody.size; missing += notShown.length
   if (notShown.length) rows.push(`${notShown.length}/${fm.length} not in body — ${f.slice(0,-4)}`)

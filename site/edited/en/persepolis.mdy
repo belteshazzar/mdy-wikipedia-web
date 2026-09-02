@@ -1,0 +1,1335 @@
++++
+title: Persepolis
+description: Ceremonial capital of the Achaemenid Empire
+hook: The exact function of Persepolis remains unclear. It was not one of the
+  largest cities in ancient Iran, let alone the rest of the empire, and it is
+  still not entirely clear where the king's private quarters actually were.
+standfirst: The ceremonial capital of the Achaemenid Empire (c. 550–330 BC),
+  in the plains of Marvdasht in Fars province, Iran. Its earliest remains date
+  back to 515 BC; the complex was taken by Alexander the Great's army in 330
+  BC, and soon after its wooden parts were completely destroyed by fire.
+key-facts:
+  - name: Where it is
+    value: Marvdasht, Fars province, Iran
+    from: "location: Marvdasht, Fars province, Iran"
+  - name: Built
+    value: In the 6th century BC, by Darius I, Xerxes I and Artaxerxes I
+    from: |-
+      history:
+          built: 6th century BC
+          built-by: Darius I, Xerxes I and Artaxerxes I
+          abandoned: 330 BC
+  - name: Abandoned
+    value: 330 BC
+    from: "abandoned: 330 BC"
+  - name: Made of
+    value: Limestone, mud-brick, cedar wood
+    from: |-
+      site-notes:
+          material: Limestone, mud-brick, cedar wood
+          architectural-style: Achaemenid
+          condition: Ruins
+  - name: Today
+    value: Ruins, managed by the Cultural Heritage, Handicrafts and Tourism
+      Organization of Iran, and open to the public
+    from: >-
+      condition: Ruins
+          management: Cultural Heritage, Handicrafts and Tourism Organization of Iran
+          public-access: Open
+  - name: World Heritage Site
+    value: Designated in 1979 (3rd session), a cultural site under criteria i,
+      iii, vi
+    from: |-
+      unesco-world-heritage-site:
+          official-name: Persepolis
+          type: Cultural
+          criteria: i, iii, vi
+          designated: 1979 (3rd session)
+pull-quotes:
+  - text: It was the richest city under the sun, and the private houses had been
+      furnished with every sort of wealth over the years.
+    attribution: Diodorus Siculus, 17.70.1–73.2, 17.70 (1)
+    section: ancient-texts
+  - text: She was the first, after the king, to hurl her blazing torch into the
+      palace. As the others all did the same, immediately the entire palace
+      area was consumed, so great was the conflagration.
+    attribution: Diodorus Siculus, 17.70.1–73.2, 17.70 (1), on Thais
+    section: ancient-texts
+  - text: Such was the end of the capital of the entire Orient
+    attribution: Quintus Curtius Rufus 5.6.1–7.12 5.6 (1)
+    section: ancient-texts
+  - text: Darius the great king, king of kings, king of countries, son of
+      Hystaspes, an Achaemenid.
+    attribution: DPh inscription of Darius I in the foundations of the Apadana Palace
+    section: the-apadana-palace
+  - text: "[Alexander] burned the whole of Persepolis as revenge to the Persians,
+      because it seems the Persian King Xerxes had burnt the Greek City of
+      Athens around 150 years ago. People say that, even at the present time,
+      the traces of fire are visible in some places."
+    attribution: Biruni, Chronology of the Ancient Nations
+    section: destruction
+timeline:
+  - when: Between 539 and 518 BCE
+    what: The monumental gateway at Tol-e Ajori, 3 kilometers west of Persepolis,
+      is probably built — excavators think it predates Persepolis itself.
+    from: Based on these discontinuities with the rest of the Persepolis area,
+      excavators concluded the gate likely predates the construction of
+      Persepolis under Darius I, and was probably built sometime between the
+      conquest of Babylon in 539 and the start of construction at Persepolis
+      in 518 BCE.
+  - when: Around 519 BC
+    what: Construction of a broad stairway is begun.
+    from: Around 519 BC, construction of a broad stairway was begun.
+  - when: 515 BC
+    what: The earliest remains of Persepolis, on the archaeological evidence.
+    from: Archaeological evidence shows that the earliest remains of Persepolis
+      date back to 515 BC.
+  - when: c. 515 BC
+    what: The Apadana coin hoard is deposited under the foundation boxes of the
+      palace.
+    from: The deposition of this hoard is dated to c. 515 BC.
+  - when: 510s BC
+    what: Persepolis becomes the capital of the Achaemenid Empire, and remains so
+      until 330 BC.
+    from: |-
+      capital-of:
+            - value: Achaemenid Empire
+              from: 510s BC
+              to: 330 BC
+  - when: 509 BC
+    what: The earliest written record of the site.
+    from: "time-of-earliest-written-record: 509 BC"
+  - when: 486 BC
+    what: Darius dies; his son Xerxes completes the Tachara, the palace Darius had
+      only partly finished.
+    from: Only a small portion of the palace was finished under his rule, it was
+      completed after the death of Darius in 486 BC, by his son and successor,
+      Xerxes, who called it a Taçara, which means "winter palace" in Old
+      Persian.
+  - when: 330 BC
+    what: Alexander the Great's army takes the complex; soon after, its wooden
+      parts are completely destroyed by fire.
+    from: The complex was taken by the army of Alexander the Great in 330 BC, and
+      soon after, its wooden parts were completely destroyed by fire.
+  - when: 316 BC
+    what: Persepolis is still the capital of Persia, now a province of the
+      Macedonian Empire.
+    from: In 316 BC, Persepolis was still the capital of Persia as a province of
+      the great Macedonian Empire (see Diodorus Siculus xix, 21 seq., 46;
+      probably after Hieronymus of Cardia, who was living about 326).
+  - when: 311 AD
+    what: A Sasanian prince, Shapur Sakanshah, leaves an inscription calling the
+      site Sad-stūn, "Hundred Pillars".
+    from: An inscription left in 311 AD by Sasanian Prince Shapur Sakanshah, the
+      son of Hormizd II, refers to the site as Sad-stūn, meaning "Hundred
+      Pillars".
+  - when: "1320"
+    what: Odoric of Pordenone may have passed through on his way to China, though
+      he mentioned only a great, ruined city called "Comerum".
+    from: Odoric of Pordenone may have passed through Persepolis on his way to
+      China in 1320, although he mentioned only a great, ruined city called
+      "Comerum".
+  - when: "1474"
+    what: Giosafat Barbaro visits the ruins and takes them for Jewish work.
+    from: In 1474, Giosafat Barbaro visited the ruins of Persepolis, which he
+      incorrectly thought were of Jewish origin.
+  - when: "1618"
+    what: García de Silva Figueroa is the first Western traveler to identify
+      "Chehel Minar" with the Persepolis of the Classical authors.
+    from: In 1618, García de Silva Figueroa, King Philip III of Spain's ambassador
+      to the court of Abbas I, the Safavid monarch, was the first Western
+      traveler to link the site known in Iran as "Chehel Minar" as the site
+      known from Classical authors as Persepolis.
+  - when: "1621"
+    what: Pietro Della Valle counts only 25 of the 72 original columns still
+      standing.
+    from: Pietro Della Valle visited Persepolis in 1621, and noticed that only 25
+      of the 72 original columns were still standing, due to either vandalism
+      or natural processes.
+  - when: "1704"
+    what: The Dutch traveler Cornelis de Bruijn visits.
+    from: The Dutch traveler Cornelis de Bruijn visited Persepolis in 1704.
+  - when: "1930"
+    what: The first scientific excavations begin, run by Ernst Herzfeld and Erich
+      Schmidt for the Oriental Institute of the University of Chicago, and go
+      on for eight seasons.
+    from: The first scientific excavations at Persepolis were carried out by Ernst
+      Herzfeld and Erich Schmidt representing the Oriental Institute of the
+      University of Chicago. They conducted excavations for eight seasons,
+      beginning in 1930, and included other nearby sites.
+  - when: 1931-09-16
+    what: Persepolis is designated Iranian National Heritage.
+    from: |-
+      heritage-designation:
+            - value: Iranian National Heritage
+              from: 1931-09-16
+  - when: "1933"
+    what: Erich Schmidt's excavations find the Apadana hoard in two deposits under
+      the foundation boxes.
+    from: The coins were discovered in excavations in 1933 by Erich Schmidt, in
+      two deposits, each deposit under the two deposition boxes that were
+      found.
+  - when: "1971"
+    what: Persepolis is the main staging ground for the 2,500-year celebration of
+      the Persian Empire, under Mohammad Reza Pahlavi.
+    from: In 1971, Persepolis was the main staging ground for the 2,500-year
+      celebration of the Persian Empire under the reign of Mohammad Reza
+      Pahlavi, the second and last Shah of the Pahlavi dynasty.
+  - when: 1979 (3rd session)
+    what: Persepolis is designated a World Heritage Site, under criteria i, iii
+      and vi.
+    from: |-
+      unesco-world-heritage-site:
+          official-name: Persepolis
+          type: Cultural
+          criteria: i, iii, vi
+          designated: 1979 (3rd session)
+  - when: 19 September 2006
+    what: Construction of the Sivand Dam begins, between the ruins of Pasargadae
+      and Persepolis.
+    from: Construction of the Sivand Dam, named after the nearby town of Sivand,
+      began on 19 September 2006.
+  - when: "2011"
+    what: A joint Italian-Iranian team discovers the Tol-e Ajori gateway, which
+      strongly resembles the Ishtar Gate in Babylon.
+    from: In 2011 a joint Italian-Iranian team discovered a monumental gateway
+      that strongly resembles the Ishtar Gate in Babylon at the site of Tol-e
+      Ajori 3 kilometers west of Persepolis.
+  - when: "2018"
+    what: A bas-relief of a soldier looted from the excavations in 1935–36 is
+      repatriated to Iran.
+    from: A bas-relief of a soldier that had been looted from the excavations in
+      1935–36 and later purchased by the Montreal Museum of Fine Arts was
+      repatriated to Iran in 2018, after being offered for sale in London and
+      New York.
+  - when: 29 June to 1 July 2024
+    what: Alireza Ghorbani performs the first-ever concert at Persepolis.
+    from: In a groundbreaking cultural event, Iranian vocalist Alireza Ghorbani
+      performed the first-ever concert at Persepolis from 29 June to 1 July
+      2024, and received an overwhelmingly enthusiastic response from
+      attendees.
+  - when: September 6, 2025
+    what: Persepolis hosts the 100th anniversary of the Armenian Philharmonic
+      Orchestra; over 1,500 people attend.
+    from: Another historic event took place on September 6, 2025, with Persepolis
+      hosting the 100th anniversary of the Armenian Philharmonic Orchestra.
+      Over 1,500 people attended.
+image-plan:
+  - file: Persepolis_east_side_at_spring.jpg
+    role: hero
+    section: lead
+    caption: As is typical of Achaemenid cities, Persepolis was built on a
+      (partially) artificial platform.
+  - file: Harold_f_Weston_-_Iran13.jpg
+    role: inline
+    section: construction
+    caption: Persepolis in 1920s, hand painted photo by [[ Harold Weston ]]
+  - file: Georges-Antoine_Rochegrosse_Incendie_de_Persepolis_1890.jpg
+    role: full
+    section: destruction
+    caption: '"The Burning of Persepolis", led by [[ Thaïs ]], 1890, by [[
+      Georges-Antoine Rochegrosse ]]'
+  - file: Joshua_Reynoldsre_thais.jpg
+    role: inline
+    section: destruction
+    caption: "[[ Thaïs ]] setting fire to Persepolis"
+  - file: پانوراما_روز_تخت_جمشید.jpg
+    role: full
+    section: after-the-fall-of-the-achaemenid-empire
+    caption: Persepolis Panorama (17 May 2024)
+  - file: Persian_frieze_designs_at_Persepolis.jpg
+    role: inline
+    section: archaeological-research
+    caption: "[[ Frieze ]] designs at Persepolis"
+  - file: Persepolis_stairs_of_the_Apadana_relief.jpg
+    role: inline
+    section: remains
+    caption: A [[ bas-relief | relief ]] from the [[ Apadana Palace | apadana ]]
+      depicting Delegations including [[ Lydians ]] and [[ Armenians ]][[ ^45
+      ]] bringing their famous wine to the king.
+  - file: PersepolisNegareh.jpg
+    role: inline
+    section: remains
+    caption: A bas-relief at Persepolis, representing a symbol in [[
+      Zoroastrianism ]] for [[ Nowruz ]].[[ ^b ]]
+  - file: Lotus_Achaemenid_architecture.JPG
+    role: inline
+    section: remains
+    caption: Reliefs of [[ lotus flowers | nymphaea ]] are frequently used on the
+      walls and monuments at Persepolis.
+  - file: The_stone_columns_of_the_Gate_of_All_Nations,_they_were_16½_meters_high_and_were_topped_with_capitals_in_the_form_of_a_double_bull,_Persepolis,_Iran_(47779521811).jpg
+    role: inline
+    section: the-gate-of-all-nations
+    caption: The stone columns of the [[ Gate of All Nations ]], they are 16½
+      meters high and were topped with capitals in the form of a double bull.
+  - file: Deposition_plate_of_Darius_I_in_Persepolis.jpg
+    role: inline
+    section: the-apadana-palace
+    caption: One of the two gold deposition plates. Two more were in silver. They
+      all had the same trilingual inscription (DPh inscription).[[ ^50 ]]
+  - file: Aegina_Stater_achaic.jpg
+    role: inline
+    section: apadana-palace-coin-hoard
+    caption: "Type of the [[ Aegina ]] stater found in the Apadana hoard,
+      550–530BC. Obverse: [[ Sea turtle ]] with large pellets down centre.
+      Reverse: incuse square punch with eight sections.[[ ^48 ]]"
+  - file: THRACE,_Abdera._Circa_540-35-520-15_BC.jpg
+    role: inline
+    section: apadana-palace-coin-hoard
+    caption: "Type of the [[ Abdera | abdera-thrace ]] coin found in the Apadana
+      hoard, c.540/35–520/15 BC. Obverse: Griffin seated left, raising paw.
+      Reverse: Quadripartite incuse square.[[ ^48 ]]"
+  - file: Hall_of_Hundred_Columns_(Throne_Hall)_in_Persepolis.jpg
+    role: inline
+    section: the-throne-hall
+    caption: The Throne Hall, Persepolis — started by [[ Xerxes I ]] and completed
+      by his son [[ Artaxerxes I | artaxerxes-i-of-persia ]] by the end of the
+      fifth century BC.
+  - file: Persepolis_-_Tomb_of_Artaxerxes_III_01.jpg
+    role: inline
+    section: tombs
+    caption: Tomb of [[ Artaxerxes III ]], Persepolis
+  - file: Cuneiform_inscriptions_from_Persepolis_by_Nickmard_Khoey.jpg
+    role: inline
+    section: ancient-texts
+    caption: Babylonian version of an inscription of [[ Xerxes I ]], the "XPc
+      inscription"[[ ^58 ]][[ ^c ]]
+  - file: Tachar-writing.png
+    role: inline
+    section: ancient-texts
+    caption: The inscription of [[ Artaxerxes III ]] at Tachar palace, Persepolis.
+  - file: 2025_Armenian_Philharmonic_Orchestra_Performs_in_Persepolis_26_Mehr.jpg
+    role: inline
+    section: first-concert
+    caption: Persepolis hosted the 100th anniversary of the [[ Armenian
+      Philharmonic Orchestra ]] on September 6, 2025.
+  - file: Friedrich_Werner_von_der_Schulenburg_Eingang_von_Persepolis.jpg
+    role: inline
+    section: foreign-visitors-graffiti-at-persepolis
+    caption: "[[ Friedrich Werner von der Schulenburg ]] inscription on an ancient
+      monument at the entrance of Persepolis (Iran)"
+  - file: Flag_of_Iran.svg
+    role: drop
+    section: lead
+    caption: Flag of Iran
+glossary:
+  - term: Pārsa
+    gloss: What the ancient Persians called the city; it is also the word for the
+      region of Persia.
+    from: "To the ancient Persians, the city was known as Pārsa (Old Persian:
+      𐎱𐎠𐎼𐎿), which is also the word for the region of Persia."
+  - term: Takht-e-Jamshid
+    gloss: '"Throne of Jamshid" — the name the site carried because medieval
+      Persians attributed it to Jamshid, a king from Iranian mythology.'
+    from: 'Because medieval Persians attributed the site to Jamshid, a king from
+      Iranian mythology, it has been referred to as Takht-e-Jamshid (Persian:
+      تخت جمشید, Taxt e Jamšīd; [ˌtæxtedʒæmˈʃiːd]), literally meaning "Throne
+      of Jamshid".'
+  - term: Apadana
+    gloss: The greatest palace at Persepolis, built by Darius I on the western
+      side of the platform; the King of Kings used it for official audiences.
+    from: Darius I built the greatest palace at Persepolis on the western side of
+      platform. This palace was called the Apadana. The King of Kings used it
+      for official audiences.
+  - term: Tachara
+    gloss: Darius the Great's exclusive palace at Persepolis, which Xerxes called
+      a Taçara, meaning "winter palace" in Old Persian.
+    from: Tachara, was the exclusive palace of Darius the Great at Persepolis.
+      Only a small portion of the palace was finished under his rule, it was
+      completed after the death of Darius in 486 BC, by his son and successor,
+      Xerxes, who called it a Taçara, which means "winter palace" in Old
+      Persian.
+  - term: Gate of All Nations
+    gloss: A grand hall, a square of approximately 25 m (82 ft) in length with
+      four columns, named for the subjects of the empire.
+    from: The Gate of All Nations, referring to subjects of the empire, consisted
+      of a grand hall that was a square of approximately 25 m (82 ft) in
+      length, with four columns and its entrance on the Western Wall.
+  - term: Nowruz
+    gloss: The Persian New Year, held at the spring equinox, and still an
+      important annual festivity in Iran.
+    from: Until recently, most archaeologists held that it was primarily used for
+      celebrating Nowruz, the Persian New Year, held at the spring equinox,
+      which is still an important annual festivity in Iran.
+  - term: DPh inscription
+    gloss: The inscription by Darius in Old Persian cuneiform, found on gold and
+      silver foundation tablets under the Apadana, describing the extent of
+      his Empire in broad geographical terms.
+    from: "They contained an inscription by Darius in Old Persian cuneiform, which
+      describes the extent of his Empire in broad geographical terms, and is
+      known as the DPh inscription:"
+  - term: Persepolis Fortification Archive
+    gloss: Tablets recovered by the Oriental Institute's archaeologists that the
+      partial burning of Persepolis did not damage; one damaged tablet, from
+      around 500 BC, records the distribution of at least 600 quarts of an
+      unidentified commodity among five villages.
+    from: According to archaeological evidence, the partial burning of Persepolis
+      did not damage what are now referred to as the Persepolis Fortification
+      Archive tablets, but rather may have caused the eventual collapse of the
+      upper part of the northern fortification wall, preserving the tablets
+      until their recovery by the Oriental Institute's archaeologists.
+further:
+  - slug: alexander-the-great
+    why: His army took the complex in 330 BC, and the argument over whether he
+      burned it on purpose is still going.
+  - slug: pasargadae
+    why: Where Cyrus the Great is commonly accepted to be buried — and, of the two
+      sites, the one considered more threatened by the Sivand Dam.
+  - slug: babylon
+    why: The Tol-e Ajori gateway near Persepolis strongly resembles Babylon's
+      Ishtar Gate, down to the same glazed-brick motifs.
+anchors:
+  hook: The exact function of Persepolis remains unclear. It was not one of the
+    largest cities in ancient Iran, let alone the rest of the empire, but
+    appears to have been a grand ceremonial complex that was only occupied
+    seasonally; the complex was raised high on a walled platform, with five
+    "palaces" or halls of varying size, and grand entrances. It is still not
+    entirely clear where the king's private quarters actually were.
+  standfirst: Persepolis was the ceremonial capital of the Achaemenid Empire (c.
+    550–330 BC). It is situated in the plains of Marvdasht, encircled by the
+    southern Zagros Mountains, Fars province of Iran. It is one of the key
+    Iranian cultural heritage sites and a UNESCO World Heritage Site. The
+    earliest remains of Persepolis date back to 515 BC. The city, acting as a
+    major center for the empire, housed a palace complex and citadel designed
+    to serve as the focal point for governance and ceremonial activities. It
+    exemplifies the Achaemenid style of architecture. The complex was taken by
+    the army of Alexander the Great in 330 BC, and soon after, its wooden
+    parts were completely destroyed by fire.
+coordinates:
+  lat: 29.935
+  lon: 52.89
+images:
+  - file: Persepolis_east_side_at_spring.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Persepolis_east_side_at_spring.jpg/250px-Persepolis_east_side_at_spring.jpg
+    width: 2222
+    height: 1049
+    caption: As is typical of Achaemenid cities, Persepolis was built on a
+      (partially) artificial platform.
+  - file: Harold_f_Weston_-_Iran13.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Harold_f_Weston_-_Iran13.jpg/250px-Harold_f_Weston_-_Iran13.jpg
+    width: 344
+    height: 502
+    caption: Persepolis in 1920s, hand painted photo by Harold Weston
+  - file: Georges-Antoine_Rochegrosse_Incendie_de_Persepolis_1890.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Georges-Antoine_Rochegrosse_Incendie_de_Persepolis_1890.jpg/250px-Georges-Antoine_Rochegrosse_Incendie_de_Persepolis_1890.jpg
+    width: 1126
+    height: 1298
+    caption: '"The Burning of Persepolis", led by Thaïs, 1890, by Georges-Antoine
+      Rochegrosse'
+  - file: Joshua_Reynoldsre_thais.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Joshua_Reynoldsre_thais.jpg/250px-Joshua_Reynoldsre_thais.jpg
+    width: 394
+    height: 651
+    caption: Thaïs setting fire to Persepolis
+  - file: پانوراما_روز_تخت_جمشید.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%D9%BE%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7_%D8%B1%D9%88%D8%B2_%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF.jpg/960px-%D9%BE%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7_%D8%B1%D9%88%D8%B2_%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF.jpg
+    width: 4520
+    height: 1938
+    caption: Persepolis Panorama (17 May 2024)
+  - file: Persian_frieze_designs_at_Persepolis.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Persian_frieze_designs_at_Persepolis.jpg/250px-Persian_frieze_designs_at_Persepolis.jpg
+    width: 746
+    height: 555
+    caption: Frieze designs at Persepolis
+  - file: Lotus_Achaemenid_architecture.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lotus_Achaemenid_architecture.JPG/250px-Lotus_Achaemenid_architecture.JPG
+    width: 2268
+    height: 1880
+    caption: Reliefs of lotus flowers are frequently used on the walls and
+      monuments at Persepolis.
+  - file: The_stone_columns_of_the_Gate_of_All_Nations,_they_were_16½_meters_high_and_were_topped_with_capitals_in_the_form_of_a_double_bull,_Persepolis,_Iran_(47779521811).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_stone_columns_of_the_Gate_of_All_Nations%2C_they_were_16%C2%BD_meters_high_and_were_topped_with_capitals_in_the_form_of_a_double_bull%2C_Persepolis%2C_Iran_%2847779521811%29.jpg/250px-thumbnail.jpg
+    width: 3264
+    height: 4928
+    caption: The stone columns of the Gate of All Nations, they are 16½ meters
+      high and were topped with capitals in the form of a double bull.
+  - file: Hall_of_Hundred_Columns_(Throne_Hall)_in_Persepolis.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hall_of_Hundred_Columns_%28Throne_Hall%29_in_Persepolis.jpg/250px-Hall_of_Hundred_Columns_%28Throne_Hall%29_in_Persepolis.jpg
+    width: 4928
+    height: 3264
+    caption: The Throne Hall, Persepolis
+  - file: Persepolis_-_Tomb_of_Artaxerxes_III_01.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Persepolis_-_Tomb_of_Artaxerxes_III_01.jpg/250px-Persepolis_-_Tomb_of_Artaxerxes_III_01.jpg
+    width: 4037
+    height: 2691
+    caption: Tomb of Artaxerxes III, Persepolis
+  - file: Cuneiform_inscriptions_from_Persepolis_by_Nickmard_Khoey.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cuneiform_inscriptions_from_Persepolis_by_Nickmard_Khoey.jpg/250px-Cuneiform_inscriptions_from_Persepolis_by_Nickmard_Khoey.jpg
+    width: 1000
+    height: 649
+    caption: Babylonian version of an inscription of Xerxes I, the "XPc inscription"
+  - file: Tachar-writing.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tachar-writing.png/250px-Tachar-writing.png
+    width: 1876
+    height: 2101
+    caption: The inscription of Artaxerxes III at Tachar palace, Persepolis.
+  - file: 2025_Armenian_Philharmonic_Orchestra_Performs_in_Persepolis_26_Mehr.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2025_Armenian_Philharmonic_Orchestra_Performs_in_Persepolis_26_Mehr.jpg/250px-2025_Armenian_Philharmonic_Orchestra_Performs_in_Persepolis_26_Mehr.jpg
+    width: 1280
+    height: 853
+    caption: Persepolis hosted the 100th anniversary of the Armenian Philharmonic
+      Orchestra on September 6, 2025.
+  - file: Friedrich_Werner_von_der_Schulenburg_Eingang_von_Persepolis.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Friedrich_Werner_von_der_Schulenburg_Eingang_von_Persepolis.jpg/250px-Friedrich_Werner_von_der_Schulenburg_Eingang_von_Persepolis.jpg
+    width: 3072
+    height: 2304
+    caption: Friedrich Werner von der Schulenburg inscription on an ancient
+      monument at the entrance of Persepolis (Iran)
+  - file: Flag_of_Iran.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/40px-Flag_of_Iran.svg.png
+    width: 630
+    height: 360
+    caption: Flag of Iran
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/250px-Iran_relief_location_map.jpg
+  type: Settlement
+  periods: Achaemenid Empire
+  cultures: Persian
+  location: Marvdasht, Fars province, Iran
+  history:
+    built: 6th century BC
+    built-by: Darius I, Xerxes I and Artaxerxes I
+    abandoned: 330 BC
+    events:
+      - Battle of the Persian Gates
+      - Macedonian sack of Persepolis
+      - Nowruz
+      - The 2,500 Year Celebration of the Persian Empire
+  site-notes:
+    material: Limestone, mud-brick, cedar wood
+    architectural-style: Achaemenid
+    condition: Ruins
+    management: Cultural Heritage, Handicrafts and Tourism Organization of Iran
+    public-access: Open
+    website: persepolis.ir
+  unesco-world-heritage-site:
+    official-name: Persepolis
+    type: Cultural
+    criteria: i, iii, vi
+    designated: 1979 (3rd session)
+    reference-no: "114"
+    region: Asia-Pacific
+sections:
+  - level: 2
+    id: name
+    title: Name
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: construction
+    title: Construction
+  - level: 3
+    id: destruction
+    title: Destruction
+  - level: 3
+    id: after-the-fall-of-the-achaemenid-empire
+    title: After the fall of the Achaemenid Empire
+  - level: 2
+    id: geography
+    title: Geography
+  - level: 2
+    id: archaeological-research
+    title: Archaeological research
+  - level: 3
+    id: architecture
+    title: Architecture
+  - level: 3
+    id: tol-e-ajori
+    title: Tol-e Ajori
+  - level: 2
+    id: remains
+    title: Remains
+  - level: 3
+    id: the-gate-of-all-nations
+    title: The Gate of All Nations
+  - level: 3
+    id: the-apadana-palace
+    title: The Apadana Palace
+  - level: 4
+    id: apadana-palace-coin-hoard
+    title: Apadana Palace coin hoard
+  - level: 3
+    id: the-throne-hall
+    title: The Throne Hall
+  - level: 3
+    id: the-tachara-palace
+    title: The Tachara Palace
+  - level: 3
+    id: the-hadish-palace
+    title: The Hadish Palace
+  - level: 3
+    id: other-palaces-and-structures
+    title: Other palaces and structures
+  - level: 3
+    id: tombs
+    title: Tombs
+  - level: 3
+    id: ancient-texts
+    title: Ancient Texts
+  - level: 2
+    id: modern-events
+    title: Modern events
+  - level: 3
+    id: 2500-year-celebration
+    title: 2,500-year celebration
+  - level: 3
+    id: first-concert
+    title: First concert
+  - level: 3
+    id: nowruz-celebrations
+    title: Nowruz Celebrations
+  - level: 3
+    id: cultural-events
+    title: Cultural events
+  - level: 3
+    id: conservation-issues
+    title: Conservation issues
+  - level: 3
+    id: the-controversy-of-the-sivand-dam
+    title: The controversy of the Sivand Dam
+  - level: 2
+    id: museums-outside-iran-that-display-objects-from-persepolis
+    title: Museums (outside Iran) that display objects from Persepolis
+  - level: 2
+    id: foreign-visitors-graffiti-at-persepolis
+    title: Foreign visitors graffiti at Persepolis
+  - level: 2
+    id: accounting-records
+    title: Accounting Records
+  - level: 2
+    id: gallery
+    title: Gallery
+wikidata:
+  id: Q129072
+  label: Persepolis
+  description: ancient city in Marvdasht County, Iranian national heritage site
+    and World heritage site
+  claims:
+    instance-of:
+      - ancient city
+      - archaeological site
+      - cultural property
+      - architectural landmark
+    commons-category: Persepolis
+    coordinate-location:
+      lat: 29.935
+      lon: 52.89
+    country: Iran
+    topic-s-main-category: Category:Persepolis
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Gate_of_All_Nations%2C_Persepolis.jpg
+    located-in-the-administrative-territorial-entity: Kenareh Rural District
+    heritage-designation:
+      - value: Iranian National Heritage
+        from: 1931-09-16
+      - value: World Heritage Site
+        from: "1979"
+    time-of-discovery-or-invention: "1621"
+    discoverer-or-inventor:
+      value: García de Silva Figueroa
+      when: "1621"
+    world-heritage-criteria:
+      - (i)
+      - (iii)
+      - (vi)
+    described-by-source:
+      - Otto's encyclopedia
+      - Russian translation of Lübker's Antiquity Lexicon
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+      - Granat Encyclopedic Dictionary
+      - Bible Encyclopedia of Archimandrite Nicephorus
+      - The Nuttall Encyclopædia
+      - Encyclopædia Britannica 11th edition
+      - Encyclopædia Britannica First Edition
+      - Armenian Soviet Encyclopedia, vol. 9
+    architectural-style: Achaemenid architecture
+    named-after:
+      - Persians
+      - Jamshid
+    capital-of:
+      - value: Achaemenid Empire
+        from: 510s BC
+        to: 330 BC
+      - value: Persis
+        from: 330 BC
+    culture: Greater Iran
+    located-in-on-physical-feature: Kuh-e Rahmat
+    page-banner: https://commons.wikimedia.org/wiki/Special:FilePath/Persepolis_Banner.jpg
+    area: 12.5 hectare
+    category-for-maps-or-plans: Category:Maps of Persepolis
+    has-part-s:
+      - Tachara
+      - Gate of All Nations
+      - Apadana of Persepolis
+      - Hadish Palace
+      - Palace of Artaxerxes I
+      - Tripylon
+      - Hall of hundred columns
+    official-website: https://persepolis.ir
+    time-of-earliest-written-record: 509 BC
+    inception: 510s BC
+    video: https://commons.wikimedia.org/wiki/Special:FilePath/Persepolis%2C_capital_of_Persia_(TerraX%2C_English_redub).webm
+    on-focus-list-of-wikimedia-project:
+      value: Wikipedia:Vital articles/Level/4
+      when: 2022-10-31
+    different-from: Persepolis
+    dissolved-abolished-or-demolished: 330 BC
+    elevation-above-sea-level: 1627 metre
+    nighttime-view: https://commons.wikimedia.org/wiki/Special:FilePath/Persepolis_Panorama_2.jpg
+    panoramic-view: https://commons.wikimedia.org/wiki/Special:FilePath/20101229_Top_panoramic_view_of_Persepolis_Iran.jpg
+    category-of-associated-people: Category:People of Persepolis
+    significant-event: Q25491346
+link-titles:
+  2500-year-celebration-of-the-persian-empire: 2,500-year celebration of the Persian Empire
+  abbas-the-great: Abbas the Great
+  abdera-thrace: Abdera, Thrace
+  accounting-records: Accounting records
+  achaemenid-empire: Achaemenid Empire
+  achaemenid-architecture: Achaemenid architecture
+  achaemenid-coinage: Achaemenid coinage
+  achaemenid-destruction-of-athens: Achaemenid destruction of Athens
+  achaemenid-royal-inscriptions: Achaemenid royal inscriptions
+  acropolis-of-athens: Acropolis of Athens
+  aegina: Aegina
+  alexander-the-great: Alexander the Great
+  alireza-ghorbani: Alireza Ghorbani
+  ancient-greek: Ancient Greek
+  ancient-greek-temple: Ancient Greek temple
+  andré-godard: André Godard
+  antónio-de-gouveia: António de Gouveia
+  apadana: Apadana
+  apadana-palace: Apadana Palace
+  apadana-hoard: Apadana hoard
+  apollo: Apollo
+  ariobarzanes-of-persis: Ariobarzanes of Persis
+  armenian-philharmonic-orchestra: Armenian Philharmonic Orchestra
+  armenians: Armenians
+  armeniairan-relations: Armenia–Iran relations
+  arses-of-persia: Arses of Persia
+  artaxerxes-i: Artaxerxes I
+  artaxerxes-i-of-persia: Artaxerxes I of Persia
+  artaxerxes-ii: Artaxerxes II
+  artaxerxes-ii-of-persia: Artaxerxes II of Persia
+  artaxerxes-iii: Artaxerxes III
+  avesta: Avesta
+  babylon: Babylon
+  battle-of-the-persian-gate: Battle of the Persian Gate
+  biruni: Biruni
+  book-of-arda-viraf: Book of Arda Viraf
+  british-museum: British Museum
+  cambridge: Cambridge
+  cambyses-ii: Cambyses II
+  charles-chipiez: Charles Chipiez
+  cornelis-de-bruijn: Cornelis de Bruijn
+  croeseid: Croeseid
+  ctesias: Ctesias
+  cultural-heritage-handicrafts-and-tourism-organization-of-iran: Cultural Heritage, Handicrafts and Tourism Organization of Iran
+  cultural-heritage: Cultural heritage
+  culture-of-iran: Culture of Iran
+  cuneiform: Cuneiform
+  cuneiform-script: Cuneiform script
+  cyprus: Cyprus
+  cyrus-the-great: Cyrus the Great
+  daric: Daric
+  darius-i: Darius I
+  darius-ii: Darius II
+  darius-iii: Darius III
+  darius-the-great: Darius the Great
+  decipherment-of-cuneiform: Decipherment of cuneiform
+  detroit-institute-of-art: Detroit Institute of Art
+  diodorus-siculus: Diodorus Siculus
+  ecbatana: Ecbatana
+  equinox: Equinox
+  erich-schmidt-archaeologist: Erich Schmidt (archaeologist)
+  ernst-herzfeld: Ernst Herzfeld
+  estakhr: Estakhr
+  eugène-flandin: Eugène Flandin
+  fars-province: Fars province
+  fitzwilliam-museum: Fitzwilliam Museum
+  fragmente-der-griechischen-historiker: Fragmente der griechischen Historiker
+  friedrich-werner-von-der-schulenburg: Friedrich Werner von der Schulenburg
+  frieze: Frieze
+  garcia-de-silva-figueroa: Garcia de Silva Figueroa
+  garcía-de-silva-figueroa: García de Silva Figueroa
+  gate-of-all-nations: Gate of All Nations
+  georges-antoine-rochegrosse: Georges-Antoine Rochegrosse
+  giosafat-barbaro: Giosafat Barbaro
+  harold-weston: Harold Weston
+  harvard-art-museums: Harvard Art Museums
+  harvard-university: Harvard University
+  herakles: Herakles
+  hieronymus-of-cardia: Hieronymus of Cardia
+  hindush: Hindush
+  hormizd-ii: Hormizd II
+  huma-bird: Huma bird
+  indus-valley: Indus valley
+  iran: Iran
+  ishtar-gate: Ishtar Gate
+  islam: Islam
+  jamshid: Jamshid
+  kingdom-of-kush: Kingdom of Kush
+  komos: Komos
+  kor-river: Kor River
+  kur: Kur
+  lichen: Lichen
+  limestone: Limestone
+  locative: Locative
+  louvre: Louvre
+  lydia: Lydia
+  lydians: Lydians
+  macedonia-ancient-kingdom: Macedonia (ancient kingdom)
+  marvdasht: Marvdasht
+  metropolitan-museum-of-art: Metropolitan Museum of Art
+  minaret: Minaret
+  mohammad-reza-pahlavi: Mohammad Reza Pahlavi
+  montreal-museum-of-fine-arts: Montreal Museum of Fine Arts
+  museum-of-fine-arts-of-lyon: Museum of Fine Arts of Lyon
+  muslim-conquest-of-persia: Muslim conquest of Persia
+  naghsh-e-rostam: Naghsh-e Rostam
+  naqsh-e-rustam: Naqsh-e Rustam
+  national-museum-of-iran: National Museum of Iran
+  nelumbo-nucifera: Nelumbo nucifera
+  nowruz: Nowruz
+  nymphaea: Nymphaea
+  odoric-of-pordenone: Odoric of Pordenone
+  old-persian-cuneiform: Old Persian cuneiform
+  old-persian-language: Old Persian language
+  pahlavi-dynasty: Pahlavi dynasty
+  palace-of-darius-in-susa: Palace of Darius in Susa
+  parthian-empire: Parthian Empire
+  pasargadae: Pasargadae
+  pascal-coste: Pascal Coste
+  penelope: Penelope
+  persepolis-administrative-archives: Persepolis Administrative Archives
+  persian-gates: Persian Gates
+  persian-column: Persian column
+  persian-language: Persian language
+  persian-mythology: Persian mythology
+  persis: Persis
+  philip-iii-of-spain: Philip III of Spain
+  pietro-della-valle: Pietro Della Valle
+  plutarch: Plutarch
+  portugal: Portugal
+  prussia: Prussia
+  ptolemy-i-soter: Ptolemy I Soter
+  quintus-curtius-rufus: Quintus Curtius Rufus
+  rahmat-mountainactioneditredlink1: Rahmat Mountain?action=edit&redlink=1
+  relief: Relief
+  reza-shah: Reza Shah
+  richard-hakluyt: Richard Hakluyt
+  royal-road: Royal Road
+  safavid-dynasty: Safavid dynasty
+  sardis: Sardis
+  sasanian-empire: Sasanian Empire
+  scythians: Scythians
+  sea-turtle: Sea turtle
+  second-persian-invasion-of-greece: Second Persian invasion of Greece
+  shahnameh: Shahnameh
+  shapur-sakanshah: Shapur Sakanshah
+  shiraz: Shiraz
+  sigloi: Sigloi
+  sind: Sind
+  sivand: Sivand
+  sivand-dam: Sivand Dam
+  sogdia: Sogdia
+  sogdianus: Sogdianus
+  susa: Susa
+  symposium-ancient-greece: Symposium (ancient Greece)
+  tachara: Tachara
+  tetradrachm: Tetradrachm
+  thaïs: Thaïs
+  thermopylae: Thermopylae
+  tomb-of-cyrus: Tomb of Cyrus
+  unesco: UNESCO
+  united-nations: United Nations
+  university-of-chicago: University of Chicago
+  university-of-chicago-oriental-institute: University of Chicago Oriental Institute
+  university-of-pennsylvania: University of Pennsylvania
+  university-of-pennsylvania-museum-of-archaeology-and-anthropology: University of Pennsylvania Museum of Archaeology and Anthropology
+  world-heritage-site: World Heritage Site
+  xerxes-i: Xerxes I
+  xerxes-ii-of-persia: Xerxes II of Persia
+  zagros-mountains: Zagros Mountains
+  zend: Zend
+  zoroastrianism: Zoroastrianism
+source:
+  site: Wikipedia
+  lang: en
+  title: Persepolis
+  url: https://en.wikipedia.org/wiki/Persepolis
+  page-id: 92016
+  revision: "1369800416"
+  modified: 2026-08-17T06:50:50Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article
+    "Persepolis" (revision 1369800416), by Wikipedia contributors, used under
+    CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/persepolis.mdy
+  source-digest: 5c6fa3f2e109a509
+  source-revision: "1369800416"
+  model: claude-opus-5
+  left-out: "Two headings — \"History\" and \"Modern events\" — have no prose of
+    their own in the source, only subsections, so their bodies are empty
+    rather than invented. The image-plan uses the fifteen file names given in
+    the front matter plus five images that appear only inside the body's
+    picture lists, added because their source captions carry footnote
+    references that would otherwise be lost:
+    Persepolis_stairs_of_the_Apadana_relief.jpg [[ ^45 ]],
+    PersepolisNegareh.jpg [[ ^b ]],
+    Deposition_plate_of_Darius_I_in_Persepolis.jpg [[ ^50 ]], and the two
+    Apadana-hoard coin images [[ ^48 ]]. The remaining picture-list images
+    (the de Bruijn and Chipiez views, the Tachara, Hadish and museum
+    galleries, and so on) carry no citations and are not reproduced. The
+    \"Remains\" section's site-plan key and the \"Gallery\" section are not
+    prose, so they are kept close to as they were, as lists; the uncaptioned
+    site-plan images and the \"Animated reconstruction of Persepolis\" item in
+    Construction are dropped. The escaped digit in \"visit in \\1602\" and the
+    escaped ellipses inside the Diodorus and Curtius block quotes are written
+    plainly as 1602 and \"...\"."
+  verified: false
+  reviewed: false
++++
+!!Persepolis!![[ ^a ]] was the ceremonial capital of the [[ Achaemenid Empire ]] (c. 550–330 BC). It is situated in the plains of [[ Marvdasht ]], encircled by the southern [[ Zagros Mountains ]], [[ Fars province ]] of [[ Iran ]]. It is one of the key Iranian [[ cultural heritage ]] sites and a [[ UNESCO ]] [[ World Heritage Site ]].[[ ^2 ]]
+
+The earliest remains of Persepolis date back to 515 BC.[[ ^3 ]] The city, acting as a major center for the empire, housed a palace complex and citadel designed to serve as the focal point for governance and ceremonial activities,[[ ^4 ]] and it exemplifies the [[ Achaemenid style | achaemenid-architecture ]] of architecture. The complex was taken by the army of [[ Alexander the Great ]] in 330 BC, and soon after, its wooden parts were completely destroyed by fire. Why is argued over. According to one theory, Alexander deliberately set fire to Persepolis to avenge the [[ destruction of Athens | achaemenid-destruction-of-athens ]] by the Persians; a second theory is that it was at the urging of [[ Thaïs ]], a courtesan, during a feast when Alexander was intoxicated.[[ ^3 ]][[ ^5 ]]
+
+What the place was for is a harder question than it looks. The exact function of Persepolis remains unclear. It was not one of the largest cities in ancient Iran, let alone the rest of the empire, but appears to have been a grand ceremonial complex that was only occupied seasonally; the complex was raised high on a walled platform, with five "palaces" or halls of varying size, and grand entrances. It is still not entirely clear where the king's private quarters actually were. Until recently, most archaeologists held that it was primarily used for celebrating [[ Nowruz ]], the Persian New Year, held at the spring [[ equinox ]], which is still an important annual festivity in Iran. The Iranian nobility and the tributary parts of the empire came to present gifts to the king, as represented in the stairway reliefs. It is also unclear what permanent structures there were outside the palace complex; due to these factors, Persepolis is more often referred to as a complex rather than a "city" in the usual sense.[[ ^3 ]]
+
+The ruins had one consequence that reached far beyond them. The exploration of Persepolis from the early 17th century led to the modern rediscovery of [[ cuneiform ]] writing and, from detailed studies of the trilingual [[ Achaemenid royal inscriptions ]] found on the ruins, the initial [[ decipherment of cuneiform ]] in the early 19th century.[[ ^6 ]]
+
+== Name
+
+The name we use is the Greek one. //Persepolis// is derived from the [[ Greek | ancient-greek ]] Περσέπολις, //Persepolis//, a compound of //Pérsēs// (Πέρσης) and //pólis// (πόλις, together meaning "the Persian city" or "the city of the Persians"). To the ancient Persians, the city was known as //Pārsa// (Old Persian: [[ 𐎱𐎠𐎼𐎿 | https://en.wiktionary.org/wiki/𐎱𐎠𐎼𐎿 ]]), which is also the word for the region of [[ Persia | persis ]].[[ ^7 ]][[ ^8 ]]
+
+An inscription left in 311 AD by [[ Sasanian | sasanian-empire ]] Prince [[ Shapur Sakanshah ]], the son of [[ Hormizd II ]], refers to the site as //Sad-stūn//, meaning "Hundred Pillars".[[ ^9 ]] Because medieval Persians attributed the site to [[ Jamshid ]],[[ ^10 ]] a king from [[ Iranian mythology | persian-mythology ]], it has been referred to as //Takht-e-Jamshid// (Persian: [[ تخت جمشید | https://en.wiktionary.org/wiki/تخت%20جمشید ]], //Taxt e Jamšīd//; [[ [ˌtæxtedʒæmˈʃiːd\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FPersian ]]), literally meaning "Throne of Jamshid". Another name given to the site in the medieval period was //Čehel Menâr// (Persian: چهل منار, "Forty [[ Minarets | minaret ]]"),[[ ^9 ]] transcribed as //Chilminara// in [[ De Silva Figueroa | garcia-de-silva-figueroa ]][[ ^11 ]] and as !!Chilminar!! in early English sources.[[ ^12 ]]
+
+== History
+
+
+
+== Construction
+
+Archaeological evidence shows that the earliest remains of Persepolis date back to 515 BC. [[ André Godard ]], the French archaeologist who excavated Persepolis in the early 1930s, believed that it was [[ Cyrus the Great ]] who chose the site of Persepolis, but that it was [[ Darius I ]] who built the terrace and the palaces. Inscriptions on these buildings support the belief that they were constructed by Darius.
+
+With Darius I, the sceptre passed to a new branch of the royal house. The country's true capitals were [[ Susa ]], [[ Babylon ]] and [[ Ecbatana ]]. This may be why the Greeks were not acquainted with the city until [[ Alexander the Great ]] took and plundered it.
+
+Darius I's construction of Persepolis was carried out parallel to that of the [[ Palace of Susa | palace-of-darius-in-susa ]].[[ ^13 ]] According to Gene R. Garthwaite, the Susa Palace served as Darius' model for Persepolis.[[ ^14 ]] Darius I ordered the construction of the [[ Apadana ]] and the Council Hall (//Tripylon// or the "Triple Gate"), as well as the main imperial Treasury and its surroundings. These were completed during the reign of his son, [[ Xerxes I ]]. Further construction of the buildings on the terrace continued until the downfall of the [[ Achaemenid Empire ]].[[ ^15 ]] According to the Encyclopædia Britannica, the Greek historian [[ Ctesias ]] mentioned that Darius I's grave was in a cliff face that could be reached with an apparatus of ropes.[[ ^16 ]]
+
+Around 519 BC, construction of a broad stairway was begun. Grey [[ limestone ]] was the main building material used at Persepolis. The uneven plan of the terrace, including the foundation, acted like a castle, whose angled walls enabled its defenders to target any section of the external front.
+
+== Destruction
+
+After [[ invading Achaemenid Persia | battle-of-the-persian-gate ]] in 330 BC, [[ Alexander the Great ]] sent the main force of his army to Persepolis by the [[ Royal Road ]]. [[ Diodorus Siculus ]] writes that on his way to the city, Alexander and his army were met by 800 Greek artisans who had been captured by the Persians. Most were elderly and suffered some form of mutilation, such as a missing hand or foot. They explained to Alexander the Persians wanted to take advantage of their skills in the city but handicapped them so they could not easily escape. Alexander and his staff were disturbed by the story and provided the artisans with clothing and provisions before continuing on to Persepolis. Diodorus does not cite this as a reason for the destruction of Persepolis, but it is possible Alexander started to see the city in a negative light after this encounter.[[ ^17 ]]
+
+Upon reaching the city, Alexander [[ stormed | battle-of-the-persian-gate ]] the [[ Persian Gates ]], a pass through [[ Zagros Mountains ]]. There, [[ Ariobarzanes of Persis ]] successfully ambushed Alexander the Great's army, inflicting heavy casualties. After being held off for 31 days, Alexander the Great outflanked and destroyed the defenders. Ariobarzanes himself was killed either during the battle or during the retreat to Persepolis. Some sources indicate that the Persians were betrayed by a captured tribal chief who showed the Macedonians an alternate path that allowed them to outflank Ariobarzanes in a reversal of [[ Thermopylae ]]. After several months, Alexander allowed his troops to loot Persepolis.
+
+Around that time, a fire burned "the palaces" or "the palace". It is believed that the fire which destroyed Persepolis started from Hadish Palace, which was the living quarters of [[ Xerxes I ]], and spread to the rest of the city.[[ ^18 ]] It is not clear if the fire was an accident or a deliberate act of revenge for the burning of the [[ Acropolis of Athens ]] during the [[ second Persian invasion of Greece ]]. Many historians argue that, while Alexander's army celebrated with a [[ symposium | symposium-ancient-greece ]], they decided to take revenge against the Persians.[[ ^19 ]] If that is so, then the destruction of Persepolis could be both an accident and a case of revenge. The fire may also have had the political purpose of destroying an iconic symbol of the Persian monarchy that might have become a focus for Persian resistance.
+
+Several, much later, Greek and Roman accounts (including [[ Plutarch ]], [[ Diodorus Siculus ]] and [[ Quintus Curtius Rufus ]]) describe that the burning was the idea of [[ Thaïs ]], mistress of Alexander's general [[ Ptolemy I Soter ]], and possibly of Alexander himself. She is said to have suggested it during a very drunken celebration, according to some accounts to revenge the destruction of Greek sanctuaries (she was from Athens), and either she or Alexander himself set the fire going.[[ ^20 ]]
+
+What burned with the buildings is a second question. The //[[ Book of Arda Wiraz | book-of-arda-viraf ]]//, a [[ Zoroastrian | zoroastrianism ]] work composed in the 3rd or 4th century, describes Persepolis' archives as containing "all the [[ Avesta ]] and [[ Zend ]], written upon prepared cow-skins, and with gold ink", which were destroyed. Indeed, in his //Chronology of the Ancient Nations//, the native Iranian writer [[ Biruni ]] indicates unavailability of certain native Iranian historiographical sources in the post-Achaemenid era, especially during the [[ Parthian Empire ]]. He adds: "[Alexander] burned the whole of Persepolis as revenge to the Persians, because it seems the Persian King Xerxes had burnt the Greek City of Athens around 150 years ago. People say that, even at the present time, the traces of fire are visible in some places."[[ ^19 ]][[ ^21 ]]
+
+On the upside, the fire that destroyed those texts may have preserved the [[ Persepolis Administrative Archives ]] by preventing them from being lost over time to natural and man-made events.[[ ^22 ]] According to archaeological evidence, the partial burning of Persepolis did not damage what are now referred to as the //Persepolis Fortification Archive// tablets, but rather may have caused the eventual collapse of the upper part of the northern fortification wall, preserving the tablets until their recovery by the [[ Oriental Institute | university-of-chicago-oriental-institute ]]'s archaeologists.[[ ^23 ]]
+
+== After the fall of the Achaemenid Empire
+
+In 316 BC, Persepolis was still the capital of Persia as a province of the great [[ Macedonian Empire | macedonia-ancient-kingdom ]] (see Diodorus Siculus xix, 21 seq., 46; probably after [[ Hieronymus of Cardia ]], who was living about 326). The city must have gradually declined in the course of time. The lower city at the foot of the imperial city might have survived for a longer time;[[ ^24 ]] but the ruins of the Achaemenids remained as a witness to its ancient glory.
+
+The nearby [[ Estakhr ]] gained prominence as a separate city very shortly after the decline of Persepolis, and it appears that much of Persepolis' rubble was used for the building of Istakhr.[[ ^25 ]] At the time of the [[ Muslim invasion of Persia | muslim-conquest-of-persia ]], Estakhr offered a desperate resistance. It was still a place of considerable importance in the first century of [[ Islam ]], although its greatness was speedily eclipsed by the new metropolis of [[ Shiraz ]]. In the 10th century, Estakhr dwindled to insignificance. During the following centuries, Estakhr gradually declined, until it ceased to exist as a city.
+
+== Geography
+
+Persepolis is near the small river Pulvar, which flows into the [[ Kur River | kor-river ]]. The site includes a 125,000 m^^2^^ (1,350,000 sq ft) terrace, partly artificially constructed and partly cut out of a mountain, with its east side leaning on Rahmat Mountain.
+
+== Archaeological research
+
+[[ Odoric of Pordenone ]] may have passed through Persepolis on his way to China in 1320, although he mentioned only a great, ruined city called "Comerum".[[ ^26 ]] In 1474, [[ Giosafat Barbaro ]] visited the ruins of Persepolis, which he incorrectly thought were of Jewish origin.[[ ^27 ]] //[[ Hakluyt's | richard-hakluyt ]] Voyages// included a general account of the ruins of Persepolis attributed to an English merchant who visited Iran in 1568.[[ ^28 ]][[ ^29 ]] [[ António de Gouveia ]] from [[ Portugal ]] wrote about [[ cuneiform inscriptions | cuneiform-script ]] following his visit in 1602. His report on the ruins of Persepolis was published as part of his //Relaçam// in 1611.[[ ^30 ]]
+
+In 1618, [[ García de Silva Figueroa ]], King [[ Philip III of Spain ]]'s ambassador to the court of [[ Abbas I | abbas-the-great ]], the [[ Safavid | safavid-dynasty ]] monarch, was the first Western traveler to link the site known in Iran as "Chehel Minar" as the site known from Classical authors as Persepolis.[[ ^31 ]][[ ^11 ]]
+
+[[ Pietro Della Valle ]] visited Persepolis in 1621, and noticed that only 25 of the 72 original columns were still standing, due to either vandalism or natural processes.[[ ^32 ]] The Dutch traveler [[ Cornelis de Bruijn ]] visited Persepolis in 1704.[[ ^33 ]]
+
+The fruitful region was covered with villages until its frightful devastation in the 18th century; and even now it is, comparatively speaking, well cultivated. The Castle of Estakhr played a conspicuous part as a strong fortress, several times, during the Muslim period. It was the middlemost and the highest of the three steep crags which rise from the valley of the [[ Kur ]], at some distance to the west or northwest of the necropolis of [[ Naqsh-e Rustam ]].
+
+The French voyagers [[ Eugène Flandin ]] and [[ Pascal Coste ]] are among the first to provide not only a literary review of the structure of Persepolis, but also to create some of the best and earliest visual depictions of its structure. In their publications in Paris, in 1881 and 1882, titled //Voyages en Perse de MM. Eugene Flanin peintre et Pascal Coste architecte//, the authors provided some 350 ground breaking illustrations of Persepolis.[[ ^34 ]] French influence and interest in Persia's archaeological findings continued after the accession of [[ Reza Shah ]], when [[ André Godard ]] became the first director of the archeological service of Iran.[[ ^35 ]]
+
+In the 1800s, a variety of amateur digging occurred at the site, in some cases on a large scale.[[ ^34 ]]
+
+The first scientific excavations at Persepolis were carried out by [[ Ernst Herzfeld ]] and [[ Erich Schmidt | erich-schmidt-archaeologist ]] representing the [[ Oriental Institute | university-of-chicago-oriental-institute ]] of the [[ University of Chicago ]]. They conducted excavations for eight seasons, beginning in 1930, and included other nearby sites.[[ ^36 ]][[ ^37 ]][[ ^38 ]][[ ^39 ]][[ ^40 ]]
+
+Herzfeld believed that the reasons behind the construction of Persepolis were the need for a majestic atmosphere, a symbol for the empire, and to celebrate special events, especially the //[[ Nowruz ]]//.[[ ^8 ]] For historical reasons, Persepolis was built where the Achaemenid dynasty was founded, although it was not the center of the empire at that time.
+
+Excavations of plaque fragments hint at a scene with a contest between [[ Herakles ]] and [[ Apollo ]], dubbed //A Greek painting at Persepolis//.[[ ^41 ]]
+
+== Architecture
+
+Persepolitan architecture is noted for its use of the [[ Persian column ]], which was probably based on earlier wooden columns.
+
+The buildings at Persepolis include three general groupings: military quarters, the treasury, and the reception halls and occasional houses for the King. Noted structures include the Great Stairway, the [[ Gate of All Nations ]], the [[ Apadana ]], the Hall of a Hundred Columns, the Tripylon Hall and the [[ Tachara ]], the Hadish Palace, the Palace of [[ Artaxerxes III ]], the Imperial Treasury, the Royal Stables, and the Chariot House.[[ ^42 ]]
+
+== Tol-e Ajori
+
+In 2011 a joint Italian-Iranian team discovered a monumental gateway that strongly resembles the [[ Ishtar Gate ]] in Babylon at the site of Tol-e Ajori 3 kilometers west of Persepolis. The gate, which has been dated to the Achaemenid Period, measures 40 by 30 meters and features glazed brick decoration produced in the same manner and featuring the same motifs as the glazed bricks used to adorn the Ishtar gate and the rest of the ceremonial procession in Babylon.
+
+But it sits oddly where it is. The structure does not fit neatly into the architectural style used for the rest of the Persepolis area. Similarly, excavations yielded fragments of inscriptions in both Elamite and Babylonian, however the gate does not seem to have included an Old Persian inscription. Based on these discontinuities with the rest of the Persepolis area, excavators concluded the gate likely predates the construction of Persepolis under Darius I, and was probably built sometime between the conquest of Babylon in 539 and the start of construction at Persepolis in 518 BCE.[[ ^43 ]][[ ^44 ]]
+
+== Remains
+
+Ruins of a number of colossal buildings exist on the terrace. All are constructed of dark-grey marble. Fifteen of their pillars stand intact. Three more pillars have been re-erected since 1970. Several of the buildings were never finished.
+
+Behind the compound at Persepolis, there are three sepulchers hewn out of the rock in the hillside.
+
+The site plan is labelled:
+
+<ul
+  <li>!!Entrance staircase!!
+
+  <li>!!Northern Staircase!!
+
+  <li>!!Staircase!!
+
+  <li>!!Eastern!!
+
+  <li>!!Tomb of Artaxerxes III!!
+
+  <li>!!Towers!!
+
+  <li>!!Gate!!
+
+  <li>!![[ Gate of All Nations ]]!!
+
+  <li>!!Processional Way!!
+
+  <li>!!Unfinished gate!!
+
+  <li>!!Apadana!!
+
+  <li>!!Hundred columns!!
+
+  <li>!!Tripylon!!
+
+  <li>!![[ Tachara ]]!!
+
+  <li>!!Hadish!!
+
+  <li>!!Treasury!!
+
+  <li>!!Queen Palace and Museum!!
+
+  <li>!!Barracks of 32 columns!!
+
+  <li>!!J Palace!!
+
+  <li>!!G Palace!!
+
+  <li>!!D Palace!!
+
+== The Gate of All Nations
+
+The [[ Gate of All Nations ]], referring to subjects of the empire, consisted of a grand hall that was a square of approximately 25 m (82 ft) in length, with four columns and its entrance on the Western Wall.
+
+== The Apadana Palace
+
+[[ Darius I ]] built the greatest palace at Persepolis on the western side of platform. This palace was called the //[[ Apadana ]]//.[[ ^46 ]] The King of Kings used it for official audiences.
+
+Foundation tablets of gold and silver were found in two deposition boxes in the foundations of the Palace.[[ ^47 ]] They contained an inscription by Darius in [[ Old Persian cuneiform ]], which describes the extent of his Empire in broad geographical terms, and is known as the DPh inscription:[[ ^48 ]][[ ^49 ]]
+
+<blockquote
+  Darius the great king, king of kings, king of countries, son of Hystaspes, an Achaemenid. King Darius says: This is the kingdom which I hold, from the [[ Sacae | scythians ]] who are beyond [[ Sogdia ]], to [[ Kush | kingdom-of-kush ]], and from [[ Sind ]] ([[ Old Persian | old-persian-language ]]: [[ 𐏃𐎡𐎭𐎢𐎺 | https://en.wiktionary.org/wiki/𐏃𐎡𐎯𐎢𐏁 ]], romanized: //Hidauv//, [[ locative ]] of //[[ Hiduš | hindush ]]//, i.e. "[[ Indus valley ]]") to [[ Lydia ]] ([[ Old Persian | old-persian-language ]]: //Spardâ//) – [this is] what Ahuramazda, the greatest of gods, bestowed upon me. May Ahuramazda protect me and my royal house!
+
+— DPh inscription of Darius I in the foundations of the Apadana Palace[[ ^51 ]]
+
+The reliefs on the staircases allow one to observe the people from across the empire in their traditional dress, and even the king himself, "down to the smallest detail".[[ ^14 ]]
+
+== Apadana Palace coin hoard
+
+The [[ Apadana hoard ]] is a hoard of coins that were discovered under the stone boxes containing the foundation tablets of the [[ Apadana Palace ]] in Persepolis.[[ ^48 ]] The coins were discovered in excavations in 1933 by [[ Erich Schmidt | erich-schmidt-archaeologist ]], in two deposits, each deposit under the two deposition boxes that were found. The deposition of this hoard is dated to c. 515 BC.[[ ^48 ]] The coins consisted in eight gold lightweight [[ Croeseids | croeseid ]], a [[ tetradrachm ]] of [[ Abdera | abdera-thrace ]], a stater of [[ Aegina ]] and three double-[[ sigloi ]] from [[ Cyprus ]].[[ ^48 ]]
+
+The Croeseids were found in very fresh condition, confirming that they had been recently minted under Achaemenid rule.[[ ^52 ]] The deposit did not have any [[ Darics | daric ]] and [[ Sigloi ]], which also suggests strongly that these coins typical of [[ Achaemenid coinage ]] only started to be minted later, after the foundation of the Apadana Palace.[[ ^52 ]]
+
+== The Throne Hall
+
+Next to the Apadana, second largest building of the Terrace and the final edifices, is the Throne Hall or the Imperial Army's //Hall of Honor// (also called the //Hundred-Columns Palace//). This 70 m^^2^^ × 70 m^^2^^ (750 sq ft × 750 sq ft) hall was started by [[ Xerxes I ]] and completed by his son [[ Artaxerxes I | artaxerxes-i-of-persia ]] by the end of the fifth century BC. Its eight stone doorways are decorated on the south and north with reliefs of throne scenes and on the east and west with scenes depicting the king in combat with monsters. Two colossal stone bulls flank the northern portico. The head of one of the bulls now resides in the [[ Oriental Institute | university-of-chicago-oriental-institute ]] in Chicago[[ ^53 ]] and a column base from one of the columns in the [[ British Museum ]].[[ ^54 ]]
+
+At the beginning of the reign of Xerxes I, the Throne Hall was used mainly for receptions for military commanders and representatives of all the subject nations of the empire. Later, the Throne Hall served as an imperial museum.
+
+== The Tachara Palace
+
+[[ Tachara ]], was the exclusive palace of [[ Darius the Great ]] at Persepolis. Only a small portion of the palace was finished under his rule, it was completed after the death of Darius in 486 BC, by his son and successor, [[ Xerxes | xerxes-i ]],[[ ^55 ]] who called it a Taçara, which means "winter palace" in Old Persian. It was then used by [[ Artaxerxes I ]].
+
+In the 4th century BC, following his invasion of Iran in 330 BC, [[ Alexander the Great ]] allowed his troops to loot Persepolis. This palace was one of the few structures that escaped destruction in the burning of the complex by Alexander's army, and because of that, Tachara is the most intact building of Persepolis today. It is also the oldest structure at Persepolis. Tachara stands back to back to the [[ Apadana ]], and is oriented southward.[[ ^56 ]]
+
+== The Hadish Palace
+
+The Hadish Palace of [[ Xerxes | xerxes-i ]] is one of palaces at Persepolis. It's located on the east of the Palace of H (Artaxerxes I). The palace occupies the highest level of terrace and stands on the living rock. The inscriptions of the palace attest that the building was built by order of Xerxes. It covers an area of 2550 square meters (40*55 meters). A double staircase on the west leads to courtyard of the Tachara chateau and another staircase on the northeast connects to courtyard of the Council Hall.
+
+== Other palaces and structures
+
+The Council Hall, the Tryplion Hall, the Palaces of D, G, H, storerooms, stables and quarters, the unfinished gateway and a few miscellaneous structures at Persepolis are located near the south-east corner of the terrace, at the foot of the mountain.
+
+== Tombs
+
+It is commonly accepted that [[ Cyrus the Great ]] was buried in the [[ Tomb of Cyrus ]] in [[ Pasargadae ]], which is mentioned by [[ Ctesias ]] as his own city. If it is true that the body of [[ Cambyses II ]] was brought home "to the Persians," his burying place must be somewhere beside that of his father.
+
+Ctesias assumes that it was the custom for a king to prepare his own tomb during his lifetime. Hence, the kings buried at [[ Naghsh-e Rostam ]] are probably [[ Darius I ]], [[ Xerxes I ]], [[ Artaxerxes I | artaxerxes-i-of-persia ]] and [[ Darius II ]]. [[ Xerxes II | xerxes-ii-of-persia ]], who reigned for a very short time, could scarcely have obtained so splendid a monument, and still less could the usurper [[ Sogdianus ]]. The two completed graves behind the compound at Persepolis would then belong to [[ Artaxerxes II | artaxerxes-ii-of-persia ]] and [[ Artaxerxes III ]]. The unfinished tomb, a kilometer away from the city, is debated to who it belongs.[[ ^57 ]]
+
+== Ancient Texts
+
+There are a total of 11 existing inscriptions at Persepolis, related to [[ Darius the Great ]], [[ Xerxes | xerxes-i ]], [[ Artaxerxes II ]] and [[ Artaxerxes III ]]. The relevant passages from ancient scholars on the subject are set out below:
+
+<blockquote
+  Persepolis was the capital of the Persian kingdom. Alexander described it to the Macedonians as the most hateful of the cities of Asia, and gave it over to his soldiers to plunder, all but the palaces. (2) It was the richest city under the sun, and the private houses had been furnished with every sort of wealth over the years. The Macedonians raced into it, slaughtering all the men whom they met and plundering the residences; many of the houses belonged to the common people and were abundantly supplied with furniture and wearing apparel of every kind...
+
+  72 (1) Alexander held games in honor of his victories. He performed costly sacrifices to the gods and entertained his friends bountifully. While they were feasting and the drinking was far advanced, as they began to be drunken, a madness took possession of the minds of the intoxicated guests. (2) At this point, one of the women present, Thais by name and Attic by origin, said that for Alexander it would be the finest of all his feats in Asia if he joined them in a triumphal procession, set fire to the palaces, and permitted women's hands in a minute to extinguish the famed accomplishments of the Persians. (3) This was said to men who were still young and giddy with wine, and so, as would be expected, someone shouted out to form up and to light torches, and urged all to take vengeance for the destruction of the [[ Greek temples | ancient-greek-temple ]]. (4) Others took up the cry and said that this was a deed worthy of Alexander alone. When the king had caught fire at their words, all leaped up from their couches and passed the word along to form a victory procession [epinikion komon] in honor of Dionysius.
+
+  (5) Promptly, many torches were gathered. Female musicians were present at the banquet, so the king led them all out for the [[ komos ]] to the sound of voices and flutes and pipes, Thais the courtesan leading the whole performance. (6) She was the first, after the king, to hurl her blazing torch into the palace. As the others all did the same, immediately the entire palace area was consumed, so great was the conflagration. It was most remarkable that the impious act of Xerxes, king of the Persians, against the acropolis at Athens should have been repaid in kind after many years by one woman, a citizen of the land which had suffered it, and in sport.
+
+— [[ Diodorus Siculus ]], 17.70.1–73.2, 17.70 (1)
+
+<blockquote
+  On the following day, the king called together the leaders of his forces and informed them that "no city was more mischievous to the Greeks than the seat of the ancient kings of Persia [...] by its destruction they ought to offer sacrifice to the spirits of their forefathers."
+
+  7 (1) But Alexander's great mental endowments, that noble disposition, in which he surpassed all kings, that intrepidity in encountering dangers, his promptness in forming and carrying out plans, his good faith towards those who submitted to him, merciful treatment of his prisoners, temperance even in lawful and usual pleasures, were sullied by an excessive love of wine. (2) At the very time when his enemy and his rival for a throne was preparing to renew the war, when those whom he had conquered were but lately subdued and were hostile to the new rule, he took part in prolonged banquets at which women were present, not indeed those whom it would be a crime to violate, but, to be sure, harlots who were accustomed to live with armed men with more licence than was fitting.
+
+  (3) One of these, Thais by name, herself also drunken, declared that the king would win most favor among all the Greeks, if he should order the palace of the Persians to be set on fire; that this was expected by those whose cities the barbarians had destroyed. (4) When a drunken strumpet had given her opinion on a matter of such moment, one or two, themselves also loaded with wine, agreed. The king, too, more greedy for wine than able to carry it, cried: "Why do we not, then, avenge Greece and apply torches to the city?" (5) All had become heated with wine, and so they arose when drunk to fire the city which they had spared when armed. The king was the first to throw a firebrand upon the palace, then the guests and the servants and courtesans. The palace had been built largely of cedar, which quickly took fire and spread the conflagration widely. (6) When the army, which was encamped not far from the city, saw the fire, thinking it accidental, they rushed to bear aid. (7) But when they came to the vestibule of the palace, they saw the king himself piling on firebrands. Therefore, they left the water which they had brought, and they too began to throw dry wood upon the burning building.
+
+  (8) Such was the end of the capital of the entire Orient... .
+
+  (10) The Macedonians were ashamed that so renowned a city had been destroyed by their king in a drunken revel; therefore the act was taken as earnest, and they forced themselves to believe that it was right that it should be wiped out in exactly that manner.
+
+— [[ Quintus Curtius Rufus ]] 5.6.1–7.12 5.6 (1)
+
+<blockquote
+  And did not Alexander the Great have with him Thais, the Athenian hetaira? Cleitarchus speaks of her as having been the cause for the burning of the palace at Persepolis. After Alexander's death, this same Thais was married to Ptolemy, the first king of Egypt.
+
+— Cleitarchus, [[ FGrHist | fragmente-der-griechischen-historiker ]]. 137, F. 11 (= Athenaeus 13. 576d-e)
+
+== Modern events
+
+
+
+== 2,500-year celebration
+
+In 1971, Persepolis was the main staging ground for the [[ 2,500-year celebration of the Persian Empire ]] under the reign of [[ Mohammad Reza Pahlavi ]], the second and last Shah of the [[ Pahlavi dynasty ]]. It included delegations from foreign nations in an attempt to advance the [[ Iranian culture | culture-of-iran ]] and history.[[ ^59 ]]
+
+== First concert
+
+In a groundbreaking cultural event, Iranian vocalist [[ Alireza Ghorbani ]] performed the first-ever concert at Persepolis from 29 June to 1 July 2024, and received an overwhelmingly enthusiastic response from attendees.[[ ^60 ]][[ ^61 ]][[ ^62 ]]
+
+Another historic event took place on September 6, 2025, with Persepolis hosting the 100th anniversary of the [[ Armenian Philharmonic Orchestra ]]. Over 1,500 people attended.[[ ^63 ]] With ambassadors from 23 countries and envoys from the [[ UN | united-nations ]], it was the first-ever international public concert at Persepolis,[[ ^64 ]] a historic cultural milestone for [[ Iran-Armenia | armeniairan-relations ]],[[ ^65 ]] and the site's second international event since the 2,500-year celebration of the Persian Empire in 1971.[[ ^66 ]]
+
+== Nowruz Celebrations
+
+Every year during [[ Nowruz ]], a large number of people come to Persepolis to celebrate the new year. In 2024, 10,000 people were at Persepolis when Nowruz started.[[ ^67 ]][[ ^68 ]]
+
+== Cultural events
+
+Various events are held in Persepolis every year, including the [[ Shahnameh ]] reading festival and other cultural events.[[ ^69 ]][[ ^70 ]]
+
+== Conservation issues
+
+The site is also threatened by the presence of [[ lichens | lichen ]] that have grown on the surface of the monuments, some of which have eroded intricate carvings and motifs. Some of the lichens are estimated to be around 1,700 years old, and their spread has been attributed to industrialisation, acid rain and the extreme desert climate.[[ ^71 ]]
+
+== The controversy of the Sivand Dam
+
+Construction of the [[ Sivand Dam ]], named after the nearby town of [[ Sivand ]], began on 19 September 2006. Despite 10 years of planning, Iran's [[ Cultural Heritage Organization | cultural-heritage-handicrafts-and-tourism-organization-of-iran ]] was not aware of the broad areas of flooding during much of this time,[[ ^72 ]] and there is growing concern about the effects the dam will have on the surrounding areas of Persepolis.
+
+Activists expressed concern that the dam's placement between the ruins of [[ Pasargadae ]] and Persepolis will flood both. Engineers involved with the construction deny this claim, stating that it is impossible, because both sites sit well above the planned waterline. Of the two sites, Pasargadae is considered the more threatened.[[ ^73 ]]
+
+== Museums (outside Iran) that display objects from Persepolis
+
+One bas-relief from Persepolis is in the [[ Fitzwilliam Museum ]] in [[ Cambridge ]], England.[[ ^74 ]] The largest collection of reliefs is at the [[ British Museum ]], sourced from multiple British travellers who worked in Iran in the 19th century.[[ ^75 ]] The Persepolis bull at the [[ Oriental Institute | university-of-chicago-oriental-institute ]] in Chicago is one of the university's most prized treasures, part of the division of finds from the excavations of the 1930s. New York City's [[ Metropolitan Museum | metropolitan-museum-of-art ]] and [[ Detroit Institute of Art ]] houses objects from Persepolis,[[ ^76 ]] as does the [[ Museum of Archaeology and Anthropology | university-of-pennsylvania-museum-of-archaeology-and-anthropology ]] of the [[ University of Pennsylvania ]].[[ ^77 ]] The [[ Museum of Fine Arts of Lyon ]][[ ^78 ]] and the [[ Louvre ]] of Paris hold objects from Persepolis as well.
+
+Not everything abroad left legitimately. A bas-relief of a soldier that had been looted from the excavations in 1935–36 and later purchased by the [[ Montreal Museum of Fine Arts ]] was repatriated to Iran in 2018, after being offered for sale in London and New York.[[ ^79 ]]
+
+== Foreign visitors graffiti at Persepolis
+
+Some European travelers throughout history have left graffiti on the walls of Persepolis during their visits.
+
+== Accounting Records
+
+A damaged tablet from the Persepolis Fortification Archive, dating to around 500 BC, records the distribution of at least 600 //quarts// of an unidentified commodity among five villages, providing rare evidence that [[ Old Persian | old-persian-language ]] was also used for [[ everyday administration | accounting-records ]].[[ ^80 ]]
+
+== Gallery
+
+<ul
+  <li>A general view of the Persepolis.
+
+  <li>The tomb of [[ Artaxerxes II ]] at Persepolis
+
+  <li>Horn-shaped stones at Persepolis.
+
+  <li>The Queen's Quarters, built by the order of [[ Xerxes | xerxes-i ]]. The palace was excavated and rebuilt by [[ Ernst Herzfeld ]] in 1931, and today it is used as a museum and the central office of Persepolis.
+
+  <li>The entrance of Persepolis.
+
+  <li>Persepolis, [[ Fars province ]], [[ Iran ]]
+
+[[ ^a ]]: [[ /pərˈsɛpəlɪs/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]]; [[ Old Persian | old-persian-language ]]: 𐎱𐎠𐎼𐎿, romanized: //Pārsa//; [[ New Persian ]]: تخت جمشید, [[ romanized | romanization-of-persian ]]: //Takht-e Jamshīd//, [[ lit. | literal-translation ]] 'Throne of [[ Jamshid ]]'
+
+[[ ^2 ]]: UNESCO World Heritage Centre (2006). [[ "Pasargadae" | https://whc.unesco.org/en/list/1106 ]]. [[ Archived | https://web.archive.org/web/20200305132459/https://whc.unesco.org/en/list/1106 ]] from the original on 5 March 2020. Retrieved 26 December 2010.
+
+[[ ^3 ]]: Mousavi, Ali, //Persepolis: Discovery and Afterlife of a World Wonder//, p. 53, 2012, Walter de Gruyter, ISBN [[ 978-1614510338 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1614510338 ]], [[ Google Books | https://books.google.com/books?id=KorZMqmTOJgC&pg=PA53 ]] Archived 20 April 2023 at the [[ Wayback Machine ]]
+
+[[ ^4 ]]: Gates, Charles (2011). //Ancient cities: the archaeology of urban life in the ancient Near East and Egypt, Greece and Rome// (2nd ed.). London: Routledge. pp. 186–187. ISBN [[ 978-0-203-83057-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-203-83057-4 ]].
+
+[[ ^5 ]]: venetis, evangelos (2014). "5, IRAN AT THE TIME OF ALEXANDER THE GREAT AND THE SELEUCIDS". In Daryaee, Touraj (ed.). //The Oxford Handbook of Iranian History//. Oxford University Press. pp. 148, 149. ISBN [[ 978-0199390427 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0199390427 ]].
+
+[[ ^6 ]]: Mousavi, Ali (14 March 2012). "VI. Persepolis and the Puzzle of Cuneiform Inscriptions". //Persepolis//. De Gruyter. pp. 113–122. doi:[[ 10.1515/9781614510338.113 | https://doi.org/10.1515%2F9781614510338.113 ]]. ISBN [[ 978-1-61451-028-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61451-028-4 ]]. In this way, the exploration of the ancient ruins at Persepolis proved to be an important key to the development of historical and archaeological studies in the first half of the nineteenth century.
+
+[[ ^7 ]]: Bailey, H.W. (1996) "Khotanese Saka Literature", in Ehsan Yarshater (ed), //The Cambridge History of Iran, Vol III: The Seleucid, Parthian, and Sasanian Periods//, Part 2 (reprint edition), Cambridge: Cambridge University Press, p. 1230.
+
+[[ ^8 ]]: Michael Woods, Mary B. Woods (2008). [[ //Seven Wonders of the Ancient Middle East// | https://archive.org/details/sevenwondersofan0000wood_e8u9 ]]. Twenty-First Century Books. pp. [[ 26 | https://archive.org/details/sevenwondersofan0000wood_e8u9/page/26 ]]–28. ISBN [[ 978-0822575733 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0822575733 ]]. Persepolis means.
+
+[[ ^9 ]]: Shahbazi, A. Shapur; Bosworth, C. Edmund (1990). [[ "Capital Cities– Encyclopaedia Iranica" | http://www.iranicaonline.org/articles/capital-cities ]]. //Encyclopædia Iranica//. Vol. IV. pp. 768–774. [[ Archived | https://web.archive.org/web/20210410060733/https://iranicaonline.org/articles/capital-cities ]] from the original on 10 April 2021. Retrieved 5 August 2018.
+
+[[ ^10 ]]: Holland, Tom (2012). //In the Shadow of the Sword//. Little, Brown. pp. 118–122. ISBN [[ 978-1408700075 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1408700075 ]].
+
+[[ ^11 ]]: [[ De Silva Figueroa, Garcia | garcia-de-silva-figueroa ]] (1667), [[ //L'Ambassade de D. Garcias de Silva Figueroa en Perse\...// | https://books.google.com/books?id=JY2ruU4atOQC&pg=PA144 ]], translated by [[ De Wicquefort, Abraham | abraham-de-wicquefort ]], Paris: Louis Billaine, [[ archived | https://web.archive.org/web/20221129183316/https://books.google.com/books?id=JY2ruU4atOQC&pg=PA144 ]] from the original on 29 November 2022, retrieved 29 November 2022.
+
+[[ ^12 ]]: "[[ Chilminar | https://en.wikisource.org/wiki/Encyclopædia%20Britannica,%20First%20Edition/Chilminar ]]", //[[ Encyclopædia Britannica | https://en.wikisource.org/wiki/Encyclopædia%20Britannica,%20First%20Edition ]]//, vol. II (1st ed.), Edinburgh: [[ Colin Macfarquhar ]], 1771, pp. 183–184.
+
+[[ ^13 ]]: Perrot, Jean (2013). [[ //The Palace of Darius at Susa: The Great Royal Residence of Achaemenid Persia// | https://books.google.com/books?id=fDimj7F2VVgC&pg=PA423 ]]. I.B.Tauris. p. 423. ISBN [[ 978-1848856219 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1848856219 ]]. [[ Archived | https://web.archive.org/web/20230420100929/https://books.google.com/books?id=fDimj7F2VVgC&pg=PA423 ]] from the original on 20 April 2023. Retrieved 25 December 2021.
+
+[[ ^14 ]]: Garthwaite, Gene R. (2008). [[ //The Persians// | https://books.google.com/books?id=unG8_JqzYQQC&pg=PA50 ]]. John Wiley & Sons. p. 50. ISBN [[ 978-1405144001 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1405144001 ]]. [[ Archived | https://web.archive.org/web/20230420100921/https://books.google.com/books?id=unG8_JqzYQQC&pg=PA50 ]] from the original on 20 April 2023. Retrieved 19 October 2020.
+
+[[ ^15 ]]: 2002. Guaitoli. M.T., & Rambaldi, S. //Lost Cities from the Ancient World//. White Star, spa. (2006 version published by Barnes & Noble. Darius I founded Persepolis in 500 BC as the residence and ceremonial center of his dynasty. p. 164
+
+[[ ^16 ]]: [[ "Persepolis" | https://www.britannica.com/place/Persepolis ]]. //Encyclopædia Britannica//. [[ Archived | https://web.archive.org/web/20210410060736/https://www.britannica.com/place/Persepolis ]] from the original on 10 April 2021. Retrieved 16 October 2017.
+
+[[ ^17 ]]: [[ "Persepolis" | https://www.worldhistory.org/persepolis/ ]]. //[[ World History Encyclopedia ]]//. [[ Archived | https://web.archive.org/web/20210417123147/https://www.worldhistory.org/persepolis/ ]] from the original on 17 April 2021. Retrieved 16 February 2021.
+
+[[ ^18 ]]: [[ "Persepolis" | https://web.archive.org/web/20150205211047/http://www.toiran.com/en/directory/shiraz-persepolis-339 ]]. //toiran.com//. Archived from [[ the original | http://www.toiran.com/en/directory/shiraz-persepolis-339 ]] on 5 February 2015. Retrieved 2 January 2015.
+
+[[ ^19 ]]: Sachau, C. Edward (2004). //The Chronology of Ancient Nations//. Kessinger Publishing. p. 484. ISBN [[ 978-0-7661-8908-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-7661-8908-9 ]]. p. 127
+
+[[ ^20 ]]: Mark, Joshua J. [[ "Alexander the Great & the Burning of Persepolis" | https://www.worldhistory.org/article/214/alexander-the-great--the-burning-of-persepolis/ ]] Archived 22 April 2021 at the [[ Wayback Machine ]], 2018, //[[ World History Encyclopedia ]]//
+
+[[ ^21 ]]: Anonimo (1974). "Al-Beruni and Persepolis". //Acta Iranica//. !!1!!. Leiden: Peeters Publishers: 137–150. ISBN [[ 978-90-04-03900-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-90-04-03900-1 ]].``\{{cite journal}}``:  CS1 maint: periodical has ISBN ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_periodical_has_ISBN ]])
+
+[[ ^22 ]]: Wiesehöfer 10–11.
+
+[[ ^23 ]]: Henkelman 2008:Ch 2.
+
+[[ ^24 ]]: [[ "Persepolis" | http://www.wondermondo.com/Countries/As/Iran/Fars/Persepolis.htm ]]. Wondermondo. 13 February 2012. [[ Archived | https://web.archive.org/web/20180528064826/http://www.wondermondo.com/Countries/As/Iran/Fars/Persepolis.htm ]] from the original on 28 May 2018. Retrieved 13 February 2012.
+
+[[ ^25 ]]: Streck, M.; Miles, G.C. (2012). [[ "Iṣṭak̲h̲r" | https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/*-SIM_3672 ]]. In [[ P. Bearman | peri-bearman ]]; [[ Th. Bianquis | thierry-bianquis ]]; [[ C.E. Bosworth | clifford-edmund-bosworth ]]; [[ E. van Donzel | emeri-johannes-van-donzel ]]; [[ W.P. Heinrichs | wolfhart-heinrichs ]] (eds.). //The Encyclopedia of Islam, Second Edition//. Brill Online.
+
+[[ ^26 ]]: Mousavi, Ali (2012). [[ //Persepolis: Discovery and Afterlife of a World Wonder// | https://books.google.com/books?id=KorZMqmTOJgC&q=persepolis%20afterlife&pg=PA95 ]]. Walter de Gruyter. ISBN [[ 978-1614510338 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1614510338 ]]. [[ Archived | https://web.archive.org/web/20230420100925/https://books.google.com/books?id=KorZMqmTOJgC&q=persepolis%20afterlife&pg=PA95 ]] from the original on 20 April 2023. Retrieved 19 October 2020.
+
+[[ ^27 ]]: [[ Murray, Hugh | hugh-murray-geographer ]] (1820). [[ //Historical account of discoveries and travels in Asia// | https://archive.org/details/bub_gb_LP4vAAAAYAAJ ]]. Edinburgh: A. Constable and Co. p. [[ 15 | https://archive.org/details/bub_gb_LP4vAAAAYAAJ/page/n23 ]].
+
+[[ ^28 ]]: [[ "Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, by Richard Hakluyt : chapter11" | https://web.archive.org/web/20190703223548/https://ebooks.adelaide.edu.au/h/hakluyt/voyages/v04/chapter11.html ]]. //ebooks.adelaide.edu.au//. Archived from [[ the original | http://ebooks.adelaide.edu.au/h/hakluyt/voyages/v04/chapter11.html ]] on 3 July 2019. Retrieved 3 July 2019.
+
+[[ ^29 ]]: Tuplin, Christopher (2007). [[ //Persian Responses: Political and Cultural Interaction with(in) the Achaemenid Empire// | https://books.google.com/books?id=cwFPDgAAQBAJ&q=persian+responses&pg=PR3 ]]. ISD LLC. ISBN [[ 978-1910589465 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1910589465 ]]. [[ Archived | https://web.archive.org/web/20230420100925/https://books.google.com/books?id=cwFPDgAAQBAJ&q=persian+responses&pg=PR3 ]] from the original on 20 April 2023. Retrieved 19 October 2020.
+
+[[ ^30 ]]: Gouveia, António de (1611). //Relaçam em que se tratam as Guerras e Grandes Victorias que alcançou o grande Rei da Persia Xá Abbas do grão Turco Mahometto, e seu filho Amethe: as quais resultaram das Embaixadas, que por mando da Catholica e Real Magestade del Rei D. Felippe segundo de Portugal fizeram alguns Religiosos da ordem dos Ermitas de S. Augustinho à Persia//. Lisboa: Pedro Crasbeeck. pp. 31–32.
+
+[[ ^31 ]]: C. Wade Meade (1974). [[ //Road to Babylon: Development of U.S. Assyriology// | https://books.google.com/books?id=iuAUAAAAIAAJ&q=Garc%C3%ADa+de+Silva+Figueroa+persepolis&pg=PA5 ]]. Brill Archive. pp. 5–7. ISBN [[ 978-9004038585 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-9004038585 ]]. [[ Archived | https://web.archive.org/web/20230420100918/https://books.google.com/books?id=iuAUAAAAIAAJ&q=Garc%C3%ADa+de+Silva+Figueroa+persepolis&pg=PA5 ]] from the original on 20 April 2023. Retrieved 19 October 2020.
+
+[[ ^32 ]]: M. H. Aminisam (2007). [[ //تخت جمشيد (Persepolis)// | https://books.google.com/books?id=LrS6d-vvCcUC&q=Pietro+della+Valle+persepolis&pg=PA80 ]]. AuthorHouse. pp. 79–81. ISBN [[ 978-1463462529 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1463462529 ]]. [[ Archived | https://web.archive.org/web/20230420100920/https://books.google.com/books?id=LrS6d-vvCcUC&q=Pietro+della+Valle+persepolis&pg=PA80 ]] from the original on 20 April 2023. Retrieved 19 October 2020.
+
+[[ ^33 ]]: Ali Mousavi (2012). [[ //Persepolis: Discovery and Afterlife of a World Wonder// | https://books.google.com/books?id=p585AgAAQBAJ&q=Cornelis+de+Bruijn+persepolis&pg=PA106 ]]. Walter de Gruyter. pp. 104–107. ISBN [[ 978-1614510284 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1614510284 ]]. [[ Archived | https://web.archive.org/web/20230420100926/https://books.google.com/books?id=p585AgAAQBAJ&q=Cornelis+de+Bruijn+persepolis&pg=PA106 ]] from the original on 20 April 2023. Retrieved 19 October 2020.
+
+[[ ^34 ]]: Ali Mousavi, Persepolis in Retrospect: Histories of Discovery and Archaeological Exploration at the ruins of ancient Passch, Ars Orientalis, vol. 32, pp. 209–251, 2002
+
+[[ ^35 ]]: [[ "Godard, André – Encyclopaedia Iranica" | http://www.iranicaonline.org/articles/godard ]]. //iranicaonline.org//. [[ Archived | https://web.archive.org/web/20130225064721/http://www.iranicaonline.org/articles/godard ]] from the original on 25 February 2013. Retrieved 3 July 2019.
+
+[[ ^36 ]]: [[ http://oi.uchicago.edu/pdf/saoc5.pdf | http://oi.uchicago.edu/pdf/saoc5.pdf ]] Archived 5 February 2011 at the [[ Wayback Machine ]] Ernst E Herzfeld, //A New Inscription of Xerxes from Persepolis//, //Studies in Ancient Oriental Civilization,// vol. 5, 1932
+
+[[ ^37 ]]: [[ http://oi.uchicago.edu/pdf/oip68.pdf | http://oi.uchicago.edu/pdf/oip68.pdf ]] Archived 5 February 2011 at the [[ Wayback Machine ]] Erich F Schmidt, //Persepolis I: Structures, Reliefs, Inscriptions//, Oriental Institute Publications, vol. 68, 1953
+
+[[ ^38 ]]: [[ http://oi.uchicago.edu/pdf/oip69.pdf | http://oi.uchicago.edu/pdf/oip69.pdf ]] Archived 5 February 2011 at the [[ Wayback Machine ]] Erich F Schmidt, //Persepolis II: Contents of the Treasury and Other Discoveries,// Oriental Institute Publications, vol. 69, 1957
+
+[[ ^39 ]]: [[ http://oi.uchicago.edu/pdf/oip70.pdf | http://oi.uchicago.edu/pdf/oip70.pdf ]] Archived 5 February 2011 at the [[ Wayback Machine ]] Erich F Schmidt, //Persepolis III: The Royal Tombs and Other Monuments//, Oriental Institute Publications, vol. 70, 1970
+
+[[ ^40 ]]: [[ http://oi.uchicago.edu/pdf/oic21.pdf | http://oi.uchicago.edu/pdf/oic21.pdf ]] Archived 5 February 2011 at the [[ Wayback Machine ]] Erich F Schmidt, //The Treasury of Persepolis and Other Discoveries in the Homeland of the Achaemenians//, Oriental Institute Communications, vol. 21, 1939
+
+[[ ^41 ]]: [[ Roaf, Michael | michael-roaf ]]; Boardman, John (1980). [[ "A Greek painting at Persepolis" | https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/div-classtitlea-greek-painting-at-persepolisdiv/434BDDF27731A3F6A1DF0874C1CBAA41 ]]. //The Journal of Hellenic Studies//. !!100!!: 204–206. doi:[[ 10.2307/630751 | https://doi.org/10.2307%2F630751 ]]. JSTOR [[ 630751 | https://www.jstor.org/stable/630751 ]]. S2CID [[ 161864288 | https://api.semanticscholar.org/CorpusID:161864288 ]]. [[ Archived | https://web.archive.org/web/20171016225947/https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/div-classtitlea-greek-painting-at-persepolisdiv/434BDDF27731A3F6A1DF0874C1CBAA41 ]] from the original on 16 October 2017. Retrieved 16 October 2017.
+
+[[ ^42 ]]: Pierre Briant (2002). [[ //From Cyrus to Alexander: A History of the Persian Empire// | https://books.google.com/books?id=lxQ9W6F1oSYC&q=Persepolis+military+quarter&pg=PA257 ]]. Eisenbrauns. pp. 256–258. ISBN [[ 978-1575061207 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1575061207 ]]. [[ Archived | https://web.archive.org/web/20230420100932/https://books.google.com/books?id=lxQ9W6F1oSYC&q=Persepolis+military+quarter&pg=PA257 ]] from the original on 20 April 2023. Retrieved 19 October 2020.
+
+[[ ^43 ]]: [[ "Tol-e Ajori – Iran Gazetteer" | https://irangazetteer.ucla.edu/catalogue/tol-e-ajori/ ]]. Retrieved 12 August 2026.
+
+[[ ^44 ]]: Chaverdi, Alireaza & Callieri, Pierfrancesco & Matin, Emad. (2016). Tol-e Ajori: a Monumental Gate of the Early Achaemenian period in the Persepolis Area. The 2014 excavation season of the Iranian-Italian project ‘‘From Palace to Town’’, with an appendix by Gian Pietro Basello, A fragment of another inscribed glazed brick from Tol-e Ajori//. Archaologische Mitteilungen aus Iran und Turan//. 46. 223-254.
+
+[[ ^45 ]]: R. W. Ferrier. //The Arts of Persia//. page 39, image 21
+
+[[ ^b ]]: Eternally fighting bull (personifying the moon), and a lion (personifying the sun) representing the spring.
+
+[[ ^46 ]]: Penelope Hobhouse (2004). [[ //The Gardens of Persia// | https://books.google.com/books?id=AMFRyiAxZ6YC&q=apadana+is+ayvan+in+achaemenid&pg=PA177 ]]. Kales Press. pp. 177–178. ISBN [[ 978-0967007663 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0967007663 ]]. [[ Archived | https://web.archive.org/web/20230420100929/https://books.google.com/books?id=AMFRyiAxZ6YC&q=apadana+is+ayvan+in+achaemenid&pg=PA177 ]] from the original on 20 April 2023. Retrieved 19 October 2020.
+
+[[ ^47 ]]: Wright, H. C. (1981). "Ancient Burials of Metal Documents in Stone Boxes: Their Implications for Library History." //The Journal of Library History// (1974), 16(1), 48–70.
+
+[[ ^48 ]]: Zournatzi, Antigoni (2003). "The Apadana Coin Hoards, Darius I, and the West". //American Journal of Numismatics//. !!15!!: 1–28. JSTOR [[ 43580364 | https://www.jstor.org/stable/43580364 ]].
+
+[[ ^49 ]]: [[ //Persepolis: discovery and afterlife of a world wonder// | https://archive.org/details/persepolis_discovery_and_afterlife_of_a_world_wonder ]]. 2012. pp. [[ 171 | https://archive.org/details/persepolis_discovery_and_afterlife_of_a_world_wonder/page/n195 ]]–181.
+
+[[ ^50 ]]: [[ //DPh – Livius// | https://www.livius.org/sources/content/achaemenid-royal-inscriptions/dph/ ]]. [[ Archived | https://web.archive.org/web/20210411130103/https://www.livius.org/sources/content/achaemenid-royal-inscriptions/dph/ ]] from the original on 11 April 2021. Retrieved 26 March 2020.
+
+[[ ^51 ]]: [[ DPh inscription | https://www.livius.org/sources/content/achaemenid-royal-inscriptions/dph/? ]] [[ Archived | https://web.archive.org/web/20210411130103/https://www.livius.org/sources/content/achaemenid-royal-inscriptions/dph/ ]] 11 April 2021 at the [[ Wayback Machine ]], also [[ Photographs of one of the gold plaques | https://ldsmag.com/the-gold-plates-of-king-darius/ ]] [[ Archived | https://web.archive.org/web/20210411130110/https://ldsmag.com/the-gold-plates-of-king-darius/ ]] 11 April 2021 at the [[ Wayback Machine ]]
+
+[[ ^52 ]]: Fisher, William Bayne; Gershevitch, I.; Boyle, John Andrew; Yarshater, Ehsan; Frye, Richard Nelson (1968). [[ //The Cambridge History of Iran// | https://books.google.com/books?id=BBbyr932QdYC&pg=PA618 ]]. Cambridge University Press. p. 617. ISBN [[ 978-0521200912 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0521200912 ]]. [[ Archived | https://web.archive.org/web/20230420100934/https://books.google.com/books?id=BBbyr932QdYC&pg=PA618 ]] from the original on 20 April 2023. Retrieved 20 November 2018.
+
+[[ ^53 ]]: [[ "Oriental Institute Highlights" | https://web.archive.org/web/20110614052155/http://oi.uchicago.edu/museum/highlights/animals.html ]]. Oi.uchicago.edu. 19 February 2007. Archived from [[ the original | http://oi.uchicago.edu/museum/highlights/animals.html ]] on 14 June 2011. Retrieved 30 December 2012.
+
+[[ ^54 ]]: [[ "British Museum collection" | https://www.britishmuseum.org/collection/object/W_1974-1210-1 ]]. //The British Museum//. [[ Archived | https://web.archive.org/web/20210418091750/https://www.britishmuseum.org/collection/object/W_1974-1210-1 ]] from the original on 18 April 2021. Retrieved 3 November 2020.
+
+[[ ^55 ]]: Hobhouse, Penelope (2004). [[ //The Gardens of Persia// | https://books.google.com/books?id=AMFRyiAxZ6YC ]]. Kales Press. ISBN [[ 978-0-9670076-6-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-9670076-6-3 ]].
+
+[[ ^56 ]]: Mousavi, Ali (19 April 2012). [[ //Persepolis: Discovery and Afterlife of a World Wonder// | https://books.google.com/books?id=KorZMqmTOJgC ]]. Walter de Gruyter. ISBN [[ 978-1-61451-033-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61451-033-8 ]].
+
+[[ ^57 ]]: Potts, Daniel T (2012). [[ //A Companion to the Archaeology of the Ancient Near East// | https://books.google.com/books?id=7lK6l7oF_ccC&pg=PA956 ]]. John Wiley & Sons. ISBN [[ 978-1405189880 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1405189880 ]]. [[ Archived | https://web.archive.org/web/20230420100920/https://books.google.com/books?id=7lK6l7oF_ccC&pg=PA956 ]] from the original on 20 April 2023. Retrieved 19 October 2020.
+
+[[ ^58 ]]: [[ "XPc – Livius" | https://www.livius.org/sources/content/achaemenid-royal-inscriptions/xpc/ ]]. //livius.org//. [[ Archived | https://web.archive.org/web/20210418091752/https://www.livius.org/sources/content/achaemenid-royal-inscriptions/xpc/ ]] from the original on 18 April 2021. Retrieved 26 March 2020.
+
+[[ ^c ]]: Known as XPc (Xerxes Persepolis c), from the portico of the [[ Tachara ]].
+
+[[ ^59 ]]: Amini, Hassan (8 October 2023). [[ "Decadence and Downfall: The World's Most Expensive Party" | https://www.youtube.com/watch?v=ymq6BAd3amg ]]. BBC. Retrieved 12 December 2023.
+
+[[ ^60 ]]: [[ "Iranian Singer Alireza Ghorbani Mesmerizes Audience During Concert at Historic Persepolis" | https://ifpnews.com/iranian-singer-alireza-ghorbani-concert-persepolis/ ]]. //Iran Front Page//. 2 July 2024. Retrieved 4 July 2024.
+
+[[ ^61 ]]: [[ "Alireza Ghorbani's concert at Persepolis extended" | https://www.tehrantimes.com/news/500641/Alireza-Ghorbani-s-concert-at-Persepolis-extended ]]. //Tehran Times//. 3 July 2024. Retrieved 4 July 2024.
+
+[[ ^62 ]]: [[ "کنسرت علیرضا قربانی در تخت جمشید شیراز" | https://www.isna.ir/photo/1403041207676/%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%AE%D8%AA-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2 ]]. //ایسنا// (in Persian). 1 July 2024. Retrieved 4 July 2024.
+
+[[ ^63 ]]: [[ "کنسرت ارکستر فیلارمونیک ارمنستان در تخت جمشید - تسنیم" | https://web.archive.org/web/20251009074343/https://www.tasnimnews.com/fa/news/1404/06/14/3392284/%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%D8%A7%D8%B1%DA%A9%D8%B3%D8%AA%D8%B1-%D9%81%DB%8C%D9%84%D8%A7%D8%B1%D9%85%D9%88%D9%86%DB%8C%DA%A9-%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%AE%D8%AA-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF ]]. //خبرگزاری تسنیم | Tasnim// (in Persian). Archived from [[ the original | https://www.tasnimnews.com/fa/news/1404/06/14/3392284/%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%D8%A7%D8%B1%DA%A9%D8%B3%D8%AA%D8%B1-%D9%81%DB%8C%D9%84%D8%A7%D8%B1%D9%85%D9%88%D9%86%DB%8C%DA%A9-%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%AE%D8%AA-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF ]] on 9 October 2025. Retrieved 28 November 2025.
+
+[[ ^64 ]]: YJC, باشگاه خبرنگاران جوان | آخرین اخبار ایران و جهان | (4 September 2025). [[ "نوای ارمنی در پارسه/کنسرت ارمنستان در تخت جمشید با حضور دیپلمات‌های ۲۳ کشور" | https://www.yjc.ir/fa/news/8997387/%D9%86%D9%88%D8%A7%DB%8C-%D8%A7%D8%B1%D9%85%D9%86%DB%8C-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D8%B3%D9%87%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%AE%D8%AA-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF-%D8%A8%D8%A7-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C-%DB%B2%DB%B3-%DA%A9%D8%B4%D9%88%D8%B1 ]]. //fa// (in Persian). Retrieved 28 November 2025.
+
+[[ ^65 ]]: [[ "کنسرت ارکستر فیلارمونیک ارمنستان در تخت‌جمشید پیام روشن صلح و گفت‌وگوی تمدنی را منتقل می‌کند/ دیپلماسی فرهنگی می‌تواند درها و راه‌های همکاری بیشتر را باز کند + فیلم" | https://www.chtn.ir/news/1404061300896/%DA%A9%D9%86%D8%B3%D8%B1%D8%AA-%D8%A7%D8%B1%DA%A9%D8%B3%D8%AA%D8%B1-%D9%81%DB%8C%D9%84%D8%A7%D8%B1%D9%85%D9%88%D9%86%DB%8C%DA%A9-%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%AE%D8%AA-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF-%D9%BE%DB%8C%D8%A7%D9%85-%D8%B1%D9%88%D8%B4%D9%86-%D8%B5%D9%84%D8%AD-%D9%88 ]]. //خبرگزاری میراث آریا// (in Persian). 5 September 2025. Retrieved 28 November 2025.
+
+[[ ^66 ]]: [[ "دیپلماسی فرهنگی، دیپلماسی مذهبی و نمونه‌های جهانی" | https://www.chtn.ir/news/1404061501035/%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D9%85%D8%B0%D9%87%D8%A8%DB%8C-%D9%88-%D9%86%D9%85%D9%88%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C ]]. //خبرگزاری میراث آریا// (in Persian). 6 September 2025. Retrieved 28 November 2025.
+
+[[ ^67 ]]: [[ "۱۰ هزار مسافر نوروزی لحظه تحویل سال را در تخت جمشید جشن گرفتند" | https://www.mehrnews.com/news/6059441/%DB%B1%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%D8%B3%D8%A7%D9%81%D8%B1-%D9%86%D9%88%D8%B1%D9%88%D8%B2%DB%8C-%D9%84%D8%AD%D8%B8%D9%87-%D8%AA%D8%AD%D9%88%DB%8C%D9%84-%D8%B3%D8%A7%D9%84-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%AA%D8%AE%D8%AA-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF-%D8%AC%D8%B4%D9%86-%DA%AF%D8%B1%D9%81%D8%AA%D9%86%D8%AF ]]. //خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency// (in Persian). 20 March 2024. Retrieved 30 April 2024.
+
+[[ ^68 ]]: [[ "Hafez, Sa'di mausoleums, Persepolis among most visited in Nowruz" | https://en.irna.ir/news/85066736/Hafez-Sa-di-mausoleums-Persepolis-among-most-visited-in-Nowruz ]]. Islamic Republic News Agency. 30 May 2024.
+
+[[ ^69 ]]: [[ "جشنواره شاهنامه‌خوانی در تخت جمشید برگزار می‌شود" | https://www.mehrnews.com/news/6053407/%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%B4%D8%A7%D9%87%D9%86%D8%A7%D9%85%D9%87-%D8%AE%D9%88%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%AE%D8%AA-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF ]]. //Mehr News Agency// (in Persian). 12 March 2024. Retrieved 30 April 2024.
+
+[[ ^70 ]]: [[ "(تصاویر) بازدید هیئت فرهنگی چین از تخت جمشید" | https://fararu.com/fa/news/387167/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B2%D8%AF%DB%8C%D8%AF-%D9%87%DB%8C%D8%A6%D8%AA-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-%DA%86%DB%8C%D9%86-%D8%A7%D8%B2-%D8%AA%D8%AE%D8%AA-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF ]]. //Fararu//. 30 May 2025.
+
+[[ ^71 ]]: [[ "The stone-eaters that threaten Iran's ancient Persepolis" | https://www.france24.com/en/live-news/20240916-the-stone-eaters-that-threaten-iran-s-ancient-persepolis ]]. //France 24//. 16 September 2024. Retrieved 16 September 2024.
+
+[[ ^72 ]]: Vidal, John (23 December 2004). [[ "Dam is threat to Iran's heritage" | https://www.theguardian.com/world/2004/dec/23/iran.artsnews ]]. //The Guardian//. [[ Archived | https://web.archive.org/web/20210410061014/https://www.theguardian.com/world/2004/dec/23/iran.artsnews ]] from the original on 10 April 2021. Retrieved 10 June 2018.
+
+[[ ^73 ]]: Esfandiari, Golnaz. [[ "Iran: Activists Say New Dam Threatens Ancient Historical Sites" | https://www.rferl.org/a/1072690.html ]]. //Radiofreeeurope/Radioliberty//. Retrieved 12 December 2023.
+
+[[ ^74 ]]: A Persepolis Relief in the Fitzwilliam Museum, Cambridge. Richard Nicholls and Michael Roaf. Iran, Vol. 15, (1977), pp. 146–152. Published by: British Institute of Persian Studies.
+
+[[ ^75 ]]: Allen, Lindsay (1 January 2013). ""Come Then Ye Classic Thieves of Each Degree": The Social Context of the Persepolis Diaspora in the Early Nineteenth Century". //Iran//. !!51!! (1): 207–234. doi:[[ 10.1080/05786967.2013.11834730 | https://doi.org/10.1080%2F05786967.2013.11834730 ]]. ISSN [[ 0578-6967 | https://search.worldcat.org/issn/0578-6967 ]]. S2CID [[ 193984848 | https://api.semanticscholar.org/CorpusID:193984848 ]].
+
+[[ ^76 ]]: Harper, Prudence O., Barbara A. Porter, Oscar White Muscarella, Holly Pittman, and Ira Spar. "Ancient Near Eastern Art." The [[ Metropolitan Museum of Art ]] Bulletin, v. 41, no. 4 (Spring, 1984).
+
+[[ ^77 ]]: [[ "Relief – B10301 \| Collections – Penn Museum" | https://www.penn.museum/collections/object/258882 ]]. //penn.museum//. [[ Archived | https://web.archive.org/web/20200215230221/https://www.penn.museum/collections/object/258882 ]] from the original on 15 February 2020. Retrieved 8 September 2020.
+
+[[ ^78 ]]: [[ "Découvrir les collections" | https://www.mba-lyon.fr/fr/collection-home/decouvrir-les-collections ]]. //Musée des Beaux Arts Lyon//. [[ Archived | https://web.archive.org/web/20200924040940/https://www.mba-lyon.fr/fr/collection-home/decouvrir-les-collections ]] from the original on 24 September 2020. Retrieved 8 September 2020.
+
+[[ ^79 ]]: Mashberg, Tom (23 July 2018). [[ "Judge Orders Return of Ancient Limestone Relief to Iran" | https://www.nytimes.com/2018/07/23/arts/design/judge-orders-return-of-ancient-limestone-relief-to-iran.html ]]. //The New York Times//. ISSN [[ 0362-4331 | https://search.worldcat.org/issn/0362-4331 ]]. [[ Archived | https://web.archive.org/web/20210410061057/https://www.nytimes.com/2018/07/23/arts/design/judge-orders-return-of-ancient-limestone-relief-to-iran.html ]] from the original on 10 April 2021. Retrieved 3 July 2019.
+
+[[ ^80 ]]: [[ Everyday Text Shows That Old Persian Was Probably More Commonly Used Than Previously Thought | https://www.sciencedaily.com/releases/2007/06/070619100108.htm ]] //sciencedaily.com//
