@@ -11,7 +11,8 @@
   "scripts": {
     "dev": "node bin/mdy-wikipedia-web.js",
     "build": "vite build",
-    "test": "node --test test/*.test.js"
+    "test": "node --test test/*.test.js",
+    "serve": "node pipeline/serve.mjs dist"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",

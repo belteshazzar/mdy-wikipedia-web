@@ -105,11 +105,22 @@ nothing else.
 
 ```sh
 node third-party/mdy-docs/bin/mdy.js build site --out dist
-node third-party/mdy-docs/bin/mdy.js dev site        # watch + live reload
+npm run serve                                  # → http://localhost:4500/
+npm run serve -- dist 4501                     # somewhere else
+
+node third-party/mdy-docs/bin/mdy.js dev site  # watch + live reload
 
 node pipeline/shot.mjs dist "/=out.png" "/babylon/=b.png=1500"
 SCHEME=dark node pipeline/shot.mjs dist "/=dark.png"
 ```
+
+`npm run serve` exists because the pages use absolute paths, so opening
+`dist/index.html` over `file://` resolves `/style.css` and `/babylon/` against
+the filesystem root and gives an unstyled page with no search. mdy's own `dev`
+server is the one to use when changing layouts — it watches and live-reloads —
+but it does a full build first, which is twelve minutes at this corpus size.
+`serve.mjs` starts instantly and `shot.mjs` uses the same implementation, so
+what you read and what gets photographed are served identically.
 
 `shot.mjs` serves a built site and photographs it — whole pages, a scroll
 offset, or either theme. A layout is not finished until it has been looked at.

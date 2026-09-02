@@ -1,22 +1,11 @@
 /** Look at a built page, at a real width, the way a reader would. */
 import {chromium} from 'playwright'
-import {createServer} from 'node:http'
-import {readFile} from 'node:fs/promises'
-import {join, extname} from 'node:path'
+import {createStatic} from './serve.mjs'
 
 const dist = process.argv[2]
 const pages = process.argv.slice(3)
-const types = {'.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.png': 'image/png', '.jpg': 'image/jpeg', '.svg': 'image/svg+xml'}
+const server = createStatic(dist)
 
-const server = createServer(async (req, res) => {
-  let path = decodeURIComponent(req.url.split('?')[0])
-  if (path.endsWith('/')) path += 'index.html'
-  try {
-    const body = await readFile(join(dist, path))
-    res.writeHead(200, {'content-type': types[extname(path)] ?? 'application/octet-stream'})
-    res.end(body)
-  } catch { res.writeHead(404); res.end('not found') }
-})
 await new Promise((r) => server.listen(4455, r))
 
 const browser = await chromium.launch()
