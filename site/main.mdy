@@ -46,240 +46,41 @@ baseURL: https://example.invalid
 %
 % const slugOf = function (path) { return path.slice("corpus/en/".length, -".mdy".length) }
 %
-% // One value out of a Wikidata claim, which is a string, a dated record, or a
-% // list of either. `even()` in the importer guarantees a property is one
-% // shape throughout, so asking once per property is enough.
-% const claimValue = function (claim) {
-%   const one = Array.isArray(claim) ? claim[0] : claim
-%   if (one === undefined || one === null) return undefined
-%   return typeof one === "object" ? one.value : one
-% }
-%
-% // Wikidata answers with a label in the wiki's language and falls back to
-% // whatever it has when there is none — with nothing in the record to say
-% // which happened. The Rosetta Stone is an `instance-of`
-% // [Überrest, bilingual inscription, stele], and taking the first of those
-% // put a German word at the top of the page. Where a property offers several
-% // values, prefer one that reads as English; the fallbacks are the ones
-% // carrying letters English does not use.
-% const english = /^[\x20-\x7E]+$/
-% const bestValue = function (claim) {
-%   if (!Array.isArray(claim)) return claimValue(claim)
-%   for (const item of claim) {
-%     const value = typeof item === "object" ? item.value : item
-%     if (typeof value === "string" && english.test(value)) return value
-%   }
-%   return claimValue(claim)
-% }
-%
-% const claimList = function (claim) {
-%   if (claim === undefined || claim === null) return []
-%   return Array.isArray(claim) ? claim : [claim]
-% }
-%
-% // A picture at the width the layout will actually show it at, from Commons'
-% // thumbnailer via the manifest — never the 250px sidebar thumbnail the
-% // import recorded, and never wider than the file really is.
-% const pick = function (image, want) {
-%   const record = rights[image.file]
-%   if (!record) return undefined
-%   const sizes = record.sizes || {}
-%   const widths = ["1920", "1280", "960", "500", "330"]
-%   let chosen
-%   for (const w of widths) {
-%     if (sizes[w] && Number(w) >= want) chosen = sizes[w]
-%   }
-%   if (!chosen) { for (const w of widths) { if (!chosen && sizes[w]) chosen = sizes[w] } }
-%   if (!chosen) return undefined
-%   return {
-%     src: chosen,
-%     alt: image.caption ? String(image.caption).slice(0, 180) : "",
-%     caption: image.caption || "",
-%     width: record.width,
-%     height: record.height,
-%     licence: record.licence,
-%     author: record.author,
-%     page: record["descriptor-url"]
-%   }
-% }
-%
-% // The body keeps its own `<img>` tags, in place, where the article put them —
-% // which the front matter's `images` list duplicates rather than replaces.
-% // Matching the two needs a key both sides spell the same way, and the file
-% // name is not it: the front matter decodes it and a src does not. Everything
-% // before the last slash of a thumbnail URL is the same string in both.
-% const prefixOf = function (src) {
-%   const at = String(src).lastIndexOf("/")
-%   return at === -1 ? String(src) : String(src).slice(0, at)
-% }
-%
-% // The same choice of width, but starting from the manifest rather than from
-% // a front-matter image entry — because an image plan may name a picture the
-% // body shows and the front matter never listed, and 49 of this corpus's
-% // pictures are exactly that.
-% const fromManifest = function (file, want) {
-%   const record = rights[file]
-%   if (!record) return undefined
-%   const sizes = record.sizes || {}
-%   const widths = ["1920", "1280", "960", "500", "330"]
-%   let chosen
-%   for (const w of widths) {
-%     if (sizes[w] && Number(w) >= want) chosen = sizes[w]
-%   }
-%   for (const w of widths) {
-%     if (!chosen && sizes[w]) chosen = sizes[w]
-%   }
-%   if (!chosen) return undefined
-%   return {
-%     src: chosen, alt: "", caption: "",
-%     width: record.width, height: record.height,
-%     licence: record.licence, author: record.author, page: record["descriptor-url"]
-%   }
-% }
-%
-% const creditOf = function (image) {
-%   const who = image.author && image.author !== "unknown" ? image.author + " · " : ""
-%   return who + image.licence
-% }
-%
+% // Phase 1, one article at a time. The work itself is in
+% // layouts/page-facts.mdy — a document, not a loop body, so that each
+% // article's facts can be reused from the last build when that article did
+% // not change. It asks the host for nothing, which is what makes it keepable;
+% // the price of that is this file handing it everything it needs, which is
+% // its own front matter, its rewrite, and the manifest records for its own
+% // pictures. Sending the whole manifest instead would be sending two
+% // megabytes per article, which is the mistake the payload used to make.
 % const pages = []
 %
 % for (const doc of docs) {
 %   const slug = slugOf(doc.path)
-%   const wikidata = doc.wikidata || {}
-%   const claims = wikidata.claims || {}
-%   const infobox = doc.infobox || {}
-%
-%   // Which archetype. A thing with coordinates is somewhere, and being
-%   // somewhere is most of what there is to say about a city or a site.
-%   const isPlace = Boolean(doc.coordinates && doc.coordinates.lat !== undefined)
-%
-%   const kind = infobox.type || bestValue(claims["instance-of"])
-%   const when = claimValue(claims.inception) || (infobox.history && infobox.history.built)
-%   const eyebrowParts = []
-%   if (kind) eyebrowParts.push(kind)
-%   if (when) eyebrowParts.push(when)
-%
-%   // The images, best first: the front matter's own `image` if it named one,
-%   // otherwise the first that survived the rights check.
-%   // `image` in the front matter is the lead image the summary endpoint
-%   // names — the one the article itself leads with. Without it the hero is
-%   // whichever picture happens to come first in the page, which for Babylon
-%   // is a satellite photograph of the modern site.
-%   // Matched on the encoded last segment rather than the decoded file name:
-%   // the VM has no `decodeURIComponent`, and it does not need one — every
-%   // image's own `src` is a thumbnail of the same file and carries the same
-%   // encoded segment inside it.
-%   let leadSegment
-%   if (doc.image) {
-%     const parts = String(doc.image).split("/")
-%     leadSegment = parts[parts.length - 1]
-%   }
-%   // A map is not a hero. Until something has read the article and said which
-%   // picture it opens on — which is exactly what phase 2's image plan is for —
-%   // a photograph beats a diagram, and the article's own lead image beats
-%   // both. Babylon's lead image really is a satellite photograph of the
-%   // modern site, so this does not save every page; it saves a good many.
-%   const flat = /(^|[ _])(map|plan|diagram|chart|timeline|graph|tree|scheme)([ _.]|$)/i
-%   const ordered = []
-%   const later = []
-%   for (const image of doc.images || []) {
-%     const isLead = leadSegment && image.src && String(image.src).indexOf(leadSegment) !== -1
-%     const isFlat = flat.test(String(image.file || "")) || flat.test(String(image.caption || ""))
-%     if (isLead) ordered.unshift(image)
-%     else if (isFlat) later.push(image)
-%     else ordered.push(image)
-%   }
-%   for (const image of later) ordered.push(image)
-%   const usable = []
-%   const byPrefix = {}
-%   const byFile = {}
-%   for (const image of ordered) {
-%     const found = pick(image, 1280)
-%     if (!found) continue
-%     usable.push(found)
-%     const inline = pick(image, 960)
-%     if (inline) byFile[image.file] = inline
-%     if (image.src && inline) {
-%       byPrefix[prefixOf(image.src)] = {
-%         src: inline.src, credit: creditOf(inline), width: inline.width, height: inline.height
-%       }
-%     }
-%   }
-%   const hero = usable.length ? usable[0] : undefined
-%
-%   // No plate section. The body keeps every image where the article put it —
-%   // 529 of this corpus's 536 front-matter images are already in the prose,
-%   // and the seven that are not are infobox images, which is the hero. The
-%   // front matter's list is a duplicate of the body's, not a replacement for
-%   // it, and gathering it at the end was answering a question nobody asked.
-%
-%   // An infobox is a record of nested groups. Only its scalars make an object
-%   // label; the groups are where a reader would drown.
-%   const facts = []
-%   for (const name of Object.keys(infobox)) {
-%     const value = infobox[name]
-%     if (typeof value === "object") continue
-%     if (facts.length >= 8) continue
-%     facts.push({ name: String(name).replace(/-/g, " "), value: value })
-%   }
-%
-%   // Who held it, and when. Twelve `country` statements flattened would say
-%   // the place is in twelve countries; with the years each held for they are
-%   // three thousand years of rule.
-%   const held = []
-%   for (const statement of claimList(claims.country)) {
-%     if (typeof statement !== "object" || !statement.value) continue
-%     // Wikidata writes `911 BC` and, for a year after it, a bare `226`. Side
-%     // by side in the same column that reads as a typo rather than as an era,
-%     // so the ones without a marker get the one they mean.
-%     const era = function (year) {
-%       const value = String(year)
-%       return /^\d{1,4}$/.test(value) ? value + " AD" : value
-%     }
-%     const from = statement.from ? era(statement.from) : ""
-%     const to = statement.to ? era(statement.to) : ""
-%     const span = from && to ? from + " – " + to : from || to
-%     if (!span) continue
-%     held.push({ when: span, what: statement.value })
-%   }
-%
 %   const edited = rewrites[slug]
 %
-%   // The image plan, resolved. A rewritten body carries no `<img>` of its
-%   // own — the prose was rewritten, the markup around it was not — so
-%   // without this a rewritten page shows its hero and no figures at all,
-%   // which is worse than the import it replaced. The plan says which
-%   // picture opens the page, which section each of the rest belongs in,
-%   // what it is for, and what to say under it.
-%   const plan = []
-%   let planned = undefined
-%   for (const entry of (edited && edited["image-plan"]) || []) {
-%     const found = byFile[entry.file] || fromManifest(entry.file, 960)
-%     const isHero = entry.role === "hero" && !planned
-%     if (isHero) planned = found
-%     const place = found && entry.role !== "drop" && !isHero
-%     const caption = place ? (entry.caption || found.caption || "") : ""
-%     if (place) plan.push({
-%       src: found.src,
-%       credit: creditOf(found),
-%       caption: caption,
-%       // An attribute is not parsed as MDY, so alt gets the caption with its
-%       // markup taken off rather than a literal `!!` read out by a screen
-%       // reader. A link keeps its label and loses its target.
-%       alt: String(caption)
-%         .split("//").join("")
-%         .split("!!").join("")
-%         .replace(/\[\[ *\^[^\]]*\]\]/g, "")
-%         .replace(/\[\[ *([^\]|]*?) *\| *[^\]]*\]\]/g, "$1")
-%         .replace(/\[\[ *([^\]]*?) *\]\]/g, "$1")
-%         .trim(),
-%       section: entry.section || "lead",
-%       role: entry.role,
-%       width: found.width,
-%       height: found.height
-%     })
+%   const rightsFor = {}
+%   for (const image of doc.images || []) {
+%     if (image.file && rights[image.file]) rightsFor[image.file] = rights[image.file]
 %   }
+%   for (const entry of (edited && edited["image-plan"]) || []) {
+%     if (entry.file && rights[entry.file]) rightsFor[entry.file] = rights[entry.file]
+%   }
+%
+%   // Only the fields page-facts computes with. `infoboxKeys` is read here,
+%   // where the order is the one the infobox rows have always had — see
+%   // page-facts.mdy; the VM's key order is its own business and does not
+%   // survive being handed across.
+%   const worked = JSON.parse($.text({ path: "layouts/page-facts.mdy" }, {
+%     doc: {
+%       coordinates: doc.coordinates, infobox: doc.infobox, wikidata: doc.wikidata,
+%       images: doc.images, image: doc.image
+%     },
+%     imagePlan: (edited && edited["image-plan"]) || [],
+%     rights: rightsFor,
+%     infoboxKeys: Object.keys(doc.infobox || {})
+%   }))
 %
 %   pages.push({
 %     path: edited ? edited.path : doc.path,
@@ -290,13 +91,13 @@ baseURL: https://example.invalid
 %     slug: slug, url: "/" + slug + "/",
 %     title: doc.title || slug,
 %     description: (edited && edited.standfirst) || doc.description,
-%     eyebrow: eyebrowParts.join(" · "), sections: doc.sections || [],
-%     hero: planned || hero, facts: facts, held: held, plan: plan,
-%     isPlace: isPlace, kind: kind, source: doc.source || {},
+%     eyebrow: worked.eyebrow, sections: doc.sections || [],
+%     hero: worked.hero, facts: worked.facts, held: worked.held, plan: worked.plan,
+%     isPlace: worked.isPlace, kind: worked.kind, source: doc.source || {},
 %     core: Boolean(isCity[slug]),
 %     coordinates: doc.coordinates,
 %     titles: doc["link-titles"] || {},
-%     figures: byPrefix,
+%     figures: worked.figures,
 %     sitelinks: (doc["lang-links"] || []).length
 %   })
 % }
@@ -375,14 +176,19 @@ baseURL: https://example.invalid
 % // A sortable year out of the way a historian writes one. Approximate by
 % // design: "3rd millennium BC" is a thousand years wide and sorts to the
 % // middle of them, which is the only honest place to put it.
+% const RE_BC = /\bB\.?C\.?E?\b/i
+% const RE_MILLENNIUM = /(\d+)(?:st|nd|rd|th)\s+millennium/i
+% const RE_CENTURY = /(\d+)(?:st|nd|rd|th)\s+century/i
+% const RE_WIDE = /(\d{3,4})/
+% const RE_NARROW = /(\d{1,4})/
 % const yearOf = function (text) {
 %   const t = String(text)
-%   const bc = /\bB\.?C\.?E?\b/i.test(t)
-%   const millennium = /(\d+)(?:st|nd|rd|th)\s+millennium/i.exec(t)
-%   const century = /(\d+)(?:st|nd|rd|th)\s+century/i.exec(t)
+%   const bc = RE_BC.test(t)
+%   const millennium = RE_MILLENNIUM.exec(t)
+%   const century = RE_CENTURY.exec(t)
 %   // Three or four digits first: "24 August 394" must not sort as the year 24.
-%   const wide = /(\d{3,4})/.exec(t)
-%   const narrow = /(\d{1,4})/.exec(t)
+%   const wide = RE_WIDE.exec(t)
+%   const narrow = RE_NARROW.exec(t)
 %   let n
 %   if (millennium) n = Number(millennium[1]) * 1000 - 500
 %   else if (century) n = Number(century[1]) * 100 - 50
