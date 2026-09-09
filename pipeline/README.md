@@ -48,6 +48,60 @@ any of this costs nothing and the third is instant.
 - **`check-parse.mjs`** — every document parses and renders.
 - **`audit-images.mjs`** — the licences, and anything still unattributed.
 
+## The queue
+
+Step 1 above answers "which articles" once and by hand. The queue answers it
+standing: `seed.mjs` asks Wikidata for every ancient city it can find, sorts
+the answer with the cuts in `cuts.mjs`, and writes the lot — kept, cut and
+unsortable — into `queue.yaml`. `queue.mjs` reads that back against the disk
+and says what to import next.
+
+```sh
+node pipeline/seed.mjs                 # → pipeline/queue.yaml
+node pipeline/seed.mjs --dry           # what it would say, without writing
+node pipeline/queue.mjs                # what state the queue is in
+node pipeline/queue.mjs unsorted       # the ones only a person can sort
+
+# and round again, ten at a time
+node pipeline/queue.mjs next 10 --wanted > pipeline/next.txt
+node third-party/mdy-wikipedia/bin/mdy-wikipedia.js \
+  --from pipeline/next.txt --out-dir site/corpus/en --links wiki \
+  --categories --lang-links --delay 100 --contact you@example.com
+node pipeline/enrich-images.mjs site/corpus
+node pipeline/rewrite.mjs --emit --body $(node pipeline/queue.mjs pending)
+```
+
+`next` prints titles and `pending` prints slugs, which is the seam rather than
+an inconsistency: the importer is given a Wikipedia title, and everything
+downstream is addressed by the file it wrote. `pending` is also the honest
+answer to "what is left" after an import, because the ten titles just fetched
+are no longer waiting — they are imported and unwritten, which is a different
+question and the one the rewriting pass asks.
+
+**No progress is stored in `queue.yaml`.** `site/corpus/en/ur.mdy` is the fact
+that Ur was imported and `site/edited/en/ur.mdy` the fact that it was
+rewritten, so state is a query over two directories rather than a field
+somebody has to remember to update — the same reasoning as `status.mjs`. The
+only thing in the file a person writes is `rejected`, and a re-seed keeps it.
+
+- **`cuts.mjs`** — which places are cities, which are not, and which nobody can
+  tell. Three cuts and a three-valued answer, all argued in the file: the
+  interesting one is that a place with no settlement class and no monument
+  class is reported as **unsorted** rather than cut, because cutting on that
+  absence costs the corpus Megiddo, Qumran, Skara Brae, Jarmo and Mehrgarh. 76
+  of 395 land there and they are a morning's work for a person.
+- **`seed.mjs`** — the query, the cuts, and the dedupe against what is already
+  imported. A place already in the corpus is never cut by rule: somebody chose
+  it. What the cuts *would* have said about it is reported anyway, under
+  `held against the cuts`, because it is the only measure of how often they are
+  wrong. Three of twenty-four, currently — Alexandria and Tyre are living
+  cities and Carchemish is unclassified.
+- **`queue.mjs`** — the state of the queue, and `next N` as bare titles for
+  `--from`. Two orders that disagree usefully: sitelinks is how much the world
+  cares, `--wanted` is how many documents here already link to it and miss.
+  Constantinople leads the first and the corpus has never asked for it; Ancient
+  Corinth and Der lead the second at six documents each.
+
 ## The rewriting pass
 
 Phase 2. `docs/house-style.md` is the voice and the rules; `document.mjs` holds
@@ -124,3 +178,26 @@ what you read and what gets photographed are served identically.
 
 `shot.mjs` serves a built site and photographs it — whole pages, a scroll
 offset, or either theme. A layout is not finished until it has been looked at.
+
+### Publishing
+
+`.github/workflows/pages.yml` builds the site on every push to `main` and
+publishes it to GitHub Pages. It is not `npm run build`: mdy-docs runs on two
+WASM engines vendored as C source and gitignored in their own repositories, so
+the workflow compiles lamassu and nisaba with emscripten before node can run
+`mdy build` at all — and caches both on the mdy-docs commit that produced them,
+because that is four minutes in front of a fifteen-second build. Nothing is
+fetched: the corpus and the rewrites are committed, and every image is
+hot-linked to Commons.
+
+Project Pages serve at `/<repo>/` and every URL this site writes is absolute —
+`/style.css`, `/babylon/`, the search index's `fetch` — so the site is **built
+for its subpath** rather than moved into one. `base` in `site/build.yaml` is
+that path; the workflow sets it from the repository name before it builds, and
+it is committed empty so a local build stays a root build and `npm run serve`
+is unaffected. Everything downstream follows from it: a page's `url` is the one
+place a slug becomes a path, so the timeline, the glossary, the places chart
+and the search index inherit the base without knowing it exists. The look takes
+it too — `style-antiquity` reads `req.site.base` for the wordmark, the nav and
+the two static assets, and `search.js`, which cannot be templated, is handed it
+as `data-base` on its own script tag.

@@ -1,0 +1,127 @@
+# The site, built and published to GitHub Pages.
+#
+# What makes this more than "npm run build && upload": mdy-docs runs on two
+# WASM engines that are vendored as C source and are NOT in git — lamassu (the
+# script engine `site/main.mdy` runs on) and nisaba (the store the corpus is
+# ingested into). Both are gitignored build products in their own repositories,
+# so a fresh checkout has neither and `mdy build` cannot start. Emscripten is
+# therefore a build dependency here, which is the one thing mdy-docs' own CI
+# manages to avoid — see its native.yml, which commits golden output rather
+# than require an emsdk on three platforms.
+#
+# The corpus does not need fetching. `site/corpus/en/` and `site/edited/en/`
+# are both committed, and every image is hot-linked to Wikimedia Commons rather
+# than served from here, so the build is offline and reproducible: no Wikipedia,
+# no Wikidata, no thumbnailer, no API key.
+#
+# The whole thing is ~15s of `mdy build` behind ~4 minutes of emcc, which is
+# why the two .wasm artifacts are cached on the mdy-docs commit that produced
+# them. A run that hits that cache needs no emsdk at all.
+
+name: pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time, and never cancel one half-done: `cancel-in-progress`
+# on a Pages deploy can leave the site mid-swap.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Recursive: mdy-docs vendors its own engines the same way this
+          # repository vendors mdy-docs, and it is those nested submodules —
+          # lamassu-js, nisaba-db and their own third_party/ — that the emcc
+          # steps below compile.
+          submodules: recursive
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      # The engines are a pure function of the mdy-docs commit — it pins
+      # lamassu-js and nisaba-db, which pin theirs — so that SHA is the key.
+      - name: Identify the engine sources
+        id: engines
+        run: echo "sha=$(git -C third-party/mdy-docs rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Restore the built engines
+        id: wasm
+        uses: actions/cache@v4
+        with:
+          path: |
+            third-party/mdy-docs/third_party/lamassu-js/packages/lamassu-js/dist
+            third-party/mdy-docs/third_party/nisaba-db/wasm/lib
+          key: wasm-${{ runner.os }}-${{ steps.engines.outputs.sha }}
+
+      # Pinned, not `latest`. nisaba-db's committed artifacts were built with
+      # 5.0.7 and its own CI pins the same; a silent toolchain bump is not
+      # something a site deploy should discover.
+      - uses: mymindstorm/setup-emsdk@v14
+        if: steps.wasm.outputs.cache-hit != 'true'
+        with:
+          version: 5.0.7
+          actions-cache-folder: emsdk-cache
+
+      - name: Build lamassu
+        if: steps.wasm.outputs.cache-hit != 'true'
+        run: make -C third-party/mdy-docs/third_party/lamassu-js pkg
+
+      - name: Build nisaba
+        if: steps.wasm.outputs.cache-hit != 'true'
+        run: third-party/mdy-docs/third_party/nisaba-db/wasm/build-wasm.sh
+
+      # `npm install`, not `npm ci`. This package links three siblings by
+      # `file:` path and their versions move whenever a submodule does, which
+      # puts the lockfile out of sync and fails `npm ci` for a reason that has
+      # nothing to do with the site. Registry dependencies still resolve
+      # through the lockfile.
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      # Project Pages serve at /<repo>/, and this site writes absolute URLs, so
+      # it is BUILT for its subpath rather than moved into one. The repository
+      # name is read from the event rather than written here, so renaming the
+      # repository does not silently break every link.
+      #
+      # `base` is a field in site/build.yaml because a script-defined site takes
+      # its flags that way — `mdy build` has no --data. It is committed empty,
+      # so this is the only thing that ever sets it and a local build stays a
+      # root build.
+      - name: Root the site at its Pages path
+        run: |
+          sed -i "s|^base: .*|base: '/${{ github.event.repository.name }}'|" site/build.yaml
+          tail -n 1 site/build.yaml
+
+      - name: Build the site
+        run: node third-party/mdy-docs/bin/mdy.js build site --out dist
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

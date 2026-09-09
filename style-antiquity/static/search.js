@@ -15,13 +15,21 @@
 
   if (!input || !results) return
 
+  // Where the site is rooted. A static file cannot be templated, so the base
+  // arrives on the script tag that loaded this one — `document.currentScript`,
+  // read now because it is only defined while the script is executing. The
+  // result links need no such help: their hrefs are in the index, written by
+  // the build from the same base.
+  var script = document.currentScript
+  var base = (script && script.getAttribute('data-base')) || ''
+
   var index = null
   var loading = null
 
   function load() {
     if (index) return Promise.resolve(index)
     if (!loading) {
-      loading = fetch('/search-index.json')
+      loading = fetch(base + '/search-index.json')
         .then(function (r) { return r.json() })
         .then(function (data) { index = data; return index })
         .catch(function () { index = []; return index })

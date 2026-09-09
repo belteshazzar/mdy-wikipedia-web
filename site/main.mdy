@@ -23,6 +23,18 @@ baseURL: https://example.invalid
 % // explained. A deity and a city are both just documents otherwise.
 % const options = $.findOne({ path: "build.yaml" }) || {}
 %
+% // Where the site is rooted. Every absolute URL below is written from this,
+% // and a page's `url` is the one place a slug becomes a path — so the
+% // timeline, the glossary, the places chart and the search index all follow
+% // from it without knowing it exists. A trailing slash is trimmed so that
+% // `base + "/" + slug` is the same shape whether or not there is a base.
+% const base = String(options.base || "").replace(/\/+$/, "")
+%
+% // The look needs it too — the wordmark, the nav and the two static assets
+% // are the style package's, not this file's — and `site` is what every
+% // layout is already handed.
+% site.base = base
+%
 % const cityList = $.findOne({ path: "cities.yaml" })
 % const isCity = {}
 % for (const slug of (cityList && cityList.cities) || []) isCity[slug] = true
@@ -88,7 +100,7 @@ baseURL: https://example.invalid
 %     edited: Boolean(edited),
 %     hook: edited ? edited.hook : undefined,
 %     rewritten: edited ? edited.rewritten : undefined,
-%     slug: slug, url: "/" + slug + "/",
+%     slug: slug, url: base + "/" + slug + "/",
 %     title: doc.title || slug,
 %     description: (edited && edited.standfirst) || doc.description,
 %     eyebrow: worked.eyebrow, sections: doc.sections || [],
@@ -119,7 +131,7 @@ baseURL: https://example.invalid
 %     title: page.title, description: page.description, eyebrow: page.eyebrow,
 %     hero: page.hero, sections: page.sections,
 %     cards: cards, content: body, here: here, titles: page.titles,
-%     figures: page.figures, hook: page.hook, plan: page.plan
+%     figures: page.figures, hook: page.hook, plan: page.plan, base: base
 %   })
 %   const colophon = $.render({ path: "layouts/colophon.mdy" }, {
 %     title: page.title, source: page.source,
@@ -143,7 +155,7 @@ baseURL: https://example.invalid
 %     })
 %     $.emit("compare/" + page.slug + "/index.html", style.render({ path: "layouts/base.mdy" }, {
 %       content: compare, colophon: colophon, site: site,
-%       page: { title: page.title + " — before and after", url: "/compare/" + page.slug + "/" }
+%       page: { title: page.title + " — before and after", url: base + "/compare/" + page.slug + "/" }
 %     }))
 %   }
 %
@@ -328,7 +340,7 @@ baseURL: https://example.invalid
 %     bands: bands, count: events.length, articles: pages.length
 %   }),
 %   colophon: siteColophon, site: site,
-%   page: { title: "Timeline", url: "/timeline/" }
+%   page: { title: "Timeline", url: base + "/timeline/" }
 % }))
 %
 % $.emit("glossary/index.html", style.render({ path: "layouts/base.mdy" }, {
@@ -336,7 +348,7 @@ baseURL: https://example.invalid
 %     letters: letters, count: terms.length
 %   }),
 %   colophon: siteColophon, site: site,
-%   page: { title: "Glossary", url: "/glossary/" }
+%   page: { title: "Glossary", url: base + "/glossary/" }
 % }))
 %
 % $.emit("quotations/index.html", style.render({ path: "layouts/base.mdy" }, {
@@ -344,7 +356,7 @@ baseURL: https://example.invalid
 %     quotes: sayings, count: sayings.length
 %   }),
 %   colophon: siteColophon, site: site,
-%   page: { title: "Quotations", url: "/quotations/" }
+%   page: { title: "Quotations", url: base + "/quotations/" }
 % }))
 %
 % // A plotted chart rather than a map: there is no basemap to draw on, so it
@@ -376,7 +388,7 @@ baseURL: https://example.invalid
 %     west: round1(west), east: round1(east), north: round1(north), south: round1(south)
 %   }),
 %   colophon: siteColophon, site: site,
-%   page: { title: "Places", url: "/places/" }
+%   page: { title: "Places", url: base + "/places/" }
 % }))
 %
 % // The search index. `$.tokenize` is the host's own word-list algorithm — the
@@ -433,5 +445,5 @@ baseURL: https://example.invalid
 
 % $.emit("index.html", style.render({ path: "layouts/base.mdy" }, {
 %   content: index, colophon: siteColophon, site: site,
-%   page: { title: site.title, url: "/", description: site.description }
+%   page: { title: site.title, url: base + "/", description: site.description }
 % }))

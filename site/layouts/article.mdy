@@ -103,7 +103,7 @@
     const slug = href.split("#")[0]
     const fragment = href.indexOf("#") === -1 ? "" : href.slice(href.indexOf("#"))
     if (req.here[slug]) {
-      node.properties.href = "/" + slug + "/" + fragment
+      node.properties.href = req.base + "/" + slug + "/" + fragment
       return
     }
     const title = req.titles[slug]

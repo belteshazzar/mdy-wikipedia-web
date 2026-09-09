@@ -8,20 +8,20 @@
     <link rel="preconnect" href="https://fonts.googleapis.com"
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&family=Archivo:wght@400;500;600&display=swap"
-    <link rel="stylesheet" href="/style.css"
+    <link rel="stylesheet" href="{{ req.site.base }}/style.css"
   < body
     < header class="site-head"
-      <a class="wordmark" href="/">{{ req.site.title }}
+      <a class="wordmark" href="{{ req.site.base }}/">{{ req.site.title }}
       < nav class="site-nav"
-        <a href="/">Articles
-        <a href="/timeline/">Timeline
-        <a href="/glossary/">Glossary
-        <a href="/quotations/">Quotations
-        <a href="/places/">Places
+        <a href="{{ req.site.base }}/">Articles
+        <a href="{{ req.site.base }}/timeline/">Timeline
+        <a href="{{ req.site.base }}/glossary/">Glossary
+        <a href="{{ req.site.base }}/quotations/">Quotations
+        <a href="{{ req.site.base }}/places/">Places
       < search class="site-search"
         <input id="search-input" type="search" placeholder="Search the corpus…" aria-label="Search" autocomplete="off"
         <ul id="search-results" hidden
     {{ req.content }}
-    <script src="/search.js"
+    <script src="{{ req.site.base }}/search.js" data-base="{{ req.site.base }}"
     < footer class="colophon"
       {{ req.colophon }}

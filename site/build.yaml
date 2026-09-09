@@ -11,3 +11,13 @@ about: >
 # things on the site. Turn it on when reviewing rewrites, off when building
 # for readers.
 compare: false
+
+# The path the site is served under, without a trailing slash. Empty means the
+# root, which is what `npm run serve` gives and what a custom domain would.
+#
+# GitHub project Pages serve at /<repo>/, and every URL this site writes is
+# absolute — `/style.css`, `/babylon/`, the search index's fetch — so a
+# subpath deployment has to be built for its subpath rather than moved into
+# one. `.github/workflows/pages.yml` sets this before it builds; nothing else
+# writes it, so a local build stays a root build and the two never disagree.
+base: ''
