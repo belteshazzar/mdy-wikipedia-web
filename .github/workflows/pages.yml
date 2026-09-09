@@ -14,6 +14,20 @@
 # than served from here, so the build is offline and reproducible: no Wikipedia,
 # no Wikidata, no thumbnailer, no API key.
 #
+# Only ONE of the two submodules is checked out, and that is deliberate rather
+# than a saving. `mdy build` needs mdy-docs and nothing else: the converter,
+# `third-party/mdy-wikipedia`, made the corpus that is already committed and
+# has no part in rendering it. It is also a private repository, which the
+# runner's own token cannot read — so a recursive checkout fails on it, and
+# asking for a personal access token to fetch something the build never opens
+# would be the wrong fix. Everything under mdy-docs is public.
+#
+# For the same reason the install happens INSIDE mdy-docs rather than here:
+# this repository's package.json links the converter by `file:` path, so a root
+# `npm install` needs a checkout the build does not. mdy-docs carries its own
+# complete dependency tree (verified: the site builds with this repository's
+# node_modules absent entirely).
+#
 # The whole thing is ~15s of `mdy build` behind ~4 minutes of emcc, which is
 # why the two .wasm artifacts are cached on the mdy-docs commit that produced
 # them. A run that hits that cache needs no emsdk at all.
@@ -42,16 +56,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # Recursive: mdy-docs vendors its own engines the same way this
-          # repository vendors mdy-docs, and it is those nested submodules —
-          # lamassu-js, nisaba-db and their own third_party/ — that the emcc
-          # steps below compile.
-          submodules: recursive
+          # The submodules are taken below, one of them, by hand — see the top
+          # of this file. `persist-credentials: false` so that the fetch of the
+          # public mdy-docs tree is anonymous and carries no token it has no
+          # use for; nothing here pushes.
+          submodules: false
+          persist-credentials: false
+
+      # Recursive, because mdy-docs vendors its own engines the same way this
+      # repository vendors mdy-docs, and it is those nested submodules —
+      # lamassu-js, nisaba-db and their own third_party/ — that the emcc steps
+      # below compile.
+      - name: Check out the engine
+        run: git submodule update --init --recursive --depth 1 third-party/mdy-docs
 
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: npm
 
       # The engines are a pure function of the mdy-docs commit — it pins
       # lamassu-js and nisaba-db, which pin theirs — so that SHA is the key.
@@ -85,12 +106,12 @@ jobs:
         if: steps.wasm.outputs.cache-hit != 'true'
         run: third-party/mdy-docs/third_party/nisaba-db/wasm/build-wasm.sh
 
-      # `npm install`, not `npm ci`. This package links three siblings by
-      # `file:` path and their versions move whenever a submodule does, which
-      # puts the lockfile out of sync and fails `npm ci` for a reason that has
-      # nothing to do with the site. Registry dependencies still resolve
-      # through the lockfile.
-      - name: Install dependencies
+      # `npm install`, not `npm ci`: mdy-docs links its two engines by `file:`
+      # path and their versions move whenever a submodule does, which puts the
+      # lockfile out of sync and fails `npm ci` for a reason that has nothing
+      # to do with the site. Registry dependencies still resolve through it.
+      - name: Install the engine's dependencies
+        working-directory: third-party/mdy-docs
         run: npm install --no-audit --no-fund
 
       # Project Pages serve at /<repo>/, and this site writes absolute URLs, so
@@ -109,8 +130,6 @@ jobs:
 
       - name: Build the site
         run: node third-party/mdy-docs/bin/mdy.js build site --out dist
-
-      - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
         with:
