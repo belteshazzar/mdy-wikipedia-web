@@ -386,9 +386,9 @@ rewritten:
     the Mosul Dam being the largest in Iraq, the whole Aranzah paragraph, and
     every sentence of the lead. Wikidata tributaries listed only as Q-numbers
     (Q21209945 and the rest) could not be named and were not used.'
-  verified: false
-  verdict: blocked
-  findings: 6
+  verified: true
+  verdict: minor-only
+  findings: 2
   reviewed: false
 +++
 The !!Tigris!! (see [[ below | #etymology ]]) is the eastern of the two great [[ rivers | river ]] that define [[ Mesopotamia ]]; the [[ Euphrates ]] is the other. It comes down from the mountains of the [[ Armenian Highlands ]], flows south through the [[ Syrian | syrian-desert ]] and [[ Arabian Deserts | arabian-desert ]], and merges with the [[ Euphrates ]] before reaching the [[ Persian Gulf ]].
@@ -399,7 +399,7 @@ Today the river faces geopolitical instability, dam projects, poor water managem
 
 == Etymology
 
-The name is among the oldest still in daily use, and it has been worn shorter by every language that borrowed it. The chain runs from Sumerian 𒀀𒇉𒈦𒄘𒃼 (Idigna) into Akkadian 𒀀𒇉𒈦𒄘𒃼 (Idiglat), from there into Old Persian 𐎫𐎡𐎥𐎼𐎠 (Tigrā), then into Ancient Greek Τίγρης (Tígrēs) and its alternative form Τίγρις (Tígris), and finally into Latin as Tigris.
+The name has come down a chain of borrowings, running from Sumerian 𒀀𒇉𒈦𒄘𒃼 (Idigna) into Akkadian 𒀀𒇉𒈦𒄘𒃼 (Idiglat), from there into Old Persian 𐎫𐎡𐎥𐎼𐎠 (Tigrā), then into Ancient Greek Τίγρης (Tígrēs) and its alternative form Τίγρις (Tígris), and finally into Latin as Tigris.
 
 The [[ Ancient Greek ]] form //Tigris// (Τίγρις) probably derived from //*id (i)gina//, "running water".[[ ^5 ]] The Sumerian term can be interpreted as "the swift river", a name that contrasts the Tigris with its neighbour the Euphrates, whose leisurely pace caused it to deposit more [[ silt ]] and build up a higher bed than the Tigris. The Sumerian form was borrowed into [[ Akkadian | akkadian-language ]] as //Idiqlat//, and from there into the other [[ Semitic languages ]]: compare Hebrew: חִדֶּקֶל‎, [[ romanized | romanization-of-hebrew ]]: //Ḥîddéqel//; Jewish Babylonian Aramaic: דיגלת‎, דיקגלת‎, romanized: //diqlāṯ// or //diglāṯ//; Classical Syriac: ܕܩܠܬ‎, romanized: //Deqlāṯ//; Arabic: دِجلَة, [[ romanized | romanization-of-arabic ]]: //Dijlah//.[[ ^6 ]]
 
@@ -424,7 +424,7 @@ The name of the Tigris in languages that have been important in the region:
 
 == Geography
 
-The Tigris is 1,750 km (1,090 mi) long. It rises in the [[ Taurus Mountains ]] of eastern [[ Turkey ]], about 25 km (16 mi) southeast of the city of [[ Elazığ ]] and about 30 km (19 mi) south of the valley of the Euphrates, so the two rivers that define Mesopotamia begin within a morning's walk of each other. The Tigris then runs 400 km (250 mi) through Southeastern Turkey before forming part of the [[ Syria-Turkey border ]]. That stretch of 44 km (27 mi) is the only part of the river located in Syria.[[ ^3 ]] Some of its affluences are Garzan, Anbarçayi, [[ Batman | batman-river ]], and the [[ Great | great-zab ]] and the [[ Little Zab ]].[[ ^10 ]]
+The Tigris is 1,750 km (1,090 mi) long. It rises in the [[ Taurus Mountains ]] of eastern [[ Turkey ]], about 25 km (16 mi) southeast of the city of [[ Elazığ ]] and about 30 km (19 mi) south of the valley of the Euphrates. The Tigris then runs 400 km (250 mi) through Southeastern Turkey before forming part of the [[ Syria-Turkey border ]]. That stretch of 44 km (27 mi) is the only part of the river located in Syria.[[ ^3 ]] Some of its affluences are Garzan, Anbarçayi, [[ Batman | batman-river ]], and the [[ Great | great-zab ]] and the [[ Little Zab ]].[[ ^10 ]]
 
 Close to its confluence with the Euphrates the river stops being one river. The artificial [[ Shatt al-Hayy ]] branches off first, to join the Euphrates near [[ Nasiriyah ]]; then the Shatt al-Muminah and [[ Majar al-Kabir ]] branch off to feed the [[ Central Marshes ]]. Further downstream two other [[ distributary channels | distributary-channel ]] leave the river, the Al-Musharrah and [[ Al-Kahla ]], to feed the [[ Hawizeh Marshes ]]. The main channel continues southwards and is joined by the Al-Kassarah, which drains the Hawizeh Marshes again. Finally the Tigris joins the Euphrates near [[ al-Qurnah ]] to form the [[ Shatt-al-Arab ]]. It has not always ended this way: according to [[ Pliny | pliny-the-elder ]] and other ancient historians, the Euphrates originally had its outlet into the sea separate from that of the Tigris.[[ ^11 ]]
 

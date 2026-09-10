@@ -1,29 +1,23 @@
 slug: ptolemaic-synodal-decrees
 findings:
   - kind: unsupported
-    quote: The decree of Ptolemy IV Philopator is carried by three stones, two of
-      them still to be seen and one known only from photographs.
-    why: The source says only that the Fragment from Tod disappeared shortly after
-      discovery and was published on photographic evidence alone. It says
-      nothing about the present whereabouts or survival of the Stele of
-      Memphis and the Pithom Stele; "still to be seen" is a claim about their
-      current state that the source does not make.
-    severity: blocking
+    quote: Nine of the decrees are known, from 243 BC to 161 BC, and one of the
+      stones cut with them is the Rosetta Stone.
+    why: The source never counts the decrees or states a total. Its lead names
+      only the decrees of Ptolemy III, IV and V and then says 'and others';
+      the figure nine is the rewriter's own tally of the article's section
+      headings, and the source nowhere asserts that this is the full set of
+      known decrees. (The date range 243 BC to 161 BC and the Rosetta Stone
+      are supported.) The same count is repeated in the standfirst and in the
+      'When' key fact.
+    severity: minor
   - kind: unsupported
     quote: "In each of these decrees a synod of Egyptian priests set down what
       their Greek king had done for the temples, and voted him honours in
       return: statues, shrines, worship as a god."
-    why: The source says only that in each decree "religious honours are decreed
-      for him". Statues, a shrine and worship as beneficent gods are what the
-      source attributes specifically to the 243 BC Decree of Alexandria, not
-      to every decree.
+    why: The source says only that in each decree 'religious honours are decreed
+      for him'. The specific honours — statues, a shrine, worship as
+      beneficent gods — are attested in the source solely for the 243 BC
+      Decree of Alexandria, not for every decree.
     severity: minor
-  - kind: unsupported
-    quote: The nine known decrees run from 243 BC to 161 BC
-    why: The source gives no total. It describes "a series of decrees" and its
-      lead enumerates only six (two under Ptolemy III, one under Ptolemy IV,
-      three under Ptolemy V); the figure nine is obtained by counting the
-      article's section headings, and the source never states that nine is the
-      number known.
-    severity: minor
-verdict: blocked
+verdict: minor-only

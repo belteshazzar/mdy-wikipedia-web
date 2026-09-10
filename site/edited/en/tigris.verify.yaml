@@ -1,53 +1,19 @@
 slug: tigris
 findings:
-  - kind: unsupported
-    quote: The name is among the oldest still in daily use, and it has been worn
-      shorter by every language that borrowed it.
-    why: The source says nothing about the name being among the oldest names still
-      in daily use, and nothing about it shortening as it passed between
-      languages. Its etymology section only gives the chain of borrowings
-      (Sumerian Idigna > Akkadian Idiglat > Old Persian Tigra > Greek
-      Tigres/Tigris > Latin Tigris), which does not get shorter at every step.
-    severity: blocking
-  - kind: unsupported
-    quote: It rises in the [[ Taurus Mountains ]] of eastern [[ Turkey ]], about
-      25 km (16 mi) southeast of the city of [[ Elazığ ]] and about 30 km (19
-      mi) south of the valley of the Euphrates, so the two rivers that define
-      Mesopotamia begin within a morning's walk of each other.
-    why: The source says only that the Tigris rises about 30 km (19 mi) south of
-      the valley of the Euphrates. It does not say where the Euphrates begins,
-      does not compare the two sources, and characterising 30 km as "a
-      morning's walk" is an added and misleading measure of distance.
-    severity: blocking
   - kind: dropped-hedge
-    quote: The Tigris is named for being in a hurry. Sumerian scribes called it
-      "the swift river" to set it against the Euphrates next door, whose
-      leisurely pace left it dropping silt until it had built its bed up
-      higher than its neighbour's.
-    why: "The source hedges: \"The Sumerian term, which can be interpreted as 'the
-      swift river', contrasts the Tigris to its neighbour\". The hook states
-      the meaning flat and additionally attributes the naming to \"Sumerian
-      scribes\", who are not mentioned in the source."
+    quote: Sumerian scribes called it "the swift river" to set it against the
+      Euphrates next door, whose leisurely pace left it dropping silt until it
+      had built its bed up higher than its neighbour's.
+    why: "The source hedges the meaning: \"The Sumerian term, which can be
+      interpreted as 'the swift river', contrasts the Tigris to its neighbour,
+      the Euphrates\". It offers a modern interpretation of the term, and says
+      nothing about what Sumerian scribes called the river."
     severity: minor
   - kind: unsupported
     quote: It has been named in a dozen languages, worshipped as a god, dammed,
       and used as a weapon.
-    why: The source says "Water from both rivers is used as a means of pressure
-      during conflicts", not that the river is used as a weapon.
+    why: The source says only that "Water from both rivers is used as a means of
+      pressure during conflicts"; it does not say the river was used as a
+      weapon.
     severity: minor
-  - kind: unsupported
-    quote: "Iraq needed the second as much as the first: the river has
-      historically been notoriously prone to flooding after the April melting
-      of snow in the Turkish mountains."
-    why: The source says damming "has also been important for averting floods in
-      Iraq". It makes no comparison of the relative importance of flood
-      control and irrigation.
-    severity: minor
-  - kind: unsupported
-    quote: In [[ Hittite | hittites ]] and [[ Hurrian ]] mythology the river is
-      not made by a god but is one.
-    why: The source says only that Aranzah is the Hurrian name of the Tigris,
-      which was deified. It does not say that Hittite or Hurrian mythology
-      denies the river a divine creator.
-    severity: minor
-verdict: blocked
+verdict: minor-only

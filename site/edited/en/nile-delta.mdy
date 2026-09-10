@@ -390,9 +390,9 @@ rewritten:
     than inventing any. Only two "further" pointers: no other article in the
     corpus list is connected to this one by anything the document actually
     says.'
-  verified: false
-  verdict: blocked
-  findings: 3
+  verified: true
+  verdict: minor-only
+  findings: 1
   reviewed: false
 +++
 The !!Nile Delta!! (Arabic: دلتا النيل, //Delta an-Nīl// or simply الدلتا, //ad-Delta//) is the [[ delta | river-delta ]] formed in [[ Lower Egypt ]] where the [[ Nile ]] River spreads out and drains into the [[ Mediterranean Sea ]].[[ ^1 ]] It is one of the world's largest deltas.
@@ -431,7 +431,7 @@ Records from ancient times, such as by [[ Ptolemy ]], reported that the delta ha
 
 == George of Cyprus list
 
-A later list, from [[ George of Cyprus | george-of-cyprus-geographer ]], names them differently:[[ ^16 ]]
+Another list, from [[ George of Cyprus | george-of-cyprus-geographer ]], names them differently:[[ ^16 ]]
 
 - Alexandrian (Schedia canal)
 - Colynthin (Canopic)

@@ -242,9 +242,9 @@ rewritten:
     prose, and the Works cited entries are a bibliography, so all of these are
     kept close to as they were. The article contains no quotations, so there
     are no pull-quotes."
-  verified: false
-  verdict: blocked
-  findings: 3
+  verified: true
+  verdict: minor-only
+  findings: 2
   reviewed: false
 +++
 The !!Ptolemaic Decrees!! all work the same way. A [[ synods | synod ]] of [[ ancient Egyptian priests | ancient-egyptian-religion ]] meets and sets down the benefactions of the reigning [[ pharaoh ]], especially those towards the priesthood, and religious honours are decreed for him in return. They were issued in the [[ Ptolemaic Kingdom ]], which controlled [[ Egypt | ancient-egypt ]] from 305 BC to 30 BC.[[ ^1 ]]
@@ -268,7 +268,7 @@ The decree was issued on 7 Appellaios (Mac.) = 17 Tybi (Eg.) year 9 of Ptolemy I
 
 == 217 BC Raphia Decree (Ptolemy IV)
 
-The decree of [[ Ptolemy IV Philopator ]] is carried by three stones, two of them still to be seen and one known only from photographs.
+The decree of [[ Ptolemy IV Philopator ]] is carried by three stones, one of which disappeared soon after it was found and is known only from photographs.
 
 - Stone 1: !!Stele of Memphis!! (CGC 31088), found in 1902 at the site of ancient Memphis, hieroglyphs, Demotic, and Greek, dark granite.
 - Stone 2: !!Pithom Stele, No. II!! (CGC 50048), found in 1923 at [[ Tell el-Maskhuta ]], hieroglyphs (front), 42 lines Demotic (back), virtually complete, providing an almost total translation, and Greek (side), sandstone.

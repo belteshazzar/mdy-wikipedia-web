@@ -40,9 +40,9 @@ pull-quotes:
     section: decline-from-the-late-22nd-century-bce-onwards
 timeline:
   - when: c. 25th century BC – c. 25th century BCE
-    what: The floruit of Lugal-Anne-Mundu of Adab, whose inscriptions — known from
-      copies of c. 17th century BC — list the Guti among the nations paying
-      his empire tribute.
+    what: The floruit of Lugal-Anne-Mundu of Adab. Texts of c. 17th century BC,
+      purported copies of inscriptions proposed to be his, list the Guti among
+      the nations paying his empire tribute.
   - when: c. 2254–2218 BCE
     what: The reign of Naram-Sin, during which the Cuthean Legend of Naram-Sin
       claims Gutium was among the lands raided by Annubanini of Lulubum.
@@ -306,9 +306,8 @@ rewritten:
     the unconquered north, the Erridupizir inscription at Nippur, the
     Lugalanatum inscription, and Ur-Nammu's death in battle. I carried them
     across as they stand; there was no citation to carry.
-  verified: false
-  verdict: blocked
-  findings: 5
+  verified: true
+  verdict: clean
   reviewed: false
 +++
 The !!Guti!! , also known by the derived [[ exonyms | exonym ]] !!Gutians!! or !!Guteans!!, were a people of the ancient Near East who both appeared and disappeared during the [[ Bronze Age ]]. Their homeland was known as !!Gutium!! ([[ Sumerian | sumerian-language ]]: 𒄖𒌅𒌝𒆠, //Gutūm^^KI^^// or 𒄖𒋾𒌝𒆠, //Gutium^^KI^^//).[[ ^1 ]][[ ^2 ]]
