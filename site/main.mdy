@@ -1,7 +1,7 @@
 +++
 title: The Ancient World
 description: >-
-  Fifty cities of the ancient Near East — where they stood, who held them, and
+  Sixty cities of the ancient Near East — where they stood, who held them, and
   what is left. A fork of Wikipedia, laid out to be read.
 baseURL: https://example.invalid
 +++
@@ -38,6 +38,14 @@ baseURL: https://example.invalid
 % const cityList = $.findOne({ path: "cities.yaml" })
 % const isCity = {}
 % for (const slug of (cityList && cityList.cities) || []) isCity[slug] = true
+%
+% // The third ring. A city-state is in both lists on purpose — Ugarit and
+% // Lagash were the state — and `isCity` is tested first below, so the tie
+% // goes to the city, which is the entry point this whole site is arranged
+% // around. `pipeline/empires.mjs` writes the list and says why.
+% const empireList = $.findOne({ path: "empires.yaml" })
+% const isEmpire = {}
+% for (const slug of (empireList && empireList.empires) || []) isEmpire[slug] = true
 %
 % const manifest = $.findOne({ path: "corpus/images.yaml" })
 % const rights = (manifest && manifest.images) || {}
@@ -104,9 +112,12 @@ baseURL: https://example.invalid
 %     title: doc.title || slug,
 %     description: (edited && edited.standfirst) || doc.description,
 %     eyebrow: worked.eyebrow, sections: doc.sections || [],
-%     hero: worked.hero, facts: worked.facts, held: worked.held, plan: worked.plan,
+%     hero: worked.hero, facts: worked.facts, held: worked.held,
+%     capitalOf: worked.capitalOf || [], plan: worked.plan,
 %     isPlace: worked.isPlace, kind: worked.kind, source: doc.source || {},
+%     label: (doc.wikidata && doc.wikidata.label) || undefined,
 %     core: Boolean(isCity[slug]),
+%     state: Boolean(isEmpire[slug]) && !isCity[slug],
 %     coordinates: doc.coordinates,
 %     titles: doc["link-titles"] || {},
 %     figures: worked.figures,
@@ -121,10 +132,91 @@ baseURL: https://example.invalid
 % const here = {}
 % for (const page of pages) here[page.slug] = true
 %
+% // A page by the name a claim would call it. `held` and `capital-of` name a
+% // state as a string — "Achaemenid Empire", "Macedonia" — and when the corpus
+% // has the article of that name, the row should be the way a reader gets to
+% // it. Matched on the name rather than a slug built from it: this file has no
+% // slugifier and inventing one that is nearly the importer's is how a link
+% // goes quietly dead.
+% //
+% // Both names, because the two vocabularies disagree and the claims are in
+% // the second one. Wikipedia titles the article `Macedonia (ancient kingdom)`
+% // and `Assyria`; Wikidata labels the same two items `Macedonia` and
+% // `Assyrian Empire`, and it is Wikidata labels that `capital-of` is written
+% // in. Matching titles alone silently lost both — Aegae and Pella are
+% // capitals of a kingdom whose page they could not reach, and the four
+% // Assyrian capitals could not reach Assyria. The title is written last so
+% // that an exact title match still wins a collision.
+% const byTitle = {}
+% for (const page of pages) { if (page.label) byTitle[page.label] = page.slug }
+% for (const page of pages) byTitle[page.title] = page.slug
+%
+% // And the other way, for a state looking for its own cities: the name the
+% // cities will have filed it under is its label, not its title.
+% const namesOf = function (page) {
+%   return page.label && page.label !== page.title ? [page.title, page.label] : [page.title]
+% }
+%
+% // The same relation, read backwards. A city says whose capital it was and
+% // when it was held; nobody writes the empire's side of that down, so the
+% // empire's page has nothing on it about the cities in this corpus that were
+% // its own. Inverting the claims the cities already carry costs one pass and
+% // is the only thing that makes a state page part of the site rather than an
+% // article that happens to be filed here.
+% const capitalsOfState = {}
+% const ruledByState = {}
 % for (const page of pages) {
-%   const cards = page.isPlace && (page.facts.length || page.held.length)
-%     ? $.render({ path: "layouts/place.mdy" }, { kind: "Where, and whose", facts: page.facts, held: page.held })
-%     : (page.facts.length ? $.render({ path: "layouts/facts.mdy" }, { kind: "In brief", facts: page.facts }) : undefined)
+%   if (!page.core) continue
+%   for (const name of page.capitalOf) {
+%     if (name === page.title) continue
+%     if (!capitalsOfState[name]) capitalsOfState[name] = []
+%     capitalsOfState[name].push({ title: page.title, url: page.url })
+%   }
+%   for (const row of page.held) {
+%     if (row.what === page.title) continue
+%     if (!ruledByState[row.what]) ruledByState[row.what] = []
+%     ruledByState[row.what].push({ title: page.title, url: page.url, when: row.when })
+%   }
+% }
+%
+% for (const page of pages) {
+%   // The rulers, with a link on the ones the corpus can answer for.
+%   const held = []
+%   for (const row of page.held) {
+%     const slug = byTitle[row.what]
+%     held.push({
+%       when: row.when, what: row.what,
+%       url: slug && slug !== page.slug ? base + "/" + slug + "/" : undefined
+%     })
+%   }
+%
+%   // The states this place was the capital of, linked the same way.
+%   const capitals = []
+%   for (const name of page.capitalOf) {
+%     const slug = byTitle[name]
+%     // Sidon is `capital-of` Sidon. A page does not tell a reader it is the
+%     // capital of itself.
+%     if (slug === page.slug || name === page.title) continue
+%     capitals.push({
+%       what: name,
+%       url: slug ? base + "/" + slug + "/" : undefined
+%     })
+%   }
+%
+%   // A state's card is the cities, not the coordinates — a state does not
+%   // have coordinates, which is exactly why it never got a card before.
+%   const ownCapitals = []
+%   const ownRuled = []
+%   for (const name of namesOf(page)) {
+%     for (const c of capitalsOfState[name] || []) ownCapitals.push(c)
+%     for (const r of ruledByState[name] || []) ownRuled.push(r)
+%   }
+%
+%   const cards = page.state && (ownCapitals.length || ownRuled.length)
+%     ? $.render({ path: "layouts/state.mdy" }, { kind: "Its cities here", capitals: ownCapitals, ruled: ownRuled })
+%     : (page.isPlace && (page.facts.length || held.length || capitals.length)
+%       ? $.render({ path: "layouts/place.mdy" }, { kind: "Where, and whose", facts: page.facts, held: held, capitals: capitals })
+%       : (page.facts.length ? $.render({ path: "layouts/facts.mdy" }, { kind: "In brief", facts: page.facts }) : undefined))
 %
 %   const body = $.render({ path: page.path })
 %   const article = $.render({ path: "layouts/article.mdy" }, {
@@ -426,6 +518,7 @@ baseURL: https://example.invalid
 % $.emit("search-index.json", JSON.stringify(searchIndex))
 %
 % const cities = []
+% const empires = []
 % const ring = []
 % let credited = 0
 % for (const key of Object.keys(rights)) credited = credited + 1
@@ -435,11 +528,12 @@ baseURL: https://example.invalid
 %     image: page.hero ? page.hero.src : undefined, meta: page.eyebrow
 %   }
 %   if (page.core) cities.push(card)
+%   else if (page.state) empires.push(card)
 %   else ring.push(card)
 % }
 %
 % const index = $.render({ path: "layouts/index.mdy" }, {
-%   site: site, cities: cities, ring: ring, count: pages.length,
+%   site: site, cities: cities, empires: empires, ring: ring, count: pages.length,
 %   images: credited, located: plotted.length
 % })
 

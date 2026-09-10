@@ -1,0 +1,11 @@
+slug: achaemenid-empire
+findings:
+  - kind: altered-value
+    quote: "description: Ancient Iranian empire, 550–330 BC"
+    why: "This `from` is presented as the source record copied verbatim, but the
+      Wikidata record reads \"description: Iranian (Persian) empire (550–330
+      BC)\" — the wording and the placement of the dates differ. The date
+      range the key fact asserts (550–330 BC) is itself correct and supported
+      by the record's start-time/end-time and by the lead."
+    severity: minor
+verdict: minor-only

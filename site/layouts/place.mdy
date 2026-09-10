@@ -13,11 +13,29 @@
     % }
   % }
 
+  % if (req.capitals && req.capitals.length) {
+  < div class="capital-of"
+    <p class="capital-label">Capital of
+    % for (const c of req.capitals) {
+    % if (c.url) {
+    < p class="capital-what"
+      <a href="{{ c.url }}">{{ c.what }}
+    % } else {
+    <p class="capital-what">{{ c.what }}
+    % }
+    % }
+  % }
+
   % if (req.held.length) {
   < div class="held"
     % for (const h of req.held) {
     < div class="held-row"
       <p class="held-when">{{ h.when }}
+      % if (h.url) {
+      < p class="held-what"
+        <a href="{{ h.url }}">{{ h.what }}
+      % } else {
       <p class="held-what">{{ h.what }}
+      % }
     % }
   % }

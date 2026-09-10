@@ -1,0 +1,25 @@
+% // A state knows one thing an article does not: which of this corpus's cities
+% // were its. Both directions come from the same `capital-of` claims — the city
+% // says whose capital it was, and nobody has to write the empire's side down
+% // for it to be true. `main.mdy` inverts the relation; this only renders it.
+< div class="card"
+  <h3>{{ req.kind ?? "Its cities" }}
+
+  % if (req.capitals.length) {
+  < div class="capital-of"
+    <p class="capital-label">{{ req.capitals.length === 1 ? "Capital" : "Capitals" }}
+    % for (const c of req.capitals) {
+    < p class="capital-what"
+      <a href="{{ c.url }}">{{ c.title }}
+    % }
+  % }
+
+  % if (req.ruled.length) {
+  < div class="held"
+    % for (const r of req.ruled) {
+    < div class="held-row"
+      <p class="held-when">{{ r.when }}
+      < p class="held-what"
+        <a href="{{ r.url }}">{{ r.title }}
+    % }
+  % }

@@ -1,7 +1,7 @@
 % // Cities first, and everything else second — which is the whole editorial
 % // claim of the site. A reader arrives at a place, not at a topic.
 < section class="index-head"
-  <p class="eyebrow">{{ req.cities.length }} cities · {{ req.ring.length }} topics they need · {{ req.images }} images, all credited
+  <p class="eyebrow">{{ req.cities.length }} cities · {{ req.empires.length }} empires that held them · {{ req.ring.length }} topics they need · {{ req.images }} images, all credited
   <h1>{{ req.site.title }}
   <p>{{ req.site.description }}
   <p class="index-map">[[ See all {{ req.located }} of them on the map | {{ req.site.base }}/places/ ]]
@@ -28,8 +28,27 @@
   % }
 
 < section class="band-head"
+  <h2>The empires that held them
+  <p class="band-note">A city changes hands. These are the states it changed hands to — each one here because a city names it as its ruler or its capital, which is a claim the city's own record makes rather than one this site invents. A city-state is filed with the cities: Ugarit and Lagash were the state.
+
+< section class="browse ring"
+  % for (const a of req.empires) {
+  < article class="browse-item"
+    < a href="{{ a.url }}"
+      % if (a.image) {
+      <img src="{{ a.image }}" alt="" loading="lazy" width="600" height="450"
+      % } else {
+      <div class="noimage">No free image
+      % }
+      <h2>{{ a.title }}
+    % if (a.description) {
+    <p>{{ a.description }}
+    % }
+  % }
+
+< section class="band-head"
   <h2>What they need explained
-  <p class="band-note">Not the subject of this site, but the vocabulary it runs on: the empires that held these cities, the languages their tablets are in, the gods their temples were for. Each one is here because an article about a place asked for it.
+  <p class="band-note">Not the subject of this site, but the vocabulary it runs on: the languages their tablets are in, the gods their temples were for, the rivers they stood on. Each one is here because an article about a place asked for it.
 
 < section class="browse ring"
   % for (const a of req.ring) {

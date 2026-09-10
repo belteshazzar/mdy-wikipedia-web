@@ -226,6 +226,29 @@ title: One page's facts
 %   held.push({ when: span, what: statement.value })
 % }
 %
+% // The other half of "whose", and for most places the only half. `held` needs
+% // a dated `country` statement and only Babylon really has a run of them —
+% // Persepolis, Susa, Pasargadae, Seleucia and Ctesiphon have none at all, so
+% // the card that is supposed to say who held them says nothing.
+% //
+% // `capital-of` is undated and much better kept: those five are capitals of
+% // the Achaemenids, of Elam, of Persis, of the Seleucids, of Parthia. Undated
+% // is why it is a separate list rather than a `held` row with an empty year —
+% // a blank in the when column reads as a missing fact rather than as one that
+% // was never dated.
+% // `capital-of` answers about now as readily as about then: Baalbek is the
+% // capital of Baalbek District and Alexandria of the Alexandria Governorate,
+% // which is true, modern, and not what this card is asking. The same cut
+% // `pipeline/empires.mjs` makes on the same property, made again here because
+% // this document is memoised and reads nothing it is not handed.
+% const modern = /^(Iraq|Egypt|Syria|Turkey|Greece|Iran|Lebanon|Albania|Israel|Jordan|Ukraine|Sudan|Libya|Tunisia|Italy|Spain|Cyprus|Bahrain|Kuwait|Saudi Arabia|Yemen|Armenia|Azerbaijan|Georgia|Bulgaria|Romania|Russia|Palestine)$|(Governorate|District|Province|State|Region|Municipality|Prefecture)$/
+% const capitalOf = []
+% for (const statement of claimList(claims["capital-of"])) {
+%   const name = typeof statement === "string" ? statement : (statement && statement.value)
+%   if (!name || modern.test(name)) continue
+%   if (capitalOf.indexOf(name) === -1) capitalOf.push(name)
+% }
+%
 %
 % // The image plan, resolved. A rewritten body carries no `<img>` of its
 % // own — the prose was rewritten, the markup around it was not — so
@@ -270,6 +293,7 @@ title: One page's facts
 %   hero: planned || hero,
 %   facts: facts,
 %   held: held,
+%   capitalOf: capitalOf,
 %   plan: plan,
 %   isPlace: isPlace,
 %   kind: kind,
