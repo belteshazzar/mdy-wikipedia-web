@@ -92,12 +92,18 @@ const answer = saved
   ? await readFile(saved, 'utf8')
   : await (async () => {
       const query = await readFile(QUERY, 'utf8')
-      const url = `https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`
-      const res = await fetch(url, {
+      // POST, not a query string. The query is mostly comment — it argues for
+      // every class in it — and once that argument outgrew the URL the service
+      // answered 414 rather than anything about cities. A GET that works only
+      // while nobody explains themselves is the wrong shape for this file.
+      const res = await fetch('https://query.wikidata.org/sparql', {
+        method: 'POST',
         headers: {
           Accept: 'text/csv',
+          'Content-Type': 'application/x-www-form-urlencoded',
           'User-Agent': `mdy-wikipedia-web corpus seeding (${CONTACT})`
-        }
+        },
+        body: new URLSearchParams({query})
       })
 
       if (!res.ok) throw new Error(`the query service said ${res.status} ${res.statusText}`)

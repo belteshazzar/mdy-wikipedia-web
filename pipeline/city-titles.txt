@@ -1,7 +1,13 @@
+Abdera, Thrace
 Abydos, Egypt
+Aegae (Macedonia)
 Alexandria
 Amarna
+Ancient Corinth
+Anshan (Persia)
 Antioch
+Apamea, Syria
+Apollonia (Illyria)
 Assur
 Baalbek
 Babylon
@@ -9,7 +15,9 @@ Borsippa
 Byblos
 Carchemish
 Chogha Zanbil
+Constantinople
 Ctesiphon
+Der (Sumer)
 Dur-Sharrukin
 Dura-Europos
 Ebla
@@ -35,13 +43,16 @@ Pasargadae
 Pergamon
 Persepolis
 Petra
+Pontic Olbia
 Saqqara
 Seleucia
 Shuruppak
 Sidon
 Sippar
+Sparta
 Susa
 Thebes, Egypt
+Thebes, Greece
 Tyre, Lebanon
 Ugarit
 Umma

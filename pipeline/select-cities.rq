@@ -27,6 +27,54 @@
 # Row selection is unchanged: every one is OPTIONAL, and the 49 in
 # `site/cities.yaml` came back from this query before these were added.
 #
+# A FOUNDING DATE IS NOT EVIDENCE OF A CITY, AND DEMANDING ONE COST US HALF
+#
+# `wdt:P571` was a required triple, and that quietly made this query blindest
+# to exactly what it is for. 25 of the 49 in `site/cities.yaml` never came back
+# from it — Nineveh, Memphis, Palmyra, Nippur, Eridu, Nimrud, Hattusa, Sidon —
+# and nine in ten of those are missing for the same reason: Wikidata has no
+# inception date for them. Nobody knows when Nineveh was founded. That is a
+# fact about the oldest cities on earth, not a reason to exclude them.
+#
+# So the date is OPTIONAL, but not for everything, because `human settlement`
+# with no date is every village on the planet — relaxing it for all fourteen
+# classes returns 77,327 rows. The split is by class:
+#
+#   INHERENTLY ANCIENT — ancient city, archaeological site, city-state, polis,
+#   oppidum, tell. Nothing is called these unless it is already over. An
+#   undated one is an undated ancient place, so it comes back and the cuts in
+#   `pipeline/cuts.mjs` judge it on the other evidence.
+#
+#   GENERIC — city, human settlement, town, village, big city, port city,
+#   capital city. These describe the living as readily as the dead, so a date
+#   before 500 is still required to distinguish Ur from Ulaanbaatar.
+#
+# `lost city` is the one that had to move across. It reads as ancient and is
+# not: Wikidata files Chernobyl under it, undated, and Chernobyl duly arrived
+# at 106 sitelinks ranking above Mohenjo-daro. Abandonment is not antiquity.
+# It stays in the settlement evidence below, where saying "people lived here"
+# is all it is being asked to say; it is only dropped from the set that
+# excuses a missing date. A genuinely ancient lost city carries `ancient city`
+# or `archaeological site` too, and comes back on that.
+#
+# What no rule fixes: Samarra and Angkor are undated in Wikidata and founded
+# after 500, so nothing here can see that they are too late. They arrive as
+# candidates and belong in the hand-written `rejected` block, which is what it
+# is for. That is the trade the relaxation makes — Nineveh is undated for the
+# same reason Samarra is, and no query can want the first without the second.
+#
+# The second half of the class cut mattered too, independently of the date.
+# `?kind` admitted three classes while the settlement test below reads
+# thirteen, so a place classed only `city-state` or `polis` could never match
+# however well it scored on everything else. Troy is a `polis` with 121
+# sitelinks and a date of −2999 — it would rank fourth in the whole queue —
+# and this query could not see it. Neither could it see Ephesus, Knossos or
+# Lagash, which is one of the 49.
+#
+# 395 rows became 2,771, and all 49 of the cities already in the corpus are now
+# among them; 25 were not before. The cuts do the rest, and what they cannot
+# judge they say so about rather than dropping.
+#
 #   curl -G https://query.wikidata.org/sparql \
 #     --data-urlencode query@pipeline/select-cities.rq \
 #     -H 'Accept: text/csv' -H 'User-Agent: … (you@example.com)' > cities.csv
@@ -38,13 +86,21 @@ SELECT DISTINCT ?title ?sitelinks (MIN(?inception) AS ?from) (SAMPLE(?coord) AS 
        (COUNT(DISTINCT ?settlement) AS ?settled)      # P31 says somebody lived here
        (COUNT(DISTINCT ?built) AS ?monumental)        # P31 says somebody built one thing here
 WHERE {
-  # ancient city, archaeological site, city
-  VALUES ?kind { wd:Q15661340 wd:Q839954 wd:Q515 }
+  # All fourteen settlement classes, which is the same list the settlement
+  # evidence below reads — a place is a row here if Wikidata calls it any of
+  # them. What splits them is not this block but the FILTER at the foot of it:
+  # six of the fourteen excuse a missing founding date and the rest do not.
+  # `lost city` is in here and not in that six; the head of this file says why.
+  VALUES ?kind {
+    wd:Q15661340 wd:Q839954 wd:Q133442 wd:Q148837 wd:Q192601 wd:Q2974842 wd:Q674413
+    wd:Q515 wd:Q486972 wd:Q3957 wd:Q532 wd:Q1549591 wd:Q2264924 wd:Q5119
+  }
 
   ?item wdt:P31 ?kind ;
         wikibase:sitelinks ?sitelinks ;
-        wdt:P571 ?inception ;
         wdt:P625 ?coord .
+
+  OPTIONAL { ?item wdt:P571 ?inception }
 
   ?article schema:about ?item ;
            schema:isPartOf <https://en.wikipedia.org/> ;
@@ -70,8 +126,12 @@ WHERE {
   # aqueduct, geoglyph, column, triumphal arch, museum, church, tumulus,
   # necropolis. Walked with P279*, because here the subclasses are the point —
   # the Colosseum is a `Roman amphitheatre` and Stonehenge a `henge`, and
-  # enumerating every leaf is how the list goes stale. The walk costs nothing
-  # measurable at this size: the whole query answers in eight seconds.
+  # enumerating every leaf is how the list goes stale. The walk was free at 395
+  # rows; at 2,771 it is most of a query that now takes 45–60 seconds, which is
+  # close enough to the service's own limit that a run does occasionally come
+  # back `upstream request timeout`. That is a retry, not a fault — and it is
+  # the reason `seed.mjs --from cities.csv` exists, so a good answer can be
+  # saved and re-seeded from without asking again.
   OPTIONAL {
     ?item wdt:P31/wdt:P279* ?built .
     VALUES ?built {
@@ -81,7 +141,23 @@ WHERE {
   }
 
   FILTER(?sitelinks > 8)
-  FILTER(YEAR(?inception) < 500)
+
+  # An inherently ancient class may arrive without a date; a generic one may
+  # not. `?kind` is bound per class statement, so an item carrying several is
+  # tested on each and survives if any one of them lets it through — which is
+  # what "Wikidata calls this a polis somewhere" ought to mean.
+  #
+  # `isLiteral` is not decoration. Wikidata records "we know it has one and do
+  # not know what it is" as a statement with a blank node for a value, so P571
+  # comes back BOUND and is not a date — `YEAR()` of it raises, the filter goes
+  # false, and the row vanishes with no indication why. Baalbek is dated that
+  # way and Baalbek is one of the 49. An unknown date is no date.
+  FILTER(
+    ( ?kind IN (wd:Q15661340, wd:Q839954, wd:Q133442, wd:Q148837, wd:Q192601,
+                wd:Q674413)
+      && (!BOUND(?inception) || !isLiteral(?inception) || YEAR(?inception) < 500) )
+    || ( BOUND(?inception) && isLiteral(?inception) && YEAR(?inception) < 500 )
+  )
 }
 GROUP BY ?title ?sitelinks
 ORDER BY DESC(?sitelinks)
