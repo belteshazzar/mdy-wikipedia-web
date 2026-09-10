@@ -1,0 +1,1457 @@
++++
+title: Memphis, Egypt
+description: Ancient capital of Inebu-hedj, Egypt
+hook: The great temple of Memphis, //Hut-ka-Ptah//, was one of the most
+  prominent structures in the city — and the Greek form of its name,
+  //Aἴγυπτoς (Ai-gy-ptos)//, which Manetho used, is believed to be where the
+  modern English word //Egypt// comes from.
+standfirst: Capital of ancient Egypt during both the Early Dynastic Period and
+  the Old Kingdom, Memphis remained an important city throughout ancient
+  Egyptian history. It stood at the mouth of the Nile Delta, a strategic
+  position, and was a hub of bustling activity.
+key-facts:
+  - name: Where it is
+    value: Mit Rahina, Badrashin, Giza Governorate, Egypt
+    from: "location: Mit Rahina, Badrashin, Giza Governorate, Egypt"
+  - name: When it was built
+    value: Earlier than the 31st century BC
+    from: "built: Earlier than 31st century BC"
+  - name: Who built it
+    value: Unknown — the city was already in existence during Iry-Hor's reign
+    from: "built-by: Unknown, was already in existence during Iry-Hor's reign"
+  - name: When it was abandoned
+    value: The 7th century AD
+    from: "abandoned: 7th century AD"
+  - name: How many people lived there
+    value: "Estimates differ widely: some 30,000 inhabitants according to Tertius
+      Chandler; approximately 6,000 during the Old Kingdom according to K. A.
+      Bard"
+    from: Estimates of historical population size differ widely among sources.
+      According to [[ Tertius Chandler ]], Memphis had some 30,000 inhabitants
+      and was by far the largest settlement worldwide from the time of its
+      foundation until approximately 2250 BC and from 1557 to 1400 BC.[[ ^21
+      ]] K. A. Bard is more cautious and estimates the city's population to
+      have numbered approximately 6,000 inhabitants during the Old Kingdom.[[
+      ^22 ]]
+  - name: World Heritage listing
+    value: Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur,
+      designated 1979 (3rd session)
+    from: >-
+      official-name: Memphis and its Necropolis – the Pyramid Fields from Giza
+      to Dahshur
+          type: Cultural
+          criteria: i, iii, vi
+          designated: 1979 (3rd session)
+pull-quotes:
+  - text: these ruins still offer to the eye of the beholder a mass of marvels
+      which bewilder the senses and which the most skillful pens must fail to
+      describe
+    attribution: Abd-ul-Latif, the Arab chronicler, describing the ruins in the
+      thirteenth century
+    section: decline-and-abandonment
+  - text: would be happy and unvanquishable forever
+    attribution: the seer Aristander, on the land where Alexander was laid to
+      rest, according to Aelian
+    section: ptolemaic-period
+  - text: The ruins of Memphis hold a half-[[ day's journey ]] in every direction.
+    attribution: Abd-ul-Latif, thirteenth century
+    section: decline-and-abandonment
+timeline:
+  - when: 4th millennium BC
+    what: The Wikidata record gives this as the start time of Memphis.
+    from: "start-time: 4th millennium BC"
+  - when: Earlier than 31st century BC
+    what: Memphis was built; who built it is unknown, and it was already in
+      existence during Iry-Hor's reign.
+    from: |-
+      built: Earlier than 31st century BC
+      built-by: Unknown, was already in existence during Iry-Hor's reign
+  - when: ca. 31st century BC
+    what: The Palette of Narmer, showing Narmer conquering the Nile Delta, is
+      dated here — which would correlate with the legend of Egypt's
+      unification by Menes.
+    from: This palette has been dated to ca. 31st century BC and thus, would
+      correlate with the legend of Egypt's unification by Menes.
+  - when: 2707 BC to 2216 BC
+    what: Wikidata records Memphis as capital of Egypt across these years.
+    from: |-
+      capital-of:
+            - value: Old Kingdom of Egypt
+            - value: Egypt
+              from: 2707 BC
+              to: 2216 BC
+  - when: ca. 1650 BC
+    what: The Hyksos invade and rise to power; Memphis comes under siege.
+    from: With the invasion of the [[ Hyksos ]] and their rise to power ca. 1650
+      BC, the city of Memphis came under siege.
+  - when: 671 BC
+    what: The Assyrian king Esarhaddon, supported by some of the native Egyptian
+      princes, captures Memphis.
+    from: The Assyrian king [[ Esarhaddon ]], supported by some of the native
+      Egyptian princes, captured Memphis in 671 BC.
+  - when: 664 BC
+    what: Memphis is sacked and looted again in Ashurbanipal's invasion; Tantamani
+      is pursued into Nubia and defeated.
+    from: In a massive invasion in 664 BC, the city of Memphis was again sacked
+      and looted, and the king [[ Tantamani ]] was pursued into Nubia and
+      defeated, putting a definitive end to the Kushite reign over Egypt.
+  - when: 525 BC
+    what: Egypt and Memphis are taken for Persia by Cambyses after the Battle of
+      Pelusium.
+    from: Egypt and Memphis were taken for [[ Persia ]] by king [[ Cambyses |
+      cambyses-ii ]] in 525 BC after the [[ Battle of Pelusium |
+      battle-of-pelusium-525-bc ]].
+  - when: October 399 BC
+    what: Amyrtaeus, who had ended the Persian occupation, is defeated and
+      executed at Memphis by Nepherites I.
+    from: He was defeated and executed at Memphis in October 399 BC by [[
+      Nepherites I ]], founder of the [[ Twenty-ninth Dynasty |
+      twenty-ninth-dynasty-of-egypt ]].
+  - when: 332 BC
+    what: Alexander the Great is crowned king in the Temple of Ptah.
+    from: In 332 BC, [[ Alexander the Great ]] was crowned king in the Temple of
+      Ptah, ushering in the [[ Hellenistic period | history-of-ptolemaic-egypt
+      ]].
+  - when: 216 and 196 BC
+    what: The Decrees of Memphis are issued by Ptolemy IV and Ptolemy V
+      respectively.
+    from: The [[ Decrees of Memphis | ptolemaic-decrees ]] were issued in 216 and
+      196 BC, by [[ Ptolemy IV ]] and [[ Ptolemy V ]] respectively.
+  - when: 380 AD
+    what: The Edict of Thessalonica makes Nicene Christianity the sole religion of
+      the Roman Empire; the city's religious significance was diminished after
+      the abandonment of the ancient religion that followed.
+    from: Its religious significance was diminished after the abandonment of the
+      [[ ancient religion | ancient-egyptian-religion ]] following the [[
+      Edict of Thessalonica ]] (380 AD), which made [[ Nicene Christianity ]]
+      the sole religion of the Roman Empire.
+  - when: 641 AD
+    what: Fustat is established, and Memphis stops being the second city of Egypt.
+    from: Memphis remained the second city of Egypt until the establishment of [[
+      Fustat ]] (or Fostat) in 641 AD.
+  - when: 7th century AD
+    what: The infobox gives this as the date Memphis was abandoned.
+    from: "abandoned: 7th century AD"
+  - when: "1820"
+    what: Caviglia and Sloane make the first excavations of the site and discover
+      the great colossus of Ramesses II lying.
+    from: The first excavations of the site were made by Caviglia and Sloane in
+      1820 and they discovered the great colossus of Ramesses II lying,
+      currently on display in the museum.
+  - when: 1907 to 1912
+    what: Flinders Petrie's major excavations uncover the majority of the ruins as
+      seen today.
+    from: The major excavations of the British Egyptologist Sir [[ William Matthew
+      Flinders Petrie | flinders-petrie ]], conducted from 1907 to 1912,
+      uncovered the majority of the ruins as seen today.
+  - when: "1979"
+    what: Memphis and its necropolis are inscribed on the World Heritage List of
+      UNESCO.
+    from: Memphis and its necropolis, which include funerary rock tombs, mastabas,
+      temples, and pyramids, were inscribed on the [[ World Heritage List |
+      world-heritage-site ]] of UNESCO in 1979.
+  - when: January 2018
+    what: The second colossus, restored to its full standing height of 11 metres,
+      is installed at the entrance of the Grand Egyptian Museum.
+    from: Deemed an unsuitable location, it was moved in 2006 to a temporary
+      location in [[ Giza ]], where it underwent restoration before being
+      installed at the entrance of the [[ Grand Egyptian Museum ]] in January
+      2018.
+image-plan:
+  - file: Flickr_-_IDS.photos_-_Cairo_sculptures,_Egypt._(1).jpg
+    role: hero
+    section: lead
+    caption: The colossus of [[ Ramesses II | rameses-ii ]] in the open-air museum
+      — the site of ancient Memphis is open to the public as an [[ open-air
+      museum ]].
+  - file: ISS-43_Memphis,_Lower_Egypt.jpg
+    role: full
+    section: attributes
+    caption: "Memphis and its necropolis Saqqara seen from the [[ International
+      Space Station ]]: the city sat on the west bank of the [[ Nile ]], with
+      the pyramid fields on the desert plateau beyond."
+  - file: Egyptian_-_Nefertem_-_Walters_541972.jpg
+    role: inline
+    section: history
+    caption: A ritualistic object depicting the [[ god Nefertem | nefertem ]], who
+      was mainly worshipped in Memphis[[ ^23 ]] and who, with Ptah and
+      Sekhmet, made up the Memphis [[ triad | triple-deities ]]. The Walters
+      Art Museum.
+  - file: Ramesses-Ptah-Sekhmet.jpg
+    role: inline
+    section: history
+    caption: Ramesses II flanked by [[ Ptah ]] and [[ Sekhmet ]], the creator god
+      of Memphis and his consort.
+  - file: II._Ramses_Heykeli,_Memfis.jpg
+    role: inline
+    section: middle-kingdom
+    caption: A sculpture from the Middle Kingdom restored in the name of Ramesses
+      II — many statues found at the site are attributed to kings of the [[
+      Twelfth Dynasty | twelfth-dynasty-of-egypt ]] and were later restored by
+      New Kingdom kings.[[ ^35 ]]
+  - file: Grand_pretre_Ptah_Sheshonq.jpg
+    role: inline
+    section: new-kingdom
+    caption: A relief representing the [[ High Priest of Ptah ]], Shoshenq. A
+      necropolis of the high priests of Memphis, dating from the Twenty-second
+      Dynasty, has been found west of the forum.
+  - file: Palais_Apries_Memphis.jpg
+    role: inline
+    section: late-period
+    caption: Ruins of the palace of [[ Apries ]], built at Kom Tuman by the Saite
+      kings who feared an invasion from the [[ Babylonians |
+      neo-babylonian-empire ]].
+  - file: Alexander_visits_the_Apis_bull_at_the_temple_in_Memphis_by_Andre_Castaigne_(1898-1899).jpg
+    role: inline
+    section: ptolemaic-period
+    caption: //Alexander at the Temple of Apis in Memphis//, by [[ Andre Castaigne
+      ]] (1898–1899). Alexander was crowned king in the Temple of Ptah in 332
+      BC.
+  - file: Memphis-temple-Ptah.jpg
+    role: full
+    section: great-temple-of-ptah
+    caption: An artist's depiction of the western forecourt of the Great Temple of
+      Ptah. The specific appearance of the temple is unclear at present, and
+      only that of the main access to the perimeter are known.
+  - file: MerenptahOfferingtoPtah.jpg
+    role: inline
+    section: temple-of-ptah-of-merneptah
+    caption: A column depicting [[ Merneptah ]] making an offering to Ptah; in the
+      southeast of the Great Temple complex he founded a new shrine to the
+      chief deity of the city.
+  - file: Temple_d'Hathor_pano.jpg
+    role: full
+    section: temple-of-hathor
+    caption: The ruins of the temple of [[ Hathor ]] of Memphis — currently the
+      only building dedicated to her discovered in the city's ruins.
+  - file: Louvres-antiquites-egyptiennes-p1020068.jpg
+    role: inline
+    section: temple-of-apis
+    caption: A statue of the sacred bull, [[ Apis | apis-deity ]], found at the [[
+      Serapeum of Saqqara ]]; the majority of known Apis statues come from
+      those burial chambers.
+  - file: Siamun’s_royal_cartouche_on_a_lintel.jpg
+    role: inline
+    section: temple-of-amun
+    caption: Ankhefenmut kneels before the royal cartouche of [[ Siamun ]], on a
+      lintel from the Temple of Amun in Memphis — the shrine Siamun built
+      south of the temple of Ptah.
+  - file: Colossal_sculpture_of_Ramesses_II.stl
+    role: drop
+    section: statues-of-ramesses-ii
+    caption: A 3-D scan of the colossal sculpture of Ramesses II in Memphis
+      museum, Egypt.
+  - file: Pyramid_of_Djoser.jpg
+    role: full
+    section: memphite-necropolis
+    caption: The famed stepped [[ Pyramid of Djoser ]] at [[ Saqqara ]], the most
+      famous of the several necropoleis of Memphis.
+  - file: Memphis200402.JPG
+    role: inline
+    section: royal-palaces
+    caption: The ruins of the palace of Apries, on a promontory overlooking
+      Memphis; the complex held a royal palace, a fortress, barracks, and
+      armouries.[[ ^62 ]]
+  - file: MemphisJamesRennell01.jpg
+    role: full
+    section: early-exploration
+    caption: "[[ James Rennell ]]'s map of Memphis and [[ Cairo ]] in 1799,
+      showing the changes in the course of the [[ Nile ]] river."
+  - file: Jean_Pascal_Sebah,_Statue_de_Ramses_-_Memphis_-_18802.jpg
+    role: inline
+    section: nineteenth-century
+    caption: A statue of Ramesses II, uncovered in Memphis by Joseph Hekekyan, who
+      surveyed the site for the Egyptian government from 1852 to 1854.
+glossary:
+  - term: Inebu-hedj
+    gloss: The Ancient Egyptian name of the city, translated as "the white walls".
+    from: Its [[ Ancient Egyptian | egyptian-language ]] name was !![[ Inebu-hedj
+      ]]!! (𓊅𓌉, translated as "the white walls"[[ ^8 ]][[ ^9 ]]).[[ ^10 ]]
+  - term: Men-nefer
+    gloss: '"Enduring and beautiful" — the name the city took at the beginning of
+      the New Kingdom, from which "Memphis" descends.'
+    from: At the beginning of the [[ New Kingdom | new-kingdom-of-egypt ]] (c.
+      1550 BC), the city became known as //[[ mn-nfr |
+      https://en.wiktionary.org/wiki/mn-nfr ]]// (anglicized as !!Men-nefer!!,
+      meaning "enduring and beautiful"), which became "!!Memfi!!" (ⲙⲉⲙϥⲓ) in
+      Bohairic [[ Coptic | coptic-language ]].
+  - term: Ankh-Tawy
+    gloss: '"Life of the Two Lands", a name for the city that stressed its
+      position between Upper and Lower Egypt.'
+    from: At one point the city was referred to as !!Ankh-Tawy!! (meaning "Life of
+      the Two Lands"), stressing the strategic position of the city between [[
+      Upper Egypt ]] and [[ Lower Egypt ]].
+  - term: Hut-ka-Ptah
+    gloss: "\"Enclosure of the ka of Ptah\" — the city's great temple, and one of
+      its most prominent structures."
+    from: Its great [[ temple | egyptian-temple ]], //Hut-ka-Ptah// (meaning
+      "Enclosure of the [[ ka | egyptian-soul ]] of Ptah"), was one of the
+      most prominent structures in the city.
+  - term: The Memphis triad
+    gloss: The creator god Ptah, his consort Sekhmet, and their son Nefertem — the
+      main focus of worship in the city.
+    from: The Memphis [[ triad | triple-deities ]], consisting of the creator god
+      Ptah, his consort [[ Sekhmet ]], and their son [[ Nefertem ]], formed
+      the main focus of worship in the city.
+  - term: Apis
+    gloss: The bull considered to be a living manifestation of Ptah, worshipped at
+      his own temple in Memphis.
+    from: The Temple of Apis in Memphis was the main temple dedicated to the
+      worship of the bull [[ Apis | apis-deity ]], considered to be a living
+      manifestation of Ptah.
+  - term: setem
+    gloss: The high priest over Lower Egypt; Amenhotep II held the office under
+      his father.
+    from: Amenhotep II, born and raised in Memphis, was made the //setem//—the
+      high priest over Lower Egypt—during the reign of his father.
+  - term: Peru-nefer
+    gloss: The port of Memphis, literally "Good Travels" or "//Bon Voyage//", the
+      gateway to the kingdom for neighbouring regions.
+    from: Strengthening trade ties with other empires made the nearby port of [[
+      Peru-nefer ]] (literally, "Good Travels" or "//Bon Voyage//") the
+      gateway to the kingdom for neighbouring regions, including [[ Byblos ]]
+      and the [[ Levant ]].
+further:
+  - slug: saqqara
+    why: "The necropolis west of the city: the complex of Djoser, the mastabas of
+      the high priests of Ptah, and the Serapeum where the Apis bulls were
+      buried."
+  - slug: alexandria
+    why: The coastal city whose rise is believed to have cost Memphis its economic
+      significance, and where Ptolemy II had Alexander's sarcophagus taken.
+  - slug: rosetta-stone
+    why: The most famous of the stelae carrying the Decrees of Memphis, and the
+      one that allowed ancient Egyptian script to be deciphered.
+anchors:
+  hook: Its great [[ temple | egyptian-temple ]], //Hut-ka-Ptah// (meaning
+    "Enclosure of the [[ ka | egyptian-soul ]] of Ptah"), was one of the most
+    prominent structures in the city. The name of this temple, rendered in
+    Greek as //Aἴγυπτoς (Ai-gy-ptos)// by Manetho, is believed to be the
+    etymological origin of the modern English name //Egypt//.
+  standfirst: It was the [[ capital | list-of-egyptian-capitals ]] of [[ ancient
+    Egypt ]] (//Kemet// or //Kumat//) during both the [[ Early Dynastic Period
+    | early-dynastic-period-of-egypt ]] and [[ Old Kingdom ]] and remained an
+    important city throughout [[ ancient Egyptian history |
+    history-of-ancient-egypt ]].[[ ^5 ]][[ ^6 ]][[ ^7 ]] It occupied a
+    strategic position at the mouth of the [[ Nile Delta ]], and was a hub of
+    bustling activity.
+coordinates:
+  lat: 29.84944444
+  lon: 31.255
+image: https://upload.wikimedia.org/wikipedia/commons/c/cf/Memphis200401.JPG
+images:
+  - file: ISS-43_Memphis,_Lower_Egypt.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ISS-43_Memphis%2C_Lower_Egypt.jpg/250px-ISS-43_Memphis%2C_Lower_Egypt.jpg
+    width: 4928
+    height: 3280
+    caption: Memphis and its necropolis Saqqara as seen from the International
+      Space Station
+  - file: Egyptian_-_Nefertem_-_Walters_541972.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Egyptian_-_Nefertem_-_Walters_541972.jpg/250px-Egyptian_-_Nefertem_-_Walters_541972.jpg
+    width: 363
+    height: 1800
+    caption: Ritualistic object depicting the god Nefertem, who was mainly
+      worshipped in Memphis, The Walters Art Museum
+  - file: Ramesses-Ptah-Sekhmet.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ramesses-Ptah-Sekhmet.jpg/250px-Ramesses-Ptah-Sekhmet.jpg
+    width: 1736
+    height: 1992
+    caption: Ramesses II flanked by Ptah and Sekhmet
+  - file: II._Ramses_Heykeli,_Memfis.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/II._Ramses_Heykeli%2C_Memfis.jpg/250px-II._Ramses_Heykeli%2C_Memfis.jpg
+    width: 3024
+    height: 4032
+    caption: Sculpture from the Middle Kingdom restored in the name of Ramesses II
+  - file: Grand_pretre_Ptah_Sheshonq.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grand_pretre_Ptah_Sheshonq.jpg/250px-Grand_pretre_Ptah_Sheshonq.jpg
+    width: 322
+    height: 586
+    caption: Relief representing the High Priest of Ptah, Shoshenq
+  - file: Palais_Apries_Memphis.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Apries_Memphis.jpg/250px-Palais_Apries_Memphis.jpg
+    width: 972
+    height: 441
+    caption: Ruins of the palace of Apries, in Memphis
+  - file: Alexander_visits_the_Apis_bull_at_the_temple_in_Memphis_by_Andre_Castaigne_(1898-1899).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alexander_visits_the_Apis_bull_at_the_temple_in_Memphis_by_Andre_Castaigne_%281898-1899%29.jpg/250px-Alexander_visits_the_Apis_bull_at_the_temple_in_Memphis_by_Andre_Castaigne_%281898-1899%29.jpg
+    width: 813
+    height: 1250
+    caption: Alexander at the Temple of Apis in Memphis, by Andre Castaigne
+      (1898–1899)
+  - file: Memphis-temple-Ptah.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Memphis-temple-Ptah.jpg/250px-Memphis-temple-Ptah.jpg
+    width: 4862
+    height: 2858
+    caption: Artist's depiction of the western forecourt of the Great Temple of
+      Ptah at Memphis
+  - file: MerenptahOfferingtoPtah.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MerenptahOfferingtoPtah.jpg/250px-MerenptahOfferingtoPtah.jpg
+    width: 1704
+    height: 2272
+    caption: Column depicting Merenptah making an offering to Ptah
+  - file: Temple_d'Hathor_pano.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Temple_d%27Hathor_pano.jpg/250px-Temple_d%27Hathor_pano.jpg
+    width: 1273
+    height: 449
+    caption: The ruins of the temple of Hathor of Memphis
+  - file: Louvres-antiquites-egyptiennes-p1020068.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Louvres-antiquites-egyptiennes-p1020068.jpg/250px-Louvres-antiquites-egyptiennes-p1020068.jpg
+    width: 1920
+    height: 2560
+    caption: A statue of the sacred bull, Apis, found at the Serapeum of Saqqara.
+  - file: Siamun’s_royal_cartouche_on_a_lintel.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Siamun%E2%80%99s_royal_cartouche_on_a_lintel.jpg/250px-Siamun%E2%80%99s_royal_cartouche_on_a_lintel.jpg
+    width: 1008
+    height: 604
+    caption: Ankhefenmut kneels before the royal cartouche of Siamun, on a lintel
+      from the Temple of Amun in Memphis
+  - file: Colossal_sculpture_of_Ramesses_II.stl
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Colossal_sculpture_of_Ramesses_II.stl/250px-Colossal_sculpture_of_Ramesses_II.stl.png
+    width: 5120
+    height: 2880
+    caption: A 3-D scan of the colossal sculpture of Ramesses II in Memphis
+      museum, Egypt
+  - file: Flickr_-_IDS.photos_-_Cairo_sculptures,_Egypt._(1).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flickr_-_IDS.photos_-_Cairo_sculptures%2C_Egypt._%281%29.jpg/250px-Flickr_-_IDS.photos_-_Cairo_sculptures%2C_Egypt._%281%29.jpg
+    width: 3888
+    height: 2592
+    caption: The colossus of Ramesses II in the open-air museum
+  - file: Pyramid_of_Djoser.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pyramid_of_Djoser.jpg/250px-Pyramid_of_Djoser.jpg
+    width: 3648
+    height: 2736
+    caption: The famed stepped Pyramid of Djoser at Saqqara, the Memphis necropolis
+  - file: Memphis200402.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Memphis200402.JPG/250px-Memphis200402.JPG
+    width: 640
+    height: 480
+    caption: The ruins of the palace of Apries, overlooking Memphis
+  - file: MemphisJamesRennell01.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MemphisJamesRennell01.jpg/250px-MemphisJamesRennell01.jpg
+    width: 1442
+    height: 1849
+    caption: James Rennell's map of Memphis and Cairo in 1799, showing the changes
+      in the course of the Nile river
+  - file: Jean_Pascal_Sebah,_Statue_de_Ramses_-_Memphis_-_18802.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jean_Pascal_Sebah%2C_Statue_de_Ramses_-_Memphis_-_18802.jpg/250px-Jean_Pascal_Sebah%2C_Statue_de_Ramses_-_Memphis_-_18802.jpg
+    width: 1057
+    height: 819
+    caption: Statue of Ramesses II, uncovered in Memphis by Joseph Hekekyan
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Memphis200401.JPG/330px-Memphis200401.JPG
+    caption: Ruins of the pillared hall of Ramesses II at Mit Rahina
+  type: Settlement
+  periods: Early Dynastic Period to Early Middle Ages
+  location: Mit Rahina, Badrashin, Giza Governorate, Egypt
+  region: Lower Egypt
+  history:
+    built: Earlier than 31st century BC
+    built-by: Unknown, was already in existence during Iry-Hor's reign
+    abandoned: 7th century AD
+  unesco-world-heritage-site:
+    official-name: Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur
+    type: Cultural
+    criteria: i, iii, vi
+    designated: 1979 (3rd session)
+    reference-no: "86"
+    region: Arab states
+sections:
+  - level: 2
+    id: names
+    title: Names
+  - level: 2
+    id: attributes
+    title: Attributes
+  - level: 3
+    id: location
+    title: Location
+  - level: 3
+    id: population
+    title: Population
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: legendary-history
+    title: Legendary history
+  - level: 3
+    id: early-dynastic-period-and-old-kingdom
+    title: Early Dynastic Period and Old Kingdom
+  - level: 3
+    id: middle-kingdom
+    title: Middle Kingdom
+  - level: 3
+    id: new-kingdom
+    title: New Kingdom
+  - level: 3
+    id: late-period
+    title: Late Period
+  - level: 3
+    id: ptolemaic-period
+    title: Ptolemaic Period
+  - level: 3
+    id: decline-and-abandonment
+    title: Decline and abandonment
+  - level: 2
+    id: remains
+    title: Remains
+  - level: 3
+    id: great-temple-of-ptah
+    title: Great Temple of Ptah
+  - level: 3
+    id: temple-of-ptah-of-ramesses-ii
+    title: Temple of Ptah of Ramesses II
+  - level: 3
+    id: temple-of-ptah-and-sekhmet-of-ramesses-ii
+    title: Temple of Ptah and Sekhmet of Ramesses II
+  - level: 3
+    id: temple-of-ptah-of-merneptah
+    title: Temple of Ptah of Merneptah
+  - level: 3
+    id: temple-of-hathor
+    title: Temple of Hathor
+  - level: 3
+    id: other-temples
+    title: Other temples
+  - level: 3
+    id: temples-to-foreign-deities
+    title: Temples to foreign deities
+  - level: 4
+    id: temple-of-sekhmet
+    title: Temple of Sekhmet
+  - level: 4
+    id: temple-of-apis
+    title: Temple of Apis
+  - level: 4
+    id: temple-of-amun
+    title: Temple of Amun
+  - level: 4
+    id: temple-of-aten
+    title: Temple of Aten
+  - level: 3
+    id: statues-of-ramesses-ii
+    title: Statues of Ramesses II
+  - level: 3
+    id: memphite-necropolis
+    title: Memphite Necropolis
+  - level: 3
+    id: royal-palaces
+    title: Royal palaces
+  - level: 3
+    id: other-buildings
+    title: Other buildings
+  - level: 2
+    id: historical-accounts-and-exploration
+    title: Historical accounts and exploration
+  - level: 3
+    id: sources-from-antiquity
+    title: Sources from antiquity
+  - level: 3
+    id: early-exploration
+    title: Early exploration
+  - level: 3
+    id: nineteenth-century
+    title: Nineteenth century
+  - level: 3
+    id: twentieth-century
+    title: Twentieth century
+  - level: 2
+    id: gallery
+    title: Gallery
+wikidata:
+  id: Q5715
+  label: Memphis
+  description: ancient capital of Egypt
+  claims:
+    commons-category: Memphis, Egypt
+    coordinate-location:
+      lat: 29.844667
+      lon: 31.250917
+    country: Egypt
+    located-in-the-administrative-territorial-entity: Giza Governorate
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Memphis%2C_Ramses_II%2C_Ancient_Egypt.jpg
+    topic-s-main-category: Category:Memphis, Egypt
+    instance-of:
+      - ancient city
+      - Ancient Egyptian archaeological site
+    capital-of:
+      - value: Old Kingdom of Egypt
+      - value: Egypt
+        from: 2707 BC
+        to: 2216 BC
+    has-part-s: Memphite necropolis
+    heritage-designation:
+      value: part of UNESCO World Heritage Site
+      from: "1979"
+    elevation-above-sea-level: 20 metre
+    category-for-people-who-died-here: Q32648377
+    described-by-source:
+      - Russian translation of Lübker's Antiquity Lexicon
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Jewish Encyclopedia of Brockhaus and Efron
+      - Bible Encyclopedia of Archimandrite Nicephorus
+      - The Nuttall Encyclopædia
+      - Great Soviet Encyclopedia (1926–1947)
+      - Encyclopædia Britannica 11th edition
+      - The Encyclopedia Americana
+      - The American Cyclopædia
+      - New International Encyclopedia
+    commons-gallery: Memphis (Égypte)
+    page-banner: https://commons.wikimedia.org/wiki/Special:FilePath/WV_banner_Memphis_Egypt_column_closeup.jpg
+    area: 155.16 hectare
+    part-of: Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur
+    significant-event:
+      - value: Siege of Memphis
+        from: 0639-12
+        to: "640"
+      - value: archaeological excavation
+        from: "1820"
+    3d-model: https://commons.wikimedia.org/wiki/Special:FilePath/Colossal_sculpture_of_Ramesses_II.stl
+    on-focus-list-of-wikimedia-project:
+      value: Wikipedia:Vital articles/Level/4
+      when: 2022-10-31
+    start-time: 4th millennium BC
+link-titles:
+  abd-al-latif-al-baghdadi-medieval-writer: Abd al-Latif al-Baghdadi (medieval writer)
+  abu-gorab: Abu Gorab
+  abusir: Abusir
+  achaemenid: Achaemenid
+  ahmed-badawy-archaeologistactioneditredlink1: Ahmed Badawy (archaeologist)?action=edit&redlink=1
+  akhenaten: Akhenaten
+  al-maqrizi: Al-Maqrizi
+  alexander-the-great: Alexander the Great
+  alexandria: Alexandria
+  alexandria-egypt: Alexandria, Egypt
+  amarna: Amarna
+  amarna-period: Amarna Period
+  amarna-letters: Amarna letters
+  amenemhat-i: Amenemhat I
+  amenemhat-ii: Amenemhat II
+  amenemhat-iii: Amenemhat III
+  amenhotep-huy: Amenhotep (Huy)
+  amenhotep-ii: Amenhotep II
+  amenhotep-iii: Amenhotep III
+  american-research-center-in-egypt: American Research Center in Egypt
+  ammianus-marcellinus: Ammianus Marcellinus
+  amun: Amun
+  amyrtaeus: Amyrtaeus
+  ancient-egypt: Ancient Egypt
+  ancient-egyptian-architecture: Ancient Egyptian architecture
+  ancient-egyptian-religion: Ancient Egyptian religion
+  ancient-greek-language: Ancient Greek language
+  ancient-near-east: Ancient Near East
+  andre-castaigne: Andre Castaigne
+  ankhesenamun: Ankhesenamun
+  aphrodite: Aphrodite
+  apis-egyptian-mythology: Apis (Egyptian mythology)
+  apis-deity: Apis (deity)
+  apries: Apries
+  arab: Arab
+  arabic-language: Arabic language
+  archaeology: Archaeology
+  aristander: Aristander
+  aristote: Aristote
+  artaxerxes-iii: Artaxerxes III
+  ashurbanipal: Ashurbanipal
+  astarte: Astarte
+  aten: Aten
+  atenism: Atenism
+  auguste-édouard-mariette: Auguste-Édouard Mariette
+  avaris: Avaris
+  ay-pharaoh: Ay (pharaoh)
+  babylon: Babylon
+  badrashin: Badrashin
+  bastet: Bastet
+  battle-of-actium: Battle of Actium
+  battle-of-pelusium-525-bc: Battle of Pelusium (525 BC)
+  british-egypt: British Egypt
+  british-museum: British Museum
+  bubastis: Bubastis
+  byblos: Byblos
+  byzantine-egypt: Byzantine Egypt
+  cairo: Cairo
+  cambyses-ii: Cambyses II
+  claudius-aelianus: Claudius Aelianus
+  cleopatra: Cleopatra
+  copt: Copt
+  coptic-language: Coptic language
+  coronation-of-the-pharaoh: Coronation of the pharaoh
+  dahshur: Dahshur
+  darius-iii: Darius III
+  days-journey: Day's journey
+  demetrius-of-phalerum: Demetrius of Phalerum
+  demotic-egyptian-script: Demotic Egyptian script
+  description-de-légypte: Description de l'Égypte
+  diodorus-siculus: Diodorus Siculus
+  djoser: Djoser
+  dream-stele: Dream Stele
+  early-dynastic-period-of-egypt: Early Dynastic Period of Egypt
+  edict-of-thessalonica: Edict of Thessalonica
+  egypt-exploration-society: Egypt Exploration Society
+  egypt-in-the-middle-ages: Egypt in the Middle Ages
+  egyptian-arabic-language: Egyptian Arabic language
+  egyptian-museum: Egyptian Museum
+  egyptian-revolution-of-1952: Egyptian Revolution of 1952
+  egyptian-hieroglyphs: Egyptian hieroglyphs
+  egyptian-language: Egyptian language
+  egyptian-soul: Egyptian soul
+  egyptian-temple: Egyptian temple
+  eighteenth-dynasty-of-egypt: Eighteenth dynasty of Egypt
+  embalming: Embalming
+  epaphus: Epaphus
+  esarhaddon: Esarhaddon
+  first-dynasty-of-egypt: First dynasty of Egypt
+  first-intermediate-period-of-egypt: First Intermediate Period of Egypt
+  flinders-petrie: Flinders Petrie
+  flooding-of-the-nile: Flooding of the Nile
+  fourth-dynasty-of-egypt: Fourth Dynasty of Egypt
+  french-campaign-in-egypt-and-syria: French Campaign in Egypt and Syria
+  fustat: Fustat
+  giovanni-battista-caviglia: Giovanni Battista Caviglia
+  giza: Giza
+  giza-governorate: Giza Governorate
+  giza-necropolis: Giza Necropolis
+  giza-pyramid-complex: Giza pyramid complex
+  golden-age: Golden age
+  grand-egyptian-museum: Grand Egyptian Museum
+  greek-magical-papyri: Greek Magical Papyri
+  greek-language: Greek language
+  greek-people: Greek people
+  hathor: Hathor
+  hedjet: Hedjet
+  heliopolis-ancient-egypt: Heliopolis (Ancient Egypt)
+  heliopolis-cairo-suburb: Heliopolis (Cairo suburb)
+  hellenistic: Hellenistic
+  hellenistic-period: Hellenistic period
+  heraclite: Heraclite
+  heresy: Heresy
+  herodotus: Herodotus
+  hesiod: Hesiod
+  high-priest-of-ptah: High Priest of Ptah
+  history-of-christianity: History of Christianity
+  history-of-persian-egypt: History of Persian Egypt
+  history-of-ptolemaic-egypt: History of Ptolemaic Egypt
+  history-of-roman-egypt: History of Roman Egypt
+  history-of-ancient-egypt: History of ancient Egypt
+  history-of-ancient-lebanon: History of ancient Lebanon
+  hittites: Hittites
+  homer: Homer
+  hor-aha: Hor-Aha
+  horemheb: Horemheb
+  hyksos: Hyksos
+  inebu-hedj: Inebu-hedj
+  international-space-station: International Space Station
+  io-mythology: Io (mythology)
+  ippolito-rosellini: Ippolito Rosellini
+  iry-hor: Iry-Hor
+  james-rennell: James Rennell
+  jean-de-thévenot: Jean de Thévenot
+  jean-françois-champollion: Jean-François Champollion
+  jebel-barkal: Jebel Barkal
+  karl-richard-lepsius: Karl Richard Lepsius
+  karnak: Karnak
+  khabash: Khabash
+  khedive: Khedive
+  khonsu: Khonsu
+  kingdom-of-kush: Kingdom of Kush
+  labib-habachi: Labib Habachi
+  late-period-of-egypt: Late Period of Egypt
+  leopold-ii-grand-duke-of-tuscany: Leopold II, Grand Duke of Tuscany
+  levant: Levant
+  limestone: Limestone
+  list-of-ancient-egyptian-dynasties: List of ancient Egyptian dynasties
+  list-of-egyptian-capitals: List of Egyptian capitals
+  list-of-museums-and-galleries-in-berlin: List of museums and galleries in Berlin
+  list-of-museums-in-london: List of museums in London
+  list-of-museums-in-paris: List of museums in Paris
+  list-of-necropoleis: List of necropoleis
+  literal-translation: Literal translation
+  lower-egypt: Lower Egypt
+  macedon: Macedon
+  manetho: Manetho
+  mastaba: Mastaba
+  maya-egyptian: Maya (Egyptian)
+  megalopolis-city-type: Megalopolis (city type)
+  memphis-wife-of-epaphus: Memphis (wife of Epaphus)
+  memphite-necropolis: Memphite Necropolis
+  mendes: Mendes
+  menes: Menes
+  menkaura: Menkaura
+  merneptah: Merneptah
+  middle-kingdom-of-egypt: Middle Kingdom of Egypt
+  mithras: Mithras
+  mortuary-complex-of-pepi-i: Mortuary complex of Pepi I
+  mortuary-temple: Mortuary temple
+  muhammad-ali-of-egypt: Muhammad Ali of Egypt
+  mummification: Mummification
+  museo-egizio: Museo Egizio
+  muslim-conquest-of-egypt: Muslim conquest of Egypt
+  mut: Mut
+  napata: Napata
+  napoléon-bonaparte: Napoléon Bonaparte
+  narmer: Narmer
+  nectanebo-i: Nectanebo I
+  nectanebo-ii: Nectanebo II
+  nefertem: Nefertem
+  neith: Neith
+  neo-assyrian-empire: Neo-Assyrian Empire
+  neo-babylonian-empire: Neo-Babylonian Empire
+  nepherites-i: Nepherites I
+  new-kingdom-of-egypt: New Kingdom of Egypt
+  nicene-christianity: Nicene Christianity
+  nile: Nile
+  nile-delta: Nile Delta
+  nilus-mythology: Nilus (mythology)
+  nineteenth-dynasty-of-egypt: Nineteenth dynasty of Egypt
+  nineveh: Nineveh
+  nome-egypt: Nome (Egypt)
+  nubia: Nubia
+  old-kingdom: Old Kingdom
+  open-air-museum: Open-air museum
+  oracle: Oracle
+  osiris: Osiris
+  osorkon-ii: Osorkon II
+  palermo-stone: Palermo Stone
+  palette-of-narmer: Palette of Narmer
+  papyrus-harris-i: Papyrus Harris I
+  peristyle: Peristyle
+  persia: Persia
+  persian-empire: Persian Empire
+  persian-people: Persian people
+  peru-nefer: Peru-nefer
+  pharaoh: Pharaoh
+  phoenicians: Phoenicians
+  pi-ramesses: Pi-Ramesses
+  pierre-montet: Pierre Montet
+  pindar: Pindar
+  piye: Piye
+  plato: Plato
+  prophecy: Prophecy
+  protagoras: Protagoras
+  proteus: Proteus
+  psamtik-i: Psamtik I
+  pschent: Pschent
+  ptah: Ptah
+  ptolemaic-decrees: Ptolemaic Decrees
+  ptolemaic-kingdom: Ptolemaic Kingdom
+  ptolemaic-dynasty: Ptolemaic dynasty
+  ptolemy-i-soter: Ptolemy I Soter
+  ptolemy-ii-philadelphus: Ptolemy II Philadelphus
+  ptolemy-iv: Ptolemy IV
+  ptolemy-v: Ptolemy V
+  pyramid-of-djoser: Pyramid of Djoser
+  pyramid-of-pepi-i: Pyramid of Pepi I
+  pyramid-of-teti: Pyramid of Teti
+  ra: Ra
+  rameses-ii: Rameses II
+  rameses-iii: Rameses III
+  ramesses-ii: Ramesses II
+  ramses-station: Ramses Station
+  roman-egypt: Roman Egypt
+  romulus: Romulus
+  rosetta-stone: Rosetta Stone
+  saqqara: Saqqara
+  sarcophagus: Sarcophagus
+  satrap: Satrap
+  sed-festival: Sed festival
+  sekhmet: Sekhmet
+  senusret-ii: Senusret II
+  serapeum: Serapeum
+  serapeum-of-saqqara: Serapeum of Saqqara
+  serapis: Serapis
+  seti-i: Seti I
+  seventeenth-dynasty-of-egypt: Seventeenth Dynasty of Egypt
+  sheshonk-i: Sheshonk I
+  shoshenq-d: Shoshenq D
+  siamun: Siamun
+  sixth-dynasty-of-egypt: Sixth dynasty of Egypt
+  sphinx: Sphinx
+  statue-of-ramesses-ii-mit-rahina: Statue of Ramesses II (Mit Rahina)
+  stele: Stele
+  strabo: Strabo
+  suetonius: Suetonius
+  sun-hieroglyph: Sun (hieroglyph)
+  supreme-council-of-antiquities: Supreme Council of Antiquities
+  suzerainty: Suzerainty
+  synod: Synod
+  taharqa: Taharqa
+  tanis-egypt: Tanis, Egypt
+  tantamani: Tantamani
+  temenos: Temenos
+  temple-of-ptah-memphis: Temple of Ptah (Memphis)
+  temples-of-a-million-years: Temples of a Million years
+  tertius-chandler: Tertius Chandler
+  teti: Teti
+  thales: Thales
+  the-new-capital: The New Capital
+  theban-triad: Theban Triad
+  thebes-egypt: Thebes, Egypt
+  theogony: Theogony
+  thinis: Thinis
+  third-dynasty-of-egypt: Third Dynasty of Egypt
+  third-intermediate-period-of-egypt: Third Intermediate Period of Egypt
+  thirteenth-dynasty-of-egypt: Thirteenth Dynasty of Egypt
+  thirtieth-dynasty-of-egypt: Thirtieth Dynasty of Egypt
+  thutmose-i: Thutmose I
+  thutmose-iv: Thutmose IV
+  triple-deities: Triple deities
+  tutankhamun: Tutankhamun
+  tuthmosis-iv: Tuthmosis IV
+  twelfth-dynasty-of-egypt: Twelfth Dynasty of Egypt
+  twenty-fifth-dynasty-of-egypt: Twenty-fifth Dynasty of Egypt
+  twenty-first-dynasty-of-egypt: Twenty-first dynasty of Egypt
+  twenty-fourth-dynasty-of-egypt: Twenty-fourth dynasty of Egypt
+  twenty-ninth-dynasty-of-egypt: Twenty-ninth dynasty of Egypt
+  twenty-second-dynasty-of-egypt: Twenty-second dynasty of Egypt
+  twenty-sixth-dynasty-of-egypt: Twenty-sixth dynasty of Egypt
+  university-of-pennsylvania: University of Pennsylvania
+  university-of-pennsylvania-museum-of-archaeology-and-anthropology: University of Pennsylvania Museum of Archaeology and Anthropology
+  upper-egypt: Upper Egypt
+  upper-and-lower-egypt: Upper and Lower Egypt
+  urban-sprawl: Urban sprawl
+  valley-of-the-kings: Valley of the Kings
+  victory-stele-of-piye-at-gebel-barkal: Victory Stele of Piye at Gebel Barkal
+  victory-stele-of-esarhaddon: Victory stele of Esarhaddon
+  world-heritage-site: World Heritage Site
+  wāli: Wāli
+  zawyet-elaryan: Zawyet el'Aryan
+  zeus: Zeus
+source:
+  site: Wikipedia
+  lang: en
+  title: Memphis, Egypt
+  url: https://en.wikipedia.org/wiki/Memphis%2C_Egypt
+  page-id: 96603
+  revision: "1368912279"
+  modified: 2026-08-11T20:28:36Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Memphis,
+    Egypt" (revision 1368912279), by Wikipedia contributors, used under CC
+    BY-SA 4.0.
+rewritten:
+  of: corpus/en/memphis-egypt.mdy
+  source-digest: 4c17b377e8e0e510
+  source-revision: "1368912279"
+  model: claude-opus-5
+  left-out: Two non-prose blocks in the source were not reproduced as they
+    stood. The "Names" section opens with a table of hieroglyph images (mn, n,
+    nfr, f, r, O24, niwt) captioned "Memphis (mn nfr) in hieroglyphs"; it is a
+    rendering of the name in glyph images rather than prose, and the rewritten
+    section carries the names themselves instead. The "Gallery" section's six
+    thumbnails and the annotated site plan were kept as their captions and
+    labels, with the links intact, rather than as raw image markup. The
+    infobox image (Memphis200401.JPG, "Ruins of the pillared hall of Ramesses
+    II at Mit Rahina") and the six gallery photographs are not in the
+    article's images list, so they were not given entries in the image plan.
+  verified: true
+  verdict: clean
+  reviewed: false
++++
+!!Memphis!! (Egyptian Arabic: منف, romanized: //Manf//, pronounced [[ [mænf\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FEgyptian_Arabic ]]; Bohairic Coptic: ⲙⲉⲙϥⲓ; Greek: Μέμφις), or !!Men-nefer!!, was the ancient capital of [[ Inebu-hedj ]], the first [[ nome | nome-egypt ]] of [[ Lower Egypt ]] that was known as //mḥw// ("North").[[ ^2 ]] Its ruins are located in the vicinity of the present-day village of !!Mit Rahina!! (Arabic: ميت رهينة), in [[ Badrashin ]] markaz (county), [[ Giza Governorate ]], Egypt.[[ ^3 ]]
+
+West of the city the [[ pyramid fields | memphite-necropolis ]] stretch across a desert plateau for more than 30 kilometres (19 mi), the famous [[ Pyramids of Giza | giza-pyramid-complex ]] among them; Memphis and its necropolis have been listed together as a [[ World Heritage Site ]].[[ ^4 ]] The site is open to the public as an [[ open-air museum ]].
+
+According to legends related in the early third century BC by [[ Manetho ]], a priest and historian who lived in the [[ Ptolemaic Kingdom ]] during the [[ Hellenistic period ]] of Egyptian history, the city was founded by [[ King | pharaoh ]] [[ Menes ]]. It was the [[ capital | list-of-egyptian-capitals ]] of [[ ancient Egypt ]] (//Kemet// or //Kumat//) during both the [[ Early Dynastic Period | early-dynastic-period-of-egypt ]] and [[ Old Kingdom ]] and remained an important city throughout [[ ancient Egyptian history | history-of-ancient-egypt ]].[[ ^5 ]][[ ^6 ]][[ ^7 ]] It occupied a strategic position at the mouth of the [[ Nile Delta ]], and was a hub of bustling activity. Its principal port, Peru-nefer (not to be confused with [[ Peru-nefer ]] at [[ Avaris ]]), featured a high density of workshops, factories, and warehouses that distributed food and merchandise throughout the ancient kingdom. During its golden age, Memphis thrived as a regional centre for commerce, trade, and religion.
+
+Memphis was believed to be under the protection of the god [[ Ptah ]], the patron of craftsmen. Its great [[ temple | egyptian-temple ]], //Hut-ka-Ptah// (meaning "Enclosure of the [[ ka | egyptian-soul ]] of Ptah"), was one of the most prominent structures in the city. The name of this temple, rendered in Greek as //Aἴγυπτoς (Ai-gy-ptos)// by Manetho, is believed to be the etymological origin of the modern English name //Egypt//.
+
+The history of Memphis is closely linked to [[ that of the region | history-of-ancient-egypt ]] itself. Its eventual downfall is believed to have been due to the loss of its economic significance in late antiquity, following the rise of coastal [[ Alexandria ]]. Its religious significance was diminished after the abandonment of the [[ ancient religion | ancient-egyptian-religion ]] following the [[ Edict of Thessalonica ]] (380 AD), which made [[ Nicene Christianity ]] the sole religion of the Roman Empire. By the [[ Middle Ages | egypt-in-the-middle-ages ]], nearby Cairo had emerged as a major political and economic center.
+
+Today the ruins of the former capital offer fragmented evidence of its past, and many of its remains have become significant tourist destinations. The name Memphis is also one of the names proposed for [[ The New Capital ]], naming it after the ruined historical capital.
+
+== Names
+
+Memphis has had several names during its history of almost four millennia. Its [[ Ancient Egyptian | egyptian-language ]] name was !![[ Inebu-hedj ]]!! (𓊅𓌉, translated as "the white walls"[[ ^8 ]][[ ^9 ]]).[[ ^10 ]]
+
+Because of its size, the city also came to be known by various other names — the names of neighbourhoods or districts that enjoyed considerable prominence at one time or another. According to a text of the [[ First Intermediate Period | first-intermediate-period-of-egypt ]],[[ ^11 ]] it was known as !!Djed-Sut!! ("everlasting places"), which is the name of the [[ pyramid of Teti ]].[[ ^12 ]]
+
+At one point the city was referred to as !!Ankh-Tawy!! (meaning "Life of the Two Lands"), stressing the strategic position of the city between [[ Upper Egypt ]] and [[ Lower Egypt ]]. This name appears to date from the [[ Middle Kingdom | middle-kingdom-of-egypt ]] (c. 2055–1640 BCE), and is frequently found in ancient Egyptian texts.[[ ^13 ]] Some scholars maintain that this name was that of an area that contained a sacred tree, the western district of the city that lay between the great Temple of Ptah and the necropolis at [[ Saqqara ]].[[ ^14 ]]
+
+At the beginning of the [[ New Kingdom | new-kingdom-of-egypt ]] (c. 1550 BC), the city became known as //[[ mn-nfr | https://en.wiktionary.org/wiki/mn-nfr ]]// (anglicized as !!Men-nefer!!, meaning "enduring and beautiful"), which became "!!Memfi!!" (ⲙⲉⲙϥⲓ) in Bohairic [[ Coptic | coptic-language ]]. The name "!!Memphis!!" (Μέμφις) is the Greek adaptation of the name that they had given to the [[ pyramid of Pepi I | mortuary-complex-of-pepi-i ]],[[ ^1 ]] located west of the city.[[ ^15 ]]
+
+Some claim that the modern town !!Mit Rahina!! received its name from the ancient Egyptian later name for Memphis //[[ mjt-rhnt | https://en.wiktionary.org/wiki/mjt-rhnt ]]//, meaning "Road of the Ram-Headed Sphinxes" — a reference to the ancient causeway connecting Memphis and Saqqara, on which the procession of the dead bull travelled for burial in the [[ Serapeum of Saqqara ]].[[ ^16 ]] It has been rejected by numerous Egyptologists on the basis of the town's earlier name Minyat Rahina (Arabic: منية رهينة), which could possibly be derived from the name of a Bedouin tribe.[[ ^17 ]]
+
+While attempting to draw ancient Egyptian history and religious elements into that of their own traditions, the Greek poet [[ Hesiod ]] in his //[[ Theogony ]]// explained the name of the city by saying that Memphis was a daughter of the Greek river god [[ Nilus | nilus-mythology ]] and the wife of [[ Epaphus ]] (the son of [[ Zeus ]] and [[ Io | io-mythology ]]), who founded the city and named it after his wife.[[ ^18 ]]
+
+In the Bible, Memphis is called either //Noph//, or //Moph//.[[ ^19 ]]
+
+The Muslim tradition adopted the Coptic etymology which operates with an etymon //Māfah//, derived from Coptic: ⲙⲁⲁⲃ, [[ lit. | literal-translation ]] 'thirty'. It made the number significant in the following traditions relating to Memphis: it was thirty miles long, [[ Manqāwus | menes ]] built it for his thirty daughters and Baysar lived here with his thirty children.[[ ^20 ]]
+
+== Attributes
+
+The city stood on the west bank of the [[ Nile ]], 20 km (12 mi) south of [[ Cairo ]], on the line that divided Upper Egypt from Lower Egypt. Its footprint is uninhabited today, and how many people it once held is a question the sources answer very differently.
+
+== Location
+
+The city of Memphis is 20 km (12 mi) south of [[ Cairo ]], on the west bank of the [[ Nile ]]. The modern cities and towns of Mit Rahina, [[ Dahshur ]], [[ Abusir ]], [[ Abu Gorab ]], and [[ Zawyet el'Aryan ]], south of Cairo, all lie within the administrative borders of historical Memphis ([[ 29°50′58.8″N 31°15′15.4″E﻿ / ﻿29.849667°N 31.254278°E | https://geohack.toolforge.org/geohack.php?pagename=Memphis,_Egypt&params=29_50_58.8_N_31_15_15.4_E_type:landmark ]]). The city was also the place that marked the boundary between Upper Egypt and Lower Egypt. (The 22nd nome of Upper Egypt and 1st nome of Lower Egypt).
+
+== Population
+
+Today, the footprint of the ancient city is uninhabited; the closest modern settlement is the town of Mit Rahina. Estimates of historical population size differ widely among sources. According to [[ Tertius Chandler ]], Memphis had some 30,000 inhabitants and was by far the largest settlement worldwide from the time of its foundation until approximately 2250 BC and from 1557 to 1400 BC.[[ ^21 ]] K. A. Bard is more cautious and estimates the city's population to have numbered approximately 6,000 inhabitants during the Old Kingdom.[[ ^22 ]]
+
+== History
+
+During the [[ Early Dynastic Period | early-dynastic-period-of-egypt ]] and Old Kingdom, Memphis became the capital of Ancient Egypt for more than six consecutive [[ dynasties | list-of-ancient-egyptian-dynasties ]]. The city reached a peak of prestige under the [[ Sixth Dynasty | sixth-dynasty-of-egypt ]] as a centre for the worship of [[ Ptah ]], the god of creation and artworks. The alabaster [[ sphinx ]] that guards the Temple of Ptah serves as a memorial of the city's former power and prestige.[[ ^24 ]][[ ^25 ]] The Memphis [[ triad | triple-deities ]], consisting of the creator god Ptah, his consort [[ Sekhmet ]], and their son [[ Nefertem ]], formed the main focus of worship in the city.
+
+Memphis declined after the [[ Eighteenth Dynasty | eighteenth-dynasty-of-egypt ]] with the rise of [[ Thebes | thebes-egypt ]] and the New Kingdom, but was revived under the [[ Persians | history-of-persian-egypt ]], before falling firmly into second place following the founding of [[ Alexandria | alexandria-egypt ]]. Under the [[ Roman Empire | history-of-roman-egypt ]], Alexandria remained the most important Egyptian city. Memphis remained the second city of Egypt until the establishment of [[ Fustat ]] (or Fostat) in 641 AD. Afterward it was largely abandoned and became a source of stone for the surrounding settlements. It was still an imposing set of ruins in the twelfth century, but soon became little more than an expanse of low ruins and scattered stone.
+
+== Legendary history
+
+The legend recorded by [[ Manetho ]] was that [[ Menes ]], the first king to unite the [[ Two Lands | upper-and-lower-egypt ]], established his capital on the banks of the [[ Nile ]] by diverting the river with dikes. The Greek historian [[ Herodotus ]], who tells a similar story, relates that during his visit to the city, the [[ Persians | persian-empire ]], at that point the [[ suzerains | suzerainty ]] of the country, paid particular attention to the condition of these dams so that the city was saved from the [[ annual flooding | flooding-of-the-nile ]].[[ ^26 ]]
+
+It has been theorised that Menes may have been a mythical king, similar to [[ Romulus ]] of Rome. Some scholars suggest that Egypt most likely became unified through mutual need, developing cultural ties and trading partnerships, although it is undisputed that the first capital of united Egypt was the city of Memphis.[[ ^27 ]]
+
+Some Egyptologists had identified the legendary Menes with the historical [[ Narmer ]], who is represented on the [[ Palette of Narmer ]] conquering the territory of the Nile Delta in Lower Egypt and establishing himself as king. This palette has been dated to ca. 31st century BC and thus, would correlate with the legend of Egypt's unification by Menes. However, in 2012 an inscription depicting the visit of the predynastic king [[ Iry-Hor ]] to Memphis was discovered in the Sinai.[[ ^1 ]] Since Iry-Hor predates Narmer by two generations, the latter cannot have been the founder of the city.[[ ^1 ]]
+
+Alternatively, [[ Epaphus ]] (king of Egypt, whose wife was [[ Memphis | memphis-wife-of-epaphus ]][[ ^28 ]]) is regarded in the Greek myths as the founder of Memphis, Egypt.[[ ^29 ]]
+
+== Early Dynastic Period and Old Kingdom
+
+Little is known about the city of the [[ Old Kingdom ]] and before. It was the state capital of the powerful kings, who reigned from Memphis from the date of the [[ First Dynasty | first-dynasty-of-egypt ]]. According to Manetho, during the earliest years of the reign of Menes, the seat of power was farther to the south, at [[ Thinis ]]; also according to Manetho, ancient sources suggest the "white walls" (Ineb-hedj) or "fortress of the white wall" were founded by Menes. It is likely that the king established himself there to better control the new union between the two kingdoms that formerly were rivals. The [[ complex of Djoser | pyramid-of-djoser ]] of the [[ Third Dynasty | third-dynasty-of-egypt ]], located in the ancient necropolis at [[ Saqqara ]], would then be the royal funerary chamber, housing all the elements necessary to royalty: temples, shrines, ceremonial courts, palaces, and barracks.
+
+The [[ golden age ]] began with the [[ Fourth Dynasty | fourth-dynasty-of-egypt ]], which seems to have furthered the primary role of Memphis as a royal residence where rulers received the [[ double crown | pschent ]], the divine manifestation of the unification of the Two Lands. [[ Coronations | coronation-of-the-pharaoh ]] and jubilees such as the [[ Sed festival ]] were celebrated in the temple of Ptah. The earliest signs of such ceremonies were found in the chambers of [[ Djoser ]].
+
+During this period, the clergy of the [[ temple of Ptah | temple-of-ptah-memphis ]] came into being. The importance of the temple is attested with payments of food and other goods necessary for the funerary rites of royal and noble dignitaries.[[ ^30 ]] This temple also is cited in the annals preserved on the [[ Palermo Stone ]], and beginning from the reign of [[ Menkaura ]], we know the names of the [[ high priests | high-priest-of-ptah ]] of Memphis who seem to have worked in pairs, at least until the reign of [[ Teti ]].
+
+The architecture of this period was similar to that seen at [[ Giza royal necropolis | giza-necropolis ]] of the Fourth Dynasty, where recent excavations have revealed that the essential focus of the kingdom at that time centred on the construction of the royal tombs. A strong suggestion of this notion is the etymology of the name of the city itself, which matched that of the [[ pyramid of Pepi I ]] of the [[ Sixth Dynasty | sixth-dynasty-of-egypt ]]. Memphis was then the heir to a long artistic and architectural practice, constantly encouraged by the monuments of preceding reigns.
+
+All these [[ necropoleis | list-of-necropoleis ]] were surrounded by camps inhabited by craftsmen and labourers, dedicated exclusively to the construction of royal tombs. Spread over several kilometres stretching in all directions, Memphis formed a true [[ megalopolis | megalopolis-city-type ]], with temples connected by sacred [[ temenos ]], and ports connected by roadways and canals.[[ ^31 ]] The perimeter of the city thus gradually extended into a vast [[ urban sprawl ]]. Its centre remained around the temple complex of Ptah.
+
+== Middle Kingdom
+
+At the beginning of the [[ Middle Kingdom | middle-kingdom-of-egypt ]], the capital and court of the king had moved to [[ Thebes | thebes-egypt ]] in the south, leaving Memphis for a time. Although the seat of political power had shifted, Memphis did remain perhaps the most important commercial and artistic centre, as evidenced by the discovery of handicrafts districts and cemeteries, located west of the temple of Ptah.[[ ^32 ]]
+
+Vestiges attesting to the architectural focus of this time were also found. A large granite offering table on behalf of [[ Amenemhat I ]] mentioned the erection by the king of a shrine to the god Ptah, master of Truth.[[ ^33 ]] Other blocks registered in the name of [[ Amenemhat II ]] were found to be used as foundations for large monoliths preceding the pylons of Ramses II. These kings were also known to have ordered mining expeditions, raids, or military campaigns beyond the borders, erecting monuments or statues to the consecration of deities, evinced by a panel recording official acts of the royal court during this time. In the ruins of the Temple of Ptah, a block in the name of [[ Senusret II ]] bears an inscription indicating an architectural commission as a gift to the deities of Memphis.[[ ^34 ]] Moreover, many statues found at the site, later restored by the New Kingdom kings, are attributed to kings of the [[ Twelfth Dynasty | twelfth-dynasty-of-egypt ]]. Examples include the two stone giants that have been recovered amidst the temple ruins, which were later restored under the name of Ramesses II.[[ ^35 ]]
+
+Finally, according to the tradition recorded by Herodotus,[[ ^36 ]] and [[ Diodorus | diodorus-siculus ]],[[ ^37 ]] [[ Amenemhat III ]] built the northern gate of the Temple of Ptah. Remains attributed to this king were indeed found during the excavations in this area conducted by [[ Flinders Petrie ]], who confirmed the connection. It is also worth noting that, during this time, [[ mastabas | mastaba ]] of the high priests of Ptah were constructed near the royal pyramids at Saqqara, showing that the royalty and the clergy of Memphis at that time were closely linked. The [[ Thirteenth Dynasty | thirteenth-dynasty-of-egypt ]] continued this trend, and some kings of this line were buried at Saqqara, attesting that Memphis retained its place at the heart of the monarchy.
+
+With the invasion of the [[ Hyksos ]] and their rise to power ca. 1650 BC, the city of Memphis came under siege. Following its capture, many monuments and statues of the ancient capital were dismantled, looted, or damaged by the Hyksos kings, who later carried them off to adorn their new capital at [[ Avaris ]].[[ ^2 ]] Evidence of royal propaganda has been uncovered and attributed to the Theban kings of the [[ Seventeenth Dynasty | seventeenth-dynasty-of-egypt ]], who initiated the reconquest of the kingdom half a century later.
+
+== New Kingdom
+
+The [[ Eighteenth Dynasty | eighteenth-dynasty-of-egypt ]] thus opened with the victory over the invaders by the Thebans. Some Eighteenth Dynasty kings, particularly [[ Amenhotep II ]] (r. 1427–1401/1397 BC) and [[ Thutmose IV ]] (r. 1401/1397–1391/1388 BC) gave considerable royal focus to Memphis, but for the most part, power remained in the south.[[ ^38 ]] With the long period of peace that followed, prosperity again took hold of the city, which benefited from her strategic position. Strengthening trade ties with other empires made the nearby port of [[ Peru-nefer ]] (literally, "Good Travels" or "//Bon Voyage//") the gateway to the kingdom for neighbouring regions, including [[ Byblos ]] and the [[ Levant ]].
+
+In the New Kingdom, Memphis became a centre for the education of royal princes and the sons of the nobility. Amenhotep II, born and raised in Memphis, was made the //setem//—the high priest over Lower Egypt—during the reign of his father. His son, Thutmose IV received his famed and recorded [[ dream | dream-stele ]] whilst residing as a young prince in Memphis. During his exploration of the site, [[ Karl Richard Lepsius ]] identified a series of blocks and broken colonnades in the name of Thutmose IV to the east of the Temple of Ptah. They had to belong to a royal building, most likely a ceremonial palace.
+
+The founding of the temple of [[ Astarte ]] (Mespotamian or Assyrian goddess of fertility and war; Babylonian = Ishtar), which Herodotus syncretically understands is dedicated to the Greek goddess [[ Aphrodite ]], also may be dated to the Eighteenth Dynasty, specifically the reign of [[ Amenhotep III ]] (r. 1388/86–1351/1349 BC). The greatest work of this king in Memphis, however, was a temple called "Nebmaatra united with Ptah", which is cited by many sources from the period of his reign, including artefacts listing the works of [[ Huy | amenhotep-huy ]], the High Steward of Memphis.[[ ^39 ]] The location of this temple has not been precisely determined, but a number of its brown quartzite blocks were found to have been reused by Ramesses II (r. 1279–1213 BC) for the construction of the small temple of Ptah. This leads some Egyptologists to suggest that the latter temple had been built over the site of the first.[[ ^40 ]]
+
+According to inscriptions found in Memphis, [[ Akhenaten ]] (r. 1353/51–1336/34 BC; formerly Amenhotep IV) founded a temple of [[ Aten ]] in the city.[[ ^41 ]] The burial chamber of one of the priests of this cult has been uncovered at Saqqara.[[ ^42 ]] His successor [[ Tutankhamun ]] (r. 1332–1323 BC; formerly Tutankhaten) relocated the royal court from Akhenaten's capital [[ Akhetaten | amarna ]] ("Horizon of the Aten") to Memphis before the end of the second year of his reign. Whilst in Memphis, Tutankhamun initiated a period of restoration of the temples and traditions following the era of [[ Atenism ]], which became regarded as [[ heresy ]].
+
+The tombs of important officials from his reign, such as [[ Horemheb ]] and [[ Maya | maya-egyptian ]], are situated in Saqqara, although Horemheb was buried in the [[ Valley of the Kings ]] after reigning as king himself (r. 1319–1292 BC). He had been commander of the army under Tutankhamun and [[ Ay | ay-pharaoh ]]. Maya was overseer of the treasury during the reigns of Tutankhamun, Ay, and Horemheb. Ay had been Tutankhamun's chief minister, and succeeded him as king (r. 1323–1319 BC). To consolidate his power he married Tutankhamun's widow [[ Ankhesenamun ]], the third of the six daughters of Akhenaten and Nefertiti. Her fate is unknown. Similarly, Horemheb consolidated power when he married Nefertiti's sister Mutnodjemet.
+
+There is evidence that, under [[ Ramesses II ]], the city developed new importance in the political sphere through its proximity to the new capital [[ Pi-Ramesses ]]. The king devoted many monuments in Memphis and adorned them with colossal symbols of glory. [[ Merneptah ]] (r. 1213–1203 BC), his successor, constructed a palace and developed the southeast wall of the temple of Ptah. For the early part of the [[ 19th Dynasty | nineteenth-dynasty-of-egypt ]], Memphis received the privileges of royal attention, and it is this dynasty that is most evident among the ruins of the city today.
+
+With the [[ Twenty-first | twenty-first-dynasty-of-egypt ]] and [[ Twenty-second Dynasties | twenty-second-dynasty-of-egypt ]], there is a continuation of the religious development initiated by Ramesses. Memphis does not seem to have suffered a decline during the [[ Third Intermediate Period | third-intermediate-period-of-egypt ]], which saw great changes in the geopolitics of the country. Instead it is likely that the kings worked to develop the Memphite cult in their new capital of [[ Tanis | tanis-egypt ]], to the northeast. In light of some remains found at the site, it is known that a temple of Ptah was based there. [[ Siamun ]] is cited as having built a temple dedicated to [[ Amun ]], the remains of which were found by Flinders Petrie in the early twentieth century, in the south of the temple of Ptah complex.[[ ^43 ]]
+
+According to inscriptions describing his architectural work, [[ Sheshonk I ]] (r. 943–922 BC), founder of the Twenty-second Dynasty, constructed a forecourt and pylon of the temple of Ptah, a monument that he named the "Castle of Millions of Years of Sheshonk, Beloved of Amun". The funerary cult surrounding this monument, well known in the New Kingdom, was still functioning several generations after its establishment at the temple, leading some scholars to suggest that it may have contained the royal burial chamber of the king.[[ ^44 ]] Sheshonk also ordered the building of a new shrine for the god [[ Apis | apis-egyptian-mythology ]], especially devoted to funeral ceremonies in which the bull was led to his death before being ritually [[ mummified | mummification ]].[[ ^45 ]][[ ^46 ]]
+
+A necropolis for the high priests of Memphis dating precisely from the Twenty-second Dynasty has been found west of the forum. It included a chapel dedicated to Ptah by a prince [[ Shoshenq | shoshenq-d ]], son of [[ Osorkon II ]] (r. 872–837 BC), whose tomb was found in Saqqara in 1939 by [[ Pierre Montet ]]. The chapel is currently visible in the gardens of the [[ Egyptian Museum ]] in Cairo, behind a trio of colossi of Ramesses II, which are also from Memphis.
+
+== Late Period
+
+During the Third Intermediate Period and the [[ Late Period | late-period-of-egypt ]], Memphis is often the scene of liberation struggles of the local dynasties against an occupying force, such as the [[ Kushites | kingdom-of-kush ]], Assyrians, and Persians. The triumphant campaign of [[ Piankhi | piye ]], ruler of the Kushites, saw the establishment of the [[ Twenty-fifth Dynasty | twenty-fifth-dynasty-of-egypt ]], whose seat of power was in [[ Napata ]]. Piankhi's conquest of Egypt was recorded on the [[ Victory Stele | victory-stele-of-piye-at-gebel-barkal ]] at the Temple of Amun in [[ Gebel Barkal | jebel-barkal ]]. Following the capture of Memphis, he restored the temples and cults neglected during the [[ reign of the Libyans | twenty-fourth-dynasty-of-egypt ]]. His successors are known for building chapels in the southwest corner of the temple of Ptah.[[ ^47 ]]
+
+Memphis was at the heart of the turmoil produced by the great [[ Assyrian | neo-assyrian-empire ]] threat. Under [[ Taharqa ]], the city formed the frontier base of the resistance, which soon crumbled as the Kushite king was driven back into [[ Nubia ]]. The Assyrian king [[ Esarhaddon ]], supported by some of the native Egyptian princes, captured Memphis in 671 BC. His forces sacked and raided the city, slaughtered villagers, and erected piles of their heads. Esarhaddon returned to his capital [[ Nineveh ]] with rich booty, and erected a [[ victory stele | victory-stele-of-esarhaddon ]] showing the son of Taharqa in chains. Almost as soon as the king left, Egypt rebelled against Assyrian rule.
+
+In Assyria, [[ Ashurbanipal ]] succeeded his father and resumed the offensive against Egypt. In a massive invasion in 664 BC, the city of Memphis was again sacked and looted, and the king [[ Tantamani ]] was pursued into Nubia and defeated, putting a definitive end to the Kushite reign over Egypt. Power then returned to the [[ Saite kings | twenty-sixth-dynasty-of-egypt ]], who, fearful of an invasion from the [[ Babylonians | neo-babylonian-empire ]], reconstructed and even fortified structures in the city, as is attested by the palace built by [[ Apries ]] at Kom Tuman.
+
+Egypt and Memphis were taken for [[ Persia ]] by king [[ Cambyses | cambyses-ii ]] in 525 BC after the [[ Battle of Pelusium | battle-of-pelusium-525-bc ]]. Under the [[ Persians | history-of-persian-egypt ]], structures in the city were preserved and strengthened, and Memphis was made the administrative headquarters of the newly conquered [[ satrapy | satrap ]]. A Persian garrison was permanently installed within the city, probably in the great north wall, near the domineering palace of Apries. The excavations by Flinders Petrie revealed that this sector included armouries. For almost a century and a half, the city remained the capital of the Persian satrapy of Egypt ("Mudraya"/"Musraya"), officially becoming one of the epicentres of commerce in the vast territory conquered by the Achaemenid monarchy.
+
+The stelae dedicated to [[ Apis | apis-deity ]] in the [[ Serapeum ]] at Saqqara, commissioned by the reigning monarch, represent a key element in understanding the events of this period. As in the Late Period, the catacombs in which the remains of the sacred bulls were buried gradually grew in size, and later took on a monumental appearance that confirms the growth of the cult's hypostases throughout the country, and particularly in Memphis and its necropolis. Thus, a monument dedicated by [[ Cambyses II ]] seems to refute the testimony of Herodotus, who lends the conquerors a criminal attitude of disrespect against the sacred traditions.
+
+The nationalist awakening came with the rise to power, however briefly, of [[ Amyrtaeus ]] in 404 BC, who ended the Persian occupation. He was defeated and executed at Memphis in October 399 BC by [[ Nepherites I ]], founder of the [[ Twenty-ninth Dynasty | twenty-ninth-dynasty-of-egypt ]]. The execution was recorded in an Aramaic papyrus document (Papyrus Brooklyn 13). Nepherites moved the capital to [[ Mendes ]], in the eastern delta, and Memphis lost its status in the political sphere. It retained, however, its religious, commercial, and strategic importance, and was instrumental in resisting Persian attempts to reconquer Egypt.
+
+Under [[ Nectanebo I ]], a major rebuilding program was initiated for temples across the country. In Memphis, a powerful new wall was rebuilt for the Temple of Ptah, and developments were made to temples and chapels inside the complex. [[ Nectanebo II ]] meanwhile, while continuing the work of his predecessor, began building large sanctuaries, especially in the necropolis of Saqqara, adorning them with pylons, statues, and paved roads lined with rows of sphinxes. Despite his efforts to prevent the recovery of the country by the Persians, he succumbed to an invasion in 340 BC. Nectanebo II retreated south to Memphis, to which the Achaemenid king [[ Artaxerxes III ]] laid siege, forcing the king to flee to Upper Egypt, and eventually to Nubia.
+
+A brief liberation of the city under the rebel-king [[ Khababash | khabash ]] (338 to 335 BC) is evinced by an Apis bull sarcophagus bearing his name, which was discovered at Saqqara dating from his second year. The armies of [[ Darius III ]] eventually regained control of the city.
+
+Memphis under the Late Period saw recurring invasions followed by successive liberations. Several times besieged, it was the scene of several of the bloodiest battles in the history of the country. Despite the support of their Greek allies in undermining the hegemony of the Achaemenids, the country nevertheless fell into the hands of the conquerors, and Memphis was never again to become the nation's capital. In 332 BC came the Greeks, who took control of the country from the Persians, and Egypt would never see a new native ruler ascend the throne until the [[ Egyptian Revolution of 1952 ]].
+
+== Ptolemaic Period
+
+In 332 BC, [[ Alexander the Great ]] was crowned king in the Temple of Ptah, ushering in the [[ Hellenistic period | history-of-ptolemaic-egypt ]]. The city retained a significant status, especially religious, throughout the period following the takeover by one of his generals, [[ Ptolemy I | ptolemy-i-soter ]].
+
+On the death of Alexander in Babylon (323 BCE), Ptolemy took great pains in acquiring his body and bringing it to Memphis. Claiming that the king had officially expressed a desire to be buried in Egypt, he then carried the body of Alexander to the heart of the temple of Ptah, and had him embalmed by the priests. By custom, kings in [[ Macedon ]] asserted their right to the throne by burying their predecessor. [[ Ptolemy II | ptolemy-ii-philadelphus ]] later transferred the [[ sarcophagus ]] to Alexandria, where a royal tomb was constructed for its burial. The exact location of the tomb has been lost since then. According to [[ Aelian | claudius-aelianus ]], the seer [[ Aristander ]] foretold that the land where Alexander was laid to rest "would be happy and unvanquishable forever".
+
+Thus began the [[ Ptolemaic dynasty ]], during which began the city's gradual decline. It was Ptolemy I who first introduced the cult of [[ Serapis ]] in Egypt, establishing his cult in Saqqara. From this period date many developments of the Saqqara Serapeum, including the building of the Chamber of Poets, as well as the //dromos// adorning the temple, and many elements of Greek-inspired architecture. The cult's reputation extended beyond the borders of the country, but was later eclipsed by the great [[ Alexandrian Serapeum | serapeum#alexandria ]], built in Ptolemy's honour by his successors.
+
+The [[ Decrees of Memphis | ptolemaic-decrees ]] were issued in 216 and 196 BC, by [[ Ptolemy IV ]] and [[ Ptolemy V ]] respectively. Delegates from the principal clergies of the kingdom gathered in [[ synod ]], under the patronage of the High Priest of Ptah and in the presence of the king, to establish the religious policy of the country for years to come, also dictating fees and taxes, creating new foundations, and paying tribute to the Ptolemaic rulers. These decrees were engraved on [[ stelae | stele ]] in three scripts to be read and understood by all: [[ Demotic | demotic-egyptian-script ]], [[ hieroglyphic | egyptian-hieroglyphs ]], and [[ Greek | ancient-greek-language ]]. The most famous of these stelae is the [[ Rosetta Stone ]], which allowed the deciphering of ancient Egyptian script in the nineteenth century.
+
+There were other stelae, funerary this time, discovered on the site that have forwarded knowledge of the genealogy of the higher clergy of Memphis, a dynasty of high priests of Ptah. The lineage retained strong ties with the royal family in Alexandria, to the extent that marriages occurred between certain high priests and Ptolemaic princesses, strengthening even further the commitment between the two families.
+
+== Decline and abandonment
+
+With the arrival of the [[ Romans | history-of-roman-egypt ]], Memphis, like Thebes, lost its place permanently in favour of [[ Alexandria ]], which opened onto the empire. The rise of the cult of [[ Serapis ]], a syncretic deity most suited to the mentality of the new rulers of Egypt, and the emergence of [[ Christianity | history-of-christianity ]] taking root deep into the country, spelled the complete ruin of the ancient cults of Memphis.
+
+During the [[ Byzantine | byzantine-egypt#byzantine-egypt ]] and [[ Coptic | copt ]] periods the city gradually dwindled and finally dropped out of existence. It then became a quarry from which its stones were used to build new settlements nearby, including [[ Fustat ]], the new capital founded by the [[ Arabs | arab ]] who [[ took possession | muslim-conquest-of-egypt ]] in the seventh century AD. The foundations of Fustat and later [[ Cairo ]], both built farther north, were laid with stones of dismantled temples and ancient necropoleis of Memphis. In the thirteenth century, the Arab chronicler [[ Abd-ul-Latif | abd-al-latif-al-baghdadi-medieval-writer ]], upon visiting the site, described and gave testimony to the grandeur of the ruins.
+
+<blockquote
+  Enormous as are the extent and antiquity of this city, in spite of the frequent change of governments whose yoke it has borne, and the great pains more than one nation has been at to destroy it, to sweep its last trace from the face of the earth, to carry away the stones and materials of which it was constructed, to mutilate the statues which adorned it; in spite, finally, of all that more than four thousand years have done in addition to man, these ruins still offer to the eye of the beholder a mass of marvels which bewilder the senses and which the most skillful pens must fail to describe. The more deeply we contemplate this city the more our admiration rises, and every fresh glance at the ruins is a fresh source of delight \... The ruins of Memphis hold a half-[[ day's journey ]] in every direction.[[ ^48 ]][[ ^49 ]]
+
+Although the remains today are nothing compared to what was witnessed by the Arab historian, his testimony has inspired the work of many archaeologists. The first surveys and excavations of the nineteenth century, and the extensive work of [[ Flinders Petrie ]], have been able to show a little of the former glory of the ancient capital. Memphis and its necropolis, which include funerary rock tombs, mastabas, temples, and pyramids, were inscribed on the [[ World Heritage List | world-heritage-site ]] of UNESCO in 1979.
+
+== Remains
+
+During the time of the New Kingdom, and especially under the reign of the rulers of the [[ Nineteenth Dynasty | nineteenth-dynasty-of-egypt ]], Memphis flourished in power and size, rivalling Thebes both politically and [[ architecturally | ancient-egyptian-architecture ]]. An indicator of this development can be found in a chapel of [[ Seti I ]] dedicated to the worship of Ptah. After more than a century of excavations on the site, archaeologists have gradually been able to confirm the layout and expansion of the ancient city.
+
+== Great Temple of Ptah
+
+The //Hout-ka-Ptah//,[[ ^3 ]] dedicated to the worship of the creator god [[ Ptah ]], was the largest and most important temple in ancient Memphis, occupying a large precinct within the city's centre. Enriched by centuries of veneration, it was one of the three foremost places of worship in Ancient Egypt, the others being the great temples of [[ Ra ]] in [[ Heliopolis | heliopolis-ancient-egypt ]], and of [[ Amun ]] in Thebes.
+
+Much of what is known today about the ancient temple comes from the writings of Herodotus, who visited the site at the time of the first Persian invasion, long after the fall of the New Kingdom. Herodotus claimed that the temple had been founded by [[ Menes ]], and that the core building of the complex was restricted to priests and kings.[[ ^50 ]] His account, however, gives no physical description of the complex. Archaeological work undertaken in the last century has gradually unearthed the temple's ruins, revealing a huge walled compound accessible by several monumental gates located along the southern, western, and eastern walls.
+
+The remains of the great temple and its premises are displayed as an open-air museum near the great [[ colossus | #statues-of-rameses-ii ]] of Ramesses II, which originally marked the southern axis of the temple. Also in this sector is a large [[ sphinx ]] monolith, discovered in the nineteenth century. It dates from the [[ Eighteenth Dynasty | eighteenth-dynasty-of-egypt ]], most likely having been carved during the reign of either [[ Amenhotep II ]] or [[ Thutmose IV ]]. It is one of the finest examples of this kind statuary still present on its original site. The outdoor museum houses numerous other statues, colossi, sphinxes, and architectural elements. However, the majority of the finds have been sold to major museums around the world; for the most part, these can be found on display in the [[ Egyptian Museum ]] in Cairo.
+
+The specific appearance of the temple is unclear at present, and only that of the main access to the perimeter are known. Recent developments include the discovery of giant statues that adorned the gates or towers; those that have been found date from the reign of Ramsses II. This king also built at least three shrines within the temple compound, where worship is associated with those deities to whom they were dedicated.
+
+== Temple of Ptah of Ramesses II
+
+This small temple, adjoining the southwest corner of the larger Temple of Ptah, was dedicated to the deified Ramesses II, along with the three state deities: Horus, Ptah and Amun. It is known in full as the Temple of Ptah of Ramesses, Beloved of [[ Amun ]], God, Ruler of Heliopolis.[[ ^51 ]]
+
+Its ruins were discovered in 1942 by archaeologist Ahmed Badawy and were excavated in 1955 by Rudolf Anthes. The excavations uncovered a religious building complete with a tower, a courtyard for ritual offerings, a portico with columns followed by a pillared hall and a tripartite sanctuary, all enclosed in walls built of mudbricks. Its most recent exterior has been dated from the New Kingdom era.
+
+The temple opened to the east toward a path paved with other religious buildings. The archaeological explorations that took place here reveal that the southern part of the city indeed contain a large number of religious buildings with a particular devotion to the god Ptah, the principal deity of Memphis.
+
+== Temple of Ptah and Sekhmet of Ramesses II
+
+Located farther east, and near to the great colossus of Ramesses, this small temple is attributed to the nineteenth dynasty, and seems to have been dedicated to Ptah and his divine consort [[ Sekhmet ]], as well as deified Ramesses II. Its ruins are not so well preserved as others nearby, as its limestone foundations appear to have been quarried after the abandonment of the city in late antiquity.
+
+Two giant statues, dating from the Middle Kingdom, originally adorned the building's facade, which opened to the west. They were moved inside the Museum of Memphis, and depicted the king standing in the attitude of the march, wearing the [[ Hedjet ]], the white crown of Upper Egypt.
+
+== Temple of Ptah of Merneptah
+
+In the southeast of the Great Temple complex, the king [[ Merneptah ]] of the Nineteenth Dynasty founded a new shrine in honour of the chief deity of the city, Ptah. This temple was discovered in the early twentieth century by Flinders Petrie, who identified it as a depiction of the Greek god [[ Proteus ]] cited by Herodotus.
+
+The site was excavated during the First World War by Clarence Stanley Fisher. Excavations began in the anterior part, which is formed by a large courtyard of approximately 15 sq metres, opening on the south by a large door with reliefs supplying the names of the king and the epithets of Ptah. Only this part of the temple has been unearthed; the remainder of the chamber has yet to be explored a little farther north. During the excavations, archaeologists unearthed the first traces of an edifice built of mudbrick, which quickly proved to be a large ceremonial palace built alongside the temple proper. Some of the key elements of the stone temple were donated by Egypt to the [[ museum | university-of-pennsylvania-museum-of-archaeology-and-anthropology ]] at the [[ University of Pennsylvania ]], which financed the expedition, while the other remained at the [[ Egyptian Museum ]] in [[ Cairo ]].
+
+The temple remained in use throughout the rest of the New Kingdom, as evidenced by enrolment surges during the reigns of later kings. Thereafter, however, it was gradually abandoned and converted for other uses by civilians. Gradually buried by the activity of the city, the stratigraphic study of the site shows that by the [[ Late Period | late-period-of-egypt ]] it was already in ruins and is soon covered by new buildings.
+
+== Temple of Hathor
+
+This small temple of Hathor was unearthed south of the great wall of the Hout-Ka-Ptah by Abdullah al-Sayed Mahmud in the 1970s and also dates from the time of Ramesses II.[[ ^52 ]] Dedicated to the goddess [[ Hathor ]], Lady of the Sycamore, it presents an architecture similar to the small temple-shrines known especially to [[ Karnak ]]. From its proportions, it does not seem to be a major shrine of the goddess, but is currently the only building dedicated to her discovered in the city's ruins.
+
+It is believed that this shrine was primarily used for processional purposes during major religious festivals. A larger temple dedicated to Hathor, indeed one of the foremost shrines of the goddess in the country, is thought to have existed elsewhere in the city, but to date has not been discovered. A depression, similar to that found near the great temple of Ptah, could indicate its location. Archaeologists believe that it could house the remains of an enclosure and a large monument, a theory attested by ancient sources.
+
+== Other temples
+
+The temple of the goddess [[ Neith ]] was said to have been located to the north of the temple of Ptah. It has not been discovered to date.
+
+Memphis is believed to have housed a number of other temples dedicated to deities who accompanied Ptah. Some of these sanctuaries are attested by ancient hieroglyphs, but have not yet been found among the ruins of the city. Surveys and excavations are still continuing at nearby Mit Rahina, and will likely add to the knowledge of the planning of the ancient religious city.
+
+== Temples to foreign deities
+
+A temple dedicated to [[ Mithras ]], dated from the [[ Roman period | roman-egypt ]], has been uncovered in the grounds north of Memphis. The temple of [[ Astarte ]], described by Herodotus, was located in the area reserved to the [[ Phoenicians ]] during the time when the Greek author visited the city, but has not been discovered to date.
+
+== Temple of Sekhmet
+
+A temple dedicated to the goddess [[ Sekhmet ]], consort of Ptah, has not yet been found, but is currently certified by Egyptian sources, and archaeologists are still searching for remains. It may be located within the precinct of the Hout-ka-Ptah, as would seem to suggest several discoveries made among the ruins of the complex in the late nineteenth century, including a block of stone evoking the "great door" with the epithet of the goddess,[[ ^53 ]] and a column bearing an inscription on behalf of Ramesses II declaring him "beloved of Sekhmet".[[ ^54 ]] It has also been demonstrated through the [[ Great Harris Papyrus | papyrus-harris-i ]], which states that a statue of the goddess was made alongside those of Ptah and their son, the god [[ Nefertem ]], during the reign of [[ Ramesses III | rameses-iii ]], and that it was commissioned for the deities of Memphis at the heart of the great temple.[[ ^55 ]][[ ^56 ]]
+
+== Temple of Apis
+
+The Temple of Apis in Memphis was the main temple dedicated to the worship of the bull [[ Apis | apis-deity ]], considered to be a living manifestation of Ptah. It is detailed in the works of classical historians such as Herodotus, Diodorus, and [[ Strabo ]], but its location has yet to be discovered amidst the ruins of the ancient capital. According to Herodotus, who described the temple's courtyard as a [[ peristyle ]] of columns with giant statues, it was built during the reign of [[ Psamtik I ]]. The Greek historian Strabo visited the site with the conquering Roman troops, following the victory against [[ Cleopatra ]] in the [[ Battle of Actium ]]. He details that the temple consisted of two chambers, one for the bull and the other for his mother, and all was built near the temple of Ptah.
+
+At the temple, Apis was used as an [[ oracle ]], his movements being interpreted as [[ prophecies | prophecy ]]. His breath was believed to cure disease, and his presence to bless those around with virility. He was given a window in the temple through which he could be seen, and on certain holidays was led through the streets of the city, bedecked with jewellery and flowers.
+
+In 1941, the archaeologist Ahmed Badawy discovered the first remains in Memphis that depicted the god Apis. The site, located within the grounds of the great temple of Ptah, was revealed to be a mortuary chamber designed exclusively for the [[ embalming ]] of the sacred bull. A [[ stele ]] found at Saqqara shows that [[ Nectanebo II ]] had ordered the restoration of this building, and elements dated from the [[ Thirtieth Dynasty | thirtieth-dynasty-of-egypt ]] have been unearthed in the northern part of the chamber, confirming the time of reconstruction in this part of the temple. It is likely that the mortuary was part of the larger temple of Apis cited by ancient sources. This sacred part of the temple would be the only part that has survived, and would confirm the words of Strabo and Diodorus, both of whom stated that the temple was located near the temple of Ptah.[[ ^57 ]]
+
+The majority of known Apis statues come from the burial chambers known as [[ Serapeum ]], located to the northwest at [[ Saqqara ]]. The most ancient burials found at this site date back to the reign of [[ Amenhotep III ]].
+
+== Temple of Amun
+
+During the [[ Twenty-first Dynasty | twenty-first-dynasty-of-egypt ]], a shrine of the great god [[ Amun ]] was built by [[ Siamun ]] to the south of the temple of Ptah. This temple (or temples) was most likely dedicated to the [[ Theban Triad ]], consisting of Amun, his consort [[ Mut ]], and their son [[ Khonsu ]]. It was the Upper Egyptian counterpart of the Memphis Triad (Ptah, Sekhmet, and Nefertem).
+
+== Temple of Aten
+
+A temple dedicated to [[ Aten ]] in Memphis is attested by hieroglyphs found within the tombs of Memphite dignitaries of the end of the [[ Eighteenth Dynasty | eighteenth-dynasty-of-egypt ]], uncovered at Saqqara. Among them, that of [[ Tutankhamun ]], who began his career under the reign of his father, [[ Akhenaten ]], as a "steward of the temple of Aten in Memphis".[[ ^58 ]]
+
+Since the early excavations at Memphis in the late nineteenth and early twentieth centuries, artefacts have been uncovered in different parts of the city that indicate the presence of a building dedicated to the worship of the [[ sun disc | sun-hieroglyph ]], The Aten. The location of such a building is lost, and various hypotheses have been made on this subject based on the place of discovery of the remains of the [[ Amarna Period ]] features.[[ ^59 ]]
+
+== Statues of Ramesses II
+
+The ruins of ancient Memphis have yielded a large number of sculptures representing [[ Ramesses II | rameses-ii ]]. Within the museum in Memphis is a giant statue of him carved of monumental [[ limestone ]], about 10 metres in length. It was discovered in 1820 near the southern gate of the temple of Ptah by Italian archaeologist [[ Giovanni Caviglia | giovanni-battista-caviglia ]]. Because the base and feet of the sculpture are broken off from the rest of the body, it is currently displayed lying on its back. Some of the colours are still partially preserved, but the beauty of this statue lies in its flawless detail of the complex and subtle forms of human anatomy. The king wears the white crown of Upper Egypt, [[ Hedjet ]].
+
+Caviglia offered to send the statue to Grand Duke of Tuscany, [[ Leopold II | leopold-ii-grand-duke-of-tuscany ]], through the mediation of [[ Ippolito Rosellini ]]. Rosellini advised the sovereign of the terrible expenses involved with transportation, and considered as necessary the cutting of the colossus into pieces. The [[ Wāli ]] and self-declared [[ Khedive ]] of Egypt and Sudan, [[ Muhammad Ali Pasha | muhammad-ali-of-egypt ]], offered to donate it to the [[ British Museum ]], but the museum declined the offer because of the difficult task of shipping the huge statue to London. It therefore remained in the archaeological area of Memphis in the museum built to protect it.
+
+The colossus was one of a pair that historically adorned the eastern entrance to the temple of Ptah. [[ The other | statue-of-ramesses-ii-mit-rahina ]], found in the same year also by Caviglia, was restored in the 1950s to its full standing height of 11 metres. It was first displayed in the Bab Al-Hadid square in Cairo, which was subsequently renamed Ramses Square. Deemed an unsuitable location, it was moved in 2006 to a temporary location in [[ Giza ]], where it underwent restoration before being installed at the entrance of the [[ Grand Egyptian Museum ]] in January 2018. A replica of the statues stands in a suburb of [[ Cairo ]], [[ Heliopolis | heliopolis-cairo-suburb ]].
+
+== Memphite Necropolis
+
+Because of its antiquity and its large population, Memphis had several [[ necropoleis | list-of-necropoleis ]] spread along the valley, including the most famous, [[ Saqqara ]]. In addition, the urban area consisted of cemeteries that were constructed to the west of the great temple. The sanctity of these places inevitably attracted the devout and the faithful, who sought either to make an offering to [[ Osiris ]], or to bury another.
+
+The part of the city called //Ankh-tawy// was already included in the Middle Kingdom necropolis. Expansions of the western sector of the temple of Ptah were ordered by the kings of the [[ Twenty-second Dynasty | twenty-second-dynasty-of-egypt ]], seeking to revive the past glory of the Ramesside age. Within this part of the site was founded a necropolis of the high priests.
+
+According to sources, the site also included a chapel or an oratory to the goddess [[ Bastet ]], which seems consistent with the presence of monuments of rulers of the dynasty following the cult of [[ Bubastis ]]. Also in this area were the [[ mortuary temples | mortuary-temple ]] devoted by various New Kingdom kings, whose function is paralleled by Egyptologists to that played by the [[ Temples of a Million years ]] of the Theban kings.
+
+== Royal palaces
+
+Memphis was the seat of power for the kings of more than eight [[ dynasties | list-of-ancient-egyptian-dynasties ]]. According to Manetho, the first royal palace was founded by [[ Hor-Aha ]], the successor of [[ Narmer ]], the founder of the [[ 1st Dynasty | first-dynasty-of-egypt ]]; he built a fortress in Memphis of white walls. Egyptian sources tell of the palaces of the Old Kingdom rulers, some of which were built underneath major royal pyramids. They were immense in size, and were embellished with parks and lakes.[[ ^60 ]] In addition to the palaces described below, other sources indicate the existence of a palace founded in the city by [[ Thutmose I ]], which was still operating under the reign of [[ Tuthmosis IV ]].
+
+According to official texts of his reign, Merneptah ordered the building of a large walled enclosure housing a new temple and an adjoining palace.[[ ^61 ]] Later [[ Apries ]], had a palatial complex constructed at Kom Tuman on a promontory overlooking the city. It was part of a series of structures built within the temple precinct in the Late Period, and contained a royal palace, a fortress, barracks, and armouries. [[ Flinders Petrie ]] excavated the area and found considerable signs of military activity.[[ ^62 ]]
+
+== Other buildings
+
+The centrally located palaces and temples were surrounded by different districts of the city, in which were many craftsmen's workshops, arsenals, and dockyards. Also were residential neighbourhoods, some of which were inhabited primarily by foreigners—first [[ Hittites ]] and [[ Phoenicians ]], later [[ Persians | persian-people ]], and finally [[ Greeks | greek-people ]]. The city was indeed located at the crossroads of trade routes and thus attracted goods imported from diverse regions of the Mediterranean.
+
+Ancient texts confirm that citywide development took place regularly. Furthermore, there is evidence that the [[ Nile ]] has shifted over the centuries to the east, leaving new lands to occupy in the eastern part of the old capital.[[ ^63 ]] This area of the city was dominated by the large eastern gate of the temple of Ptah.
+
+== Historical accounts and exploration
+
+The site of Memphis has been famous since ancient times and is cited in many ancient sources, including both Egyptian and foreign. Diplomatic records found on different sites have detailed the correspondence between the city and the various contemporary empires in the Mediterranean, [[ Ancient Near East ]], and Africa. These include for example the [[ Amarna letters ]], which detail trade conducted by Memphis with the sovereigns of [[ Babylon ]] and the various city-states of [[ Lebanon | history-of-ancient-lebanon ]]. The proclamations of the later Assyrian kings cite Memphis among its list of conquests.
+
+== Sources from antiquity
+
+Beginning with the second half of the first millennium BC, the city was detailed more and more intensely in the words of ancient historians, especially with the development of trade ties with Greece. The descriptions of the city by travellers who followed the traders in the discovery of Egypt have proved instrumental in reconstructing an image of the glorious past of the ancient capital. Among the main classical authors are:
+
+- [[ Herodotus ]], Greek historian, who visited and described the monuments of the city during the first [[ Persian | persian-people ]][[ Achaemenid ]] rule in the fifth century BC [[ ^64 ]]
+- [[ Diodorus Siculus ]], Greek historian, who visited the site in the first century BC, providing later information about the city during the reign of the Ptolemies [[ ^65 ]]
+- [[ Strabo ]], the [[ Hellenistic ]] geographer, who visited during the Roman conquest in the late first century BC [[ ^66 ]]
+
+Subsequently, the city is often cited by other Latin or Greek authors, in rare cases providing an overall description of the city or detailing its cults, as do [[ Suetonius ]][[ ^67 ]] and [[ Ammianus Marcellinus ]],[[ ^68 ]] who pay particular attention to the city's worship of Apis.
+
+The city was plunged into oblivion during the Christian period that followed. Few sources are available to attest to the city's activities during its final stages.
+
+It was not until the conquest of the country by the Arabs that a description of the city reappears, by which time it was in ruins. Among the major sources from this time:
+
+- [[ Abd-al-Latif | abd-al-latif-al-baghdadi-medieval-writer ]], a famous geographer of Baghdad, who in the thirteenth century gives a description of the ruins of the site during his trip to Egypt
+- [[ Al-Maqrizi ]], Egyptian historian in the fourteenth century, who visited the site and describes it in detail
+
+== Early exploration
+
+In 1652 during his trip to Egypt, [[ Jean de Thévenot ]] identified the location of the site and its ruins, confirming the accounts of the old Arab authors for Europeans. His description is brief, but represents the first step toward the exploration that will emerge after the development of [[ archaeology ]].[[ ^69 ]]
+
+The starting point of archaeological exploration in Memphis was [[ Napoléon Bonaparte ]]'s great [[ foray into Egypt | french-campaign-in-egypt-and-syria ]] in 1798. Research and surveys of the site confirmed the identification of Thévenot, and the first studies of its remains were carried out by scientists accompanying French soldiers. The results of the first scientific studies were published in the monumental //[[ Description de l'Égypte ]]//, a map of the region, the first to give the location of Memphis with precision.
+
+== Nineteenth century
+
+The early French expeditions paved the way for explorations of a deeper scope that would follow from the nineteenth century until the present, conducted by leading explorers, Egyptologists, and major archaeological institutions. Some of the notable expeditions:
+
+- The first excavations of the site were made by Caviglia and Sloane in 1820 and they discovered the great colossus of Ramesses II lying, currently on display in the museum.
+- [[ Jean-François Champollion ]], in his trip to Egypt from 1828 to 1830 through Memphis, described the giant statue discovered by Caviglia and Sloane, made a few digs at the site, and decrypted many of the epigraphic remains. He promised to return with more resources and more time to study, but his sudden death in 1832 prevented fulfillment of this ambition.[[ ^70 ]]
+- [[ Karl Richard Lepsius ]], during the Prussian expedition of 1842, made a quick survey of the ruins and created a first detailed map that would serve as the basis for all future explorations and excavations.[[ ^71 ]]
+
+During the [[ British era | british-egypt ]] in Egypt, the development of agricultural technology along with the systematic cultivation of the Nile floodplains led to a considerable amount of accidental archaeological discoveries. Much of what was found would fall into the hands of major European collectors travelling the country on behalf of the great museums of [[ London | list-of-museums-in-london ]], [[ Paris | list-of-museums-in-paris ]], [[ Berlin | list-of-museums-and-galleries-in-berlin ]], and [[ Turin | museo-egizio ]]. It was during one of these land cultivations that peasants accidentally discovered elements of a Roman temple of [[ Mithras ]] during 1847 near the village of Mit Rahina. It was probably at this location where eleven statues were found. A review of //Les Statues Ptolémaïques du Sarapieion de Memphis// noted they were probably built in the third century with limestone and stucco, some standing others sitting. In 1956, Rowe and Rees suggested that this theme was similar to Plato's Academy mosaic. The statues were attributed to, [[ Pindar ]] (seated, identified per a graffiti), an inscription at the back of his chair that reads Dionysi, [[ Demetrius of Phalerum ]], Orphic, aux oiseaux, Hesiode, [[ Homer ]] seated in the center (head was recovered), [[ Protagoras ]], [[ Thales ]], [[ Heraclite ]], [[ Platon | plato ]] (per inscription), and [[ Aristote ]].[[ ^72 ]][[ ^73 ]]
+
+From 1852 to 1854, Joseph Hekekyan, then working for the Egyptian government, conducted geological surveys on the site, and on these occasions made a number of discoveries, such as those at Kom el-Khanzir (northeast of the great temple of Ptah). These stones decorated with reliefs from the Amarna period, originally from the ancient temple of Aten in Memphis, had almost certainly been reused in the foundations of another ruined monument. He also discovered the great [[ colossus of Ramesses II | statue-of-ramesses-ii-mit-rahina ]] in pink granite.
+
+This spate of archaeological discoveries gave birth to the constant risk of seeing all these cultural riches leaving Egyptian soil. [[ Auguste-Édouard Mariette ]], who visited Saqqara in 1850, became aware of the need to create an institution in Egypt responsible for the exploration and conservation of the country's archaeological treasures. He established the [[ Egyptian Antiquities Organisation | supreme-council-of-antiquities ]] (EAO) in 1859, and organised excavations at Memphis that revealed the first evidence of the great temple of Ptah, and uncovered the royal statues of the Old Kingdom.[[ ^74 ]]
+
+The earliest published papyri [[ Greek Magical Papyri ]], may have originated from the region.[[ ^75 ]]
+
+== Twentieth century
+
+The major excavations of the British Egyptologist Sir [[ William Matthew Flinders Petrie | flinders-petrie ]], conducted from 1907 to 1912, uncovered the majority of the ruins as seen today. Major discoveries on the site during these excavations included the pillared hall of the temple of Ptah, the pylon of Ramesses II, the great alabaster sphinx, and the great wall north of the palace of Apries. He also discovered the remains of the Temple of Amun of Siamon, and the Temple of Ptah of Merneptah.[[ ^76 ]] Many of his discoveries were documented by the //London Times// during May 1908.[[ ^77 ]] His work was interrupted during the First World War, and would later be taken up by other archaeologists, gradually uncovering some of the forgotten monuments of the ancient capital.
+
+A timeline listing the main findings:
+
+- 1914 to 1921: the excavations of the [[ University of Pennsylvania ]] of the Temple of Ptah of Merneptah, which yield the discovery of the adjoining palace.
+- 1942: the EAO survey, led by Egyptologist Ahmed Badawy, discovers the small Temple of Ptah of Ramesses, and the chapel of the tomb of Prince Shoshenq of the twenty-second dynasty.[[ ^78 ]]
+- 1950: Egyptologist [[ Labib Habachi ]] discovered the chapel of Seti I, on behalf of the Egyptian Antiquities Organisation. The Egyptian government decided to transfer the pink granite colossus of Ramesses II to Cairo. It was placed before the city's [[ main train station | ramses-station ]], in a square subsequently named //Midân Ramesses// for over fifty years, before being moved to another location in Giza in 2006 for restoration. It was later moved in January 2018 to the [[ Grand Egyptian Museum ]].[[ ^79 ]]
+- 1954: the chance discovery by roadworkers of a necropolis of the Middle Kingdom at Kom el-Fakhri.[[ ^80 ]]
+- 1955 to 1957: Rudolph Anthes, on behalf of the University of Philadelphia, searched and cleared the small Temple of Ptah of Ramesses, and the embalming chapel of Apis.[[ ^81 ]]
+- 1969: the accidental discovery of a chapel of the small Temple of Hathor.[[ ^52 ]]
+- 1970 to 1984: excavations conducted by the EAO clear the small temple of Hathor, directed by Abdullah el-Sayed Mahmud, Huleil Ghali, and AbdelKarim Abu Shanab.
+- 1980: excavations of the embalming chamber of Apis, and further studies by the [[ American Research Center in Egypt ]].[[ ^82 ]]
+- 1982: Egyptologist Jaromir Málek studied and recorded the findings of the small temple of Ptah of Ramesses.[[ ^83 ]]
+- 1970, and 1984 to 1990: excavations by the [[ Egypt Exploration Society ]] of London. Further excavations of the pillared hall and pylon of Ramesses II; the discovery of granite blocks bearing the annals of the reign of [[ Amenemhat II ]]; excavations of the tombs of high priests of Ptah; research and major explorations at the necropolis near Saqqara.[[ ^84 ]]
+- 2003: renewed excavations of the small temple of Hathor by the EAO (now the Supreme Council of Antiquities).
+- 2003 to 2004: Excavations by a combined Russian-Belgian mission in the great wall north of Memphis.
+
+== Gallery
+
+<ul
+  <li
+    Museum worker in the process of cleaning the [[ Ramesses II | #statues-of-rameses-ii ]] colossus
+
+  <li
+    Depiction of Ptah found on the walls of the [[ Temple of Hathor | #temple-of-hathor ]]
+
+  <li
+    The alabaster sphinx found outside the [[ Temple of Ptah | #great-temple-of-ptah ]]
+
+  <li
+    Statue of Ramesses II in the open-air museum
+
+  <li
+    Closeup of the sphinx outside the Temple of Ptah
+
+  <li
+    Colossus of Ramesses II
+
+A plan of the site marks the [[ Temple of Hathor | #temple-of-hathor ]], the //!!Port!!//, the [[ Palace of Apries | #royal-palaces ]], the Northern enclosure, the [[ Temple of Rameses II | #temple-of-ptah-of-rameses-ii ]], //!!Ankh-tawy!!//, !![[ Teti | pyramid-of-teti ]]!!, !![[ Pepi I | pyramid-of-pepi-i ]]!!, !![[ Serapeum | serapeum-of-saqqara ]]!!, !![[ Djoser | pyramid-of-djoser ]]!!, the [[ Temple and palace of Mernptah | #temple-of-ptah-of-merneptah ]], and the [[ Temple of Ptah | #great-temple-of-ptah ]].
+
+[[ ^2 ]]: [[ "TM Places" | https://www.trismegistos.org/place/2712 ]]. //www.trismegistos.org//. Retrieved 16 November 2019.
+
+[[ ^3 ]]: [[ "Markaz al-Badrashin Map" | http://www.giza.gov.eg/GovMaps/To-map13.aspx ]]. //www.giza.gov.eg//. Retrieved 22 January 2023.
+
+[[ ^4 ]]: [[ "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur" | https://whc.unesco.org/en/list/86 ]]. //UNESCO World Heritage Centre//. United Nations Educational, Scientific, and Cultural Organization. Retrieved 7 September 2021.
+
+[[ ^5 ]]: Bard, //Encyclopedia of the Archaeology of Ancient Egypt//, p. 694.
+
+[[ ^6 ]]: [[ Meskell, Lynn | lynn-meskell ]] (2002). //Private Life in New Kingdom Egypt//. Princeton University Press, p.34
+
+[[ ^7 ]]: Shaw, Ian (2003). //The Oxford History of Ancient Egypt//. Oxford University Press, p.279
+
+[[ ^8 ]]: [[ M. T. Dimick | http://www.abebooks.com/Memphis-City-White-Walls-Dimick-Univ/1280894368/bd ]] Archived 2 May 2014 at the [[ Wayback Machine ]] retrieved 14:19GMT 1.10.11
+
+[[ ^9 ]]: [[ //Etymology website//-www.behindthename.com | http://www.behindthename.com/submit/name/memphis ]] Archived 2 May 2014 at the [[ Wayback Machine ]] retrieved 14:22GMT 1.10.11
+
+[[ ^10 ]]: //National Geographic Society: Egypt's Nile Valley Supplement Map//, produced by the Cartographic Division.
+
+[[ ^11 ]]: //Hieratic Papyrus 1116A//, of the Hermitage Museum in Saint Petersburg; cf Scharff, //Der historische Abschnitt der Lehre für König Merikarê//, p.36
+
+[[ ^12 ]]: Montet, //Géographie de l'Égypte ancienne//, (Vol I), pp. 28–29.
+
+[[ ^13 ]]: Najovits, Simson R. //Egypt, trunk of the tree: a modern survey of an ancient land// (Vol. 1–2), Algora Publishing, p171.
+
+[[ ^14 ]]: Montet, //Géographie de l'Égypte ancienne//, (Vol I), p. 32.
+
+[[ ^1 ]]: //Ppj-mn-nfr// = Pepi-men-nefer ("Pepi is perfection", or "Pepi is beauty").
+
+[[ ^15 ]]: McDermott, Bridget (2001). //Decoding Egyptian Hieroglyphs: How to Read the Secret Language of the Pharaohs//. Chronicle Books, p.130
+
+[[ ^16 ]]: Daly, Okasha El (1 July 2016). [[ //Egyptology: The Missing Millennium: Ancient Egypt in Medieval Arabic Writings// | https://books.google.com/books?id=GmuTDAAAQBAJ&dq=%22mit+rhnt%22&pg=PT59 ]]. Routledge. ISBN [[ 978-1-315-42976-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-315-42976-2 ]].
+
+[[ ^17 ]]: Carsten Peust (2010). //Die Toponyme vorarabischen Ursprungs im modernen Ägypten// (in German). p. 75.
+
+[[ ^18 ]]: Pseudo-Apollodorus, "Bibliotheca", Β 1,4.
+
+[[ ^19 ]]: [[ "Hosea 9:6" | https://www.blueletterbible.org/wlc/hos/9/6/s_871006 ]]. //BlueLetterBible//. Retrieved 27 February 2021.
+
+[[ ^20 ]]: Al-Maqrīzī. //Book of Exhortations and Useful Lessons in Dealing with Topography and Historical Remains//. Translated by Stowasser, Karl. Hans A. Stowasser. p. 27.
+
+[[ ^21 ]]: Chandler, Tertius ( thertgreg1987). //Four Thousand Years of Urban Growth//.
+
+[[ ^22 ]]: Bard, //Encyclopedia of the Archaeology of Ancient Egypt//, p. 250
+
+[[ ^23 ]]: [[ "Nefertem" | https://web.archive.org/web/20160303215253/http://art.thewalters.org/detail/21678 ]]. [[ The Walters Art Museum ]]. Archived from [[ the original | http://art.thewalters.org/detail/21678 ]] on 3 March 2016. Retrieved 29 November 2012.
+
+[[ ^24 ]]: //National Geographic Society: Egypt's Nile Valley Supplement Map//. (Produced by the Cartographic Division)
+
+[[ ^25 ]]: Roberts, David (1995). //National Geographic: Egypt's Old Kingdom//, Vol. 187, Issue 1.
+
+[[ ^26 ]]: Herodotus, //The Histories// (Vol II), § 99
+
+[[ ^27 ]]: Manley, Bill (1997). //The Penguin Historical Atlas of Ancient Egypt//. Penguin Books.
+
+[[ ^1 ]]: P. Tallet, D. Laisnay: //Iry-Hor et Narmer au Sud-Sinaï (Ouadi 'Ameyra), un complément à la chronologie des expéditios minière égyptiene//, in: BIFAO 112 (2012), 381–395, [[ available online | https://www.academia.edu/3844520/_Iry-Hor_et_Narmer_au_Sud-Sinai_ouadi_Ameyra_ ]] [[ Archived | https://web.archive.org/web/20170829104858/http://www.academia.edu/3844520/_Iry-Hor_et_Narmer_au_Sud-Sinai_ouadi_Ameyra_ ]] 29 August 2017 at the [[ Wayback Machine ]]
+
+[[ ^28 ]]: Apollodorus, 2.1.4
+
+[[ ^29 ]]: Hyginus, //Fabulae// 149 & 275
+
+[[ ^30 ]]: Breasted, //Ancient Records of Egypt//, pp. 109–110.
+
+[[ ^31 ]]: Goyon, //Les ports des Pyramides et le Grand Canal de Memphis//, pp. 137–153.
+
+[[ ^32 ]]: Al-Hitta, //Excavations at Memphis of Kom el-Fakhri//, pp. 50–51.
+
+[[ ^33 ]]: Mariette, //Monuments divers Collected in Egypt and in Nubia//, p. 9 and plate 34A.
+
+[[ ^34 ]]: Mariette, //Monuments divers Collected in Egypt and in Nubia//, § Temple of Ptah, excavations 1871, 1872 and 1875, p. 7 and plate 27A.
+
+[[ ^35 ]]: Brugsch, //Collection of Egyptian monuments//, Part I, p. 4 and Plate II. This statue is now on display at the Egyptian Museum in Berlin.
+
+[[ ^36 ]]: Herodotus, //The Histories// (Vol II), § 101.
+
+[[ ^37 ]]: Diodorus Siculus, //Bibliotheca historica//, (Vol I), Ch. 2, § 8.
+
+[[ ^2 ]]: Most of these relics would be subsequently recovered by Rameses II in order to decorate his new capital at Pi-Ramses. Later, they were moved again during the Third Intermediate Period to Tanis, and many have been found scattered among the ruins of the country's various ancient capitals.
+
+[[ ^38 ]]: Cabrol, //Amenhotep III le magnifique//, Part II, Ch. 1, pp. 210–214.
+
+[[ ^39 ]]: Petrie, //Memphis and Maydum III//, p. 39.
+
+[[ ^40 ]]: Cabrol, //Amenhotep III le magnifique//, Part II, Ch. 1.
+
+[[ ^41 ]]: Mariette, //Monuments divers collected in Egypt and in Nubia//, p. 7 & 10, and plates 27 (fig. E) & 35 (fig. E1, E2, E3).
+
+[[ ^42 ]]: Löhr, //Aḫanjāti in Memphis//, pp. 139–187.
+
+[[ ^43 ]]: Petrie, //Memphis I//, Ch. VI, § 38, p. 12; plates 30 & 31.
+
+[[ ^44 ]]: Sagrillo, //Mummy of Shoshenq I Re-discovered?//, pp. 95–103.
+
+[[ ^45 ]]: Petrie, //Memphis I//, § 38, p. 13.
+
+[[ ^46 ]]: Maystre, //The High Priests of Ptah of Memphis//, Ch. XVI, § 166, p. 357.
+
+[[ ^47 ]]: Meeks, //Hommage à Serge Sauneron I//, pp. 221–259.
+
+[[ ^48 ]]: Joanne & Isambert, //Itinéraire descriptif, historique et archéologique de l'Orient//, p. 1009.
+
+[[ ^49 ]]: Maspero, //Histoire ancienne des peuples de l'Orient//, Ch. I, § Origine des Égyptiens.
+
+[[ ^3 ]]: //ḥw.t-k3-Ptḥ// = Hout-ka-Ptah
+
+[[ ^50 ]]: Herodotus, //The Histories// (Vol II), § 99.
+
+[[ ^51 ]]: Anthes, //Mit Rahineh//, p. 66.
+
+[[ ^52 ]]: Mahmud, //A new temple for Hathor at Memphis//.
+
+[[ ^53 ]]: Brugsch, //Collection of Egyptian monuments//, p. 6 and plate IV, 1.
+
+[[ ^54 ]]: Brugsch, //Collection of Egyptian monuments//, p. 8 and plate IV, 5.
+
+[[ ^55 ]]: Breasted, //Ancient Records of Egypt//, § 320 p. 166
+
+[[ ^56 ]]: Grandet, //Le papyrus Harris I//, § 47,6 p. 287.
+
+[[ ^57 ]]: Jones, //The temple of Apis in Memphis//, pp. 145–147.
+
+[[ ^58 ]]: Gessler, Beatrix. [[ "2012 OLA 214 Ancient Memphis Pre-Amarna or post-Amarna?\... B. Gessler-Löhr" | https://www.academia.edu/5777067 ]].
+
+[[ ^59 ]]: Neale, Sandra. [[ "AKHENATEN AND THE AMARNA PERIOD - SOME FURTHER THOUGHTS AND CONSIDERATIONS" | https://www.academia.edu/4462750 ]]. //[[ Academia.edu ]]//.
+
+[[ ^60 ]]: Lalouette, //Textes sacrés et textes profanes de l'Ancienne Égypte// (Vol II), pp. 175–177.
+
+[[ ^61 ]]: Herodotus, //The Histories// (Vol II), § 112.
+
+[[ ^62 ]]: Petrie, //The Palace of Apries (Memphis II)//, § II, pp. 5–7 & plates III to IX.
+
+[[ ^63 ]]: Jeffreys, D.G.; Smith, H.S (1988). //The eastward shift of the Nile's course through history at Memphis//, pp. 58–59.
+
+[[ ^64 ]]: Herodotus, //The Histories// (Vol II), paragraphs 99, 101, 108, 110, 112, 121, 136, 153 and 176.
+
+[[ ^65 ]]: Diodorus Siculus, //Bibliotheca historica// (Vol I), Ch. I, paragraphs 12, 15 and 24; Ch. II, paragraphs 7, 8, 10, 20 and 32.f
+
+[[ ^66 ]]: Strabo, //Geographica//, Book XVII, chapters 31 and 32.
+
+[[ ^67 ]]: Suetonius, //The Twelve Caesars//, Part XI: Life of Titus.
+
+[[ ^68 ]]: Ammianus Marcellinus, //Roman History//, Book XXII, § XIV.
+
+[[ ^69 ]]: Thévenot, //Relation d’un voyage fait au Levant//, Book II, Ch. IV, p. 403; and Ch. VI, p. 429.
+
+[[ ^70 ]]: Champollion-Figeac, //l'Égypte Ancienne//, p. 63.
+
+[[ ^71 ]]: Lepsius, //Denkmäler aus Aegypten und Aethiopien//, booklets of 14 February 19 February, 19 March and 18 May 1843, pp. 202–204; and plates 9 and 10.
+
+[[ ^72 ]]: [[ Alan Rowe | alan-rowe-archaeologist ]]; [[ B. R. Rees ]] (1956). [[ "A Contribution to the Archaeology of The Western Desert: IV - The Great Serapeum of Alexandria" | https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:1m1914&datastreamId=POST-PEER-REVIEW-PUBLISHERS-DOCUMENT.PDF ]] (PDF). Manchester.
+
+[[ ^73 ]]: Ph. Lauer; Ch. Picard (1957). "Reviewed Work: Les Statues Ptolémaïques du Sarapieion de Memphis". //Archaeological Institute of America//. !!61!! (2): 211–215. doi:[[ 10.2307/500375 | https://doi.org/10.2307%2F500375 ]]. JSTOR [[ 500375 | https://www.jstor.org/stable/500375 ]].
+
+[[ ^74 ]]: Mariette, //Monuments divers collected in Egypt and in Nubia//.
+
+[[ ^75 ]]: Hans Dieter Betz (1992). [[ //The Greek Magical Papyri in Translation, Including the Demotic Spells, Volume 1// | http://press.uchicago.edu/ucp/books/book/chicago/G/bo3684249.html ]]. University of Chicago Press.
+
+[[ ^76 ]]: Petrie, //Memphis I// and //Memphis II//.
+
+[[ ^77 ]]: "The British School of Archaeology in Egypt". //The London Times//. May 1908.
+
+[[ ^78 ]]: Badawy, //Grab des Kronprinzen Scheschonk, Sohnes Osorkon's II, und Hohenpriesters von Memphis//, pp. 153–177.
+
+[[ ^79 ]]: [[ "//3,000-Year-Old Colossal Pharaoh Statue Moved to New Home//" | https://web.archive.org/web/20210403230900/https://www.nationalgeographic.com/history/article/colossus-ramses-statue-move-cairo-egypt-museum#:~:text=Encased%20in%20a%20specially%2Dbuilt,the%20new%20Grand%20Egyptian%20Museum ]]. National Geographic. 25 January 2021. Archived from [[ the original | https://www.nationalgeographic.com/history/article/colossus-ramses-statue-move-cairo-egypt-museum#:~:text=Encased%20in%20a%20specially%2Dbuilt,the%20new%20Grand%20Egyptian%20Museum ]] on 3 April 2021. Retrieved 21 April 2021.
+
+[[ ^80 ]]: El-Hitta, //Excavations at Memphis of Kom el-Fakhri//.
+
+[[ ^81 ]]: Anthes, works from 1956, 1957 and 1959.
+
+[[ ^82 ]]: Jones, //The temple of Apis in Memphis//.
+
+[[ ^83 ]]: Málek, //A Temple with a Noble Pylon//, 1988.
+
+[[ ^84 ]]: Jeffreys, //The survey of Memphis//, 1985.

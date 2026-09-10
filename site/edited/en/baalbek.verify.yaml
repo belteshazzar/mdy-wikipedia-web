@@ -1,0 +1,11 @@
+slug: baalbek
+findings:
+  - kind: unsupported
+    quote: Water is the reason.
+    why: The source states that Tell Baalbek shows almost continual habitation
+      over the last 8–9000 years and, separately, that it was well-watered
+      from the Rās al-ʿAyn spring and from meltwater rills. It never asserts
+      that water was the cause of the continual habitation; the rewrite adds
+      that causal claim in its own voice.
+    severity: minor
+verdict: minor-only

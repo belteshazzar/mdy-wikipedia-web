@@ -1,0 +1,10 @@
+slug: aegae-macedonia
+findings:
+  - kind: dropped-hedge
+    quote: one of them was shaped to fit a leg with a misaligned tibia, and Philip
+      II was recorded as having broken his tibia
+    why: The source says the greave "was shaped consistently to fit a leg with a
+      misaligned tibia" — consistency with such a leg, not that it was made to
+      fit one. The rewrite states the fit flat.
+    severity: minor
+verdict: minor-only

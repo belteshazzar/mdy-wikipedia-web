@@ -1,0 +1,11 @@
+slug: umma
+findings:
+  - kind: unsupported
+    quote: The paperwork is what survives.
+    why: "The source makes no such claim, and its own account cuts against it: an
+      Ur III temple, door sockets in situ, cylinder seals, stone and metal
+      objects, statues and stelae are all reported as surviving alongside the
+      tablets. The source says only that most of the over 30,000 tablets are
+      administrative and economic texts of that period."
+    severity: minor
+verdict: minor-only

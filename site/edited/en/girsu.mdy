@@ -1,0 +1,506 @@
++++
+title: Girsu
+description: Sumerian city
+key-facts:
+  - name: Where it is
+    value: Tell Telloh, in Dhi Qar Governorate, Iraq — some 25 km (16 mi)
+      northwest of Lagash
+    from: was a [[ city | sumerian-city-state ]] of ancient [[ Sumer ]], situated
+      some 25 km (16 mi) northwest of [[ Lagash ]], at the site of what is now
+      Tell Telloh in [[ Dhi Qar Governorate ]], [[ Iraq ]].
+  - name: Its god
+    value: Ningirsu, whose temple was the E-ninnu, and his wife Bau
+    from: As the religious center of the kingdom of Lagash, it contained
+      significant temples to the god [[ Ningirsu ]] ([[ E-ninnu ]]) and his
+      wife [[ Bau | bau-goddess ]] and hosted multi-day festivals in their
+      honor.
+  - name: Periods of occupation
+    value: Ubaid, Uruk, Early Dynastic, Akkadian Empire, Lagash II, Ur III,
+      Isin-Larsa, Hellenistic
+    from: "periods: Ubaid, Uruk, Early Dynastic, Akkadian Empire, Lagash II, Ur
+      III, Isin-Larsa, Hellenistic"
+  - name: How big
+    value: About 130 hectares, according to analysis of 1968 CORONOA satellite
+      images
+    from: Analysis of 1968 CORONOA satellite images indicated the site has an area
+      of about 130 hectares.
+  - name: Dug since
+    value: 1877-1900, 1903-1909, 1929–1933, 2016-Present
+    from: "excavation-dates: 1877-1900, 1903-1909, 1929–1933, 2016-Present"
+  - name: Tablets found
+    value: About 50,000 cuneiform tablets have been recovered from the site
+    from: About 50,000 cuneiform tablets have been recovered from the site.[[ ^37
+      ]][[ ^38 ]][[ ^39 ]]
+image-plan:
+  - file: Statue_of_Gudea,_Metropolitan_Museum_of_Art.jpg
+    role: hero
+    section: lead
+    caption: A statue of [[ Gudea ]], named “Gudea, the man who built the temple,
+      may his life be long”. [[ Metropolitan Museum of Art ]] 59.2.[[ ^3 ]]
+  - file: Stele_of_the_Vultures_in_the_Louvre_Museum_(enhanced_composite).jpg
+    role: full
+    section: history
+    caption: The [[ Stele of the Vultures ]], depicting the god [[ Ningirsu ]], on
+      display at the [[ Louvre Museum | louvre ]].[[ ^16 ]]
+  - file: Sumerian_-_Dedication_Nail_-_Walters_481457_-_View_A.jpg
+    role: inline
+    section: archaeology
+    caption: A foundation clay nail of [[ Gudea ]], dedicated to the god [[
+      Ningirsu ]]. [[ Walters Art Museum ]] 48.1457.[[ ^17 ]]
+further:
+  - slug: lagash
+    why: Girsu was the religious center of the kingdom of Lagash, and its capital
+      at the time of Gudea, before political power shifted to the city of
+      Lagash itself.
+  - slug: akkadian-empire
+    why: Occupation at Girsu continued through the Akkadian Empire, and the 2024
+      season turned up 60 clay sealings from that period, one naming
+      Naram-Sin.
+  - slug: ur
+    why: Under the Third Dynasty of Ur, Girsu was a major administrative center
+      for the empire, and Anzagar lay on the route from Ur to Anshan.
+coordinates:
+  lat: 31.56202778
+  lon: 46.17758333
+images:
+  - file: Statue_of_Gudea,_Metropolitan_Museum_of_Art.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Statue_of_Gudea%2C_Metropolitan_Museum_of_Art.jpg/250px-Statue_of_Gudea%2C_Metropolitan_Museum_of_Art.jpg
+    width: 2301
+    height: 3001
+    caption: Statue of Gudea, named “Gudea, the man who built the temple, may his
+      life be long”. Metropolitan Museum of Art 59.2.
+  - file: Stele_of_the_Vultures_in_the_Louvre_Museum_(enhanced_composite).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stele_of_the_Vultures_in_the_Louvre_Museum_%28enhanced_composite%29.jpg/330px-Stele_of_the_Vultures_in_the_Louvre_Museum_%28enhanced_composite%29.jpg
+    width: 9344
+    height: 6384
+    caption: The Stele of the Vultures depicting the god Ningirsu on display at
+      the Louvre Museum.
+  - file: Sumerian_-_Dedication_Nail_-_Walters_481457_-_View_A.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sumerian_-_Dedication_Nail_-_Walters_481457_-_View_A.jpg/250px-Sumerian_-_Dedication_Nail_-_Walters_481457_-_View_A.jpg
+    width: 1100
+    height: 1800
+    caption: Foundation clay nail of Gudea dedicated to the god Ningirsu. Walters
+      Art Museum 48.1457.
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/250px-Iraq_physical_map.svg.png
+  type: Settlement
+  periods: Ubaid, Uruk, Early Dynastic, Akkadian Empire, Lagash II, Ur III,
+    Isin-Larsa, Hellenistic
+  location: Dhi Qar Province, Iraq
+  region: Sumer
+  site-notes:
+    excavation-dates: 1877-1900, 1903-1909, 1929–1933, 2016-Present
+    archaeologists: Ernest de Sarzec, Gaston Cros, Henri de Genouillac, André
+      Parrot, Sébastien Rey
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 2
+    id: anzagar
+    title: Anzagar
+  - level: 2
+    id: gallery
+    title: Gallery
+wikidata:
+  id: Q853946
+  label: Girsu
+  description: ancient Sumerian city
+  claims:
+    commons-category: Girsu
+    coordinate-location:
+      lat: 31.56526
+      lon: 46.18964
+    country: Iraq
+    instance-of:
+      - human settlement
+      - archaeological site
+      - ancient city
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Basse_Mesopotamie_DA.PNG
+    time-period: ancient Near East
+    culture: Sumerians
+    located-in-the-administrative-territorial-entity: Dhi Qar Governorate
+link-titles:
+  adadnadinakhe-bricks: Adadnadinakhe bricks
+  akkadian-empire: Akkadian Empire
+  alexander-the-great: Alexander the Great
+  allani: Allani
+  andré-parrot: André Parrot
+  anshan: Anshan
+  aramaic: Aramaic
+  bau-goddess: Bau (goddess)
+  beveled-rim-bowl: Beveled rim bowl
+  british-museum: British Museum
+  cuneiform: Cuneiform
+  dhi-qar-governorate: Dhi Qar Governorate
+  diniktum: Diniktum
+  e-ninnu: E-ninnu
+  eannatum: Eannatum
+  early-dynastic-period-of-sumer: Early Dynastic Period of Sumer
+  entemena: Entemena
+  ernest-de-sarzec: Ernest de Sarzec
+  first-dynasty-of-babylon: First Dynasty of Babylon
+  first-sealand-dynasty: First Sealand dynasty
+  garšana: Garšana
+  gaston-cros: Gaston Cros
+  guabba: Gu'abba
+  gudea: Gudea
+  gudea-cylinders: Gudea cylinders
+  gungunum: Gungunum
+  henri-de-genouillac: Henri de Genouillac
+  hormuzd-rassam: Hormuzd Rassam
+  igalim: Igalim
+  inanna: Inanna
+  indus-valley: Indus Valley
+  iraq: Iraq
+  irisaĝrig: Irisaĝrig
+  iturungal-canal: Iturungal canal
+  j.-paul-getty-museum: J. Paul Getty Museum
+  ki-cuneiform: KI (cuneiform)
+  kesh-sumer: Kesh (Sumer)
+  lagash: Lagash
+  louvre: Louvre
+  mesilim: Mesilim
+  metropolitan-museum-of-art: Metropolitan Museum of Art
+  middle-chronology: Middle chronology
+  nanshe: Nanshe
+  nergal: Nergal
+  ninegal: Ninegal
+  ningirsu: Ningirsu
+  ningishzida: Ningishzida
+  ninhursag: Ninhursag
+  ninurta: Ninurta
+  ny-carlsberg-glyptotek: Ny Carlsberg Glyptotek
+  pirig-me: Pirig-me
+  radiocarbon-dating: Radiocarbon dating
+  rim-sîn-ii: Rim-Sîn II
+  samsu-iluna: Samsu-iluna
+  shulgi: Shulgi
+  stele-of-the-vultures: Stele of the Vultures
+  sumer: Sumer
+  sumerian-city-state: Sumerian city-state
+  sumerian-language: Sumerian language
+  tell-zurghul: Tell Zurghul
+  tell-al-wilayah: Tell al-Wilayah
+  third-dynasty-of-ur: Third Dynasty of Ur
+  ubaid-period: Ubaid period
+  ur: Ur
+  uruk-period: Uruk period
+  vase-of-entemena: Vase of Entemena
+  velar-nasal: Velar nasal
+  walters-art-museum: Walters Art Museum
+source:
+  site: Wikipedia
+  lang: en
+  title: Girsu
+  url: https://en.wikipedia.org/wiki/Girsu
+  page-id: 8015676
+  revision: "1366339697"
+  modified: 2026-07-27T13:04:35Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Girsu"
+    (revision 1366339697), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/girsu.mdy
+  source-digest: 371a5c907740d273
+  source-revision: "1366339697"
+  model: claude-opus-5
+  left-out: "The infobox image is a physical map of Iraq rather than a picture
+    of the site, so it is not in the image plan; the plan uses the three files
+    listed in the article's records. The Gallery section is a list of images,
+    so it is left close to as it was, with its captions and their footnote
+    references intact rather than rewritten into continuous prose. Two garbled
+    passages in the source were repaired only minimally: \"abandoned aropund
+    1600 BC\" is written as \"abandoned around 1600 BC\", and \"resumed in the
+    Hellenistic period Parthian periods\" as \"resumed in the Hellenistic and
+    Parthian periods\". The first sentence of the excavation history (\"Telloh
+    was the first Sumerian site to be extensively excavated\") carries no
+    footnote of its own in the source; where it is used in the lead it carries
+    [[ ^25 ]], the citation attached to the passage it sits in."
+  verified: true
+  verdict: minor-only
+  findings: 1
+  reviewed: false
++++
+!!Girsu!! ([[ Sumerian | sumerian-language ]] //Ĝirsu//. [[ cuneiform ]] ĝir,,2,,-su^^[[ ki | ki-cuneiform ]]^^ 𒄈𒋢𒆠) was a [[ city | sumerian-city-state ]] of ancient [[ Sumer ]], some 25 km (16 mi) northwest of [[ Lagash ]], at the site of what is now Tell Telloh in [[ Dhi Qar Governorate ]], [[ Iraq ]]. It was the religious center of the kingdom of Lagash, and it held significant temples to the god [[ Ningirsu ]] ([[ E-ninnu ]]) and his wife [[ Bau | bau-goddess ]], with multi-day festivals in their honor.[[ ^1 ]][[ ^2 ]]
+
+Telloh was also the first Sumerian site to be extensively excavated, from 1877, and it paid for it: between the early seasons an estimated 35 to 40 thousand cuneiform tablets left the site for the antiquities market.[[ ^25 ]] About 50,000 tablets have been recovered from the site itself.[[ ^37 ]][[ ^38 ]][[ ^39 ]]
+
+Because of the initial [[ velar nasal ]] ŋ, the transcription of Ĝirsu is sometimes spelled as //Ngirsu// (also: //G̃irsu//, //Girsu//, //Jirsu//).
+
+== History
+
+The city lay on a branch of the ancient [[ Iturungal canal ]], the southern of two major east west canals in Mesopotamia, that also runs to [[ Niĝin | tell-zurghul ]] and then to [[ Gu'abba ]].[[ ^4 ]][[ ^5 ]]
+
+<blockquote
+  "Two effluents took off from the left bank of the Iturungal, the
+  Id-Ninaki-gen-a, which over Bzeikh (Zabalam) flowed to Telloh (Girsu), al
+  Hibba (Uru-ku, Lagas?), and Surghul (Nina) \..."[[ ^6 ]]
+
+[[ Radiocarbon dating ]] indicates that the canals running in and through Girsu date back to at least the Early Dynastic I period and went out of use after the Isin-Larsa period (2000–1800 BC).[[ ^7 ]]
+
+Girsu was inhabited in the [[ Ubaid 4 | ubaid-period ]] (4900-4500 BC) and also the [[ Uruk period ]] (4200-3200 BC), with [[ beveled rim bowls | beveled-rim-bowl ]], the diagnostic pottery of that period, being found.[[ ^8 ]] Significant levels of activity began in the [[ Early Dynastic period | early-dynastic-period-of-sumer ]] (2900-2335 BC). After a brief hiatus occupation resumed in the Early Dynastic I period, continuing during the [[ Akkadian Empire ]]. After the decline of that empire local control of the Girsu/Lagash area was asserted under the Second Dynasty of Lagash.[[ ^9 ]]
+
+At the time of [[ Gudea ]], during the Second Dynasty of Lagash, Girsu became the capital of the [[ Lagash ]] kingdom, and it continued to be that kingdom's religious center after political power had shifted to the city of Lagash.[[ ^10 ]] During the [[ Ur III period | third-dynasty-of-ur ]], Girsu was a major administrative center for the empire.
+
+During the Old Babylonian period [[ Rim-Sîn II ]], ruler of Larsa c. 1742 BC to 1739 BC ([[ MC | middle-chronology ]]), led a rebellion by a number of southern cities against the [[ First Dynasty of Babylon ]] which at that time was led by [[ Samsu-iluna ]].[[ ^11 ]] The rebellious cities included Girsu.[[ ^12 ]] [[ First Sealand dynasty ]], c. 1796–1524 BC ([[ MC | middle-chronology ]]), pottery has been found at Girsu.[[ ^13 ]] Girsu was then abandoned around 1600 BC until occupation resumed in the Hellenistic and Parthian periods, before ending around 200 BC. A 4th century BC bilingual Greek/[[ Aramaic ]] inscription was found there.[[ ^14 ]]
+
+A few ruler year names mention Girsu: [[ Pirig-me ]] of Lagash II "Year the royal measuring rope of the fields kept in Girsu was brought out", Ur III ruler [[ Shulgi ]] "Year the Ehalbi, (the palace) of the king, was built (in Girsu)", and Larsa ruler [[ Gungunum ]] "Year the canal of Girsu (called) 'Baba is abundance' was dug".[[ ^15 ]]
+
+== Archaeology
+
+The site consists of two main mounds, one rising 50 feet above the plain and the other 56 feet. Analysis of 1968 CORONOA satellite images indicated the site has an area of about 130 hectares. A number of small mounds dot the site. The mounds are designated Tell A through Tell Y with most of them having little or no archaeological significance. The notable mounds are[[ ^18 ]]
+
+- Tell A - Mound of the Palace. Topped by the palace of an obscure Hellenistic period (alternately Aramaic Period) ruler Adad-Nadin-Akhe based on the inscribed [[ Adadnadinakhe bricks ]]. The palace included a number of reused early inscribed diorite statues of [[ Gudea ]].[[ ^19 ]] Modern excavations revealed under it a temple precinct including the [[ E-ninnu ]] temple of [[ Ningirsu ]][[ ^20 ]]
+- Tell B - Early Dynastic buildings and tablets
+- Tell K - Maison des Fruits, a 10.5 meter by 7.30 meter temple built by Early Dynastic ruler Ur-Nanshe. It was built atop an unidentified earlier construction sealed by a 70 centimeter clay layer which the excavators named the Construction Inférieure. A number of foundation tablets and two inscribed door sockets were found[[ ^21 ]][[ ^22 ]]
+- Tells L/M - near city wall, temple associated structures and cones
+- Tell P - Porte du Diable[[ ^23 ]]
+- Tell V - Location of the temple of [[ Ningešzida | ningishzida ]] and the area of the site called Tablet Hill as many cuneiform tablets have been found there.[[ ^24 ]]
+
+Telloh was the first Sumerian site to be extensively excavated, at first under the French vice-consul at Basra, [[ Ernest de Sarzec ]], in eleven campaigns between 1877 and 1900. Between excavation seasons the site was subject to extensive looking and an estimated 35 to 40 thousand cuneiform tablets entered the antiquities market.[[ ^25 ]] He was followed by his successor [[ Gaston Cros ]] from 1903–1909. All finds were divided between the Archaeological Museum of Istanbul and the Louvre Museum in Paris,[[ ^26 ]][[ ^27 ]][[ ^28 ]][[ ^29 ]] Finds included an alabaster statue of a woman, with copper bracelets coated in gold and a fragment of a stone lion carved dish with a partial Sumerian inscription.[[ ^30 ]][[ ^31 ]] In 1879 the site was visited by [[ Hormuzd Rassam ]].[[ ^32 ]] Also found were two steatite statue portions (AO 00036 + Ist EŞEM 00438) with inscriptions by the Ur III ruler Shulgi dedicated to the local god [[ Igalim ]].[[ ^33 ]]
+
+Excavations continued under Abbé [[ Henri de Genouillac ]] in 1929–1931 and under [[ André Parrot ]] in 1931–1933.[[ ^34 ]][[ ^35 ]][[ ^36 ]] It was at Girsu that the fragments of the [[ Stele of the Vultures ]] were found. The site has suffered from poor excavation standards and also from illegal excavations. About 50,000 cuneiform tablets have been recovered from the site.[[ ^37 ]][[ ^38 ]][[ ^39 ]]
+
+Excavations at Telloh resumed in 2016 as part of a training program for Iraqi archaeologists organized by the British Museum.[[ ^40 ]][[ ^41 ]] A foundation tablet and a number of inscribed building cones have been found. In the 5th season, in autumn 2019, work concentrated on the Mound of the Palace where [[ E-ninnu ]], a temple to Ningirsu, had been found in earlier seasons.[[ ^42 ]][[ ^43 ]] In March 2020, archaeologists announced the discovery of a 5,000-year-old cultic area filled with more than 300 broken ceremonial ceramic cups, bowls, jars, animal sacrifices, and ritual processions dedicated to [[ Ningirsu ]].[[ ^44 ]][[ ^45 ]] One of the remains was a duck-shaped bronze figurine with eyes made from bark which is thought to be dedicated to [[ Nanshe ]]. An [[ Indus Valley ]] weight was also found.
+
+In February 2023, archaeologists from [[ British Museum ]] and [[ Getty Museum | j.-paul-getty-museum ]] revealed the remains of the 4,500 year-old Sumerian Lord Palace of the Kings alongside more than 200 [[ cuneiform ]] tablets containing administrative records of Girsu. The [[ E-ninnu temple | e-ninnu ]] (Temple of the White Thunderbird), the primary sanctuary of the Sumerian warrior god [[ Ningirsu | ninurta ]] was also identified during the excavations.[[ ^46 ]] In the 2024 season 200 [[ cuneiform ]] tablets (including school texts) and 60 clay sealings from the [[ Akkadian Empire ]] period were found. Sealings include one which said "Naram-Sin, the mighty, god of Akkad, king of the four quarters (of the world): Lugal-ushumgal, the scribe, governor, your servant".[[ ^47 ]] A number of the interpretations of the current excavators have been challenged.[[ ^48 ]]
+
+Along with archaeology the site is also being stabilized, required after the early excavations and looting, and prepared for tourism.[[ ^49 ]]
+
+In 2023, [[ British Museum ]] experts have suggested the possibility that a Hellenistic shrine at Girsu was founded by [[ Alexander the Great ]], built atop the ruins of E-ninnu. According to the researchers, recent discoveries suggest that "this site honours Zeus and two divine sons. The sons are Heracles and Alexander."[[ ^50 ]]
+
+== Anzagar
+
+Referred to as Anzagar-Umma (An-za-gar,,3,,-Umma^^ki^^). An-za-gar,,3,, translates to "fortified village" and there were a number of similar toponyms in the region, such as An-za-gar,,3,,-giškiri,,6,,-Zabalam,,4,,^^ki^^, An-za-gar,,3,,-a-šag,,4,,-La,,2,,-mah, An-za-gar,,3,,-Da-da, and An-za,,3,,-gar,,3,,-Nig,,2,,-ul-pa-e,,3,,. The 27th year name of Babylon ruler Sumulael was "Year the city walls of Kutha and Anzagar-urgi were built".[[ ^51 ]]
+
+It is thought to have been on the eastern border of the Ur III Umma province border with the Girsu-Lagash province. It is known to have been on a canal (possibly the Udaga canal and/or Namhani canal) based on a text reading "during three days, floated the boats from Anzagar-Umma to Girsu, (and) towed the boats from Girsu to Garšana". In another shipping text merchanise from [[ Garšana ]] was towed up the Udaga canal to the junction with the Namhani canal at Anzagar and then floated down to Girsu on that canal.[[ ^52 ]] In the Ur III period a transportation and messenger resthouse, é-kas,,4,, An-za-gàr I,,7,, Gir-su^^ki^^, was established in Anzagar similar to those established in nearby [[ Gu'abba ]] and Kinunir.[[ ^53 ]] Anzagar is known to have been a transit point on the route from [[ Ur ]] to [[ Anshan ]].[[ ^54 ]]
+
+Anzagar lay near to [[ Kesh | kesh-sumer ]], [[ Diniktum ]] and to [[ Irisaĝrig ]]. [[ Tell al-Wilayah ]] has been suggested as a location.[[ ^55 ]] It held a temple of [[ Ninegal ]] and shrines or sanctuaries of [[ Ninḫursaĝ | ninhursag ]], PAP.NAGAR, [[ Nergal ]], [[ Allātum | allani ]], and [[ Inanna ]].[[ ^56 ]][[ ^57 ]][[ ^58 ]] It is known that there was a sacristy, for storing jewels etc, at the temple of Allatum at Anzagar.[[ ^59 ]][[ ^60 ]]
+
+== Gallery
+
+<ul
+  <li
+    <img alt="Ubaid IV pottery jars, ca. 4700–4200 BC. From Girsu, Louvre Museum." src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ubaid_IV_pottery_jars_4700-4200_BC_Tello%2C_ancient_Girsu%2C_Louvre_Museum.jpg/250px-Ubaid_IV_pottery_jars_4700-4200_BC_Tello%2C_ancient_Girsu%2C_Louvre_Museum.jpg" height="85" width="150"
+
+    Ubaid IV pottery jars, ca. 4700–4200 BC. From Girsu, Louvre Museum.[[ ^61 ]]
+
+  <li
+    <img alt="Uruk Period terracotta vase, ca. 3500–2900 BC. From Girsu, Louvre Museum AO14313." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Vase_Telloh_Louvre_AO14313.jpg/250px-Vase_Telloh_Louvre_AO14313.jpg" height="137" width="150"
+
+    Uruk Period terracotta vase, ca. 3500–2900 BC. From Girsu, Louvre Museum
+    AO14313.
+
+  <li
+    <img alt="Terracotta vase, ca. 3500–2900 BC. From Girsu, Louvre Museum AO14342" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vase_Telloh_Louvre_AO14342.jpg/250px-Vase_Telloh_Louvre_AO14342.jpg" height="79" width="150"
+
+    Terracotta vase, ca. 3500–2900 BC. From Girsu, Louvre Museum AO14342
+
+  <li
+    <img alt="The Mace of Mesilim, c. 2550 BC. From Girsu, Louvre Museum AO2349." src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mace_head_of_Mesilim_Louvre_AO2349.jpg/120px-Mace_head_of_Mesilim_Louvre_AO2349.jpg" height="150" width="120"
+
+    The Mace of [[ Mesilim ]], c. 2550 BC. From Girsu, Louvre Museum
+    AO2349.[[ ^62 ]]
+
+  <li
+    <img alt="The Silver Vase of Enmetena, 2420–2400 BC. From Girsu, Louvre Museum AO2674." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vase_dedicated_to_Ningirsu_by_Entemena-AO_2674-IMG_9133-black.jpg/250px-Vase_dedicated_to_Ningirsu_by_Entemena-AO_2674-IMG_9133-black.jpg" height="150" width="150"
+
+    The [[ Silver Vase | vase-of-entemena ]] of [[ Enmetena | entemena ]],
+    2420–2400 BC. From Girsu, Louvre Museum AO2674.[[ ^63 ]]
+
+  <li
+    <img alt="Depiction of the god Ningirsu in the Stele of the Vultures, 2450–2425 BC. From Girsu, Louvre Museum." src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stele_of_Vultures_detail_01_reverse.jpg/250px-Stele_of_Vultures_detail_01_reverse.jpg" height="143" width="150"
+
+    Depiction of the god [[ Ningirsu ]] in the [[ Stele of the Vultures ]],
+    2450–2425 BC. From Girsu, Louvre Museum.[[ ^64 ]]
+
+  <li
+    <img alt="The Feathered Figure, 2700–2600. From Girsu, Louvre Museum AO221." src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Carved_figure_feathers_Louvre_AO221.jpg/250px-Carved_figure_feathers_Louvre_AO221.jpg" height="150" width="127"
+
+    The Feathered Figure, 2700–2600. From Girsu, Louvre Museum AO221.[[ ^65 ]]
+
+  <li
+    <img alt="The Cylinders of Gudea. Musée du Louvre, MNB1512 and MNB1511." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cylindres_de_Gudea_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_MNB_1511_%3B_MNB_1512.jpg/250px-Cylindres_de_Gudea_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_MNB_1511_%3B_MNB_1512.jpg" height="122" width="150"
+
+    The [[ Cylinders of Gudea | gudea-cylinders ]]. Musée du Louvre, MNB1512 and
+    MNB1511.[[ ^66 ]][[ ^67 ]]
+
+  <li
+    <img alt="Statue of Gudea, Statue O. Ny Carlsberg Glyptotek, NCG 840" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Portrait_statuette_of_Gudea%2C_priest-king_of_the_Neo-Sumerian_city-state_of_Lagash_05.jpg/120px-Portrait_statuette_of_Gudea%2C_priest-king_of_the_Neo-Sumerian_city-state_of_Lagash_05.jpg" height="150" width="105"
+
+    Statue of Gudea, Statue O. [[ Ny Carlsberg Glyptotek ]], NCG 840
+
+  <li
+    <img alt="Archaeological remains of the Bridge of Girsu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kingdom_of_Lagash_%2830658120300%29.jpg/250px-Kingdom_of_Lagash_%2830658120300%29.jpg" height="113" width="150"
+
+    Archaeological remains of the Bridge of Girsu
+
+  <li
+    <img alt="Gudea brick with a stamped inscription commemorating the construction of the Temple of Ningirsu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cuneiform_dedication_by_Gudea_on_a_mud_brick%2C_excavated_in_Iraq%2C_end_of_the_Gutian_period%2C_22nd_century_BC%2C_clay_-_Tokyo_National_Museum_-_Tokyo%2C_Japan_-_DSC08544.jpg/250px-thumbnail.jpg" height="129" width="150"
+
+    [[ Gudea ]] brick with a stamped inscription commemorating the construction of
+    the [[ Temple of Ningirsu | e-ninnu ]]
+
+  <li
+    <img alt="Brick stamped in the name of Adadnadinakhe. Musée d'archéologie méditerranéenne, Marseille" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mus%C3%A9e_d%27arch%C3%A9ologie_m%C3%A9diterran%C3%A9enne%2C_Marseille_81.jpg/250px-Mus%C3%A9e_d%27arch%C3%A9ologie_m%C3%A9diterran%C3%A9enne%2C_Marseille_81.jpg" height="113" width="150"
+
+    Brick stamped in the name of [[ Adadnadinakhe | adadnadinakhe-bricks ]]. Musée
+    d'archéologie méditerranéenne, Marseille
+
+  <li
+    <img alt="The Well of Eanatum" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laga%C5%A1._Restanten_van_gebouwen%2C_GD006774.jpg/250px-Laga%C5%A1._Restanten_van_gebouwen%2C_GD006774.jpg" height="127" width="150"
+
+    The Well of [[ Eanatum | eannatum ]]
+
+  <li
+    <img alt="View of the Gate of Gudea (1988)." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Laga%C5%A1._Paleis_Restanten%2C_GD006705.jpg/250px-Laga%C5%A1._Paleis_Restanten%2C_GD006705.jpg" height="127" width="150"
+
+    View of the Gate of [[ Gudea ]] (1988).[[ ^68 ]]
+
+  <li
+    <img alt="The Gate of Gudea completely exposed (1895)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Laga%C5%A1._Paleis_Restanten_van_de_toegangspoort%2C_GD006446.jpg/250px-Laga%C5%A1._Paleis_Restanten_van_de_toegangspoort%2C_GD006446.jpg" height="126" width="150"
+
+    The Gate of [[ Gudea ]] completely exposed (1895)
+
+[[ ^1 ]]: [[ https://www.mdpi.com/2673-9461/4/3/15 | https://www.mdpi.com/2673-9461/4/3/15 ]] Jongsma-Greenfield, Tina, et al., "Sacred Space and Ritual Behaviour in Ancient Mesopotamia: A View from Tello/Girsu", Humans 4.3, pp. 239-263, 2024
+
+[[ ^2 ]]: Sébastien Rey, 'Divine Cults in the Sacred Precinct of Girsu', //Near Eastern Archaeology//; Chicago, vol. 84, iss. 2, pp. 130–139, June 2021
+
+[[ ^3 ]]: [[ "Statue of Gudea, 59.2" | https://www.metmuseum.org/art/collection/search/329072 ]]. //Metropolitan Museum of Art//.
+
+[[ ^4 ]]: [[ https://archive.org/details/sumerjounalno.25/mode/1up | https://archive.org/details/sumerjounalno.25/mode/1up ]] Jacobsen, Thorkild, "A Survey of Girsu the (Telloh) Region", Sumer 25, pp. 103–09, 1969
+
+[[ ^5 ]]: Thorkild Jacobsen, "The Waters of Ur", Toward the Image of Tammuz and Other Essays on Mesopotamian History and Culture, Cambridge, MA and London, England: Harvard University Press, pp. 231-244, 1970
+
+[[ ^6 ]]: Steinkeller, Piotr, "New Light on the Hydrology and Topography of Southern Babylonia in the Third Millennium", Zeitschrift für Assyriologie und Vorderasiatische Archäologie, vol. 91, no. 1, pp. 22-84, 2001
+
+[[ ^7 ]]: [[ https://www.cambridge.org/core/journals/radiocarbon/article/dating-ancient-canal-systems-using-radiocarbon-dating-and-archaeological-evidence-at-tellogirsu-southern-mesopotamia-iraq/DFCB7F569B744396C9E4BDA923A8EB07 | https://www.cambridge.org/core/journals/radiocarbon/article/dating-ancient-canal-systems-using-radiocarbon-dating-and-archaeological-evidence-at-tellogirsu-southern-mesopotamia-iraq/DFCB7F569B744396C9E4BDA923A8EB07 ]] Egberts, Ella, et al. "Dating ancient canal systems using radiocarbon dating and archaeological evidence at Tello/Girsu, southern Mesopotamia, Iraq." Radiocarbon 65.4, pp. 979-1002, 2023
+
+[[ ^8 ]]: Potts, Daniel, "Bevel-Rim Bowls and Bakeries: Evidence and Explanations from Iran and the Indo-Iranian Borderlands", Journal of Cuneiform Studies, vol. 61, pp. 1–23, 2009
+
+[[ ^9 ]]: [[ https://iris.unive.it/bitstream/10278/3753601/1/Maiocchi%20-%20Visicato%202020%2C%20Administation%20of%20Giesu.pdf | https://iris.unive.it/bitstream/10278/3753601/1/Maiocchi%20-%20Visicato%202020%2C%20Administation%20of%20Giesu.pdf ]] Maiocchi, Massimo, and Visicato Giuseppe, "Administration at Girsu in Gudea’s Time", Vol. 27. Edizioni Ca'Foscari, 2020
+
+[[ ^10 ]]: Edzard, Dietz Otto (1997). //Gudea and his dynasty//. Toronto: University of Toronto Press. ISBN [[ 978-1-4426-7555-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4426-7555-1 ]]. OCLC [[ 809041550 | https://search.worldcat.org/oclc/809041550 ]].
+
+[[ ^11 ]]: Jean-Jacques Glassner, Benjamin R. Foster, "Mesopotamian chronicles", Brill, Boston, 2005
+
+[[ ^12 ]]: Marine Béranger, "Dur-Abi-ešuh and the Abandonment of Nippur During the Late Old Babylonian Period: A Historical Survey", Journal of Cuneiform Studies 75, pp. 27-47, 2023
+
+[[ ^13 ]]: Al-Hamdani, A., "The Settlement and Canal Systems During the First Sealand Dynasty (1721–1340 BCE)", S. Paulus & T. Clayden (Ed.), Babylonia under the Sealand and Kassite Dynasties, Berlin, pp. 28–57, 2020
+
+[[ ^14 ]]: Naveh J., "The Development of the Aramaic Script (Proceedings of the Israel Academy of Sciences and Humanities 5/1)", Jerusalem, 1970
+
+[[ ^15 ]]: [[ Girsu year names - CDLI | https://cdli-gh.github.io/year-names/E_GLOSSARINDEX/R602.htm ]]
+
+[[ ^16 ]]: [[ "Stele of the Vultures" | https://collections.louvre.fr/en/ark:/53355/cl010121794 ]]. //Musée du Louvre//.
+
+[[ ^17 ]]: [[ "Clay nail of Gudea, 48.1457" | https://art.thewalters.org/object/48.1457/ ]]. //The Walters Art Museum//.
+
+[[ ^18 ]]: Rey, Sébastien, and Camille Lecompte, "Resurrecting Tello (ancient Girsu): the topographical layout of an Early Dynastic Sumerian city", New agendas in remote sensing and landscape archaeology in the Near East. Studies in Honour of Tony J. Wilkinson, pp. 213-227, 2020
+
+[[ ^19 ]]: [[ https://ora.ox.ac.uk/objects/uuid:0fc15b6c-0436-4d17-81d3-31f69b77313e/files/m8b82fbbd6a284fd6a9fa0dfa4ebd78f7 | https://ora.ox.ac.uk/objects/uuid:0fc15b6c-0436-4d17-81d3-31f69b77313e/files/m8b82fbbd6a284fd6a9fa0dfa4ebd78f7 ]] Wood, Rachel, and Rachel Wood, "After the Achaemenids: exchange, transmission and transformation in the visual culture of Babylonia, Iran and Bactria c. 330-c. 100 BC.", Dissertation, Oxford University, UK, 2012
+
+[[ ^20 ]]: Heimpel, Wolfgang, "The Gates of the Eninnu", Journal of Cuneiform Studies, vol. 48, pp. 17–29, 1996
+
+[[ ^21 ]]: [[ https://www.repository.cam.ac.uk/bitstreams/038eae27-d4ec-490d-bbfa-d5505bbfd3cc/download | https://www.repository.cam.ac.uk/bitstreams/038eae27-d4ec-490d-bbfa-d5505bbfd3cc/download ]] Tsouparopoulou, Christina, "The Early Dynastic “Maison des Fruits” at Tell K in Tello (Ĝirsu)", Bulletin of the American Society of Overseas Research 391.1, pp. 191-225, 2024
+
+[[ ^22 ]]: Harriet Crawford, "The Construction Inférieure at Tello. A Reassessment", Iraq, vol. 49, pp. 71–76, 1987
+
+[[ ^23 ]]: [[ https://commons.library.stonybrook.edu/cgi/viewcontent.cgi?article=1505&context=amar | https://commons.library.stonybrook.edu/cgi/viewcontent.cgi?article=1505&context=amar ]] Cros, Gaston, "Nouvelles fouilles de Tello, par le commandant Gaston Cros", Paris:Leroux, 1914
+
+[[ ^24 ]]: [[ https://orbi.uliege.be/bitstream/2268/239456/1/Akkadica%20140-2%202019%201%20Thomas%26ColonnadIstria%20p105_148.pdf | https://orbi.uliege.be/bitstream/2268/239456/1/Akkadica%20140-2%202019%201%20Thomas%26ColonnadIstria%20p105_148.pdf ]] Thomas, Ariane, and Laurent Colonna d'Istria, "Le temple de Ningešzida à Girsu", Akkadica: Revue Semestrielle de la Fondation Assyriologique Georges Dossin 2, pp. 105-148, 2019
+
+[[ ^25 ]]: Caubet, A., "The historical context of the Sumerian discoveries", Museum International 61, pp. 74–80, 2009
+
+[[ ^26 ]]: Sarzec, E. de, Arthur Amiaud LéonHeuzey, and François Thureau-Dangin, "Découvertes en Chaldée", Paris: E. Leroux, 1912
+
+[[ ^27 ]]: de Sarzec, E. (1892). "Deux tablettes archaïques de Tello". //Revue d'Assyriologie et d'Archéologie Orientale// (in French). !!2!! (4): 146–149. JSTOR [[ 23284262 | https://www.jstor.org/stable/23284262 ]].
+
+[[ ^28 ]]: Cros, Gaston (1910). [[ //Nouvelles Fouilles de Tello// | https://archive.org/details/nouvellesfouille00crosuoft/page/n8/mode/1up ]] (in French). Paris: Ernest Laroux.
+
+[[ ^29 ]]: Hilprecht, H.V. (1904). [[ //The Excavations in Assyria and Babylonia// | https://babel.hathitrust.org/cgi/pt?id=njp.32101073396747&view=1up ]]. Philadelphia, USA: A.J. Holman.
+
+[[ ^30 ]]: Thomas, Ariane (2016). "The faded splendour of Lagashite princesses: a restored statuette from Tello and the depiction of court women in the Neo-Sumerian kingdom of Lagash". //Iraq//. !!78!!: 215–239. doi:[[ 10.1017/irq.2016.4 | https://doi.org/10.1017%2Firq.2016.4 ]].
+
+[[ ^31 ]]: Desset, F.; Marchesi, G.; Vidale, M.; Pignatti, J. (2016). [[ "A sculpted dish from Tello made of a rare stone (Louvre–AO 153)" | https://hal.archives-ouvertes.fr/hal-03471079/file/Desset%2C%20Marchesi%2C%20Vidale%2C%20Pignatti%202016_A%20Sculpted%20Dish%20from%20Tello.pdf ]] (PDF). //Journal of Near Eastern Studies//. !!75!! (1): 71–84. doi:[[ 10.1086/684811 | https://doi.org/10.1086%2F684811 ]]. hdl:[[ 11573/925127 | https://hdl.handle.net/11573%2F925127 ]].
+
+[[ ^32 ]]: Verderame, Lorenzo, "Rassam’s Activity in Tello (1879) and the Earliest Acquisition of Neo-Sumerian Tablets in the British Museum", on the Third Dynasty of Ur. Studies in Honor of Marcel Sigrist. ed. by Piotr Michalowski, Boston: American Schools of Oriental Research, 2008 (Journal of Cuneiform Studies supplemental series 1), 2008
+
+[[ ^33 ]]: Claudia E. Suter, "A Shulgi Statuette from Tello", Journal of Cuneiform Studies, vol. 43/45, pp. 63–70, (1991–1993)
+
+[[ ^34 ]]: [[ https://commons.library.stonybrook.edu/amar/484/ | https://commons.library.stonybrook.edu/amar/484/ ]] Abbé Henri de Genouillac, "Fouilles de Telloh I: Epoques présargo-niques", Paris, 1934
+
+[[ ^35 ]]: [[ https://commons.library.stonybrook.edu/amar/166/ | https://commons.library.stonybrook.edu/amar/166/ ]] Abbé Henri de Genouillac, "Fouilles de Telloh II: Epoques d'Ur III Dynastie et de Larsa, avec un appendice sur les fouilles de Médaïn",  Paris, 1936
+
+[[ ^36 ]]: Parrot, André (1948). [[ //Tello: Vingt Campagnes de Fouilles (1877–1933)// | https://archive.org/details/tellovingtcampag00parr/page/n4/mode/1up ]] (in French). Paris: Albin Michel.
+
+[[ ^37 ]]: [[ https://archive.org/download/haverford-library-collection-cuneiform-tablets-documents-from-the-temple-archives-of-telloh-part-i/Haverford%20Library%20Collection%2C%20Cuneiform%20Tablets%2C%20Documents%20From%20the%20Temple%20Archives%20of%20Telloh%2C%20Part%20I.pdf | https://archive.org/download/haverford-library-collection-cuneiform-tablets-documents-from-the-temple-archives-of-telloh-part-i/Haverford%20Library%20Collection%2C%20Cuneiform%20Tablets%2C%20Documents%20From%20the%20Temple%20Archives%20of%20Telloh%2C%20Part%20I.pdf ]] Barton, George A, "Haverford Library Collection, Cuneiform Tablets, Documents From The Temple Archives Of Telloh, Part I", The John C Winston Company, Philadelphia PA, 1901
+
+[[ ^38 ]]: [[ https://archive.org/download/haverford-library-collection-cuneiform-tablets-documents-from-the-temple-archives-of-telloh-part-ii/Haverford%20Library%20Collection%2C%20Cuneiform%20Tablets%2C%20Documents%20From%20the%20Temple%20Archives%20of%20Telloh%2C%20Part%20II.pdf | https://archive.org/download/haverford-library-collection-cuneiform-tablets-documents-from-the-temple-archives-of-telloh-part-ii/Haverford%20Library%20Collection%2C%20Cuneiform%20Tablets%2C%20Documents%20From%20the%20Temple%20Archives%20of%20Telloh%2C%20Part%20II.pdf ]] Barton, George A, "Haverford Library Collection, Cuneiform Tablets, Documents From The Temple Archives Of Telloh, Part II", The John C Winston Company, Philadelphia PA, 1905
+
+[[ ^39 ]]: [[ https://archive.org/download/haverford-library-collection-cuneiform-tablets-documents-from-the-temple-archives-of-telloh-part-iii/Haverford%20Library%20Collection%2C%20Cuneiform%20Tablets%2C%20Documents%20From%20the%20Temple%20Archives%20of%20Telloh%2C%20Part%20III.pdf | https://archive.org/download/haverford-library-collection-cuneiform-tablets-documents-from-the-temple-archives-of-telloh-part-iii/Haverford%20Library%20Collection%2C%20Cuneiform%20Tablets%2C%20Documents%20From%20the%20Temple%20Archives%20of%20Telloh%2C%20Part%20III.pdf ]] Barton, George A, //Haverford Library Collection, Cuneiform Tablets, Documents From The Temple Archives Of Telloh, Part III//, The John C Winston Company, Philadelphia PA, 1914
+
+[[ ^40 ]]: [[ The Iraq Emergency Heritage Management Training Scheme: an update - British Museum | https://blog.britishmuseum.org/the-iraq-emergency-heritage-management-training-scheme-an-update/ ]]
+
+[[ ^41 ]]: [[ "Tello" | https://www.britishmuseum.org/our-work/international/iraq-scheme/tello ]]. //The British Museum//. Retrieved 2022-06-13.
+
+[[ ^42 ]]: Rey, Sebastien, "Tello/Girsu: first results of the autumn 2019 archaeological season", Sumer Journal of Archaeology of Iraq, 66, 2020
+
+[[ ^43 ]]: Rey, Sébastien, "The Temple of Ningirsu: The Culture of the Sacred in Mesopotamia", Eisenbrauns, 2024 ISBN [[ 978-1-64602-264-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-64602-264-9 ]]
+
+[[ ^44 ]]: Weiss, Daniel (2020). "Temple of the White Thunderbird". //Archaeology//. January/February: 38–45.
+
+[[ ^45 ]]: [[ "Ancient cultic area for warrior-god uncovered in Iraq" | https://www.livescience.com/girsu-cult-discovered.html ]]. //Live Science//. 31 March 2020.
+
+[[ ^46 ]]: Thomas, Tobi (2023-02-17). [[ "Discovery of 4,500-year-old palace in Iraq may hold key to ancient civilisation" | https://www.theguardian.com/science/2023/feb/17/discovery-of-4500-year-old-palace-in-iraq-may-hold-key-to-ancient-civilisation ]]. //The Guardian//. ISSN [[ 0261-3077 | https://search.worldcat.org/issn/0261-3077 ]]. Retrieved 2023-02-23.
+
+[[ ^47 ]]: [[ Ancient Mesopotamian clay tablets discovered in Iraq reveal intricate details of how empire was governed - The Art Newspaper - 20 March 2025 | https://www.theartnewspaper.com/2025/03/20/ancient-mesopotamian-clay-tablets-discovered-iraq-reveal-intricate-details-how-empire-governed ]]
+
+[[ ^48 ]]: Claudia E. Suter, "Review - The Temple of Ningirsu: The Culture of the Sacred in Mesopotamia by S. Rey", Bulletin of the American Society of Overseas Research 394, pp. 241-243, 2025
+
+[[ ^49 ]]: [[ In the Spotlight – the Girsu Project with Sébastien Rey - IAA - 23-02-2026 | https://iaassyriology.com/in-the-spotlight-the-girsu-project-with-sebastien-rey/ ]]
+
+[[ ^50 ]]: Simpson, Craig (18 November 2023). [[ "Ancient Iraqis may have worshipped Alexander the Great, says British Museum" | https://www.telegraph.co.uk/world-news/2023/11/18/ancient-iraqi-civilisation-worshipped-alexander-the-great/ ]]. //The Telegraph//. Retrieved 18 November 2023.``\{{cite news}}``:  CS1 maint: url-status ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_url-status ]])
+
+[[ ^51 ]]: [[ Sumulael Year Names at CDLI | https://cdli.ox.ac.uk/wiki/doku.php?id=sumulael ]]
+
+[[ ^52 ]]: Molina, Manuel and Steinkeller, Piotr, "New Data on Garšana and the Border Zone between Umma and Girsu/Lagaš", The First Ninety Years: A Sumerian Celebration in Honor of Miguel Civil, edited by Lluís Feliu, Fumi Karahashi and Gonzalo Rubio, Berlin, Boston: De Gruyter, pp. 231-249, 2017
+
+[[ ^53 ]]: Heimpel, W, "Towards an Understanding of the Term Sikkum", Revue d’Assyriologie et d’archéologie Orientale, vol. 88, no. 1, pp. 5–31, 1994
+
+[[ ^54 ]]: Steinkeller, Piotr, "New Light on Šimaški and Its Rulers", Zeitschrift für Assyriologie und Vorderasiatische Archäologie, vol. 97, no. 2, pp. 215-232, 2007
+
+[[ ^55 ]]: Owen, D. I., "New Iri-Saĝrig Ration Distribution and Related Texts", in P. A. Avetsiyan [e. a.] (ed.), Over the Mountains and Far Away. Studies in Near Eastern History and Archaeology presented to Mirjo Sal, 2019
+
+[[ ^56 ]]: [[ https://www.degruyter.com/document/doi/10.1515/za-2023-0013/pdf | https://www.degruyter.com/document/doi/10.1515/za-2023-0013/pdf ]] Notizia, Palmiro, and Ammar M. al-Taee, "Sealed Bullae and Livestock Management at Irisaĝrig in the Early Old Babylonian Period", Zeitschrift für Assyriologie und vorderasiatische Archäologie 113.2, pp. 169-192, 2023
+
+[[ ^57 ]]: Steinkeller, Piotr. "Two Sargonic Seals from Urusagrig and the Question of Urusagrig’s Location", Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 112, no. 1, pp. 1-10, 2022
+
+[[ ^58 ]]: Owen, D., "Treasures of the Sacristy", RA 107, 29-42, 2013
+
+[[ ^59 ]]: Liu, Changyu, "An Edition of Twelve Ur III Administrative Cuneiform Tablets from United States Collections", Archiv orientální 87, pp. 33-57, 2019
+
+[[ ^60 ]]: Owen, D. I., "A New Iri-saĝrig “Sacristy” Inventory Text in the Lanier Theological Library, RA 113, pp. 39–44, 2019
+
+[[ ^61 ]]: [[ "Terracotta vase, AO14281" | http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not&idNotice=9751 ]]. //Musée du Louvre//.
+
+[[ ^62 ]]: [[ "Mace of Mesilim, AO 2349" | https://collections.louvre.fr/en/ark:/53355/cl010148289 ]]. //Musée du Louvre//.
+
+[[ ^63 ]]: [[ "Silver Vase of Enmetena, AO2674" | https://collections.louvre.fr/en/ark:/53355/cl010120706 ]]. //Musée du Louvre//. [[ Archived | https://web.archive.org/web/20240705025149/https://collections.louvre.fr/en/ark:/53355/cl010120706 ]] from the original on 5 July 2024.
+
+[[ ^64 ]]: [[ "Stele of the Vultures" | https://collections.louvre.fr/en/ark:/53355/cl010121794 ]]. //Musée du Louvre//.
+
+[[ ^65 ]]: [[ "Feathered Figure, AO221" | https://collections.louvre.fr/en/ark:/53355/cl010121757 ]]. //Musée du Louvre//.
+
+[[ ^66 ]]: [[ "Gudea Cylinder A, MNB1512" | https://collections.louvre.fr/en/ark:/53355/cl010124631 ]]. //Musée du Louvre//.
+
+[[ ^67 ]]: [[ "Gudea Cylinder B, MNB 1511" | https://collections.louvre.fr/en/ark:/53355/cl010124630 ]]. //Musée du Louvre//.
+
+[[ ^68 ]]: Sarzec, E. de; Heuzey, L. (1912). //Découvertes en Chaldée// (in French). Paris: Ernest Leroux. pp. Pl. 50 (2).

@@ -1,0 +1,503 @@
++++
+title: Dur-Sharrukin
+description: Assyrian capital in the time of Sargon II; located in modern-day Iraq
+key-facts:
+  - name: What it was
+    value: Assyrian capital in the time of Sargon II
+    from: "description: Assyrian capital in the time of Sargon II; located in
+      modern-day Iraq"
+  - name: Built
+    value: In the decade preceding 706 BC
+    from: The great city was entirely built in the decade preceding 706 BC.
+  - name: Abandoned
+    value: Approximately 605 BC
+    from: "abandoned: Approximately 605 BC"
+  - name: Where it is now
+    value: Khorsabad, Nineveh Governorate, Iraq
+    from: "location: Khorsabad, Nineveh Governorate, Iraq"
+  - name: How big
+    value: 1758.6 by 1635 metres, enclosing 3 square kilometres
+    from: The town was of rectangular layout and measured 1758.6 by 1635 metres.
+      The enclosed area comprised 3 square kilometres, or 288 hectares.
+  - name: Dug in
+    value: 1842–1844, 1852–1855 1928–1935, 1957
+    from: "excavation-dates: 1842–1844, 1852–1855 1928–1935, 1957"
+image-plan:
+  - file: Human_headed_winged_bull_profile.jpg
+    role: hero
+    section: lead
+    caption: A lamassu found during Botta's excavation, now in the [[ Louvre ]]
+      Museum.
+  - file: Villes_assyriennes.PNG
+    role: inline
+    section: history
+    caption: "[[ Mesopotamia ]] in the Neo-Assyrian period, with the place names
+      in French."
+  - file: Plan_of_Palace_of_Sargon_Khosrabad_Reconstruction_1905.jpg
+    role: full
+    section: description
+    caption: The palace of Sargon as reconstructed on paper in 1905; the complex
+      stood on the northern wall of the city.
+  - file: Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg
+    role: inline
+    section: description
+    caption: The same reconstruction as a model of the palace at Khorsabad, 1905.
+  - file: Place_V_1867_III_Plate_43_6.jpg
+    role: full
+    section: qurnah-disaster
+    caption: Rafts (Keleks) floating down the [[ Tigris ]] river loaded with
+      antiquities in 1855, from Victor Place's publication of 1867.
+further:
+  - slug: nineveh
+    why: The city 20 km south that Sennacherib made the capital instead, and where
+      Botta had been digging without success when Khorsabad was pointed out to
+      him.
+  - slug: nimrud
+    why: One of the seemingly more promising sites that European excavators
+      favoured over Dur-Sharrukin until 1843.
+  - slug: assyria
+    why: The empire whose fall, a century after Sargon's death, finally emptied
+      the city.
+coordinates:
+  lat: 36.50944444
+  lon: 43.22944444
+image: https://upload.wikimedia.org/wikipedia/commons/d/d5/Lammasu.jpg
+images:
+  - file: Human_headed_winged_bull_profile.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Human_headed_winged_bull_profile.jpg/250px-Human_headed_winged_bull_profile.jpg
+    width: 1500
+    height: 1438
+    caption: Lamassu found during Botta's excavation, now in the Louvre Museum.
+  - file: Villes_assyriennes.PNG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Villes_assyriennes.PNG/250px-Villes_assyriennes.PNG
+    width: 1117
+    height: 807
+    caption: Mesopotamia in the Neo-Assyrian period (place names in French)
+  - file: Plan_of_Palace_of_Sargon_Khosrabad_Reconstruction_1905.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plan_of_Palace_of_Sargon_Khosrabad_Reconstruction_1905.jpg/250px-Plan_of_Palace_of_Sargon_Khosrabad_Reconstruction_1905.jpg
+    width: 1740
+    height: 1860
+    caption: Plan of Palace of Sargon Khorsabad Reconstruction 1905
+  - file: Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg/250px-Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg
+    width: 3008
+    height: 2006
+    caption: Reconstructed Model of Palace of Sargon at Khorsabad 1905
+  - file: Place_V_1867_III_Plate_43_6.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Place_V_1867_III_Plate_43_6.jpg/250px-Place_V_1867_III_Plate_43_6.jpg
+    width: 2268
+    height: 3076
+    caption: Convoy of rafts (Keleks) floating down the Tigris river loaded with
+      antiquities in 1855 (V Place 1867)
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lammasu.jpg/330px-Lammasu.jpg
+    caption: A human-headed winged bull known as a lamassu from Dur-Sharrukin.
+      Neo-Assyrian Period, ca. 721–705 BC
+  type: Settlement
+  periods: Neo-Assyrian Empire
+  cultures: Assyrian
+  location: Khorsabad, Nineveh Governorate, Iraq
+  region: Mesopotamia
+  history:
+    built: In the decade preceding 706 BC
+    abandoned: Approximately 605 BC
+  site-notes:
+    length: 1,760 m (5,770 ft)
+    width: 1,635 m (5,364 ft)
+    area: 2.88 km2 (1.11 sq mi)
+    excavation-dates: 1842–1844, 1852–1855 1928–1935, 1957
+    archaeologists: Paul-Émile Botta, Eugène Flandin, Victor Place, Edward Chiera,
+      Gordon Loud, Hamilton Darby, Fuad Safar
+    condition: Severely Damaged
+    public-access: Inaccessible
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: destruction-by-isil
+    title: Destruction by ISIL
+  - level: 2
+    id: description
+    title: Description
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 3
+    id: early-excavations
+    title: Early excavations
+  - level: 3
+    id: qurnah-disaster
+    title: Qurnah disaster
+  - level: 3
+    id: 20th-century-excavations
+    title: 20th century excavations
+  - level: 3
+    id: 21st-century-excavations
+    title: 21st century excavations
+  - level: 2
+    id: gallery
+    title: Gallery
+wikidata:
+  id: Q253208
+  label: Dur-Sharrukin
+  description: Assyrian capital in the time of Sargon II
+  claims:
+    commons-category: Dur-Sharrukin
+    coordinate-location:
+      lat: 36.50953
+      lon: 43.22931
+    country: Iraq
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Lammasu.jpg
+    inception: 706 BC
+    located-in-the-administrative-territorial-entity: Nineveh Governorate
+    dissolved-abolished-or-demolished: 605 BC
+    instance-of:
+      - human settlement
+      - archaeological site
+    commons-gallery: Dur Sharrukin
+    time-period: ancient Near East
+    culture: Assyrians
+    topic-s-main-category: Category:Dur-Sharrukin
+    capital-of: Assyrian Empire
+    described-by-source: Encyclopædia Britannica 11th edition
+link-titles:
+  adad: Adad
+  al-qurnah: Al-Qurnah
+  almond: Almond
+  apple: Apple
+  arabic-language: Arabic language
+  artifact-archaeology: Artifact (archaeology)
+  assyria: Assyria
+  assyrian-timber-transportation-relief: Assyrian Timber Transportation relief
+  assyrian-architecture: Assyrian architecture
+  assyrian-art: Assyrian art
+  austen-henry-layard: Austen Henry Layard
+  babylon: Babylon
+  baghdad: Baghdad
+  basra: Basra
+  cedrus: Cedrus
+  chicago: Chicago
+  constantinople: Constantinople
+  consul-representative: Consul (representative)
+  crimean-war: Crimean War
+  cypress: Cypress
+  destruction-of-cultural-heritage-by-isil: Destruction of cultural heritage by ISIL
+  early-muslim-conquests: Early Muslim conquests
+  edward-chiera: Edward Chiera
+  eugène-flandin: Eugène Flandin
+  france: France
+  fuad-safaractioneditredlink1: Fuad Safar?action=edit&redlink=1
+  fulgence-fresnel: Fulgence Fresnel
+  institute-for-the-study-of-ancient-cultures: Institute for the Study of Ancient Cultures
+  iraq: Iraq
+  iraq-museum: Iraq Museum
+  iraqi-department-antiquitiesactioneditredlink1: Iraqi Department Antiquities?action=edit&redlink=1
+  islamic-state-of-iraq-and-the-levant: Islamic State of Iraq and the Levant
+  kuyunjik: Kuyunjik
+  louvre: Louvre
+  medlar: Medlar
+  mesopotamia: Mesopotamia
+  moldavia: Moldavia
+  mosul: Mosul
+  mound: Mound
+  nabu: Nabu
+  neo-assyrian-akkadian-language: Neo-Assyrian Akkadian language
+  nimrud: Nimrud
+  nineveh: Nineveh
+  ningal: Ningal
+  ninurta: Ninurta
+  nur-mountains: Nur Mountains
+  olive: Olive
+  ottoman-empire: Ottoman Empire
+  paris: Paris
+  paul-émile-botta: Paul-Émile Botta
+  persian-gulf: Persian Gulf
+  phoenicia: Phoenicia
+  quince: Quince
+  robin-lane-fox: Robin Lane Fox
+  sargon-ii-of-assyria: Sargon II of Assyria
+  sennacherib: Sennacherib
+  shamash: Shamash
+  shedu: Shedu
+  sheikh-abu-saadactioneditredlink1: Sheikh Abu Saad?action=edit&redlink=1
+  sin-mythology: Sin (mythology)
+  sir-henry-rawlinson-1st-baronet: Sir Henry Rawlinson, 1st Baronet
+  syriac-language: Syriac Language
+  tigris: Tigris
+  yaqut-al-hamawi: Yaqut Al-Hamawi
+  ziggurat: Ziggurat
+source:
+  site: Wikipedia
+  lang: en
+  title: Dur-Sharrukin
+  url: https://en.wikipedia.org/wiki/Dur-Sharrukin
+  page-id: 587866
+  revision: "1370330313"
+  modified: 2026-08-20T14:14:55Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article
+    "Dur-Sharrukin" (revision 1370330313), by Wikipedia contributors, used
+    under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/dur-sharrukin.mdy
+  source-digest: a2755d6f9f966ac0
+  source-revision: "1370330313"
+  model: claude-opus-5
+  left-out: The Gallery section is a bare list of captioned images, so it is
+    reproduced as it stood rather than turned into prose; its pictures are not
+    in the front-matter image list and so are not in the image plan. The
+    infobox lamassu (Lammasu.jpg) is not in that list either, so the hero is
+    the lamassu photograph that is. A few sentences in the source carry no
+    footnote of their own (the closing remarks on Botta's finds arriving in
+    Europe, the note that Sargon supposedly lost a winged bull in the river,
+    the temple and gate details in Description); they are kept with the
+    nearest citation the source gives them, or with none where the source
+    gives none.
+  verified: true
+  verdict: clean
+  reviewed: false
++++
+A whole capital, built from nothing in a single decade and then left behind when the king who ordered it was killed. !!Dur-Sharrukin!! (Neo-Assyrian Akkadian: 𒂦𒈗𒁺, romanized: //Dūr Šarru-kīn//, "Fortress of Sargon"; Arabic: دور شروكين, [[ Syriac | syriac-language ]]: ܕܘܪ ܫܪܘ ܘܟܢ), present day !!Khorsabad!!, was the [[ Assyrian | assyria ]] capital in the time of [[ Sargon II of Assyria ]]. The great city was entirely built in the decade preceding 706 BC. After the unexpected death of Sargon in battle, the capital was moved 20 km south to [[ Nineveh ]].
+
+Khorsabad is a village in northern [[ Iraq ]], 15 km northeast of [[ Mosul ]].
+
+== History
+
+Sargon II ruled from 722 to 705 BC. The demands for timber and other materials and craftsmen, who came from as far as coastal [[ Phoenicia ]], are documented in contemporary Assyrian letters. The debts of construction workers were nullified in order to attract a sufficient labour force. The land in the environs of the town was taken under cultivation, and [[ olive ]] groves were planted to increase Assyria's deficient oil-production.
+
+The great city was entirely built in the decade preceding 706 BC, when the court moved to Dur-Sharrukin, although it was not completely finished yet. Sargon was killed during a battle in 705. After his unexpected death his son and successor [[ Sennacherib ]] abandoned the project, and relocated the capital with its administration to the city of [[ Nineveh ]], 20 km south. The city was never completed and it was finally abandoned a century later when the Assyrian empire fell.[[ ^1 ]]
+
+== Destruction by ISIL
+
+On 8 March 2015 the [[ Islamic State of Iraq and the Levant ]] reportedly started the [[ plunder and demolition | destruction-of-cultural-heritage-by-isil ]] of Dur-Sharrukin, according to a Kurdish official from Mosul, Saeed Mamuzini, and the Iraqi Tourism and Antiquities Ministry launched the related investigation on the same day.[[ ^2 ]] Only one looting tunnel has been found.[[ ^3 ]]
+
+== Description
+
+The town was of rectangular layout and measured 1758.6 by 1635 metres. The enclosed area comprised 3 square kilometres, or 288 hectares. The length of the walls was 16280 Assyrian units, which according to Sargon himself corresponded to the numerical value of his name.[[ ^4 ]] The city walls were massive and 157 towers protected its sides. Seven gates entered the city from all directions.
+
+A walled terrace contained temples and the royal palace. The main temples were dedicated to the gods [[ Nabu ]], [[ Shamash ]] and [[ Sin | sin-mythology ]], while [[ Adad ]], [[ Ningal ]] and [[ Ninurta ]] had smaller shrines. A temple tower, [[ ziggurat ]], was also constructed, which notably displays the only confirmed ziggurat with a helical ramp, rather than staircases directly up to the prominence.
+
+The palace complex was situated on the northern wall of the city. At the entrance of the palace were a ramp and a large doorway with the god-protector of the city Lamassu on one side.[[ ^5 ]] The palace was adorned with sculptures and wall reliefs, and the gates were flanked with winged-bull //[[ shedu ]]// statues weighing up to 40 tons. Sargon supposedly lost at least one of these winged bulls in the river. In the south-west corner of the city was located a secondary citadel, used as a control point against internal riots and foreign invasions.[[ ^5 ]]
+
+In addition to the great city, there was a royal hunting park and a garden that included "all the aromatic plants of Hatti[[ ^6 ]] and the fruit-trees of every mountain", a "record of power and conquest", as [[ Robin Lane Fox ]] has observed.[[ ^7 ]] Surviving correspondence mentions the moving of thousands of young fruit trees, [[ quinces | quince ]], [[ almonds | almond ]], [[ apples | apple ]] and [[ medlars | medlar ]].[[ ^8 ]]
+
+<blockquote
+  On the central canal of Sargon's garden stood a pillared pleasure-pavilion
+  which looked up to a great topographic creation: a man-made
+  [[ Garden Mound | mound ]]. This Mound was planted with [[ cedars | cedrus ]]
+  and [[ cypresses | cypress ]] and was modelled after a foreign landscape, the
+  [[ Amanus mountains | nur-mountains ]] in north Syria, which had so amazed the
+  Assyrian kings. In their flat palace-gardens they built a replica of what they
+  had encountered.[[ ^9 ]]
+
+== Archaeology
+
+Dur-Sharrukin is roughly a square with a border marked by a city wall 24 meters thick with a stone foundation pierced by seven massive gates. A mound in the north-east section marks the location of the palace of Sargon II. At the time of its construction, the village on the site was named Maganuba.[[ ^10 ]]
+
+== Early excavations
+
+Dur-Sharrukin was abandoned in antiquity and thus did not attract the same level of attention as other ancient Assyrian sites, but there was some awareness of the origins of the mound well before European excavation. The medieval Arab geographer [[ Yaqut Al-Hamawi ]] recorded that the site was called Saraoun or Saraghoun, which demonstrates the original Assyrian name was not completely forgotten before the city's rediscovery.[[ ^11 ]] He also reported that shortly after the [[ early Muslim conquests ]], "considerable treasures were found amongst the ruins," though the extent of these early excavations are unknown.[[ ^12 ]] It was during the medieval period as well that the village of Khorsabad was founded on the top of the mound.
+
+Once the European presence in northern [[ Iraq ]] became more substantial in the mid-nineteenth century, archaeological exploration of the site of Dur-Sharrukin was neglected in favor of seemingly more promising sites such as [[ Nineveh ]] or [[ Nimrud ]]. This situation changed in April 1843, when the French Consul General at [[ Mosul ]], [[ Paul-Émile Botta ]], who had been excavating at Kuyunjik (the contemporary village atop the mound of Nineveh) without success, was approached by a resident of the village of Khorsabad.[[ ^13 ]] The English archaeologist [[ Austen Henry Layard ]] recorded the event as follows:
+
+<blockquote
+  //"The small party employed by M. Botta were at work on Kouyunjik, when a
+  peasant from a distant village chanced to visit the spot. Seeing that every
+  fragment of brick and alabaster uncovered by the workmen was carefully
+  preserved, he asked the reason of this, to him, strange proceeding. On being
+  informed that they were in search of sculptured stones, he advised them to try
+  the mound on which his village was built, and in which, he declared, many such
+  things as they wanted had been exposed on digging for the foundations of new
+  houses. M. Botta, having been frequently deceived by similar stories, was not
+  at first inclined to follow the peasant's advice, but subsequently sent an
+  agent and one or two workmen to the place. After a little opposition from the
+  inhabitants, they were permitted to sink a well in the mound; and at a small
+  distance from the surface they came to the top of a wall which, on digging
+  deeper, they found to be built of sculptured slabs of gypsum. M. Botta, on
+  receiving information of this discovery, went at once to the village, which
+  was called Khorsabad. He directed a wider trench to be formed, and to be
+  carried in the direction of the wall. He soon found that he had entered a
+  chamber, connected with others, and surrounded by slabs of gypsum covered with
+  sculptured representations of battles, sieges, and similar events. His wonder
+  may easily be imagined. A new history had been suddenly opened to him-the
+  records of an unknown people were before him."// [[ ^14 ]]
+
+The interplay between local mediators and European archaeologists in Layard's account effectively captures the necessary cooperation which enabled these early discoveries. With this initial excavation, the archaeological investigation of ancient Mesopotamia began in earnest. Unlike [[ Kuyunjik ]], the Assyrian ruins at Khorsabad were much closer to the surface of the mound, and therefore it was not long before Botta and his team reached the ancient palace, leading to the discovery of numerous reliefs and sculptures.
+
+Unfortunately, this excitement was somewhat dulled by the destruction of many of these early discoveries due to sudden exposure to the outside environment.[[ ^15 ]] Botta's consular duties also took up a majority of his time, preventing him from organizing systematic excavations of the site, and local [[ Ottoman | ottoman-empire ]] authorities grew suspicious of the true intentions behind the excavations, which at this time were technically illegal, as Botta had yet to receive official permission from [[ Constantinople ]] for his work, a common situation with early European excavations.[[ ^16 ]] These difficulties caused formal excavations to cease by October 1843.
+
+Still, Botta's initial reports back to France sparked considerable scholarly interest in the project, and eventually he received more funding and an artist, [[ Eugène Flandin ]], from France.[[ ^17 ]][[ ^18 ]][[ ^19 ]] By spring of 1844 then, Botta resumed further excavations of the site, which required him to purchase the village of Khorsabad itself and resettle it at the foot of the mound. However, this new site was in swampy terrain, and malaria and other diseases were a constant threat to the residents and workers.[[ ^20 ]] The extensive finds convinced Botta that he had uncovered the true site of Nineveh, though this would be subsequently refuted by excavations at Kuyunjik by Layard and others.[[ ^21 ]]
+
+By October of that year, Botta had uncovered enough of the palace to cease further excavations and attempt to deliver some of the findings to [[ France ]], which required an extensive operation of carts to transport the reliefs and sculptures to [[ Mosul ]], which were then transported by raft and ship to [[ Basra ]] on the [[ Persian Gulf ]] and then to [[ Paris ]], where they arrived in 1847.[[ ^22 ]] These were the first major Assyrian finds to arrive in Europe, and they fuelled a growing fascination with the ancient civilization which would lead to further excavations.
+
+== Qurnah disaster
+
+By 1852, excavations of the site had been resumed by the new French [[ consul | consul-representative ]], Victor Place, and in 1855 another shipment of antiquities was ready to be sent back to Paris.[[ ^23 ]][[ ^24 ]] A cargo ship and four rafts were prepared to carry the [[ artifacts | artifact-archaeology ]], but even this substantial effort was over-whelmed by the sheer number of items to be transported. Additionally, shortly after the convoy reached [[ Baghdad ]], Place was summoned to his new consular post in [[ Moldavia ]] due to the ongoing [[ Crimean War ]], and had to leave the shipment in the hands of a French schoolteacher, M. Clement to finalise its return to Paris.[[ ^25 ]][[ ^26 ]]
+
+More antiquities from [[ Rawlinson's | sir-henry-rawlinson-1st-baronet ]] expedition to [[ Kuyunjik | nineveh ]] and [[ Fresnel | fulgence-fresnel ]]'s to [[ Babylon ]] were also added to the shipment.[[ ^27 ]] The troubles began once the convoy left Baghdad in May 1855, as the banks of the river [[ Tigris ]] were controlled by local sheikhs who were hostile to the Ottoman authorities and frequently raided shipping sailing by.[[ ^28 ]] During the journey, the convoy was boarded several times, forcing the crew to relinquish most of their money and supplies in order to be allowed further passage on the river.[[ ^25 ]][[ ^27 ]]
+
+Once the convoy reached [[ Al-Qurnah ]] (Kurnah) it was assaulted by local pirates led by Sheikh Abu Saad, whose actions sank the main cargo ship and forced the four rafts aground shortly afterwards.[[ ^27 ]] The entire shipment was almost completely lost, with only 28 of over 200 crates eventually making it to the [[ Louvre ]] in Paris.[[ ^29 ]][[ ^30 ]] Subsequent efforts to recover the lost antiquities, including a Japanese expedition in 1971–1972, have largely been unsuccessful.[[ ^27 ]][[ ^31 ]]
+
+== 20th century excavations
+
+The site of Khorsabad was excavated between 1928–1935 by American archaeologists from the [[ Institute for the Study of Ancient Cultures ]] in [[ Chicago ]]. Work in the first season was led by [[ Edward Chiera ]] and concentrated on the palace area. A colossal //lamassu// estimated to weigh 40 tons was uncovered outside the throne room. It was found split into three large fragments; the torso alone weighed about 20 tons, and it was shipped to Chicago. The remaining seasons were led by Gordon Loud and Hamilton Darby. Their work examined one of the city gates, continued work at the palace, and excavated extensively at the palace's temple complex.[[ ^32 ]]
+
+Since Dur-Sharrukin was a single-period site that was evacuated in an orderly manner after the death of Sargon II, few individual objects were found. The primary discoveries from Khorsabad shed light on [[ Assyrian art ]] and [[ architecture | assyrian-architecture ]].
+
+In 1957, archaeologists from the Iraqi Department Antiquities led by Fuad Safar excavated at the site, uncovering the Temple of Sibitti.[[ ^33 ]]
+
+== 21st century excavations
+
+Archeologists returned to excavating in the area in 2023, after political conditions had limited their work in early 21st century, and unearthed in Dur-Sharrukin a massive sculpture of //lamassu// weighing almost 20 tons. It had been first documented in the 19th century, then partially excavated in the 1990s, and later reburied to safeguard it. The head of the statue was missing as it had been removed by looters decades ago. It had later been retrieved by Iraqi authorities, and is currently on display in the [[ Iraq Museum ]] in Baghdad.[[ ^34 ]]
+
+== Gallery
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Victor_Place_Khorsabad.jpg/250px-Victor_Place_Khorsabad.jpg" alt="Plan of Dur-Sharrukin, 1867" height="200" width="158"
+
+    Plan of Dur-Sharrukin, 1867
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Eastern_Antiquities_in_the_Louvre_-_Room_4%2C_05.JPG/250px-Eastern_Antiquities_in_the_Louvre_-_Room_4%2C_05.JPG" alt="The Timber Transportation relief at the Louvre" height="150" width="200"
+
+    The [[ Timber Transportation relief | assyrian-timber-transportation-relief ]]
+    at the Louvre
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/S03_06_01_017_image_2340.jpg/120px-S03_06_01_017_image_2340.jpg" alt="Khorsabad brick, Assyria. Babylonian; Louvre Brooklyn Museum Archives, Goodyear Archival Collection" height="200" width="105"
+
+    Khorsabad brick, Assyria. Babylonian; Louvre Brooklyn Museum Archives,
+    Goodyear Archival Collection
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palace_of_Khorsabad.png/250px-Palace_of_Khorsabad.png" alt="Palace of Dur-Sharrukin" height="169" width="200"
+
+    Palace of Dur-Sharrukin
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sargon_II_foundation_cylinder.jpg/250px-Sargon_II_foundation_cylinder.jpg" alt="Dur-Sharrukin foundation cylinder" height="111" width="200"
+
+    Dur-Sharrukin foundation cylinder
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sargon_II_%28left%29_faces_a_high-ranking_official%2C_possibly_Sennacherib_his_son_and_crown_prince._710-705_BCE._From_Khorsabad%2C_Iraq._The_British_Museum%2C_London.jpg/250px-Sargon_II_%28left%29_faces_a_high-ranking_official%2C_possibly_Sennacherib_his_son_and_crown_prince._710-705_BCE._From_Khorsabad%2C_Iraq._The_British_Museum%2C_London.jpg" alt="Sargon II (left) faces a high-ranking official, possibly Sennacherib his son and crown prince. 710–705 BCE. From Khorsabad, Iraq. The British Museum, London" height="133" width="200"
+
+    Sargon II (left) faces a high-ranking official, possibly Sennacherib his son
+    and crown prince. 710–705 BCE. From Khorsabad, Iraq. The British Museum,
+    London
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Part_of_a_door-sill_from_Khorsabad%2C_describing_the_construction_of_Sargon_II%27s_palace%2C_the_British_Museum.jpg/250px-Part_of_a_door-sill_from_Khorsabad%2C_describing_the_construction_of_Sargon_II%27s_palace%2C_the_British_Museum.jpg" alt="Part of a door-sill from Khorsabad, describing the construction of Sargon II's palace, the British Museum" height="96" width="200"
+
+    Part of a door-sill from Khorsabad, describing the construction of Sargon II's
+    palace, the British Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tributary_scene_from_the_Royal_Palace_at_Khorsabad%2C_Iraq._The_Iraq_Museum.jpg/250px-Tributary_scene_from_the_Royal_Palace_at_Khorsabad%2C_Iraq._The_Iraq_Museum.jpg" alt="Tributary scene from the Royal Palace at Khorsabad, Iraq. The Iraq Museum" height="134" width="200"
+
+    Tributary scene from the Royal Palace at Khorsabad, Iraq. The Iraq Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Assyrian_attendants_carrying_the_throne_of_Sargon_II%2C_part_of_a_tributary_scene_from_Khorsabad%2C_Iraq._Iraq_Museum.jpg/250px-Assyrian_attendants_carrying_the_throne_of_Sargon_II%2C_part_of_a_tributary_scene_from_Khorsabad%2C_Iraq._Iraq_Museum.jpg" alt="Assyrian attendants carrying the throne of Sargon II, part of a tributary scene from Khorsabad, Iraq. Iraq Museum" height="200" width="148"
+
+    Assyrian attendants carrying the throne of Sargon II, part of a tributary
+    scene from Khorsabad, Iraq. Iraq Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sargon_II_in_his_royal_chariot%2C_tramping_a_dead_or_dying_enemy%2C_part_of_a_war_scene_from_Khorsabad%2C_Iraq._The_Iraq_Museum.jpg/250px-Sargon_II_in_his_royal_chariot%2C_tramping_a_dead_or_dying_enemy%2C_part_of_a_war_scene_from_Khorsabad%2C_Iraq._The_Iraq_Museum.jpg" alt="Sargon II in his royal chariot, tramping a dead or dying enemy, part of a war scene from Khorsabad, Iraq. The Iraq Museum" height="122" width="200"
+
+    Sargon II in his royal chariot, tramping a dead or dying enemy, part of a war
+    scene from Khorsabad, Iraq. The Iraq Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Assyrian_human-headed_protective_spirit_from_Khorsabad%2C_Iraq._The_Iraq_Museum.jpg/250px-Assyrian_human-headed_protective_spirit_from_Khorsabad%2C_Iraq._The_Iraq_Museum.jpg" alt="Assyrian human-headed protective spirit from Khorsabad, Iraq. The Iraq Museum" height="200" width="183"
+
+    Assyrian human-headed protective spirit from Khorsabad, Iraq. The Iraq Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/A_horse_and_an_Assyrian_groom%2C_from_Khorsabad%2C_Iraq._Iraq_Museum.jpg/250px-A_horse_and_an_Assyrian_groom%2C_from_Khorsabad%2C_Iraq._Iraq_Museum.jpg" alt="A pair of horses and an Assyrian groom, from Khorsabad, Iraq. Iraq Museum" height="198" width="200"
+
+    A pair of horses and an Assyrian groom, from Khorsabad, Iraq. Iraq Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Assyrian_archers_attacking_a_city._From_Khorsabad%2C_Iraq._The_Iraq_Museum.jpg/250px-Assyrian_archers_attacking_a_city._From_Khorsabad%2C_Iraq._The_Iraq_Museum.jpg" alt="Assyrian archers attacking a city. From Khorsabad, Iraq. The Iraq Museum" height="148" width="200"
+
+    Assyrian archers attacking a city. From Khorsabad, Iraq. The Iraq Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gabriel_Tranchard-Foto_1853_Khorsabad.jpg/250px-Gabriel_Tranchard-Foto_1853_Khorsabad.jpg" alt="1853 excavation of the gate of Sargon's palace" height="189" width="200"
+
+    1853 excavation of the gate of Sargon's palace
+
+[[ ^1 ]]: Marc Van De Mieroop, //A History of the Ancient Near East ca. 3000 - 323 BC//, (Wiley-Blackwell) 2006, ISBN [[ 1-4051-4911-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-4051-4911-6 ]]
+
+[[ ^2 ]]: [[ "Ancient site Khorsabad attacked by Islamic State: reports" | https://www.thestar.com/news/world/2015/03/08/ancient-site-khorsabad-attacked-by-islamic-state-reports.html ]]. //[[ Toronto Star ]]//. 8 March 2015. [[ Archived | https://web.archive.org/web/20180222044158/https://www.thestar.com/news/world/2015/03/08/ancient-site-khorsabad-attacked-by-islamic-state-reports.html ]] from the original on 22 February 2018. Retrieved 8 March 2015.
+
+[[ ^3 ]]: [[ "ASOR Cultural Heritage Initiatives مبادرات التراث الثقافي" | https://www.facebook.com/CulturalHeritageInitiatives/posts/422885397835292 ]]. //www.facebook.com//. [[ Archived | https://web.archive.org/web/20210308082147/https://www.facebook.com/CulturalHeritageInitiatives/posts/422885397835292 ]] from the original on 2021-03-08. Retrieved 2021-01-25.
+
+[[ ^4 ]]: Fuchs, //Die Inschriften Sargons II. aus Khorsabad//, 42:65; 294f. See the discussion by Eckart Frahm, "Observations on the Name and Age of Sargon II and on Some Patterns of Assyrian Royal Onomastics," [[ //NABU// 2005-2.44 | http://sepoa.fr/wp/wp-content/uploads/2012/06/2005-2.pdf ]] Archived 2016-05-10 at the [[ Wayback Machine ]]
+
+[[ ^5 ]]: Lewis, Leo Rich; Tenney, Charles R. (2010). //The Compendium of Weapons, Armor & Castles//. Nabu Press. p. 142. ISBN [[ 978-1146066846 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1146066846 ]].
+
+[[ ^6 ]]: //Hatti//: in this context, all the areas to the west of the Euphrates controlled by [[ Neo-Hittite ]] kingdoms.
+
+[[ ^7 ]]: D.D. Luckenbill, //Ancient Records of Assyria and Babylonia//, vol II:242, quoted in Robin Lane Fox, //Travelling Heroes in the Epic Age of Homer// 2008, pp26f.
+
+[[ ^8 ]]: Lane Fox 2008:27; texts are in Luckenbill 1927:II.
+
+[[ ^9 ]]: Lane Fox 2008:27, noting D. Stronach, "The Garden as a political statement: some case-studies from the Near East in the first millennium BC", //Bulletin of the Asia Institute// !!4!! (1990:171-80). The garden mount first documented at Dur-Sharrukin was to have a long career in the [[ history of gardening ]].
+
+[[ ^10 ]]: Cultraro M., Gabellone F., Scardozzi G, Integrated Methodologies and Technologies for the Reconstructive Study of Dur-Sharrukin (Iraq), XXI International CIPA Symposium, 2007
+
+[[ ^11 ]]: Austen Henry Layard, Nineveh and Its Remains, Vol. I, 2nd ed. (London: John Murray, 1849), 149.
+
+[[ ^12 ]]: Layard, Nineveh and Its Remains, 149.
+
+[[ ^13 ]]: Mogens Trolle Larsen, The Conquest of Assyria: Excavations in an Antique Land (New York: Routledge, 1996), pp. 12-3.
+
+[[ ^14 ]]: Layard, Nineveh and Its Remains, pp. 10-1.
+
+[[ ^15 ]]: Larsen, Conquest of Assyria, 23-4.
+
+[[ ^16 ]]: [[ Zainab Bahrani ]], Zeynep Çelik, and Edhem Eldem, //Scramble for the Past: A Story of Archaeology in the Ottoman Empire, 1753-1914,// (Istanbul: SALT, 2011), 132-4.
+
+[[ ^17 ]]: Paul Emile Botta and Eugene Flandin, Monument de Ninive, in 5 volumes, Imprimerie nationale, 1946-50
+
+[[ ^18 ]]: E. Guralnick, New drawings of Khorsabad sculptures by Paul Émile Botta, Revue d'assyriologie et d'archéologie orientale, vol. 95, pp. 23-56, 2002
+
+[[ ^19 ]]: Larsen, Conquest of Assyria, 26-30
+
+[[ ^20 ]]: During his visit several years later, Layard reports that "the place is consequently very unhealthy, and the few squalid inhabitants who appeared, were almost speechless from ague. During M. Botta's excavations, the workmen suffered greatly from fever, and many fell victims to it." See Layard, Nineveh and its Remains, 148.
+
+[[ ^21 ]]: Carine Harmand, "Sparking the imagination: the rediscovery of Assyria's great lost city," (February 1, 2019), https://blog.britishmuseum.org/sparking-the-imagination-the-rediscovery-of-assyrias-great-lost-city/ Archived 2021-01-28 at the [[ Wayback Machine ]]
+
+[[ ^22 ]]: Larsen, Conquest of Assyria, 32.
+
+[[ ^23 ]]: Victor Place, Nineve et l'Assyie, in 3 volumes, Imprimerie impériale, 1867–1879
+
+[[ ^24 ]]: Joseph Bonomi, Ninevah and Its Palaces: The Discoveries of Botta and Layard, Applied to the Elucidation of Holy Writ, Bohn, 1957 (2003 Reprint, Gorgias Press LLC, ISBN [[ 1-59333-067-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-59333-067-7 ]])
+
+[[ ^25 ]]: Larsen, M.T. (1996). The Conquest of Assyria: Excavations in an Antique Land (1st ed.). Routledge. doi:[[ 10.4324/9781315862859 | https://doi.org/10.4324%2F9781315862859 ]]  pp. 344-9
+
+[[ ^26 ]]: Potts, D. T. [[ "Potts 2020. 'Un coup terrible de la fortune:' A. Clément and the Qurna disaster of 1855. Pp. 235-244 in Finkel, I.L. and Simpson, St J., eds. In Context: The Reade Festschrift. Oxford: Archaeopress" | https://www.academia.edu/44717694 ]]. [[ Archived | https://web.archive.org/web/20210411152055/https://www.academia.edu/44717694/Potts_2020_Un_coup_terrible_de_la_fortune_A_Cl%C3%A9ment_and_the_Qurna_disaster_of_1855_Pp_235_244_in_Finkel_I_L_and_Simpson_St_J_eds_In_Context_The_Reade_Festschrift_Oxford_Archaeopress ]] from the original on 2021-04-11. Retrieved 2021-04-11. ``\{{cite journal}}``: Cite journal requires ``|journal=`` ([[ help | https://en.wikipedia.org/wiki/Help%3ACS1_errors#missing periodical ]])
+
+[[ ^27 ]]: [[ https://www.jstage.jst.go.jp/article/orient1960/8/0/8_0_1/_pdf/-char/en | https://www.jstage.jst.go.jp/article/orient1960/8/0/8_0_1/_pdf/-char/en ]] Namio Egami, "The Report of The Japan Mission For The Survey of Under-Water Antiquities At Qurnah: The First Season," (1971-72), 1-45
+
+[[ ^28 ]]: Pillet, Maurice (1881-1964) Auteur du texte (1922). [[ //L'expédition scientifique et artistique de Mésopotamie et de Médie, 1851-1855 / Maurice Pillet,\...// | https://gallica.bnf.fr/ark:/12148/bpt6k5730001x ]] [[ Archived | https://web.archive.org/web/20210411184855/https://gallica.bnf.fr/ark:/12148/bpt6k5730001x ]] from the original on 2021-04-11. Retrieved 2021-04-11.``\{{cite book}}``:  CS1 maint: numeric names: authors list ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_numeric_names%3A_authors_list ]])
+
+[[ ^29 ]]: Samuel D. Pfister, "The Qurnah Disaster: Archaeology & Piracy in Mesopotamia," //Bible History Daily,// (January 20, 2021), https://www.biblicalarchaeology.org/daily/the-qurnah-disaster/ Archived 2021-03-02 at the [[ Wayback Machine ]]
+
+[[ ^30 ]]: Robert William Rogers, A history of Babylonia and Assyria: Volume 1, Abingdon Press, 1915
+
+[[ ^31 ]]: Genç, Bülent (October 2021). [[ "Memory of destroyed Khorsabad, Victor Place, and the story of a shipwreck" | https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/memory-of-destroyed-khorsabad-victor-place-and-the-story-of-a-shipwreck/372290C7774F15E7E9D4D04331EAEFDE ]]. //Journal of the Royal Asiatic Society//. !!31!! (4): 759–774. doi:[[ 10.1017/S135618632100016X | https://doi.org/10.1017%2FS135618632100016X ]]. ISSN [[ 1356-1863 | https://search.worldcat.org/issn/1356-1863 ]].
+
+[[ ^32 ]]: [[ http://oi.uchicago.edu/pdf/oic16.pdf | http://oi.uchicago.edu/pdf/oic16.pdf ]] Archived 2010-06-18 at the [[ Wayback Machine ]] OIC 16. Tell Asmar, Khafaje and Khorsabad: Second Preliminary Report of the Iraq Expedition, Henri Frankfort, 1933; [[ http://oi.uchicago.edu/pdf/oic17.pdf | http://oi.uchicago.edu/pdf/oic17.pdf ]] Archived 2010-06-18 at the [[ Wayback Machine ]] OIC 17. Iraq Excavations of the Oriental Institute 1932/33: Third Preliminary Report of the Iraq Expedition, Henri Frankfort, 1934; [[ http://oi.uchicago.edu/pdf/oip38.pdf | http://oi.uchicago.edu/pdf/oip38.pdf ]] Archived 2010-06-18 at the [[ Wayback Machine ]] Gordon Loud, Khorsabad, Part 1: Excavations in the Palace and at a City Gate, Oriental Institute Publications 38, University of Chicago Press, 1936; [[ http://oi.uchicago.edu/pdf/oip40.pdf | http://oi.uchicago.edu/pdf/oip40.pdf ]] Archived 2010-06-18 at the [[ Wayback Machine ]] Gordon Loud and Charles B. Altman, Khorsabad, Part 2: The Citadel and the Town, Oriental Institute Publications 40, University of Chicago Press, 1938
+
+[[ ^33 ]]: F. Safar, "The Temple of Sibitti at Khorsabad", //Sumer// !!13!! (1957:219-21).
+
+[[ ^34 ]]: [[ "Features - The Assyrian Renaissance - Archaeology Magazine - July/August 2024" | https://archaeology.org/issues/july-august-2024/features/the-assyrian-renaissance/ ]]. //Archaeology Magazine//. Retrieved 2024-08-09.

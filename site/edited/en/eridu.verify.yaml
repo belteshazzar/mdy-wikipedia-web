@@ -1,0 +1,26 @@
+slug: eridu
+findings:
+  - kind: unsupported
+    quote: Hall's most interesting find was a piece of manufactured blue glass,
+      which he dated to c. 2000 BC; the blue colour was achieved with [[
+      cobalt ]], long before this technique emerged in Egypt.[[ ^15 ]]
+    why: The source says "An interesting find by Hall was a piece of manufactured
+      blue glass" — one of his finds, not ranked. The source nowhere says it
+      was his most interesting find.
+    severity: minor
+  - kind: unsupported
+    quote: Building at Eridu continued in the [[ Old Babylonian period ]], with
+      Hammurabi stating in his 33rd Year Name "Year Hammu-rabi the king dug
+      the canal (called) 'Hammu-rabi is abundance to the people', the beloved
+      of An and Enlil, established the everlasting waters of plentifulness for
+      Nippur, Eridu, Ur, Larsa, Uruk and Isin, restored Sumer and Akkad which
+      had been scattered, overthrew in battle the army of Mari and Malgium and
+      caused Mari and its territory and the various cities of Subartu to dwell
+      under his authority in friendship"
+    why: The source says only "This continued in the Old Babylonian period with
+      Hammurabi stating...", where the antecedent is the site being occupied
+      and active. The Hammurabi year name cited is about digging a canal and
+      supplying water, not construction at Eridu; the source does not say
+      building continued.
+    severity: minor
+verdict: minor-only

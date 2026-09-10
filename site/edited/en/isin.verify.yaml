@@ -1,0 +1,29 @@
+slug: isin
+findings:
+  - kind: unsupported
+    quote: "!!Isin!! (Sumerian: 𒉌𒋛𒅔𒆠, romanized: //I,,3,,-si-in^^ki^^//,[[ ^1
+      ]] modern [[ Arabic | arabic-language ]]: إيشان بحريات !!Ishan
+      al-Bahriyat!!) is an [[ archaeological site ]] in [[ Al-Qādisiyyah
+      Governorate ]], [[ Iraq ]], and for most of the history of Mesopotamia
+      it was a city."
+    why: The source says only that the site "was the location of the Ancient Near
+      East city of Isin, occupied from the late 4th millennium BC Uruk period
+      up until at least the late 1st millennium BC Neo-Babylonian period". It
+      never characterises Isin as having been a city for most of Mesopotamian
+      history, and elsewhere it records a period of abandonment after Babylon
+      took the city, a "massive hiatus" after Samsu-iluna in which Isin was
+      largely abandoned, and a Kassite phase in which "Isin was only a cult
+      center".
+    severity: minor
+  - kind: unsupported
+    quote: The exact events surrounding Isin's disintegration as a kingdom are
+      mostly unknown, but some evidence can be pieced together, and most of it
+      is about water.
+    why: "The source says only \"The exact events surrounding Isin's
+      disintegration as a kingdom are mostly unknown, but some evidence can be
+      pieced together.\" It offers no judgement that most of the evidence
+      concerns water, and the evidence it then lists is mixed: water access
+      and canal rerouting, but also Gungunum's seizure of Ur and the loss of
+      Gulf trade, the loss of Nippur, and Enlil-bani's usurpation."
+    severity: minor
+verdict: minor-only

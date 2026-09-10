@@ -891,7 +891,8 @@ rewritten:
     Construction are dropped. The escaped digit in \"visit in \\1602\" and the
     escaped ellipses inside the Diodorus and Curtius block quotes are written
     plainly as 1602 and \"...\"."
-  verified: false
+  verified: true
+  verdict: clean
   reviewed: false
 +++
 !!Persepolis!![[ ^a ]] was the ceremonial capital of the [[ Achaemenid Empire ]] (c. 550–330 BC). It is situated in the plains of [[ Marvdasht ]], encircled by the southern [[ Zagros Mountains ]], [[ Fars province ]] of [[ Iran ]]. It is one of the key Iranian [[ cultural heritage ]] sites and a [[ UNESCO ]] [[ World Heritage Site ]].[[ ^2 ]]

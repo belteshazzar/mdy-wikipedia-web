@@ -1,0 +1,11 @@
+slug: kish-sumer
+findings:
+  - kind: unsupported
+    quote: Kish was occupied from the Ubaid period to the [[ Hellenistic period ]]
+      — some five thousand years of settlement.[[ ^3 ]]
+    why: The source says only "It was occupied from the Ubaid period to the
+      Hellenistic period." It never states a duration; "some five thousand
+      years" is a figure the rewriter computed and attached to the source's
+      footnote.
+    severity: minor
+verdict: minor-only

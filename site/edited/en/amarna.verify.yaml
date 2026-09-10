@@ -1,0 +1,14 @@
+slug: amarna
+findings:
+  - kind: unsupported
+    quote: "That short life is why the place matters: it is the only ancient
+      Egyptian city which preserves great details of its internal plan, in
+      large part because it was abandoned almost completely and nothing was
+      built over it."
+    why: The source attributes the preservation to the city being "abandoned
+      almost completely shortly after the royal government of Tutankhamun quit
+      the city in favor of Thebes"; it never says nothing was built over it,
+      and in fact says it "remained uninhabited until Roman settlement began
+      along the edge of the Nile".
+    severity: minor
+verdict: minor-only

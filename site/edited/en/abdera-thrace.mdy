@@ -1,0 +1,359 @@
++++
+title: Abdera, Thrace
+description: Municipality in the Xanthi Prefecture of Thrace, Greece
+key-facts:
+  - name: Population of the municipality
+    value: 17,610 inhabitants (2021)
+    from: The municipality of Abdera has 17,610 inhabitants (2021).
+  - name: Area of the municipality
+    value: 352.0 km2 (135.9 sq mi)
+    from: "municipality: 352.0 km2 (135.9 sq mi)"
+  - name: Where the ancient city lay
+    value: 17 km east-northeast of the mouth of the Nestos River, almost directly
+      opposite the island of Thasos
+    from: The polis lay 17 km east-northeast of the mouth of the [[ Nestos River
+      ]], almost directly opposite the island of [[ Thasos ]].
+  - name: First Greek colony
+    value: A failed colony from Klazomenai, traditionally dated to 654 BC
+    from: The Greek settlement was begun as a failed colony from [[ Klazomenai ]],
+      traditionally dated to 654 BC.
+  - name: Successful colonisation
+    value: 544 BC, when the majority of the people of Teos migrated to Abdera
+    from: The successful colonisation occurred in 544 BC, when the majority of the
+      people of [[ Teos ]] (including the poet [[ Anacreon ]]) migrated to
+      Abdera to escape the [[ Persian | persian-empire ]] invasion of their
+      homeland.
+  - name: Abandoned
+    value: After the 4th century AD, never to be reoccupied except by archaeologists
+    from: After the 4th century AD it declined, contracted to its [[ acropolis ]],
+      and was abandoned, never to be reoccupied except by archaeologists.
+image-plan:
+  - file: Abdera_West_gate.jpg
+    role: hero
+    section: lead
+    caption: The west gate of classical Abdera. The ruins cover seven small hills
+      on Cape Balastra and run from an eastern harbor to a western one.
+  - file: Abdera_location.jpg
+    role: inline
+    section: antiquity
+    caption: "Abdera and its two successive [[ metropolises | metropolis ]]: [[
+      Clazomenae ]], whose colony failed, and [[ Teos ]], whose people made
+      the second attempt in 544 BC."
+  - file: Abderacoin.png
+    role: inline
+    section: antiquity
+    caption: The chief coin type, a [[ griffon | griffin ]], identical with that
+      of Teos, the city the successful colonists came from.[[ ^18 ]]
+coordinates:
+  lat: 40.93333333
+  lon: 24.96666667
+image: https://upload.wikimedia.org/wikipedia/commons/5/53/Abdera.JPG
+images:
+  - file: Abdera_location.jpg
+    src: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Abdera_location.jpg/250px-Abdera_location.jpg
+    width: 490
+    height: 646
+    caption: Location of Abdera and its two successive metropolises, Clazomenae
+      and Teos.
+  - file: Abderacoin.png
+    src: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Abderacoin.png/330px-Abderacoin.png
+    width: 371
+    height: 213
+    caption: The chief coin type, with griffon.
+  - file: Abdera_West_gate.jpg
+    src: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Abdera_West_gate.jpg/250px-Abdera_West_gate.jpg
+    width: 1200
+    height: 446
+    caption: The west gate of classical Abdera
+infobox:
+  country: Greece
+  geographic-region: Thrace
+  administrative-region: Eastern Macedonia and Thrace
+  regional-unit: Xanthi
+  government:
+    mayor: Georgios Tsitiridis (since 2014)
+  area:
+    municipality: 352.0 km2 (135.9 sq mi)
+    municipal-unit: 162.0 km2 (62.5 sq mi)
+    elevation: 41 m (135 ft)
+  population-2021:
+    municipality: 17,610
+    density: 50.03/km2 (129.6/sq mi)
+    municipal-unit: 2,799
+    municipal-unit-density: 17.28/km2 (44.75/sq mi)
+    community: 1,172
+    demonym-s: Abderite, Abderian
+    time-zone: UTC+2 (EET)
+    summer-dst: UTC+3 (EEST)
+    vehicle-registration: AH
+sections:
+  - level: 2
+    id: name
+    title: Name
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: antiquity
+    title: Antiquity
+  - level: 3
+    id: modern
+    title: Modern
+  - level: 2
+    id: landmarks
+    title: Landmarks
+  - level: 2
+    id: famous-people
+    title: Famous people
+wikidata:
+  id: Q132527193
+  label: Ancient Abdera
+  description: city in ancient Thrace and archaeological site
+  claims:
+    instance-of:
+      - archaeological site
+      - polis
+      - tourist destination
+    country: Greece
+    coordinate-location:
+      lat: 40.933714
+      lon: 24.973299
+    inception: 7th century BC
+    heritage-designation: archaeological site in Greece
+    commons-category: Archaeological site of Abdera
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Abdera.JPG
+    category-for-people-born-here: Category:Births in Abdera
+    located-in-the-administrative-territorial-entity: Avdira Municipality
+    location: Skala Avdiron
+    category-of-associated-people: Category:Abderites
+    different-from: Abdera
+    described-by-source:
+      - Pauly–Wissowa
+      - Otto's encyclopedia
+      - Meyers Konversations-Lexikon, 4th edition (1885–1890)
+    native-label: Αρχαία Άβδηρα
+    culture: Ancient Greece
+    has-characteristic: tourist attraction
+link-titles:
+  abdera-spain: Abdera, Spain
+  abderus: Abderus
+  acropolis: Acropolis
+  agios-ioannis-beachactioneditredlink1: Agios Ioannis Beach?action=edit&redlink=1
+  anacreon: Anacreon
+  anaxarchus: Anaxarchus
+  ancient-greece: Ancient Greece
+  ancient-greek: Ancient Greek
+  archaeological-museum-of-abdera: Archaeological Museum of Abdera
+  atticus-philosopher: Atticus (philosopher)
+  battle-of-salamis: Battle of Salamis
+  byzantine-empire: Byzantine Empire
+  carthage: Carthage
+  classical-antiquity: Classical antiquity
+  claudius-aelianus: Claudius Aelianus
+  clazomenae: Clazomenae
+  darius-i: Darius I
+  darius-the-great: Darius the Great
+  delian-league: Delian League
+  democritus: Democritus
+  early-middle-ages: Early Middle Ages
+  episcopal-see: Episcopal see
+  eumenes-ii: Eumenes II
+  genisea: Genisea
+  giona-xanthi: Giona, Xanthi
+  greece: Greece
+  greek-colonization: Greek colonization
+  greek-language: Greek language
+  greek-mythology: Greek mythology
+  griffin: Griffin
+  hecataeus-of-abdera: Hecataeus of Abdera
+  hellenization: Hellenization
+  hercules: Hercules
+  hero-ancient-greece: Hero (ancient Greece)
+  herodotus: Herodotus
+  ionian-revolt: Ionian Revolt
+  klazomenai: Klazomenai
+  kütüklü-baba-tekke: Kütüklü Baba Tekke
+  latinisation-of-names: Latinisation of names
+  lysimachus: Lysimachus
+  mandra-xanthi: Mandra, Xanthi
+  mardonius-general: Mardonius (general)
+  metropolis: Metropolis
+  modern-greek: Modern Greek
+  municipalities-and-communities-of-greece: Municipalities and communities of Greece
+  myrodato: Myrodato
+  nea-kessani: Nea Kessani
+  nestos-river: Nestos River
+  nicaenetus-of-samos: Nicaenetus of Samos
+  north-africa: North Africa
+  odrysian-kingdom: Odrysian kingdom
+  ottoman-empire: Ottoman Empire
+  peloponnesian-war: Peloponnesian War
+  persian-empire: Persian Empire
+  pezoula: Pezoula
+  philip-ii-of-macedon: Philip II of Macedon
+  philippi: Philippi
+  philogelos: Philogelos
+  phoenicia: Phoenicia
+  phoenician-language: Phoenician language
+  pliny-the-elder: Pliny the Elder
+  plutarch: Plutarch
+  polis: Polis
+  pottery-of-ancient-greece: Pottery of ancient Greece
+  protagoras: Protagoras
+  ptolemaic-kingdom: Ptolemaic Kingdom
+  sapaeans: Sapaeans
+  selero: Selero
+  seleucid-empire: Seleucid Empire
+  strabo: Strabo
+  synoecism: Synoecism
+  teos: Teos
+  thasos: Thasos
+  thrace: Thrace
+  thracians: Thracians
+  thrasybulus: Thrasybulus
+  thucydides: Thucydides
+  timesiosactioneditredlink1: Timesios?action=edit&redlink=1
+  triballi: Triballi
+  vistonida: Vistonida
+  western-thrace: Western Thrace
+  xanthi-regional-unit: Xanthi (regional unit)
+source:
+  site: Wikipedia
+  lang: en
+  title: Abdera, Thrace
+  url: https://en.wikipedia.org/wiki/Abdera%2C_Thrace
+  page-id: 2685
+  revision: "1356495768"
+  modified: 2026-05-28T03:15:17Z
+  retrieved: 2026-09-09
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Abdera,
+    Thrace" (revision 1356495768), by Wikipedia contributors, used under CC
+    BY-SA 4.0.
+rewritten:
+  of: corpus/en/abdera-thrace.mdy
+  source-digest: 004b3ac438f775e2
+  source-revision: "1356495768"
+  model: claude-opus-5
+  left-out: The History heading has no prose of its own in the source (all its
+    text is under Antiquity and Modern), so its body is left empty rather than
+    invented. Famous people is a bare list and is kept as one. No article
+    linked from this one is in the corpus list, so there is no further list.
+    The three figures are moved out of the Antiquity body into the image plan;
+    none of their captions carried a footnote in the source.
+  verified: true
+  verdict: clean
+  reviewed: false
++++
+!!Abdera!! (Greek: Άβδηρα) has 17,610 inhabitants (2021), and it has been abandoned since some time after the 4th century AD. Both statements are true, because the name belongs to two places. One is a [[ municipality | municipalities-and-communities-of-greece ]] in the [[ Xanthi regional unit ]] of [[ Thrace | western-thrace ]], [[ Greece ]]. The other is the ancient //[[ polis ]]// the municipality was named in honor of: in [[ classical antiquity ]] a major [[ Greek | ancient-greece ]] city on the [[ Thracian | thrace ]] coast, whose ruin the municipality now contains.
+
+The polis lay 17 km east-northeast of the mouth of the [[ Nestos River ]], almost directly opposite the island of [[ Thasos ]]. It began as a colony planted in Thracian territory that was then unsettled and not yet part of Hellas, during the age of [[ Greek colonization ]]. The city that grew from it became of major importance in ancient Greece. After the 4th century AD it declined, contracted to its [[ acropolis ]], and was abandoned, never to be reoccupied except by archaeologists.
+
+In the [[ Early Middle Ages ]] a new settlement grew up near the ancient city. It was called Polystylon (Greek: Πολύστυλον),[[ ^3 ]] and was later considered the New Abdera (Greek: Νέα Άβδηρα). The present municipality is younger still: it was [[ synoecized | synoecism ]] in 2011 from three earlier municipalities that between them take in a number of modern settlements. Its seat is not Abdera at all but the town of [[ Genisea ]].[[ ^4 ]]
+
+== Name
+
+The name //Abdera// is of [[ Phoenician | phoenician-language ]] origin, and the Thracian city was not the only place to carry it: in antiquity it was shared by [[ Abdera, Spain ]] and by a town near [[ Carthage ]] in [[ North Africa ]].[[ ^5 ]][[ ^a ]] It was variously [[ Hellenized | hellenization ]] as Ἄβδηρα (//Ábdēra//), Αὔδηρα (//Aúdēra//),[[ ^7 ]] Ἄβδαρα (//Ábdara//),[[ ^8 ]] Ἄβδηρον (//Ábdēron//),[[ ^7 ]] and Ἄβδηρος (//Ábdēros//),[[ ^9 ]] before it was [[ Latinized | latinisation-of-names ]] as //Abdera//.[[ ^7 ]] [[ Greek legend | greek-mythology ]] had its own explanation: an eponymous [[ Abderus ]] fell nearby, and [[ Hercules ]] founded a city on the spot to memorialize him.[[ ^10 ]]
+
+The present-day town is written !!Avdira!! (Άβδηρα) and pronounced [[ [ˈavðira\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FGreek ]] in [[ modern Greek ]].
+
+== History
+
+
+
+== Antiquity
+
+The Greeks founded Abdera twice, and the first attempt failed. Before either, the [[ Phoenicians | phoenicia ]] apparently began settling the site at some point before the mid-7th century,[[ ^5 ]] and the town kept Phoenician standards in its coinage long afterwards. Its neighbours were Thracian: the [[ Sapaeans ]] ([[ Ancient Greek ]], "Σαπαίοι") were a [[ Thracian | thracians ]][[ ^11 ]] tribe living close to the Greek city.
+
+The Greek settlement began as a colony from [[ Klazomenai ]], traditionally dated to 654 BC, and it did not last. (Evidence in 7th-century-BC [[ Greek pottery | pottery-of-ancient-greece ]] tends to support the traditional date, but the exact timing remains uncertain.)[[ ^12 ]] [[ Herodotus ]] reports that the colony's leader was Timesios, and that within his generation the [[ Thracians ]] had expelled the colonists; the later Abderans from Teos nevertheless honored Timesios as a [[ local protective spirit | hero-ancient-greece ]].[[ ^13 ]] Other writers tell it differently. [[ Plutarch ]] and [[ Aelian | claudius-aelianus ]] relate that Timesios grew insufferable to his colonists because he wanted to do everything himself; when one of their children let him know how they all really felt, he quit the settlement in disgust. Modern scholars have tried to split the difference between the two accounts of early Abdera's failure by making the latter the reason Timesios left Klazomenai in the first place.[[ ^14 ]]
+
+[[ Strabo ]] still describes Abdera as "a Thracian city"[[ ^15 ]] at the time of [[ Anacreon ]] and the migration of people from [[ Teos ]] to the area. That migration was the second, successful founding. In 544 BC the majority of the people of [[ Teos ]], the poet [[ Anacreon ]] among them, moved to Abdera to escape the [[ Persian | persian-empire ]] invasion of their homeland.[[ ^16 ]][[ ^17 ]] The link to Teos is stamped on the coins: the chief type, a //[[ griffon | griffin ]]//, is identical with that of Teos, and the rich silver coinage is noted for the beauty and variety of its reverse types.[[ ^18 ]]
+
+The Persians the Teians had fled reached Abdera too. In 513 and 512 BC, under [[ Darius | darius-the-great ]], they conquered the city; by then it seems to have become a place of considerable importance, and it is named among the cities that had the expensive honour of entertaining the great king on his march into Greece.[[ ^19 ]] In 492 BC, after the [[ Ionian Revolt ]], the Persians conquered Abdera again, still under [[ Darius I ]] but led by his general [[ Mardonius | mardonius-general ]]. Xerxes, on his flight after the [[ Battle of Salamis ]], stopped at Abdera and acknowledged the hospitality of its inhabitants by presenting them with a tiara and scimitar of gold.[[ ^20 ]] [[ Thucydides ]][[ ^21 ]] gives Abdera as the westernmost limit of the [[ Odrysian kingdom ]] when at its height, at the beginning of the [[ Peloponnesian War ]]. The city later became part of the [[ Delian League ]] and fought on the side of Athens in that war.[[ ^22 ]]
+
+Abdera was a wealthy city, the third richest in the League, because it was a prime port for trade with the interior of Thrace and the [[ Odrysian kingdom ]].[[ ^12 ]] In 408 BC it was reduced under the power of Athens by [[ Thrasybulus ]], then one of the Athenian generals in that quarter.[[ ^23 ]]
+
+Wealth made it a prize, and it was sacked repeatedly: by the [[ Triballi ]] in 376 BC, by [[ Philip II of Macedon ]] in 350 BC, later by [[ Lysimachos of Thrace | lysimachus ]],[[ ^17 ]] by the [[ Seleucids | seleucid-empire ]], by the [[ Ptolemies | ptolemaic-kingdom ]], and again by the Macedonians. In 170 BC the Roman armies and those of [[ Eumenes II of Pergamon | eumenes-ii ]] besieged and sacked it.
+
+The town seems to have declined in importance after the middle of the 4th century BC.[[ ^18 ]] Its later fame was of an unwelcome kind. Cicero, writing to [[ Atticus | atticus-philosopher ]] about a debate in the Senate, used the city as a byword for stupidity: "Here was Abdera, but I wasn't silent" ("Hic, Abdera non tacente me").[[ ^24 ]] The //[[ Philogelos ]]//, a Greek-language joke book compiled in the 4th century AD, gives a whole chapter to jokes about Abderans, who are stereotyped as stupid, superstitious, and literal-minded.[[ ^25 ]] The joke sits oddly beside the roll of citizens: the philosophers [[ Democritus ]], [[ Protagoras ]][[ ^17 ]] and [[ Anaxarchus ]], the historian and philosopher [[ Hecataeus of Abdera ]], and the lyric poet [[ Anacreon ]]. [[ Pliny the Elder ]] speaks of Abdera as being, in his time, a free city.[[ ^26 ]]
+
+Abdera had flourished in ancient times mainly for two reasons: the large area of its territory and its highly strategic position. The city controlled two great road passages, one along the Nestos river and the other through the mountains north of Xanthi, and through its ports ran the sea road that led from Troas to the Thracian coast and then the Macedonian.[[ ^27 ]]
+
+The ruins of the town may still be seen on Cape Balastra (40°56'1.02"N 24°58'21.81"E). They cover seven small hills and extend from an eastern to a western harbor; on the southwestern hills are the remains of the medieval settlement of Polystylon (Greek: Πολύστυλον). From the 9th century, [[ Byzantine | byzantine-empire ]] Polystylon was an [[ episcopal see ]] under the jurisdiction of the metropolitan bishop of [[ Philippi ]]. By the end of the 14th century it had fallen under [[ Ottoman | ottoman-empire ]] rule.[[ ^3 ]]
+
+== Modern
+
+The modern Avdira is a creation of the twentieth century. It was established as an administrative unit (community) in 1924, consisting of the villages Avdira, [[ Myrodato ]] (Kalfalar), [[ Pezoula ]], [[ Giona | giona-xanthi ]], Veloni and [[ Mandra | mandra-xanthi ]]; Myrodato and Mandra became separate communities in 1928.[[ ^28 ]] The municipality Avdira was formed in 1997 by the merger of the former communities Avdira, Mandra, Myrodato and [[ Nea Kessani ]].[[ ^4 ]] At the 2011 local government reform it merged with the former municipalities [[ Selero ]] and [[ Vistonida ]], and the town [[ Genisea ]] became its seat.[[ ^4 ]][[ ^29 ]]
+
+The municipality has an area of 352.047 km^^2^^, the municipal unit 161.958 km^^2^^.[[ ^30 ]] The municipal unit Avdira is subdivided into the communities Avdira, Mandra, Myrodato and Nea Kessani, and the community Avdira consists of the settlements Avdira, Giona, Lefkippos, Pezoula and Skala.
+
+== Landmarks
+
+Landmarks of Abdera include the [[ Archaeological Museum of Abdera ]], the [[ Kütüklü Baba Tekke ]], and Agios Ioannis Beach (also //Paralia Avdiron//) near the village Lefkippos.
+
+== Famous people
+
+- [[ Democritus ]]
+- [[ Protagoras ]]
+- [[ Hecateus | hecataeus-of-abdera ]]
+- [[ Nicaenetus | nicaenetus-of-samos ]]
+
+[[ ^3 ]]: Agelarakis & Agelarakis 2015, p. 11-56.
+
+[[ ^4 ]]: [[ "Δ. Αβδήρων" | https://www.eetaa.gr/eetaa/metaboles/dkmet_details.php?id=6910 ]]. EETAA. Retrieved 24 July 2022.
+
+[[ ^5 ]]: Graham (1992), pp. 44–45.
+
+[[ ^a ]]: The name of the African town is written Ἄβδειρα (//Ábdeira//) in Claudius [[ Ptolemy ]]'s //[[ Geography | geography-ptolemy ]]//.
+
+[[ ^7 ]]: [[ Smith, William | william-smith-lexicographer ]], ed. (1854–1857). [[ "Abdera"  | https://en.wikisource.org/wiki/Dictionary_of_Greek_and_Roman_Geography/Abdera ]]. //[[ Dictionary of Greek and Roman Geography ]]//. London: John Murray.
+
+[[ ^8 ]]: [[ "Ἄβδηρα" | https://logeion.uchicago.edu/Ἄβδηρα ]]. //Logeion//. University of Chicago. Retrieved 20 November 2019.
+
+[[ ^9 ]]: [[ "Ἄβδηρος" | https://logeion.uchicago.edu/Ἄβδηρος ]]. //Logeion//. University of Chicago. Retrieved 20 November 2019.
+
+[[ ^10 ]]: Pseudo-Apollodorus, //Bibliotheca//, ed. Wagner, R. Leipzig: Teubner, 1894; //Mythographi Graeci// 1, Chapter 2, section 97, line 7ff.
+
+[[ ^11 ]]: Pausanias's Description Of Greece V4: Commentary On Books VI-VIII by James G. Frazer,2006,  page 132: "\... 10. 6. led an army against . . . Abrupolis, king of the Sapaeans etc. The Sapaeans were a Thracian tribe in the neighbourhood of Abdera\..."
+
+[[ ^12 ]]: Hornblower, Simon (1996). "Abdera". //The Oxford Classical Dictionary//. Oxford: Oxford University Press. p. 1.
+
+[[ ^13 ]]: Graham (1992), p. 46.
+
+[[ ^14 ]]: Graham (1992), pp. 45–47.
+
+[[ ^15 ]]: [[ Strabo ]]. //[[ Geographica ]]//. Vol. 14.1. Page numbers refer to those of [[ Isaac Casaubon ]]'s edition.
+
+[[ ^16 ]]: [[ Herodotus ]], i.168.
+
+[[ ^17 ]]: [[ "Abdera" | https://archive.org/details/newencyclopaedia2009ency/page/19 ]]. //Encyclopædia Britannica//. Vol. I: A-Ak - Bayes (15th ed.). Chicago, IL: Encyclopædia Britannica, Inc. 2010. pp. [[ 19 | https://archive.org/details/newencyclopaedia2009ency/page/19 ]]. ISBN [[ 978-1-59339-837-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-59339-837-8 ]].
+
+[[ ^18 ]]: One or more of the preceding sentences incorporates text from a publication now in the [[ public domain ]]: [[ Chisholm, Hugh | hugh-chisholm ]], ed. (1911). "[[ Abdera | https://en.wikisource.org/wiki/1911%20Encyclopædia%20Britannica/Abdera%20(Thrace) ]]". //[[ Encyclopædia Britannica | encyclopædia-britannica-eleventh-edition ]]//. Vol. 1 (11th ed.). Cambridge University Press. p. 33. Endnotes:
+//Mittheil. d. deutsch. Inst. Athens//, xii. (1887), p. 161 (Regel);
+//Mém. de l'Acad. des Inscriptions//, xxxix. 211;
+K. F. Hermann, //Ges. Abh.// 90-111, 370 ff.
+
+[[ ^19 ]]: Herod. vii. 120.
+
+[[ ^20 ]]: [[ Smith, William | william-smith-lexicographer ]], ed. (1854–1857). [[ "Abdera"  | https://en.wikisource.org/wiki/Dictionary_of_Greek_and_Roman_Geography/Abdera ]]. //[[ Dictionary of Greek and Roman Geography ]]//. London: John Murray.
+
+[[ ^21 ]]: ii. 97.
+
+[[ ^22 ]]: [[ Diodorus Siculus ]], //Bibliotheca historica//, ed. Vogel, F., Fischer, K.T. (post I. Bekker & L. Dindorf), Leipzig: Teubner, 1:1888; 2:1890; 3:1893; 4–5:1906, Repr. 1964. Book 13, chapter 72, section 2, line 2.
+
+[[ ^23 ]]: [[ Diod. | diodorus-siculus ]] xiii. 72.
+
+[[ ^24 ]]: Cicero. //Epistulae ad Atticum//,  4.17.3, 7.7.4.
+
+[[ ^25 ]]: [[ //The Jests of Hierocles and Philagrius// | https://archive.org/details/jestshieroclesa00ohiogoog ]]. Translated by Bubb, Charles Clinch. Cleveland: The Rowfant Club. 1920. pp. 50–55.
+
+[[ ^26 ]]: [[ N.H. | natural-history-pliny ]] iv. 18.
+
+[[ ^27 ]]: D. C. Samsaris, Historical  Geography of Western Thrace during the Roman Antiquity (in Greek), Thessaloniki 2005, p. 91-96
+
+[[ ^28 ]]: [[ "Κ. Αβδήρων" | https://www.eetaa.gr/eetaa/metaboles/dkmet_details.php?id=4351 ]]. EETAA. Retrieved 29 June 2020.
+
+[[ ^29 ]]: [[ "ΦΕΚ A 87/2010, Kallikratis reform law text" | http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wGYK2xFpSwMnXdtvSoClrL8-SrPzKAEPjjtIl9LGdkF53UIxsx942CdyqxSQYNuqAGCF0IfB9HI6hq6ZkZV96FIukI0UzcPsWCK0LpLhpa7rhiWB4R5ntTnoWw7U8E1Amg. ]] (in Greek). [[ Government Gazette | government-gazette-greece ]].
+
+[[ ^30 ]]: [[ "Population & housing census 2001 (incl. area and average elevation)" | https://web.archive.org/web/20150921212047/http://dlib.statistics.gr/Book/GRESYE_02_0101_00098%20.pdf ]] (PDF) (in Greek). National Statistical Service of Greece. Archived from [[ the original | http://dlib.statistics.gr/Book/GRESYE_02_0101_00098%20.pdf ]] (PDF) on 2015-09-21.

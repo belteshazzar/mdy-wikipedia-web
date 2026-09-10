@@ -1,0 +1,11 @@
+slug: saqqara
+findings:
+  - kind: altered-value
+    quote: "description: Burial ground in Giza Governorate, Egypt"
+    why: 'This is given as the source text the "Necropolis" glossary entry is
+      drawn from, but no such line exists in the source. The Wikidata record
+      reads "description: village in Giza Governorate, Egypt". The gloss
+      itself ("A burial ground.") is unobjectionable; the quoted provenance is
+      not what the source says.'
+    severity: minor
+verdict: minor-only

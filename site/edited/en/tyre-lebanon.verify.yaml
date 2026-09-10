@@ -1,0 +1,20 @@
+slug: tyre-lebanon
+findings:
+  - kind: altered-value
+    quote: Many also hosted live performances by famous actors and musicians,
+      serving as community spaces where people from different backgrounds
+    why: The source's block quotation reads "...serving as community spaces where
+      people from different backgrounds came together.[[ ^96 ]]". The
+      rewrite's version of the quotation stops mid-sentence, dropping "came
+      together" and the ^96 reference that closed it.
+    severity: minor
+  - kind: unsupported
+    quote: A traditional storyteller — the trade of Hamid Istanbouli, the
+      fisherman who projected the town's first films on the wall of a Turkish
+      hammam.
+    why: The source says the first cinema in Tyre opened in the late 1930s when a
+      cafe owner established makeshift film screenings, and separately that
+      Hamid Istanbouli projected films on the wall of a Turkish hammam. It
+      does not say Istanbouli's were the town's first films.
+    severity: minor
+verdict: minor-only

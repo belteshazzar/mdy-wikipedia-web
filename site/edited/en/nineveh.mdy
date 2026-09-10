@@ -886,7 +886,8 @@ rewritten:
     resolved: the infobox gives \"built: c. 3000 BC\" while the Neolithic
     section says Nineveh \"was founded as early as 6000 BC\"; the key fact
     quotes the infobox and the timeline quotes the prose."
-  verified: false
+  verified: true
+  verdict: clean
   reviewed: false
 +++
 For approximately fifty years !!Nineveh!![[ ^a ]] was the [[ largest city | list-of-largest-cities-throughout-history ]] in the world. That ended in the year 612 BC, when, after a bitter period of civil war in Assyria, it was [[ sacked | fall-of-nineveh ]] by a coalition of its former subject peoples including the [[ Babylonians ]], [[ Medes ]], and [[ Scythians ]]. The city was never again a political or administrative centre.

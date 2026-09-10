@@ -1,0 +1,12 @@
+slug: anshan-persia
+findings:
+  - kind: unsupported
+    quote: The site was occupied continuously from before 4000 BC to 1000 BC, and
+      through that span it was politically tied to the [[ Elamites ]] at Susa,
+      as well as to the [[ Mesopotamians ]].
+    why: The source says only "It was occupied continuously from before 4000 BC to
+      1000 BC and was politically tied to the Elamites at Susa, as well as the
+      Mesopotamians" — it attaches no duration to the political tie. "through
+      that span" asserts the tie held for the whole five millennia.
+    severity: minor
+verdict: minor-only

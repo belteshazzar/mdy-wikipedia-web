@@ -1,0 +1,1126 @@
++++
+title: Hatra
+description: Archaeological site in Iraq
+hook: Hatra threw back sieges by Trajan and by Septimius Severus, and its
+  forces beat the ascendant Sassanid Persians at the battle of Shahrazoor in
+  238. In 241 the city fell to the army of Shapur I and was destroyed — and
+  the traditional stories blame al-Nadirah, daughter of the king of Araba, who
+  is said to have betrayed it to Shapur because she had fallen in love with
+  him.
+standfirst: "A strongly fortified caravan city in Upper Mesopotamia, in what
+  is now northern Iraq: capital of the small Kingdom of Hatra, set between the
+  Roman and Parthian/Sasanian empires. It flourished in the 2nd century, and
+  is considered the richest archaeological site from the Parthian Empire known
+  to date."
+key-facts:
+  - name: Built
+    value: 3rd or 2nd century BC
+    from: "built: 3rd or 2nd century BC"
+  - name: Abandoned
+    value: 241 AD, at the Fall of Hatra
+    from: |-
+      abandoned: 241 AD
+          event: Fall of Hatra
+  - name: Where
+    value: Hatra District, Nineveh Governorate, Iraq
+    from: "location: Hatra District, Nineveh Governorate, Iraq"
+  - name: How big
+    value: 300 ha (740 acres)
+    from: "area: 300 ha (740 acres)"
+  - name: Cultures on the site
+    value: Arab, Mesopotamian, Assyrian, Parthian
+    from: "cultures: Arab, Mesopotamian, Assyrian, Parthian"
+  - name: World Heritage listing
+    value: Cultural, on criteria ii, iii, iv, vi; designated 1985 (9th session)
+    from: |-
+      unesco-world-heritage-site:
+          official-name: Hatra
+          type: Cultural
+          criteria: ii, iii, iv, vi
+          designated: 1985 (9th session)
+pull-quotes:
+  - text: Hatra's finely preserved columns and statues make it one of the most
+      impressive of Iraq's archaeological sites
+    attribution: //The Daily Telegraph//, 2004
+    section: modern-hatra
+  - text: Hatra of course will be next
+    attribution: Abdulamir Hamdani, an Iraqi archaeologist from Stony Brook University
+    section: partial-destruction-and-looting-by-isil
+  - text: With this latest act of barbarism against Hatra, (the IS group) shows
+      the contempt in which it holds the history and heritage of Arab people.
+    attribution: Joint statement by UNESCO and ISESCO
+    section: partial-destruction-and-looting-by-isil
+timeline:
+  - when: 3rd or 2nd century BC
+    what: Hatra built.
+    from: "built: 3rd or 2nd century BC"
+  - when: 116/117
+    what: The city repulsed a siege by Trajan.
+    from: During the 2nd century CE, the city repulsed sieges by both [[ Trajan ]]
+      (116/117) and [[ Septimius Severus (198/199). | siege-of-hatra-197198
+      ]][[ ^6 ]]
+  - when: 198/199
+    what: The city repulsed a siege by Septimius Severus.
+    from: During the 2nd century CE, the city repulsed sieges by both [[ Trajan ]]
+      (116/117) and [[ Septimius Severus (198/199). | siege-of-hatra-197198
+      ]][[ ^6 ]]
+  - when: "238"
+    what: Hatra's forces defeated the ascendant Sassanid Persians at the battle of
+      Shahrazoor.
+    from: Hatra's forces defeated the ascendant [[ Sassanid Persians |
+      sasanian-empire ]] in 238 at the battle of Shahrazoor, but fell shortly
+      after in 241 to the army of Sassanid king [[ Shapur I ]] and was
+      destroyed.[[ ^6 ]]
+  - when: "241"
+    what: Hatra fell to the army of Sassanid king Shapur I and was destroyed.
+    from: Hatra's forces defeated the ascendant [[ Sassanid Persians |
+      sasanian-empire ]] in 238 at the battle of Shahrazoor, but fell shortly
+      after in 241 to the army of Sassanid king [[ Shapur I ]] and was
+      destroyed.[[ ^6 ]]
+  - when: 1906 to 1911
+    what: Walter Andrae, of the German excavation team working in Assur, first
+      surveyed the site.
+    from: The site was first surveyed by [[ Walter Andrae ]] of the German
+      excavation team working in Assur from 1906 to 1911.
+  - when: "1951"
+    what: Systematic excavations began, undertaken by Iraqi archeologists.
+    from: But systematic excavations have been undertaken only from 1951 by Iraqi
+      archeologists.
+  - when: "1973"
+    what: Hatra was used as the setting for the opening scene of the film //The
+      Exorcist//.
+    from: Hatra was used as the setting for the opening scene in the 1973 film
+      //[[ The Exorcist ]]//,[[ ^11 ]]
+  - when: 1985 (9th session)
+    what: Hatra was designated a UNESCO World Heritage Site.
+    from: |-
+      unesco-world-heritage-site:
+          official-name: Hatra
+          type: Cultural
+          criteria: ii, iii, iv, vi
+          designated: 1985 (9th session)
+  - when: "1990"
+    what: A Polish expedition of the Polish Centre of Mediterranean Archaeology
+      University of Warsaw recorded and studied the city's defense walls.
+    from: In 1990, a Polish expedition of the [[ Polish Centre of Mediterranean
+      Archaeology University of Warsaw |
+      polish-centre-of-mediterranean-archaeology ]] recorded and studied the
+      city's defense walls.[[ ^17 ]]
+  - when: mid-2014
+    what: The forces of the Islamic State of Iraq and the Levant occupied the area.
+    from: Actions by the forces of the [[ Islamic State of Iraq and the Levant ]],
+      which occupied the area in mid-2014, were a major threat to Hatra.
+  - when: "2015"
+    what: Hatra was placed on the list of World Heritage in Danger.
+    from: |-
+      significant-event:
+            - value: list of World Heritage in Danger
+              from: "2015"
+  - when: March 7
+    what: Iraqi official sources reported ISIS had begun the demolishing the ruins
+      of Hatra.
+    from: On March 7, Iraqi official sources reported ISIS had begun the
+      demolishing the ruins of Hatra.[[ ^24 ]][[ ^25 ]]
+  - when: 26 April 2017
+    what: The pro-Iraqi government Popular Mobilization Forces captured the city.
+    from: The pro-Iraqi government [[ Popular Mobilization Forces ]] captured the
+      city on 26 April 2017.[[ ^28 ]]
+  - when: 1 May
+    what: It was reported that the site had suffered less damage than feared
+      earlier.
+    from: It was reported on 1 May that the site had suffered less damage than
+      feared earlier.
+image-plan:
+  - file: Hatra_in_the_late_1960s._Saint_Thomas_Private_High_School_for_Girls'_trip_to_Hatra_ruins._Ninawa_Governorate,_Iraq.jpg
+    role: hero
+    section: lead
+    caption: Hatra in the late 1960s. Towering columns and one of the site's
+      preserved ancient temples are seen in the background.
+  - file: Hatra_plan_general.svg
+    role: inline
+    section: history
+    caption: Plan of Hatra. The plan was circular,[[ ^8 ]] encircled by inner and
+      outer walls nearly 2 kilometres (1.2 mi) in diameter[[ ^9 ]] and
+      supported by more than 160 towers.
+  - file: Coin_of_Hatra.jpg
+    role: inline
+    section: history
+    caption: Bronze coin struck in Hatra circa 117–138 AD. Obverse depicts radiate
+      bust of [[ Shamash ]], the [[ Mesopotamian | mesopotamian-mythology ]]
+      sun god.[[ ^5 ]]
+  - file: Flag_of_Iraq.svg
+    role: drop
+    section: lead
+    caption: "Flag of Iraq — dropped: a modern national flag shows nothing of the
+      site, and the article's only claim about the country is that Hatra lies
+      in it."
+glossary:
+  - term: Ḥaṭrāʾ
+    gloss: The city's name in Hatran Aramaic inscriptions, probably meaning
+      "enclosure, hedge, fence".
+    from: 'It is recorded as 𐣧𐣨𐣣𐣠 (//ḥṭrʾ//, vocalized as: //Ḥaṭrāʾ//) in [[
+      Hatran Aramaic ]] inscriptions, probably meaning "enclosure, hedge,
+      fence".'
+  - term: temenos
+    gloss: The enclosure that surrounded the principal sacred buildings in the
+      city's centre.
+    from: A [[ temenos ]] (τέμενος) surrounded the principal sacred buildings in
+      the city's centre.
+  - term: Beiṯ Ĕlāhā
+    gloss: Aramaic for "House of God", the name under which Hatra's fused
+      pantheons were known.
+    from: The city was famed for its fusion of [[ Greek |
+      religion-in-ancient-greece ]], [[ Assyrian | mesopotamian-religion ]],
+      [[ Canaanite | canaanite-religion ]], [[ Aramean ]] and Arabian [[
+      pantheons | pantheon-gods ]], known in [[ Aramaic | aramaic-language ]]
+      as //Beiṯ Ĕlāhā// ("House of God").
+  - term: Ashurbel
+    gloss: A female deity named in the Hatran Aramaic inscriptions, perhaps the
+      assimilation of the Assyrian god Ashur and the Assyrian-Babylonian Bel,
+      despite their being individually masculine.
+    from: Other deities mentioned in the Hatran Aramaic inscriptions were the
+      Aramaean [[ Ba'al Shamayn | baal-shamîm ]], and the female deity known
+      as Ashurbel, which was perhaps the assimilation of the two deities the
+      Assyrian god [[ Ashur | ashur-god ]] and the Assyrian-Babylonian [[ Bel
+      | bel-mythology ]]—despite their being individually masculine.
+  - term: mrjʾ (māryā)
+    gloss: "\"Lord\" — the title of Hatra's earlier rulers, as with the Assyrian
+      rulers of nearby Assur."
+    from: The earlier rulers are titled //mrjʾ// (//māryā//, "lord") as with the
+      Assyrian rulers of nearby [[ Assur ]], the later ones //mlkʾ d-ʿrb//
+      ("king of the Arabs"; //malkā//, "king").[[ ^2 ]]
+  - term: mlkʾ d-ʿrb (malkā)
+    gloss: "\"King of the Arabs\" — the title of Hatra's later rulers."
+    from: The earlier rulers are titled //mrjʾ// (//māryā//, "lord") as with the
+      Assyrian rulers of nearby [[ Assur ]], the later ones //mlkʾ d-ʿrb//
+      ("king of the Arabs"; //malkā//, "king").[[ ^2 ]]
+  - term: shirk
+    gloss: Polytheism — what ISIL claimed the site's "graven images" encouraged
+      when it announced its intention to destroy them.
+    from: In early 2015 they announced their [[ intention to destroy |
+      destruction-of-cultural-heritage-by-isil ]] many artifacts, claiming
+      that such "graven images" were un-Islamic, encouraged [[ shirk |
+      shirk-islam ]] (or polytheism), and could not be permitted to exist
+  - term: hot semi-arid climate (BSh)
+    gloss: "Hatra's Köppen classification: most rain falls in the winter, and
+      about 257 mm (10.12 in) falls annually."
+    from: Hatra has a [[ hot semi-arid climate ]] ([[ Köppen climate
+      classification ]] //BSh//). Most rain falls in the winter. The average
+      annual temperature in Hatra is 20.7 °C (69.3 °F). About 257 mm (10.12
+      in) of precipitation falls annually.
+further:
+  - slug: assur
+    why: Hatra was deserted in the 3rd century alongside Assur, and its earlier
+      rulers carried the same title, //mrjʾ//, as the Assyrian rulers of
+      nearby Assur.
+  - slug: palmyra
+    why: Hatra stood at the northeastern end of a chain of largely Arab-controlled
+      cities running by way of Palmyra, Baalbek and Petra to the southwest.
+  - slug: nimrud
+    why: Nimrud was bulldozed by ISIL on March 5, 2015, days before Iraqi sources
+      reported the demolition of Hatra had begun; Saddam Hussein had sought to
+      restore both.
+anchors:
+  hook: During the 2nd century CE, the city repulsed sieges by both [[ Trajan ]]
+    (116/117) and [[ Septimius Severus (198/199). | siege-of-hatra-197198 ]][[
+    ^6 ]] Hatra's forces defeated the ascendant [[ Sassanid Persians |
+    sasanian-empire ]] in 238 at the battle of Shahrazoor, but fell shortly
+    after in 241 to the army of Sassanid king [[ Shapur I ]] and was
+    destroyed.[[ ^6 ]] The traditional stories of the [[ fall of Hatra ]] tell
+    of [[ al-Nadirah ]], daughter of the king of Araba, who betrayed the city
+    into the hands of Shapur as she fell in love with him.
+  standfirst: was an ancient city in [[ Upper Mesopotamia ]] located in
+    present-day eastern [[ Nineveh Governorate ]] in northern [[ Iraq ]]. The
+    ruins of the city lie 290 km (180 mi) northwest of [[ Baghdad ]] and 110
+    km (68 mi) southwest of [[ Mosul ]]. It is considered the richest
+    archaeological site from the [[ Parthian Empire ]] known to date.[[ ^1 ]]
+    Hatra was a strongly fortified [[ caravan city ]] and capital of the small
+    [[ Kingdom of Hatra ]], located between the [[ Roman | roman-empire ]] and
+    [[ Parthian | parthian-empire ]]/[[ Sasanian Empires | sasanian-empire ]].
+    Hatra flourished in the 2nd century
+coordinates:
+  lat: 35.58805556
+  lon: 42.71833333
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D8%A7%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%AD%D8%B6%D8%B1.jpg/3840px-%D8%A7%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%AD%D8%B6%D8%B1.jpg
+images:
+  - file: Coin_of_Hatra.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Coin_of_Hatra.jpg/250px-Coin_of_Hatra.jpg
+    width: 5086
+    height: 2543
+    caption: bronze coin struck in Hatra circa 117–138 AD. Obverse depicts radiate
+      bust of Shamash
+  - file: Hatra_plan_general.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hatra_plan_general.svg/250px-Hatra_plan_general.svg.png
+    width: 730
+    height: 686
+    caption: Plan of Hatra
+  - file: Hatra_in_the_late_1960s._Saint_Thomas_Private_High_School_for_Girls'_trip_to_Hatra_ruins._Ninawa_Governorate,_Iraq.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hatra_in_the_late_1960s._Saint_Thomas_Private_High_School_for_Girls%27_trip_to_Hatra_ruins._Ninawa_Governorate%2C_Iraq.jpg/250px-Hatra_in_the_late_1960s._Saint_Thomas_Private_High_School_for_Girls%27_trip_to_Hatra_ruins._Ninawa_Governorate%2C_Iraq.jpg
+    width: 1482
+    height: 1048
+    caption: Hatra in the late 1960s. Towering columns and one of the site's
+      preserved ancient temples are seen in the background.
+  - file: Flag_of_Iraq.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/20px-Flag_of_Iraq.svg.png
+    width: 900
+    height: 600
+    caption: Flag of Iraq
+  - file: Flag_of_Iraq.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/60px-Flag_of_Iraq.svg.png
+    width: 900
+    height: 600
+    caption: Flag of Iraq
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D8%A7%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%AD%D8%B6%D8%B1.jpg/330px-%D8%A7%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%AD%D8%B6%D8%B1.jpg
+    caption: The ruins of Hatra in 2019
+  type: Settlement, temple
+  cultures: Arab, Mesopotamian, Assyrian, Parthian
+  satellite-of: Parthian Empire
+  location: Hatra District, Nineveh Governorate, Iraq
+  region: Mesopotamia
+  history:
+    built: 3rd or 2nd century BC
+    abandoned: 241 AD
+    event: Fall of Hatra
+  site-notes:
+    area: 300 ha (740 acres)
+    condition: Ruins
+    public-access: Accessible
+  unesco-world-heritage-site:
+    official-name: Hatra
+    type: Cultural
+    criteria: ii, iii, iv, vi
+    designated: 1985 (9th session)
+    reference-no: "277"
+    region: Arab States
+sections:
+  - level: 2
+    id: name
+    title: Name
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: religion
+    title: Religion
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+  - level: 2
+    id: art-of-hatra
+    title: Art of Hatra
+  - level: 2
+    id: modern-hatra
+    title: Modern Hatra
+  - level: 3
+    id: restoration-by-saddam-hussein
+    title: Restoration by Saddam Hussein
+  - level: 3
+    id: partial-destruction-and-looting-by-isil
+    title: Partial destruction and looting by ISIL
+  - level: 2
+    id: gallery
+    title: Gallery
+  - level: 2
+    id: climate
+    title: Climate
+wikidata:
+  id: Q466614
+  label: Hatra
+  description: ancient city in northern Iraq
+  claims:
+    commons-category: Hatra
+    coordinate-location:
+      lat: 35.588055555556
+      lon: 42.718333333333
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Hatra_ruins.jpg
+    page-banner: https://commons.wikimedia.org/wiki/Special:FilePath/Hatra_banner.jpg
+    topic-s-main-category: Category:Hatra
+    country: Iraq
+    located-in-the-administrative-territorial-entity: Nineveh Governorate
+    dissolved-abolished-or-demolished: "241"
+    heritage-designation:
+      value: World Heritage Site
+      from: "1985"
+    instance-of:
+      - archaeological site
+      - ancient city
+      - city-state
+    world-heritage-criteria:
+      - (ii)
+      - (iii)
+      - (iv)
+      - (vi)
+    significant-event:
+      - value: list of World Heritage in Danger
+        from: "2015"
+      - value: Fall of Hatra
+    area: 323.75 hectare
+    demonym:
+      - Hatréen
+      - hatreo
+    language-used:
+      - Aramaic of Hatra
+      - Latin
+      - Palmyrene Aramaic
+      - Iranian
+      - Koine Greek
+    on-focus-list-of-wikimedia-project: Whindanger
+    capital-of: Kingdom of Araba
+    head-of-government:
+      - Sanatruq I
+      - Sanatruq II
+    culture:
+      - Assyrian Empire
+      - Parthian Empire
+    described-by-source: Pauly–Wissowa
+link-titles:
+  abdsamiya: Abdsamiya
+  abdulamir-hamdaniactioneditredlink1: Abdulamir Hamdani?action=edit&redlink=1
+  adiabene: Adiabene
+  akkadian-empire: Akkadian Empire
+  al-nadirah: Al-Nadirah
+  allat: Allat
+  ancient-greek-religion: Ancient Greek religion
+  arab: Arab
+  arabian-mythology: Arabian mythology
+  arabic: Arabic
+  arabic-language: Arabic language
+  aramaic-language: Aramaic language
+  aramean: Aramean
+  art-of-the-kushans: Art of the Kushans
+  ashur-god: Ashur (god)
+  ashurbelactioneditredlink1: Ashurbel?action=edit&redlink=1
+  assur: Assur
+  assyria: Assyria
+  assyrian-people: Assyrian people
+  atargatis: Atargatis
+  baal-shamîm: Ba`al Shamîm
+  baalbek: Baalbek
+  babylon: Babylon
+  babylonian-mythology: Babylonian mythology
+  baghdad: Baghdad
+  bel-mythology: Bel (mythology)
+  beth-nuhadra: Beth Nuhadra
+  canaanite-religion: Canaanite religion
+  caravan-city: Caravan city
+  column: Column
+  destruction-of-cultural-heritage-by-isil: Destruction of cultural heritage by ISIL
+  efe: EFE
+  elohim-gods: Elohim (gods)
+  fall-of-hatra: Fall of Hatra
+  gordian-iii: Gordian III
+  hatran-aramaic: Hatran Aramaic
+  hermes: Hermes
+  hot-semi-arid-climate: Hot semi-arid climate
+  isesco: ISESCO
+  isil: ISIL
+  iraq: Iraq
+  iraq-museum: Iraq Museum
+  islamic-state-of-iraq-and-the-levant: Islamic State of Iraq and the Levant
+  iwan: Iwan
+  john-m.-rosenfield: John M. Rosenfield
+  kingdom-of-hatra: Kingdom of Hatra
+  kushan-empire: Kushan Empire
+  köppen-climate-classification: Köppen climate classification
+  layla-salih: Layla Salih
+  mesopotamia: Mesopotamia
+  mesopotamian-mythology: Mesopotamian mythology
+  mesopotamian-religion: Mesopotamian religion
+  mosul: Mosul
+  nashrihab: Nashrihab
+  naṣru: Naṣru
+  nebuchadnezzar: Nebuchadnezzar
+  nergal: Nergal
+  nimrud: Nimrud
+  ninevah: Ninevah
+  nineveh-governorate: Nineveh Governorate
+  osroene: Osroene
+  palmyra: Palmyra
+  pantheon-gods: Pantheon (gods)
+  parthian-empire: Parthian Empire
+  pescennius-niger: Pescennius Niger
+  petra: Petra
+  polish-centre-of-mediterranean-archaeology: Polish Centre of Mediterranean Archaeology
+  popular-mobilization-forces: Popular Mobilization Forces
+  pre-islamic-arabia: Pre-Islamic Arabia
+  precipitation: Precipitation
+  religion-in-ancient-greece: Religion in Ancient Greece
+  roman-empire: Roman Empire
+  romanparthian-wars: Roman–Parthian Wars
+  romanpersian-wars: Roman–Persian Wars
+  saddam-hussein: Saddam Hussein
+  sanatruq-i: Sanatruq I
+  sanatruq-ii: Sanatruq II
+  sasanian-empire: Sasanian Empire
+  sassanid-empire: Sassanid Empire
+  seleucid-empire: Seleucid Empire
+  shahrazooractioneditredlink1: Shahrazoor?action=edit&redlink=1
+  shamash: Shamash
+  shamiyyahactioneditredlink1: Shamiyyah?action=edit&redlink=1
+  shapur-i: Shapur I
+  shirk-islam: Shirk (Islam)
+  siege-of-hatra-197198: Siege of Hatra (197–198)
+  stony-brook-university: Stony Brook University
+  sulaymaniyah-museum: Sulaymaniyah Museum
+  syriac-language: Syriac language
+  temenos: Temenos
+  the-daily-telegraph: The Daily Telegraph
+  the-exorcist: The Exorcist
+  trajan: Trajan
+  unesco: UNESCO
+  university-of-turin: University of Turin
+  upper-mesopotamia: Upper Mesopotamia
+  vault-architecture: Vault (architecture)
+  walter-andrae: Walter Andrae
+  wolgash: Wolgash
+  world-heritage-site: World Heritage Site
+source:
+  site: Wikipedia
+  lang: en
+  title: Hatra
+  url: https://en.wikipedia.org/wiki/Hatra
+  page-id: 200437
+  revision: "1369501750"
+  modified: 2026-08-15T11:00:03Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Hatra"
+    (revision 1369501750), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/hatra.mdy
+  source-digest: 56dbd9d1eab461f8
+  source-revision: "1369501750"
+  model: claude-opus-5
+  left-out: The Modern Hatra section carried a second figure with no image — a
+    caption only, "Archaeological site of Hatra before destruction, 0:59,
+    UNESCO video" — which has no file to plan and no footnote, so it is not in
+    the image plan. The infobox photograph ("The ruins of Hatra in 2019") is
+    given only as a URL and not as a file name in the images list, so the
+    late-1960s photograph is the hero instead. The rulers table, the climate
+    table and the two picture lists (Art of Hatra, Gallery) are reproduced as
+    they stood, since they are tables and lists of images rather than prose.
+    Flag_of_Iraq.svg is listed twice in the front matter; it appears once,
+    dropped.
+  verified: true
+  verdict: clean
+  reviewed: false
++++
+!!Hatra!! ([[ /ˈhætrə/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]]; Arabic: الحَضْر (Arabic pronunciation: [[ [al.ˈħadˤr\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FArabic ]]); Syriac: ܚܛܪܐ) was an ancient city in [[ Upper Mesopotamia ]], in what is now eastern [[ Nineveh Governorate ]] in northern [[ Iraq ]]. Its ruins lie 290 km (180 mi) northwest of [[ Baghdad ]] and 110 km (68 mi) southwest of [[ Mosul ]], and it is considered the richest archaeological site from the [[ Parthian Empire ]] known to date.[[ ^1 ]]
+
+Hatra was a strongly fortified [[ caravan city ]] and the capital of the small [[ Kingdom of Hatra ]], set between the [[ Roman | roman-empire ]] and [[ Parthian | parthian-empire ]]/[[ Sasanian Empires | sasanian-empire ]]. It flourished in the 2nd century, and was [[ destroyed | fall-of-hatra ]] by the [[ Sassanid Empire ]] and deserted in the 3rd century alongside other Neo-Assyrian populated states such as [[ Assur ]], [[ Adiabene ]], [[ Osroene ]] and [[ Beth Nuhadra ]]. Its ruins were discovered in the 19th century.[[ ^2 ]]
+
+== Name
+
+Hatra is known as //al-Ḥaḍr// (الحضر) in [[ Arabic ]]. [[ Hatran Aramaic ]] inscriptions record it as 𐣧𐣨𐣣𐣠 (//ḥṭrʾ//, vocalized as: //Ḥaṭrāʾ//), probably meaning "enclosure, hedge, fence". In [[ Syriac | syriac-language ]] it is usually recorded in the plural form //Ḥaṭrē//; in Roman works it is recorded as Greek //Átra// and Latin //Hatra// and //Hatris//.[[ ^2 ]]
+
+The temple of the local [[ Assyrian | assyrian-people ]] god [[ Shamash ]],[[ ^3 ]] was officially called //Beit ʾElāhāʾ// 𐣡𐣩𐣵 𐣠𐣫𐣤𐣠‎ "House of God", in Mesopotamian Aramaic inscriptions[[ ^4 ]] and a coin records the city itself as "Enclosure of [[ Shamash ]]" (//ḥtrʾ d-šmš// 𐣧𐣨𐣣𐣠 𐣣𐣴𐣬𐣴‎).[[ ^2 ]]
+
+== History
+
+There is no archeological information on the city before the Parthian period, but settlement in the area likely dates back to at least the [[ Seleucid | seleucid-empire ]] period.[[ ^2 ]] Under the [[ Parthians | parthian-empire ]], during the 1st and 2nd centuries CE, Hatra flourished as a religious and trading center.[[ ^5 ]] Later on, the city became the capital of possibly the first [[ Arab ]]-ruled kingdom in the chain of largely [[ Arab-controlled cities | pre-islamic-arabia#north-arabia ]] running from Hatra, in the northeast, via [[ Palmyra ]], [[ Baalbek ]] and [[ Petra ]], in the southwest. The region controlled from Hatra was the [[ Kingdom of Hatra ]], a semi-autonomous buffer kingdom on the western limits of the Parthian Empire, governed by Arabian princes.
+
+Hatra became an important fortified frontier city and played an important role in the [[ Second Parthian War | romanparthian-wars ]], withstanding repeated attacks by the [[ Roman Empire ]]. During the 2nd century CE, the city repulsed sieges by both [[ Trajan ]] (116/117) and [[ Septimius Severus (198/199). | siege-of-hatra-197198 ]][[ ^6 ]] Hatra's forces defeated the ascendant [[ Sassanid Persians | sasanian-empire ]] in 238 at the battle of Shahrazoor, but fell shortly after in 241 to the army of Sassanid king [[ Shapur I ]] and was destroyed.[[ ^6 ]]
+
+The traditional stories of the [[ fall of Hatra ]] tell of [[ al-Nadirah ]], daughter of the king of Araba, who betrayed the city into the hands of Shapur as she fell in love with him. The story tells of how Shapur killed the king and married al-Nadirah, but later had her killed also after realizing her ingratitude towards her father.[[ ^5 ]][[ ^7 ]]
+
+Hatra was the best preserved and most informative example of ancient Arabian architecture. Its plan was circular,[[ ^8 ]] encircled by inner and outer walls nearly 2 kilometres (1.2 mi) in diameter[[ ^9 ]] and supported by more than 160 towers.
+
+== Religion
+
+A [[ temenos ]] (τέμενος) surrounded the principal sacred buildings in the city's centre. The temples covered some 1.2 hectares and were dominated by the Great Temple, an enormous structure with [[ vaults | vault-architecture ]] and [[ columns | column ]] that once rose to 30 metres.
+
+The city was famed for its fusion of [[ Greek | religion-in-ancient-greece ]], [[ Assyrian | mesopotamian-religion ]], [[ Canaanite | canaanite-religion ]], [[ Aramean ]] and Arabian [[ pantheons | pantheon-gods ]], known in [[ Aramaic | aramaic-language ]] as //Beiṯ Ĕlāhā// ("House of God"). There were temples to [[ Nergal ]] ([[ Assyrian | assyria ]]-[[ Babylonian | babylonian-mythology ]] and [[ Akkadian | akkadian-empire ]]), [[ Hermes ]] ([[ Greek | ancient-greek-religion ]]), [[ Atargatis ]] ([[ Syro-Aramaean | elohim-gods ]]), [[ Allat ]], Shamiyyah ([[ Arabian | arabian-mythology ]]), and [[ Shamash ]] (the [[ Mesopotamian | mesopotamian-mythology ]] sun god).[[ ^5 ]] Other deities mentioned in the Hatran Aramaic inscriptions were the Aramaean [[ Ba'al Shamayn | baal-shamîm ]], and the female deity known as Ashurbel, which was perhaps the assimilation of the two deities the Assyrian god [[ Ashur | ashur-god ]] and the Assyrian-Babylonian [[ Bel | bel-mythology ]]—despite their being individually masculine.
+
+== List of rulers
+
+Several rulers are named in inscriptions found at Hatra; others are mentioned only sporadically, by classical authors. The earlier rulers are titled //mrjʾ// (//māryā//, "lord") as with the Assyrian rulers of nearby [[ Assur ]], the later ones //mlkʾ d-ʿrb// ("king of the Arabs"; //malkā//, "king").[[ ^2 ]]
+
+<table
+  <tbody
+    <tr
+      <th colspan="2">Name
+
+      <th>Title
+
+      <th>Date
+
+      <th>Portrait
+
+      <th>Note
+
+    <tr
+      <td>1
+
+      <td>Worod
+
+      <td>mry´
+
+      <td
+
+      <td
+
+      <td
+
+    <tr
+      <td>2
+
+      <td>Ma’nu
+
+      <td>mry´
+
+      <td
+
+      <td
+
+      <td
+
+    <tr
+      <td>3
+
+      <td>Elkud
+
+      <td>mry´
+
+      <td>155/156
+
+      <td
+
+      <td
+
+    <tr
+      <td>4
+
+      <td>[[ Nashrihab ]]
+
+      <td>mry´
+
+      <td>128/29 – 137/38 AD
+
+      <td
+
+      <td
+
+    <tr
+      <td>5
+
+      <td>[[ Naṣru ]]
+
+      <td>mry´
+
+      <td>128/29 – 176/77
+
+      <td
+
+      <td
+
+    <tr
+      <td>6
+
+      <td>[[ Wolgash ]] I
+
+      <td>mry´ and mlk
+
+      <td
+
+      <td
+
+      <td rowspan="2">The two brothers may have been co-rulers.
+
+    <tr
+      <td>7
+
+      <td>[[ Sanatruq I ]]
+
+      <td>mry´ and mlk
+
+      <td>176/177
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Relief_of_Sanatruk_I.jpg/40px-Relief_of_Sanatruk_I.jpg" alt="Victory relief of Sanatruq I, king of Hatra. He is using a small altar at his feet." height="62" width="30"
+
+    <tr
+      <td>8
+
+      <td>[[ Abdsamiya ]]
+
+      <td>mlk
+
+      <td>192/93 – 201/202
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prince_Abdsadmiya_son_of_Sanatruq_I_and_future_king.jpg/40px-Prince_Abdsadmiya_son_of_Sanatruq_I_and_future_king.jpg" alt="Prince Absadmiya, son of Sanatruq I and future king." height="54" width="30"
+
+      <td>Supported the Roman emperor [[ Pescennius Niger ]]
+
+    <tr
+      <td>9
+
+      <td>[[ Sanatruq II ]]
+
+      <td>mlk – King
+
+      <td>207/08 – 229/230
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Statue_of_Sanatruq_I%2C_king_of_Hatra%2C_2nd_century_CE%2C_Iraq_Museum.jpg/40px-Statue_of_Sanatruq_I%2C_king_of_Hatra%2C_2nd_century_CE%2C_Iraq_Museum.jpg" alt="Statue of Sanatruq II, king of Hatra, Iraq Museum." height="20" width="30"
+
+      <td>Became a vassal of the Romans under [[ Gordian III ]] during [[ Roman–Persian Wars ]]
+
+== Art of Hatra
+
+According to [[ John M. Rosenfield ]], the statuary of Hatra belongs to the [[ Parthian cultural sphere | parthian-empire ]], with numerous similarities in terms of clothing, decorative elements or posture, which tend to be massive and frontal, with feet often splayed.[[ ^10 ]] The architecture of Hatra itself is generally seen as an example of Parthian architecture.[[ ^10 ]] Similarities can be seen with the [[ Art of the Kushans ]] as well, due either to direct cultural exchanges between the area of [[ Mesopotamia ]] and the [[ Kushan Empire ]] at that time, or from a common Parthian artistic background leading to similar types of representation.[[ ^10 ]]
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Headless_statue_of_an_unidentified_nobleman_from_Hatra%2C_Iraq._2nd-3rd_century_CE._Iraq_Museum.jpg/120px-Headless_statue_of_an_unidentified_nobleman_from_Hatra%2C_Iraq._2nd-3rd_century_CE._Iraq_Museum.jpg" alt="Headless statue of a nobleman." height="150" width="89"
+
+    Headless statue of a nobleman.
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Military_commander_from_the_city_of_Hatra._National_Museum_of_Iraq_%28closeup%29.jpg/120px-Military_commander_from_the_city_of_Hatra._National_Museum_of_Iraq_%28closeup%29.jpg" alt="Military commander from the city of Hatra. Iraq Museum, Baghdad." height="150" width="88"
+
+    Military commander from the city of Hatra. [[ Iraq Museum ]], Baghdad.
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hatra_military_man.jpg/120px-Hatra_military_man.jpg" alt="Limestone statue of a military commander in his uniform holding a statue of a deity." height="150" width="65"
+
+    Limestone statue of a military commander in his uniform holding a statue of a
+    deity.
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ancient_Parthian_relief_carving_of_the_god_Nergal_from_Hatra.jpg/120px-Ancient_Parthian_relief_carving_of_the_god_Nergal_from_Hatra.jpg" alt="Relief of the god Nergal from Hatra." height="146" width="120"
+
+    Relief of the god [[ Nergal ]] from Hatra.
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hatra_relief_devotee.jpg/120px-Hatra_relief_devotee.jpg" alt="Hatra relief devotee." height="150" width="86"
+
+    Hatra relief devotee.
+
+== Modern Hatra
+
+Hatra was used as the setting for the opening scene in the 1973 film //[[ The Exorcist ]]//,[[ ^11 ]] and since 1985 has been a [[ UNESCO ]] [[ World Heritage Site ]].[[ ^12 ]]
+
+The site was first surveyed by [[ Walter Andrae ]] of the German excavation team working in Assur from 1906 to 1911. But systematic excavations have been undertaken only from 1951 by Iraqi archeologists. From the 1980s, the Italian Archaeological Expedition,[[ ^13 ]] directed by R. Ricciardi Venco ([[ University of Turin ]]), made major discoveries at Hatra. The excavations were focused on an important house ("Building A"[[ ^14 ]]), located close to the Temenos, and on deep soundings in the Temenos central area.[[ ^15 ]] Now the Expedition is active in different projects regarding the preservation and development of the archaeological site.[[ ^16 ]] In 1990, a Polish expedition of the [[ Polish Centre of Mediterranean Archaeology University of Warsaw | polish-centre-of-mediterranean-archaeology ]] recorded and studied the city's defense walls.[[ ^17 ]]
+
+In 2004, //[[ The Daily Telegraph ]]// stated "Hatra's finely preserved columns and statues make it one of the most impressive of Iraq's archaeological sites"[[ ^18 ]]
+
+== Restoration by Saddam Hussein
+
+[[ Saddam Hussein ]] saw the site's Mesopotamian history as reflecting glory on himself, and sought to restore the site, and others in [[ Ninevah ]], [[ Nimrud ]], [[ Ashur | assur ]] and [[ Babylon ]], as a symbol of Arab achievement,[[ ^19 ]] spending more than US$80 million in the first phase of restoration of Babylon. He demanded that new bricks in the restoration use his name (in imitation of [[ Nebuchadnezzar ]]), and parts of one restored Hatra temple have Saddam's name.[[ ^20 ]]
+
+== Partial destruction and looting by ISIL
+
+Actions by the forces of the [[ Islamic State of Iraq and the Levant ]], which occupied the area in mid-2014, were a major threat to Hatra. In early 2015 they announced their [[ intention to destroy | destruction-of-cultural-heritage-by-isil ]] many artifacts, claiming that such "graven images" were un-Islamic, encouraged [[ shirk | shirk-islam ]] (or polytheism), and could not be permitted to exist, despite the preservation of the site for 1,400 years by various Islamic regimes. [[ ISIL ]] militants pledged to destroy the remaining artifacts, and shortly thereafter released a video showing the destruction of some artifacts from Hatra.[[ ^21 ]][[ ^22 ]] After the bulldozing of Nimrud on March 5, 2015, "Hatra of course will be next" said Abdulamir Hamdani, an Iraqi archaeologist from [[ Stony Brook University ]].[[ ^23 ]] On March 7, Iraqi official sources reported ISIS had begun the demolishing the ruins of Hatra.[[ ^24 ]][[ ^25 ]] A video released by ISIL during the next month showed the destruction of the monuments.[[ ^26 ]]
+
+UNESCO and [[ ISESCO ]] issued a joint statement saying "With this latest act of barbarism against Hatra, (the IS group) shows the contempt in which it holds the history and heritage of Arab people."[[ ^27 ]]
+
+The pro-Iraqi government [[ Popular Mobilization Forces ]] captured the city on 26 April 2017.[[ ^28 ]] A spokeswoman for the militias stated that ISIL had destroyed the sculptures and engraved images of the site, but its walls and towers were still standing though they contained holes and scratches received from ISIL bullets. PMF units also stated that the group had mined the site's eastern gates, thus temporarily preventing any assessment of damage by archaeologists.[[ ^29 ]] It was reported on 1 May that the site had suffered less damage than feared earlier. A journalist of [[ EFE ]] had earlier reported finding many destroyed statues, burnt buildings as well as signs of looting. [[ Layla Salih ]], head of antiquities for Nineveh Governorate, stated that most of the buildings were intact and the destruction didn't compare with that of other archaeological sites of Iraq. A PMF commander also stated that the damage was relatively minor.[[ ^30 ]]
+
+== Gallery
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hatra-1453.jpg/330px-Hatra-1453.jpg" alt="Remains of several temples and ancient walls (2004)" height="120" width="184"
+
+    Remains of several temples and ancient walls (2004)
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hatra-71339.jpg/330px-Hatra-71339.jpg" alt="Elevated view of the site in 2007" height="120" width="181"
+
+    Elevated view of the site in 2007
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hatra-Ruins-2006-5.jpg/120px-Hatra-Ruins-2006-5.jpg" alt="Temple facade (May 2006)" height="120" width="78"
+
+    Temple facade (May 2006)
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hatra-Ruins-2006-6.jpg/330px-Hatra-Ruins-2006-6.jpg" alt="Southern exposure of the temple (May 2006)" height="120" width="185"
+
+    Southern exposure of the temple (May 2006)
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hatra_Ruins_-_2008-07-20.jpg/120px-Hatra_Ruins_-_2008-07-20.jpg" alt="July 2008" height="120" width="80"
+
+    July 2008
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hatra-Ruins-2008-8.jpg/330px-Hatra-Ruins-2008-8.jpg" alt="Marn Temple (November 2008)" height="120" width="181"
+
+    Marn Temple (November 2008)
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hatra-Ruins-2008-9.jpg/330px-Hatra-Ruins-2008-9.jpg" alt="November 2008" height="120" width="181"
+
+    November 2008
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hatra_city.jpeg/250px-Hatra_city.jpeg" alt="Elevated view of the temple (September 2014)" height="120" width="160"
+
+    Elevated view of the temple (September 2014)
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hatra-1454.jpg/330px-Hatra-1454.jpg" alt="Detail of a temple, showing Hellenistic, Mesopotamian and Iranian architecture" height="120" width="184"
+
+    Detail of a temple, showing Hellenistic, Mesopotamian and Iranian architecture
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hatra-109732.jpg/330px-Hatra-109732.jpg" alt="Decorated arch with faces" height="120" width="176"
+
+    Decorated arch with faces
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hatra-109726.jpg/330px-Hatra-109726.jpg" alt="View of iwans" height="120" width="207"
+
+    View of [[ iwans | iwan ]]
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hatra-109730.jpg/120px-Hatra-109730.jpg" alt="Closeup of an iwan" height="120" width="68"
+
+    Closeup of an iwan
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hatra-109728.jpg/330px-Hatra-109728.jpg" alt="Facade of Temple" height="120" width="208"
+
+    Facade of Temple
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hatra-109736.jpg/330px-Hatra-109736.jpg" alt="Arch of the temple" height="120" width="216"
+
+    Arch of the temple
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hatra-109734.jpg/120px-Hatra-109734.jpg" alt="Protruded head on a wall" height="120" width="79"
+
+    Protruded head on a wall
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hatra-Ruins-2006-7.jpg/120px-Hatra-Ruins-2006-7.jpg" alt="Statue of the Goddess Shahiro" height="120" width="78"
+
+    Statue of the Goddess Shahiro
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/From_left_to_right%2C_an_unidentified_ruler%2C_Hermes%2C_a_female_deity%2C_and_Sanatruq_I.From_Hatra._Erbil_Civilization_Museum.jpg/330px-From_left_to_right%2C_an_unidentified_ruler%2C_Hermes%2C_a_female_deity%2C_and_Sanatruq_I.From_Hatra._Erbil_Civilization_Museum.jpg" alt="From left to right, an unidentified ruler, Hermes, a female deity, and Sanatruq I.From Hatra. Erbil Civilization Museum" height="120" width="180"
+
+    From left to right, an unidentified ruler, Hermes, a female deity, and
+    Sanatruq I.From Hatra. Erbil Civilization Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Door_lintel_from_Hatra._2nd-3rd_century_AD._Sulaymaniyah_Museum%2C_Iraqi_Kurdistan.jpg/330px-Door_lintel_from_Hatra._2nd-3rd_century_AD._Sulaymaniyah_Museum%2C_Iraqi_Kurdistan.jpg" alt="Door lintel from Hatra. 2nd-3rd century AD. Sulaymaniyah Museum, Iraqi Kurdistan" height="120" width="182"
+
+    Door lintel from Hatra. 2nd-3rd century AD. [[ Sulaymaniyah Museum ]], Iraqi
+    Kurdistan
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hatra_Arch.jpg/250px-Hatra_Arch.jpg" alt="Monumental entrance arch from Hatra, now at the Iraqi National Museum" height="120" width="160"
+
+    Monumental entrance arch from Hatra, now at the Iraqi National Museum
+
+== Climate
+
+Hatra has a [[ hot semi-arid climate ]] ([[ Köppen climate classification ]] //BSh//). Most rain falls in the winter. The average annual temperature in Hatra is 20.7 °C (69.3 °F). About 257 mm (10.12 in) of precipitation falls annually.
+
+<table
+  <tbody
+    <tr
+      <th colspan="14">Climate data for Hatra (Al Hadar)
+
+    <tr
+      <th scope="row">Month
+
+      <th scope="col">Jan
+
+      <th scope="col">Feb
+
+      <th scope="col">Mar
+
+      <th scope="col">Apr
+
+      <th scope="col">May
+
+      <th scope="col">Jun
+
+      <th scope="col">Jul
+
+      <th scope="col">Aug
+
+      <th scope="col">Sep
+
+      <th scope="col">Oct
+
+      <th scope="col">Nov
+
+      <th scope="col">Dec
+
+      <th scope="col">Year
+
+    <tr
+      <th scope="row">Mean daily maximum °C (°F)
+
+      <td>12.8
+        <br
+
+        (55.0)
+
+      <td>15.8
+        <br
+
+        (60.4)
+
+      <td>19.8
+        <br
+
+        (67.6)
+
+      <td>25.3
+        <br
+
+        (77.5)
+
+      <td>33.0
+        <br
+
+        (91.4)
+
+      <td>39.0
+        <br
+
+        (102.2)
+
+      <td>42.3
+        <br
+
+        (108.1)
+
+      <td>42.1
+        <br
+
+        (107.8)
+
+      <td>37.9
+        <br
+
+        (100.2)
+
+      <td>31.0
+        <br
+
+        (87.8)
+
+      <td>22.5
+        <br
+
+        (72.5)
+
+      <td>14.8
+        <br
+
+        (58.6)
+
+      <td>28.0
+        <br
+
+        (82.4)
+
+    <tr
+      <th scope="row">Mean daily minimum °C (°F)
+
+      <td>3.2
+        <br
+
+        (37.8)
+
+      <td>4.6
+        <br
+
+        (40.3)
+
+      <td>7.6
+        <br
+
+        (45.7)
+
+      <td>11.7
+        <br
+
+        (53.1)
+
+      <td>17.3
+        <br
+
+        (63.1)
+
+      <td>21.8
+        <br
+
+        (71.2)
+
+      <td>24.8
+        <br
+
+        (76.6)
+
+      <td>24.1
+        <br
+
+        (75.4)
+
+      <td>19.7
+        <br
+
+        (67.5)
+
+      <td>14.3
+        <br
+
+        (57.7)
+
+      <td>8.8
+        <br
+
+        (47.8)
+
+      <td>4.1
+        <br
+
+        (39.4)
+
+      <td>13.5
+        <br
+
+        (56.3)
+
+    <tr
+      <th scope="row">Average [[ precipitation ]] mm (inches)
+
+      <td>43
+        <br
+
+        (1.7)
+
+      <td>39
+        <br
+
+        (1.5)
+
+      <td>49
+        <br
+
+        (1.9)
+
+      <td>36
+        <br
+
+        (1.4)
+
+      <td>13
+        <br
+
+        (0.5)
+
+      <td>0
+        <br
+
+        (0)
+
+      <td>0
+        <br
+
+        (0)
+
+      <td>0
+        <br
+
+        (0)
+
+      <td>0
+        <br
+
+        (0)
+
+      <td>8
+        <br
+
+        (0.3)
+
+      <td>25
+        <br
+
+        (1.0)
+
+      <td>44
+        <br
+
+        (1.7)
+
+      <td>257
+        <br
+
+        (10.1)
+
+    <tr
+      <td colspan="14">Source: [[ climate-data.org | http://climate-data.org ]]
+
+[[ ^1 ]]: Dirven, L. (2013). [[ //Hatra: Politics, Culture and Religion Between Parthia and Rome// | https://books.google.com/books?id=U35zzwEACAAJ ]]. Franz Steiner Verlag. ISBN [[ 978-3-515-10507-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-515-10507-1 ]]. Retrieved 2023-09-29.
+
+[[ ^2 ]]: Schmitt, Rüdiger. [[ "HATRA" | http://www.iranicaonline.org/articles/hatra ]]. //iranicaonline.org//. [[ Encyclopaedia Iranica ]]. Retrieved 16 March 2019.
+
+[[ ^3 ]]: Kubiak-Schneider, A. (2022). [[ //Hatra of Shamash. How to assign the city under the divine power?// | https://www.degruyter.com/document/doi/10.1515/9783110798432-041/html ]]. DeGruyter. Retrieved 2024-09-23. at Gallopin, Th. (2022). //Naming and Mapping the Gods in the Ancient Mediterranean. Spaces, Mobilities, Imaginaries//. DeGruyter. ISBN [[ 9783110798432 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9783110798432 ]].
+
+[[ ^4 ]]: [[ "Hatra \| ancient city, Iraq" | https://www.britannica.com/place/Hatra ]]. //Encyclopedia Britannica//. Retrieved 2020-12-25.
+
+[[ ^5 ]]: [[ "Hatra" | http://www.britannica.com/eb/article-9039509/Hatra ]]. //[[ Encyclopædia Britannica ]]//. Retrieved 14 December 2013.
+
+[[ ^6 ]]: [[ Advisory Body Evaluation on Hatra | https://whc.unesco.org/archive/advisory_body_evaluation/277.pdf ]]. International Council on Monuments and Sites (ICOMOS). 1985. pages 1–2.
+
+[[ ^7 ]]: //E.J. Brill's First Encyclopaedia of Islam 1913–1936//. BRILL. 1987. p. 207a. ISBN [[ 9789004082656 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9789004082656 ]].
+
+[[ ^8 ]]: Salma, K. Jayyusi; Holod, Renata; Petruccioli, Attilio; André, Raymond (2008). [[ //The City in the Islamic World// | https://archive.org/details/cityislamicworld00jayy ]]. Leiden: Brill. p. [[ 174 | https://archive.org/details/cityislamicworld00jayy/page/n194 ]]. ISBN [[ 9789004162402 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9789004162402 ]].
+
+[[ ^9 ]]: [[ "Hatra UNESCO World Heritage Centre" | https://whc.unesco.org/en/list/277 ]]. //whc.unesco.org/en//. UNESCO. 1992–2015. Retrieved 31 March 2015.
+
+[[ ^10 ]]: Rosenfield, John M. (1967). [[ //The Dynastic Arts of the Kushans// | https://books.google.com/books?id=udnBkQhzHH4C&pg=PA170 ]]. University of California Press. pp. 170–173.
+
+[[ ^11 ]]: Freeman, Colin s (25 June 2014). [[ "Iraq's 'Exorcist' temple falls into Isis jihadist hand" | https://www.telegraph.co.uk/news/worldnews/middleeast/iraq/10925751/Iraqs-Exorcist-temple-falls-into-Isis-jihadist-hands.html ]]. //The Telegraph//. London. Retrieved 7 March 2015.
+
+[[ ^12 ]]: [[ "Hatra" | https://whc.unesco.org/en/list/277 ]]. //whc.unesco.org//. [[ UNESCO ]]. Retrieved 7 March 2015.
+
+[[ ^13 ]]: [[ Hatra – Italian Archaeological Expedition | https://hatrasite.com/ ]]
+
+[[ ^14 ]]: [[ "L'Edificio A" | https://hatrasite.com/ledificio-a/ ]]. //Hatra – Italian Archaeological Expedition// (in Italian). 2016-11-25. Retrieved 2020-07-25.
+
+[[ ^15 ]]: [[ "I sondaggi del Temenos" | https://hatrasite.com/i-sondaggi-del-temenos/ ]]. //Hatra – Italian Archaeological Expedition// (in Italian). 2016-11-25. Retrieved 2020-07-25.
+
+[[ ^16 ]]: [[ "Progetti/ Projects" | https://hatrasite.com/progetti-projects/ ]]. //Hatra – Italian Archaeological Expedition// (in Italian). 2016-12-10. Retrieved 2020-07-25.
+
+[[ ^17 ]]: Gawlikowski, Michał (1991). [[ "The first season of excavations in Hatra, Iraq" | https://www.pcma.uw.edu.pl/wp-content/uploads/pam/PAM_1990_II/473.pdf ]] (PDF). //Polish Archaeology in the Mediterranean//. !!2!!.
+
+[[ ^18 ]]: Freeman, Colin (4 January 2004). [[ "American troops launch 'Exorcist' tour at ancient temple" | https://www.telegraph.co.uk/news/worldnews/middleeast/iraq/1450907/American-troops-launch-Exorcist-tour-at-ancient-temple.html ]]. //The Telegraph//.
+
+[[ ^19 ]]: Lawrence Rothfield (1 Aug 2009). [[ //The Rape of Mesopotamia: Behind the Looting of the Iraq Museum// | https://archive.org/details/rapeofmesopotami00roth ]]. University of Chicago Press. ISBN [[ 9780226729435 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780226729435 ]].
+
+[[ ^20 ]]: [[ "Ancient Hatra Ruins" | https://www.dvidshub.net/video/17073/ancient-hatra-ruins ]]. //[[ Defense Video & Imagery Distribution System ]]//. 9 September 2006.
+
+[[ ^21 ]]: Cockburn, Patrick (27 February 2015). [[ "Iraq: Isis militants pledged to destroy remaining archaeological treasures in Nimrud" | https://www.independent.co.uk/news/world/middle-east/iraq-isis-militants-pledge-to-destroy-remaining-archaeological-treasures-in-nimrud-10076133.html ]]. //The Independent//. [[ Archived | https://ghostarchive.org/archive/20220509/https://www.independent.co.uk/news/world/middle-east/iraq-isis-militants-pledge-to-destroy-remaining-archaeological-treasures-in-nimrud-10076133.html ]] from the original on 2022-05-09. Retrieved 8 March 2015.
+
+[[ ^22 ]]: [[ "ISIL video shows destruction of 7th century artifacts" | http://america.aljazeera.com/articles/2015/2/26/isil-seen-in-new-video-destroying-7th-century-artifacts.html ]]. //aljazeera.com//. 26 February 2015. Retrieved 7 March 2015.
+
+[[ ^23 ]]: Karim Abou Merhi (5 March 2015). [[ "IS 'bulldozed' ancient Assyrian city of Nimrud, Iraq says" | https://news.yahoo.com/bulldozed-ancient-assyrian-city-nimrud-iraq-govt-203312292.html ]]. AFP. Retrieved 5 March 2015.
+
+[[ ^24 ]]: Yacoub, Sameer N. (7 March 2015). [[ "IS destroying another ancient archaeological site in Iraq" | http://www.armytimes.com/story/military/2015/03/07/is-destroying-another-ancient-archaeological-site-in-iraq/24556625/ ]]. //Army Times//. United States. Associated Press. Retrieved 7 March 2015.
+
+[[ ^25 ]]: [[ "Islamic state 'demolish' ancient Hatra site in Iraq" | https://www.bbc.co.uk/news/world-middle-east-31779484 ]]. BBC. 29 September 2022. Retrieved 7 March 2015.
+
+[[ ^26 ]]: Vivian Salama (4 Apr 2015). [[ "Video: Islamic State group shot, hammered away Iraq's Hatra" | https://apnews.com/article/bcdd18ddfe5143f08e5e2335e19e5af9 ]]. Associated Press.
+
+[[ ^27 ]]: Yacoub, Sameer N.; Salam, Vivian (7 March 2015). [[ "IS destroying another ancient site in Iraq" | http://www.macon.com/2015/03/07/3624731/is-destroying-another-ancient.html ]]. //[[ The Telegraph | the-telegraph-macon ]]//. Macon, Georgia. Retrieved 8 March 2015.``\{{cite web}}``:  CS1 maint: deprecated archival service ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_deprecated_archival_service ]])
+
+[[ ^28 ]]: [[ "Iraqi forces retake damaged Hatra heritage site from IS" | http://www.dw.com/en/iraqi-forces-retake-damaged-hatra-heritage-site-from-is/a-38601736 ]]. //[[ Deutsche Welle ]]//. 26 April 2017. Retrieved 29 April 2017.
+
+[[ ^29 ]]: Hussain, Rikar (27 April 2017). [[ "Iraqi Militias Find Relics Destroyed by IS in Ancient Town" | https://www.voanews.com/a/iraqi-militias-find-relics-destroyed-ancient-town/3828751.html ]]. [[ Voice of America ]]. Retrieved 29 April 2017.
+
+[[ ^30 ]]: [[ "Hatra: IS damage to ancient Iraqi city less than feared" | https://www.bbc.co.uk/news/world-middle-east-39770395 ]]. [[ BBC News ]]. 1 May 2017. Retrieved 1 May 2017.

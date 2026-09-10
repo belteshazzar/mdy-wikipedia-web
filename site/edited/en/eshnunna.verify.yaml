@@ -1,0 +1,18 @@
+slug: eshnunna
+findings:
+  - kind: altered-value
+    quote: Bilalama attempted to maintain good relationships with Ilum-muttabil of
+      [[ Der | der-sumer ]] and Elam, although Der and Elam were at war.
+    why: The source spells this ruler "Ilum-muttabbil" at this point (and
+      "Ilum-mutabbil" in the following sentence, which the rewrite keeps); the
+      rewrite has invented a third spelling, "Ilum-muttabil".
+    severity: minor
+  - kind: unsupported
+    quote: His name is non-Semitic, and possibly Elamite.[[ ^14 ]]
+    why: The source says "The name of Kirikiri is non-Semitic, and possibly
+      Elamite", and places it after the Bilalama sentence. In the rewrite the
+      sentence follows "An alternative view is that Kirikiri was actually the
+      brother of Nur-ahum", so "His" reads most naturally as Nur-ahum, of
+      whose name the source says nothing.
+    severity: minor
+verdict: minor-only

@@ -1,0 +1,3051 @@
+about: Every ancient city the query can find, with the reason beside the ones cut.
+  Seeded by pipeline/seed.mjs from pipeline/select-cities.rq; the cuts are in
+  pipeline/cuts.mjs. Progress is NOT recorded here — whether a city is imported or
+  rewritten is derived from the disk by pipeline/queue.mjs. Edit `rejected` by hand to
+  overrule a cut; a re-seed keeps it.
+seeded: 2026-09-09
+counts:
+  returned: 395
+  candidates: 152
+  cut: 167
+  in the corpus: 24
+  waiting: 128
+  unsorted: 76
+  held against the cuts: 3
+held against the cuts:
+  - title: Alexandria
+    slug: alexandria
+    sitelinks: 176
+    founded: -330
+    at:
+      - 31.1975
+      - 29.8925
+    despite: still lived in — population 5,362,517, 21 twinned towns
+  - title: Tyre, Lebanon
+    slug: tyre-lebanon
+    sitelinks: 103
+    founded: -2749
+    at:
+      - 33.266666666
+      - 35.2
+    despite: still lived in — population 160,000, 7 twinned towns
+  - title: Carchemish
+    slug: carchemish
+    sitelinks: 44
+    founded: -1900
+    at:
+      - 36.829722222
+      - 38.015
+    despite: Wikidata says neither settlement nor monument
+rejected: []
+candidates:
+  - title: Alexandria
+    slug: alexandria
+    sitelinks: 176
+    founded: -330
+    at:
+      - 31.1975
+      - 29.8925
+  - title: Babylon
+    slug: babylon
+    sitelinks: 127
+    founded: -2200
+    at:
+      - 32.522907
+      - 44.42415
+  - title: Constantinople
+    slug: constantinople
+    sitelinks: 127
+    founded: 330
+    at:
+      - 41.01224
+      - 28.976018
+  - title: Pompeii
+    slug: pompeii
+    sitelinks: 122
+    founded: -600
+    at:
+      - 40.750556
+      - 14.489722
+  - title: Carthage
+    slug: carthage
+    sitelinks: 121
+    founded: -801
+    at:
+      - 36.847009
+      - 10.312944
+  - title: Petra
+    slug: petra
+    sitelinks: 117
+    founded: -799
+    at:
+      - 30.328888888
+      - 35.440277777
+  - title: Chichen Itza
+    slug: chichen-itza
+    sitelinks: 110
+    founded: 455
+    at:
+      - 20.683055555
+      - -88.568611111
+  - title: Sparta
+    slug: sparta
+    sitelinks: 108
+    founded: -900
+    at:
+      - 37.073678
+      - 22.430937
+  - title: Persepolis
+    slug: persepolis
+    sitelinks: 103
+    founded: -510
+    at:
+      - 29.935
+      - 52.89
+  - title: Tyre, Lebanon
+    slug: tyre-lebanon
+    sitelinks: 103
+    founded: -2749
+    at:
+      - 33.266666666
+      - 35.2
+  - title: Ur
+    slug: ur
+    sitelinks: 86
+    founded: -3799
+    at:
+      - 30.962222
+      - 46.104444
+  - title: Byblos
+    slug: byblos
+    sitelinks: 83
+    founded: -8000
+    at:
+      - 34.119501
+      - 35.646846
+  - title: Raqqa
+    slug: raqqa
+    sitelinks: 83
+    founded: 244
+    at:
+      - 35.95
+      - 39.01
+  - title: Thebes, Egypt
+    slug: thebes-egypt
+    sitelinks: 82
+    founded: -3199
+    at:
+      - 25.720555555
+      - 32.610277777
+  - title: Antioch
+    slug: antioch
+    sitelinks: 81
+    founded: -299
+    at:
+      - 36.2
+      - 36.15
+  - title: Khiva
+    slug: khiva
+    sitelinks: 81
+    founded: -501
+    at:
+      - 41.381388888
+      - 60.361111111
+  - title: Susa
+    slug: susa
+    sitelinks: 79
+    founded: -4394
+    at:
+      - 32.189444444
+      - 48.256111111
+  - title: Assur
+    slug: assur
+    sitelinks: 79
+    founded: -2499
+    at:
+      - 35.456666666
+      - 43.2625
+  - title: Shahrisabz
+    slug: shahrisabz
+    sitelinks: 79
+    founded: -700
+    at:
+      - 39.05
+      - 66.833333333
+  - title: Bagan
+    slug: bagan
+    sitelinks: 79
+    founded: 200
+    at:
+      - 21.1725
+      - 94.86
+  - title: Byzantium
+    slug: byzantium
+    sitelinks: 78
+    founded: -666
+    at:
+      - 41.013416666
+      - 28.983638888
+  - title: Uruk
+    slug: uruk
+    sitelinks: 75
+    founded: -3199
+    at:
+      - 31.3259
+      - 45.6374
+  - title: Ctesiphon
+    slug: ctesiphon
+    sitelinks: 75
+    founded: -120
+    at:
+      - 33.093611
+      - 44.580556
+  - title: Thebes, Greece
+    slug: thebes-greece
+    sitelinks: 74
+    founded: -2000
+    at:
+      - 38.320833333
+      - 23.317777777
+  - title: Cyrene, Libya
+    slug: cyrene-libya
+    sitelinks: 74
+    founded: -629
+    at:
+      - 32.816666666
+      - 21.85
+  - title: Miletus
+    slug: miletus
+    sitelinks: 72
+    founded: -1100
+    at:
+      - 37.530233
+      - 27.278369
+  - title: Pergamon
+    slug: pergamon
+    sitelinks: 72
+    founded: -800
+    at:
+      - 39.116667
+      - 27.183333
+  - title: Leptis Magna
+    slug: leptis-magna
+    sitelinks: 69
+    founded: -700
+    at:
+      - 32.636748
+      - 14.2922
+  - title: Termez
+    slug: termez
+    sitelinks: 68
+    founded: -497
+    at:
+      - 37.224166666
+      - 67.278333333
+  - title: Turkistan (city)
+    slug: turkistan-city
+    sitelinks: 68
+    founded: 401
+    at:
+      - 43.301944444
+      - 68.269166666
+  - title: Capernaum
+    slug: capernaum
+    sitelinks: 67
+    founded: -200
+    at:
+      - 32.881111111
+      - 35.575
+  - title: Ugarit
+    slug: ugarit
+    sitelinks: 66
+    founded: -6000
+    at:
+      - 35.601944
+      - 35.785556
+  - title: Bamyan
+    slug: bamyan
+    sitelinks: 66
+    founded: -2799
+    at:
+      - 34.816666666
+      - 67.816666666
+  - title: Meroë
+    slug: meroë
+    sitelinks: 66
+    founded: -2500
+    at:
+      - 16.935138888
+      - 33.75075
+  - title: Üsküdar
+    slug: üsküdar
+    sitelinks: 59
+    founded: -674
+    at:
+      - 41.01666667
+      - 29.01666667
+  - title: Kish (Sumer)
+    slug: kish-sumer
+    sitelinks: 58
+    founded: -3099
+    at:
+      - 32.540277777
+      - 44.604722222
+  - title: Mari, Syria
+    slug: mari-syria
+    sitelinks: 57
+    founded: -2900
+    at:
+      - 34.549444444
+      - 40.89
+  - title: Amarna
+    slug: amarna
+    sitelinks: 57
+    founded: -1352
+    at:
+      - 27.661666666
+      - 30.905555555
+  - title: Paestum
+    slug: paestum
+    sitelinks: 57
+    founded: -599
+    at:
+      - 40.42
+      - 15.005555555
+  - title: Ebla
+    slug: ebla
+    sitelinks: 56
+    founded: -2999
+    at:
+      - 35.798056
+      - 36.798611
+  - title: Ilorin
+    slug: ilorin
+    sitelinks: 54
+    founded: 18
+    at:
+      - 8.5
+      - 4.55
+  - title: Volubilis
+    slug: volubilis
+    sitelinks: 53
+    founded: -399
+    at:
+      - 34.071111111
+      - -5.553611111
+  - title: Halicarnassus
+    slug: halicarnassus
+    sitelinks: 52
+    founded: -1099
+    at:
+      - 37.035173
+      - 27.41724
+  - title: Ostia Antica
+    slug: ostia-antica
+    sitelinks: 50
+    founded: -700
+    at:
+      - 41.754166666
+      - 12.2875
+  - title: Lothal
+    slug: lothal
+    sitelinks: 49
+    founded: -2399
+    at:
+      - 22.521388888
+      - 72.249444444
+  - title: Dahshur
+    slug: dahshur
+    sitelinks: 48
+    founded: -2588
+    at:
+      - 29.8
+      - 31.233333333
+  - title: Dur-Sharrukin
+    slug: dur-sharrukin
+    sitelinks: 47
+    founded: -705
+    at:
+      - 36.50953
+      - 43.22931
+  - title: Pataliputra
+    slug: pataliputra
+    sitelinks: 47
+    founded: -489
+    at:
+      - 25.611
+      - 85.144
+  - title: Nicomedia
+    slug: nicomedia
+    sitelinks: 46
+    founded: -263
+    at:
+      - 40.7625
+      - 29.9175
+  - title: Chalcedon
+    slug: chalcedon
+    sitelinks: 44
+    founded: -679
+    at:
+      - 40.983393
+      - 29.025789
+  - title: Apollonia (Illyria)
+    slug: apollonia-illyria
+    sitelinks: 44
+    founded: -587
+    at:
+      - 40.716667
+      - 19.466667
+  - title: Kozan, Adana
+    slug: kozan-adana
+    sitelinks: 44
+    founded: -2999
+    at:
+      - 37.4507
+      - 35.812347222
+  - title: Carchemish
+    slug: carchemish
+    sitelinks: 44
+    founded: -1900
+    at:
+      - 36.829722222
+      - 38.015
+  - title: Julfa, Azerbaijan (city)
+    slug: julfa-azerbaijan-city
+    sitelinks: 43
+    founded: -501
+    at:
+      - 38.955833333
+      - 45.630833333
+  - title: Seleucia
+    slug: seleucia
+    sitelinks: 43
+    founded: -304
+    at:
+      - 33.1
+      - 44.52
+  - title: Edessa
+    slug: edessa
+    sitelinks: 43
+    founded: -301
+    at:
+      - 37.145655555
+      - 38.783961111
+  - title: Alba Longa
+    slug: alba-longa
+    sitelinks: 42
+    founded: -1200
+    at:
+      - 41.74691
+      - 12.65026
+  - title: Dura-Europos
+    slug: dura-europos
+    sitelinks: 42
+    founded: -299
+    at:
+      - 34.747
+      - 40.73
+  - title: Sicyon
+    slug: sicyon
+    sitelinks: 41
+    founded: -2000
+    at:
+      - 37.980475
+      - 22.722718
+  - title: Apamea, Syria
+    slug: apamea-syria
+    sitelinks: 41
+    founded: -299
+    at:
+      - 35.416666666
+      - 36.4
+  - title: Salamis, Cyprus
+    slug: salamis-cyprus
+    sitelinks: 41
+    founded: -1100
+    at:
+      - 35.175101
+      - 33.903589
+  - title: Ancient Corinth
+    slug: ancient-corinth
+    sitelinks: 41
+    founded: -899
+    at:
+      - 37.905785
+      - 22.878741
+  - title: Anshan (Persia)
+    slug: anshan-persia
+    sitelinks: 40
+    founded: -3999
+    at:
+      - 30.011666666
+      - 52.407777777
+  - title: Phaistos
+    slug: phaistos
+    sitelinks: 38
+    founded: -3000
+    at:
+      - 35.051267
+      - 24.810922
+  - title: Lafia
+    slug: lafia
+    sitelinks: 38
+    founded: 17
+    at:
+      - 8.5
+      - 8.516666666
+  - title: Ikeja
+    slug: ikeja
+    sitelinks: 38
+    founded: 15
+    at:
+      - 6.583333333
+      - 3.333333333
+  - title: Elis (city)
+    slug: elis-city
+    sitelinks: 37
+    founded: -1099
+    at:
+      - 37.891781
+      - 21.375091
+  - title: Tigranocerta
+    slug: tigranocerta
+    sitelinks: 37
+    founded: -77
+    at:
+      - 38.14222222
+      - 41.00138889
+  - title: Stagira (ancient city)
+    slug: stagira-ancient-city
+    sitelinks: 37
+    founded: -654
+    at:
+      - 40.59083333
+      - 23.79416667
+  - title: Priene
+    slug: priene
+    sitelinks: 36
+    founded: -999
+    at:
+      - 37.659722
+      - 27.297778
+  - title: Dvin (ancient city)
+    slug: dvin-ancient-city
+    sitelinks: 36
+    founded: 335
+    at:
+      - 40.004444444
+      - 44.578333333
+  - title: Pi-Ramesses
+    slug: pi-ramesses
+    sitelinks: 36
+    founded: -1277
+    at:
+      - 30.79937
+      - 31.834217
+  - title: Sybaris
+    slug: sybaris
+    sitelinks: 35
+    founded: -719
+    at:
+      - 39.716564
+      - 16.493696
+  - title: Perga
+    slug: perga
+    sitelinks: 35
+    founded: -999
+    at:
+      - 36.960353
+      - 30.853686
+  - title: Knidos
+    slug: knidos
+    sitelinks: 33
+    founded: -1099
+    at:
+      - 36.690171
+      - 27.371637
+  - title: Nicopolis
+    slug: nicopolis
+    sitelinks: 33
+    founded: -28
+    at:
+      - 39.008011
+      - 20.736054
+  - title: Salamiyah
+    slug: salamiyah
+    sitelinks: 32
+    founded: -3499
+    at:
+      - 35.011111111
+      - 37.053055555
+  - title: Patara (Lycia)
+    slug: patara-lycia
+    sitelinks: 31
+    founded: -800
+    at:
+      - 36.260565
+      - 29.313364
+  - title: Heraclea Pontica
+    slug: heraclea-pontica
+    sitelinks: 31
+    founded: -557
+    at:
+      - 41.284722
+      - 31.414722
+  - title: Bibracte
+    slug: bibracte
+    sitelinks: 30
+    founded: -200
+    at:
+      - 46.9244
+      - 4.035
+  - title: Colophon (city)
+    slug: colophon-city
+    sitelinks: 30
+    founded: -1100
+    at:
+      - 38.11555556
+      - 27.14222222
+  - title: Gundeshapur
+    slug: gundeshapur
+    sitelinks: 29
+    founded: 271
+    at:
+      - 32.283333333
+      - 48.516666666
+  - title: Uplistsikhe
+    slug: uplistsikhe
+    sitelinks: 29
+    founded: -2000
+    at:
+      - 41.966664
+      - 44.207505
+  - title: Kamarina, Sicily
+    slug: kamarina-sicily
+    sitelinks: 28
+    founded: -598
+    at:
+      - 36.872063
+      - 14.447679
+  - title: Pantikapaion
+    slug: pantikapaion
+    sitelinks: 28
+    founded: -600
+    at:
+      - 45.338611
+      - 36.468056
+  - title: Pontic Olbia
+    slug: pontic-olbia
+    sitelinks: 28
+    founded: -700
+    at:
+      - 46.691895
+      - 31.901597
+  - title: Bareq
+    slug: bareq
+    sitelinks: 28
+    founded: -1999
+    at:
+      - 18.9322222
+      - 41.9438889
+  - title: Abdera, Thrace
+    slug: abdera-thrace
+    sitelinks: 27
+    founded: -700
+    at:
+      - 40.933714
+      - 24.973299
+  - title: Phaselis
+    slug: phaselis
+    sitelinks: 26
+    founded: -699
+    at:
+      - 36.522806
+      - 30.549049
+  - title: Messene
+    slug: messene
+    sitelinks: 25
+    founded: -370
+    at:
+      - 37.05
+      - 22
+  - title: Chiplun
+    slug: chiplun
+    sitelinks: 25
+    founded: -3999
+    at:
+      - 17.53
+      - 73.52
+  - title: Demetrias
+    slug: demetrias
+    sitelinks: 25
+    founded: -293
+    at:
+      - 39.34347
+      - 22.92415
+  - title: Zeugma (Commagene)
+    slug: zeugma-commagene
+    sitelinks: 24
+    founded: -300
+    at:
+      - 37.05861111
+      - 37.86583333
+  - title: Adulis
+    slug: adulis
+    sitelinks: 24
+    founded: -1449
+    at:
+      - 15.263611111
+      - 39.660555555
+  - title: Pithom
+    slug: pithom
+    sitelinks: 23
+    founded: -1277
+    at:
+      - 30.551944444
+      - 32.098611111
+  - title: Merimde culture
+    slug: merimde-culture
+    sitelinks: 23
+    founded: -4800
+    at:
+      - 30.320833333
+      - 30.848888888
+  - title: Singidunum
+    slug: singidunum
+    sitelinks: 23
+    founded: -6000
+    at:
+      - 44.82
+      - 20.46
+  - title: Tyras
+    slug: tyras
+    sitelinks: 23
+    founded: -599
+    at:
+      - 46.200948
+      - 30.350539
+  - title: Boukephala and Nikaia
+    slug: boukephala-and-nikaia
+    sitelinks: 22
+    founded: -325
+    at:
+      - 32.931111111
+      - 73.730833333
+  - title: Hacilar
+    slug: hacilar
+    sitelinks: 22
+    founded: -7040
+    at:
+      - 37.5843
+      - 30.0845
+  - title: Nuri
+    slug: nuri
+    sitelinks: 22
+    founded: -663
+    at:
+      - 18.5667
+      - 31.9167
+  - title: Tipasa
+    slug: tipasa
+    sitelinks: 22
+    founded: -600
+    at:
+      - 36.5951
+      - 2.44077
+  - title: Der (Sumer)
+    slug: der-sumer
+    sitelinks: 21
+    founded: -4000
+    at:
+      - 33.123611111
+      - 45.931388888
+  - title: Scythian Neapolis
+    slug: scythian-neapolis
+    sitelinks: 21
+    founded: -200
+    at:
+      - 44.94278
+      - 34.12056
+  - title: Ulpia Traiana Sarmizegetusa
+    slug: ulpia-traiana-sarmizegetusa
+    sitelinks: 20
+    founded: 1
+    at:
+      - 45.5158
+      - 22.7881
+  - title: Idalion
+    slug: idalion
+    sitelinks: 20
+    founded: -1200
+    at:
+      - 35.019966
+      - 33.412994
+  - title: Nokalakevi
+    slug: nokalakevi
+    sitelinks: 20
+    founded: -1000
+    at:
+      - 42.35722222
+      - 42.19388889
+  - title: Samʾal
+    slug: samʾal
+    sitelinks: 19
+    founded: -2999
+    at:
+      - 37.103611111
+      - 36.678611111
+  - title: Tarḫuntašša
+    slug: tarḫuntašša
+    sitelinks: 19
+    founded: -1294
+    at:
+      - 36.86666667
+      - 33.16666667
+  - title: Heraclea (Lucania)
+    slug: heraclea-lucania
+    sitelinks: 18
+    founded: -431
+    at:
+      - 40.2195
+      - 16.6704
+  - title: Barca (ancient city)
+    slug: barca-ancient-city
+    sitelinks: 18
+    founded: -539
+    at:
+      - 32.4945
+      - 20.8745
+  - title: Solnitsata
+    slug: solnitsata
+    sitelinks: 17
+    founded: -4700
+    at:
+      - 43.128417
+      - 27.472528
+  - title: Nymphaion (Crimea)
+    slug: nymphaion-crimea
+    sitelinks: 16
+    founded: -559
+    at:
+      - 45.2366
+      - 36.4175
+  - title: Halabiye
+    slug: halabiye
+    sitelinks: 16
+    founded: 300
+    at:
+      - 35.689444
+      - 39.8225
+  - title: Gadara
+    slug: gadara
+    sitelinks: 16
+    founded: -300
+    at:
+      - 32.655548
+      - 35.677841
+  - title: Philadelphia (Faiyum)
+    slug: philadelphia-faiyum
+    sitelinks: 15
+    founded: -258
+    at:
+      - 29.450555555
+      - 31.084166666
+  - title: Heraclea Sintica
+    slug: heraclea-sintica
+    sitelinks: 15
+    founded: -355
+    at:
+      - 41.433395
+      - 23.250111
+  - title: Eryx (city)
+    slug: eryx-city
+    sitelinks: 15
+    founded: -1
+    at:
+      - 38.040655
+      - 12.588112
+  - title: Nekresi
+    slug: nekresi
+    sitelinks: 14
+    founded: -200
+    at:
+      - 41.972162
+      - 45.767702
+  - title: Abu Salabikh
+    slug: abu-salabikh
+    sitelinks: 14
+    founded: -3399
+    at:
+      - 32.266667
+      - 45.083333
+  - title: Aeclanum
+    slug: aeclanum
+    sitelinks: 14
+    founded: -299
+    at:
+      - 41.054035
+      - 15.010536
+  - title: Iulia Valentia Banasa
+    slug: iulia-valentia-banasa
+    sitelinks: 14
+    founded: -399
+    at:
+      - 34.601667
+      - -6.115556
+  - title: Sinuessa
+    slug: sinuessa
+    sitelinks: 14
+    founded: -295
+    at:
+      - 41.153941536
+      - 13.847624066
+  - title: Aegae (Macedonia)
+    slug: aegae-macedonia
+    sitelinks: 14
+    founded: -749
+    at:
+      - 40.4779658
+      - 22.3227596
+  - title: Fenghao
+    slug: fenghao
+    sitelinks: 13
+    founded: -1050
+    at:
+      - 34.21
+      - 108.72
+  - title: Mesembria
+    slug: mesembria
+    sitelinks: 13
+    founded: -600
+    at:
+      - 42.660417
+      - 27.7181
+  - title: Samshvilde
+    slug: samshvilde
+    sitelinks: 13
+    founded: -300
+    at:
+      - 41.507222222
+      - 44.505555555
+  - title: Aşıklı Höyük
+    slug: aşıklı-höyük
+    sitelinks: 12
+    founded: -8200
+    at:
+      - 38.349
+      - 34.23
+  - title: Lapathus (Cyprus)
+    slug: lapathus-cyprus
+    sitelinks: 12
+    founded: -1000
+    at:
+      - 35.350592
+      - 33.202109
+  - title: Eleutheropolis
+    slug: eleutheropolis
+    sitelinks: 12
+    founded: -1000
+    at:
+      - 31.60673
+      - 34.89626
+  - title: Carthago Nova
+    slug: carthago-nova
+    sitelinks: 12
+    founded: -226
+    at:
+      - 37.6
+      - -0.983333
+  - title: Therma
+    slug: therma
+    sitelinks: 11
+    founded: -650
+    at:
+      - 40.55
+      - 23.016611111
+  - title: Jisk'a Iru Muqu
+    slug: jiska-iru-muqu
+    sitelinks: 11
+    founded: -2999
+    at:
+      - -16.21111111
+      - -69.76388889
+  - title: Myrmēkion
+    slug: myrmēkion
+    sitelinks: 11
+    founded: -600
+    at:
+      - 45.352754
+      - 36.522064
+  - title: Terina (ancient city)
+    slug: terina-ancient-city
+    sitelinks: 11
+    founded: -469
+    at:
+      - 38.9394
+      - 16.2339
+  - title: Acaray
+    slug: acaray
+    sitelinks: 11
+    founded: -199
+    at:
+      - -11.066667
+      - -77.55
+  - title: Epidaurum
+    slug: epidaurum
+    sitelinks: 11
+    founded: -499
+    at:
+      - 42.5822
+      - 18.21753
+  - title: Venta Silurum
+    slug: venta-silurum
+    sitelinks: 11
+    founded: 350
+    at:
+      - 51.611126
+      - -2.7686533
+  - title: Carteia
+    slug: carteia
+    sitelinks: 10
+    founded: -939
+    at:
+      - 36.185556
+      - -5.412222
+  - title: Ba'ja
+    slug: baja
+    sitelinks: 10
+    founded: -7400
+    at:
+      - 30.41361111
+      - 35.46138889
+  - title: Doriscus
+    slug: doriscus
+    sitelinks: 10
+    founded: -600
+    at:
+      - 40.86694444
+      - 26.11805556
+  - title: Cures, Sabinum
+    slug: cures-sabinum
+    sitelinks: 10
+    founded: -900
+    at:
+      - 42.182513
+      - 12.686649
+  - title: Jabal es Saaïdé
+    slug: jabal-es-saaïdé
+    sitelinks: 10
+    founded: -9999
+    at:
+      - 34.0344
+      - 36.0578
+  - title: Tyritakē
+    slug: tyritakē
+    sitelinks: 10
+    founded: -600
+    at:
+      - 45.3508
+      - 36.4686
+  - title: Abarsal
+    slug: abarsal
+    sitelinks: 10
+    founded: -2419
+    at:
+      - 36.113054
+      - 38.000883
+  - title: Antissa
+    slug: antissa
+    sitelinks: 10
+    founded: -800
+    at:
+      - 39.286664
+      - 26.017917
+  - title: Charax, Crimea
+    slug: charax-crimea
+    sitelinks: 9
+    founded: 100
+    at:
+      - 44.428336
+      - 34.121658
+  - title: Aetna (city)
+    slug: aetna-city
+    sitelinks: 9
+    founded: -475
+    at:
+      - 37.61667
+      - 14.9
+  - title: Akragas (metropolis)
+    slug: akragas-metropolis
+    sitelinks: 9
+    founded: -580
+    at:
+      - 37.292327369
+      - 13.593570883
+  - title: Ancient Syracuse
+    slug: ancient-syracuse
+    sitelinks: 9
+    founded: -734
+    at:
+      - 37.083333
+      - 15.283333
+  - title: Carystus
+    slug: carystus
+    sitelinks: 9
+    founded: -900
+    at:
+      - 38.0165
+      - 24.4204
+  - title: Thermos (Aetolia)
+    slug: thermos-aetolia
+    sitelinks: 9
+    founded: -1499
+    at:
+      - 38.559853
+      - 21.668664
+unsorted:
+  - title: Roman Forum
+    slug: roman-forum
+    sitelinks: 72
+    founded: -800
+    at:
+      - 41.8922
+      - 12.4852
+    why: Wikidata says neither settlement nor monument
+  - title: Platonic Academy
+    slug: platonic-academy
+    sitelinks: 68
+    founded: -386
+    at:
+      - 37.992359
+      - 23.708059
+    why: Wikidata says neither settlement nor monument
+  - title: Mehrgarh
+    slug: mehrgarh
+    sitelinks: 55
+    founded: -6999
+    at:
+      - 29.2125
+      - 67.670833
+    why: Wikidata says neither settlement nor monument
+  - title: Circus Maximus
+    slug: circus-maximus
+    sitelinks: 52
+    founded: -550
+    at:
+      - 41.8859
+      - 12.4857
+    why: Wikidata says neither settlement nor monument
+  - title: Qumran
+    slug: qumran
+    sitelinks: 51
+    founded: -103
+    at:
+      - 31.741900825
+      - 35.459944301
+    why: Wikidata says neither settlement nor monument
+  - title: Khirokitia
+    slug: khirokitia
+    sitelinks: 49
+    founded: -7000
+    at:
+      - 34.796725
+      - 33.343719444
+    why: Wikidata says neither settlement nor monument
+  - title: Skara Brae
+    slug: skara-brae
+    sitelinks: 49
+    founded: -3179
+    at:
+      - 59.0487138
+      - -3.3417499
+    why: Wikidata says neither settlement nor monument
+  - title: Brú na Bóinne
+    slug: brú-na-bóinne
+    sitelinks: 44
+    founded: -3499
+    at:
+      - 53.69284
+      - -6.44932
+    why: Wikidata says neither settlement nor monument
+  - title: Lyceum (classical)
+    slug: lyceum-classical
+    sitelinks: 43
+    founded: -334
+    at:
+      - 37.97402
+      - 23.74334
+    why: Wikidata says neither settlement nor monument
+  - title: Erebuni Fortress
+    slug: erebuni-fortress
+    sitelinks: 41
+    founded: -781
+    at:
+      - 40.140647
+      - 44.537949
+    why: Wikidata says neither settlement nor monument
+  - title: Jarmo
+    slug: jarmo
+    sitelinks: 38
+    founded: -7090
+    at:
+      - 35.555797222
+      - 44.930291666
+    why: Wikidata says neither settlement nor monument
+  - title: Acrocorinth
+    slug: acrocorinth
+    sitelinks: 37
+    founded: -700
+    at:
+      - 37.89142
+      - 22.870921
+    why: Wikidata says neither settlement nor monument
+  - title: Italica
+    slug: italica
+    sitelinks: 36
+    founded: -205
+    at:
+      - 37.44119
+      - -6.0445003
+    why: Wikidata says neither settlement nor monument
+  - title: Mangup
+    slug: mangup
+    sitelinks: 36
+    founded: 300
+    at:
+      - 44.593055555
+      - 33.801388888
+    why: Wikidata says neither settlement nor monument
+  - title: Phanagoria
+    slug: phanagoria
+    sitelinks: 36
+    founded: -542
+    at:
+      - 45.189
+      - 36.825
+    why: Wikidata says neither settlement nor monument
+  - title: Tanais
+    slug: tanais
+    sitelinks: 35
+    founded: -300
+    at:
+      - 47.270556
+      - 39.341389
+    why: Wikidata says neither settlement nor monument
+  - title: Songo Mnara
+    slug: songo-mnara
+    sitelinks: 35
+    founded: 14
+    at:
+      - -9.039422777
+      - 39.551702222
+    why: Wikidata says neither settlement nor monument
+  - title: Tabularium
+    slug: tabularium
+    sitelinks: 34
+    founded: -77
+    at:
+      - 41.892777777
+      - 12.483611111
+    why: Wikidata says neither settlement nor monument
+  - title: Utica, Tunisia
+    slug: utica-tunisia
+    sitelinks: 33
+    founded: -1101
+    at:
+      - 37.054967
+      - 10.061128
+    why: Wikidata says neither settlement nor monument
+  - title: Odeon of Herodes Atticus
+    slug: odeon-of-herodes-atticus
+    sitelinks: 33
+    founded: 161
+    at:
+      - 37.970843
+      - 23.724524
+    why: Wikidata says neither settlement nor monument
+  - title: Forum of Caesar
+    slug: forum-of-caesar
+    sitelinks: 31
+    founded: -45
+    at:
+      - 41.894008
+      - 12.484936
+    why: Wikidata says neither settlement nor monument
+  - title: Herodium
+    slug: herodium
+    sitelinks: 31
+    founded: -14
+    at:
+      - 31.66583
+      - 35.24139
+    why: Wikidata says neither settlement nor monument
+  - title: Trajan's Market
+    slug: trajans-market
+    sitelinks: 29
+    founded: 113
+    at:
+      - 41.895611
+      - 12.486194
+    why: Wikidata says neither settlement nor monument
+  - title: Lepenski Vir
+    slug: lepenski-vir
+    sitelinks: 29
+    founded: -7500
+    at:
+      - 44.561111111
+      - 22.024166666
+    why: Wikidata says neither settlement nor monument
+  - title: Chanquillo
+    slug: chanquillo
+    sitelinks: 28
+    founded: -299
+    at:
+      - -9.55666667
+      - -78.23583333
+    why: Wikidata says neither settlement nor monument
+  - title: Porticus Octaviae
+    slug: porticus-octaviae
+    sitelinks: 27
+    founded: -26
+    at:
+      - 41.892436
+      - 12.478533
+    why: Wikidata says neither settlement nor monument
+  - title: Bishapur
+    slug: bishapur
+    sitelinks: 26
+    founded: 226
+    at:
+      - 29.777778
+      - 51.570833
+    why: Wikidata says neither settlement nor monument
+  - title: Yazılıkaya
+    slug: yazılıkaya
+    sitelinks: 26
+    founded: -1300
+    at:
+      - 40.025
+      - 34.63278
+    why: Wikidata says neither settlement nor monument
+  - title: Sesklo
+    slug: sesklo
+    sitelinks: 26
+    founded: -7000
+    at:
+      - 39.3556929
+      - 22.841248
+    why: Wikidata says neither settlement nor monument
+  - title: Ayn Ghazal (archaeological site)
+    slug: ayn-ghazal-archaeological-site
+    sitelinks: 25
+    founded: -7300
+    at:
+      - 31.988
+      - 35.976
+    why: Wikidata says neither settlement nor monument
+  - title: Limes Germanicus
+    slug: limes-germanicus
+    sitelinks: 25
+    founded: 9
+    at:
+      - 49.5
+      - 9.5
+    why: Wikidata says neither settlement nor monument
+  - title: Acra (fortress)
+    slug: acra-fortress
+    sitelinks: 25
+    founded: -200
+    at:
+      - 31.772616
+      - 35.235944
+    why: Wikidata says neither settlement nor monument
+  - title: Machaerus
+    slug: machaerus
+    sitelinks: 25
+    founded: -89
+    at:
+      - 31.56694
+      - 35.63361
+    why: Wikidata says neither settlement nor monument
+  - title: Ranikot Fort
+    slug: ranikot-fort
+    sitelinks: 25
+    founded: -449
+    at:
+      - 25.88305556
+      - 67.93222222
+    why: Wikidata says neither settlement nor monument
+  - title: Nevalı Çori
+    slug: nevalı-çori
+    sitelinks: 24
+    founded: -8400
+    at:
+      - 37.518333333
+      - 38.605555555
+    why: Wikidata says neither settlement nor monument
+  - title: Maiden Castle, Dorset
+    slug: maiden-castle-dorset
+    sitelinks: 23
+    founded: -599
+    at:
+      - 50.695
+      - -2.47
+    why: Wikidata says neither settlement nor monument
+  - title: Gardens of Sallust
+    slug: gardens-of-sallust
+    sitelinks: 23
+    founded: -49
+    at:
+      - 41.908083333
+      - 12.496916666
+    why: Wikidata says neither settlement nor monument
+  - title: Augusta Emerita
+    slug: augusta-emerita
+    sitelinks: 23
+    founded: -24
+    at:
+      - 38.91667
+      - -6.33333
+    why: Wikidata says neither settlement nor monument
+  - title: Kerma culture
+    slug: kerma-culture
+    sitelinks: 22
+    founded: -3499
+    at:
+      - 19.600802
+      - 30.409731
+    why: Wikidata says neither settlement nor monument
+  - title: Franchthi Cave
+    slug: franchthi-cave
+    sitelinks: 21
+    founded: -3800
+    at:
+      - 37.422413
+      - 23.131286
+    why: Wikidata says neither settlement nor monument
+  - title: Propylaea (Acropolis of Athens)
+    slug: propylaea-acropolis-of-athens
+    sitelinks: 21
+    founded: -436
+    at:
+      - 37.971694444
+      - 23.725111111
+    why: Wikidata says neither settlement nor monument
+  - title: Tower of Jericho
+    slug: tower-of-jericho
+    sitelinks: 21
+    founded: -8000
+    at:
+      - 31.8708
+      - 35.4439
+    why: Wikidata says neither settlement nor monument
+  - title: Saepta Julia
+    slug: saepta-julia
+    sitelinks: 20
+    founded: -25
+    at:
+      - 41.8983
+      - 12.478
+    why: Wikidata says neither settlement nor monument
+  - title: Circus Flaminius
+    slug: circus-flaminius
+    sitelinks: 20
+    founded: -220
+    at:
+      - 41.8927578
+      - 12.4774218
+    why: Wikidata says neither settlement nor monument
+  - title: Brauroneion
+    slug: brauroneion
+    sitelinks: 19
+    founded: -429
+    at:
+      - 37.97147
+      - 23.72538
+    why: Wikidata says neither settlement nor monument
+  - title: Jiahu
+    slug: jiahu
+    sitelinks: 19
+    founded: -7000
+    at:
+      - 33.614398
+      - 113.661403
+    why: Wikidata says neither settlement nor monument
+  - title: Giants of Mont'e Prama
+    slug: giants-of-monte-prama
+    sitelinks: 19
+    founded: -1000
+    at:
+      - 39.965778
+      - 8.448278
+    why: Wikidata says neither settlement nor monument
+  - title: Ganj Dareh
+    slug: ganj-dareh
+    sitelinks: 19
+    founded: -7500
+    at:
+      - 34.2721
+      - 47.4758
+    why: Wikidata says neither settlement nor monument
+  - title: Portus
+    slug: portus
+    sitelinks: 17
+    founded: 46
+    at:
+      - 41.77916667
+      - 12.26666667
+    why: Wikidata says neither settlement nor monument
+  - title: Kalambo structure
+    slug: kalambo-structure
+    sitelinks: 17
+    founded: -4760
+    at:
+      - -8.59638889
+      - 31.24027778
+    why: Wikidata says neither settlement nor monument
+  - title: Domus Augustana
+    slug: domus-augustana
+    sitelinks: 16
+    founded: 92
+    at:
+      - 41.8877
+      - 12.4866
+    why: Wikidata says neither settlement nor monument
+  - title: Alba Fucens
+    slug: alba-fucens
+    sitelinks: 16
+    founded: -303
+    at:
+      - 42.079059725
+      - 13.411468116
+    why: Wikidata says neither settlement nor monument
+  - title: Knap of Howar
+    slug: knap-of-howar
+    sitelinks: 16
+    founded: -3699
+    at:
+      - 59.3493
+      - -2.91085
+    why: Wikidata says neither settlement nor monument
+  - title: Ain Dara (archaeological site)
+    slug: ain-dara-archaeological-site
+    sitelinks: 16
+    founded: -1299
+    at:
+      - 36.459361
+      - 36.852083
+    why: Wikidata says neither settlement nor monument
+  - title: Sweet Track
+    slug: sweet-track
+    sitelinks: 16
+    founded: -3806
+    at:
+      - 51.1642
+      - -2.82639
+    why: Wikidata says neither settlement nor monument
+  - title: Castro of San Cibrao de Las
+    slug: castro-of-san-cibrao-de-las
+    sitelinks: 16
+    founded: -200
+    at:
+      - 42.36
+      - -8.03194
+    why: Wikidata says neither settlement nor monument
+  - title: Yoshinogari site
+    slug: yoshinogari-site
+    sitelinks: 15
+    founded: -400
+    at:
+      - 33.325
+      - 130.384
+    why: Wikidata says neither settlement nor monument
+  - title: Chagar Bazar
+    slug: chagar-bazar
+    sitelinks: 15
+    founded: -5999
+    at:
+      - 36.874497
+      - 40.89817
+    why: Wikidata says neither settlement nor monument
+  - title: Mamre
+    slug: mamre
+    sitelinks: 14
+    founded: -2600
+    at:
+      - 31.556536
+      - 35.105336
+    why: Wikidata says neither settlement nor monument
+  - title: Villa Poppaea
+    slug: villa-poppaea
+    sitelinks: 13
+    founded: -49
+    at:
+      - 40.75722222
+      - 14.4525
+    why: Wikidata says neither settlement nor monument
+  - title: Gardens of Lucullus
+    slug: gardens-of-lucullus
+    sitelinks: 13
+    founded: -59
+    at:
+      - 41.9065
+      - 12.4834
+    why: Wikidata says neither settlement nor monument
+  - title: Spirit Cave (Thailand)
+    slug: spirit-cave-thailand
+    sitelinks: 12
+    founded: -9000
+    at:
+      - 19.567805555
+      - 98.281083333
+    why: Wikidata says neither settlement nor monument
+  - title: Derby Racecourse Roman settlement
+    slug: derby-racecourse-roman-settlement
+    sitelinks: 12
+    founded: 120
+    at:
+      - 52.9347
+      - -1.46355
+    why: Wikidata says neither settlement nor monument
+  - title: Bab edh-Dhra
+    slug: bab-edh-dhra
+    sitelinks: 12
+    founded: -3499
+    at:
+      - 31.253927777
+      - 35.534183333
+    why: Wikidata says neither settlement nor monument
+  - title: Citânia de Briteiros
+    slug: citânia-de-briteiros
+    sitelinks: 12
+    founded: -1
+    at:
+      - 41.5275
+      - -8.31583333
+    why: Wikidata says neither settlement nor monument
+  - title: Amsa-dong
+    slug: amsa-dong
+    sitelinks: 12
+    founded: -5000
+    at:
+      - 37.560494
+      - 127.130214
+    why: Wikidata says neither settlement nor monument
+  - title: Tell Qaramel
+    slug: tell-qaramel
+    sitelinks: 12
+    founded: -1090
+    at:
+      - 36.378
+      - 37.275
+    why: Wikidata says neither settlement nor monument
+  - title: Qalatga Darband
+    slug: qalatga-darband
+    sitelinks: 12
+    founded: -330
+    at:
+      - 36.2135
+      - 44.9773
+    why: Wikidata says neither settlement nor monument
+  - title: Tell Sabi Abyad
+    slug: tell-sabi-abyad
+    sitelinks: 11
+    founded: -7550
+    at:
+      - 36.504
+      - 39.093
+    why: Wikidata says neither settlement nor monument
+  - title: Nanzhuangtou
+    slug: nanzhuangtou
+    sitelinks: 11
+    founded: -1260
+    at:
+      - 39.126648
+      - 115.662248
+    why: Wikidata says neither settlement nor monument
+  - title: Basta (archaeological site)
+    slug: basta-archaeological-site
+    sitelinks: 11
+    founded: -7000
+    at:
+      - 30.23333333
+      - 35.53333333
+    why: Wikidata says neither settlement nor monument
+  - title: Tell Arbid
+    slug: tell-arbid
+    sitelinks: 10
+    founded: -2749
+    at:
+      - 36.8725
+      - 41.021944444
+    why: Wikidata says neither settlement nor monument
+  - title: Library of Pantainos
+    slug: library-of-pantainos
+    sitelinks: 10
+    founded: 100
+    at:
+      - 37.97444444
+      - 23.72472222
+    why: Wikidata says neither settlement nor monument
+  - title: Shengavit (site)
+    slug: shengavit-site
+    sitelinks: 10
+    founded: -2999
+    at:
+      - 40.15694444
+      - 44.47694444
+    why: Wikidata says neither settlement nor monument
+  - title: Palaestra at Olympia
+    slug: palaestra-at-olympia
+    sitelinks: 9
+    founded: -300
+    at:
+      - 37.6385
+      - 21.6286
+    why: Wikidata says neither settlement nor monument
+  - title: Setifis
+    slug: setifis
+    sitelinks: 9
+    founded: 97
+    at:
+      - 36.183333
+      - 5.4
+    why: Wikidata says neither settlement nor monument
+cut:
+  - title: London
+    slug: london
+    sitelinks: 356
+    founded: 47
+    at:
+      - 51.507222222
+      - -0.1275
+    why: still governed — it has a head of government
+  - title: Jerusalem
+    slug: jerusalem
+    sitelinks: 298
+    founded: -4000
+    at:
+      - 31.776679
+      - 35.234156
+    why: still governed — it has a head of government
+  - title: Edirne
+    slug: edirne
+    sitelinks: 284
+    founded: 125
+    at:
+      - 41.67304
+      - 26.57361
+    why: still lived in — population 180,327, 5 twinned towns
+  - title: Venice
+    slug: venice
+    sitelinks: 230
+    founded: 421
+    at:
+      - 45.439722222
+      - 12.331944444
+    why: still governed — it has a head of government
+  - title: Tbilisi
+    slug: tbilisi
+    sitelinks: 227
+    founded: 455
+    at:
+      - 41.7225
+      - 44.7925
+    why: still governed — it has a head of government
+  - title: Milan
+    slug: milan
+    sitelinks: 226
+    founded: -599
+    at:
+      - 45.466944444
+      - 9.19
+    why: still governed — it has a head of government
+  - title: Tripoli, Libya
+    slug: tripoli-libya
+    sitelinks: 187
+    founded: -601
+    at:
+      - 32.8875
+      - 13.1875
+    why: still lived in — population 1,293,016, 10 twinned towns
+  - title: Málaga
+    slug: málaga
+    sitelinks: 148
+    founded: -800
+    at:
+      - 36.716666666
+      - -4.416666666
+    why: still governed — it has a head of government
+  - title: Aleppo
+    slug: aleppo
+    sitelinks: 148
+    founded: -5000
+    at:
+      - 36.2
+      - 37.16
+    why: still lived in — population 2,003,671, 4 twinned towns
+  - title: Colosseum
+    slug: colosseum
+    sitelinks: 147
+    founded: 82
+    at:
+      - 41.890277777
+      - 12.492222222
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Cambridge
+    slug: cambridge
+    sitelinks: 146
+    founded: 1
+    at:
+      - 52.208055555
+      - 0.1225
+    why: still lived in — population 123,867, 3 twinned towns
+  - title: City of San Marino
+    slug: city-of-san-marino
+    sitelinks: 143
+    founded: 301
+    at:
+      - 43.932011111
+      - 12.44845
+    why: still governed — it has a head of government
+  - title: Verona
+    slug: verona
+    sitelinks: 142
+    founded: -549
+    at:
+      - 45.438611111
+      - 10.992777777
+    why: still governed — it has a head of government
+  - title: Nanjing
+    slug: nanjing
+    sitelinks: 142
+    founded: -494
+    at:
+      - 32.060833333
+      - 118.778888888
+    why: still governed — it has a head of government
+  - title: Messina
+    slug: messina
+    sitelinks: 140
+    founded: -800
+    at:
+      - 38.193611111
+      - 15.554166666
+    why: still lived in — population 218,786, 1 twinned town
+  - title: Antalya
+    slug: antalya
+    sitelinks: 136
+    founded: -149
+    at:
+      - 36.90812
+      - 30.69556
+    why: still governed — it has a head of government
+  - title: Stonehenge
+    slug: stonehenge
+    sitelinks: 135
+    founded: -3000
+    at:
+      - 51.178888888
+      - -1.826111111
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Bursa
+    slug: bursa
+    sitelinks: 135
+    founded: 202
+    at:
+      - 40.191330555
+      - 29.080538888
+    why: still lived in — population 2,901,396, 33 twinned towns
+  - title: Nazareth
+    slug: nazareth
+    sitelinks: 134
+    founded: -2199
+    at:
+      - 32.702102777
+      - 35.29785
+    why: still lived in — population 83,400, 8 twinned towns
+  - title: Chengdu
+    slug: chengdu
+    sitelinks: 133
+    founded: -310
+    at:
+      - 30.66
+      - 104.063333333
+    why: still lived in — population 20,937,757, 43 twinned towns
+  - title: Trier
+    slug: trier
+    sitelinks: 129
+    founded: -15
+    at:
+      - 49.75565
+      - 6.63935
+    why: still governed — it has a head of government
+  - title: York
+    slug: york
+    sitelinks: 129
+    founded: 71
+    at:
+      - 53.95
+      - -1.083333333
+    why: still lived in — population 208,400, 3 twinned towns
+  - title: Adana
+    slug: adana
+    sitelinks: 128
+    founded: -6000
+    at:
+      - 36.9863599
+      - 35.3252861
+    why: still lived in — population 1,765,981, 10 twinned towns
+  - title: Gaza City
+    slug: gaza-city
+    sitelinks: 128
+    founded: -1500
+    at:
+      - 31.5075
+      - 34.459722222
+    why: still governed — it has a head of government
+  - title: Great Pyramid of Giza
+    slug: great-pyramid-of-giza
+    sitelinks: 126
+    founded: -2559
+    at:
+      - 29.97915
+      - 31.13422
+    why: a monument, not a city
+  - title: Tangier
+    slug: tangier
+    sitelinks: 125
+    founded: -401
+    at:
+      - 35.7696302
+      - -5.8033522
+    why: still governed — it has a head of government
+  - title: Taranto
+    slug: taranto
+    sitelinks: 125
+    founded: -705
+    at:
+      - 40.471111111
+      - 17.243055555
+    why: still lived in — population 188,098, 6 twinned towns
+  - title: Ancona
+    slug: ancona
+    sitelinks: 122
+    founded: -386
+    at:
+      - 43.616666666
+      - 13.516666666
+    why: still governed — it has a head of government
+  - title: Syracuse, Sicily
+    slug: syracuse-sicily
+    sitelinks: 120
+    founded: -732
+    at:
+      - 37.069166666
+      - 15.2875
+    why: still governed — it has a head of government
+  - title: Newcastle upon Tyne
+    slug: newcastle-upon-tyne
+    sitelinks: 119
+    founded: 200
+    at:
+      - 54.977777777
+      - -1.613333333
+    why: still lived in — population 300,196, 18 twinned towns
+  - title: Rimini
+    slug: rimini
+    sitelinks: 117
+    founded: -267
+    at:
+      - 44.059444444
+      - 12.568333333
+    why: still governed — it has a head of government
+  - title: Konya
+    slug: konya
+    sitelinks: 115
+    founded: -699
+    at:
+      - 37.847054
+      - 32.5161
+    why: still lived in — population 2,232,374, 16 twinned towns
+  - title: Berat
+    slug: berat
+    sitelinks: 115
+    founded: -313
+    at:
+      - 40.704939
+      - 19.949673
+    why: still lived in — population 40,665, 8 twinned towns
+  - title: Agrigento
+    slug: agrigento
+    sitelinks: 113
+    founded: -579
+    at:
+      - 37.31065
+      - 13.57661
+    why: still lived in — population 55,512, 6 twinned towns
+  - title: Cremona
+    slug: cremona
+    sitelinks: 111
+    founded: -399
+    at:
+      - 45.133333333
+      - 10.024722222
+    why: still lived in — population 70,637, 4 twinned towns
+  - title: Alicante
+    slug: alicante
+    sitelinks: 111
+    founded: -230
+    at:
+      - 38.345277777
+      - -0.483055555
+    why: still governed — it has a head of government
+  - title: Constanța
+    slug: constanța
+    sitelinks: 109
+    founded: -300
+    at:
+      - 44.1767161
+      - 28.6507598
+    why: still governed — it has a head of government
+  - title: Kutaisi
+    slug: kutaisi
+    sitelinks: 108
+    founded: -300
+    at:
+      - 42.271666666
+      - 42.705555555
+    why: still lived in — population 160,971, 11 twinned towns
+  - title: Zadar
+    slug: zadar
+    sitelinks: 102
+    founded: -383
+    at:
+      - 44.114166666
+      - 15.2275
+    why: still governed — it has a head of government
+  - title: Acre, Israel
+    slug: acre-israel
+    sitelinks: 101
+    founded: -1499
+    at:
+      - 32.926111111
+      - 35.083888888
+    why: still lived in — population 48,900, 9 twinned towns
+  - title: Jericho
+    slug: jericho
+    sitelinks: 99
+    founded: -9600
+    at:
+      - 31.856111111
+      - 35.463055555
+    why: still lived in — population 23,220, 14 twinned towns
+  - title: Forlì
+    slug: forlì
+    sitelinks: 97
+    founded: -186
+    at:
+      - 44.222777777
+      - 12.041388888
+    why: still governed — it has a head of government
+  - title: Abu Simbel
+    slug: abu-simbel
+    sitelinks: 93
+    founded: -1273
+    at:
+      - 22.336944444
+      - 31.625555555
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Crotone
+    slug: crotone
+    sitelinks: 93
+    founded: -709
+    at:
+      - 39.083333333
+      - 17.116666666
+    why: still lived in — population 58,445, 5 twinned towns
+  - title: Terracotta Army
+    slug: terracotta-army
+    sitelinks: 89
+    founded: -247
+    at:
+      - 34.385
+      - 109.273055555
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Chester
+    slug: chester
+    sitelinks: 89
+    founded: 79
+    at:
+      - 53.2
+      - -2.883333333
+    why: still lived in — population 87,507, 3 twinned towns
+  - title: Aqaba
+    slug: aqaba
+    sitelinks: 88
+    founded: -4000
+    at:
+      - 29.532222222
+      - 35.006111111
+    why: still lived in — population 140,000, 4 twinned towns
+  - title: Ashkelon
+    slug: ashkelon
+    sitelinks: 87
+    founded: -949
+    at:
+      - 31.665833333
+      - 34.566388888
+    why: still lived in — population 134,454, 13 twinned towns
+  - title: Nakhchivan (city)
+    slug: nakhchivan-city
+    sitelinks: 85
+    founded: -1499
+    at:
+      - 39.208888888
+      - 45.412222222
+    why: still lived in — population 94,400, 5 twinned towns
+  - title: Great Sphinx of Giza
+    slug: great-sphinx-of-giza
+    sitelinks: 84
+    founded: -2559
+    at:
+      - 29.97527
+      - 31.13768
+    why: a monument, not a city
+  - title: Western Wall
+    slug: western-wall
+    sitelinks: 84
+    founded: -18
+    at:
+      - 31.776947222
+      - 35.23425
+    why: a monument, not a city
+  - title: Tiberias
+    slug: tiberias
+    sitelinks: 82
+    founded: 20
+    at:
+      - 32.775458
+      - 35.542011
+    why: still governed — it has a head of government
+  - title: Khujand
+    slug: khujand
+    sitelinks: 82
+    founded: -530
+    at:
+      - 40.279444444
+      - 69.631944444
+    why: still lived in — population 198,700, 8 twinned towns
+  - title: Nikšić
+    slug: nikšić
+    sitelinks: 75
+    founded: 400
+    at:
+      - 42.7731
+      - 18.94446
+    why: still governed — it has a head of government
+  - title: Asyut
+    slug: asyut
+    sitelinks: 74
+    founded: -3099
+    at:
+      - 27.186944444
+      - 31.171388888
+    why: still lived in — population 562,061, 1 twinned town
+  - title: Nazca lines
+    slug: nazca-lines
+    sitelinks: 69
+    founded: -199
+    at:
+      - -14.6975
+      - -75.135
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Ibiza (city)
+    slug: ibiza-city
+    sitelinks: 68
+    founded: -653
+    at:
+      - 38.908888888
+      - 1.432777777
+    why: still governed — it has a head of government
+  - title: Karnak
+    slug: karnak
+    sitelinks: 66
+    founded: -1899
+    at:
+      - 25.718333333
+      - 32.658333333
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Irbid
+    slug: irbid
+    sitelinks: 61
+    founded: -1399
+    at:
+      - 32.555555555
+      - 35.85
+    why: still governed — it has a head of government
+  - title: Luxor Temple
+    slug: luxor-temple
+    sitelinks: 58
+    founded: -1399
+    at:
+      - 25.7
+      - 32.639166666
+    why: a monument, not a city
+  - title: Pyramid of Djoser
+    slug: pyramid-of-djoser
+    sitelinks: 56
+    founded: -2639
+    at:
+      - 29.871111111
+      - 31.216666666
+    why: a monument, not a city
+  - title: Trajan's Column
+    slug: trajans-column
+    sitelinks: 56
+    founded: 113
+    at:
+      - 41.895833333
+      - 12.484166666
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Tel Megiddo
+    slug: tel-megiddo
+    sitelinks: 55
+    founded: -6999
+    at:
+      - 32.585277777
+      - 35.184444444
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Beit She'an
+    slug: beit-shean
+    sitelinks: 53
+    founded: -3999
+    at:
+      - 32.496111111
+      - 35.498888888
+    why: still lived in — population 18,200, 2 twinned towns
+  - title: Erechtheion
+    slug: erechtheion
+    sitelinks: 50
+    founded: -500
+    at:
+      - 37.972083333
+      - 23.726527777
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Ġgantija
+    slug: ġgantija
+    sitelinks: 48
+    founded: -3599
+    at:
+      - 36.047265
+      - 14.269095
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Aurelian Walls
+    slug: aurelian-walls
+    sitelinks: 48
+    founded: 271
+    at:
+      - 41.873292
+      - 12.498955
+    why: a monument, not a city
+  - title: Pyramid of Menkaure
+    slug: pyramid-of-menkaure
+    sitelinks: 46
+    founded: -2510
+    at:
+      - 29.9725
+      - 31.128333
+    why: a monument, not a city
+  - title: Megalithic Temples of Malta
+    slug: megalithic-temples-of-malta
+    sitelinks: 46
+    founded: -3599
+    at:
+      - 36.04916667
+      - 14.26944444
+    why: a monument, not a city
+  - title: Temple of Athena Nike
+    slug: temple-of-athena-nike
+    sitelinks: 43
+    founded: -425
+    at:
+      - 37.9715
+      - 23.7249
+    why: a monument, not a city
+  - title: Arch of Titus
+    slug: arch-of-titus
+    sitelinks: 43
+    founded: 82
+    at:
+      - 41.890717
+      - 12.488585
+    why: a monument, not a city
+  - title: Baths of Caracalla
+    slug: baths-of-caracalla
+    sitelinks: 43
+    founded: 216
+    at:
+      - 41.880264
+      - 12.492764
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Red Pyramid
+    slug: red-pyramid
+    sitelinks: 42
+    founded: -2589
+    at:
+      - 29.808333333
+      - 31.205833333
+    why: a monument, not a city
+  - title: Bent Pyramid
+    slug: bent-pyramid
+    sitelinks: 42
+    founded: -2699
+    at:
+      - 29.790277777
+      - 31.209166666
+    why: a monument, not a city
+  - title: Chios (town)
+    slug: chios-town
+    sitelinks: 42
+    founded: -899
+    at:
+      - 38.3725
+      - 26.1375
+    why: still lived in — population 27,015, 2 twinned towns
+  - title: Ara Pacis
+    slug: ara-pacis
+    sitelinks: 41
+    founded: -8
+    at:
+      - 41.906388888
+      - 12.475555555
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Garni Temple
+    slug: garni-temple
+    sitelinks: 41
+    founded: 50
+    at:
+      - 40.112
+      - 44.729
+    why: a monument, not a city
+  - title: Mausoleum of Augustus
+    slug: mausoleum-of-augustus
+    sitelinks: 40
+    founded: -27
+    at:
+      - 41.90611
+      - 12.47639
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Arch of Septimius Severus
+    slug: arch-of-septimius-severus
+    sitelinks: 38
+    founded: 203
+    at:
+      - 41.892777777
+      - 12.484722222
+    why: a monument, not a city
+  - title: Băile Herculane
+    slug: băile-herculane
+    sitelinks: 38
+    founded: 153
+    at:
+      - 44.877222222
+      - 22.4175
+    why: still governed — it has a head of government
+  - title: Domus Aurea
+    slug: domus-aurea
+    sitelinks: 37
+    founded: 64
+    at:
+      - 41.891388888
+      - 12.495277777
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Pula Arena
+    slug: pula-arena
+    sitelinks: 37
+    founded: -26
+    at:
+      - 44.873
+      - 13.85
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Servian Wall
+    slug: servian-wall
+    sitelinks: 37
+    founded: -350
+    at:
+      - 41.901666666
+      - 12.501666666
+    why: a monument, not a city
+  - title: House of the Virgin Mary
+    slug: house-of-the-virgin-mary
+    sitelinks: 36
+    founded: 100
+    at:
+      - 37.911527777
+      - 27.333972222
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Pyramid of Cestius
+    slug: pyramid-of-cestius
+    sitelinks: 35
+    founded: -11
+    at:
+      - 41.876388888
+      - 12.480833333
+    why: a monument, not a city
+  - title: Asilah
+    slug: asilah
+    sitelinks: 35
+    founded: -1499
+    at:
+      - 35.461928
+      - -6.036545
+    why: still governed — it has a head of government
+  - title: Sumela Monastery
+    slug: sumela-monastery
+    sitelinks: 34
+    founded: 386
+    at:
+      - 40.69
+      - 39.65833333
+    why: a monument, not a city
+  - title: Temple of Antoninus and Faustina
+    slug: temple-of-antoninus-and-faustina
+    sitelinks: 33
+    founded: 142
+    at:
+      - 41.892138888
+      - 12.486688888
+    why: a monument, not a city
+  - title: Basilica of Maxentius
+    slug: basilica-of-maxentius
+    sitelinks: 33
+    founded: 312
+    at:
+      - 41.891944444
+      - 12.488333333
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Temple of Zeus, Olympia
+    slug: temple-of-zeus-olympia
+    sitelinks: 32
+    founded: -400
+    at:
+      - 37.63786111
+      - 21.63
+    why: a monument, not a city
+  - title: Temple of Jupiter Optimus Maximus
+    slug: temple-of-jupiter-optimus-maximus
+    sitelinks: 32
+    founded: -508
+    at:
+      - 41.892175
+      - 12.481689
+    why: a monument, not a city
+  - title: Qatna
+    slug: qatna
+    sitelinks: 30
+    founded: -3299
+    at:
+      - 34.835
+      - 36.865833333
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Al-Khazneh
+    slug: al-khazneh
+    sitelinks: 29
+    founded: 100
+    at:
+      - 30.32206
+      - 35.45145
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Basilica Aemilia
+    slug: basilica-aemilia
+    sitelinks: 29
+    founded: -178
+    at:
+      - 41.89259
+      - 12.48614
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Aqua Appia
+    slug: aqua-appia
+    sitelinks: 29
+    founded: -311
+    at:
+      - 41.887846
+      - 12.480973
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Pyramid of Sahure
+    slug: pyramid-of-sahure
+    sitelinks: 28
+    founded: -2480
+    at:
+      - 29.897777777
+      - 31.203333333
+    why: a monument, not a city
+  - title: Temple of Peace, Rome
+    slug: temple-of-peace-rome
+    sitelinks: 28
+    founded: 71
+    at:
+      - 41.892622
+      - 12.487611
+    why: a monument, not a city
+  - title: Tepe Sialk
+    slug: tepe-sialk
+    sitelinks: 28
+    founded: -7000
+    at:
+      - 33.968888888
+      - 51.404722222
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Great Pyramid of Cholula
+    slug: great-pyramid-of-cholula
+    sitelinks: 28
+    founded: -299
+    at:
+      - 19.0575
+      - -98.301944
+    why: a monument, not a city
+  - title: Temple of Apollo at Bassae
+    slug: temple-of-apollo-at-bassae
+    sitelinks: 27
+    founded: -419
+    at:
+      - 37.429655
+      - 21.900387
+    why: a monument, not a city
+  - title: Arena of Nîmes
+    slug: arena-of-nîmes
+    sitelinks: 27
+    founded: 90
+    at:
+      - 43.83489
+      - 4.35963
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Uffington White Horse
+    slug: uffington-white-horse
+    sitelinks: 27
+    founded: -1000
+    at:
+      - 51.5777
+      - -1.56675
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Choragic Monument of Lysicrates
+    slug: choragic-monument-of-lysicrates
+    sitelinks: 26
+    founded: -400
+    at:
+      - 37.970833
+      - 23.73
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Dan (ancient city)
+    slug: dan-ancient-city
+    sitelinks: 26
+    founded: -4500
+    at:
+      - 33.249
+      - 35.652
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Augusta Raurica
+    slug: augusta-raurica
+    sitelinks: 26
+    founded: -43
+    at:
+      - 47.53319
+      - 7.72229
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Tell Halaf
+    slug: tell-halaf
+    sitelinks: 25
+    founded: -6100
+    at:
+      - 36.8267852
+      - 40.0396697
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Philopappos Monument
+    slug: philopappos-monument
+    sitelinks: 24
+    founded: 116
+    at:
+      - 37.96722222
+      - 23.72138889
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Serabit el-Khadim
+    slug: serabit-el-khadim
+    sitelinks: 24
+    founded: -1940
+    at:
+      - 29.036733
+      - 33.459407
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Chellah
+    slug: chellah
+    sitelinks: 24
+    founded: -699
+    at:
+      - 34.00666667
+      - -6.82027778
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Catacomb of Callixtus
+    slug: catacomb-of-callixtus
+    sitelinks: 24
+    founded: 200
+    at:
+      - 41.85887778
+      - 12.51105833
+    why: a monument, not a city
+  - title: Temple of Aphaia
+    slug: temple-of-aphaia
+    sitelinks: 23
+    founded: -499
+    at:
+      - 37.754277777
+      - 23.533333333
+    why: a monument, not a city
+  - title: Vindolanda
+    slug: vindolanda
+    sitelinks: 22
+    founded: 85
+    at:
+      - 54.991588
+      - -2.359504
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Temple of Venus Genetrix
+    slug: temple-of-venus-genetrix
+    sitelinks: 22
+    founded: -45
+    at:
+      - 41.894194444
+      - 12.484805555
+    why: a monument, not a city
+  - title: Catacombs of Kom El Shoqafa
+    slug: catacombs-of-kom-el-shoqafa
+    sitelinks: 21
+    founded: 200
+    at:
+      - 31.186944
+      - 29.904722
+    why: a monument, not a city
+  - title: Arch of Hadrian (Athens)
+    slug: arch-of-hadrian-athens
+    sitelinks: 21
+    founded: 131
+    at:
+      - 37.970167
+      - 23.732
+    why: a monument, not a city
+  - title: Aqua Julia
+    slug: aqua-julia
+    sitelinks: 21
+    founded: -32
+    at:
+      - 41.896963
+      - 12.510719
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Arch of Augustus, Rome
+    slug: arch-of-augustus-rome
+    sitelinks: 19
+    founded: -19
+    at:
+      - 41.891895
+      - 12.485994
+    why: a monument, not a city
+  - title: Pyramid of Amenemhat I
+    slug: pyramid-of-amenemhat-i
+    sitelinks: 18
+    founded: -1989
+    at:
+      - 29.5749
+      - 31.2253
+    why: a monument, not a city
+  - title: Barnenez
+    slug: barnenez
+    sitelinks: 18
+    founded: -4500
+    at:
+      - 48.6675
+      - -3.858611111
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Villa Jovis
+    slug: villa-jovis
+    sitelinks: 18
+    founded: 27
+    at:
+      - 40.55823
+      - 14.262628
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Old Temple of Athena
+    slug: old-temple-of-athena
+    sitelinks: 17
+    founded: -499
+    at:
+      - 37.971944
+      - 23.726389
+    why: a monument, not a city
+  - title: Meta Sudans
+    slug: meta-sudans
+    sitelinks: 17
+    founded: 90
+    at:
+      - 41.89008333
+      - 12.49066667
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Pyramid of Senusret I
+    slug: pyramid-of-senusret-i
+    sitelinks: 16
+    founded: -1989
+    at:
+      - 29.560011111
+      - 31.220944444
+    why: a monument, not a city
+  - title: Amphitheatrum Castrense
+    slug: amphitheatrum-castrense
+    sitelinks: 16
+    founded: 300
+    at:
+      - 41.8875
+      - 12.515
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Tomb of Eurysaces the Baker
+    slug: tomb-of-eurysaces-the-baker
+    sitelinks: 16
+    founded: -29
+    at:
+      - 41.89143207
+      - 12.51529992
+    why: a monument, not a city
+  - title: Saalburg
+    slug: saalburg
+    sitelinks: 15
+    founded: 90
+    at:
+      - 50.2715
+      - 8.56666
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Beidha (archaeological site)
+    slug: beidha-archaeological-site
+    sitelinks: 15
+    founded: -7500
+    at:
+      - 30.37078
+      - 35.447756
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Stadium at Olympia
+    slug: stadium-at-olympia
+    sitelinks: 15
+    founded: -500
+    at:
+      - 37.639167
+      - 21.633056
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Anastasian Wall
+    slug: anastasian-wall
+    sitelinks: 15
+    founded: 460
+    at:
+      - 41.2
+      - 28.333333333
+    why: a monument, not a city
+  - title: Church of Mary
+    slug: church-of-mary
+    sitelinks: 14
+    founded: 401
+    at:
+      - 37.944939
+      - 27.339203
+    why: a monument, not a city
+  - title: Zerzevan Castle
+    slug: zerzevan-castle
+    sitelinks: 14
+    founded: 400
+    at:
+      - 37.608333333
+      - 40.499166666
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Arch of Drusus
+    slug: arch-of-drusus
+    sitelinks: 14
+    founded: -100
+    at:
+      - 41.873794
+      - 12.501406
+    why: a monument, not a city
+  - title: Arch of Tiberius
+    slug: arch-of-tiberius
+    sitelinks: 14
+    founded: 16
+    at:
+      - 41.892339
+      - 12.484253
+    why: a monument, not a city
+  - title: Monumental Arch of Palmyra
+    slug: monumental-arch-of-palmyra
+    sitelinks: 14
+    founded: 300
+    at:
+      - 34.549994
+      - 38.271008
+    why: a monument, not a city
+  - title: Vix Grave
+    slug: vix-grave
+    sitelinks: 13
+    founded: -550
+    at:
+      - 47.902518
+      - 4.543375
+    why: a monument, not a city — 3 monument class on Wikidata
+  - title: Pyramid of Ameny Qemau
+    slug: pyramid-of-ameny-qemau
+    sitelinks: 13
+    founded: -1744
+    at:
+      - 29.78166667
+      - 31.22138889
+    why: a monument, not a city
+  - title: Locmariaquer megaliths
+    slug: locmariaquer-megaliths
+    sitelinks: 13
+    founded: -5000
+    at:
+      - 47.571306
+      - -2.950222
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Basilica Porcia
+    slug: basilica-porcia
+    sitelinks: 13
+    founded: -183
+    at:
+      - 41.89331944
+      - 12.48481944
+    why: a monument, not a city — 2 monument class on Wikidata
+  - title: Amphitheatre of the Three Gauls
+    slug: amphitheatre-of-the-three-gauls
+    sitelinks: 13
+    founded: 19
+    at:
+      - 45.770555555
+      - 4.830555555
+    why: a monument, not a city
+  - title: Gate of Elvira
+    slug: gate-of-elvira
+    sitelinks: 13
+    founded: 11
+    at:
+      - 37.182142772
+      - -3.599617892
+    why: a monument, not a city
+  - title: Crypta Neapolitana
+    slug: crypta-neapolitana
+    sitelinks: 12
+    founded: -36
+    at:
+      - 40.829595
+      - 14.21755
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Curia of Pompey
+    slug: curia-of-pompey
+    sitelinks: 12
+    founded: -61
+    at:
+      - 41.8953
+      - 12.475
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Temple of Claudius
+    slug: temple-of-claudius
+    sitelinks: 12
+    founded: 54
+    at:
+      - 41.88795
+      - 12.49311
+    why: a monument, not a city
+  - title: Temple of Augustus and Livia
+    slug: temple-of-augustus-and-livia
+    sitelinks: 12
+    founded: 50
+    at:
+      - 45.5255
+      - 4.8742
+    why: a monument, not a city
+  - title: Tell al-Lahm
+    slug: tell-al-lahm
+    sitelinks: 12
+    founded: -2499
+    at:
+      - 30.83333333
+      - 46.33333333
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Argentoratum
+    slug: argentoratum
+    sitelinks: 11
+    founded: -11
+    at:
+      - 48.5827
+      - 7.751
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Anemospilia
+    slug: anemospilia
+    sitelinks: 11
+    founded: -1700
+    at:
+      - 35.25555556
+      - 25.14444444
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Catacombs of San Gennaro
+    slug: catacombs-of-san-gennaro
+    sitelinks: 11
+    founded: 300
+    at:
+      - 40.86418
+      - 14.247624
+    why: a monument, not a city
+  - title: Porta Maggiore Basilica
+    slug: porta-maggiore-basilica
+    sitelinks: 11
+    founded: 1
+    at:
+      - 41.89114
+      - 12.515484
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Drususstein
+    slug: drususstein
+    sitelinks: 10
+    founded: 1
+    at:
+      - 49.9921
+      - 8.27421
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Temple of Hera, Agrigento
+    slug: temple-of-hera-agrigento
+    sitelinks: 10
+    founded: -449
+    at:
+      - 37.288593
+      - 13.600163
+    why: a monument, not a city
+  - title: Nessana
+    slug: nessana
+    sitelinks: 10
+    founded: -1
+    at:
+      - 30.875555555
+      - 34.434166666
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Yarim Tepe
+    slug: yarim-tepe
+    sitelinks: 10
+    founded: -6000
+    at:
+      - 36.32045
+      - 42.3675
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Pompeion
+    slug: pompeion
+    sitelinks: 10
+    founded: -400
+    at:
+      - 37.97823
+      - 23.71883
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Domvs Romana
+    slug: domvs-romana
+    sitelinks: 10
+    founded: -99
+    at:
+      - 35.885277777
+      - 14.400277777
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Tomb of the Leopards
+    slug: tomb-of-the-leopards
+    sitelinks: 10
+    founded: -479
+    at:
+      - 42.2486
+      - 11.7716
+    why: a monument, not a city
+  - title: Beulé Gate
+    slug: beulé-gate
+    sitelinks: 10
+    founded: 300
+    at:
+      - 37.971638888
+      - 23.724611111
+    why: a monument, not a city
+  - title: Blestium
+    slug: blestium
+    sitelinks: 9
+    founded: 55
+    at:
+      - 51.809
+      - -2.717
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Temple of Athena (Paestum)
+    slug: temple-of-athena-paestum
+    sitelinks: 9
+    founded: -499
+    at:
+      - 40.424502777
+      - 15.005377777
+    why: a monument, not a city
+  - title: Temple of Fortuna Primigenia
+    slug: temple-of-fortuna-primigenia
+    sitelinks: 9
+    founded: -150
+    at:
+      - 41.8404
+      - 12.8925
+    why: a monument, not a city
+  - title: Roman temple of Bziza
+    slug: roman-temple-of-bziza
+    sitelinks: 9
+    founded: 100
+    at:
+      - 34.269951
+      - 35.821579
+    why: a monument, not a city
+  - title: M'lefaat
+    slug: mlefaat
+    sitelinks: 9
+    founded: -1000
+    at:
+      - 36.3
+      - 43.55
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Palike
+    slug: palike
+    sitelinks: 9
+    founded: -452
+    at:
+      - 37.331677
+      - 14.698109
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Baths of Decius
+    slug: baths-of-decius
+    sitelinks: 9
+    founded: 252
+    at:
+      - 41.88331
+      - 12.48433
+    why: a monument, not a city — 1 monument class on Wikidata
+  - title: Robinson's Arch
+    slug: robinsons-arch
+    sitelinks: 9
+    founded: -19
+    at:
+      - 31.775739
+      - 35.234719
+    why: a monument, not a city
+  - title: Southern Wall
+    slug: southern-wall
+    sitelinks: 9
+    founded: -18
+    at:
+      - 31.77576111
+      - 35.23610556
+    why: a monument, not a city
+  - title: Roman Theatre (Tarraco)
+    slug: roman-theatre-tarraco
+    sitelinks: 9
+    founded: 1
+    at:
+      - 41.1128
+      - 1.2494
+    why: a monument, not a city

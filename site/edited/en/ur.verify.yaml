@@ -1,0 +1,9 @@
+slug: ur
+findings:
+  - kind: altered-value
+    quote: Around 3800 BC
+    why: The source infobox gives the foundation date as "c. 3800 BC"; the key
+      fact restates the hedged value as "Around 3800 BC". The rest of the
+      rewrite (standfirst, timeline, prose) keeps "c. 3800 BC".
+    severity: minor
+verdict: minor-only

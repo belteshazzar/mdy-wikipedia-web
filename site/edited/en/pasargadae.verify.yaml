@@ -1,0 +1,15 @@
+slug: pasargadae
+findings:
+  - kind: unsupported
+    quote: In particular, the tomb at Pasargadae has almost exactly the same
+      dimensions as the tomb of [[ Alyattes | alyattes-of-lydia ]], father of
+      the Lydian King [[ Croesus ]]; some have refused the claim, since
+      according to [[ Herodotus ]] Croesus was spared by Cyrus during the
+      conquest of Lydia, and became a member of Cyrus' court.
+    why: "The source has the Herodotus material as a bare parenthetical, not as
+      the reason for the refusal: \"however, some have refused the claim
+      (according to Herodotus, Croesus was spared by Cyrus during the conquest
+      of Lydia, and became a member of Cyrus' court).\" The rewrite's
+      \"since\" asserts a causal link the source does not state."
+    severity: minor
+verdict: minor-only

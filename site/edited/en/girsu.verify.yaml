@@ -1,0 +1,11 @@
+slug: girsu
+findings:
+  - kind: unsupported
+    quote: About 50,000 tablets have been recovered from the site itself.
+    why: The source says only "About 50,000 cuneiform tablets have been recovered
+      from the site." The added "itself", set against the preceding claim that
+      35 to 40 thousand tablets "left the site for the antiquities market",
+      implies the 50,000 excludes the looted tablets. The source draws no such
+      distinction between the two figures.
+    severity: minor
+verdict: minor-only

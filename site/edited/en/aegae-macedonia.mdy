@@ -1,0 +1,452 @@
++++
+title: Aegae (Macedonia)
+description: Original capital of Macedon
+key-facts:
+  - name: What it was
+    value: Capital city, later religious centre and ceremonial burial ground
+    from: "type: Capital city, later religious centre and ceremonial burial ground"
+  - name: Built
+    value: Around 750 BC
+    from: "built: ~750 BC"
+  - name: Abandoned
+    value: Around 300 AD
+    from: "abandoned: ~300 AD"
+  - name: Where
+    value: Vergina, Central Macedonia, Greece
+    from: "location: Vergina, Central Macedonia, Greece"
+  - name: The name means
+    value: Goat-town
+    from: "literal-translation: Goat-town"
+  - name: World Heritage Site
+    value: Inscribed 1996 (20th Session)
+    from: "inscription: 1996 (20th Session)"
+image-plan:
+  - file: Ανάκτορο_Αιγών.jpg
+    role: hero
+    section: lead
+    caption: "The Palace of Aigai after restoration works in the 2020s: the
+      building where [[ Alexander the Great ]] was proclaimed king in 336
+      BC.[[ ^33 ]]"
+  - file: MACEDON,_Aegae._Circa_510-480_BC_(front).png
+    role: inline
+    section: name
+    caption: A [[ goat ]] on a silver coin of Aegae, c.510–480 BC, from the reign
+      of [[ Amyntas I ]] or [[ Alexander I | alexander-i-of-macedon ]]. The
+      city's name is translated as 'goat town'.[[ ^4 ]]
+  - file: Philip_II_larnax_vergina_greece.jpg
+    role: inline
+    section: tomb-of-philip-ii-and-other-royal-tombs-of-aigai
+    caption: The golden [[ larnax | larnax-archaeology ]] and the golden grave
+      crown of Philip II, among the discoveries made by [[ Manolis Andronikos
+      ]] at Aigai.
+  - file: Grobowiec_Filipa_II_Macedonskiego.jpg
+    role: full
+    section: tomb-of-philip-ii-and-other-royal-tombs-of-aigai
+    caption: The Great Tumulus of Aigai, which [[ Manolis Andronikos ]] began
+      excavating in 1977.[[ ^22 ]] Two of the four tombs inside had lain
+      undisturbed since antiquity.
+  - file: Facade_of_Philip_II_tomb_Vergina_Greece.jpg
+    role: inline
+    section: tomb-of-philip-ii-and-other-royal-tombs-of-aigai
+    caption: The facade of the tomb of Philip II of Macedon, at the Museum of the
+      Royal Tombs in [[ Vergina ]].
+  - file: Vergina_Palace_(1990)_-_01.jpg
+    role: inline
+    section: palace-of-aigai
+    caption: The palace in 1990, before restoration. A landslide in the first
+      century AD had left about 3–4 m of soil on top of the ruins.[[ ^34 ]]
+  - file: PD-icon.svg
+    role: drop
+    section: attribution
+    caption: Public-domain icon beside the attribution notices; not a picture of
+      anything.
+further:
+  - slug: pella
+    why: The capital Archelaus moved the court to at the beginning of the 4th
+      century BC, leaving Aigai as the kingdom's sacred city.
+  - slug: macedonia-ancient-kingdom
+    why: The kingdom Aigai was the first capital of, from the Argeads to its
+      overthrow by Rome in 168 BC.
+  - slug: alexander-the-great
+    why: Proclaimed king at Aigai on the spot where his father was killed; his
+      body was meant to rest there and never did.
+coordinates:
+  lat: 40.479304
+  lon: 22.324777
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%CE%91%CE%BD%CE%AC%CE%BA%CF%84%CE%BF%CF%81%CE%BF_%CE%91%CE%B9%CE%B3%CF%8E%CE%BD.jpg/3840px-%CE%91%CE%BD%CE%AC%CE%BA%CF%84%CE%BF%CF%81%CE%BF_%CE%91%CE%B9%CE%B3%CF%8E%CE%BD.jpg
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%CE%91%CE%BD%CE%AC%CE%BA%CF%84%CE%BF%CF%81%CE%BF_%CE%91%CE%B9%CE%B3%CF%8E%CE%BD.jpg/250px-%CE%91%CE%BD%CE%AC%CE%BA%CF%84%CE%BF%CF%81%CE%BF_%CE%91%CE%B9%CE%B3%CF%8E%CE%BD.jpg
+    caption: Palace of Aigai
+  type: Capital city, later religious centre and ceremonial burial ground
+  periods: Archaic, Classical, Hellenistic, and Roman
+  cultures: Ancient Greece
+  location: Vergina, Central Macedonia, Greece
+  part-of: kingdom of Macedon
+  history:
+    built: ~750 BC
+    abandoned: ~300 AD
+  site-notes:
+    architectural-style: Ancient Greek architecture
+    archaeologists: Léon Heuzey, Manolis Andronikos, Angeliki Kottaridi
+    owner: Greek state
+    management:
+      - General Directorate of Antiquities and Cultural Heritage Ephorate of
+        Antiquities of Imathia
+      - Ephorate of Antiquities of Imathia
+    public-access: Open to public
+    website: www.aigai.gr/en
+  designations:
+    designation: World Heritage Site
+  unesco-world-heritage-site:
+    official-name: Archaeological Site of Aegae (modern name Vergina)
+    criteria: "Cultural: i, iii"
+    reference: "780"
+    inscription: 1996 (20th Session)
+    area: 1,420.81 ha (3,510.9 acres)
+    buffer-zone: 4,811.73 ha (11,890.0 acres)
+sections:
+  - level: 2
+    id: name
+    title: Name
+  - level: 2
+    id: history
+    title: History
+  - level: 2
+    id: tomb-of-philip-ii-and-other-royal-tombs-of-aigai
+    title: Tomb of Philip II and other Royal Tombs of Aigai
+  - level: 2
+    id: palace-of-aigai
+    title: Palace of Aigai
+  - level: 2
+    id: attribution
+    title: Attribution
+wikidata:
+  id: Q16963755
+  label: Aigai
+  description: ancient Macedonian capital
+  claims:
+    instance-of:
+      - archaeological site
+      - ancient city
+      - polis
+    country:
+      value: Greece
+      from: "1913"
+    located-in-the-administrative-territorial-entity: Veria Municipality
+    coordinate-location:
+      lat: 40.4779658
+      lon: 22.3227596
+    heritage-designation:
+      - value: World Heritage Site
+        from: "1996"
+      - value: archaeological site in Greece
+    world-heritage-criteria:
+      - (i)
+      - (iii)
+    described-at-url:
+      - http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=2362
+      - http://vergina.web.auth.gr/VeginaSite/html/index/index.html
+    has-part-s:
+      - Museum of the Royal Tombs in Aigai
+      - Polycentric Museum of Aigai
+    culture: Ancient Greece
+    visitors-per-year:
+      - value: "186627"
+        when: "2016"
+      - value: "203632"
+        when: "2017"
+      - value: "222503"
+        when: "2018"
+    topic-s-main-category: Category:Aigai (Vergina)
+    commons-category: Archaeological site of Aigai
+    image:
+      value: https://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D1%98%D0%B3%D0%B0_(%D0%9A%D1%83%D1%82%D0%BB%D0%B5%D1%88)_02.jpg
+      when: 2017-07-31
+    location: Vergina
+    described-by-source:
+      - A Companion to Ancient Macedonia
+      - Brill's Companion to Ancient Macedon
+      - The Oxford Encyclopedia of Ancient Greece and Rome
+      - Oxford Classical Dictionary
+      - The Oxford Companion to Western Art
+    different-from:
+      - Aegae
+      - Edessa
+      - Balla
+      - Vergina
+    official-name:
+      - Αἰγαί
+      - Aigai
+      - Αιγές
+    location-map: https://commons.wikimedia.org/wiki/Special:FilePath/Aigeai_location.jpg
+    official-website: https://www.aigai.gr/
+    maintained-by: Ephorate of Antiquities of Hemathia
+    director-of-archaeological-fieldwork:
+      - value: Léon Heuzey
+        when: 1860s
+      - value: Manolis Andronikos
+        when: 1970s
+      - value: Angeliki Kottaridi
+        when: 2000s
+    literal-translation: Goat-town
+    inception:
+      value: 750 BC
+      sourcing: approximately
+    dissolved-abolished-or-demolished:
+      value: "100"
+      sourcing: approximately
+    area:
+      - 62.5 square kilometre
+      - 1420.81 hectare
+      - 4811.73 hectare
+    religion-or-worldview: Ancient Greek religion
+    capital-of:
+      value: Macedonia
+      from: 800s BC
+      to: 399 BC
+link-titles:
+  alexander-i-of-epirus: Alexander I of Epirus
+  alexander-i-of-macedon: Alexander I of Macedon
+  alexander-the-great: Alexander the Great
+  amyntas-i: Amyntas I
+  ancient-argos: Ancient Argos
+  ancient-greece: Ancient Greece
+  ancient-greek-language: Ancient Greek language
+  angeliki-kottaridiactioneditredlink1: Angeliki Kottaridi?action=edit&redlink=1
+  archaeological-site: Archaeological site
+  archelaus-i-of-macedon: Archelaus I of Macedon
+  argead-dynasty: Argead dynasty
+  athens: Athens
+  battle-of-pydna: Battle of Pydna
+  caranus-of-macedon: Caranus of Macedon
+  central-macedonia: Central Macedonia
+  classical-athens: Classical Athens
+  classical-greece: Classical Greece
+  cleopatra-of-macedon: Cleopatra of Macedon
+  diadochi: Diadochi
+  dictionary-of-greek-and-roman-geography: Dictionary of Greek and Roman Geography
+  diodorus-siculus: Diodorus Siculus
+  edessa-greece: Edessa, Greece
+  epitome-of-the-philippic-history-of-pompeius-trogus: Epitome of the Philippic History of Pompeius Trogus
+  euripides: Euripides
+  europa-consort-of-zeus: Europa (consort of Zeus)
+  first-declension: First declension
+  founding-myth: Founding myth
+  french-school-at-athens: French School at Athens
+  gauls: Gauls
+  goat: Goat
+  golden-larnax: Golden Larnax
+  greave: Greave
+  greece: Greece
+  greek-language: Greek language
+  haliacmon: Haliacmon
+  hellenistic-period: Hellenistic period
+  herodotus: Herodotus
+  justin-historian: Justin (historian)
+  larnax-archaeology: Larnax (Archaeology)
+  latinisation-of-names: Latinisation of names
+  lower-macedonia: Lower Macedonia
+  léon-heuzey: Léon Heuzey
+  macedon: Macedon
+  macedonia-greece: Macedonia (Greece)
+  makedones: Makedones
+  manolis-andronikos: Manolis Andronikos
+  mausoleum-at-halicarnassus: Mausoleum at Halicarnassus
+  memphis-egypt: Memphis, Egypt
+  mosaic: Mosaic
+  oracle-of-delphi: Oracle of Delphi
+  parthenon: Parthenon
+  pausanias-of-orestis: Pausanias of Orestis
+  pella: Pella
+  perdiccas-i: Perdiccas I
+  perdiccas-i-of-macedon: Perdiccas I of Macedon
+  perdiccas-ii: Perdiccas II
+  peristyle: Peristyle
+  persian-empire: Persian Empire
+  philip-ii-of-macedon: Philip II of Macedon
+  pierian-mountains: Pierian Mountains
+  pierians: Pierians
+  polis: Polis
+  ptolemy-i-soter: Ptolemy I Soter
+  public-domain: Public domain
+  pyrrhus-of-epirus: Pyrrhus of Epirus
+  pythia: Pythia
+  pythius-of-priene: Pythius of Priene
+  romanization-of-ancient-greek: Romanization of Ancient Greek
+  romanization-of-greek: Romanization of Greek
+  satrap: Satrap
+  sparta: Sparta
+  temenus: Temenus
+  thebes-greece: Thebes, Greece
+  thermaic-gulf: Thermaic Gulf
+  thucydides: Thucydides
+  unesco: UNESCO
+  vergina: Vergina
+  vergina-sun: Vergina Sun
+  wars-of-the-diadochi: Wars of the Diadochi
+  western-civilization: Western civilization
+  william-smith-lexicographer: William Smith (lexicographer)
+  world-heritage-list: World Heritage List
+source:
+  site: Wikipedia
+  lang: en
+  title: Aegae (Macedonia)
+  url: https://en.wikipedia.org/wiki/Aegae_(Macedonia)
+  page-id: 58878766
+  revision: "1371477670"
+  modified: 2026-08-26T17:57:03Z
+  retrieved: 2026-09-09
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Aegae
+    (Macedonia)" (revision 1371477670), by Wikipedia contributors, used under
+    CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/aegae-macedonia.mdy
+  source-digest: baf6def8acf13e30
+  source-revision: "1371477670"
+  model: claude-opus-5
+  left-out: The two-image gallery that closed the Tomb section (the Great
+    Tumulus and the tomb facade) and the two palace photographs in the Palace
+    section have been moved into the image plan rather than kept as markup
+    inside the section bodies. The infobox palace image and the Palace
+    section's 'after restoration' image are the same file, so they appear once
+    in the image plan, as the hero. The Wikidata 'dissolved' value
+    (approximately 100) disagrees with the infobox 'abandoned ~300 AD' and the
+    prose '3rd century AD'; the key fact follows the infobox. Wikidata's
+    'capital-of ... to 399 BC' was not used because the prose dates the move
+    to Pella only to 'the beginning of the 4th century BC'.
+  verified: true
+  verdict: minor-only
+  findings: 1
+  reviewed: false
++++
+[[ Philip II | philip-ii-of-macedon ]] was assassinated in the theatre at Aigai, and it was there that his son [[ Alexander the Great ]] was proclaimed king of [[ Macedon ]]. !!Aegae!! or !!Aigai!! (Ancient Greek: Αἰγαί, //Aigaí//, [[ Latinized | latinisation-of-names ]]: //Aegae//, Greek: Αιγές, [[ romanized | romanization-of-greek ]]: //Aiges//) was the original capital of that kingdom, the [[ ancient Greek | ancient-greece ]] realm of the [[ Argead | argead-dynasty ]] [[ Makedones ]] in [[ Lower Macedonia ]]. The city sat in the [[ Haliacmon ]] valley on the foothills of the [[ Pierian Mountains ]], between the modern towns of [[ Vergina ]] and Palatitsia,[[ ^1 ]][[ ^2 ]] looking out over the central [[ Macedonian | macedonia-greece ]] plain in northern [[ Greece ]].
+
+The city was abandoned in the 3rd century AD and found again in the 19th.[[ ^1 ]][[ ^3 ]] Three major archaeological missions have dug there since. [[ Léon Heuzey ]] of the [[ French School at Athens ]] led the first in the 1860s. Over a century later [[ Manolis Andronikos ]] led excavations that made many important discoveries, among them the tomb of Philip II of Macedon and the [[ Golden Larnax ]] bearing the [[ Vergina Sun ]]. Angeliki Kottaridi led restoration efforts in the 2000s. Today it is an [[ archaeological site ]] with two museums, and in 1996 it was inscribed on the [[ UNESCO ]] [[ World Heritage List ]] for its monumental significance in [[ Western civilization ]] and its exceptional architecture.[[ ^3 ]]
+
+== Name
+
+The name Aigai is etymologically related to the word for 'goat' (Ancient Greek: [[ αἴξ | https://en.wiktionary.org/wiki/αἴξ#Ancient_Greek ]], [[ romanized | romanization-of-ancient-greek ]]: //aíx//), and is translated as 'goat town'.[[ ^4 ]] [[ Diodorus Siculus ]] claimed the city got its name after [[ Perdiccas I | perdiccas-i-of-macedon ]] was instructed by the [[ Pythia ]] at the [[ Oracle of Delphi ]] to found his city at a place where "white-horned goats rest at dawn".[[ ^5 ]][[ ^6 ]] This version, supported by [[ Thucydides ]], was the 'official' [[ founding myth ]] in the 5th century BC.[[ ^4 ]] [[ Justin | justin-historian ]], in the //[[ Epitome of the Philippic History | epitome-of-the-philippic-history-of-pompeius-trogus ]]//, tells it differently: [[ Edessa | edessa-greece ]] was the older name of Aegae before [[ Caranus of Macedon ]] captured it.[[ ^7 ]] Because of that account, Edessa was historically thought to have been the site of Aegae.[[ ^8 ]]
+
+The city also turns up in the historical record as !!Aegeae/Aigeai!! (Αἰγέαι) and !!Aegaea/Aigaia!! (Αἰγαῖα).[[ ^9 ]] The name is plural, as ancient Greek place names often are: [[ Athens ]] ([[ Ἀθῆναι | https://en.wiktionary.org/wiki/Ἀθῆναι#Ancient_Greek ]], //Athenai//) and [[ Thebes | thebes-greece ]] ([[ Θῆβαι | https://en.wiktionary.org/wiki/Θῆβαι#Ancient_Greek ]], //Thebai//) are the same. In modern Greek it is !!Aiges!! (Αιγές, Greek pronunciation: [[ [eˈʝes\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FGreek ]]), the ancient plural ending //-ai// having become the modern //-es// in a typical [[ first declension | first-declension#greek-nouns ]] transition.
+
+== History
+
+In the 7th century BC the [[ Temenids | temenus ]]' dominance led the Macedonians to expand and subdue the local populations, a process that ran until the end of the 6th century BC and established the dynasty at Aigai. Where the [[ Argead dynasty ]] came from is something the ancient sources disagree about.[[ ^10 ]][[ ^11 ]] [[ Alexander I | alexander-i-of-macedon ]] is the first truly historic figure; counting back along the line of succession, the beginnings of the Macedonian dynasty have traditionally been dated to 750 BC.[[ ^12 ]] [[ Herodotus ]] says[[ ^13 ]] the [[ Argead dynasty ]] was an ancient Greek royal house led by [[ Perdiccas I ]], who fled from [[ Argos | ancient-argos ]] in about 650 BC.[[ ^14 ]]
+
+The Macedonians saw the state the Argeads founded as a typical ancient Greek city-state (//[[ Polis ]]//): Aegae the urban centre ([[ ἄστυ | https://en.wiktionary.org/wiki/ἄστυ#Ancient_Greek ]]) ruling over the surrounding countryside ([[ χώρα | https://en.wiktionary.org/wiki/χώρα#Ancient_Greek ]]), not basically different from [[ Athens | classical-athens ]] or [[ Sparta ]]. How far that perception was historically accurate is not clear.[[ ^15 ]] What the archaeology shows is a place that developed as an organized collection of villages, laid out to mirror the aristocratic structure of tribes centred on the power of the king, and it stayed that way throughout its history. Aigai never became a large city. Most of its inhabitants lived in the surrounding villages, and the walled //asty// (acropolis) was built at the centre. From Aigai the Macedonians spread into the central part of Macedonia and displaced the local population of [[ Pierians ]]. From 513 to 480 BC Aigai was part of the [[ Persian Empire ]], but [[ Amyntas I ]] managed to keep its relative independence, avoid [[ satrapy | satrap ]] and extend its possessions. In the first half of the 5th century BC Aigai was the capital of Macedon. Life reached unseen levels of luxury, and to meet the needs of the court merchants from all over the ancient world brought valuable goods to Aigai: perfume, carved ornaments and jewellery.[[ ^16 ]] The city wall went up in the 5th century, probably under [[ Perdiccas II ]]. At the end of that century [[ Archelaus I | archelaus-i-of-macedon ]] brought artists, poets and philosophers from all over the Greek world to his court; it was at Aigai that [[ Euripides ]] wrote and presented his last tragedies.
+
+At the beginning of the 4th century BC, Archelaus moved the Macedonian capital northeast to [[ Pella ]], on a coastal waterway of the [[ Thermaic Gulf ]] on the [[ central Macedonian | central-macedonia ]] plain.[[ ^17 ]] Aigai kept its role as the sacred city of the Macedonian kingdom all the same: the site of the traditional cult centres, a royal palace and the royal tombs. That is why [[ Philip II | philip-ii-of-macedon ]] was there, attending the wedding of his daughter [[ Cleopatra | cleopatra-of-macedon ]] to [[ King Alexander of Epirus | alexander-i-of-epirus ]], when he fell by the hand of [[ Pausanias of Orestis ]][[ ^18 ]] in the theatre.[[ ^19 ]] His son [[ Alexander the Great ]] was proclaimed king of Macedonia on the spot. The old capital had remained the "national hearth"[[ ^20 ]] of the Macedonian kingdom and the burial place of its kings, who descended from [[ Perdiccas | perdiccas-i-of-macedon ]]. Alexander's own body was to have rested at Aigai too,[[ ^21 ]] but [[ Ptolemy I Soter ]] took it to [[ Memphis | memphis-egypt ]]. The urban fabric of the city represents a pivotal moment of transition between the classical Greek city-state and the imperial centres of the [[ Hellenistic period ]]. The [[ bitter struggles | wars-of-the-diadochi ]] between the [[ heirs of Alexander | diadochi ]] in the 3rd century adversely affected the city; in 276 BC [[ Gallic | gauls ]] mercenaries of [[ Pyrrhus | pyrrhus-of-epirus ]] plundered many of the tombs.
+
+When the Romans overthrew the Macedonian kingdom [[ in 168 BC | battle-of-pydna ]], both the old and the new capital were destroyed, the walls pulled down and all the buildings burned. In the 1st century AD a landslide destroyed what had been rebuilt (excavations establish that parts were still inhabited then). Between the 2nd and 5th centuries AD the population gradually moved from the foothills of the [[ Pierian range | pierian-mountains ]] down to the plain, until all that remained was a small settlement whose name alone, Palatitsia (palace), indicated its former importance.
+
+== Tomb of Philip II and other Royal Tombs of Aigai
+
+Before the discoveries at [[ Vergina ]], [[ Edessa | edessa-greece ]] was thought to be the site of Aigai. In 1977 the Greek archaeologist [[ Manolis Andronikos ]] began excavating the Great Tumulus at Aigai[[ ^22 ]] and found that two of the four tombs inside it had lain undisturbed since antiquity. Both of them, and Tomb II in particular, held fabulous treasures and objects of great quality and sophistication.[[ ^23 ]]
+
+There was much debate for some years,[[ ^24 ]][[ ^25 ]] but Tomb II has been shown to be that of Philip II, as indicated by many features,[[ ^26 ]] among them the [[ greaves | greave ]]: one of them was shaped to fit a leg with a misaligned tibia, and Philip II was recorded as having broken his tibia. The remains of the skull, too, show damage to the right eye caused by the penetration of an object, historically recorded to be an arrow.[[ ^27 ]]
+
+The most recent research gives further evidence that Tomb II contains the remains of [[ Philip II | philip-ii-of-macedon ]].[[ ^28 ]]
+
+== Palace of Aigai
+
+The recently excavated palace is considered to be not only the biggest but, together with the [[ Parthenon ]], one of the most significant buildings of [[ classical Greece ]].[[ ^29 ]] It is the most important building discovered at the site. It stands on a plateau directly below the acropolis, a building of two or perhaps three stories centred on a large open courtyard flanked by Doric colonnades. On the north side a large gallery looked out over the stage of the neighbouring theatre and the whole Macedonian plain. The decoration was sumptuous: mosaic floors, painted plastered walls and fine relief tiles, with the masonry and architectural members covered in high-quality marble stucco. Excavations have dated its construction to the reign of Philip II,[[ ^30 ]] even though he also had a palace in the capital, [[ Pella ]]. It has been suggested that the building was designed by the architect [[ Pytheos of Priene | pythius-of-priene ]], known for his work on the [[ Mausoleum at Halicarnassus ]] and for his views on urban planning and architectural proportions. The theatre, also from the second half of the 4th century BC, was closely associated with the palace.
+
+Nearly 30 large columns that surrounded the palace's main [[ peristyle ]] have been reconstructed, some towering to a height of 25 ft.[[ ^31 ]] The frieze on the peristyle's southern section has been reconstructed as well.[[ ^32 ]] Over 5,000 square feet of [[ mosaics | mosaic ]], depicting a range of scenes including the ravishing of [[ Europa | europa-consort-of-zeus ]] and motifs from nature, have been carefully conserved.
+
+The Palace of Aigai is the largest building of classical Greece, and it is where [[ Alexander the Great ]] was proclaimed king in 336 BC.[[ ^33 ]]
+
+The palace lost its significance for Macedonian royalty after it, and the rest of the city, was burned down in 168 BCE after the [[ Battle of Pydna ]], even though the city itself remained for another three centuries.[[ ^34 ]] A landslide in the first century AD preserved what was left of the ruins, leaving about 3–4 m of soil on top of the monument.[[ ^34 ]]
+
+The Palace of Aigai reopened to the public in January 2024 after an extensive 16-year restoration project.[[ ^33 ]]
+
+== Attribution
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/20px-PD-icon.svg.png" alt="" height="12" width="12"
+
+    This article incorporates text from a publication now in the
+    [[ public domain ]]: [[ Smith, William | william-smith-lexicographer ]], ed.
+    (1854–1857).
+    [[ "Aegae" | https://archive.org/details/dictionarygreek01smitgoog/page/30/mode/2up ]].
+    //[[ Dictionary of Greek and Roman Geography ]]//. London: John Murray.
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/20px-PD-icon.svg.png" alt="" height="12" width="12"
+
+    This article incorporates text from a publication now in the
+    [[ public domain ]]: [[ Smith, William | william-smith-lexicographer ]], ed.
+    (1854–1857).
+    [[ "Edessa" | https://archive.org/details/dictionarygreek01smitgoog/page/806/mode/2up ]].
+    //[[ Dictionary of Greek and Roman Geography ]]//. London: John Murray.
+
+[[ ^1 ]]: [[ Lund University ]]. [[ //Digital Atlas of the Roman Empire// | https://imperium.ahlfeldt.se/places/21893.html ]].
+
+[[ ^2 ]]: [[ Talbert, Richard | richard-talbert ]], ed. (2000). [[ //Barrington Atlas of the Greek and Roman World// ]]. Princeton University Press. p. 50. ISBN [[ 978-0-691-03169-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-691-03169-9 ]], with accompanying Map-by-Map Directory.
+
+[[ ^3 ]]: [[ "Archaeological Site of Aigai (modern name Vergina)" | https://whc.unesco.org/en/list/780 ]]. //UNESCO World Heritage Convention//. United Nations Educational Scientific and Cultural Organization. Retrieved 25 November 2022.
+
+[[ ^4 ]]: A Companion to Ancient Macedonia, p. 90.
+
+[[ ^5 ]]: Sikeliotis, Diodoros or [[ Diodorus Siculus ]] 80–20 B.C., Historical, 7.16: "and then/Where thou shalt see white-horned goats, with fleece/Like snow, resting at dawn, make sacrifice/Upon the blessed gods upon that spot/And raise the chief city of a state."
+
+[[ ^6 ]]: [[ Diodorus Siculus ]]. [[ "16.1" | https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/7*.html#16 ]]. [[ //Bibliotheca historica// ]] [//The Library of History//]. Vol. VII. Retrieved 1 January 2025 – via Vol. III of the Loeb Classical Library (1939 ed.), reproduced by [[ LacusCurtius ]] ([[ University of Chicago ]]).
+
+[[ ^7 ]]: A Companion to Ancient Macedonia, pp. 90–91.
+
+[[ ^8 ]]: Edessa.
+
+[[ ^9 ]]: [[ Borza, Eugene | eugene-n.-borza ]]. [[ "Places: 491512 (Aigeai)" | https://pleiades.stoa.org/places/491512 ]]. Pleiades. [[ Archived | https://web.archive.org/web/20250101151557/https://pleiades.stoa.org/places/491512 ]] from the original on 1 January 2025. Retrieved 1 January 2025.
+
+[[ ^10 ]]: [[ Justin | justin-historian ]]: //[[ Historiarum Philippicarum | justin-historian#works ]]//
+
+[[ ^11 ]]: [[ Strabo ]]. [[ //Geography// | geographica ]], Book 7
+
+[[ ^12 ]]: [[ Hammond, Nicholas Geoffrey Lemprière | n.-g.-l.-hammond ]]; [[ Griffith, Guy Thompson | guy-thompson-griffith ]] (1972). //A History of Macedonia: Historical Geography and Prehistory I//. Oxford, United Kingdom: Clarendon Press.
+
+[[ ^13 ]]: [[ Herodotus ]]. //Histories//, 8.137.8
+
+[[ ^14 ]]: Ring, Trudy (1996). [[ //International Dictionary of Historic Places: Southern Europe// | https://books.google.com/books?id=74JI2UlcU8AC&q=Vergina+Illyrian&pg=PA753 ]]. Taylor & Francis. p. 753. ISBN [[ 1-884964-02-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-884964-02-8 ]].
+
+[[ ^15 ]]: Chatzopoulos 2011, p. 236.
+
+[[ ^16 ]]: Angeliki Kottaridi, //Aegae, the Macedonian metropolis, Treasures from the Royal Capital of Macedon//, Ashmolean Museum 2011. p.158
+
+[[ ^17 ]]: Roisman, Joseph (December 2010). [[ //A Companion to Ancient Macedonia// | https://archive.org/details/companiontoancie00rois ]]. Wiley-Blackwell. p. [[ 156 | https://archive.org/details/companiontoancie00rois/page/n183 ]]. ISBN [[ 978-1-4051-7936-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-4051-7936-2 ]].
+
+[[ ^18 ]]: [[ Diodorus Siculus ]]. //[[ Bibliotheca historica ]] (Historical Library)//. Vol. 16.91, 92.
+
+[[ ^19 ]]: [[ "LacusCurtius • Diodorus Siculus — Book XVI Chapters 66‑95" | https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/16D*.html#91 ]]. //penelope.uchicago.edu//. Retrieved 16 July 2018.
+
+[[ ^20 ]]: ἑστία, Diod. Excerpt. p. 563
+
+[[ ^21 ]]: [[ Pausanias | pausanias-geographer ]] (1918). [[ "6.3" | https://www.perseus.tufts.edu/hopper/text?doc=paus.+1.6.3 ]]. //Description of Greece//. Vol. 1. Translated by [[ W. H. S. Jones ]]; H. A. Ormerod. Cambridge, Massachusetts; London: Harvard University Press; William Heinemann – via [[ Perseus Digital Library ]].
+
+[[ ^22 ]]: [[ "Αιγές (Βεργίνα) \| Museum of Royal Tombs of Aigai -Vergina" | https://web.archive.org/web/20181229190754/http://www.aigai.gr/en ]]. //aigai.gr//. Archived from [[ the original | http://www.aigai.gr/en/ ]] on 2018-12-29. Retrieved 2018-10-25.
+
+[[ ^23 ]]: [[ National Geographic article outlining recent archaeological examinations of Tomb II | https://web.archive.org/web/20080430193446/http://news.nationalgeographic.com/news/2008/04/080423-alexander-great.html ]].
+
+[[ ^24 ]]: Hatzopoulos B. Miltiades, The Burial of the Dead (at Vergina) or The Unending Controversy on the Identity of the Occupant of Tomb II. //Tekmiria//, vol. 9 (2008)
+
+[[ ^25 ]]: Antonis Bartsiokas; et al. (July 20, 2015). [[ "The lameness of King Philip II and Royal Tomb I at Vergina, Macedonia" | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538655 ]]. //Proceedings of the National Academy of Sciences of the United States of America//. !!112!! (32): 9844–48. Bibcode:[[ 2015PNAS..112.9844B | https://ui.adsabs.harvard.edu/abs/2015PNAS..112.9844B ]]. doi:[[ 10.1073/pnas.1510906112 | https://doi.org/10.1073%2Fpnas.1510906112 ]]. PMC [[ 4538655 | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538655 ]]. PMID [[ 26195763 | https://pubmed.ncbi.nlm.nih.gov/26195763 ]].
+
+[[ ^26 ]]: Musgrave, Jonathan; Prag, A. J. N. W.; Neave, Richard; Fox, Robin Lane; White, Hugh (8 August 2010). [[ "The Occupants of Tomb II at Vergina. Why Arrhidaios and Eurydice must be excluded" | http://www.medsci.org/v07p00s1.htm ]]. //International Journal of Medical Sciences//. !!7!! (6): s1–s15. Retrieved 2018-10-25.
+
+[[ ^27 ]]: See John Prag and Richard Neave's report in //Making Faces: Using Forensic and Archaeological Evidence//, published for the Trustees of the British Museum by the British Museum Press, London: 1997
+
+[[ ^28 ]]: New Finds from the Cremains in Tomb II at Aigai Point to Philip II and a Scythian Princess, T. G. Antikas* and L. K. Wynn-Antikas, International Journal of Osteoarchaeology
+
+[[ ^29 ]]: [[ "Αιγές (Βεργίνα) \| Museum of Royal Tombs of Aigai -Vergina" | https://web.archive.org/web/20181229190754/http://www.aigai.gr/en ]]. //www.aigai.gr//. Archived from [[ the original | http://www.aigai.gr/en/ ]] on 2018-12-29. Retrieved 2020-01-10.
+
+[[ ^30 ]]: [[ "Αιγές (Βεργίνα) – Museum of Royal Tombs of Aigai -Vergina" | http://www.aigai.gr/en ]]. //aigai.gr//. Retrieved 16 July 2018.
+
+[[ ^31 ]]: Mandal, Dattatreya (28 February 2018). [[ "Philip II's massive palace at Aegae to be opened for the public in May" | https://www.realmofhistory.com/2018/02/28/philip-ii-palace-aigai-pella/ ]]. //Realm of History//. Retrieved 17 December 2020.
+
+[[ ^32 ]]: [[ "Philip II's palace at Aegae to open to the public in May" | https://thegreekobserver.com/blog/amp/2018/02/21/philip-iis-palace-aigai-open-public-may/ ]]. //The Greek Observer//. Retrieved 17 December 2020.
+
+[[ ^33 ]]: Kantouris, Derek Gatopoulos and Costas (2024-01-06). [[ "Greece unveils palace where Alexander the Great became king" | https://www.smh.com.au/world/europe/greece-unveils-palace-where-alexander-the-great-became-king-20240106-p5evjl.html ]]. //The Sydney Morning Herald//. Retrieved 2024-01-31.
+
+[[ ^34 ]]: Kottaridi 2011.

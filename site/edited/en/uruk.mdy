@@ -1056,7 +1056,8 @@ rewritten:
     against an infobox build date of c. 5000 BC. The Toponymy section is a
     list of spellings in seven scripts and the List of rulers is a table, so
     both are left close to as they were."
-  verified: false
+  verified: true
+  verdict: clean
   reviewed: false
 +++
 At its peak around 3100 BC, Uruk may have had up to 50,000 residents,[[ ^2 ]][[ ^3 ]] with 80,000–90,000 people living in its environs,[[ ^4 ]] making it the largest urban area in the world at the time. It is the [[ type site ]] for the [[ Uruk period ]] and played a leading role in the early urbanization of [[ Sumer ]] in the mid-4th millennium BC.

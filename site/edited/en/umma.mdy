@@ -1,0 +1,952 @@
++++
+title: Umma
+description: Ancient Sumerian city in modern-day Iraq
+key-facts:
+  - name: Which site
+    value: Traditionally Tell Jokha; more recently suggested to be Umm al-Aqarib,
+      or the name of both cities
+    from: Traditionally, Umma was identified with Tell Jokha. More recently it has
+      been suggested that it was located at Umm al-Aqarib, less than 7 km (4.3
+      mi) to its northwest or was even the name of both cities.
+  - name: Where
+    value: Dhi Qar Province, Iraq, in Mesopotamia
+    from: |-
+      location: Dhi Qar Province, Iraq
+        region: Mesopotamia
+  - name: Excavated in
+    value: 1854, 1885, 1999–2002, 2017–2019
+    from: "excavation-dates: 1854, 1885, 1999–2002, 2017–2019"
+  - name: Excavated by
+    value: William Loftus, John Punnett Peters, Nawala Ahmed Al-Mutawalli,
+      Drahoslav Hulínek
+    from: "archaeologists: William Loftus, John Punnett Peters, Nawala Ahmed
+      Al-Mutawalli, Drahoslav Hulínek"
+  - name: Tablets from the site
+    value: Over 30,000, most of them administrative and economic texts
+    from: Most of the over 30,000 tablets recovered from the site are
+      administrative and economic texts from that time.
+  - name: Tutelary gods
+    value: Sara and Ninura
+    from: The tutelary gods of Umma were Sara and Ninura.
+image-plan:
+  - file: Sumer_map.jpg
+    role: hero
+    section: lead
+    caption: Where Umma sat in [[ Sumer ]] — in what is now [[ Dhi Qar Province ]]
+      in [[ Iraq ]].
+  - file: Imprisoned_man_of_Umma_on_the_Stele_of_the_Vultures.jpg
+    role: full
+    section: early-dynastic-period
+    caption: An imprisoned man of Umma, carved on the [[ Stele of the Vultures ]].
+  - file: Gutian_inscription-AO_4783-gradient.jpg
+    role: inline
+    section: sargonic-period
+    caption: An Early Dynastic inscription of Lugalannatum from Umma, in the
+      collection of the Louvre Museum.
+  - file: Clay_tablet._Delivery_certificate._Reign_of_Shu-Sin_of_Ur,_21st_century_BCE._From_Umma,_Iraq._Vorderasiatisches_Museum,_Berlin.jpg
+    role: inline
+    section: ur-iii-period
+    caption: A delivery certificate on clay from the reign of [[ Shu-Sin ]] of Ur,
+      21st century BCE. From Umma, Iraq; Vorderasiatisches Museum, Berlin.
+  - file: Map_Umma_Louvre_AO5677.jpg
+    role: full
+    section: ur-iii-period
+    caption: Map of a property belonging to the city of Ur III Umma, giving the
+      acreage of each parcel.
+  - file: Stone_tablet_re_Il,_king_of_Umma,_c._2400_BC_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07155.JPG
+    role: inline
+    section: list-of-rulers
+    caption: 'Stone tablet re Il, king of Umma, c. 2400 BC: "For ..., Il, king of
+      Umma, son of Eandamu, grandson of Enakale king of Umma, built his/her
+      temple".'
+  - file: Aerial_view_of_Umma,_following_pillage_after_the_US_invasion_1.jpg
+    role: full
+    section: looting
+    caption: Umma from the air. [[ looters | archaeological-looting-in-iraq ]]
+      descended on Tell Jokha and Tell Umm al-Aqarib during the [[ 2003
+      invasion of Iraq ]], leaving them pockmarked with hundreds of ditches
+      and pits.[[ ^62 ]]
+further:
+  - slug: lagash
+    why: The neighbour on the other side of Umma's long frontier conflict,
+      reported c. 2400 BC by Entemena.
+  - slug: akkadian-empire
+    why: Umma was a major power under Akkad, and Rimush destroyed KI.AN nearby.
+  - slug: ur
+    why: Lugal-Zage-Si controlled it at Umma's zenith, and under the Ur III
+      dynasty Umma became an important provincial center.
+coordinates:
+  lat: 31.66722222
+  lon: 45.8875
+image: https://upload.wikimedia.org/wikipedia/commons/a/a1/Sumer_map.jpg
+images:
+  - file: Sumer_map.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sumer_map.jpg/330px-Sumer_map.jpg
+    width: 713
+    height: 715
+    caption: Location of the city of Umma in Sumer
+  - file: Imprisoned_man_of_Umma_on_the_Stele_of_the_Vultures.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Imprisoned_man_of_Umma_on_the_Stele_of_the_Vultures.jpg/250px-Imprisoned_man_of_Umma_on_the_Stele_of_the_Vultures.jpg
+    width: 316
+    height: 336
+    caption: Imprisoned man of Umma on the Stele of the Vultures
+  - file: Gutian_inscription-AO_4783-gradient.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Gutian_inscription-AO_4783-gradient.jpg/250px-Gutian_inscription-AO_4783-gradient.jpg
+    width: 3600
+    height: 2400
+    caption: An Early Dynastic inscription of Lugalannatum from Umma (Collection
+      of the Louvre Museum)
+  - file: Clay_tablet._Delivery_certificate._Reign_of_Shu-Sin_of_Ur,_21st_century_BCE._From_Umma,_Iraq._Vorderasiatisches_Museum,_Berlin.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Clay_tablet._Delivery_certificate._Reign_of_Shu-Sin_of_Ur%2C_21st_century_BCE._From_Umma%2C_Iraq._Vorderasiatisches_Museum%2C_Berlin.jpg/250px-Clay_tablet._Delivery_certificate._Reign_of_Shu-Sin_of_Ur%2C_21st_century_BCE._From_Umma%2C_Iraq._Vorderasiatisches_Museum%2C_Berlin.jpg
+    width: 3609
+    height: 4196
+    caption: Clay tablet. Delivery certificate. Reign of Shu-Sin of Ur, 21st
+      century BCE. From Umma, Iraq. Vorderasiatisches Museum, Berlin.
+  - file: Aerial_view_of_Umma,_following_pillage_after_the_US_invasion_1.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aerial_view_of_Umma%2C_following_pillage_after_the_US_invasion_1.jpg/250px-Aerial_view_of_Umma%2C_following_pillage_after_the_US_invasion_1.jpg
+    width: 470
+    height: 308
+    caption: Aerial view of Umma
+  - file: Map_Umma_Louvre_AO5677.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Map_Umma_Louvre_AO5677.jpg/250px-Map_Umma_Louvre_AO5677.jpg
+    width: 1050
+    height: 1050
+    caption: Map of a property belonging to the city of Ur III Umma, indicating
+      the acreage of each parcel
+  - file: Stone_tablet_re_Il,_king_of_Umma,_c._2400_BC_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07155.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Stone_tablet_re_Il%2C_king_of_Umma%2C_c._2400_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07155.JPG/250px-Stone_tablet_re_Il%2C_king_of_Umma%2C_c._2400_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07155.JPG
+    width: 2532
+    height: 3326
+    caption: Stone tablet re Il, king of Umma, c. 2400 BC "For ..., Il, king of
+      Umma, son of Eandamu, grandson of Enakale king of Umma, built his/her
+      temple"
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/250px-Iraq_physical_map.svg.png
+  type: Settlement
+  location: Dhi Qar Province, Iraq
+  region: Mesopotamia
+  site-notes:
+    excavation-dates: 1854, 1885, 1999–2002, 2017–2019
+    archaeologists: William Loftus, John Punnett Peters, Nawala Ahmed
+      Al-Mutawalli, Drahoslav Hulínek
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: early-dynastic-period
+    title: Early Dynastic period
+  - level: 3
+    id: sargonic-period
+    title: Sargonic period
+  - level: 3
+    id: ur-iii-period
+    title: Ur III period
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 3
+    id: tell-jokha
+    title: Tell Jokha
+  - level: 3
+    id: umm-al-aqarib-gišša
+    title: Umm al-Aqarib (Gišša)
+  - level: 3
+    id: tell-shmet
+    title: Tell Shmet
+  - level: 3
+    id: looting
+    title: Looting
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+  - level: 2
+    id: gallery
+    title: Gallery
+wikidata:
+  id: Q740952
+  label: Umma
+  description: ancient Human Settlement
+  claims:
+    commons-category: Umma
+    country: Iraq
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Plan_of_terrain_AO5677_mp3h9127.jpg
+    located-in-the-administrative-territorial-entity: Dhi Qar Governorate
+    coordinate-location:
+      lat: 31.6674
+      lon: 45.8877
+    location: Mesopotamia
+    instance-of:
+      - human settlement
+      - archaeological site
+      - city-state
+    culture: Sumer
+    different-from: Umma
+    has-part-s: Shara Temple at Umma
+link-titles:
+  2003-invasion-of-iraq: 2003 invasion of Iraq
+  adab-city: Adab (city)
+  aga-of-kish: Aga of Kish
+  akkadian-empire: Akkadian Empire
+  akurgal: Akurgal
+  ama-ušumgal-ana: Ama-ušumgal-ana
+  amar-sin: Amar-Sin
+  apisal: Apisal
+  archaeological-looting-in-iraq: Archaeological looting in Iraq
+  babylonian-calendar: Babylonian calendar
+  bara-irnun: Bara-irnun
+  determinative: Determinative
+  dhi-qar-province: Dhi Qar Province
+  eannatum: Eannatum
+  early-dynastic-ii: Early Dynastic II
+  early-dynastic-period-mesopotamia: Early Dynastic Period (Mesopotamia)
+  enakalle: Enakalle
+  enannatum-i: Enannatum I
+  enannatum-ii: Enannatum II
+  enentarzi: Enentarzi
+  enki: Enki
+  enshakushanna: Enshakushanna
+  ensi-sumerian: Ensi (Sumerian)
+  entemena: Entemena
+  ereshkigal: Ereshkigal
+  geshtinanna: Geshtinanna
+  gishakidu: Gishakidu
+  global-heritage-network: Global Heritage Network
+  gula-goddess: Gula (goddess)
+  gutian-dynasty: Gutian dynasty
+  gutian-people: Gutian people
+  gutian-period: Gutian period
+  gutians: Gutians
+  hebrew-calendar: Hebrew calendar
+  ibbi-sin: Ibbi-Sin
+  ikun-shamash: Ikun-Shamash
+  il-king-of-umma: Il, king of Umma
+  inanna: Inanna
+  inannas-descent-into-the-underworld: Inanna's Descent into the Underworld
+  iraq: Iraq
+  john-punnett-peters: John Punnett Peters
+  lagash: Lagash
+  larsa: Larsa
+  lugal-zage-si: Lugal-zage-si
+  lugalanatum: Lugalanatum
+  lugalanda: Lugalanda
+  lugalannatum: Lugalannatum
+  meskiagnun: Meskiagnun
+  middle-chronology: Middle Chronology
+  naram-sin-of-akkad: Naram-Sin of Akkad
+  ninazu: Ninazu
+  ninhursag: Ninhursag
+  ninura: Ninura
+  pabilgagaltuku: Pabilgagaltuku
+  pashime: Pashime
+  pre-dynastic-period-of-sumer: Pre-dynastic period of Sumer
+  proto-cuneiform: Proto-cuneiform
+  rimush: Rimush
+  sargon-of-akkad: Sargon of Akkad
+  sargonic-dynasty: Sargonic dynasty
+  shar-kali-shari: Shar-kali-shari
+  shara-god: Shara (god)
+  shu-sin: Shu-Sin
+  shulgi: Shulgi
+  sium: Si'um
+  stele-of-ushumgal: Stele of Ushumgal
+  stele-of-the-vultures: Stele of the Vultures
+  sumer: Sumer
+  sumerian-king-list: Sumerian King List
+  sumerian-language: Sumerian language
+  sumuel: Sumuel
+  tempore: Tempore
+  ukush: Ukush
+  umma-calendar: Umma calendar
+  university-of-pennsylvania: University of Pennsylvania
+  ur: Ur
+  ur-iii: Ur III
+  ur-iii-period: Ur III period
+  ur-lumma: Ur-Lumma
+  ur-nanshe: Ur-Nanshe
+  ur-pabilsag: Ur-Pabilsag
+  ur-zababa: Ur-Zababa
+  uruk: Uruk
+  uruk-period: Uruk period
+  urukagina: Urukagina
+  ush-king-of-umma: Ush, king of Umma
+  walter-andrae: Walter Andrae
+  william-loftus-archaeologist: William Loftus (archaeologist)
+  zabala-sumer: Zabala (Sumer)
+source:
+  site: Wikipedia
+  lang: en
+  title: Umma
+  url: https://en.wikipedia.org/wiki/Umma
+  page-id: 321529
+  revision: "1366244908"
+  modified: 2026-07-27T00:46:52Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Umma"
+    (revision 1366244908), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/umma.mdy
+  source-digest: b1dcf6581311e268
+  source-revision: "1366244908"
+  model: claude-opus-5
+  left-out: The Archaeology heading has no prose of its own in the source — it
+    goes straight to Tell Jokha — so its body is built from the site notes in
+    the front matter (excavation dates and archaeologists) plus the three
+    mound names taken from its own subsections; nothing new is asserted there.
+    The List of rulers table and the Gallery are reproduced close to as they
+    were, per the instruction not to invent continuity for non-prose. The
+    source's two figures on distance disagree (the lead has Umm al-Aqarib
+    "less than 7 km (4.3 mi) to its northwest", the Archaeology section "about
+    6 kilometers southeast of Tell Jokha"); both are carried where they stand
+    rather than reconciled. The Tell Shmet sentence about the Late Uruk period
+    has a stray unmatched parenthesis and an empty "()" in the source, kept as
+    found. The image plan uses only the seven files listed in the front
+    matter; the infobox map (Iraq_physical_map.svg) and the Wikidata image
+    (Plan_of_terrain_AO5677) are not named in that list, and neither are the
+    gallery images, so none of them are planned.
+  verified: true
+  verdict: minor-only
+  findings: 1
+  reviewed: false
++++
+Two mounds in modern Iraq have a claim on the name Umma, and one suggestion is that it covered both of them.[[ ^3 ]][[ ^4 ]] !!Umma!! (Sumerian: [[ 𒄑𒆵𒆠 | https://en.wiktionary.org/wiki/𒄑𒆵𒆠 ]] = GIŠ.KUŠU,,2,,^^[[ KI | determinative ]]^^)[[ ^1 ]] was an ancient city in [[ Sumer ]], in modern [[ Dhi Qar Province ]] in [[ Iraq ]], and there is some scholarly debate about the Sumerian and Akkadian names for this site.[[ ^2 ]] Traditionally, Umma was identified with Tell Jokha. More recently it has been suggested that it was located at Umm al-Aqarib, less than 7 km (4.3 mi) to its northwest or was even the name of both cities.[[ ^3 ]][[ ^4 ]] One or both were the leading city of the Early Dynastic kingdom of Gišša, with the most recent excavators putting forth that Umm al-Aqarib was prominent in EDIII but Jokha rose to preeminence later. The town of KI.AN was also nearby.[[ ^5 ]] KI.AN was destroyed by [[ Rimush ]], a ruler of the [[ Akkadian Empire ]]. There are known to have been six gods of KI.AN including [[ Gula KI.AN | gula-goddess ]] and [[ Sara KI.AN | shara-god ]].[[ ^6 ]]
+
+The tutelary gods of Umma were Sara and Ninura. It is known that the ED ruler [[ Ur-Lumma ]] built a temple to the god [[ Enki-gal | enki ]] and one to the god Nagar-pa'e at Umma.[[ ^7 ]]
+
+Sara also turns up in poetry. In the early Sumerian literary composition //[[ Inanna's Descent into the Underworld ]]//, [[ Inanna ]] dissuades demons from the netherworld from taking [[ Shara | shara-god ]], patron of Umma, who was living in squalor.[[ ^8 ]]
+
+== History
+
+The site was occupied at least as far back as the [[ Uruk period ]], and a number of [[ proto-cuneiform ]] came from there. Most early textual sources are from Early Dynastic III, but a few tablets and a plaque from ED I/II came from there as well.[[ ^9 ]]
+
+== Early Dynastic period
+
+Neither site was excavated until modern times, so earlier archaeologists worked from the many looted texts available to them, and those grouped the ancient Early Dynastic (ED) cities of Gišša and Umma together under the single geographic name of Umma. Modern excavation at these sites has clarified that.[[ ^2 ]] Gišša ceased occupation after the ED and only one ruler is known there, on the strength of a lapis lazuli bead reading "To the goddess Inanna, Aka, king of Gišša (dedicated this bead)".[[ ^7 ]]
+
+Umma is best known for its long frontier conflict with [[ Lagash ]], as reported c. 2400 BC by [[ Entemena ]].[[ ^10 ]][[ ^11 ]] The city reached its zenith c. 2350 BC, under the rule of [[ Lugal-Zage-Si ]] who also controlled [[ Ur ]] and [[ Uruk ]].
+
+== Sargonic period
+
+Under the [[ Akkadian Empire ]] Umma was a major power and economic center rivaled only by Adab and Uruk.[[ ^12 ]][[ ^13 ]][[ ^14 ]] Eleven governors under Akkad are known, as well as two who may have been under [[ Gutium | gutians ]]. One, Lu-Utu, reports building a temple for [[ Ninhursag ]] and another for [[ Ereshkigal ]]. Namahni, a governor from the time of Iarlagan of Gutium, records building the E-ula temple of Ninura.[[ ^15 ]][[ ^16 ]] The Sargonic period ruler of Umma [[ Lugalanatum ]] built the temple E-gidru there.
+
+<blockquote
+  "[[ Lugalannatum ]] prince of Umma\... built the //E.GIDRU// [Sceptre] Temple
+  at Umma, buried his foundation deposit [and] regulated the orders. At that
+  time, [[ Si'um ]] was king of [[ Gutium | gutian-people ]]."[[ ^16 ]]
+
+A cuneiform text lays out the adjudication of a boundary dispute between [[ Adab | adab-city ]] and Umma by [[ Naram-Sin of Akkad ]] (c. 2255–2218 BC). It lists the governor under Akkad of Umma as Šubur-Nagarpae and the governor of Adab as Lugal-ša — the first attestation of both. The decision was witnessed by the "city elders" of Adab, Tallani, Ibrat, and [[ Pašime | pashime ]].[[ ^17 ]][[ ^18 ]]
+
+== Ur III period
+
+Under the [[ Ur III ]] dynasty, Umma became an important provincial center. The Ur III Umma province consisted of four districts, Da-Umma, [[ Apisal ]], Gu'edena, and Mušbiana.[[ ^19 ]] It is known from archive that the economy of Umma was about 1/3 the size of nearby Lagash province.[[ ^20 ]] Several governors of Umma under Ur are known: Aa-kala, Dadaga, and Ur-Lisi, all sons of one Ur-Nigar, and Ninbilia, wife of Aa-kala.[[ ^21 ]][[ ^22 ]][[ ^23 ]]
+
+The paperwork is what survives. Most of the over 30,000 tablets recovered from the site are administrative and economic texts from that time,[[ ^24 ]] and they permit an excellent insight into affairs in Umma.[[ ^25 ]] A year name of Ur III ruler [[ Shu-Sin ]] was "Year Shu-Sin the king of Ur built the temple of Shara in Umma". The next ruler [[ Ibbi-Sin ]] also had a year name of "Year Ibbi-Sin the king of Ur built the temple of Shara in Umma". The [[ Umma calendar ]] of [[ Shulgi ]] (c. 21st century BC) is the immediate predecessor of the later [[ Babylonian calendar ]], and indirectly of the post-exilic [[ Hebrew calendar ]].
+
+In the following Isin-Larsa period, a ruler of [[ Larsa ]], [[ Sumuel ]] (c. 1894-1866 BC), lists as one of his later year names "Year Umma was destroyed".
+
+== Archaeology
+
+Tell Jokha, Umm al-Aqarib and Tell Shmet have all been dug. All three have also been looted.
+
+== Tell Jokha
+
+Also called Tell Djokha and Tell Yokha.[[ ^26 ]][[ ^27 ]] The site of Tell Jokha was visited by [[ William Loftus | william-loftus-archaeologist ]] in 1854 and [[ John Punnett Peters ]] of the [[ University of Pennsylvania ]] in \1885. Peters found it to be half covered with sand dunes and found fragments of worked stone and copper fragments.[[ ^28 ]][[ ^29 ]] In the early 1900s, many illegally excavated Umma tablets began to appear on the antiquities market.[[ ^30 ]] Many of these tablets used an unusual "mul-iti" dating system (year x, month y, day z) from the reigns of [[ Akkadian Empire ]] rulers [[ Naram-Sin | naram-sin-of-akkad ]] and [[ Shar-kali-shari ]].[[ ^31 ]][[ ^32 ]][[ ^33 ]] From 1999 to 2002 Jokha, already heavily looted, was worked by an Iraqi team led by Nawala Ahmed Al-Mutawalli, recovering a number of tablets and bullae from the Early Dynastic, Sargonic, Ur III, and Old Babylonian periods as well as an Ur III period temple and Old Babylonian residences.[[ ^34 ]][[ ^35 ]][[ ^4 ]] The cuneiform tablets are in the process of being published.[[ ^36 ]][[ ^37 ]][[ ^38 ]]
+
+On the northern end of the main mound the Ešagepadda temple of [[ Shara | shara-god ]] (Šara), primary deity of Umma, was found. Preparations for the temple construction began in the last year of [[ Amar-Sin ]] and the temple was finished in the 8th year of [[ Shu-Sin ]]. It is known that a "Ešagepada of Umma (ĜIŠ.KUŠU₂ki)" existed in the early [[ Akkadian Empire ]] period though no trace has been found. The large mudbrick temple was 90 meters by 130 meters with a 6 meter thick exterior wall, buttressed and recessed, with two entrances. The main temple courtyard measured 42 meters by 30 meters. Artifacts found dated primarily to the Ur III and the Early Old Babylonian periods with a few from the Akkadian period. The temple was the findspot for all cuneiform tablets and bullae. A number of door sockets were found, some in situ.[[ ^39 ]]
+
+The site was visited around 1900 by archaeologist [[ Walter Andrae ]] who described it as being 1000 meters long and 15 meters high with a small plateau to the north holding the remains of a 70 meter by 70 meter building.[[ ^40 ]] It was visited again during a regional archaeological survey in 1967, when the site was estimated to cover an area 150 meters in diameter. A surface survey showed "Late Early Dynastic and Old Babylonian are dominant in surface collections, but intervening Akkadian, Ur III, and Larsa periods also are well represented".[[ ^41 ]]
+
+In 2016, a team from the Slovak Archaeological and Historical Institute led by Drahoslav Hulínek began excavations at Tell Jokha focusing on the Temple of Shara. A trench (Trench 1) excavated in 2016 showed the temple had two construction phases (Level 3 and 4). Level 4 is thought to date from the Old Akkadian period. In 2017 a square at the top (Trench 2) of the tell was opened, amidst numerous looter holes, and at Level 5 found Early Dynastic construction. In 2019 and 2020 eighteen cuneiform tablets from the Old Babylonian, Ur III, Old Akkadian and Early Dynastic periods were found in Trench 2, three in situ. A topographic survey showed that in the Early Dynastic period Umma reached an area of 400 hectares, with a 40 hectare city center.[[ ^42 ]][[ ^43 ]][[ ^44 ]]
+
+== Umm al-Aqarib (Gišša)
+
+The site of Umm al-Aqarib (located at 45.80°E longitude and 31.60°N latitude) lies about 6 kilometers southeast of Tell Jokha, covers about 5 square kilometers and is made up of 21 mounds, the largest of which stands 20 meters above the level of the plain. It is thought to be the ancient city of Gišša and was abandoned after the Early Dynastic period. [[ John Punnett Peters ]] was the first to visit, in the late 1800s, finding it relatively free from sand and featuring two prominent elevations of baked bricks set with bitumen.[[ ^29 ]]
+
+Widespread looting at the site triggered the excavation, which ran a total of 7 seasons in 1999–2002 (led by Donny George Youkhanna and Haider A. Urebi) and 2008–2010 (led by Taha Kerim Abod) under difficult conditions.[[ ^45 ]][[ ^46 ]] Looting has continued.[[ ^47 ]] At Umm al-Aqarib, archaeologists uncovered levels from the [[ Early Dynastic Period | early-dynastic-period-mesopotamia ]] (c. 2900–2300 BC), including residences, palaces, and several monumental buildings, among them two Early Dynastic temples (the White Temple and Temple H). About 70 "cuneiform sources" were also excavated.[[ ^48 ]][[ ^49 ]][[ ^50 ]][[ ^51 ]] The tutelary god is thought to be [[ Ama-ušumgal-ana ]].[[ ^52 ]] Uruk period clay cone mosaics have also been found at the site.[[ ^41 ]]
+
+== Tell Shmet
+
+The site of Tell Shmet (also Tell Schmidt and Tell Shmid) also lies nearby, around 10 kilometers to the northwest of Umma and within visual distance of [[ Zabala | zabala-sumer ]] 4 kilometers to the east. It is on the banks of the eastern branch of the Euphrates river just above the canal leading to Zabala, and it was part of the Umma province in the Ur III period. The site measures 990 by 720 meters (712,800 square meters). It was examined during a regional archaeological survey in 1967 (as site WS 168) and determined to have been occupied from the Late Uruk period () based on Uruk period clay cone mosaics), the Early Dynastic period, and to a lesser extent in the Akkadian period.[[ ^41 ]]
+
+The main Sargonic and Ur III remains of the site were destroyed by a Ministry of Agriculture program to plant trees so as to prevent sand dunes. In response to looting which began in 1994 the Iraqi State Board of Antiquities and Heritage conducted salvage excavations in 2001 and 2002 under Mohammad Sabri Abdulraheem.[[ ^53 ]][[ ^54 ]][[ ^55 ]][[ ^56 ]] All of the paper records of the excavation were lost in looting of residential areas after the 2003 war. Plano-convex bricks and a residential area of the Early Dynastic III and Akkadian periods were uncovered. Finds included 67 clay cuneiform tablets, dozens of cylinder seals, and a number of stone and metal objects. The tablets mostly date ED III with the latest being Ur III. They support the proposal that the ancient name of the site was Ki.an^^ki^^, and they mention the names of the gods [[ Ninazu ]] and Dumuzi-Maru. Only six of the tablets have been published.[[ ^57 ]]
+
+Previous textual analysis had indicated that KI.AN was very near to [[ Zabala | zabala-sumer ]].[[ ^58 ]] During the reign of [[ Rimush ]], second ruler of the Akkadian Empire, KI.AN, under its governor Lugal-KA, joined a regional revolt and was defeated.[[ ^59 ]] In the Ur III period KI.AN had an ensi (governor). In that period it is known to have had a temple to the deified ruler [[ Shulgi ]] (called "e-^^d^^Sulgi-ra") as well as temples to the gods [[ Šara | shara-god ]], [[ Ninurra | ninura ]], Amarsuena, [[ Geštinanna | geshtinanna ]], Dumuzi, Gula, Ninlagaša, and Nine'e.[[ ^41 ]][[ ^60 ]][[ ^61 ]]
+
+== Looting
+
+During the [[ 2003 invasion of Iraq ]], [[ looters | archaeological-looting-in-iraq ]] descended upon the sites of Tell Jokha and Tell Umm al-Aqarib, which are now pockmarked with hundreds of ditches and pits. The prospects for future official excavation and research were seriously compromised in the process.[[ ^62 ]] In 2011, [[ Global Heritage Network ]], which monitors threats to cultural heritage sites in developing nations, released aerial images comparing Umma in 2003 and 2010, showing a landscape devastated by looters' trenches during that time—approximately 1.12 square km in total.[[ ^63 ]] Confiscated Umma area cuneiform tablets continue to make their way to the Museum of Iraq, including a group of 1500 in 2009.[[ ^64 ]]
+
+== List of rulers
+
+Although the first dynasty of Umma has become well-known based on mentions in inscriptions contemporaneous with other dynasties from the [[ Early Dynastic | early-dynastic-period-mesopotamia ]] (ED) III period, it was not inscribed onto the //[[ Sumerian King List ]] (SKL)//. The first dynasty of Umma preceded the [[ dynasty of Akkad | sargonic-dynasty ]] in a time in which Umma exercised considerable influence in the region. Only a single ruler ([[ Lugal-zage-si ]]) from Umma was named on the //SKL//; however, his name appears there as the sole ruler for the third dynasty of [[ Uruk ]]. The following list should not be considered complete:
+
+<table
+  <tbody
+    <tr
+      <th>Portrait or inscription
+
+      <th>Ruler
+
+      <th>Approx. date and length of reign ([[ Middle Chronology ]])
+
+      <th>Comments, notes, and references for mentions
+
+    <tr
+      <td colspan="4">!![[ Early Dynastic II period | early-dynastic-ii ]] (c. 2700 – c. 2600 BC)!!
+
+    <tr
+      <th colspan="4">[[ Predynastic Umma | pre-dynastic-period-of-sumer ]] (c. 2900 – c. 2500 BC)
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ak_gal-ukkin.jpg/120px-Ak_gal-ukkin.jpg" height="120" width="120"
+
+      <td>([[ Akinana | stele-of-ushumgal ]])
+
+      <td>//Uncertain//; this ruler may have fl. c. 2900 – c. 2600 BC sometime during the [[ Early Dynastic | early-dynastic-period-mesopotamia ]] (ED) period[[ ^65 ]]
+
+      <td
+        - Historicity certain
+        - Same person as [[ Aga | aga-of-kish ]] (?)
+
+    <tr
+      <td colspan="4">!!Early Dynastic IIIa period (c. 2600 – c. 2500 BC)!!
+
+    <tr
+      <td
+
+      <td>(Parasagnudi)
+        <br
+
+        𒉺𒉈𒅍𒃲𒌇
+
+      <td rowspan="2">//Uncertain//; these two rulers may have fl. c. 2600 – c. 2500 BC sometime during the ED IIIa period
+
+      <td
+        - Historicity certain
+        - //[[ temp. | tempore ]]// of [[ Ur-Pabilsag ]][[ ^65 ]]
+
+    <tr
+      <td
+
+      <td>(Eabzu)
+
+      <td
+        - Historicity certain
+        - //temp.// of [[ Meskiagnun ]][[ ^65 ]]
+
+    <tr
+      <th>Portrait or inscription
+
+      <th>Ruler
+
+      <th>Approx. date and length of reign (MC)
+
+      <th>Comments, notes, and references for mentions
+
+    <tr
+      <td colspan="4">!!Early Dynastic IIIb period (c. 2500 – c. 2350 BC)!!
+
+    <tr
+      <th colspan="4">First dynasty of Umma / Umma I dynasty (c. 2500 – c. 2230 BC)
+
+    <tr
+      <td
+
+      <td>[[ Pabilgagaltuku ]]
+        <br
+
+        𒉺𒉈𒅍𒃲𒌇
+
+      <td>r. c. 2500 BC
+
+      <td
+        - Historicity certain
+        - Held the title of, //"[[ Governor | ensi-sumerian ]] of Umma"//
+        - //temp.// of [[ Ur-Nanshe ]][[ ^66 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Imprisoned_man_of_Umma_on_the_Stele_of_the_Vultures.jpg/120px-Imprisoned_man_of_Umma_on_the_Stele_of_the_Vultures.jpg" height="128" width="120"
+
+      <td>[[ Ush | ush-king-of-umma ]] ("Ninta")
+        <br
+
+        𒍑
+
+      <td>r. c. 2455 BC
+
+      <td
+        - Historicity certain
+        - Held the title of, //"Governor of Umma"//
+        - //temp.// of [[ Akurgal ]][[ ^65 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Enakalle_on_the_plate_of_queen_Bara-irnun.jpg/120px-Enakalle_on_the_plate_of_queen_Bara-irnun.jpg" height="205" width="120"
+
+      <td>[[ Enakalle ]]
+        <br
+
+        𒂗𒀉𒆗𒇷
+
+      <td>r. c. 2445 BC
+        <br
+
+        (8 years)
+
+      <td
+        - Historicity certain
+        - Held the title of, //"Governor of Umma"//
+        - //temp.// of [[ Eannatum ]][[ ^67 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ur-Lumma%2C_king_of_Umma%2C_son_of_En-a-Kale_tablet.jpg/120px-Ur-Lumma%2C_king_of_Umma%2C_son_of_En-a-Kale_tablet.jpg" height="85" width="120"
+
+      <td>[[ Ur-Lumma ]]
+        <br
+
+        𒌨𒀭𒈝𒂷
+
+      <td>r. c. 2425 BC
+        <br
+
+        (12 years)
+
+      <td
+        - Son of Enakalle
+        - Held the title of, //"Governor of Umma"//
+        - //temp.// of [[ Enannatum I ]][[ ^67 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Stone_tablet_re_Il%2C_king_of_Umma%2C_c._2400_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07155_%28orientation%29.jpg/120px-Stone_tablet_re_Il%2C_king_of_Umma%2C_c._2400_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07155_%28orientation%29.jpg" height="82" width="120"
+
+      <td>[[ Il | il-king-of-umma ]]
+        <br
+
+        𒅍
+
+      <td>r. c. 2420 BC
+        <br
+
+        (15 years)
+
+      <td
+        - Cousin of Ur-Lumma
+        - Held the title of, //"King of Umma"//
+        - //temp.// of [[ Entemena ]][[ ^65 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/This_cuneiform_text_gives_the_city_of_Umma%27s_account_of_its_long-running_border_dispute_with_Lagash._Circa_2350_BCE._From_Umma%2C_Iraq._The_British_Museum%2C_London.jpg/120px-thumbnail.jpg" height="80" width="120"
+
+      <td>[[ Gishakidu ]]
+        <br
+
+        𒄑𒊮𒆠𒄭
+
+      <td>r. c. 2400 BC
+        <br
+
+        (5 years)
+
+      <td
+        - Son of Il[[ ^66 ]]
+        - //temp.// of [[ Enannatum II ]][[ ^67 ]]
+
+    <tr
+      <td
+
+      <td>Me'annedu
+
+      <td>//Uncertain//
+        <br
+
+        (29 years)[[ ^66 ]][[ ^68 ]][[ ^69 ]]
+
+      <td
+
+    <tr
+      <td
+
+      <td>Ushurdu[[ ^66 ]]
+
+      <td>//Uncertain//
+        <br
+
+        (9 years)
+
+      <td
+        - //temp.// of [[ Enentarzi ]][[ ^65 ]]
+
+    <tr
+      <td
+
+      <td>Edin[[ ^66 ]]
+
+      <td>//Uncertain//
+        <br
+
+        (6 years)
+
+      <td
+        - //temp.// of [[ Lugalanda ]][[ ^65 ]]
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lugalzagesi_king_of_Uruk_king_of_the_Land_son_of_Ukush.jpg/120px-Lugalzagesi_king_of_Uruk_king_of_the_Land_son_of_Ukush.jpg" height="100" width="120"
+
+      <td>[[ Ukush ]]
+        <br
+
+        𒌑𒌑
+
+      <td>r. c. 2350 BC
+
+      <td
+        - //temp.// of [[ Urukagina ]][[ ^65 ]]
+
+    <tr
+      <td colspan="4">!!Proto-Imperial period (c. 2350 – c. 2230 BC)!!
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prisoner_exiting_a_cage%2C_on_an_Akkadian_Empire_victory_stele_circa_2300_BCE%2C_Louvre_Museum.jpg/120px-Prisoner_exiting_a_cage%2C_on_an_Akkadian_Empire_victory_stele_circa_2300_BCE%2C_Louvre_Museum.jpg" height="159" width="120"
+
+      <td>[[ Lugal-zage-si ]]
+        <br
+
+        𒈗𒍠𒄀𒋛
+
+      <td>r. c. 2340 BC
+        <br
+
+        (8 years)
+
+      <td
+        - Son of Ukush
+        - //temp.// of [[ Enshakushanna ]][[ ^65 ]]
+
+    <tr
+      <td
+
+      <td>Mese
+
+      <td>r. c. 2330 BC
+
+      <td
+        - //temp.// of [[ Ur-Zababa ]][[ ^65 ]]
+
+    <tr
+      <td
+
+      <td>Ennalum
+
+      <td>//Uncertain//
+        <br
+
+        (6 years)
+
+      <td
+        - //temp.// of [[ Ikun-Shamash ]][[ ^65 ]]
+
+    <tr
+      <td
+
+      <td>Shurushken
+
+      <td>//Uncertain//
+
+      <td
+        - //temp.// of [[ Sargon | sargon-of-akkad ]][[ ^65 ]]
+
+    <tr
+      <th>Portrait or inscription
+
+      <th>Ruler
+
+      <th>Approx. date and length of reign (MC)
+
+      <th>Comments, notes, and references for mentions
+
+    <tr
+      <td colspan="4">!![[ Gutian period ]] (c. 2230 – c. 2112 BC)!!
+
+    <tr
+      <th colspan="4">Second dynasty of Umma / Umma II dynasty (c. 2230 – c. 1866 BC)
+
+    <tr
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Gutian_inscription-AO_4783-gradient.jpg/120px-Gutian_inscription-AO_4783-gradient.jpg" height="80" width="120"
+
+      <td>[[ Lugalannatum ]]
+        <br
+
+        𒈗𒀭𒈾𒁺
+
+      <td>r. c. 2130 BC
+
+      <td
+        - //temp.// of [[ Si'um ]]
+        - Vassal to the [[ Gutian dynasty ]][[ ^66 ]]
+
+    <tr
+      <td colspan="4">!![[ Ur III period ]] (c. 2112 – c. 2004 BC)!!
+
+    <tr
+      <td
+
+      <td>Ur-Nigar
+
+      <td>r. c. 2061 BC
+
+      <td
+        - Son of Girini (?)
+        - //temp.// of [[ Shulgi ]]
+
+    <tr
+      <td
+
+      <td>Ur-Lisi
+
+      <td>r. c. 2038 BC
+        <br
+
+        (23 years)
+
+      <td
+        - Son of Ur-Nigar
+
+    <tr
+      <td
+
+      <td>Aa-kala
+
+      <td>r. c. 2029 BC
+        <br
+
+        (9 years)
+
+      <td
+        - Brother of Ur-Lisi
+
+    <tr
+      <td
+
+      <td>Dadaga
+
+      <td>r. c. 2022 BC
+        <br
+
+        (7 years)
+
+      <td
+        - Brother of Ayakalla
+
+    <tr
+      <td
+
+      <td>Ur-E'e
+
+      <td>//Uncertain//
+
+      <td
+        - Brother of Dadaga
+
+    <tr
+      <td
+
+      <td>Lu-Haya
+
+      <td>//Uncertain//
+
+      <td
+        - Son of Ur-E'e
+
+== Gallery
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stele_of_Ushumgal_MET_DT849.jpg/120px-Stele_of_Ushumgal_MET_DT849.jpg" alt="Stele of Ushumgal, 2900-2700 BC. Probably from Umma." height="150" width="118"
+
+    [[ Stele of Ushumgal ]], 2900-2700 BC. Probably from Umma.[[ ^70 ]]
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/This_cuneiform_text_gives_the_city_of_Umma%27s_account_of_its_long-running_border_dispute_with_Lagash._Circa_2350_BCE._From_Umma%2C_Iraq._The_British_Museum%2C_London.jpg/250px-thumbnail.jpg" alt="Vase of King Gishakidu, king of Umma, and son of Ur-Lumma. This cuneiform text gives the city of Umma's account of its long-running border dispute with Lagash. c. 2350 BC. From Umma, Iraq. The British Museum, London." height="100" width="150"
+
+    Vase of King [[ Gishakidu ]], king of Umma, and son of [[ Ur-Lumma ]]. This
+    cuneiform text gives the city of Umma's account of its long-running border
+    dispute with Lagash. c.2350 BC. From Umma, Iraq. The British Museum, London.
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Votive_plaque_of_a_beard-IMG_6857.JPG/120px-Votive_plaque_of_a_beard-IMG_6857.JPG" alt="Votive plaque offered by Bara-irnun, queen of Umma, to God Šara in gratitude for sparing her life. Date c. 2370 BC." height="150" width="100"
+
+    Votive plaque offered by [[ Bara-irnun ]], queen of Umma, to God
+    [[ Šara | shara-god ]] in gratitude for sparing her life. Date c.2370
+    BC.[[ ^71 ]]
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mesopotamian_alabaster_ithyphallic_statue_from_Umma%2C_from_an_Early_Dynastic_temple._Baghdad_Museum.jpg/120px-Mesopotamian_alabaster_ithyphallic_statue_from_Umma%2C_from_an_Early_Dynastic_temple._Baghdad_Museum.jpg" alt="Alabaster ithyphallic statue from Umma, from an Early Dynastic temple. Baghdad Museum" height="150" width="77"
+
+    Alabaster ithyphallic statue from Umma, from an Early Dynastic temple. Baghdad
+    Museum
+
+An official of Umma, c.2400 BC
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diorite_statue_of_Lupad%2C_official_in_town_of_Umma%2C_Early_Dynastic_Period_III%2C_c._2400_BC.jpg/250px-Diorite_statue_of_Lupad%2C_official_in_town_of_Umma%2C_Early_Dynastic_Period_III%2C_c._2400_BC.jpg" height="181" width="137"
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Upad_of_Umma.jpg/250px-Upad_of_Umma.jpg" height="181" width="147"
+
+Diorite statue of Lupad, an official of the city of Umma, with inscriptions
+recording the purchase of land in [[ Lagash ]]. Early Dynastic Period III,
+c.2400 BC.[[ ^72 ]]
+
+[[ ^1 ]]: [[ "ePSD: Umma [1\] (SN)" | http://oracc.org/epsd2/o0048182 ]]. //The electronic Pennsylvania Sumerian Dictionary//. 2024-08-31. Retrieved 2026-07-27.
+
+[[ ^2 ]]: Lambert, Wilfred George, "The names of Umma.", Journal of Near Eastern Studies 49.1, pp. 75-80, 1990
+
+[[ ^3 ]]: Bartasch, Vitali (2015). [[ "On the Sumerian City UB-meki, the Alleged "Umma"" | https://cdli.ucla.edu/pubs/cdlb/2015/cdlb2015_002.html ]]. //Cuneiform Digital Library Bulletin//. !!2!!. ISSN [[ 1540-8760 | https://search.worldcat.org/issn/1540-8760 ]].
+
+[[ ^4 ]]: Almamori, H. O., "Gišša (Umm Al-Aqarib), Umma (Jokha), and Lagaš in the Early Dynastic III Period", Al-Rafidan 35, pp. 1–37, 2014
+
+[[ ^5 ]]: Marek Stępień, "The Economic Status of Governors in Ur III Times: An Example of the Governor of Umma", Journal of Cuneiform Studies, vol. 64, pp. 17–30, 2012
+
+[[ ^6 ]]: Peat, J. A., "An Offering - List from the Third Dynasty of Ur", Revue d’Assyriologie et d’archéologie Orientale, vol. 69, no. 1, pp. 19–22, 1975
+
+[[ ^7 ]]: Frayne, Douglas, "G͂iša and Umma", Pre-Sargonic Period: Early Periods Volume 1 (2700-2350 BC), University of Toronto Press, pp. 357-368, 2008 ISBN [[ 978-0802035868 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0802035868 ]]
+
+[[ ^8 ]]: [[ "Inana's descent to the nether world" | https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.4.1# ]]. //[[ Electronic Text Corpus of Sumerian Literature ]]//. Retrieved 2021-07-22.
+
+[[ ^9 ]]: [[ Uruk period proto-cuneiform tablets from Umma | https://cdli.mpiwg-berlin.mpg.de/search?provenience=jokha&limit=1000&f%5Bperiod%5D%5B%5D=Uruk+III+%28ca.+3200-3000+BC%29 ]]
+
+[[ ^10 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/SAOC/saoc71.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/SAOC/saoc71.pdf ]] Carrie Hritz, "The Umma-Lagash Border Conflict: A View from Above", The Umma-Lagash Border Conflict: A View from Above, From Sherds to Landscapes: Studies on the Ancient Near East in Honor of McGuire Gibson, Studies in Ancient Oriental Civilization 71, Chicago: The Oriental Institute, pp. 109-130, 2021 ISBN [[ 978-1-61491-063-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61491-063-3 ]]
+
+[[ ^11 ]]: Cooper, Jerrold S. (1983). //Reconstructing history from ancient inscriptions : the Lagash-Umma border conflict//. Malibu: Undena Publications. ISBN [[ 0-89003-059-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-89003-059-6 ]]. OCLC [[ 10304478 | https://search.worldcat.org/oclc/10304478 ]].
+
+[[ ^12 ]]: Zarins, Juris, "The Sharkallisharri Army of Umma: Linguistic, Historical and Archaeological Considerations", Aux marges de l’archéologie: hommage à Serge Cleuziou, pp. 187-213, 2012
+
+[[ ^13 ]]: Lambert, Maurice., "La vie économique a Umma a l'époque d'Agadé", Revue d’Assyriologie et d’archéologie Orientale, vol. 59, no. 2, pp. 61–72, 1965
+
+[[ ^14 ]]: Lambert, Maurice, "La vie économique a Umma a l'époque d'Agadé (Suite): Textes Justificatifs", Revue d’Assyriologie et d’archéologie Orientale, vol. 59, no. 3, pp. 115–26, 1965
+
+[[ ^15 ]]: Foster., Benjamin R., "Archives and Record-keeping in Sargonic Mesopotamia", Zeitschrift für Assyriologie und Vorderasiatische Archäologie, vol. 72, no. 1, pp. 1-27, 1982
+
+[[ ^16 ]]: [[ https://archive.org/details/sargonic-and-gutian-periods-2334-2113-bc | https://archive.org/details/sargonic-and-gutian-periods-2334-2113-bc ]] Douglas R. Frayne, "Umma", The Sargonic and Gutian Periods (2334–2113), University of Toronto Press, pp. 261-268, 1993 ISBN [[ 0-8020-0593-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8020-0593-4 ]]
+
+[[ ^17 ]]: Lafont, Bertrand, "Une plaque en argile portant une inscription de Naram-Sin d’Agadé", The Third Millennium. Brill, pp. 408-416, 2020
+
+[[ ^18 ]]: Salgues, Emmanuelle, and Aage Westenholz, "A Boundary Dispute Between Adab and Umma", Journal of Cuneiform Studies 77.1, pp. 197-204, 2025
+
+[[ ^19 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/OIS/ois13.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/OIS/ois13.pdf ]] Stephanie Rost, "Written Sources in the Empirical Investigation of Ancient Irrigation: The Operation of the I-sala Irrigation System in the Umma Province in Late Third-Millennium BCE Southern Mesopotamia", in Irrigation in Early States: New Directions, Oriental Institute Seminars 13, Chicago: The Oriental Institute, pp. 137–174, 2022 ISBN [[ 978-1-61491-071-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-61491-071-8 ]]
+
+[[ ^20 ]]: van Driel, G., "The Size of Institutional Umma", Archiv Für Orientforschung, vol. 46/47, pp. 80–91, 1999
+
+[[ ^21 ]]: Frayne, Douglas, "Table III: List of Ur III Period Governors", Ur III Period (2112-2004 BC), Toronto: University of Toronto Press, pp. xli-xliv, 1997
+
+[[ ^22 ]]: T. Maeda, "Father of Akala and Dadaga, governors of Umma", ASJ 12, pp. 71 - 78, 1990
+
+[[ ^23 ]]: P. A. Parr, "Ninhilia: Wife of Ayakala, Governor of Umma", JCS 26, pp. 90 – 111, 1974
+
+[[ ^24 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/mad4.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/mad4.pdf ]] I. J. Gelb, "Sargonic Texts in the Louvre Museum", Materials for the Assyrian Dictionary 4, Chicago: The University of Chicago Press, 1970 ISBN [[ 978-0-22-662308-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-22-662308-5 ]]
+
+[[ ^25 ]]: Parr, P. A. (1972-06-01). [[ "A Letter of Ur-Lisi, Governor of Umma" | https://www.journals.uchicago.edu/doi/10.2307/1359635 ]]. //Journal of Cuneiform Studies//. !!24!! (4): 135–136. doi:[[ 10.2307/1359635 | https://doi.org/10.2307%2F1359635 ]]. ISSN [[ 0022-0256 | https://search.worldcat.org/issn/0022-0256 ]]. JSTOR [[ 1359635 | https://www.jstor.org/stable/1359635 ]]. S2CID [[ 163250537 | https://api.semanticscholar.org/CorpusID:163250537 ]].
+
+[[ ^26 ]]: de la Fuÿe, Allotte, "Un cadastre de Djokha", Revue d'Assyriologie et d'archéologie orientale 12.1, pp. 47-54, 1915
+
+[[ ^27 ]]: [[ https://archive.org/download/selectedtempleac00chieuoft/selectedtempleac00chieuoft.pdf | https://archive.org/download/selectedtempleac00chieuoft/selectedtempleac00chieuoft.pdf ]] Chiera, Edward, "Selected temple accounts from Telloh, Yokha and Drehem", University of Pennsylvania, 1921
+
+[[ ^28 ]]: Loftus, William K. (1857). [[ //Travels and Researches in Chaldaea and Susiana, Travels and Researches in Chaldaea and Susiana: With an Account of Excavations at Warka, the "Erech" of Nimrod, and Shush, "Shushan the Palace" of Esther, in 1849–52// | https://archive.org/details/bub_gb_4ZiBAAAAIAAJ ]]. Robert Carter & Brothers.
+
+[[ ^29 ]]: Peters, John P. (1897). [[ //Nippur; Or, Explorations and Adventures on the Euphrates: The Narrative of the University of Pennsylvania Expedition to Babylonia in the Years 1888–1890// | https://archive.org/download/nippurorexplorat02pete/nippurorexplorat02pete.pdf ]] (PDF). University of Pennsylvania Babylonian Expedition. Putnam.
+
+[[ ^30 ]]: Georges Contenau, //Contribution a l'Histoire Economique d'Umma, Librairie Champion//, 1915
+
+[[ ^31 ]]: [[ https://archive.org/details/ummainsargonicpe0000fost/mode/1up | https://archive.org/details/ummainsargonicpe0000fost/mode/1up ]] B. R. Foster, "Umma in the Sargonic Period", Memoirs of the Connecticut Academy of Arts and Sciences, vol. 20, Hamden, 1982
+
+[[ ^32 ]]: Foster, Benjamin R., "New Light on the “mu-iti” Texts", Orientalia 48.2, pp. 153-162, 1979
+
+[[ ^33 ]]: Marchesi, Gianni, "Two Delivery Records from Umma and Related Subjects", Orientalia, vol. 68, no. 1,  pp. 104–13, 1999
+
+[[ ^34 ]]: [[ Al-Mutawalli, N. | nawala-al-mutawalli ]], "Excavation of Umma (modern Jokha), seasons 1 & 2.", Sumer 54, pp. 53-82, 2009
+
+[[ ^35 ]]: Al-Harbi, H. Sh, N. A. Al-Mutawali, and K. M. Khaleel, "Jokha (Umma): The Excavation Results of the Third and Fourth Seasons (2001–2002)", Sumer 56, pp. 49-92, 2011
+
+[[ ^36 ]]: Al-Mutawalli, N.. "Administrative Cuneiform Texts from Umma in the Iraq Museum Excavation of Shara Temple (1999–2000)", Sumer 55, pp. 45–86, 2010
+
+[[ ^37 ]]: Mutawallī, Nawālah Aḥmad Maḥmūd al, et al., "Bullae from the Shara Temple= Wuṣūlāt at-tasallum (bulla) min maʿbad aš-Šārā. Cuneiform texts from the Iraqi excavations at Umma (Jokha)", Harrassowitz Verlag, 2019 ISBN [[ 978-3-447-11159-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-447-11159-1 ]]
+
+[[ ^38 ]]: Al-Mutawalli, Nawala Ahmed, et al, "Bullae from the Main Tell: Documents of Umma’s Administration in the Early Old Babylonian Period. With a Contribution by Adelheid Otto", Harrassowitz Verlag, 2024 ISBN [[ 978-3-447-39506-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-447-39506-9 ]]
+
+[[ ^39 ]]: [[ https://iasj.rdd.edu.iq/journals/uploads/2025/01/01/0f618e629cdb867786fee178f7511d6c.pdf | https://iasj.rdd.edu.iq/journals/uploads/2025/01/01/0f618e629cdb867786fee178f7511d6c.pdf ]] Al-Mutawalli, Nawala, and Walther Sallaberger, "A Door Socket from Šu-Suen's Shara Temple at Umma (Tell Jokha)", 2025
+
+[[ ^40 ]]: Andrae, W., "Aus einem Berichte W. Andrae's über seine Exkursion von Fara nach den südbabylonischen Ruinenstätten", Mitteilungen der Deutschen Orientgesellschaft 16, pp. 16–24, 1902–1903
+
+[[ ^41 ]]: [[ https://commons.library.stonybrook.edu/cgi/viewcontent.cgi?article=1508&context=amar | https://commons.library.stonybrook.edu/cgi/viewcontent.cgi?article=1508&context=amar ]] Adams, Robert McCormick, "The Uruk countryside: The natural setting of urban societies", 1972 Alt Url - [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/uruk_countryside.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/uruk_countryside.pdf ]] ISBN [[ 0-226-00500-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-226-00500-3 ]]
+
+[[ ^42 ]]: Drahoslav Hulínek and Tibor Lieskovský, "Report Archaeological project SAHI - Tell Jokha, 2016", Slovak Archaeological and Historical Institute, 2016
+
+[[ ^43 ]]: Hulínek, Drahoslav, et al., eds., "Preliminary Report Archaeological Project SAHI-Tell Jokha, 2019: Season 3", Slovak Archaeological and Historical Institute-SAHI, 2020
+
+[[ ^44 ]]: Drahoslav Hulínek, Eva Hulínková Ťuchová, "The SAHI Tell Jokha Archaeological Project: Campaign 2016–2017", in The Intellectual Heritage of the Ancient Near East, 
+Proceedings of the 64th Rencontre Assyriologique Internationale and the 12th Melammu Symposium, University of Innsbruck, July 16‒20, 2018, pp. 849-868, 2023/04/12
+
+[[ ^45 ]]: Almamori, H. A., "The Excavation Results of the Third and Fourth Seasons at Umm al-Aqarib (2001–2002)", Sumer 52, pp. 242–93, 2003-2004 (Arabic)
+
+[[ ^46 ]]: Ławecka, Dorota, "Bent or Straight Axis? Temple Plans in Early Dynastic Southern Babylonia", Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 104, no. 2, pp. 206-228, 2014
+
+[[ ^47 ]]: Hamdani, Abdulamir al., "Protecting and Recording Our Archaeological Heritage in Southern Iraq", Near Eastern Archaeology, vol. 71, no. 4, pp. 221–30, 2008
+
+[[ ^48 ]]: Almamori, Haider Oraibi. "The Early Dynastic Monumental Buildings at Umm Al-Aqarib" Iraq 76, pp. 149-187, 2014
+
+[[ ^49 ]]: Abid, Ameer Najim, "The architecture of white temples in the cities of ancient central and southern Mesopotamia (Uruk-Umm Al-Aqarib-Tal Al-Uqair) A comparative study", ISIN Journal 5, pp. 53-79, 2023
+
+[[ ^50 ]]: Youkhanna, Donny George, H. O. Al-Mamori, and L. Werr, "Temple ‘H’ at Umm al Aqarib", Of Pots and Plans: Papers on the Archaeology and History of Mesopotamia and Syria presented to David Oates in Honour of his 75th Birthday. London: Nabu, pp. 379-385, 2002
+
+[[ ^51 ]]: Oraibi, Almamori Haider Abdollwahed, "Umm al-Aqarib: an architectural and textual study of a Sumerian City", Dissertation, 2013
+
+[[ ^52 ]]: Frayne, Douglas R., "The Struggle for Hegemony in ‘Early Dynastic II’Sumer", The Canadian Society for Mesopotamian Studies Journal 4, pp. 37-75, 2009
+
+[[ ^53 ]]: Abdulraheem, M. S., "The final report of the excavations in Shmet – 1st season 2001", SBAH, Ministry of Culture, Rep. of Iraq (in Arabic), 2001
+
+[[ ^54 ]]: Abdulraheem, M. S., "Prospecting at the site of Shmeet 2001–2002", Sumer 52, pp. 201–241 (in Arabic) 2003
+
+[[ ^55 ]]: Abdulraheem, M. S., "The site of Shmet in the light of archaeological excavations", Unpublished Ph. D. thesis submitted to the Dept. of Archaeology, College of Arts, University of Baghdad (in Arabic), 2014
+
+[[ ^56 ]]: Abdulraheem, M. S. and B. K. Abboodi, "The final report of the excavations in Shmet – 2nd season 2002", SBAH, Ministry of Culture, Rep. of Iraq (in Arabic), 2002
+
+[[ ^57 ]]: Salman Fahad, Sa’ad and Abdul-Qadir Abbas, Raghad., "Cuneiform Tablets from Shmet from the Excavation Season of 2001", Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 110, no. 1, pp. 1-13, 2020
+
+[[ ^58 ]]: [[ https://digital.csic.es/bitstream/10261/245570/1/2021-Two_cuneiform_tablets_Four_Seasons_Museum_Arak.pdf | https://digital.csic.es/bitstream/10261/245570/1/2021-Two_cuneiform_tablets_Four_Seasons_Museum_Arak.pdf ]] Molina Martos, Manuel, Amir Zamani, and Sina Abaslou. "Two cuneiform tablets in the Four Seasons Museum of Arak, Iran", in Sentido de un empeño. Homenatge a Gregorio del Olmo Lete, pp, 369-373, 2021
+
+[[ ^59 ]]: [[ https://archive.org/details/sargonic-and-gutian-periods-2334-2113-bc | https://archive.org/details/sargonic-and-gutian-periods-2334-2113-bc ]] Douglas R. Frayne, "Akkad", The Sargonic and Gutian Periods (2334–2113), University of Toronto Press, pp. 5-218, 1993 ISBN [[ 0-8020-0593-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8020-0593-4 ]]
+
+[[ ^60 ]]: Steinkeller, Piotr, "Babylonian priesthood during the third millennium BCE: between sacred and profane", Journal of ancient near eastern religions 19.1-2, pp. 112-151, 2019
+
+[[ ^61 ]]: [[ https://www.jstage.jst.go.jp/article/orient/40/0/40_3/_pdf | https://www.jstage.jst.go.jp/article/orient/40/0/40_3/_pdf ]] Maeda, Tohru, "Royal Inscriptions of Lugalzagesi and Sargon", Orient 40, pp. 3-30, 2005
+
+[[ ^62 ]]: Gibson, M., "Legal And Illegal Acquisition Of Antiquities In Iraq, 19th Century To 2003", in Cultural Heritage Issues. Leiden, The Netherlands: Brill, pp. 185–197 , 2010
+
+[[ ^63 ]]: [[ "Satellite Imagery Briefing: Monitoring Endangered Cultural Heritage Sites" | http://globalheritagefund.org/images/uploads/docs/GHNBriefingDocument.pdf ]] (PDF). //[[ Global Heritage Fund ]]//. Retrieved 2021-07-23.
+
+[[ ^64 ]]: Saadoon, Abather Rahi, "Sumerian Texts from the Archive of the Princess Šāt-Eštar in the Collections of the Iraq Museum", Iraq 80, pp. 213-231, 2018
+
+[[ ^65 ]]: Marchesi, Gianni (January 2015). [[ Sallaberger, Walther | walther-sallaberger ]]; Schrakamp, Ingo (eds.). [[ "Toward a Chronology of Early Dynastic Rulers in Mesopotamia" | https://www.academia.edu/10655886 ]]. //History and Philology (ARCANE 3; Turnhout)//: 139–156.
+
+[[ ^66 ]]: Sallaberger, Walther; Schrakamp, Ingo (2015). [[ //History & Philology// | https://www.assyriologie.uni-muenchen.de/personen/professoren/sallaberger/publ_sallaberger/wasa_schrakamp_2015_arcane1.pdf ]] (PDF). Walther Sallaberger & Ingo Schrakamp (eds), Brepols. pp. 74–80. ISBN [[ 978-2-503-53494-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-2-503-53494-7 ]].
+
+[[ ^67 ]]: Van De Mieroop, Marc (2004). //A History of the Ancient Near East: Ca. 3000-323 BC//. Wiley. pp. 50–51. ISBN [[ 9780631225522 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780631225522 ]].
+
+[[ ^68 ]]: Armando Bramanti, "Three Administrative Texts from the Time of Me’annedu", Journal of Cuneiform Studies, vol. 69, pp. 33–47, 2017
+
+[[ ^69 ]]: Monaco, Salvatore F., "Meannedu, Ruler of Umma", in dNisaba za3-mi2, Ancient Near Eastern Studies in Honor of Francesco Pomponio, ed. Palmiro Notizia, Annunziata Rositani and Lorenzo Verderame, pp. 175-180, 2021
+
+[[ ^70 ]]: [[ "Stele of Ushumgal" | https://www.metmuseum.org/art/collection/search/329079 ]]. //www.metmuseum.org//.
+
+[[ ^71 ]]: [[ "Site officiel du musée du Louvre" | http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=11850 ]]. //cartelfr.louvre.fr//.
+
+[[ ^72 ]]: I. J. Gelb, P. Steinkeller, and R. M. Whiting Jr, "OIP 104. Earliest Land Tenure Systems in the Near East: Ancient Kudurrus", Oriental Institute Publications 104 Chicago: The Oriental Institute, 1989, 1991 ISBN 978-0-91-898656-6 [[ Text | https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/oip104_text.pdf ]] [[ Plates | https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/oip104_part_2.pdf ]]

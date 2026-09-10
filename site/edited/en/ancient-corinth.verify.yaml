@@ -1,0 +1,10 @@
+slug: ancient-corinth
+findings:
+  - kind: unsupported
+    quote: Everything that went overland between northern Greece and the
+      Peloponnese went past it, and that fact made the city rich for a
+      thousand years.
+    why: The source ties Corinthian wealth to the isthmus traffic but attaches no
+      span to it; "a thousand years" is the rewrite's own figure.
+    severity: minor
+verdict: minor-only

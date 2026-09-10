@@ -11,11 +11,33 @@
 # one of them is Iraq — so filtering on it drops exactly the cities worth
 # having.
 #
+# The five OPTIONAL columns are evidence for a cut, not part of one. Ranked by
+# sitelinks the answer to this query opens London, Jerusalem, Edirne, Venice —
+# ancient foundations whose articles are about the living city, which the
+# founded-after-500 rule cannot see because they were founded before it. What
+# separates them from Ur is that somebody still governs them, so the query
+# returns whether anybody does and `pipeline/seed.mjs` decides what that means.
+# The last two are the monument cut, which a title regex cannot make on its
+# own: it knows a `Temple of …` is not a city and has never heard of the
+# Colosseum. One counts settlement classes and one counts monument classes, and
+# they are counted separately rather than subtracted because a place with
+# neither is not a monument — it is unclassified, which is a different answer
+# and belongs to a person. Megiddo, Qumran, Skara Brae, Jarmo and Mehrgarh all
+# land there, and all five are settlements.
+# Row selection is unchanged: every one is OPTIONAL, and the 49 in
+# `site/cities.yaml` came back from this query before these were added.
+#
 #   curl -G https://query.wikidata.org/sparql \
 #     --data-urlencode query@pipeline/select-cities.rq \
 #     -H 'Accept: text/csv' -H 'User-Agent: … (you@example.com)' > cities.csv
 
-SELECT DISTINCT ?title ?sitelinks (MIN(?inception) AS ?from) (SAMPLE(?coord) AS ?where) WHERE {
+SELECT DISTINCT ?title ?sitelinks (MIN(?inception) AS ?from) (SAMPLE(?coord) AS ?where)
+       (COUNT(DISTINCT ?twin) AS ?twins)      # P190, twinned administrative body
+       (COUNT(DISTINCT ?mayor) AS ?mayors)    # P6, head of government
+       (MAX(?pop) AS ?people)                 # P1082 — historical for Babylon, current for London
+       (COUNT(DISTINCT ?settlement) AS ?settled)      # P31 says somebody lived here
+       (COUNT(DISTINCT ?built) AS ?monumental)        # P31 says somebody built one thing here
+WHERE {
   # ancient city, archaeological site, city
   VALUES ?kind { wd:Q15661340 wd:Q839954 wd:Q515 }
 
@@ -27,6 +49,36 @@ SELECT DISTINCT ?title ?sitelinks (MIN(?inception) AS ?from) (SAMPLE(?coord) AS 
   ?article schema:about ?item ;
            schema:isPartOf <https://en.wikipedia.org/> ;
            schema:name ?title .
+
+  OPTIONAL { ?item wdt:P190 ?twin }
+  OPTIONAL { ?item wdt:P6 ?mayor }
+  OPTIONAL { ?item wdt:P1082 ?pop }
+
+  # Every real city in the answer carries one of these: ancient city, city,
+  # city-state, polis, human settlement, town, village, oppidum, lost city, big
+  # city, port city, capital city, tell. Enumerated rather than walked, because
+  # the exact class is the claim being read and a subclass of it is not.
+  OPTIONAL {
+    ?item wdt:P31 ?settlement .
+    VALUES ?settlement {
+      wd:Q15661340 wd:Q515 wd:Q133442 wd:Q148837 wd:Q486972 wd:Q3957 wd:Q532
+      wd:Q192601 wd:Q2974842 wd:Q1549591 wd:Q2264924 wd:Q5119 wd:Q674413
+    }
+  }
+
+  # And the other way: monument, temple, pyramid, tomb, amphitheatre, thermae,
+  # aqueduct, geoglyph, column, triumphal arch, museum, church, tumulus,
+  # necropolis. Walked with P279*, because here the subclasses are the point —
+  # the Colosseum is a `Roman amphitheatre` and Stonehenge a `henge`, and
+  # enumerating every leaf is how the list goes stale. The walk costs nothing
+  # measurable at this size: the whole query answers in eight seconds.
+  OPTIONAL {
+    ?item wdt:P31/wdt:P279* ?built .
+    VALUES ?built {
+      wd:Q4989906 wd:Q44539 wd:Q12516 wd:Q381885 wd:Q54831 wd:Q6581615 wd:Q474
+      wd:Q45791 wd:Q4817 wd:Q143912 wd:Q33506 wd:Q16970 wd:Q34023 wd:Q200141
+    }
+  }
 
   FILTER(?sitelinks > 8)
   FILTER(YEAR(?inception) < 500)

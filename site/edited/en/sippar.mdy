@@ -1,0 +1,705 @@
++++
+title: Sippar
+description: Archaeological site in Iraq
+key-facts:
+  - name: Where it is
+    value: Tell Abu Habbah, near Yusufiyah in Iraq's Baghdad Governorate, 69 km
+      (43 mi) north of Babylon
+    from: Its //[[ tell | tell-archaeology ]]// is located at the site of modern
+      !!Tell Abu Habbah!! near [[ Yusufiyah ]] in [[ Iraq ]]'s [[ Baghdad
+      Governorate ]], some 69 km (43 mi) north of [[ Babylon ]] and 30 km (19
+      mi) southwest of [[ Baghdad ]].
+  - name: Periods it was lived in
+    value: Early Dynastic, Old Babylonian, Kassite, Neo-Assyrian, Neo-Babylonian
+    from: "periods: Early Dynastic, Old Babylonian, Kassite, Neo-Assyrian,
+      Neo-Babylonian"
+  - name: Whose city it was
+    value: The sun god's — Sumerian Utu, Akkadian Shamash — whose temple here was
+      E-babbara, "white house"
+    from: Sippar was the cult site of the sun god (Sumerian [[ Utu ]], Akkadian [[
+      Shamash ]]), along with his consort [[ Aya | aya-goddess ]], and the
+      home of his temple [[ E | é-temple ]]-babbara ([[ 𒂍 | é-temple
+      ]]𒌓𒌓𒊏, means "white house")
+  - name: How big the mound is
+    value: Over 1 square kilometer
+    from: Tell Abu Habba, measuring over 1 square kilometer was first excavated by
+      [[ Hormuzd Rassam ]] (referring to the site as Aboo-Habba) between 1880
+      and 1881 for the British Museum in a dig that lasted 18 months.
+  - name: When it was dug
+    value: 1880-1881, 1894, 1972-1973 and 1978-2002
+    from: "excavation-dates: 1880-1881, 1894, 1972-1973, 1978-2002"
+  - name: Who dug it
+    value: Hormuzd Rassam, Jean-Vincent Scheil, H. Gasche and Walid al-Jadir
+    from: "archaeologists: Hormuzd Rassam, Jean-Vincent Scheil, H. Gasche, Walid
+      al-Jadir"
+image-plan:
+  - file: Clay_tablet_and_its_sealed_clay_envelope._Legal_document,_listing_of_land_and_their_distribution_to_several_sons._From_Sippar,_Iraq._Old-Babylonian_period._Reign_of_Sin-Muballit,_1812-1793_BCE._Vorderasiatisches_Museum,_Berlin,_Germany.jpg
+    role: hero
+    section: lead
+    caption: A legal document from Sippar and the clay envelope it was sealed in —
+      a listing of land and its distribution to several sons. Old-Babylonian
+      period, reign of [[ Sin-Muballit ]], 1812-1793 BCE. Vorderasiatisches
+      Museum, Berlin
+  - file: Hammurabi's_Babylonia_1.svg
+    role: full
+    section: middle-bronze-ii-c.-1820-1587-bc
+    caption: Hammurabi's Babylonia. [[ Hammurabi ]] (r. 1792-1750 BC) reported
+      laying the foundations of Sippar's city wall in his 23rd year, and
+      worked on it again in his 43rd
+  - file: Old_Babylonian_Cylinder_Seal,_formerly_in_the_Charterhouse_Collection_04.jpg
+    role: inline
+    section: middle-bronze-age
+    caption: "An Old Babylonian [[ Cylinder Seal ]] in [[ hematite ]]: the king
+      makes an animal offering to [[ Shamash ]]. The style of this seal
+      suggests that it originated from a workshop in Sippar[[ ^48 ]]"
+  - file: Clay_cone_Sippar_Louvre_AO3277.jpg
+    role: inline
+    section: archaeology
+    caption: A [[ Hammurabi ]] clay cone from Sippar, now in the Louvre
+further:
+  - slug: babylon
+    why: Sumu-la-El, Hammurabi and Samsu-iluna all worked on Sippar's walls from
+      Babylon, and the city flourished under Babylonian rule until the Sack of
+      Babylon around 1587 BC.
+  - slug: borsippa
+    why: Borsippa joined the same revolt against Naram-Sin, and Pliny's
+      //Borsippeni// sit beside the //Hippareni// that may or may not be named
+      for Sippar.
+  - slug: shuruppak
+    why: In the Sumerian King List, kingship falls from Sippar and is taken to
+      Shuruppak.
+coordinates:
+  lat: 33.058829
+  lon: 44.252153
+images:
+  - file: Clay_tablet_and_its_sealed_clay_envelope._Legal_document,_listing_of_land_and_their_distribution_to_several_sons._From_Sippar,_Iraq._Old-Babylonian_period._Reign_of_Sin-Muballit,_1812-1793_BCE._Vorderasiatisches_Museum,_Berlin,_Germany.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Clay_tablet_and_its_sealed_clay_envelope._Legal_document%2C_listing_of_land_and_their_distribution_to_several_sons._From_Sippar%2C_Iraq._Old-Babylonian_period._Reign_of_Sin-Muballit%2C_1812-1793_BCE._Vorderasiatisches_Museum%2C_Berlin%2C_Germany.jpg/250px-thumbnail.jpg
+    width: 3171
+    height: 3321
+    caption: Clay tablet and its sealed clay envelope. Legal document, listing of
+      land and their distribution to several sons. From Sippar, Iraq.
+      Old-Babylonian period. Reign of Sin-Muballit, 1812-1793 BCE.
+      Vorderasiatisches Museum, Berlin
+  - file: Hammurabi's_Babylonia_1.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hammurabi%27s_Babylonia_1.svg/250px-Hammurabi%27s_Babylonia_1.svg.png
+    width: 655
+    height: 570
+    caption: Hammurabi's Babylonia 1
+  - file: Clay_cone_Sippar_Louvre_AO3277.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Clay_cone_Sippar_Louvre_AO3277.jpg/250px-Clay_cone_Sippar_Louvre_AO3277.jpg
+    width: 1500
+    height: 1245
+    caption: Hammurabi clay cone from Sippar at Louvre
+  - file: Old_Babylonian_Cylinder_Seal,_formerly_in_the_Charterhouse_Collection_04.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Old_Babylonian_Cylinder_Seal%2C_formerly_in_the_Charterhouse_Collection_04.jpg/250px-Old_Babylonian_Cylinder_Seal%2C_formerly_in_the_Charterhouse_Collection_04.jpg
+    width: 1428
+    height: 2048
+    caption: Old Babylonian Cylinder Seal, hematite. The king makes an animal
+      offering to Shamash. The style of this seal suggests that it originated
+      from a workshop in Sippar
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iraq_physical_map.svg/250px-Iraq_physical_map.svg.png
+  type: settlement
+  periods: Early Dynastic, Old Babylonian, Kassite, Neo-Assyrian, Neo-Babylonian
+  location: Baghdad Governorate, Iraq
+  region: Mesopotamia
+  site-notes:
+    excavation-dates: 1880-1881, 1894, 1972-1973, 1978-2002
+    archaeologists: Hormuzd Rassam, Jean-Vincent Scheil, H. Gasche, Walid al-Jadir
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: early-bronze-age
+    title: Early Bronze Age
+  - level: 4
+    id: akkadian-period
+    title: Akkadian period
+  - level: 3
+    id: middle-bronze-age
+    title: Middle Bronze Age
+  - level: 4
+    id: middle-bronze-i
+    title: Middle Bronze I
+  - level: 4
+    id: middle-bronze-ii-c.-1820-1587-bc
+    title: Middle Bronze II (c. 1820-1587 BC)
+  - level: 3
+    id: late-bronze-age
+    title: Late Bronze Age
+  - level: 3
+    id: iron-age
+    title: Iron Age
+  - level: 4
+    id: neo-babylonian-period
+    title: Neo-Babylonian period
+  - level: 4
+    id: neo-assyrian-period
+    title: Neo-Assyrian period
+  - level: 4
+    id: achaemenid-period
+    title: Achaemenid period
+  - level: 3
+    id: speculation
+    title: Speculation
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 2
+    id: gallery
+    title: Gallery
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+wikidata:
+  id: Q619707
+  label: Sippar
+  description: archaeological site in Iraq
+  claims:
+    coordinate-location:
+      - lat: 33.058829
+        lon: 44.252153
+      - lat: 33.06667
+        lon: 44.25
+    commons-category: Sippar
+    country: Iraq
+    instance-of:
+      - human settlement
+      - archaeological site
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Hammurabi's_Babylonia_1.svg
+    culture: Sumer
+    described-by-source: Encyclopædia Britannica 11th edition
+link-titles:
+  abi-eshuh: Abi-Eshuh
+  abydenus: Abydenus
+  achaemenid-empire: Achaemenid Empire
+  adad-apla-iddina: Adad-apla-iddina
+  akkadian-empire: Akkadian Empire
+  akkadian-language: Akkadian language
+  akkadian-royal-titulary: Akkadian royal titulary
+  ammi-ditana: Ammi-Ditana
+  ammi-saduqa: Ammi-Saduqa
+  amorite: Amorite
+  ancient-near-east: Ancient Near East
+  antediluvian: Antediluvian
+  apil-sin: Apil-Sin
+  aya-goddess: Aya (goddess)
+  babylon: Babylon
+  babylonia: Babylonia
+  babylonian-map-of-the-world: Babylonian Map of the World
+  baghdad: Baghdad
+  baghdad-governorate: Baghdad Governorate
+  balag: Balag
+  battle-of-carchemish: Battle of Carchemish
+  battle-of-opis: Battle of Opis
+  berossus: Berossus
+  borsippa: Borsippa
+  british-museum: British Museum
+  cambyses-ii: Cambyses II
+  chagar-bazar: Chagar Bazar
+  clay-tablet: Clay tablet
+  code-of-hammurabi: Code of Hammurabi
+  cylinder-seal: Cylinder Seal
+  dual-grammatical-number: Dual (grammatical number)
+  early-dynastic-i: Early Dynastic I
+  early-dynastic-period-mesopotamia: Early Dynastic Period (Mesopotamia)
+  en-men-dur-ana: En-men-dur-ana
+  euphrates: Euphrates
+  first-babylonian-dynasty: First Babylonian dynasty
+  gala-priests: Gala (priests)
+  german-archaeological-institute: German Archaeological Institute
+  hammurabi: Hammurabi
+  hegemony: Hegemony
+  hematite: Hematite
+  hormuzd-rassam: Hormuzd Rassam
+  inshushinak: Inshushinak
+  iraq: Iraq
+  istanbul-archaeology-museums: Istanbul Archaeology Museums
+  jean-vincent-scheil: Jean-Vincent Scheil
+  julius-jordan: Julius Jordan
+  kassite-dynasty: Kassite dynasty
+  kazallu: Kazallu
+  kish-sumer: Kish (Sumer)
+  kutha: Kutha
+  larak-sumer: Larak (Sumer)
+  late-bronze-age-collapse: Late Bronze Age collapse
+  lugal: Lugal
+  mamu-deity: Mamu (deity)
+  manishtushu: Manishtushu
+  mudbrick: Mudbrick
+  mursili-i: Mursili I
+  nabonidos: Nabonidos
+  naram-sin-of-akkad: Naram-Sin of Akkad
+  natural-history-pliny: Natural History (Pliny)
+  nebuchadnezzar-i: Nebuchadnezzar I
+  nebuchadnezzar-ii: Nebuchadnezzar II
+  neo-babylonian: Neo-Babylonian
+  ninkarrak: Ninkarrak
+  nippur: Nippur
+  old-babylonian-period: Old Babylonian period
+  old-testament: Old Testament
+  parthian-empire: Parthian Empire
+  pliny-the-elder: Pliny the Elder
+  pre-dynastic-period-of-sumer: Pre-dynastic period of Sumer
+  reign: Reign
+  sabium: Sabium
+  samsu-iluna: Samsu-iluna
+  seleucid-empire: Seleucid Empire
+  sepharvaim: Sepharvaim
+  shaduppum: Shaduppum
+  shamash: Shamash
+  shuruppak: Shuruppak
+  shutruk-nakhunte: Shutruk-Nakhunte
+  sin-muballit: Sin-Muballit
+  sippar-amnanum: Sippar-Amnanum
+  sumer: Sumer
+  sumerian-king-list: Sumerian king list
+  sumerian-language: Sumerian language
+  sumu-abum: Sumu-abum
+  sumu-la-el: Sumu-la-El
+  surveying: Surveying
+  tablet-of-shamash: Tablet of Shamash
+  tell-archaeology: Tell (archaeology)
+  throne: Throne
+  university-of-baghdad: University of Baghdad
+  university-of-pennsylvania: University of Pennsylvania
+  uruk: Uruk
+  uruk-period: Uruk period
+  utu: Utu
+  walter-andrae: Walter Andrae
+  yusufiyah: Yusufiyah
+  ziggurat: Ziggurat
+  ziusudra: Ziusudra
+  é-temple: É (temple)
+source:
+  site: Wikipedia
+  lang: en
+  title: Sippar
+  url: https://en.wikipedia.org/wiki/Sippar
+  page-id: 85480
+  revision: "1372465714"
+  modified: 2026-08-31T21:46:43Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Sippar"
+    (revision 1372465714), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/sippar.mdy
+  source-digest: ea40c218246ab190
+  source-revision: "1372465714"
+  model: claude-opus-5
+  left-out: The "Iron Age" heading carries no prose of its own in the source —
+    all of its text sits in the Neo-Babylonian, Neo-Assyrian and Achaemenid
+    subsections — so its body is empty rather than invented. "Gallery" and
+    "List of rulers" are a picture list and a table, so they are reproduced
+    close to as they were rather than turned into continuous prose. The two
+    Si.427 tablet images in the Archaeology section are not among the files
+    given in the front matter, so they are not in the image plan; the fact
+    they illustrate is kept in the prose with its citations. Two garbled
+    passages in the Middle Bronze I section ("known from 8 texts a several
+    year names") are carried across close to as found, since correcting them
+    would mean guessing.
+  verified: true
+  verdict: clean
+  reviewed: false
++++
+!!Sippar!! ([[ Sumerian | sumerian-language ]]: 𒌓𒄒𒉣𒆠, !!Zimbir!!), also written Sippir or Sippara, was an [[ ancient Near Eastern | ancient-near-east ]] [[ Sumerian | sumer ]] and later [[ Babylonian | babylonia ]] city on the east bank of the [[ Euphrates ]] river.[[ ^1 ]] Its //[[ tell | tell-archaeology ]]// is the mound of modern !!Tell Abu Habbah!!, near [[ Yusufiyah ]] in [[ Iraq ]]'s [[ Baghdad Governorate ]], some 69 km (43 mi) north of [[ Babylon ]] and 30 km (19 mi) southwest of [[ Baghdad ]]. The [[ Babylonian Map of the World ]] was found there.[[ ^3 ]]
+
+The name is not as simple as it looks. Sippar could also refer to the city's sister city, [[ Sippar-Amnanum ]] (the modern site of Tell ed-Der); the more specific designation for the city here called Sippar was Sippar-Yaḫrurum (Sippar-Jaḫrurum), after the Amorite Yaḫrurum tribe that lived in the area along with the Amorite Amnanum tribe.[[ ^2 ]]
+
+== History
+
+Pottery finds put people on the site as early as the [[ Uruk period ]], but substantial occupation came only in bursts: the [[ Early Dynastic | early-dynastic-period-mesopotamia ]] and [[ Akkadian Empire ]] periods of the 3rd millennium BC, the [[ Old Babylonian | first-babylonian-dynasty ]] and [[ Kassite | kassite-dynasty ]] periods of the 2nd millennium BC, and [[ Neo-Babylonian ]] times in the 1st millennium BC. Lesser levels of use continued into the time of the [[ Achaemenid | achaemenid-empire ]], [[ Seleucid | seleucid-empire ]] and [[ Parthian Empires | parthian-empire ]].[[ ^4 ]][[ ^5 ]]
+
+== Early Bronze Age
+
+Thousands of cuneiform [[ clay tablets | clay-tablet ]] have been recovered at the site, and relatively little is still known about the history of Sippar itself. In the [[ Sumerian king list ]] a king of Sippar, [[ En-men-dur-ana ]], is listed as one of the early pre-dynastic rulers of the region, but he has not yet turned up in the epigraphic records.
+
+== Akkadian period
+
+Sippar was the cult site of the sun god (Sumerian [[ Utu ]], Akkadian [[ Shamash ]]), along with his consort [[ Aya | aya-goddess ]], and the home of his temple [[ E | é-temple ]]-babbara ([[ 𒂍 | é-temple ]]𒌓𒌓𒊏, means "white house"), where the [[ Cruciform Monument of Manishtushu | manishtushu#cruciform-monument-of-manishtushu ]] was found.[[ ^6 ]] He did not have the place to himself: [[ Mamu | mamu-deity ]], the daughter of Shamash, also had a temple in Sippar, as did the goddesses Nin-Isina, Ninḫegal, [[ Ninkarrak | ninkarrak#sippar ]], and Tašmētum.[[ ^7 ]]
+
+In the later part of the 3rd millennium BC, a large coalition of city-states revolted against Akkadian Empire ruler [[ Naram-Sin of Akkad ]]. It was led by Iphur-Kis of [[ Kish (Sumer) ]] and Amar-Girid of [[ Uruk ]], joined by Enlil-nizu of [[ Nippur ]], and included the city-states of "[[ Kutha ]], TiWA, Sippar, [[ Kazallu ]], Kiritab, [Api]ak and GN" as well as "Amorite [hi]ghlanders"; the city of [[ Borsippa ]] joined too, among others. The revolt was crushed.[[ ^8 ]]
+
+== Middle Bronze Age
+
+Sippar was the production center of wool. It also produced some of the finest [[ Old Babylonian | akkadian-language ]] cylinder seals.[[ ^9 ]]
+
+== Middle Bronze I
+
+In Middle Bronze IB (c. 1900-1820 BC), the city-state of Babylon started to expand, and Sippar eventually came within the Babylonian realm. [[ Sumu-la-El ]] of [[ Babylon ]] (r. 1878-1843 BC) conducted several military campaigns gaining control over Sippar, and in his 29th year of reign reported building the city wall of Sippar. [[ Sabium ]] (r. 1842-1829 BC) did some religious activity dedicated to Utu/Shamash, Marduk in one of his year-names, and [[ Apil-Sin ]] (r. 1828-1812 BC) did some activity in Sippar in his Year 14.
+
+The local rulers are known mostly from year names, oaths and temple records. Based on Shamash Temple records, the Sippar ruler Immerum (Akkadian for sheep or ram) is known to have been roughly contemporary with the rule of Sumu-la-El and independent of though possibly vassal to Babylon.[[ ^10 ]] He is also mentioned in a oath on a text found at [[ Šaduppûm | shaduppum ]] (Tell Harmal),[[ ^11 ]] and another was found at [[ Chagar Bazar ]].[[ ^12 ]] He is suggested to have been ruling Sippar when Babylon took control, based on a text sealed with oaths to both Immerum and Sumu-la-El.[[ ^13 ]][[ ^14 ]] In another text detailing gifts for dignitaries, [[ Sumu-abum ]], first ruler of the First Babylonian Empire, received the largest gift, with Immerum and Sumu-la-El (2nd ruler of that empire) receiving smaller gifts.[[ ^15 ]] Four year names of Immerum are known, including "The year (in which) the temple of Inanna Immerum built";[[ ^16 ]] another was "Year when Immerum dug the Asuhu canal". It was suggested that Immerum could also be read as Nur^^d^^-Immer.[[ ^17 ]] In the Immerum year name "The year (in which) he fashioned two BALAG li-li-ìs for Shamash", a [[ Balag ]] is a musical instrument used in religious ceremonies by a [[ Gala priest | gala-priests ]].[[ ^18 ]]
+
+The ruler Ammi-ṣura (Hammi-ṣura) is known from 8 texts a several year names including "Year: Ammi-ṣura laid the foundations of Adad’s temple". Another ruler, Buntaätun-ila, is also known from texts; one, dated with the year name "Year Bunu-tahtun-ila (became) king", also bears a synchronism with Sumu-la-El.[[ ^19 ]] In another year name he brought a kettledrum (lilissu drum) into the temple of Ninkarrak/Gula. Buntaätun-ila is generally thought to be the final independent ruler of Sippar before it came under the control of Babylon. The ruler Ilum-ma-Ila is only known from texts. The rulers Altinû and Lipit-Ištar have also been suggested as rulers of Sippar in this period; year names are known including "The year in which Lipit-Ištar expelled the Amorites". They definitely ruled somewhere, the question is whether it was at Sippar.[[ ^11 ]]
+
+== Middle Bronze II (c. 1820-1587 BC)
+
+[[ Sin-Muballit ]] (r. 1811-1793 BC) controlled the city, and a sealed clay envelope is known.
+
+Some years later [[ Hammurabi ]] of Babylon (r. 1792-1750 BC) reported laying the foundations of the city wall of Sippar in his 23rd year, and worked on the wall again in his 43rd year. His successor in Babylon, [[ Samsu-iluna ]] (r. 1749-1712 BC), worked on Sippar's wall in his 1st year. The city walls, being typically made of mud bricks, required much attention.
+
+The [[ Code of Hammurabi ]] stele was probably erected at Sippar, which fits the city's god: [[ Shamash ]] was the god of justice, and he is depicted handing authority to the king in the image at the top of the stele.
+
+The city flourished under Babylonian rule until the Sack of Babylon by [[ Mursili I ]] of Hatti around 1587 BC.
+
+== Late Bronze Age
+
+The city then came under the control of the [[ Kassite dynasty ]]. In the final years of that dynasty the Elamite ruler [[ Shutruk-Nakhunte ]] (c. 1184 to 1155 BC) captured Sippar. He carried statues from the Shamash temple back to Susa, and added his own inscription to a stele of the Akkadian Empire ruler [[ Naram-Sin | naram-sin-of-akkad ]]:
+
+<blockquote
+  "I am Shutruk-Nahhunte, son of Hallutush-Inshushinak, beloved servant of the god [[ Inshushinak ]], king of Anshan and Susa, who has enlarged the kingdom, who takes care of the lands of Elam, the lord of the land of Elam. When the god Inshushinak gave me the order, I defeated Sippar. I took the stele of Naram-Sin and carried it off, bringing it to the land of Elam. For Inshushinak, my god, I set it as an offering."[[ ^20 ]]
+
+== Iron Age
+
+
+
+== Neo-Babylonian period
+
+In the succeeding [[ Late Bronze Age collapse ]] period, the city was taken by the Neo-Babylonian ruler [[ Nebuchadnezzar I ]] about 1120 BC. In the reign of Neo-Babylonian ruler [[ Adad-apla-iddina ]] (c. 1064–1043 BC) the Shamash cult center along with all the other temples in Sippar were destroyed by Suteans, and the cult symbol of Shamash was lost.[[ ^21 ]][[ ^22 ]]
+
+== Neo-Assyrian period
+
+In the early 1st millennium BC, Sippar came under Neo-Assyrian control.[[ ^23 ]] After the final defeat of the Neo-Assyrians by the Neo-Babylonians at the [[ Battle of Carchemish ]] in 605 BC, text report that a number of Egyptian and Assyrian prisoners were brought to Sippar as chattel.[[ ^24 ]][[ ^25 ]] Records of Neo-Babylonian ruler [[ Nebuchadnezzar II ]] (605-562 BC) and [[ Nabonidos ]] (556-539 BC) record that they repaired the Shamash temple E-babbara.[[ ^26 ]]
+
+== Achaemenid period
+
+After the [[ Battle of Opis ]] in September 539 BC Sippar surrendered to the [[ Achaemenid Empire ]], followed soon after by the fall of the Neo-Babylonian empire.[[ ^27 ]]
+
+After the Battle of Guagamela in 331 BCE, a cuneiform tablet records a message originating in Sippar from Alexander the Great to the people of Babylon, promising that he "shall not enter your houses."[[ ^28 ]]
+
+== Speculation
+
+[[ Xisuthros | ziusudra ]], the "Chaldean Noah" in Sumerian mythology, is said by [[ Berossus ]] to have buried the records of the [[ antediluvian ]] world here—possibly because the name of Sippar was supposed to be connected with //sipru//, "a writing".[[ ^29 ]] And according to [[ Abydenus ]], [[ Nebuchadnezzar II ]] excavated a great reservoir in the neighbourhood.[[ ^30 ]]
+
+[[ Pliny | pliny-the-elder ]] (//[[ Natural History | natural-history-pliny ]]// 6.30.123) mentions a sect of Chaldeans called the //Hippareni//. It is often assumed that this name refers to Sippar, especially because the other two schools mentioned seem to be named after cities as well: the //Orcheni// after [[ Uruk ]], and the //Borsippeni// after [[ Borsippa ]]. But this is not universally accepted.[[ ^31 ]]
+
+Sippar has been suggested as the location of the Biblical [[ Sepharvaim ]] in the [[ Old Testament ]], which alludes to the two parts of the city in its [[ dual | dual-grammatical-number ]] form.[[ ^32 ]]
+
+== Archaeology
+
+Si.427, a tablet excavated in Sippar in 1894, depicts a [[ land survey | surveying ]]: a mathematical text dealing with the surface area of a field divided into 11 pieces.[[ ^33 ]][[ ^34 ]]
+
+Tell Abu Habba, measuring over 1 square kilometer, was first excavated by [[ Hormuzd Rassam ]] (referring to the site as Aboo-Habba) between 1880 and 1881 for the British Museum, in a dig that lasted 18 months. Rassam excavated only down to the Old Babylonian levels and was focused mainly on the Neo-Babylonian remains.[[ ^35 ]] Tens of thousands of tablets were recovered, including the [[ Tablet of Shamash ]] in the Temple of [[ Shamash ]]/[[ Utu ]]; most of the tablets were [[ Neo-Babylonian ]].[[ ^36 ]][[ ^37 ]][[ ^38 ]] The temple had been mentioned as early as the 18th year of [[ Samsu-iluna ]] of Babylon, who reported restoring "Ebabbar, the temple of Szamasz in Sippar", along with the city's [[ ziggurat ]].
+
+The tablets, which ended up in the [[ British Museum ]], are being studied to this day. As was often the case in the early days of archaeology, excavation records were not made, particularly find spots. This makes it difficult to tell which tablets came from Sippar-Amnanum as opposed to Sippar.[[ ^39 ]] Other tablets from Sippar were bought on the open market during that time and ended up at places like the British Museum and the [[ University of Pennsylvania ]].[[ ^40 ]][[ ^41 ]] Since the site is relatively close to [[ Baghdad ]], it was a popular target for illegal excavations.[[ ^42 ]]
+
+In 1894, Sippar was worked briefly by [[ Jean-Vincent Scheil ]];[[ ^43 ]] the tablets recovered, mainly Old Babylonian, went to the [[ Istanbul Museum | istanbul-archaeology-museums ]].[[ ^44 ]] In 1927 archaeologists [[ Walter Andrae ]] and [[ Julius Jordan ]] visited, and mapped, the site.[[ ^45 ]] In modern times, the site was worked, mainly soundings, by a Belgian team led by H. Gasche from 1972 to 1973.[[ ^46 ]] They determined that Sippar was protected by a wall, partially for flood protection, extending 1200 meters by 800 meters, cutting a trench across it. A tablet of Samsu-iluna was found showing the wall dated back to at least Old Babylonian period, though ground water prevented deeper excavation.[[ ^47 ]]
+
+Iraqi archaeologists from the College of Arts at the [[ University of Baghdad ]], led by Walid al-Jadir with Farouk al-Rawi, have excavated at Tell Abu Habbah starting in 1978. Work began with a new site contour map and excavation in the Old Babylonian area in the north, where two buildings were uncovered and about 100 Old Babylonian period cuneiform tablets were found.[[ ^49 ]] Subsequently, the team worked in an Old Babylonian residential area where terracotta plaques and figurines, and cuneiform tablets were found; the tablets were from the reign of Immerum, Buntahun-ila, and Samsu-iluna. Focus then shifted to the Shamash temple area.[[ ^50 ]][[ ^51 ]] In the northeast, Old Babylonian part of the site, a 30 meter by 5 meter deep sounding was excavated, finding 4 Old Babylonian levels, 2 [[ Akkadian Empire ]] levels, and 3 Early Dynastic levels (with plano-convex [[ mud brick | mudbrick ]] construction).[[ ^52 ]][[ ^53 ]]
+
+In 1986, while clearing spoil from the Rassam excavation in the E-Babbar temple, a room was discovered which Rassam had not noticed. It contained a library with about 400 cuneiform tablets, which had been stored in 10 ranks of 17 cm by 30 cm niches in 4 rows. The tablets included copies of earlier inscriptions dating back to the Akkadian Empire and contemporary texts as late as the reign of [[ Cambyses II ]].[[ ^54 ]][[ ^55 ]] Few of the tablets were published at the time due to conditions in Iraq. With conditions improving, they are now being published.[[ ^56 ]][[ ^57 ]][[ ^58 ]][[ ^59 ]][[ ^60 ]][[ ^61 ]]
+
+After 2000, the Iraqi team was joined by the [[ German Archaeological Institute ]]. In total, the effort continued in 24 seasons until 2002.[[ ^62 ]][[ ^63 ]][[ ^64 ]] In the 24th season in 2002, 700 cuneiform tablets were found in one important building in the center of town. Most date to the reign of [[ Ammi-Saduqa ]] (c. 1646–1626 BC), a ruler of the First Dynasty of Babylon, with a few from [[ Abi-Eshuh ]] (c. 1711-1684 BC) and [[ Ammi-Ditana ]] (c. 1683-1647 BC).[[ ^65 ]]
+
+== Gallery
+
+<ul
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Map_of_the_World_from_Sippar%2C_Mesopotamia%2C_Iraq._6th_century_BCE._The_British_Museum.jpg/120px-Map_of_the_World_from_Sippar%2C_Mesopotamia%2C_Iraq._6th_century_BCE._The_British_Museum.jpg" alt="Map of the World from Sippar, Mesopotamia, Iraq. 6th century BCE. The British Museum" height="120" width="83"
+
+    Map of the World from Sippar, Mesopotamia, Iraq. 6th century BCE. The British
+    Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tablet_of_Nabu-apla-iddina%2C_9th_century_BCE%2C_from_Sippar%2C_Iraq._British_Museum.jpg/120px-Tablet_of_Nabu-apla-iddina%2C_9th_century_BCE%2C_from_Sippar%2C_Iraq._British_Museum.jpg" alt="Tablet of Nabu-apla-iddina, 9th century BCE, from Sippar, Iraq. British Museum" height="120" width="79"
+
+    Tablet of Nabu-apla-iddina, 9th century BCE, from Sippar, Iraq. British Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Detail%2C_Sun_God_Tablet_from_Sippar%2C_Iraq%2C_9th_century_BCE._British_Museum.jpg/120px-Detail%2C_Sun_God_Tablet_from_Sippar%2C_Iraq%2C_9th_century_BCE._British_Museum.jpg" alt="Detail, Sun God Tablet from Sippar, Iraq, 9th century BCE. British Museum" height="90" width="120"
+
+    Detail, Sun God Tablet from Sippar, Iraq, 9th century BCE. British Museum
+
+  <li
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Detail%2C_Kudurru_of_Ritti-Marduk%2C_from_Sippar%2C_Iraq%2C_1125-1104_BCE._British_Museum.jpg/120px-Detail%2C_Kudurru_of_Ritti-Marduk%2C_from_Sippar%2C_Iraq%2C_1125-1104_BCE._British_Museum.jpg" alt="Detail, Kudurru of Ritti-Marduk, from Sippar, Iraq, 1125-1104 BCE. British Museum" height="80" width="120"
+
+    Detail, Kudurru of Ritti-Marduk, from Sippar, Iraq, 1125-1104 BCE. British
+    Museum
+
+== List of rulers
+
+The following list should not be considered complete:
+
+<table
+  <tbody
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>[[ Epithet | akkadian-royal-titulary#epithets ]]
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!![[ Early Dynastic I period | early-dynastic-i ]] (c. 2900 – c. 2700 BC)!!
+
+    <tr
+      <th colspan="7">[[ Predynastic Sumer | pre-dynastic-period-of-sumer ]] (c. 2900 – c. 2700 BC)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"Then [[ Larak | larak-sumer#list-of-rulers ]] fell and the
+          [[ kingship | throne ]] was taken to Sippar."//
+
+        — //[[ Sumerian King List ]] (SKL)//
+
+    <tr
+      <td>1st
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lista_Reale_Sumerica.jpg/120px-Lista_Reale_Sumerica.jpg" height="64" width="120"
+
+      <td>[[ En-men-dur-ana ]]
+        <br
+
+        𒂗𒉺𒇻𒍣𒀭𒈾
+
+      <td
+
+      <td
+
+      <td>//Uncertain,// [[ reigned | reign ]] c. 2820 BC
+        <br
+
+        (21,000 years)
+
+      <td
+        - Said on the //SKL// to have held the title of, //"[[ King | lugal ]]"// of not just Sippar; but, to have held the //"[[ Kingship | hegemony ]]"// over //all// of Sumer
+        - Known from the //SKL//; very little otherwise
+        - Historicity uncertain
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"1 king; he ruled for 21,000 years. Then Sippar fell and the kingship was
+          taken to [[ Shuruppak | shuruppak#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>Epithet
+
+      <th>Approx. dates
+
+      <th>Notes
+
+    <tr
+      <td colspan="7">!![[ Old Babylonian period ]] (c. 2000 – c. 1000 BC)!!
+
+    <tr
+      <th colspan="7">[[ Amorite ]] dynasty (c. 2000 – c. 1000 BC)
+
+    <tr
+      <td
+
+      <td
+
+      <td>Altinu'u
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+
+      <td
+        - Historicity certain
+
+    <tr
+      <td
+
+      <td
+
+      <td>Bunu-tahtun-ila
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+
+      <td
+        - Historicity certain
+
+    <tr
+      <td
+
+      <td
+
+      <td>Immerum
+
+      <td
+
+      <td
+
+      <td>[[ reigned | reign ]] c. 1880 – c. 1845 BC
+
+      <td
+        - Historicity certain
+
+    <tr
+      <td
+
+      <td
+
+      <td>Sin-bani
+
+      <td
+
+      <td
+
+      <td>//Uncertain//
+
+      <td
+        - Historicity certain
+
+[[ ^1 ]]: [[ "The Sumerian king list: translation" | https://etcsl.orinst.ox.ac.uk/section2/tr211.htm ]]. //etcsl.orinst.ox.ac.uk//. Retrieved 2025-04-29.
+
+[[ ^2 ]]: Yuhong, Wu, and Stephanie Dalley, "The Origins of the Manana Dynasty at Kish, and the Assyrian King List", Iraq, vol. 52, pp. 159–65, 1990
+
+[[ ^3 ]]: Horowitz, Wayne, "The Babylonian Map of the World", Iraq, vol. 50,  pp. 147-165, 1988
+
+[[ ^4 ]]: MacGinnis, John, Jon McGinnis, and Cornelia Wunsch, "The arrows of the sun: armed forces in Sippar in the first millennium BC". Islet-Verlag, 2012 ISBN [[ 9783980846653 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9783980846653 ]]
+
+[[ ^5 ]]: Clayden, Tim, "Dūr-Kurigalzu: New Perspectives", Volume 2 Karduniaš. Babylonia under the Kassites 2, edited by Alexa Bartelmus and Katja Sternitzke, Berlin, Boston: De Gruyter, pp. 437-478, 2017
+
+[[ ^6 ]]: MacGinnis, John, "The Šatammu of Sippar", Die Welt des Orients, pp. 21-26, 1995
+
+[[ ^7 ]]: [[ https://www.zora.uzh.ch/id/eprint/135436/1/Asher-Greve_Westenholz_2013_Goddesses_in_Context.pdf | https://www.zora.uzh.ch/id/eprint/135436/1/Asher-Greve_Westenholz_2013_Goddesses_in_Context.pdf ]] Asher-Greve, Julia M., and Joan Goodnick Westenholz, "Goddesses in context: on divine powers, roles, relationships and gender in Mesopotamian textual and visual sources", Vol. 259. Academic Press/Vandenhoeck & Ruprecht, 2013
+
+[[ ^8 ]]: Steve Tinney, A New Look at Naram-Sin and the "Great Rebellion",  Journal of Cuneiform Studies, vol. 47, pp. 1-14, 1995
+
+[[ ^9 ]]: Collon, Dominique (2005). //First impressions : cylinder seals in the ancient Near East// ([Rev. ed.] ed.). London: British Museum Press. ISBN [[ 0-7141-1136-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-7141-1136-8 ]]. OCLC [[ 63186269 | https://search.worldcat.org/oclc/63186269 ]].
+
+[[ ^10 ]]: [[ https://scholar.archive.org/work/phwl25izmbbedn7563svrxqmna/access/ia_file/crossref-pre-1909-scholarly-works/10.1524%252Folzg.1903.6.16.141.zip/10.1524%252Folzg.1907.10.16.104.pdf | https://scholar.archive.org/work/phwl25izmbbedn7563svrxqmna/access/ia_file/crossref-pre-1909-scholarly-works/10.1524%252Folzg.1903.6.16.141.zip/10.1524%252Folzg.1907.10.16.104.pdf ]] Ranke, Hermann, "Immerum ron Sippar", Orientalistische Literaturzeitung 10.1-6, pp. 104-105, 1907
+
+[[ ^11 ]]: [[ https://scholarlypublications.universiteitleiden.nl/access/item%3A2944802/download | https://scholarlypublications.universiteitleiden.nl/access/item%3A2944802/download ]] Boer, Rients de, "Amorites in the Early Old Babylonian Period", Leiden University Institute for Area Studies, 2014
+
+[[ ^12 ]]: Gadd, C. J., "Tablets from Chagar Bazar, 1936", Iraq, vol. 4, no. 2, pp. 178–85, 1937
+
+[[ ^13 ]]: Tanret, M., "I.B. The First Sangas", in The Seal of the Sanga, Leiden, The Netherlands: Brill, 2010
+
+[[ ^14 ]]: Tanret, M.,"I.C. Before The Second Sanga", in The Seal of the Sanga, Leiden, The Netherlands: Brill, 2010
+
+[[ ^15 ]]: Wasserman, N., & Bloch, Y., "The Kingdom of Babylon", in The Amorites, Leiden, The Netherlands: Brill, 2023
+
+[[ ^16 ]]: "PBS 08/2, 195 Artifact Entry", (2005) 2023. Cuneiform Digital Library Initiative (CDLI). February 1, 2023. https://cdli.earth/P257793
+
+[[ ^17 ]]: [[ https://www.journals.uchicago.edu/doi/pdf/10.1086/369887 | https://www.journals.uchicago.edu/doi/pdf/10.1086/369887 ]] Langdon, S., "The Chronology of Sumer and Akkad", pp. 224-229, 1919
+
+[[ ^18 ]]: Gabbay, Uri, "The balaĝ instrument and its role in the cult of ancient Mesopotamia", Music in Antiquity: The Near East and the Mediterranean, pp. 129-47, 2014
+
+[[ ^19 ]]: Tanret, Michel, and Guido Suurmeijer, "Officials of the Šamaš Temple of Sippar as Contract Witnesses in the Old Babylonian Period", Zeitschrift für Assyriologie & Vorderasiatische Archäologie 101.1, pp. 78-112, 2011
+
+[[ ^20 ]]: Mieroop, Marc Van De (2015). [[ //A History of the Ancient Near East, ca. 3000-323 BC// | https://books.google.com/books?id=zTLOCQAAQBAJ&pg=PA199 ]]. John Wiley & Sons. p. 199. ISBN [[ 9781118718230 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9781118718230 ]].
+
+[[ ^21 ]]: A. Goetze, "An Inscription of Simbar-šīḫu", Journal of Cuneiform Studies, 19 (4), pp. 121–135, 1965
+
+[[ ^22 ]]: Brinkman, J. A., "A Note on the Shamash Cult at Sippar in the Eleventh Century B.C.", Revue d’Assyriologie et d’archéologie Orientale, vol. 70, no. 2, pp. 183–84, 1976
+
+[[ ^23 ]]: Da-Riva, Rocío, "Sippar in the Reign of Sîn-šum-līšir (626 BC)", Altorientalische Forschungen 28.1, pp. 40-64, 2001
+
+[[ ^24 ]]: Bongenaar, Arminius CVM, and Ben JJ Haring, "Egyptians in neo-Babylonian Sippar", Journal of cuneiform studies 46.1, pp. 59-72, 1994
+
+[[ ^25 ]]: Mac-Ginnis, John, "Assyrians after the Fall: Evidence from the Ebabbar of Sippar", At the Dawn of History: Ancient Near Eastern Studies in Honour of J. N. Postgate, edited by Yağmur Heffron, Adam Stone and Martin Worthington, University Park, USA: Penn State University Press, pp. 781-796 2017
+
+[[ ^26 ]]: [[ https://archive.org/details/jstor-527830/page/n20/mode/1up | https://archive.org/details/jstor-527830/page/n20/mode/1up ]] Jastrow, Morris, "Nebopolassar and the Temple to the Sun-God at Sippar", The American Journal of Semitic Languages and Literatures, vol. 15, pp. 65-86, 1899
+
+[[ ^27 ]]: Kuhrt, A., "The Persian Empire: A Corpus of Sources of the Achaemenid Period", Routledge, 2007
+
+[[ ^28 ]]: Haubold, Johannes (2019). //Keeping Watch in Babylon: The Astronomical Diaries in Context//. BRILL. ISBN [[ 9789004397750 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9789004397750 ]].
+
+[[ ^29 ]]: [[ https://archive.org/details/jstor-527500 | https://archive.org/details/jstor-527500 ]] Ward, William Hayes, "Sippara", Hebraica, vol. 2, no. 2, pp. 79–86, 1886
+
+[[ ^30 ]]: Dalley, Stephanie, "Nineveh, Babylon and the Hanging Gardens: Cuneiform and Classical Sources Reconciled", Iraq, vol. 56, pp. 45–58, 1994
+
+[[ ^31 ]]: Barnett, R. D., "Xenophon and the Wall of Media", The Journal of Hellenic Studies, vol. 83, pp. 1–26, 1963
+
+[[ ^32 ]]: G. R. Driver, "Geographical Problems", Eretz Israel, vol. 5, pp. 18-20, 1958
+
+[[ ^33 ]]: Mansfield, Daniel F. (January 2020). [[ "Perpendicular Lines and Diagonal Triples in Old Babylonian Surveying" | http://unsworks.unsw.edu.au/fapi/datastream/unsworks:68848/bin16fb5d68-9860-41b7-8096-eabad4b204c8?view=true&xy=01 ]]. //Journal of Cuneiform Studies//. !!72!!: 87–99. doi:[[ 10.1086/709309 | https://doi.org/10.1086%2F709309 ]]. hdl:[[ 1959.4/unsworks_68848 | https://hdl.handle.net/1959.4%2Funsworks_68848 ]]. S2CID [[ 224837017 | https://api.semanticscholar.org/CorpusID:224837017 ]].
+
+[[ ^34 ]]: Beek, Martinus Adrianus (1973). //Symbolae Biblicae Et Mesopotamicae [[ Francisco Mario Theodoro de Liagre Böhl | frans-de-liagre-böhl ]] Dedicatae//. [[ Brill Publishers ]]. p. 379.
+
+[[ ^35 ]]: [[ https://archive.org/download/asshurlandofnimr00rass/asshurlandofnimr00rass.pdf | https://archive.org/download/asshurlandofnimr00rass/asshurlandofnimr00rass.pdf ]] Hormuzd Rassam, "Asshur and the Land of Nimrod: Being an Account of the Discoveries Made in the Ancient Ruins of Nineveh, Asshur, Sepharvaim, Calah, [etc.]\...", Curts & Jennings, 1897
+
+[[ ^36 ]]: Leichty, E., "Catalogue of the Babylonian Tablets in the British Museum. Volume VI: Tablets from Sippar 1", London, 1986
+
+[[ ^37 ]]: Leichty, E. and A. K. Grayson, "Catalogue of the Babylonian Tablets in the British Museum Volume VII: Tablets from Sippar 2", London, 1987
+
+[[ ^38 ]]: Erie Leichty et al., Catalogue of the Babylonian Tablets in the British Museum Volume VII: Tablets from Sippar 3, British Museum Publications, 1988, ISBN [[ 0-7141-1124-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-7141-1124-4 ]]
+
+[[ ^39 ]]: Goddeeris, Anne (2002). //Economy and society in northern Babylonia in the early old Babylonian period (ca. 2000-1800 BC)//. Leuven: Peeters. ISBN [[ 90-429-1123-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F90-429-1123-9 ]]. OCLC [[ 50207588 | https://search.worldcat.org/oclc/50207588 ]].
+
+[[ ^40 ]]: [[ https://core.ac.uk/download/pdf/160738291.pdf | https://core.ac.uk/download/pdf/160738291.pdf ]] Hermann Ranke, Babylonian Legal and Business Documents from the Time of the First Dynasty of Babylon; Chiefly from Sippar, University of Pennsylvania, 1906 (reprinted by Nabu Press ISBN [[ 1-144-69277-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-144-69277-6 ]])
+
+[[ ^41 ]]: Lerberghe, Karel van (1986). //Old Babylonian legal and administrative texts from Philadelphia//. Marten Stol, Gabriela Voet. Leuven: Departement Oriëntalistiek. ISBN [[ 90-6831-063-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F90-6831-063-1 ]]. OCLC [[ 18962321 | https://search.worldcat.org/oclc/18962321 ]].
+
+[[ ^42 ]]: E. A. Budge, "By Nile and Tigris: A Narrative of Journeys in Egypt and Mesopotamia on Behalf of the British Museum Between the Years 1886 and 1913", John Murray, 1920
+
+[[ ^43 ]]: [[ https://archive.org/details/unesaisondefouil00sche/page/1/mode/1up | https://archive.org/details/unesaisondefouil00sche/page/1/mode/1up ]] V. Scheil, "Une Saison de fouilles a Sippar", Le Caire, 1902
+
+[[ ^44 ]]: [[ https://www.ub.edu/ipoa/wp-content/uploads/2021/12/20211AuOrAdaliFrahm.pdf | https://www.ub.edu/ipoa/wp-content/uploads/2021/12/20211AuOrAdaliFrahm.pdf ]] Adalı, Selim Ferruh, and Frahm Eckart, "The Slave-Girl's Child: A" Literary" Fragment from the Istanbul Sippar Archive", Aula Orientalis, pp. 5-17, 2021
+
+[[ ^45 ]]: Andrae, W., and J. Jordan, "Abu Habbah: Sippar", Iraq, vol. 1, no. 1, pp. 51–59, 1934
+
+[[ ^46 ]]: "Excavations in Iraq 1972-73", Iraq, vol. 35, no. 2, pp. 188–204, 1973
+
+[[ ^47 ]]: //Tell ed-Dēr : sounding at Abū Ḥabbah (Sippar)//. Leon de Meyer. Leeuven: Peeters. 1980. ISBN [[ 2-8017-0160-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F2-8017-0160-2 ]]. OCLC [[ 8165805 | https://search.worldcat.org/oclc/8165805 ]].``\{{cite book}}``:  CS1 maint: others ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_others ]])
+
+[[ ^48 ]]: Al-Gailani Werr, L., "Studies in the chronology and regional style of Old Babylonian Cylinder Seals", Bibliotheca Mesopotamica, vol. 23, 1988
+
+[[ ^49 ]]: "Excavations in Iraq, 1977-78", Iraq, vol. 41, no. 2, pp. 141–81, 1979
+
+[[ ^50 ]]: "Excavations in Iraq, 1981-82", Iraq, vol. 45, no. 2, pp. 199–224, 1983
+
+[[ ^51 ]]: [[ https://findit.library.yale.edu/images_layout/view?parentoid=15763289&increment=130 | https://findit.library.yale.edu/images_layout/view?parentoid=15763289&increment=130 ]] Lamia al-Gailani and Walid al-Jadir, Seal Impressions from Sippar, Sumer, vol. 37, pp. 129-144, 1981
+
+[[ ^52 ]]: "Excavations in Iraq, 1983-84", Iraq, vol. 47, pp. 215–39, 1985
+
+[[ ^53 ]]: Jadir, W. al- and Abdullah, Z. R., "Preliminary Results of the University of Baghdad Excavation of Sippar (Abu Habbah), Seasons 1978-1983", Sumer 39, pp. 97–122, 1983 (in Arabic)
+
+[[ ^54 ]]: "Excavations in Iraq 1985-86", Iraq, vol. 49, pp. 231–51, 1987
+
+[[ ^55 ]]: "Excavations in Iraq 1987-88", Iraq, vol. 51, pp. 249–65, 1989
+
+[[ ^56 ]]: Fadhil, Anmar Abdulillah, and Enrique Jiménez, "Literary Texts from the Sippar Library I: Two Babylonian Classics", Zeitschrift für Assyriologie und vorderasiatische Archäologie 109.2, pp. 155-176, 2019
+
+[[ ^57 ]]: Fadhil, Anmar Abdulillah, and Enrique Jiménez, "Literary Texts from the Sippar Library II: The Epic of Creation", Zeitschrift für Assyriologie und vorderasiatische Archäologie 111.2, pp. 191-230, 2021
+
+[[ ^58 ]]: Fadhil, Anmar Abdulillah, and Enrique Jiménez, "Literary Texts from the Sippar Library III:‘Eriš šummi’, a Syncretistic Hymn to Marduk", Zeitschrift für Assyriologie und vorderasiatische Archäologie 112.2, pp. 229-274, 2022
+
+[[ ^59 ]]: Fadhil, Anmar Abdulillah, and Enrique Jiménez, "Literary Texts from the Sippar Library IV: A “Macranthropic” Hymn to Ninurta", Zeitschrift für Assyriologie und vorderasiatische Archäologie 113.2, pp. 193-215, 2023
+
+[[ ^60 ]]: Al-Rawi, Farouk N. H. (2000). //Old Babylonian texts from private houses at Abu Habbah ancient Sippir : Baghdad University excavations//. Stephanie Dalley. London: NABU. ISBN [[ 1-897750-07-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-897750-07-2 ]]. OCLC [[ 47677571 | https://search.worldcat.org/oclc/47677571 ]].
+
+[[ ^61 ]]: W. al-Jadir and Z. Rajib, "Archaeological Results from the Eighth Season at Sippar", Sumer, vol. 46,
+pp. 69-90, 1990 (in Arabic)
+
+[[ ^62 ]]: Al-Rawi, Farouk Ν. H., "A New Old Babylonian Date List from Sippir with Year Names of Apil-Sin and Sîn-muballiț", Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 83, no. 1, pp. 22-30, 1993
+
+[[ ^63 ]]: Abdulillah Fadhil et al., "Ausgrabungen in Sippar (Tell Abu Habbah). Vorbericht über die Grabungsergebnisse der 24. Kampagne 2002", in Baghdader Mitteilungen (BaM) 36, pp. 157-224, 2005
+
+[[ ^64 ]]: Abdulillah Fadhil et. el., "Sippar - Results of prospecting 2004/24", Sumer, vol. LII, no. 1&2, pp. 294-357, 2004
+
+[[ ^65 ]]: [[ https://iasj.rdd.edu.iq/journals/uploads/2025/06/01/a658076a876f62f13e9e5d4cedb02f93.pdf | https://iasj.rdd.edu.iq/journals/uploads/2025/06/01/a658076a876f62f13e9e5d4cedb02f93.pdf ]] Khalil, Yasser Jabir, "Unpublished Cuneiform Texts from the City of Sippar_ Season 24", 2025

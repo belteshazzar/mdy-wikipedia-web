@@ -1,0 +1,1340 @@
++++
+title: Eridu
+description: Archaeological site in Iraq
+key-facts:
+  - name: Where it is
+    value: Al-Batha Subdistrict, Nasiriyah District, Dhi Qar Governorate, Iraq
+    from: "location: Al-Batha Subdistrict, Nasiriyah District, Dhi Qar
+      Governorate, Iraq"
+  - name: Built
+    value: c. 5500 – c. 5300 BC
+    from: "built: c. 5500 – c. 5300 BC"
+  - name: Abandoned
+    value: c. 600 BC
+    from: "abandoned: c. 600 BC"
+  - name: Size of the ancient city
+    value: At most 10 ha (25 acres)
+    from: "area: At most 10 ha (25 acres)"
+  - name: Excavated in
+    value: 1855, 1918–1919, 1946–1949, 2018
+    from: "excavation-dates: 1855, 1918–1919, 1946–1949, 2018"
+  - name: World Heritage listing
+    value: Tell Eridu Archaeological Site, inscribed 2016 as part of the Ahwar of
+      Southern Iraq
+    from: |-
+      unesco-world-heritage-site:
+          official-name: Tell Eridu Archaeological Site
+          part-of: Ahwar of Southern Iraq
+          criteria: "Mixed: (iii)(v)(ix)(x)"
+          reference: 1481-007
+          inscription: 2016 (40th Session)
+image-plan:
+  - file: Eridu_mound4c.8.png
+    role: hero
+    section: lead
+    caption: The E-abzu, the temple of [[ Enki ]] that was the urban nucleus of Eridu
+  - file: Eridu_Context_Map.jpg
+    role: inline
+    section: topography
+    caption: Eridu and its setting c. 5000 BC
+  - file: Eridu_temple_7.png
+    role: inline
+    section: prehistoric-temples
+    caption: "The Eridu temple in the final [[ Ubaid period ]]: large buildings,
+      implying centralized government, started to be made"
+  - file: Eridu_Level_Sequence_A.jpg
+    role: full
+    section: prehistoric-temples
+    caption: Pre-historic building layers in Eridu. The "Temple Sequence" starts
+      at level XI (Salmon background rows in the table to the left)
+  - file: Statue_of_a_standing_lion_from_Eridu,_Iraq,_c._mid-3rd_millennium_BCE._Iraq_Museum.jpg
+    role: full
+    section: early-dynastic-period
+    caption: Statue of a standing lion from Eridu, Iraq, c. mid-3rd millennium BC
+  - file: Jar_MET_ME49_133_13.jpg
+    role: inline
+    section: ubaid-period
+    caption: Jar; mid 6th–5th millennium BC; ceramic; 15.24 cm; Tell Abu Shahrain;
+      [[ Metropolitan Museum of Art ]]
+  - file: Cup_MET_ME49_133_6.jpg
+    role: inline
+    section: ubaid-period
+    caption: Cup; mid 6th–5th millennium BC; ceramic; 9.53 cm; Tell Abu Shahrain;
+      [[ Metropolitan Museum of Art ]]
+further:
+  - slug: ur
+    why: Eridu lay 24 km (15 mi) south-southwest of Ur, and it was at Ur that a
+      temple of Ishtar of Eridu was built and the flood myth tablet was found.
+  - slug: uruk
+    why: The city whose goddess Inanna went to Eridu to receive the gifts of
+      civilization, after which Enki accepted that Uruk was now the centre of
+      the land.
+  - slug: babylon
+    why: One of its religious quarters, holding the Esagila and the temple of
+      Annunitum, was also named Eridu.
+coordinates:
+  lat: 30.81583333
+  lon: 45.99611111
+image: https://upload.wikimedia.org/wikipedia/commons/6/67/Ziggurat_at_Eridu_%2830809118442%29.jpg
+images:
+  - file: Eridu_Context_Map.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eridu_Context_Map.jpg/250px-Eridu_Context_Map.jpg
+    width: 3264
+    height: 2112
+    caption: Eridu context c. 5000 BC
+  - file: Eridu_mound4c.8.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Eridu_mound4c.8.png/250px-Eridu_mound4c.8.png
+    width: 3000
+    height: 3000
+    caption: E-abzu temple of Eridu
+  - file: Eridu_temple_7.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eridu_temple_7.png/250px-Eridu_temple_7.png
+    width: 799
+    height: 1046
+    caption: Large buildings, implying centralized government, started to be made.
+      Eridu Temple, final Ubaid period
+  - file: Eridu_Level_Sequence_A.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/3/32/Eridu_Level_Sequence_A.jpg
+    width: 442
+    height: 226
+    caption: Pre-historic building layers in Eridu. The "Temple Sequence" starts
+      at level XI (Salmon background rows in the table to the left)
+  - file: Jar_MET_ME49_133_13.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jar_MET_ME49_133_13.jpg/250px-Jar_MET_ME49_133_13.jpg
+    width: 622
+    height: 800
+    caption: Jar; mid 6th–5th millennium BC; ceramic; 15.24 cm; Tell Abu Shahrain;
+      Metropolitan Museum of Art
+  - file: Cup_MET_ME49_133_6.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cup_MET_ME49_133_6.jpg/250px-Cup_MET_ME49_133_6.jpg
+    width: 683
+    height: 800
+    caption: Cup; mid 6th–5th millennium BC; ceramic; 9.53 cm; Tell Abu Shahrain;
+      Metropolitan Museum of Art
+  - file: Statue_of_a_standing_lion_from_Eridu,_Iraq,_c._mid-3rd_millennium_BCE._Iraq_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Statue_of_a_standing_lion_from_Eridu%2C_Iraq%2C_c._mid-3rd_millennium_BCE._Iraq_Museum.jpg/250px-Statue_of_a_standing_lion_from_Eridu%2C_Iraq%2C_c._mid-3rd_millennium_BCE._Iraq_Museum.jpg
+    width: 3380
+    height: 5250
+    caption: Statue of a standing lion from Eridu, Iraq, c. mid-3rd millennium BC
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ziggurat_at_Eridu_%2830809118442%29.jpg/330px-Ziggurat_at_Eridu_%2830809118442%29.jpg
+    caption: Ruins of a ziggurat at Eridu
+  type: Ancient city
+  periods:
+    - Ubaid period
+    - Uruk period
+    - Early Dynastic period
+    - Akkadian period
+    - Gutian period
+    - Ur III period
+    - Isin-Larsa period
+    - Old Babylonian period
+    - Middle Babylonian period
+    - Neo-Babylonian period
+  location: Al-Batha Subdistrict, Nasiriyah District, Dhi Qar Governorate, Iraq
+  region: Lower Mesopotamia, Mesopotamia, West Asia
+  history:
+    built: c. 5500 – c. 5300 BC
+    abandoned: c. 600 BC
+  site-notes:
+    area: At most 10 ha (25 acres)
+    excavation-dates: 1855, 1918–1919, 1946–1949, 2018
+    archaeologists: John George Taylor, R. Campbell Thompson, H. R. Hall, Fuad
+      Safar, Seton Lloyd, Franco D’Agostino
+  unesco-world-heritage-site:
+    official-name: Tell Eridu Archaeological Site
+    part-of: Ahwar of Southern Iraq
+    criteria: "Mixed: (iii)(v)(ix)(x)"
+    reference: 1481-007
+    inscription: 2016 (40th Session)
+    area: 33 ha (0.13 sq mi)
+    buffer-zone: 1,069 ha (4.13 sq mi)
+    coordinates: 30°49′1″N 45°59′45″E / 30.81694°N 45.99583°E
+sections:
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 3
+    id: topography
+    title: Topography
+  - level: 3
+    id: history-of-exploration
+    title: History of exploration
+  - level: 3
+    id: architecture
+    title: Architecture
+  - level: 4
+    id: prehistoric-temples
+    title: Prehistoric Temple(s)
+  - level: 4
+    id: ur-iii-ziggurat
+    title: Ur III Ziggurat
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: chalcolithic-age
+    title: Chalcolithic Age
+  - level: 4
+    id: ubaid-period
+    title: Ubaid period
+  - level: 4
+    id: uruk-period
+    title: Uruk period
+  - level: 3
+    id: early-bronze-age
+    title: Early Bronze Age
+  - level: 4
+    id: early-dynastic-period
+    title: Early Dynastic Period
+  - level: 4
+    id: akkadian-period
+    title: Akkadian period
+  - level: 4
+    id: ur-iii-period
+    title: Ur III period
+  - level: 3
+    id: middle-bronze-age
+    title: Middle Bronze Age
+  - level: 4
+    id: isin-larsa-period
+    title: Isin-Larsa period
+  - level: 5
+    id: lament-for-eridu
+    title: Lament for Eridu
+  - level: 4
+    id: old-babylonian-period
+    title: Old Babylonian period
+  - level: 3
+    id: late-bronze-age
+    title: Late Bronze Age
+  - level: 3
+    id: iron-age
+    title: Iron Age
+  - level: 4
+    id: neo-assyrian-period
+    title: Neo-Assyrian period
+  - level: 4
+    id: neo-babylonian-period
+    title: Neo-Babylonian period
+  - level: 2
+    id: mythology
+    title: Mythology
+  - level: 2
+    id: list-of-rulers
+    title: List of rulers
+wikidata:
+  id: Q210065
+  label: Eridu
+  description: archaeological site in Iraq
+  claims:
+    commons-category: Eridu
+    coordinate-location:
+      lat: 30.81583
+      lon: 45.99583
+    country: Iraq
+    located-in-the-administrative-territorial-entity: Dhi Qar Governorate
+    instance-of:
+      - archaeological site
+      - ancient city
+    heritage-designation:
+      value: part of UNESCO World Heritage Site
+      from: "2016"
+    area:
+      - 33 hectare
+      - 1069 hectare
+    part-of: Ahwar of Southern Iraq
+    described-by-source:
+      - Granat Encyclopedic Dictionary
+      - Encyclopædia Britannica 11th edition
+      - Great Soviet Encyclopedia (1926–1947)
+      - Brockhaus and Efron Encyclopedic Dictionary
+    culture: Sumer
+    population:
+      value: "5000"
+      when: 5th millennium BC
+link-titles:
+  6th-millennium-bc: 6th millennium BC
+  a.-leo-oppenheim: A. Leo Oppenheim
+  abzu: Abzu
+  adam: Adam
+  adapa: Adapa
+  akkadian-empire: Akkadian Empire
+  akkadian-language: Akkadian language
+  akkadian-royal-titulary: Akkadian royal titulary
+  alalngar: Alalngar
+  alulim: Alulim
+  amar-sin: Amar-Sin
+  andrew-m.-t.-moore: Andrew M. T. Moore
+  annunitum: Annunitum
+  anu: Anu
+  apkallu: Apkallu
+  arabic-language: Arabic language
+  archaeological-site: Archaeological site
+  axial-precession: Axial precession
+  babylon: Babylon
+  babyloniaca-berossus: Babyloniaca (Berossus)
+  babylonian-star-catalogues: Babylonian star catalogues
+  bad-tibira: Bad-tibira
+  basra: Basra
+  berossus: Berossus
+  beveled-rim-bowl: Beveled rim bowl
+  biblical: Biblical
+  canopus: Canopus
+  ceramic: Ceramic
+  city-lament: City Lament
+  cobalt: Cobalt
+  cuneiform: Cuneiform
+  damgalnuna: Damgalnuna
+  damkina: Damkina
+  dhi-qar-governorate: Dhi Qar Governorate
+  dynastic-chronicle: Dynastic Chronicle
+  early-dynastic-i: Early Dynastic I
+  elulu: Elulu
+  enki: Enki
+  enlil: Enlil
+  enmerkar: Enmerkar
+  entemena: Entemena
+  esagila: Esagila
+  euphrates: Euphrates
+  first-dynasty-of-ur: First Dynasty of Ur
+  giovanni-pettinato: Giovanni Pettinato
+  hammar-marshes: Hammar Marshes
+  hegemony: Hegemony
+  henry-hall-egyptologist: Henry Hall (Egyptologist)
+  history-of-glass: History of glass
+  ibbi-sin: Ibbi-Sin
+  inanna: Inanna
+  iraq: Iraq
+  ishbi-erra: Ishbi-Erra
+  ishme-dagan: Ishme-Dagan
+  isin-larsa: Isin-Larsa
+  isin-larsa-period: Isin-Larsa period
+  john-george-taylor: John George Taylor
+  kassite-dynasty: Kassite dynasty
+  ki-cuneiform: Ki (cuneiform)
+  king-of-sumer: King of Sumer
+  kurigalzu-i: Kurigalzu I
+  lagash: Lagash
+  lament-for-eridu: Lament for Eridu
+  lament-for-ur: Lament for Ur
+  lapis-lazuli: Lapis lazuli
+  larsa: Larsa
+  list-of-kings-of-babylon: List of kings of Babylon
+  lower-mesopotamia: Lower Mesopotamia
+  lugal: Lugal
+  mul.apin: MUL.APIN
+  me-mythology: Me (mythology)
+  metropolitan-museum-of-art: Metropolitan Museum of Art
+  mudbrick: Mudbrick
+  nabonassar: Nabonassar
+  nebuchadnezzar-ii: Nebuchadnezzar II
+  neo-assyrian-empire: Neo-Assyrian Empire
+  ninhursag: Ninhursag
+  nur-adad: Nur-Adad
+  old-babylonian-period: Old Babylonian period
+  persian-gulf: Persian Gulf
+  pre-dynastic-period-of-sumer: Pre-dynastic period of Sumer
+  proto-cuneiform: Proto-cuneiform
+  reginald-campbell-thompson: Reginald Campbell Thompson
+  reign: Reign
+  sage-philosophy: Sage (philosophy)
+  salinity: Salinity
+  sapienza-university-of-rome: Sapienza University of Rome
+  sargon-ii: Sargon II
+  seton-lloyd: Seton Lloyd
+  shulgi: Shulgi
+  simbar-shipak: Simbar-shipak
+  sleeper-wall: Sleeper wall
+  suen-magir: Suen-magir
+  sulgi: Sulgi
+  sumer: Sumer
+  sumerian-king-list: Sumerian King List
+  sumerian-language: Sumerian language
+  sumerian-literature: Sumerian literature
+  sumerian-religion: Sumerian religion
+  ta-cuneiform: Ta (cuneiform)
+  tempore: Tempore
+  third-dynasty-of-ur: Third Dynasty of Ur
+  throne: Throne
+  ubaid-period: Ubaid period
+  ur: Ur
+  ur-iii: Ur-III
+  ur-baba: Ur-Baba
+  ur-nammu: Ur-Nammu
+  uruk: Uruk
+  uruk-period: Uruk period
+  weld-blundell-prism: Weld-Blundell Prism
+  ziggurat: Ziggurat
+  é-temple: É (temple)
+source:
+  site: Wikipedia
+  lang: en
+  title: Eridu
+  url: https://en.wikipedia.org/wiki/Eridu
+  page-id: 42617
+  revision: "1365733191"
+  modified: 2026-07-24T03:21:04Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Eridu"
+    (revision 1365733191), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/eridu.mdy
+  source-digest: 30f37da087ca8e09
+  source-revision: "1365733191"
+  model: claude-opus-5
+  left-out: The container headings Archaeology, Architecture, History,
+    Chalcolithic Age, Early Bronze Age and Middle Bronze Age have no prose of
+    their own in the source, so their bodies are empty rather than filled with
+    invented linking text. The "Akkadian period" section carries no footnote
+    references in the source, so none could be carried with it. The two big
+    tables (the pre-historic level sequence and the list of rulers) and the
+    mound and Year Name lists are reproduced close to as they were rather than
+    turned into prose. The inline gallery images embedded in the body (the
+    four Ubaid bowls and cup, the Early Dynastic painted vessel, the Amar-Sin
+    stamped brick, and the Sumerian King List photographs inside the rulers
+    table) are not among the files listed in the front matter, so they were
+    left in place in the tables/text and not given image-plan entries; the
+    infobox photograph of the ziggurat ruins is likewise not in that file
+    list, so the hero was chosen from the listed images.
+  verified: true
+  verdict: minor-only
+  findings: 2
+  reviewed: false
++++
+!!Eridu!! (Sumerian:
+[[ 𒉣 | https://en.wiktionary.org/wiki/𒉣 ]][[ 𒆠 | https://en.wiktionary.org/wiki/𒆠 ]],
+romanized: //NUN.KI//; [[ Sumerian | sumerian-language ]]: eridug^^ki^^;
+[[ Akkadian | akkadian-language ]]: //irîtu//) was a Sumerian city, and on the
+[[ Sumerian King List ]] it comes first: Eridu is traditionally considered the
+earliest city in southern Mesopotamia on that basis. What is left of it is
+!!Tell Abu Shahrain!! (Arabic: تل أبو شهرين), also Abu Shahrein or Tell Abu
+Shahrayn, an [[ archaeological site ]] in [[ Lower Mesopotamia ]], in
+[[ Dhi Qar Governorate ]], [[ Iraq ]], near the modern city of [[ Basra ]].
+
+It lay 24 km (15 mi) south-southwest of [[ Ur ]], the southernmost of a
+conglomeration of [[ Sumerian | sumer ]] cities that grew around temples,
+almost in sight of one another. The city gods of Eridu were [[ Enki ]] and his
+consort [[ Damkina ]], and Enki, later known as Ea, was considered to have
+founded the city. His temple was called E-Abzu, because Enki was believed to
+live in [[ Abzu ]], an aquifer from which all life was thought to stem.
+According to Sumerian temple hymns, another name for the temple of Ea/Enki was
+Esira (Esirra).
+
+<blockquote
+  "\... The temple is constructed with gold and [[ lapis lazuli ]], Its
+  foundation on the nether-sea (apsu) is filled in. By the river of Sippar
+  (Euphrates) it stands. O Apsu pure place of propriety, Esira, may thy king
+  stand within thee. \..."[[ ^1 ]][[ ^2 ]]
+
+One of the religious quarters of [[ Babylon ]], containing
+the temple called the [[ Esagila ]] as well as the temple of
+[[ Annunitum ]], among others, was also named Eridu.[[ ^3 ]]
+
+== Archaeology
+
+
+
+== Topography
+
+Eridu stands on a natural hill in a basin approximately 15 miles (24 km) long
+and 20 feet (6.1 m) deep, separated from the Euphrates River by a sandstone
+ridge called the //Hazem//.[[ ^4 ]] The basin — the //As Sulaybiyat//
+Depression, formerly //Khor en-Nejeif// — becomes a seasonal lake (Arabic:
+Sebkha) during the rainy season from November to April, filled by the discharge
+of the Wadi Khanega.[[ ^5 ]] The [[ Hammar Marshes ]] lie adjacent to the
+eastern edge of that lake.
+
+In the 3rd Millennium BC a canal, Id-edin-Eriduga (NUN)^^ki^^ "the canal of
+the Eridug plain", connected Eridu to the Euphrates River, which later shifted
+its course. The path of the canal is marked by several low tells with 2nd
+Millennium BC surface pottery and later burials.[[ ^6 ]] The site is not one
+mound but 8:[[ ^7 ]]
+
+- Mound 1 – Abū Šahrain, 580 by 540 metres (1,900ft ×1,770ft) in area NW to WE, 25 metres (82ft) in height, Enki Temple, Ur III Ziggurat (//É-u₆-nir//) Sacred Area, Early Dynastic plano-convex bricks found, Ubaid Period cemetery
+- Mound 2 – 350 by 350 metres (1,100ft ×1,100ft) in area, 4.3 metres (14ft) in height, 1km (0.62mi) N of Abū Šahrain, Early Dynastic Palace, remnants of city wall built with [[ plano-convex bricks | mudbrick#ancient-world ]]
+- Mound 3 – 300 by 150 metres (980ft ×490ft) in area, 2.5m (8.2ft) high, 2.2km (1.4mi) SSW of Abū Šahrain, Isin-Larsa pottery found
+- Mound 4 – 600 by 300 metres (2,000ft ×980ft) in area, 2.5km (1.6mi) SW of Abū Šahrain, Kassite pottery found
+- Mound 5 – 500 by 300 metres (1,600ft ×980ft) in area, 3m (9.8ft) high, 1.5km (0.93mi) SE of Abū Šahrain, Neo-Babylonian and Achaemenid periods
+- Mound 6 – 300 by 200 metres (980ft ×660ft) in area, 2m (6.6ft) high, 2.5km (1.6mi) SW of Abū Šahrain
+- Mound 7 – 400 by 200 metres (1,300ft ×660ft) in area, 1.5m (4.9ft) high, 3km (1.9mi) E of Abū Šahrai
+- Mound 8 – Usalla, flat area, 8km (5mi) NW of Abū Šahrain, Hajj Mohammed and later Ubaid
+
+== History of exploration
+
+The site was initially excavated by [[ John George Taylor ]], the British
+Vice-counsel at Basra, in 1855.[[ ^4 ]] Among the finds were inscribed bricks
+enabling the identification of the site as Eridu.[[ ^8 ]] Excavation on the
+main tell next occurred by
+[[ R. Campbell Thompson | reginald-campbell-thompson ]] from April 10 until
+May 8, 1918, and [[ H. R. Hall | henry-hall-egyptologist ]] from April 21
+until May 8, 1919, who also conducted a survey in the area around the
+tell.[[ ^9 ]][[ ^10 ]][[ ^11 ]][[ ^12 ]][[ ^13 ]][[ ^14 ]] Hall's most
+interesting find was a piece of manufactured blue glass, which he dated to
+c. 2000 BC; the blue colour was achieved with [[ cobalt ]], long before this
+technique emerged in Egypt.[[ ^15 ]] The lump is currently dated to the 21st
+century BC or even earlier, and is considered as perhaps the earliest such
+glass object in the world in the [[ History of glass ]]. It was produced
+during the [[ Akkadian Empire ]] or the early [[ Ur III ]] period.[[ ^16 ]]
+
+Excavation resumed from 1946 to 1949 under
+[[ Fuad Safar | https://fr.wikipedia.org/wiki/Fuad%20Safar ]] and
+[[ Seton Lloyd ]] of the Iraqi Directorate General of Antiquities and
+Heritage. Among the finds were a Ubaid period terracotta boat model, complete
+with a socket amidship for a mast and hole for stays and rudder,
+[[ bevel-rimmed bowls | beveled-rim-bowl ]], and a "lizard type" figurine like
+those found in a sounding under the Royal Cemetery of Ur. Soundings in the
+cemetery showed it to have about 1000 graves, all from the end of the Ubaid
+period (Temple levels VI and
+VII).[[ ^17 ]][[ ^18 ]][[ ^19 ]][[ ^20 ]][[ ^21 ]] They found a sequence of 17
+Ubaid Period superseding temples and an Ubaid Period graveyard with 1000
+graves of mud-brick boxes oriented to the southeast. The temple began as a 2 m
+× 3 m (6 ft 7 in × 9 ft 10 in) mud brick square with a niche. At Level XI it
+was rebuilt and eventually reached its final tripartite form in Level VI. In
+Ur III times a 300 square meter platform was constructed as a base for a
+ziggurat.[[ ^22 ]] These archaeological investigations showed that, according
+to [[ A. Leo Oppenheim ]], "eventually the entire south lapsed into
+stagnation, abandoning the political initiative to the rulers of the northern
+cities", probably as a result of increasing [[ salinity ]] produced by
+continuous irrigation, and the city was abandoned in 600 BC.[[ ^23 ]] In 1990
+the site was visited by [[ A. M. T. Moore | andrew-m.-t.-moore ]] who found
+two areas of surface pottery kilns not noted by the earlier
+excavators.[[ ^24 ]]
+
+In March 2006, [[ Giovanni Pettinato ]] and S. Chiod from
+[[ Rome's La Sapienza University | sapienza-university-of-rome ]] claimed to
+have discovered 500 Early Dynastic historical and literary cuneiform tablets
+on the surface at Eridu "disturbed by an explosion". The tablets were said to
+be from 2600 to 2100 BC (rulers Eannatum to Amar-Sin) and be part of a
+library. A team was sent to the site by Iraq's State Board of Antiquities and
+Heritage which found no tablets, only stamped bricks from Eridu and
+surrounding sites such as Ur. Nor was there a permit to excavate at the site
+issued to anyone.[[ ^25 ]][[ ^26 ]] At this point Pettinato stated that they
+had actually found 70 inscribed bricks. This turned out to be stamped bricks
+used to build the modern Eridu dig-house. The dig-house had been built using
+bricks from the demolished Leonard Woolley's expedition house at Ur (clearly
+spelled out in the 1981 Iraqi excavation report to avoid confusion to future
+archaeologists).[[ ^27 ]] Most of the bricks in question were returned to Ur
+in 1962 for use in restoration efforts.[[ ^7 ]]
+
+In October 2014, Franco D’Agostino visited the site in preparation for the
+coming resumption of excavation, noting a number of inscribed [[ Amar-Sin ]]
+brick fragments on the surface.[[ ^28 ]] In 2019, excavations at Eridu were
+resumed by a joint Italian, French, and Iraqi effort which included the
+University of Rome La Sapienza and the University of
+Strasbourg.[[ ^29 ]][[ ^30 ]][[ ^31 ]] Work has included producing new detail
+topographic and photogrammetric maps and is mainly focused on the Ubaid period
+cemetery and its associated Ubaid residential area.[[ ^32 ]]
+
+== Architecture
+
+
+
+== Prehistoric Temple(s)
+
+The urban nucleus of Eridu was [[ Enki ]]'s temple, called House of the
+Aquifer in the oldest Sumerian texts ([[ Cuneiform ]]: 𒂍𒍪𒀊, //E₂.ZU.AB//;
+[[ Sumerian | sumerian-language ]]: //[[ e₂ | é-temple ]]-abzu//;
+[[ Akkadian | akkadian-language ]]: //bītu apsû//). In later texts the temple
+was called House of the Waters ([[ Cuneiform ]]: 𒂍𒇉, //E₂.LAGAB×HAL//;
+[[ Sumerian | sumerian-language ]]: [[ e₂ | é-temple ]]-engur;
+[[ Akkadian | akkadian-language ]]: //bītu engurru//). The name refers to
+Enki's realm.[[ ^33 ]] His consort [[ Ninhursag ]] had a nearby temple at
+[[ Ubaid | ubaid-period ]].[[ ^34 ]]
+
+The origin of this temple goes back to a pre-historic sequence of buildings
+excavated during the 1946 to 1949 campaigns, beginning at level XI in the
+table below, in the middle [[ Ubaid period ]]. Eridu is universally
+represented in Sumerian sources, especially in the
+[[ King Lists | sumerian-king-list ]], as the "First City" (See below in
+section "Mythology"). The sequence of "Palace-like" or "Temple-Like" buildings
+just mentioned seems to substantiate this claim as it appears to be the first
+occurrence of such structures in the region[[ ^35 ]]
+
+<table
+  <tbody
+    <tr
+      <th>Level
+
+      <th>Date (BC)
+
+      <th>Period
+
+      <th>Size (m)
+
+      <th>Note
+
+    <tr
+      <td>XVIII
+
+      <td>5300
+
+      <td>–
+
+      <td>3×0.3
+
+      <td>[[ Sleeper walls | sleeper-wall ]]
+
+    <tr
+      <td>XVII
+
+      <td>5300–5000
+
+      <td>–
+
+      <td>2.8×2.8
+
+      <td>First cella
+
+    <tr
+      <td>XVI
+
+      <td>5300–4500
+
+      <td>Early Ubaid
+
+      <td>3.5×3.5
+
+      <td
+
+    <tr
+      <td>XV
+
+      <td>5000–4500
+
+      <td>Early Ubaid
+
+      <td>7.3×8.4
+
+      <td
+
+    <tr
+      <td>XIV
+
+      <td>5000–4500
+
+      <td>Early Ubaid
+
+      <td>–
+
+      <td>No structure found
+
+    <tr
+      <td>XIII
+
+      <td>5000–4500
+
+      <td>Early Ubaid
+
+      <td>–
+
+      <td>No structure found
+
+    <tr
+      <td>XII
+
+      <td>5000–4500
+
+      <td>Early Ubaid
+
+      <td>–
+
+      <td>No structure found
+
+    <tr
+      <td>!!XI!!
+
+      <td>4500–4000
+
+      <td>Ubaid
+
+      <td>!!4.5×12.6!!
+
+      <td>!!First platform!!
+
+    <tr
+      <td>!!X!!
+
+      <td>4500–4000
+
+      <td>Ubaid
+
+      <td>!!5×13!!
+
+      <td
+
+    <tr
+      <td>!!IX!!
+
+      <td>4500–4000
+
+      <td>Ubaid
+
+      <td>!!4×10!!
+
+      <td
+
+    <tr
+      <td>!!VIII!!
+
+      <td>4500–4000
+
+      <td>Ubaid
+
+      <td>!!18×11!!
+
+      <td
+
+    <tr
+      <td>!!VII!!
+
+      <td>4000–3800
+
+      <td>Ubaid
+
+      <td>!!17×12!!
+
+      <td
+
+    <tr
+      <td>!!VI!!
+
+      <td>4000–3800
+
+      <td>Ubaid
+
+      <td>!!22×9!!
+
+      <td
+
+    <tr
+      <td>V
+
+      <td>3800–3500
+
+      <td>Early Uruk
+
+      <td>–
+
+      <td>Only platform remains
+
+    <tr
+      <td>IV
+
+      <td>3800–3500
+
+      <td>Early Uruk
+
+      <td>–
+
+      <td>Only platform remains
+
+    <tr
+      <td>III
+
+      <td>3800–3500
+
+      <td>Early Uruk
+
+      <td>–
+
+      <td>Only platform remains
+
+    <tr
+      <td>II
+
+      <td>3500–3200
+
+      <td>Early Uruk
+
+      <td>–
+
+      <td>Only platform remains
+
+    <tr
+      <td>I
+
+      <td>3200
+
+      <td>Early Uruk
+
+      <td>–
+
+      <td>Only platform remains
+
+== Ur III Ziggurat
+
+During the Ur III period, Ur-Nammu had a ziggurat built over the remains of
+previous temples. Aside from [[ Enmerkar ]] of Uruk (as mentioned in the
+//Aratta// epics), several later historical Sumerian kings are said in
+inscriptions found here to have ordered improvement or re-building works on
+the //e-abzu// temple, including [[ Elili | elulu ]] of Ur; [[ Ur-Nammu ]],
+[[ Shulgi ]] and [[ Amar-Sin ]] of [[ Ur-III ]], and [[ Nur-Adad ]] of
+[[ Larsa ]].[[ ^36 ]][[ ^37 ]]
+
+== History
+
+
+
+== Chalcolithic Age
+
+
+
+== Ubaid period
+
+Eridu is one of the earliest settlements in the region, founded
+[[ c. 5400 BC | 6th-millennium-bc ]] during the early [[ Ubaid period ]], at
+that time close to the [[ Persian Gulf ]] near the mouth of the
+[[ Euphrates ]], although in modern times it is about 90 miles inland.
+Excavation has shown that the city was founded on a virgin sand dune site with
+no previous habitation. Eighteen superimposed
+mudbrick temples at the site (see above, section "Architecture") underlie the
+unfinished [[ ziggurat ]] of [[ Amar-Sin ]] (c. 2047–2039 BC). Levels XIX to
+VI were from the Ubaid period and Levels V to I were dated to the
+[[ Uruk period ]].[[ ^38 ]]
+
+During the [[ Ubaid period ]] the site extended out to an area of about 12
+hectares (about 30 acres). Twelve neolithic clay tokens, the precursor to
+[[ Proto-cuneiform ]], were found in the Ubaid levels of the
+site.[[ ^39 ]][[ ^40 ]][[ ^41 ]]
+
+== Uruk period
+
+Significant habitation was found from the Uruk period, with "non-secular"
+buildings being found in soundings. Uruk finds included decorative terracotta
+cones topped with copper, copper nails topped with gold, a pair of basalt
+stone lion statues, columns several meters in diameter coated with cones and
+gypsum, and extensive Uruk period pottery.[[ ^42 ]][[ ^43 ]][[ ^44 ]][[ ^45 ]]
+
+== Early Bronze Age
+
+
+
+== Early Dynastic Period
+
+Occupation increased in the Early Dynastic period with a monumental 100 m
+× 100 m (330 ft × 330 ft) palace being constructed.[[ ^46 ]] In Early Dynastic
+IIIA (c. 2750/2600-2500 BCE), an inscription of [[ Elulu ]], a ruler of the
+[[ First Dynasty of Ur ]] (c. 2600 BC), was found at Eridu.[[ ^47 ]] In Early
+Dynastic IIIB (c. 2500-2350 BCE), a statue of the ruler [[ Entemena ]] of
+[[ Lagash ]] (c. 2400 BCE) reads: "he built Ab-zupasira for Enki, king of
+Eridu \...".[[ ^48 ]]
+
+Of the period before the [[ Ur III | third-dynasty-of-ur ]] ziggurat, nothing
+was found: according to the excavators, construction of the ziggurat and
+associated buildings was preceded by the destruction of preceding construction
+and its use as leveling fill. At a small mound 1 kilometer north of Eridu two
+Early Dynastic III palaces were found, with an enclosure wall. The palaces
+measured 45 meters by 65 meters with 2.6 meter wide walls and were constructed
+in the standard Early Dynastic period method of plano-convex bricks laid in a
+herringbone fashion.[[ ^17 ]]
+
+== Akkadian period
+
+In the Akkadian period (c. 2350-2150 BCE), there may have been an occupation
+gap or overbuilt by the Ur III rulers. Manishtushu: Fragmentary inscriptions
+on black diorite vessels found at Eridu indicate he dedicated luxury objects
+to the temple of Enki (E-Abzu). Naram-Sin: He is explicitly mentioned in the
+Bassetki Statue inscription as receiving the "blessing" of Ea (Enki) in Eridu,
+along with other major city gods, to declare himself the "God of his City."
+
+== Ur III period
+
+Eridu was active during the [[ Third Dynasty of Ur ]] (22nd to 21st century
+BC) and royal building activity is known from inscribed bricks, notably those
+from the ziggurat of [[ Ur-Nammu ]], marked "Ur-Nammu, king of Ur, the one who
+built the temple of the god Enki in Eridu."[[ ^49 ]] Three Third Dynasty
+rulers designated Year Names based on the appointment of an
+//en(tu)//-priestess (high priestess) of the temple of Enki in Eridu, the
+highest religious office in the land at that time. In each the first two cases
+it was also used as the succeeding Year Name.
+
+- [[ Sulgi ]] Year 28 – "Year the szita-priest-who-intercedes-for-Szulgi, the son of Szulgi, the strong man, the king of Ur, the king of the four corners of the universe, was installed as en-priest of Enki in Eridu"
+- [[ Amar-Sin ]] Year 8 – "Year (Ennune-kiag-Amar-Sin) Ennune-the beloved (of Amar-Sin, was installed as en-priestess of Enki in Eridu)"
+- [[ Ibbi-Sin ]] Year 11 – "Year the szita-priest who prays piously for Ibbi-Sin was chosen by means of the omens as en-priest of Enki in Eridu"
+
+In this period, at nearby Ur, a temple of Ishtar of Eridu was built by
+[[ Lagash ]]'s ruler [[ Ur-Baba ]]. The Ur III ruler [[ Ur-Nammu ]]) also
+recorded building a temple of Ishtar of Eridu at Ur which is assumed to have
+been a rebuild.[[ ^50 ]][[ ^51 ]]
+
+== Middle Bronze Age
+
+
+
+== Isin-Larsa period
+
+After the fall of Ur III the site was occupied and active during the
+[[ Isin-Larsa ]] period (early 2nd Millennium BC) as evidenced by a Year Name
+of [[ Nur-Adad ]], ruler of Larsa "Year the temple of Enki in Eridu was built"
+and prior texts of Isin rulers [[ Ishbi-Erra ]] and [[ Ishme-Dagan ]] showing
+control over Eridu.[[ ^52 ]] Inscribed construction bricks of Nur-Adad have
+also been found at Eridu.[[ ^53 ]]
+
+== Lament for Eridu
+
+The fall of early Mesopotamia cities and empires was typically believed to be
+the result of falling out of favor with the gods. A genre called
+[[ City Laments | city-lament ]] developed during the [[ Isin-Larsa period ]],
+of which the [[ Lament for Ur ]] is the most famous. These laments had a
+number of sections (kirugu) of which only fragments have been recovered. The
+[[ Lament for Eridu ]] describes the fall of that city.[[ ^54 ]][[ ^55 ]]
+
+<blockquote
+  Its king stayed outside his city as if it were an alien city. He wept bitter
+  tears. Father Enki stayed outside his city as if it were an alien city. He
+  wept bitter tears. For the sake of his harmed city, he wept bitter tears. Its
+  lady, like a flying bird, left her city. The mother of [[ E-maḫ | é-temple ]],
+  holy [[ Damgalnuna ]], left her city. The divine powers of the city of holiest
+  divine powers were overturned. The divine powers of the rites of the greatest
+  divine powers were altered. In Eridug everything was reduced to ruin, was
+  wrought with confusion.[[ ^56 ]]
+
+== Old Babylonian period
+
+Building at Eridu continued in the [[ Old Babylonian period ]], with Hammurabi
+stating in his 33rd Year Name "Year Hammu-rabi the king dug the canal (called)
+'Hammu-rabi is abundance to the people', the beloved of An and Enlil,
+established the everlasting waters of plentifulness for Nippur, Eridu, Ur,
+Larsa, Uruk and Isin, restored Sumer and Akkad which had been scattered,
+overthrew in battle the army of Mari and Malgium and caused Mari and its
+territory and the various cities of Subartu to dwell under his authority in
+friendship"
+
+== Late Bronze Age
+
+In an inscription of [[ Kurigalzu I ]] (c. 1375 BC), a ruler of the
+[[ Kassite dynasty ]] one of his epitaphs is "[he one who ke]eps the sanctuary
+in Eridu in order".[[ ^57 ]]
+
+== Iron Age
+
+An inscription of the
+[[ Second Sealand Dynastic | list-of-kings-of-babylon#dynasty-v-2nd-sealand-10211001-bc ]]
+ruler [[ Simbar-shipak ]] (c. 1021–1004 BCE) mentions a priest of
+Eridu.[[ ^58 ]]
+
+== Neo-Assyrian period
+
+The [[ Neo-Assyrian emperor | neo-assyrian-empire ]] [[ Sargon II ]] (722–705
+BCE) awarded //andurāru//-status (described as "a periodic reinstatement of
+goods and persons, alienated because of want, to their original status") to
+Eridu.[[ ^59 ]]
+
+== Neo-Babylonian period
+
+The Neo-Babylonian ruler [[ Nebuchadnezzar II ]] (605–562 BC) built at Eridu
+as evidenced by inscribed bricks found there.[[ ^60 ]]
+
+== Mythology
+
+In some, but not all, versions of the [[ Sumerian King List ]], Eridu is the
+first of five cities where kingship was received before a flood came over the
+land. The list mentions two rulers of Eridu from the Early Dynastic period,
+[[ Alulim ]] and [[ Alalngar ]].[[ ^61 ]][[ ^62 ]]
+
+<blockquote
+  //[nam]-[[ lugal ]] [[ an | anu ]]-[[ ta | ta-cuneiform ]]
+  èd-dè-a-ba//
+  //[eri]du^^[[ ki | ki-cuneiform ]]^^
+  [[ nam-lugal-la | https://en.wiktionary.org/wiki/𒈗#Akkadian ]]//
+  //eridug^^ki^^
+  a₂-lu-lim lugal//
+  //mu 28800 i₃-ak//
+  //a₂-lal₃-ĝar mu 36000 i₃-ak//
+
+Translation:
+
+<blockquote
+  When kingship from heaven was lowered,
+  the kingship was in Eridu
+  In Eridug,
+  Alulim became king;
+  he ruled
+  for 28800 years.
+  Alaljar ruled for 36000
+  years[[ ^63 ]]
+
+In Sumerian mythology, Eridu was the home of the [[ Abzu ]] temple of the god
+[[ Enki ]], the Sumerian counterpart of the [[ Akkadian | akkadian-empire ]]
+god Ea, god of deep waters, wisdom and magic. Like all the Sumerian and
+Babylonian gods, Enki/Ea began as a local god who, according to the later
+cosmology, came to share the rule of the cosmos with [[ Anu ]] and
+[[ Enlil ]]. His kingdom was the sweet waters that lay below earth (Sumerian
+//ab//=water; //zu//=far).[[ ^64 ]]
+
+The city had a star of its own. The bright star [[ Canopus ]] was known to
+the ancient Mesopotamians and represented the city of Eridu in the //Three
+Stars Each// [[ Babylonian star catalogues ]] and later around 1100 BC on the
+[[ MUL.APIN ]] tablets.[[ ^65 ]] Canopus was called MUL.NUN^^KI^^ by the
+Babylonians, which translates as "star of the city of Eridu". From most
+southern city of Mesopotamia, Eridu, there is a good view to the south, so
+that about 6000 years ago due to the
+[[ precession of the Earth's axis | axial-precession ]] the first rising of
+the star Canopus in Mesopotamia could be observed only from there at the
+southern meridian at midnight. In the city of [[ Ur ]] this was the case only
+60 years later.[[ ^66 ]]
+
+In the flood myth tablet[[ ^67 ]] found in Ur, how Eridu and Alulim were
+chosen by gods as first city and first priest-king is described in more
+detail.[[ ^68 ]] The following is the English translation of the
+tablet:[[ ^69 ]]
+
+<blockquote
+  (Obverse)
+  1 They (the chief deities) created humanity
+  2 After the
+  [animals/vermin?] were proliferating below/from the earth in unison
+  3 They
+  made livestock and quadrupeds as fitting things in the steppe(eden-na)
+  4 In
+  the high steppe \... joyous plants broadly
+  5 At that time, the canal was not
+  dug \...
+  6 The dike and ditch [were not dredged(?) \...]
+  7 The ox \... the
+  plow/farmer/furrow(?) \...
+  8 The lands \... a single track \...
+  9 Humanity
+  \... their eyes/faces \... [rain?]
+  10 Šakkan/Šumugan [did not go out(?)] in
+  the desert \...
+  11 Weaving the cap/headcloth(?) \...
+  12 Humanity \...
+  13 At
+  that time, the snake was not present, [the scorpion was not present \...]
+  14
+  The lion was not present, [the hyena was not present \...]
+  15 The dog and wolf
+  were not present \...
+  16 Humanity [had no opponent \...]
+  17 Fear and
+  [gooseflesh(?) were not present \...]
+  18 \...
+  19 The king \...
+  20 \...
+
+Translation:
+
+<blockquote
+  (Reverse)
+  1 First \... were giving [Eridu or Ku’ara?] to Asalluhi,
+  2 Second
+  \... were giving [Bad-tibira to the nugig midwife?],
+  3 Third \... were giving
+  [Larak[ to Pabilsaĝ,
+  4 Fourth \... were giving [Sippar to Utu?]
+  5 Fifth \...
+  were giving Š[uruppak?] to [Sud?].
+  6 Those cities .. their settlements \...
+  7
+  An, Enlil, [Enki?] and Ninhursaĝ
+  8 Among(?) those cities, Eridu .. they
+  established at the front/as the leader(?)
+  9 They led(?) a man who was lying(?)
+  among its vast and many people \...
+  10 An, Enlil, and Enki, the father(s) of
+  the gods(?)
+  11 They chose Alulim/the "seed of the red deer" for the
+  shepherdship of the entirety of the many people
+  12 They named him(!)
+  Alulim/named the "seed of the red deer" \...
+  13 After they served according to
+  the command to check thusly/forever after(?)
+  14 [So that?] humanity, whoever
+  possessed a name, were grasping his feet (in submission)/following his
+  path(?)
+  15 They put both (capital) offense and sin(?) in his hand
+  16 was
+  giving \... to him
+  17 \...
+  18 \...
+
+[[ Adapa ]], a man of Eridu, is depicted as an early culture hero. Although
+earlier tradition, Me-Turan/Tell-Haddad tablet, describes [[ Adapa ]] as
+postdiluvian ruler of Eridu,[[ ^70 ]] in late tradition, [[ Adapa ]] came to
+be viewed as Alulim's vizier,[[ ^71 ]] and he was considered to have brought
+civilization to the city as the sage of King [[ Alulim ]].[[ ^72 ]][[ ^73 ]]
+
+Eridu did not keep its primacy. The stories of [[ Inanna ]], goddess of
+[[ Uruk ]], describe how she had to go to Eridu in order to receive the
+[[ gifts of civilization | me-mythology ]]. At first Enki, the god of Eridu,
+attempted to retrieve these sources of his power but later willingly accepted
+that Uruk now was the centre of the land.[[ ^74 ]][[ ^75 ]]
+
+== List of rulers
+
+The following list should not be considered complete:
+
+<table
+  <tbody
+    <tr
+      <th>#
+
+      <th>Depiction
+
+      <th>Ruler
+
+      <th>Succession
+
+      <th>[[ Title | akkadian-royal-titulary ]]
+
+      <th>Approx. dates
+
+    <tr
+      <td colspan="6">!![[ Predynastic Sumer | pre-dynastic-period-of-sumer ]] / [[ Early Dynastic I period | early-dynastic-i ]] (c. 2900 – c. 2700 BC)!!
+
+    <tr
+      <td colspan="6"
+        <blockquote
+          //"After the [[ kingship | throne ]] descended from [[ heaven | anu ]], the
+          kingship was in Eridu."//
+
+        — //[[ Sumerian King List ]] (SKL)//
+
+    <tr
+      <td rowspan="2">1
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lista_Reale_Sumerica.jpg/250px-Lista_Reale_Sumerica.jpg" height="68" width="128"
+
+      <td>[[ Alulim ]]
+        <br
+
+        𒀉𒇻𒅆
+
+      <td
+
+      <td>[[ King of Sumer ]]
+        ***
+
+        [[ King | lugal ]] of Eridu
+
+      <td>fl. c. 2874 BC
+        <br
+
+        (28800–67200 years)
+
+    <tr
+      <td colspan="5"
+        - Is mentioned in the //[[ Weld-Blundell Prism ]] (W-B 44)// version of the //SKL// (this version of the //SKL// was most likely written //[[ temp. | tempore ]]// of [[ Suen-magir ]]c.1800 BC)
+        - Said on the //SKL// to have held the title of, //"[[ King | lugal ]]"// of not just Eridu; but, to have held the //"[[ Kingship | hegemony ]]"// over //all// of Sumer
+        - The //Uruk List of Kings and Sages (ULKS)// version of the //SKL// pairs him up with an [[ apkallu ]] (an apkallu was a [[ sage | sage-philosophy ]] in [[ Sumerian literature ]] and [[ religion | sumerian-religion ]]—the first apkallu was named [[ Adapa ]] and he was paired up with Alulim; additionally, Adapa has been compared with the [[ Biblical ]] figure [[ Adam ]])
+
+    <tr
+      <td rowspan="2">2
+
+      <td
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Initial_paragraph_about_rule_of_Alulim_in_Eridu_for_28800_years_%28photograph%2C_transcription_and_translation%29.jpg/250px-Initial_paragraph_about_rule_of_Alulim_in_Eridu_for_28800_years_%28photograph%2C_transcription_and_translation%29.jpg" height="79" width="128"
+
+      <td>[[ Alalngar ]]
+        <br
+
+        𒀉𒋭𒃻
+
+      <td>Brother of Alulim (?)
+
+      <td>King of Sumer
+        ***
+
+        King of Eridu
+
+      <td>[[ reigned | reign ]] c. 2866 BC
+        <br
+
+        (36000 years)
+
+    <tr
+      <td colspan="5"
+        - Historicity uncertain
+        - Is mentioned in the //[[ Dynastic Chronicle ]]// version of the //SKL// (this version of the //SKL// was most likely written //temp.// of [[ Nabonassar ]]c.740 BC)
+        - The //ULKS// (written c.165 BC) pairs him up with an apkallu (Uanduga)
+
+    <tr
+      <td colspan="7"
+        <blockquote
+          //"2 kings; they ruled for 64800 years. Then Eridu fell and the kingship was
+          taken to [[ Bad-tibira | bad-tibira#list-of-rulers ]]."//
+
+        — //SKL//
+
+    <tr
+      <td rowspan="2">3
+
+      <td
+
+      <td>Amelon
+        <br
+
+        𒁹𒄠𒈨𒇻𒀭𒈾
+
+      <td
+
+      <td>King of Sumer
+        ***
+
+        King of Eridu
+
+      <td>r. c. 2900 BC
+        <br
+
+        (46800 years)
+
+    <tr
+      <td colspan="5"
+        - Historicity uncertain
+        - Is mentioned in [[ Berossus ]]’ version of the //SKL// (the //[[ Babyloniaca | babyloniaca-berossus ]]// was written c.290 BC)
+        - The //ULKS// pairs him up with an apkallu (Enmeduga)
+
+[[ ^1 ]]: Langdon, S. (1922). "Review of 'Campbell Thompson, R. "The British Museum excavations at Abu Shahrain in Mesopotamia in 1918", 1920'". //Journal of the Royal Asiatic Society of Great Britain and Ireland// (4): 621–25.
+
+[[ ^2 ]]: Langdon, S. (1923). "Two Sumerian Hymns from Eridu and Nippur". //The American Journal of Semitic Languages and Literatures//. !!39!! (3): 161–86.
+
+[[ ^3 ]]: Gurney, O. R., "The Fifth Tablet of ‘The Topography of Babylon’", Iraq, vol. 36, no. 1/2, pp. 39–52, 1974
+
+[[ ^4 ]]: Taylor, J. E. (1855). [[ "Notes on Abu Shahrein and Tell el Lahm" | https://archive.org/download/jstor-25228662/25228662.pdf ]] (PDF). //Journal of the Royal Asiatic Society//. !!15!!: 404–415.
+
+[[ ^5 ]]: Edwards, I. E. S. (ed.). [[ //The Cambridge Ancient History. Vol. I, Part 1: Prolegomena and Prehistory// | https://www.academia.edu/35997578 ]] (3rd ed.). Cambridge University Press. pp. 331–332. Retrieved 28 February 2023.
+
+[[ ^6 ]]: Jacobsen, Thorkild (1970). //"The Waters of Ur", Toward the Image of Tammuz and Other Essays on Mesopotamian History and Culture//. Cambridge, Massachusetts, US; and London, England: Harvard University Press. pp. 231–244.
+
+[[ ^7 ]]: Safar, Fuad (1981). [[ //Eridu// | http://hdl.handle.net/11401/89029 ]]. Baghdad: Ministry of Culture and Information, Iraq.
+
+[[ ^8 ]]: Hilprecht, H. V. (2004). "First Successful Attempts In Babylonia". //Explorations in Bible Lands During the 19th Century//. Piscataway, New Jersey: Gorgias Press: 138–186.
+
+[[ ^9 ]]: [[ Hall, H. R. | henry-hall-egyptologist ]] (1920). "Recent Excavations of the British Museum at Tell el-Mukayyar (Ur 'of the Chaldees'), Tell Abu Shahrein (Eridu), and Tell el-Ma'abed or Tell el-'Obeid, near Ur". //Proceedings of the Society of Antiquaries//. !!32!!: 22–44.
+
+[[ ^10 ]]: Thompson, Campbell (1920). "The British Museum Excavations at Abu Shahrain in Mesopotamia in 1918". //Archaeologia//. !!70!!: 101–44.
+
+[[ ^11 ]]: Hall, H. R. (1924). "Notes on the Excavations of 1919 at Muqayyar, el-'Obeid, and Abu Shahrein". //Journal of the Royal Asiatic Society of Great Britain and Ireland//. !!56!! (Centenary Supplement): 103–115.
+
+[[ ^12 ]]: Hall, H. R. (1925). "The Excavations of 1919 at Ur, el-'Obeid, and Eridu, and the History of Early Babylonia". //Royal Anthropological Institute of Great Britain and Ireland//. !!25!!: 1–7.
+
+[[ ^13 ]]: Hall, H. R. (1923). "Ur and Eridu: The British Museum Excavations of 1919". //The Journal of Egyptian Archaeology//. !!9!!: 177–95.
+
+[[ ^14 ]]: Hall, H. R. (1930). //A Season's Work at Ur, Al-ʻUbaid, Abu Shahrain (Eridu) and Elsewhere. Being an Unofficial Account of the British Museum Archaeological Mission to Babylonia, 1919//. London.``\{{cite book}}``:  CS1 maint: location missing publisher ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_location_missing_publisher ]])
+
+[[ ^15 ]]: Garner, Harry (1956). "An Early Piece of Glass from Eridu". //Iraq//. !!18!! (2): 147–49. doi:[[ 10.2307/4199608 | https://doi.org/10.2307%2F4199608 ]].
+
+[[ ^16 ]]: Dardeniz, Gonca; Henderson, Julian; Roe, Martin (2022). "Primary Evidence for Glassmaking in Late Bronze Age Alalakh/Tell Atchana (Amuq Valley, Turkey". //Journal of Glass Studies//. !!64!!. Corning Museum of Glass: 11–32. JSTOR [[ 10.2307/48703400 | https://www.jstor.org/stable/10.2307/48703400 ]].
+
+[[ ^17 ]]: al Asil, Naji; Lloyd, Seton; Safar, Fuad (July 1947). [[ "Eridu" | https://findit.library.yale.edu/images_layout/view?parentoid=15763206&increment=41 ]]. //Sumer//. !!3!! (2): 84–111.
+
+[[ ^18 ]]: Lloyd, Seton; Safar, Fuad (September 1948). [[ "Eridu. A Preliminary Communication on the Second Season's Excavations. 1947–1948" | https://findit.library.yale.edu/images_layout/view?parentoid=15763210&increment=60 ]]. //Sumer//. !!4!! (2): 115–127.
+
+[[ ^19 ]]: Safar, Fuad (1949). "The Third Season's Excavation at Eridu". //Sumer// (in Arabic). !!5!! (2): 159–174.
+
+[[ ^20 ]]: Safar, Fuad (1950). [[ "ERIDU A Preliminary Report on the Third Season's Excavation at Eridu, 1948–1949" | https://findit.library.yale.edu/images_layout/view?parentoid=15763216&increment=32 ]]. //Sumer//. !!6!! (1): 27–38.
+
+[[ ^21 ]]: Lloyd, Seton (1974). "Abu Shahrein: A Memorandum". //Iraq//. !!36!!: 129–38.
+
+[[ ^22 ]]: Laneri, Nicola (2022). Bonnet, Corinne; Galoppin, Thomas; Guillon, Elodie; Luaces, Max; Lätzer-Lasar, Asuman; Lebreton, Sylvain; Porzia, Fabio; Rüpke, Jörg; Urciuoli, Emiliano Rubens (eds.). "From High to Low: Reflections about the Emplacement of Religion in Ancient Mesopotamia". //Naming and Mapping the Gods in the Ancient Mediterranean: Spaces, Mobilities, Imaginaries//. Berlin, Boston: De Gruyter: 371–386.
+
+[[ ^23 ]]: Oppenheim, A. Leo (1977) [1964]. [[ //Ancient Mesopotamia: Portrait of a Dead Civilization// | https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/ancient_mesopotamia.pdf ]] (PDF). Chicago: University of Chicago Press.
+
+[[ ^24 ]]: [[ Moore, A. M. T. | andrew-m.-t.-moore ]] (2002). "Pottery Kiln Sites at al 'Ubaid and Eridu". //Iraq//. !!64!!: 69–77. doi:[[ 10.2307/4200519 | https://doi.org/10.2307%2F4200519 ]].
+
+[[ ^25 ]]: Biggin, S.; Lawler, A. (10 April 2006). [[ "Iraq Antiquities Find Sparks Controversy" | https://www.science.org/content/article/iraq-antiquities-find-sparks-controversy ]]. //[[ Science | science-journal ]]//. Retrieved 22 August 2022.
+
+[[ ^26 ]]: Curtis, John et al., "An Assessment of Archaeological Sites in June 2008: An Iraqi-British Project", Iraq,  vol. 70, pp. 215–237, 2008
+
+[[ ^27 ]]: Pettinato, Giovanni, "Eridu Texts", Time and History in the Ancient Near East: Proceedings of the 56th Rencontre Assyriologique Internationale, Barcelona, July 26th–30th, 2010, edited by Lluis Feliu, J. Llop, A. Millet Albà and Joaquin Sanmartín, University Park, USA: Penn State University Press, pp. 799–802, 2013
+
+[[ ^28 ]]: D’Agostino, Franco (2017). "The Eridu Project (AMEr) and a Singular Brick-Inscription of Amar-Suena from Abū Šahrain". In Feliu, Lluís; Karahashi, Fumi; Rubio, Gonzalo (eds.). //The First Ninety Years: A Sumerian Celebration in Honor of Miguel Civil//. Berlin, Boston: De Gruyter. pp. 70–79.
+
+[[ ^29 ]]: D'Agostino, Franco; Rendu Loisel, Anne-Caroline; Quénet, Philippe (April 2019). "The first campaign at Eridu". //Rivista degli studi orientali//. !!XCIII!! (1/2): 65–90.
+
+[[ ^30 ]]: Ramazzotti, Marco (2015). [[ "The Iraqi-Italian Archaeological Mission at The Seven Mounds of Eridu (AMEr)" | https://www.academia.edu/21315716/The_Iraqi_Italian_Archaeological_Mission_at_the_Seven_Mounds_of_Eridu_AMEr_ ]]. //The Iraqi-Italian Archaeological Mission at The Seven Mounds of Eridu//: 3–29.
+
+[[ ^31 ]]: Rendu Loisel, Anne-Caroline (2020). "Another brick (-stamp) in the wall: few remarks on Amar-Suena's bricks in Eridu". //Oriens antiquus: rivista di studi sul Vicino Oriente Antico e il Mediterraneo orientale//. !!II!!: 81–98.
+
+[[ ^32 ]]: Brienza, Emanuele (2024). [[ "Smart tools for archaeological survey in different frameworks and contexts: approaches, analysis, results" | https://acta.imeko.org/index.php/acta-imeko/article/view/1824/3028 ]]. //Acta IMEKO//. !!13!! (3): 1–11.
+
+[[ ^33 ]]: Green, Margaret Whitney (1975). //Eridu in Sumerian Literature// (Thesis). Chicago: University of Chicago, Unpublished Ph.D dissertation.
+
+[[ ^34 ]]: Delougaz, P. (1938). //A Short Investigation of the Temple at Al-'Ubaid, Iraq//. Vol. 5. pp. 1–11.
+
+[[ ^35 ]]: Leick, Gwendolyn (2002). //Mesopotamia, The invention of the city//. London: Penguin Books.
+
+[[ ^36 ]]: George, AR (2003). //House most high: the temples of ancient Mesopotamia//. Eisenbrauns. ISBN [[ 0-931464-80-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-931464-80-3 ]].
+
+[[ ^37 ]]: Serra, Fabrizio, ed. (2019). "A new foundation clay-nail of Nūr-Adad from Eridu". //Oriens antiquus : rivista di studi sul Vicino Oriente Antico e il Mediterraneo orientale//. !!I!!: 191–196.
+
+[[ ^38 ]]: Quenet, Philippe, "Eridu: Note on the Decoration of the Uruk ‘Temples.’", Proceedings of the 11th International Congress on the Archaeology of the Ancient Near East: Vol. 2: Field Reports. Islamic Archaeology, edited by Adelheid Otto et al., 1st ed., Harrassowitz Verlag, pp. 341–48, 2020
+
+[[ ^39 ]]: Schmandt-Besserat, Denise. //Before writing: From counting to cuneiform//, Vol. II, University of Texas Press, 1992
+
+[[ ^40 ]]: Overmann, Karenleigh A., //The Material Origin of Numbers: Insights from the Archaeology of the Ancient Near East//, Piscataway, NJ, USA: Gorgias Press, Table 9.2, pp. 169–170, 2019
+
+[[ ^41 ]]: [[ https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf ]] Wright, H. T., "Appendix: The Southern Margins of Sumer. Archaeological Survey of the Area of Eridu and Ur", In: R. M. Adams (ed.), The Heartland of Cities: Survey of Ancient Settlement and Land Use on the Central Flood Plain of the Euphrates (Chicago-London), pp. 295–345, 1981
+
+[[ ^42 ]]: Lloyd, S. (1948). [[ "Uruk Pottery: A Comparative Study in relation to recent Finds at Eridu" | https://findit.library.yale.edu/images_layout/view?parentoid=15763208&increment=41 ]]. //Sumer//. !!4!! (1): 39–51.
+
+[[ ^43 ]]: Van Buren, E. Douglas (1948). "Excavations at Eridu". //Orientalia//. !!17!! (1): 115–19.
+
+[[ ^44 ]]: Becker, A. (1993). "Uruk Kleinfunde I". //Ausgrabungen in Uruk-Warka Endberichte 6//. Mainz: Stein.
+
+[[ ^45 ]]: al-Soof, A. B. (1973). [[ "Uruk Pottery from Eridu, Ur, and al-Ubaid" | https://www.brown.edu/Departments/Joukowsky_Institute/resources/alsoof/files/10213436.pdf ]] (PDF). //Sumer//. !!20!! (1–2): 17–22.
+
+[[ ^46 ]]: Adams, Robert McCormick (1966). //The Evolution of Urban Society: Early Mesopotamia and Prehistoric Mexico//. Chicago: University of Chicago Press.
+
+[[ ^47 ]]: Sollberger, Edmond, and Jean-Robert Kupper, "Inscriptions royales sumeriennese akkadiennes", Littératures Anciennes du Proche-Orient 3, Paris: Les Éditions du Cerf, 1971
+
+[[ ^48 ]]: Schmandt-Besserat, Denise, "Six Votive and Dedicatory Inscriptions", When Writing Met Art: From Symbol to Story, New York, USA: University of Texas Press, pp. 71–86, 2007
+
+[[ ^49 ]]: Frayne, Douglas, "Ur-Nammu E3/2.1.1", Ur III Period (2112–2004 BC), Toronto: University of Toronto Press, pp. 5–90, 1997
+
+[[ ^50 ]]: Clayden, Tim, "Kassite housing at Ur: the dates of the EM, YC, XNCF, AH and KPS houses", Iraq, vol. 76, pp. 19–64, 2014
+
+[[ ^51 ]]: Radau, Hugo, "Letters to Cassite Kings from the Temple Archives of Nippur", Philadelphia: University of Pennsylvania Press, 1908
+
+[[ ^52 ]]: De Graef, Katrien. "Bad Moon Rising: The Changing Fortunes of Early Second-Millennium BCE Ur", Ur in the Twenty-First Century CE: Proceedings of the 62nd Rencontre Assyriologique Internationale at Philadelåpåphia, July 11–15, 2016, edited by Grant Frame, Joshua Jeffers and Holly Pittman, University Park, USA: Penn State University Press, pp. 49–88, 2021
+
+[[ ^53 ]]: “RIME 4.02.08.05, Ex. 01 Artifact Entry.” (2006) 2023. Cuneiform Digital Library Initiative (CDLI). June 15, 2023. https://cdli.ucla.edu/P345487.
+
+[[ ^54 ]]: Green, M. W., "The Eridu Lament.", JCS 30, pp. 127–67, 1978
+
+[[ ^55 ]]: Peled, Ilan (2015). "A New Manuscript of the Lament for Eridu". //Journal of Cuneiform Studies//. !!67!!: 39–43. doi:[[ 10.5615/jcunestud.67.2015.0039 | https://doi.org/10.5615%2Fjcunestud.67.2015.0039 ]].
+
+[[ ^56 ]]: [[ "The lament for Eridug ETSCL" | https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.2.6# ]]. //ox.ac.uk//.
+
+[[ ^57 ]]: Oshima, Takayoshi, "Another Attempt at Two Kassite Royal Inscriptions: The Agum-Kakrime Inscription and the Inscription of Kurigalzu the Son of Kadashmanharbe", Babel und Bibel 6, edited by Leonid E. Kogan, N. Koslova, S. Loesov and S. Tishchenko, University Park, USA: Penn State University Press, pp. 225–268, 2012
+
+[[ ^58 ]]: [[ https://archive.org/download/babylonianbounda00brituoft/babylonianbounda00brituoft.pdf | https://archive.org/download/babylonianbounda00brituoft/babylonianbounda00brituoft.pdf ]] L.W. King, "Babylonian Boundary Stones and Memorial Tablets in the British Museum (BBSt)", London: Trustees of the British Museum, 1912
+
+[[ ^59 ]]: Frazer, Mary and Adalı, Selim Ferruh, "“The just judgements that Ḫammu-rāpi, a former king, rendered”: A New Royal Inscription in the Istanbul Archaeological Museums", Zeitschrift für Assyriologie und vorderasiatische Archäologie, vol. 111, no. 2, pp. 231–262, 2021
+
+[[ ^60 ]]: BMHBA 94, 17 05 artifact entry (No. P283716). (2005, November 15). Cuneiform Digital Library Initiative (CDLI). https://cdli.ucla.edu/P283716
+
+[[ ^61 ]]: G. Marchesi, "The Sumerian King List and the Early History of Mesopotamia", in:ana turri gimilli, studi dedicati alPadre Werner R. Mayer, S.J. da amici e allievi, Vicino Oriente Quader-no5, Rome: Università di Roma, pp. 231–248, 2010
+
+[[ ^62 ]]: [[ "The Electronic Text Corpus of Sumerian Literature" | https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.1&charenc=gcirc# ]].
+
+[[ ^63 ]]: [[ "The Sumerian king list: translation" | https://etcsl.orinst.ox.ac.uk/section2/tr211.htm ]]. //etcsl.orinst.ox.ac.uk//. Retrieved 4 July 2021.
+
+[[ ^64 ]]: Jacobsen, Thorkild, "The Eridu Genesis", Journal of Biblical Literature, vol. 100, no. 4, pp. 513–29, 1981
+
+[[ ^65 ]]: Rogers, John H. (1998). "Origins of the Ancient Constellations: I. The Mesopotamian Traditions". //Journal of the British Astronomical Association//. !!108!! (1): 9–28. Bibcode:[[ 1998JBAA..108....9R | https://ui.adsabs.harvard.edu/abs/1998JBAA..108....9R ]].
+
+[[ ^66 ]]: Bautsch, Markus; [[ Pedde, Friedhelm | friedhelm-pedde ]]. [[ "Canopus, der "Stern der Stadt Eridu"" | https://wfs.berlin/wp-content/uploads/2023/05/BROplanet-juni2023ff_www.pdf ]] (PDF). //Dem Himmel Nahe// (in German) (17): 8–9. ISSN [[ 2940-9330 | https://search.worldcat.org/issn/2940-9330 ]].
+
+[[ ^67 ]]: UET 6, 61 + UET 6, 503 + UET 6, 691 (+) UET 6, 701 or [[ CDLI Literary 000357, ex. 003 (P346146) | https://cdli.mpiwg-berlin.mpg.de/artifacts/346146 ]]
+
+[[ ^68 ]]: Ansky, S., "The Eridu Genesis", The Harps that Once\..., edited by David G. Roskies, New Haven: Yale University Press, pp. 145–150, 1992
+
+[[ ^69 ]]: Peterson, Jeremiah (January 2018). [[ "The Divine Appointment of the First Antediluvian King: Newly Recovered Content from the Ur Version of the Sumerian Flood Story" | https://www.academia.edu/37013183 ]]. //Journal of Cuneiform Studies//. !!70!! (1): 37–51. doi:[[ 10.5615/jcunestud.70.2018.0037 | https://doi.org/10.5615%2Fjcunestud.70.2018.0037 ]].
+
+[[ ^70 ]]: Cavigneaux, Antoine. “Une version Sumérienne de la légende d’Adapa (Textes de Tell Haddad \X) : Zeitschrift Für Assyriologie104 (2014): 1–41.
+
+[[ ^71 ]]: Peterson 2018, p. 40.
+
+[[ ^72 ]]: Brandon, S. G. F., "The Origin of Death in Some Ancient Near Eastern Religions", Religious Studies, vol. 1, no. 2, pp. 217–28, 1966
+
+[[ ^73 ]]: Milstein, Sara J., "The “Magic” of Adapa", Texts and Contexts: The Circulation and Transmission of Cuneiform Texts in Social Space, edited by Paul Delnero and Jacob Lauinger, Berlin, München, Boston: De Gruyter, pp. 191–213, 2015
+
+[[ ^74 ]]: Gertrud  Farber-Fliigge, "Der Mythos 'Inanna und Enki' unter  besonderer   Berücksichti-gung der Liste der me", Rome, St Pohl 10, 1973
+
+[[ ^75 ]]: Alster, Bendt, "On the Interpretation of the Sumerian Myth 'Inanna and Enki'", vol. 64, no. 1, pp. 20–34, 1974

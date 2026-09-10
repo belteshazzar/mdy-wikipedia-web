@@ -1,0 +1,21 @@
+slug: nippur
+findings:
+  - kind: unsupported
+    quote: "What the temple looked like in this and the immediately succeeding
+      periods is known largely from one object: a sketch map on a fragment of
+      a [[ clay tablet ]], whose discovery has greatly facilitated the
+      restoration of the temple's general features."
+    why: The source says only that "The restoration of the general features of the
+      temple of this, and the immediately succeeding periods, has been greatly
+      facilitated by the discovery of a sketch map on a fragment of a clay
+      tablet." It does not say the temple's appearance is known largely from
+      that one object; the rewrite adds that stronger claim on top of the
+      source's own wording.
+    severity: minor
+  - kind: unsupported
+    quote: The city then changed hands twice in a generation.
+    why: The source records the capture by Ilī-ma-ilu in about Samsu-iluna's 29th
+      year and the recapture by Abī-ešuḫ by his 5th year, but gives no elapsed
+      time and never characterises the interval as a generation.
+    severity: minor
+verdict: minor-only

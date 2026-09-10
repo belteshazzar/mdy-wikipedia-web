@@ -1,0 +1,1249 @@
++++
+title: Constantinople
+description: Capital of the Eastern Roman Empire
+key-facts:
+  - name: Capital of
+    value: The Roman and Byzantine Empire, from 330 until the Ottoman takeover in
+      1453
+    from: Constantinople, was the capital of the Roman and Byzantine Empire from
+      330 until its takeover by the Ottoman Empire in 1453.
+  - name: Founded
+    value: In 324, during the reign of Constantine the Great, on the site of the
+      existing city of Byzantium
+    from: Constantinople was founded on the site of the existing city of Byzantium
+      in 324, during the reign of Constantine the Great, initially as New
+      Rome.
+  - name: Inside the walls
+    value: 6 km2 (2.3 sq mi) within the Constantinian Walls; 14 km2 (5.4 sq mi)
+      within the Theodosian
+    from: 6 km2 (2.3 sq mi) enclosed within Constantinian Walls 14 km2 (5.4 sq mi)
+      enclosed within Theodosian Walls
+  - name: Population, 9th and 10th centuries
+    value: Between 500,000 and 800,000
+    from: In the 9th and 10th centuries, Constantinople had a population of
+      between 500,000 and 800,000.
+  - name: Defenders at the last siege
+    value: 4,773 Greeks and 200 foreigners, by the last emperor's own census
+    from: in spite of the great size of our city, our defenders amounted to 4,773
+      Greeks, as well as just 200 foreigners
+  - name: Conquered
+    value: 29 May 1453, by the Ottoman Empire
+    from: Constantinople was conquered by the Ottoman Empire on 29 May 1453.
+image-plan:
+  - file: Bizansist_touchup.jpg
+    role: hero
+    section: lead
+    caption: Byzantine Constantinople from the air, on its peninsula between the
+      [[ Golden Horn ]] and the Propontis (Sea of Marmara) — the geography
+      that reduced the land area needing walls.
+  - file: Column_of_Constantine.jpg
+    role: inline
+    section: names
+    caption: The [[ Column of Constantine ]], built by [[ Constantine I ]] in 330
+      to commemorate the establishment of Constantinople as the [[ new capital
+      | new-rome ]] of the [[ Roman Empire ]].
+  - file: Horses_of_Basilica_San_Marco.jpg
+    role: full
+    section: history
+    caption: The four bronze horses that were once in the [[ Hippodrome of
+      Constantinople ]] are today put on display in [[ Venice ]].
+  - file: Constantine_I_Hagia_Sophia.jpg
+    role: inline
+    section: 324337-the-refoundation-as-constantinople
+    caption: Emperor [[ Constantine I ]] presents a representation of the city of
+      Constantinople as tribute to an enthroned Mary and Christ Child in this
+      church mosaic. [[ Hagia Sophia ]], c. 1000.
+  - file: Istanbul_Hagia_Irene_IMG_8067_1920.jpg
+    role: inline
+    section: 324337-the-refoundation-as-constantinople
+    caption: "[[ Hagia Irene ]] — Holy Peace, the first Byzantine cathedral — in
+      the outer courtyard of [[ Topkapı Palace ]]. It is one of the few
+      churches in [[ Istanbul ]] that has not been converted into a mosque."
+  - file: Istambul_cokol1RB.JPG
+    role: inline
+    section: 337529-constantinople-during-the-barbarian-invasions-and-the-fall-of-the-west
+    caption: "[[ Theodosius I ]] was the last [[ Roman emperor ]] who ruled over
+      an undivided empire (detail from the Obelisk at the [[ Hippodrome of
+      Constantinople ]])."
+  - file: Bozdoģan_Kemeri_-_panoramio.jpg
+    role: inline
+    section: 337529-constantinople-during-the-barbarian-invasions-and-the-fall-of-the-west
+    caption: The [[ Aqueduct of Valens ]], completed by the emperor who hated the
+      city and spent only one year in it.
+  - file: Hagia_Sophia_Mars_2013.jpg
+    role: full
+    section: 527565-constantinople-in-the-age-of-justinian
+    caption: Emperor [[ Justinian I ]] commissioned the current [[ Hagia Sophia ]]
+      after the previous one was destroyed in the [[ Nika riots ]] of 532. It
+      was converted into a mosque in 1453 when the Ottoman Empire captured the
+      city, served as a museum from 1935 to 2020, and was then converted back
+      to a mosque.
+  - file: Walls_of_Constantinople.JPG
+    role: full
+    section: survival-565717-constantinople-during-the-byzantine-dark-ages
+    caption: A restored section of the [[ Theodosian Walls ]], which kept the city
+      impenetrable from the land through both Arab sieges.
+  - file: Chora_Church_Constantinople_2007_panorama_002.jpg
+    role: inline
+    section: survival-565717-constantinople-during-the-byzantine-dark-ages
+    caption: "[[ Chora Church ]], a medieval Byzantine Greek Orthodox church in
+      Istanbul's [[ Edirnekapı | edirnekapı-fatih ]] quarter, was converted
+      into Kariye Mosque in 1500 and again in 2024, after serving as the Chora
+      Museum from 1945 to 2020."
+  - file: Imperial_Gate_mosaic_in_Hagia_Sophia.jpg
+    role: inline
+    section: 7171025-constantinople-during-the-macedonian-renaissance
+    caption: "[[ Emperor Leo VI ]] (886–912) adoring [[ Jesus Christ ]]. [[ Mosaic
+      ]] above the Imperial Gate in the [[ Hagia Sophia ]]."
+  - file: Irenekirken.jpg
+    role: inline
+    section: iconoclast-controversy-in-constantinople
+    caption: "A simple cross: an example of iconoclast art in the [[ Hagia Irene
+      ]] Church in Istanbul, which was secularized and today serves as a
+      museum and concert hall."
+  - file: Byzantium@1180.jpg
+    role: inline
+    section: 10811185-constantinople-under-the-komneni
+    caption: The [[ Byzantine Empire ]] under [[ Manuel I | manuel-i-komnenos ]],
+      c. 1180.
+  - file: Eugène_Delacroix_-_Prise_de_Constantinople_par_les_croisés_(12_avril_1204).jpg
+    role: full
+    section: 11851261-constantinople-during-the-imperial-exile
+    caption: //[[ The Entry of the Crusaders into Constantinople |
+      entry-of-the-crusaders-in-constantinople ]]//, by [[ Eugène Delacroix
+      ]], 1840. The second attack, from the Golden Horn on 12 April,
+      succeeded, and the city was given over to pillage for three days.
+  - file: Byzantium1204.png
+    role: inline
+    section: 11851261-constantinople-during-the-imperial-exile
+    caption: "What the empire broke into: the [[ Latin Empire ]], [[ Empire of
+      Nicaea ]], [[ Empire of Trebizond ]], and the [[ Despotate of Epirus ]].
+      The borders are very uncertain."
+  - file: Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg
+    role: full
+    section: 12611453-palaiologan-era-and-the-fall-of-constantinople
+    caption: Christ Pantocrator on the walls of the upper southern gallery of the
+      [[ Hagia Sophia ]], flanked by the Virgin Mary and John the Baptist, c.
+      1261 — one of the most famous of the surviving Byzantine mosaics.[[ ^58
+      ]]
+  - file: Map_of_Constantinople,_Buondelmonti.jpg
+    role: inline
+    section: 12611453-palaiologan-era-and-the-fall-of-constantinople
+    caption: The map of Constantinople (1422) by Florentine cartographer [[
+      Cristoforo Buondelmonti ]][[ ^34 ]] is the oldest surviving map of the
+      city, and the only one that predates the Turkish conquest of it in 1453.
+  - file: Le_siège_de_Constantinople_(1453)_by_Jean_Le_Tavernier_after_1455.jpg
+    role: full
+    section: 12611453-palaiologan-era-and-the-fall-of-constantinople
+    caption: The final [[ siege of Constantinople | fall-of-constantinople ]],
+      contemporary 15th-century French miniature. Something under 8,000 men in
+      total were left to defend a perimeter wall of twelve miles.[[ ^86 ]]
+  - file: Zonaro_GatesofConst.jpg
+    role: inline
+    section: 12611453-palaiologan-era-and-the-fall-of-constantinople
+    caption: "[[ Mehmed the Conqueror ]] enters Constantinople, painted by [[
+      Fausto Zonaro ]]. He was 21."
+  - file: A_characteristic_group_of_street_merchants_of_Constantinople_-_DPLA_-_d03e9b5979a6b07b578fbcc9ca791a7e.jpg
+    role: inline
+    section: markets
+    caption: Street merchants of Constantinople, ca. 1870-1920; from the Nicholas
+      Catsimpoolas Collection of the Boston Public Library.
+  - file: Hagia_Sophia_(15468276434).jpg
+    role: inline
+    section: architecture-and-coinage
+    caption: Columns of the [[ Hagia Sophia ]], currently a mosque.
+  - file: Constantinople_imperial_district.png
+    role: full
+    section: international-status
+    caption: Constantinople's monumental center.
+  - file: Pammakaristos_Church_Main_Dome_mosaic_Christ_Pantocrator_in_2010_01_9607.jpg
+    role: drop
+    section: 7171025-constantinople-during-the-macedonian-renaissance
+    caption: Mosaic of Jesus in [[ Pammakaristos Church ]], Istanbul.
+  - file: Pammakaristos_Church_Mosaic_of_St._Anthony_the_Great_in_2010_30_9593.jpg
+    role: drop
+    section: 11851261-constantinople-during-the-imperial-exile
+    caption: "[[ Pammakaristos Church ]] mosaic of Saint Anthony, the desert Father."
+  - file: Fethiye_Museum_9620.jpg
+    role: drop
+    section: 11851261-constantinople-during-the-imperial-exile
+    caption: Dome of the [[ Pammakaristos Church ]], Istanbul.
+further:
+  - slug: antioch
+    why: "The other Byzantine centre named here: great bathhouses were built in
+      both."
+  - slug: miletus
+    why: Hesychius of Miletus is where the founding legend of Byzantium comes down
+      from, and Isidore of Miletus is one of the two men Justinian
+      commissioned to build the Hagia Sophia.
+  - slug: euphrates
+    why: One of the two frontiers Constantine wanted a capital with easy access to
+      — the reason he chose this site over Rome.
+coordinates:
+  lat: 41.0125
+  lon: 28.98
+image: https://upload.wikimedia.org/wikipedia/commons/b/bb/Byzantine_Constantinople-en.png
+images:
+  - file: Bizansist_touchup.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bizansist_touchup.jpg/330px-Bizansist_touchup.jpg
+    width: 2516
+    height: 970
+    caption: Aerial view of Byzantine Constantinople and the Propontis (Sea of
+      Marmara)
+  - file: Column_of_Constantine.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Column_of_Constantine.jpg/250px-Column_of_Constantine.jpg
+    width: 3072
+    height: 4608
+    caption: The Column of Constantine, built by Constantine I in 330 to
+      commemorate the establishment of Constantinople as the new capital of
+      the Roman Empire
+  - file: Horses_of_Basilica_San_Marco.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Horses_of_Basilica_San_Marco.jpg/250px-Horses_of_Basilica_San_Marco.jpg
+    width: 3859
+    height: 2737
+    caption: The four bronze horses that were once in the Hippodrome of
+      Constantinople are today put on display in Venice.
+  - file: Irenekirken.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Irenekirken.jpg/250px-Irenekirken.jpg
+    width: 1332
+    height: 1798
+    caption: "A simple cross: an example of iconoclast art in the Hagia Irene
+      Church in Istanbul, which was secularized and today serves as a museum
+      and concert hall."
+  - file: Constantine_I_Hagia_Sophia.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Constantine_I_Hagia_Sophia.jpg/250px-Constantine_I_Hagia_Sophia.jpg
+    width: 688
+    height: 702
+    caption: Emperor Constantine I presents a representation of the city of
+      Constantinople as tribute to an enthroned Mary and Christ Child in this
+      church mosaic. Hagia Sophia, c. 1000.
+  - file: Istanbul_Hagia_Irene_IMG_8067_1920.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Istanbul_Hagia_Irene_IMG_8067_1920.jpg/250px-Istanbul_Hagia_Irene_IMG_8067_1920.jpg
+    width: 2756
+    height: 1920
+    caption: Hagia Irene is a Greek Eastern Orthodox Church located in the outer
+      courtyard of Topkapı Palace in Istanbul. It is one of the few churches
+      in Istanbul that has not been converted into a mosque.
+  - file: Istambul_cokol1RB.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Istambul_cokol1RB.JPG/250px-Istambul_cokol1RB.JPG
+    width: 1280
+    height: 960
+    caption: Theodosius I was the last Roman emperor who ruled over an undivided
+      empire (detail from the Obelisk at the Hippodrome of Constantinople).
+  - file: Bozdoģan_Kemeri_-_panoramio.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bozdo%C4%A3an_Kemeri_-_panoramio.jpg/250px-Bozdo%C4%A3an_Kemeri_-_panoramio.jpg
+    width: 3908
+    height: 2612
+    caption: Aqueduct of Valens, completed by Roman emperor Valens in the late 4th
+      century AD
+  - file: Map_of_Constantinople,_Buondelmonti.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Map_of_Constantinople%2C_Buondelmonti.jpg/250px-Map_of_Constantinople%2C_Buondelmonti.jpg
+    width: 2291
+    height: 3320
+    caption: The map of Constantinople (1422) by Florentine cartographer
+      Cristoforo Buondelmonti is the oldest surviving map of the city, and the
+      only one that predates the Turkish conquest of it in 1453.
+  - file: Hagia_Sophia_Mars_2013.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/250px-Hagia_Sophia_Mars_2013.jpg
+    width: 5514
+    height: 3681
+    caption: Emperor Justinian I commissioned the current Hagia Sophia after the
+      previous one was destroyed in the Nika riots of 532. It was converted
+      into a mosque in 1453 when the Ottoman Empire captured the city, while
+      it served as a museum from 1935 to 2020, when it was converted back to a
+      mosque.
+  - file: Walls_of_Constantinople.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Walls_of_Constantinople.JPG/250px-Walls_of_Constantinople.JPG
+    width: 1920
+    height: 1080
+    caption: Restored section of the fortifications (Theodosian Walls) that
+      protected Constantinople during the medieval period
+  - file: Chora_Church_Constantinople_2007_panorama_002.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Chora_Church_Constantinople_2007_panorama_002.jpg/250px-Chora_Church_Constantinople_2007_panorama_002.jpg
+    width: 2460
+    height: 1456
+    caption: Chora Church, a medieval Byzantine Greek Orthodox church in
+      Istanbul's Edirnekapı quarter, was converted into Kariye Mosque in 1500
+      and again in 2024, after serving as the Chora Museum from 1945 to 2020.
+  - file: Imperial_Gate_mosaic_in_Hagia_Sophia.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Imperial_Gate_mosaic_in_Hagia_Sophia.jpg/250px-Imperial_Gate_mosaic_in_Hagia_Sophia.jpg
+    width: 3072
+    height: 2048
+    caption: Emperor Leo VI (886–912) adoring Jesus Christ. Mosaic above the
+      Imperial Gate in the Hagia Sophia.
+  - file: Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg/250px-Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg
+    width: 2744
+    height: 2900
+    caption: One of the most famous of the surviving Byzantine mosaics of the
+      Hagia Sophia in Constantinople – the image of Christ Pantocrator on the
+      walls of the upper southern gallery, Christ being flanked by the Virgin
+      Mary and John the Baptist, c. 1261
+  - file: Pammakaristos_Church_Main_Dome_mosaic_Christ_Pantocrator_in_2010_01_9607.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pammakaristos_Church_Main_Dome_mosaic_Christ_Pantocrator_in_2010_01_9607.jpg/250px-Pammakaristos_Church_Main_Dome_mosaic_Christ_Pantocrator_in_2010_01_9607.jpg
+    width: 4256
+    height: 2832
+    caption: Mosaic of Jesus in Pammakaristos Church, Istanbul
+  - file: Byzantium@1180.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Byzantium%401180.jpg/250px-Byzantium%401180.jpg
+    width: 801
+    height: 370
+    caption: The Byzantine Empire under Manuel I, c. 1180
+  - file: Pammakaristos_Church_Mosaic_of_St._Anthony_the_Great_in_2010_30_9593.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pammakaristos_Church_Mosaic_of_St._Anthony_the_Great_in_2010_30_9593.jpg/250px-Pammakaristos_Church_Mosaic_of_St._Anthony_the_Great_in_2010_30_9593.jpg
+    width: 4256
+    height: 2832
+    caption: Pammakaristos Church mosaic of Saint Anthony, the desert Father
+  - file: Eugène_Delacroix_-_Prise_de_Constantinople_par_les_croisés_(12_avril_1204).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eug%C3%A8ne_Delacroix_-_Prise_de_Constantinople_par_les_crois%C3%A9s_%2812_avril_1204%29.jpg/250px-Eug%C3%A8ne_Delacroix_-_Prise_de_Constantinople_par_les_crois%C3%A9s_%2812_avril_1204%29.jpg
+    width: 2223
+    height: 1820
+    caption: The Entry of the Crusaders into Constantinople, by Eugène Delacroix, 1840
+  - file: Byzantium1204.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Byzantium1204.png/250px-Byzantium1204.png
+    width: 512
+    height: 357
+    caption: The Latin Empire, Empire of Nicaea, Empire of Trebizond, and the
+      Despotate of Epirus. The borders are very uncertain.
+  - file: Fethiye_Museum_9620.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fethiye_Museum_9620.jpg/250px-Fethiye_Museum_9620.jpg
+    width: 1600
+    height: 1065
+    caption: Dome of the Pammakaristos Church, Istanbul
+  - file: Le_siège_de_Constantinople_(1453)_by_Jean_Le_Tavernier_after_1455.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg/250px-Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg
+    width: 1210
+    height: 1788
+    caption: The final siege of Constantinople, contemporary 15th-century French
+      miniature
+  - file: Zonaro_GatesofConst.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Zonaro_GatesofConst.jpg/250px-Zonaro_GatesofConst.jpg
+    width: 903
+    height: 1224
+    caption: Mehmed the Conqueror enters Constantinople. Painting by Fausto Zonaro.
+  - file: A_characteristic_group_of_street_merchants_of_Constantinople_-_DPLA_-_d03e9b5979a6b07b578fbcc9ca791a7e.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/A_characteristic_group_of_street_merchants_of_Constantinople_-_DPLA_-_d03e9b5979a6b07b578fbcc9ca791a7e.jpg/250px-A_characteristic_group_of_street_merchants_of_Constantinople_-_DPLA_-_d03e9b5979a6b07b578fbcc9ca791a7e.jpg
+    width: 800
+    height: 627
+    caption: A characteristic group of street merchants of Constantinople, ca.
+      1870-1920; from the Nicholas Catsimpoolas Collection of the Boston
+      Public Library
+  - file: Hagia_Sophia_(15468276434).jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hagia_Sophia_%2815468276434%29.jpg/250px-Hagia_Sophia_%2815468276434%29.jpg
+    width: 4608
+    height: 3456
+    caption: Columns of the Hagia Sophia, currently a mosque
+  - file: Constantinople_imperial_district.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Constantinople_imperial_district.png/250px-Constantinople_imperial_district.png
+    width: 717
+    height: 812
+    caption: Constantinople's monumental center
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Byzantine_Constantinople-en.png/330px-Byzantine_Constantinople-en.png
+    caption: Map of Constantinople in the Byzantine period, corresponding to the
+      modern-day Fatih and Beyoğlu districts of Istanbul
+  type: Imperial city
+  periods: Late antiquity to 15th century
+  cultures:
+    - Greek
+    - Latin
+    - Byzantine
+  location: Fatih and Beyoğlu, Istanbul, Turkey
+  region: Marmara Region
+  part-of:
+    - Roman Empire
+    - Byzantine Empire
+    - Latin Empire
+  history:
+    built: 11 May 330
+    built-by: Constantine the Great
+    events: Sieges of Constantinople, including fall of the city (1204 and 1453)
+  site-notes:
+    area: 6 km2 (2.3 sq mi) enclosed within Constantinian Walls 14 km2 (5.4 sq mi)
+      enclosed within Theodosian Walls
+  unesco-world-heritage-site:
+    official-name: Historic Areas of Istanbul
+    type: Cultural
+    criteria: (i), (ii), (iii), (iv)
+    designated: 1985 (9th session)
+    reference-no: 356bis
+    extension: "2017"
+    area: 765.5 ha
+    unesco-region: Europe and North America
+sections:
+  - level: 2
+    id: names
+    title: Names
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: foundation-of-byzantium
+    title: Foundation of Byzantium
+  - level: 3
+    id: 324337-the-refoundation-as-constantinople
+    title: "324–337: The refoundation as Constantinople"
+  - level: 3
+    id: 337529-constantinople-during-the-barbarian-invasions-and-the-fall-of-the-west
+    title: "337–529: Constantinople during the Barbarian Invasions and the fall of
+      the West"
+  - level: 3
+    id: 527565-constantinople-in-the-age-of-justinian
+    title: "527–565: Constantinople in the Age of Justinian"
+  - level: 3
+    id: survival-565717-constantinople-during-the-byzantine-dark-ages
+    title: "Survival, 565–717: Constantinople during the Byzantine Dark Ages"
+  - level: 3
+    id: 7171025-constantinople-during-the-macedonian-renaissance
+    title: "717–1025: Constantinople during the Macedonian Renaissance"
+  - level: 4
+    id: iconoclast-controversy-in-constantinople
+    title: Iconoclast controversy in Constantinople
+  - level: 3
+    id: 10251081-constantinople-after-basil-ii
+    title: "1025–1081: Constantinople after Basil II"
+  - level: 3
+    id: 10811185-constantinople-under-the-komneni
+    title: "1081–1185: Constantinople under the Komneni"
+  - level: 3
+    id: 11851261-constantinople-during-the-imperial-exile
+    title: "1185–1261: Constantinople during the Imperial Exile"
+  - level: 3
+    id: 12611453-palaiologan-era-and-the-fall-of-constantinople
+    title: "1261–1453: Palaiologan Era and the Fall of Constantinople"
+  - level: 2
+    id: culture
+    title: Culture
+  - level: 3
+    id: markets
+    title: Markets
+  - level: 3
+    id: architecture-and-coinage
+    title: Architecture and coinage
+  - level: 3
+    id: religion
+    title: Religion
+  - level: 3
+    id: education
+    title: Education
+  - level: 2
+    id: international-status
+    title: International status
+wikidata:
+  id: Q16869
+  label: Constantinople
+  description: capital of the Eastern Roman, Latin and Ottoman Empires,
+    currently Istanbul, Turkey
+  claims:
+    capital-of:
+      - value: Byzantine Empire
+        from: "395"
+        to: "1204"
+      - value: Latin Empire
+        from: "1204"
+        to: "1261"
+      - value: Roman Empire
+        from: "330"
+        to: "395"
+      - value: Byzantine Empire
+        from: "1261"
+        to: "1453"
+      - value: Ottoman Empire
+        from: "1453"
+        to: "1922"
+    instance-of:
+      - city
+      - administrative territorial entity
+      - ancient city
+    named-after: Constantine the Great
+    commons-category: Constantinople
+    continent:
+      - Europe
+      - Asia
+    followed-by:
+      value: Istanbul
+      from: 1930-03-28
+    topic-s-main-category: Category:Constantinople
+    country:
+      value: Turkey
+      from: 1923-10-29
+    category-for-people-born-here: Category:Births in Istanbul
+    follows: Byzantium
+    category-of-associated-people: Category:People from Constantinople
+    category-for-people-who-died-here: Category:Deaths in Constantinople
+    said-to-be-the-same-as: Q2008228
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Byzantine_Constantinople-en.png
+    described-by-source:
+      - Sytin Military Encyclopedia
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+      - Jewish Encyclopedia of Brockhaus and Efron
+      - Pauly–Wissowa
+      - The Nuttall Encyclopædia
+      - Encyclopædia Britannica 11th edition
+      - Meyer’s Universum, Vierter Band
+    category-for-people-buried-here: Category:Burials in Istanbul by place
+    wordlift-url: http://data.thenextweb.com/tnw/entity/constantinople
+    significant-event:
+      - Fall of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+      - Siege of Constantinople
+    category-for-maps-or-plans: Category:Maps of Constantinople
+    official-name:
+      - value: Βυζάντιον
+        from: 657 BC
+        to: 0330-05-11
+      - value: Константинопол
+        from: 0330-05-11
+        to: 1453-05-29
+      - value: Цариград
+        from: 1453-05-29
+        to: 1923-10-23
+      - value: Истанбул
+        from: 1923-10-23
+      - value: Стамбул
+        from: 1923-10-23
+    replaces:
+      value: Byzantium
+      from: 0330-05-11
+    native-label: Κωνσταντινούπολις
+    partially-coincident-with: Istanbul
+    replaced-by:
+      value: Istanbul
+      when: 1453-05-29
+    inception: "330"
+    dissolved-abolished-or-demolished: "1922"
+    coordinate-location:
+      lat: 41.01224
+      lon: 28.976018
+link-titles:
+  achaemenid-empire: Achaemenid Empire
+  alexios-i-komnenos: Alexios I Komnenos
+  alexios-iii-angelos: Alexios III Angelos
+  alexios-iv-angelos: Alexios IV Angelos
+  alexios-strategopoulos: Alexios Strategopoulos
+  alexios-v-doukas: Alexios V Doukas
+  alice-mary-talbot: Alice-Mary Talbot
+  alp-arslan: Alp Arslan
+  anastasian-wall: Anastasian Wall
+  anatolia: Anatolia
+  ancient-corinth: Ancient Corinth
+  ancient-greek-language: Ancient Greek language
+  ancient-rome: Ancient Rome
+  angelos-dynasty: Angelos dynasty
+  anglo-saxons: Anglo-Saxons
+  anthemius-of-tralles: Anthemius of Tralles
+  antioch: Antioch
+  aphrodite: Aphrodite
+  aqueduct-of-valens: Aqueduct of Valens
+  arabic-language: Arabic language
+  arcadius: Arcadius
+  armenian-language: Armenian language
+  asia: Asia
+  askold-and-dir: Askold and Dir
+  athena-promachos: Athena Promachos
+  athens: Athens
+  augustaion: Augustaion
+  avars-carpathians: Avars (Carpathians)
+  baldwin-ii-of-constantinople: Baldwin II of Constantinople
+  balkans: Balkans
+  barbarian: Barbarian
+  basil-ii: Basil II
+  basiliscus: Basiliscus
+  bath-house: Bath House
+  baths-of-zeuxippus: Baths of Zeuxippus
+  battle-of-adrianople: Battle of Adrianople
+  battle-of-manzikert: Battle of Manzikert
+  belisarius: Belisarius
+  bezant: Bezant
+  bithynia: Bithynia
+  blachernae: Blachernae
+  black-death: Black Death
+  black-sea: Black Sea
+  boniface-i-of-montferrat: Boniface I of Montferrat
+  book-of-the-eparch: Book of the Eparch
+  boom-navigational-barrier: Boom (navigational barrier)
+  bosporus: Bosporus
+  bulgaria: Bulgaria
+  bulgars: Bulgars
+  byzantine-empire: Byzantine Empire
+  byzantine-iconoclasm: Byzantine Iconoclasm
+  byzantine-art: Byzantine art
+  byzantine-navy: Byzantine navy
+  byzantion: Byzantion
+  byzantium: Byzantium
+  caernarfon-castle: Caernarfon Castle
+  caracalla: Caracalla
+  carthage: Carthage
+  cassius-dio: Cassius Dio
+  chalcedon: Chalcedon
+  chalcedonians: Chalcedonians
+  chalke: Chalke
+  chariot-racing: Chariot racing
+  chora-church: Chora Church
+  chrysopolis-bithynia: Chrysopolis (Bithynia)
+  church-of-st-polyeuctus: Church of St Polyeuctus
+  church-of-st.-mary-of-blachernae-istanbul: Church of St. Mary of Blachernae (Istanbul)
+  church-of-the-holy-apostles: Church of the Holy Apostles
+  church-of-the-holy-sepulchre: Church of the Holy Sepulchre
+  clarissimus: Clarissimus
+  classical-antiquity: Classical antiquity
+  coin: Coin
+  column-of-constantine: Column of Constantine
+  constantine-i: Constantine I
+  constantine-i-and-christianity: Constantine I and Christianity
+  constantine-stilbes: Constantine Stilbes
+  constantine-v: Constantine V
+  constantine-the-great: Constantine the Great
+  council-of-hieria: Council of Hieria
+  cristoforo-buondelmonti: Cristoforo Buondelmonti
+  danube: Danube
+  danube-river: Danube river
+  daphne-palace: Daphne Palace
+  darius-i: Darius I
+  despotate-of-epirus: Despotate of Epirus
+  diocese-of-asia: Diocese of Asia
+  diocese-of-pontus: Diocese of Pontus
+  diocletian: Diocletian
+  early-muslim-conquests: Early Muslim conquests
+  east-west-schism: East-West Schism
+  eastern-orthodox-church: Eastern Orthodox Church
+  eastern-orthodoxy: Eastern Orthodoxy
+  eastern-roman-empire: Eastern Roman Empire
+  ecumenical-patriarch-of-constantinople: Ecumenical Patriarch of Constantinople
+  ecumenical-patriarchate-of-constantinople: Ecumenical Patriarchate of Constantinople
+  edirnekapı-fatih: Edirnekapı, Fatih
+  egypt: Egypt
+  emperor-leo-vi: Emperor Leo VI
+  empire-of-nicaea: Empire of Nicaea
+  empire-of-trebizond: Empire of Trebizond
+  enrico-dandolo: Enrico Dandolo
+  entry-of-the-crusaders-in-constantinople: Entry of the Crusaders in Constantinople
+  eugène-delacroix: Eugène Delacroix
+  euphrates: Euphrates
+  europe: Europe
+  exarch: Exarch
+  fall-of-constantinople: Fall of Constantinople
+  fausto-zonaro: Fausto Zonaro
+  first-crusade: First Crusade
+  forum-bovis: Forum Bovis
+  forum-tauri: Forum Tauri
+  forum-of-constantine: Forum of Constantine
+  fourth-crusade: Fourth Crusade
+  galata: Galata
+  gennadios-scholarios: Gennadios Scholarios
+  geographical-name-changes-in-turkey: Geographical name changes in Turkey
+  golden-gate-constantinople: Golden Gate (Constantinople)
+  golden-horn: Golden Horn
+  great-palace-of-constantinople: Great Palace of Constantinople
+  greek-colonies: Greek colonies
+  greek-fire: Greek fire
+  greek-language: Greek language
+  hagia-irene: Hagia Irene
+  hagia-sophia: Hagia Sophia
+  hebdomon: Hebdomon
+  helios: Helios
+  heraclius: Heraclius
+  herods-temple: Herod's Temple
+  hesychius-of-miletus: Hesychius of Miletus
+  hippodrome-of-constantinople: Hippodrome of Constantinople
+  huns: Huns
+  ibn-batutta: Ibn Batutta
+  iconostasis: Iconostasis
+  imperial-library-of-constantinople: Imperial Library of Constantinople
+  irene-empress: Irene (empress)
+  isaac-ii-angelos: Isaac II Angelos
+  isidore-of-miletus: Isidore of Miletus
+  istanbul: Istanbul
+  italian-coin-florin: Italian coin florin
+  jerusalem: Jerusalem
+  jerusalem-in-christianity: Jerusalem in Christianity
+  jesus: Jesus
+  jesus-christ: Jesus Christ
+  john-ii-komnenos: John II Komnenos
+  john-iii-vatatzes: John III Vatatzes
+  justinian: Justinian
+  justinian-i: Justinian I
+  kipchaks: Kipchaks
+  kyiv: Kyiv
+  latin-empire: Latin Empire
+  leo-iii-the-isaurian: Leo III the Isaurian
+  leo-iv-the-khazar: Leo IV the Khazar
+  list-of-european-cities-by-population-within-city-limits: List of European cities by population within city limits
+  literal-translation: Literal translation
+  lysippos: Lysippos
+  manuel-i-komnenos: Manuel I Komnenos
+  mary-mother-of-jesus: Mary, Mother of Jesus
+  massacre-of-the-latins: Massacre of the Latins
+  medieval-greek-language: Medieval Greek language
+  medieval-period: Medieval period
+  mediterranean: Mediterranean
+  megara: Megara
+  mehmed-ii: Mehmed II
+  mehmed-the-conqueror: Mehmed the Conqueror
+  mese-constantinople: Mese (Constantinople)
+  michael-iii: Michael III
+  michael-vii: Michael VII
+  michael-viii-palaiologos: Michael VIII Palaiologos
+  middle-east: Middle East
+  milion: Milion
+  morea: Morea
+  mosaic: Mosaic
+  muawiya-i: Mu'awiya I
+  new-book-of-tang: New Book of Tang
+  new-rome: New Rome
+  nicaean-empire: Nicaean Empire
+  nika-riots: Nika riots
+  niketas-oryphas: Niketas Oryphas
+  non-chalcedonians: Non-Chalcedonians
+  norman-conquest-of-england: Norman conquest of England
+  north-africa: North Africa
+  nymph: Nymph
+  old-book-of-tang: Old Book of Tang
+  ottoman-empire: Ottoman Empire
+  ottoman-turks: Ottoman Turks
+  outremer: Outremer
+  palace-of-blachernae: Palace of Blachernae
+  palaiologan-dynasty: Palaiologan dynasty
+  pammakaristos-church: Pammakaristos Church
+  pausanias-general: Pausanias (general)
+  pax-romana: Pax Romana
+  pechenegs: Pechenegs
+  peloponnese: Peloponnese
+  peninsula: Peninsula
+  pera-beyoğlu: Pera (Beyoğlu)
+  persia: Persia
+  pescennius-niger: Pescennius Niger
+  phidias: Phidias
+  philip-of-swabia: Philip of Swabia
+  piroska-of-hungary: Piroska of Hungary
+  plague-of-justinian: Plague of Justinian
+  pontoon-bridge: Pontoon bridge
+  poseidon: Poseidon
+  praetorian-prefecture-of-the-east: Praetorian prefecture of the East
+  praetorium: Praetorium
+  praetors: Praetors
+  princes-islands: Princes' Islands
+  proconsul: Proconsul
+  procopius: Procopius
+  protovestiarius: Protovestiarius
+  quaestors: Quaestors
+  ravenna: Ravenna
+  reconquest-of-constantinople: Reconquest of Constantinople
+  roman-catholic: Roman Catholic
+  roman-catholic-church: Roman Catholic Church
+  roman-empire: Roman Empire
+  roman-emperor: Roman emperor
+  roman-mile: Roman mile
+  romanization-of-ancient-greek: Romanization of Ancient Greek
+  romanization-of-greek: Romanization of Greek
+  romanos-iv: Romanos IV
+  rouphinianai: Rouphinianai
+  rusbyzantine-war-860: Rus'–Byzantine War (860)
+  ruy-gonzález-de-clavijo: Ruy González de Clavijo
+  sancaktar-hayrettin-mosque: Sancaktar Hayrettin Mosque
+  sassanid: Sassanid
+  sea-of-marmara: Sea of Marmara
+  second-council-of-nicaea: Second Council of Nicaea
+  second-persian-invasion-of-greece: Second Persian invasion of Greece
+  septimius-severus: Septimius Severus
+  severan-dynasty: Severan dynasty
+  siege-of-constantinople-626: Siege of Constantinople (626)
+  siege-of-constantinople-674-678: Siege of Constantinople (674-678)
+  siege-of-constantinople-674678: Siege of Constantinople (674–678)
+  siege-of-constantinople-717718: Siege of Constantinople (717–718)
+  siege-of-jerusalem-70: Siege of Jerusalem (70)
+  sino-roman-relations: Sino-Roman relations
+  sir-steven-runciman: Sir Steven Runciman
+  solidus: Solidus
+  solomons-temple: Solomon's Temple
+  sparta: Sparta
+  st-marks-basilica: St Mark's Basilica
+  stephen-of-novgorod: Stephen of Novgorod
+  studion: Studion
+  tervel-of-bulgaria: Tervel of Bulgaria
+  theodora-9th-century: Theodora (9th century)
+  theodore-i-laskaris: Theodore I Laskaris
+  theodosian-walls: Theodosian Walls
+  theodosius-i: Theodosius I
+  theodosius-ii: Theodosius II
+  theophilos-emperor: Theophilos (emperor)
+  theopompus: Theopompus
+  thrace: Thrace
+  topkapı-palace: Topkapı Palace
+  tribunes: Tribunes
+  tribute: Tribute
+  turkish-straits: Turkish Straits
+  turkish-language: Turkish language
+  turkmen-people: Turkmen people
+  twenty-four-histories: Twenty-Four Histories
+  uldin: Uldin
+  umayyad-caliphate: Umayyad Caliphate
+  university-of-constantinople: University of Constantinople
+  urban-prefect: Urban prefect
+  valens: Valens
+  vandals: Vandals
+  varangian: Varangian
+  varangian-guard: Varangian Guard
+  venice: Venice
+  visigoths: Visigoths
+  vladimir-i-of-kiev: Vladimir I of Kiev
+  wall-of-constantine-constantinople: Wall of Constantine (Constantinople)
+  walls-of-constantinople: Walls of Constantinople
+  water-clock: Water clock
+  western-roman-empire: Western Roman Empire
+  xenophon: Xenophon
+  year-of-the-five-emperors: Year of the Five Emperors
+  zeno-emperor: Zeno (emperor)
+source:
+  site: Wikipedia
+  lang: en
+  title: Constantinople
+  url: https://en.wikipedia.org/wiki/Constantinople
+  page-id: 5646
+  revision: "1373229577"
+  modified: 2026-09-04T18:46:30Z
+  retrieved: 2026-09-09
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article
+    "Constantinople" (revision 1373229577), by Wikipedia contributors, used
+    under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/constantinople.mdy
+  source-digest: a4334f9bfbf43ed4
+  source-revision: "1373229577"
+  model: claude-opus-5
+  left-out: "The History heading has no prose of its own in the source — it goes
+    straight to Foundation of Byzantium — so its body is empty and it carries
+    a figure instead. Four images in the source appear only inside gallery
+    lists and are not in the file list I was given (two commemorative coins of
+    Constantine, the 12th-century Comnenus mosaic, and the exterior of the
+    Pammakaristos Church), so they are not in the image plan. The three
+    Pammakaristos images that are in the list are marked drop: the church is
+    named nowhere in the article's prose, only in its captions. The
+    iconoclast-art photograph of Hagia Irene sits under the 324–337 heading in
+    the source; I have put it in the iconoclast section, which is what its
+    caption is about. Two sentences in the source are quoted with unbalanced
+    quotation marks — the Hesychius oracle and Talbot on the destroyed
+    masterpieces — and I have carried the words as they stand rather than
+    guessing where the marks should close."
+  verified: true
+  verdict: clean
+  reviewed: false
++++
+!!Constantinople!![[ ^a ]] was besieged on numerous occasions by various armies, and for nearly nine hundred years its defenses proved impenetrable. It was the capital of the [[ Roman | roman-empire ]] and [[ Byzantine Empire ]] from 330 until its takeover by the [[ Ottoman Empire ]] in 1453, after which it was changed to [[ Istanbul ]]. It was located on a peninsula at the southeastern tip of [[ Thrace ]] in [[ Europe ]], with the [[ Bosporus ]] strait and the ancient cities of [[ Chalcedon ]] and [[ Chrysopolis | chrysopolis-bithynia ]] in [[ Bithynia ]], [[ Anatolia ]] (Asia Minor) to the east; the [[ Golden Horn ]] and the citadel of [[ Galata ]] ([[ Pera | pera-beyoğlu ]]) to the north; the [[ Sea of Marmara ]] to the south; and the [[ Princes' Islands ]] to the southeast.
+
+[[ Constantine the Great ]] founded the city in 324 on the site of the existing city of [[ Byzantium ]], initially as [[ New Rome ]]. In 330 it became the new capital of the Roman Empire, and it went on being the capital after the empire was divided into an Eastern and Western half and after the [[ Western Roman Empire ]] ended in the 5th century. The ascendancy of Constantinople marks the empire's "Byzantine" era. It was constructed intentionally to rival [[ Rome | ancient-rome ]], and it was claimed that several elevations within its walls matched Rome's seven hills.[[ ^9 ]]
+
+From the mid-5th century to the early 13th century, Constantinople was the largest and wealthiest city in Europe.[[ ^6 ]] It became famous for [[ Hagia Sophia ]], the cathedral of the [[ Eastern Orthodox Church ]], which served as the seat of the [[ Ecumenical Patriarchate | ecumenical-patriarchate-of-constantinople ]]; the [[ Imperial Palace | great-palace-of-constantinople ]] of the emperors; the [[ Hippodrome | hippodrome-of-constantinople ]]; the [[ Golden Gate | golden-gate-constantinople ]] of the Land Walls; and opulent aristocratic palaces. The [[ University of Constantinople ]] was founded in the 5th century and included a vast [[ Imperial Library | imperial-library-of-constantinople ]], which contained more than 100,000 volumes.[[ ^7 ]]
+
+What kept all of it standing was fortification that ranked among the most sophisticated defensive architecture of [[ antiquity | classical-antiquity ]]: the [[ Theodosian Walls ]] were a double wall lying about 2 kilometres (1.2 mi) to the west of the first wall, with a moat and palisades in front.[[ ^8 ]] The position between the [[ Golden Horn ]] and the [[ Sea of Marmara ]] reduced the land area that required defensive walls at all. The impenetrable defenses enclosed magnificent palaces, domes, and towers, the result of the prosperity Constantinople achieved as the gateway between two continents (Europe and Asia) and two seas (the Mediterranean and the Black Sea).
+
+Then in 1204, during the [[ Fourth Crusade ]], the city was sacked by the Latin Crusaders and became the capital of the short-lived [[ Latin Empire ]] (1204–1261), until the Byzantine [[ Empire of Nicaea ]] recaptured it in 1261. Under the following [[ Palaiologan dynasty ]] it enjoyed a partial recovery. With the advent of the Ottoman Empire in 1299 the empire's territories dwindled and the city began to lose population; by the early 15th century the empire was reduced to Constantinople and its environs, along with the territories of the despotate of [[ Morea ]], in [[ Peloponnese ]], Greece, making it an enclave inside the Ottoman Empire. The city was finally [[ besieged and conquered | fall-of-constantinople ]] by the Ottoman Empire in 1453. Now known internationally under its modern Turkish name Istanbul, it has become the [[ most populous city in Europe | list-of-european-cities-by-population-within-city-limits ]], with a population of more than 16 million residents,[[ ^10 ]] and the economic and financial centre of Turkey, straddling the [[ Bosporus ]] strait and lying in both Europe and Asia.
+
+== Names
+
+One of this city's names, by the look of the record, was forgotten almost as soon as it was imposed. Before Constantine I, the city was known as //Byzantium// (Greek //Byzantion//), the name associated with its original foundation as a Greek colony in the 7th century BC. It was briefly renamed //Augusta Antonina// in the early 3rd century AD by the Emperor [[ Septimius Severus ]] (193–211), who had razed it to the ground during the [[ civil war | year-of-the-five-emperors ]] of 196 AD, and then had it rebuilt in honour of his son Marcus Aurelius Antoninus, the future Emperor [[ Caracalla ]].[[ ^11 ]][[ ^12 ]] The name appears to have been quickly forgotten and abandoned, and the city reverted to Byzantium after either the assassination of Caracalla in 217 or, at the latest, the fall of the [[ Severan dynasty ]] in 235.
+
+Constantine's own choice did not last either. When he transferred the capital of the empire to his newly refounded city in 330, he initially designated it "New Rome" (//Nova Roma//, Νέα Ῥώμη), and during this time it was also called 'Second Rome', 'Eastern Rome', and //Roma Constantinopolitana// ('Constantinopolitan Rome').[[ ^13 ]] It soon became more widely known instead as Constantinople (Greek: Κωνσταντινούπολις, [[ romanized | romanization-of-greek ]]: //Kōnstantinoupolis//, [[ lit. | literal-translation ]] 'city of Constantine') in honour of its founder.
+
+As the city became the sole remaining capital of the Roman Empire after the fall of the West, and its wealth, population and influence grew, it came to have a multitude of by-names, such as //Basileuousa// (Queen of Cities) and //Megalopolis// (the Great City). In colloquial speech it was commonly referred to as just //i Polis// (ἡ Πόλις) 'the City' by Constantinopolitans and provincial Byzantines alike.[[ ^14 ]]
+
+That habit of calling it simply the City is where the modern Turkish name came from. //Istanbul// is derived from the Greek phrase //eis tin Polin// (εἰς τὴν Πόλιν, or in its spoken form in Medieval Greek: //stin Poli(n)// στην Πόλι(ν)), both meaning 'in the City'.[[ ^15 ]] Variants of this name are first attested in languages such as [[ Armenian | armenian-language ]] and [[ Arabic | arabic-language ]] from the 10th century, before the name was adopted also by the [[ Ottoman Turks ]].
+
+During the Ottoman era, the city was referred to either as //Istanbul// or, in more elevated registers, as //Kostantiniyye// (قسطنطينيه), originally an Arabic calque of "Constantinople" meaning "city of Constantine". At some times during the Ottoman era, an adaptation of "Istanbul" as "Islambol" (meaning "full of Islam") was also common.[[ ^12 ]] Western languages mostly continued to refer to the city as Constantinople until the early 20th century. After 1930, the government of modern Turkey began to urge other countries to use [[ Turkish names for Turkish cities | geographical-name-changes-in-turkey ]], and the city came to be known as Istanbul and its variations in most world languages.[[ ^16 ]][[ ^17 ]][[ ^18 ]][[ ^19 ]]
+
+== History
+
+
+
+== Foundation of Byzantium
+
+Constantinople was founded by the Roman emperor [[ Constantine I ]] (272–337) in 324[[ ^20 ]] on the site of an already-existing city, [[ Byzantium ]], which was settled in the early days of [[ Greek colonial expansion | greek-colonies ]], around 657 BC, by colonists of the city-state of [[ Megara ]]. That is the first major settlement to develop on the site of later Constantinople, but not the first known one: //Lygos//, referred to in Pliny's Natural Histories, came before it,[[ ^21 ]] and apart from the name little is known about it. The site, according to the founding myth of the city, was abandoned by the time Greek settlers from Megara founded Byzantium (Ancient Greek: Βυζάντιον, [[ romanized | romanization-of-ancient-greek ]]: //Byzántion//) in around 657 BC,[[ ^12 ]] across from the town of Chalcedon on the Asiatic side of the Bosphorus.
+
+[[ Hesychius of Miletus ]] wrote that some "claim that people from Megara, who derived their descent from Nisos, sailed to this place under their leader Byzas, and invented the fable that his name was attached to the city." Some versions of the founding myth say Byzas was the son of a local [[ nymph ]], while others say he was conceived by one of Zeus' daughters and [[ Poseidon ]]. Hesychius also gives alternate versions of the city's founding legend, which he attributed to old poets and writers:[[ ^22 ]]
+
+<blockquote
+  It is said that the first Argives, after having received this prophecy from
+  Pythia, Blessed are those who will inhabit that holy city, a narrow strip of
+  the Thracian shore at the mouth of the Pontos, where two pups drink of the
+  gray sea, where fish and stag graze on the same pasture, set up their
+  dwellings at the place where the rivers Kydaros and Barbyses have their
+  estuaries, one flowing from the north, the other from the west, and merging
+  with the sea at the altar of the nymph called Semestre
+
+The city maintained independence as a city-state until it was annexed by [[ Darius I ]] in 512 BC into the [[ Persian Empire | achaemenid-empire ]]: he considered the site the optimal location to construct a [[ pontoon bridge ]] crossing into Europe, given that Byzantium was situated at the narrowest point in the Bosphorus strait. Persian rule lasted until 478 BC, when, as part of the Greek counterattack to the [[ Second Persian invasion of Greece ]], a Greek army led by the Spartan general [[ Pausanias | pausanias-general ]] captured the city, which remained an independent, yet subordinate, city under the Athenians, and later to the Spartans after 411 BC.[[ ^23 ]] A farsighted treaty with the emergent power of Rome in c. 150 BC, which stipulated tribute in exchange for independent status, allowed it to enter Roman rule unscathed.[[ ^24 ]] The treaty paid dividends retrospectively: Byzantium maintained that independent status and prospered under the peace and stability of the [[ Pax Romana ]] for nearly three centuries, until the late 2nd century AD.[[ ^25 ]]
+
+Byzantium was never a major influential city-state like [[ Athens ]], [[ Corinth | ancient-corinth ]], or [[ Sparta ]]; what it had instead was position, and with it relative peace and steady growth as a prosperous trading city. The site lay astride the land route from [[ Europe ]] to [[ Asia ]] and the [[ seaway | turkish-straits ]] from the [[ Black Sea ]] to the [[ Mediterranean ]], and had in the [[ Golden Horn ]] an excellent and spacious harbor; already in Greek and early Roman times the city was famous for a geography that made it difficult to besiege and capture, and too valuable to abandon. Emperor [[ Septimius Severus ]] later realized as much when he razed the city to the ground for supporting [[ Pescennius Niger ]]'s [[ claimancy | year-of-the-five-emperors ]].[[ ^26 ]] It was a move greatly criticized by the contemporary consul and historian [[ Cassius Dio ]], who stated that Severus had destroyed "a strong Roman outpost and a base of operations against the barbarians from Pontus and Asia."[[ ^27 ]] Severus rebuilt Byzantium towards the end of his reign, briefly renaming it //Augusta Antonina// and fortifying it with a new city wall in his name, the Severan Wall.
+
+== 324–337: The refoundation as Constantinople
+
+Constantine had altogether more colorful plans. Having restored the unity of the Empire and, being in the course of major governmental reforms as well as of [[ sponsoring the consolidation of the Christian church | constantine-i-and-christianity ]], he was well aware that Rome was an unsatisfactory capital. Rome was too far from the frontiers, and hence from the armies and the imperial courts, and it offered an undesirable playground for disaffected politicians. Yet it had been the capital of the state for over a thousand years, and it might have seemed unthinkable to suggest that the capital be moved to a different location. Nevertheless, Constantine identified the site of Byzantium as the right place: a place where an emperor could sit, readily defended, with easy access to the [[ Danube ]] or the [[ Euphrates ]] frontiers, his court supplied from the rich gardens and sophisticated workshops of Roman Asia, his treasuries filled by the wealthiest provinces of the Empire.[[ ^28 ]]
+
+Constantinople was built over six years and ceremonially consecrated on 11 May 330.[[ ^20 ]][[ ^29 ]] Constantine divided the expanded city, like Rome, into 14 regions, and ornamented it with public works worthy of an imperial metropolis.[[ ^30 ]] Yet at first Constantine's new Rome did not have all the dignities of the old one. It possessed a [[ proconsul ]] rather than an [[ urban prefect ]]. It had no [[ praetors ]], [[ tribunes ]], or [[ quaestors ]]. Although it did have senators, they held the title //clarus//, not //[[ clarissimus ]]//, like those of Rome. It also lacked the panoply of other administrative offices regulating the food supply, police, statues, temples, sewers, aqueducts, or other public works.
+
+The new program of building was carried out in great haste: columns, marbles, doors, and tiles were taken wholesale from the temples of the empire and moved to the new city, and many of the greatest works of Greek and Roman art were soon to be seen in its squares and streets. The emperor stimulated private building by promising householders gifts of land from the imperial estates in [[ Asiana | diocese-of-asia ]] and [[ Pontica | diocese-of-pontus ]] and, on 18 May 332, he announced that, as in Rome, free distributions of food would be made to the citizens. At the time, the amount is said to have been 80,000 rations a day, doled out from 117 distribution points around the city.[[ ^31 ]]
+
+Constantine laid out a new square at the center of old Byzantium, naming it the [[ Augustaion ]] (Greek: Augustaeum). The new senate-house (or Curia) was housed in a basilica on the east side. On the south side of the great square was erected the [[ Great Palace | great-palace-of-constantinople ]] of the Emperor with its imposing entrance, the [[ Chalke ]], and its ceremonial suite known as the [[ Palace of Daphne | daphne-palace ]]. Nearby was the vast [[ Hippodrome | hippodrome-of-constantinople ]] for [[ chariot races | chariot-racing ]], seating over 80,000 spectators, and the famed [[ Baths of Zeuxippus ]]. At the western entrance to the Augustaion was the [[ Milion ]], a vaulted monument from which distances were measured across the Eastern Roman Empire.
+
+From the Augustaion led a great street, the [[ Mese | mese-constantinople ]], lined with colonnades. As it descended the First Hill of the city and climbed the Second Hill, it passed on the left the [[ Praetorium ]] or law-court. Then it passed through the oval [[ Forum of Constantine ]], where there was a second Senate-house and a [[ high column | column-of-constantine ]] with a statue of Constantine himself in the guise of [[ Helios ]], crowned with a halo of seven rays and looking toward the rising sun. From there the Mese passed on through the [[ Forum Tauri ]] and then the [[ Forum Bovis ]], and finally up the Seventh Hill (or Xerolophus) and through to the Golden Gate in the [[ Constantinian Wall | wall-of-constantine-constantinople ]]. After the construction of the [[ Theodosian Walls ]] in the early 5th century, it was extended to the new [[ Golden Gate | golden-gate-constantinople ]], reaching a total length of seven [[ Roman miles | roman-mile ]].[[ ^32 ]] Those same walls brought Constantinople to an area approximately the size of Old Rome within the Aurelian walls, or some 1,400 ha.[[ ^33 ]]
+
+== 337–529: Constantinople during the Barbarian Invasions and the fall of the West
+
+For decades after Constantine died, his capital was a place its emperors mostly did not live in. The importance of Constantinople increased, but it was gradual: from the death of Constantine in 337 to the accession of [[ Theodosius I ]], emperors had been resident only in the years 337–338, 347–351, 358–361, 368–369. Its status as a capital was recognized by the appointment of the first known Urban Prefect of the City, Honoratus, who held office from 11 December 359 until 361. The urban prefects had concurrent jurisdiction over three provinces each in the adjacent dioceses of Thrace (in which the city was located), Pontus, and Asia, comparable to the 100-mile extraordinary jurisdiction of the prefect of Rome.
+
+Even the emperor [[ Valens ]], who hated the city and spent only one year there, built in it: the Palace of [[ Hebdomon ]] on the shore of the [[ Propontis | sea-of-marmara ]] near the [[ Golden Gate | golden-gate-constantinople ]], probably for use when reviewing troops. All the emperors up to [[ Zeno | zeno-emperor ]] and [[ Basiliscus ]] were crowned and acclaimed at the Hebdomon. Theodosius I founded the [[ Church of John the Baptist | studion ]] to house the skull of the saint (today preserved at the [[ Topkapı Palace ]]), put up a memorial pillar to himself in the Forum of Taurus, and turned the ruined temple of [[ Aphrodite ]] into a coach house for the [[ Praetorian Prefect | praetorian-prefecture-of-the-east ]]; [[ Arcadius ]] constructed a new forum named after himself on the Mese, near the walls of Constantine.
+
+Then came the shock of the [[ Battle of Adrianople ]] in 378, in which Valens and the flower of the Roman armies were destroyed by the [[ Visigoths ]] within a few days' march. Constantinople looked to its defences, and in 413–414 [[ Theodosius II ]] built the 18-metre (60-foot)-tall [[ triple-wall fortifications | walls-of-constantinople ]], which were not to be breached until the coming of gunpowder. Theodosius also founded a [[ University | university-of-constantinople ]] near the Forum of Taurus on 27 February 425.
+
+[[ Uldin ]], a prince of the [[ Huns ]], appeared on the Danube about this time and advanced into Thrace, but he was deserted by many of his followers, who joined with the Romans in driving their king back north of the river. Subsequently, several new walls were erected to defend the city, and the fleet on the Danube was improved.
+
+After the [[ barbarians | barbarian ]] overran the Western Roman Empire, Constantinople became the indisputable capital city of the Roman Empire. Emperors were no longer peripatetic between various court capitals and palaces; they remained in their palace in the Great City and sent generals to command their armies. The wealth of the eastern Mediterranean and western Asia flowed into Constantinople.
+
+== 527–565: Constantinople in the Age of Justinian
+
+The Emperor [[ Justinian I ]] (527–565) was greatly respected for his successes in war, for his legal reforms and for his public works. It was from Constantinople that his expedition for the reconquest of the former Diocese of Africa set sail on or about 21 June 533. Before their departure, the ship of the commander [[ Belisarius ]] was anchored in front of the Imperial palace, and the Patriarch offered prayers for the success of the enterprise. After the victory, in 534, the [[ Temple treasure of Jerusalem | herods-temple ]], looted by the Romans in [[ AD 70 | siege-of-jerusalem-70 ]] and taken to [[ Carthage ]] by the [[ Vandals ]] after their sack of Rome in 455, was brought to Constantinople and deposited for a time, perhaps in the [[ Church of St Polyeuctus ]], before being returned to [[ Jerusalem | jerusalem-in-christianity ]] in either the [[ Church of the Resurrection | church-of-the-holy-sepulchre ]] or the New Church.[[ ^35 ]]
+
+Chariot racing had had significant importance in Rome for many centuries. In Constantinople, the hippodrome became over time increasingly a place of political significance. It was where — as a shadow of the popular elections of old Rome — the people by acclamation showed their approval of a new emperor, and also where they openly criticized the government, or clamored for the removal of unpopular ministers. It played a crucial role during the riots and in times of political unrest. The Hippodrome provided a space for a crowd to be responded to positively or where the acclamations of a crowd were subverted, resorting to the riots that would ensue in the coming years.[[ ^36 ]] In the time of Justinian's reign, public order in Constantinople became a critical political issue.
+
+Throughout the late Roman and early Byzantine periods, Christianity was resolving fundamental questions of identity, and the dispute between the [[ Chalcedonians ]] and the [[ non-Chalcedonians ]] became the cause of serious disorder, expressed through allegiance to the chariot-racing parties of the Blues and the Greens. The partisans of the Blues and the Greens were said[[ ^37 ]] to affect untrimmed facial hair, head hair shaved at the front and grown long at the back, and wide-sleeved tunics tight at the wrist; and to form gangs to engage in night-time muggings and street violence. At last, these disorders took the form of a major rebellion of 532, known as the [[ "Nika" riots ]] (from the battle-cry of "Conquer!" of those involved).[[ ^38 ]] The [[ Nika Riots ]] began in the Hippodrome and finished there with the onslaught of over 30,000 people, according to Procopius, those in the blue and green factions, innocent and guilty. This came full circle in the relationship within the Hippodrome between the power and the people during the time of Justinian.[[ ^36 ]]
+
+The fires set by the mobs consumed the Theodosian basilica of Hagia Sophia (Holy Wisdom), the city's cathedral, which lay to the north of the Augustaeum and had itself replaced the Constantinian basilica founded by Constantius II to replace the first Byzantine cathedral, [[ Hagia Irene ]] (Holy Peace). Justinian commissioned [[ Anthemius of Tralles ]] and [[ Isidore of Miletus ]] to replace it with a new and incomparable [[ Hagia Sophia ]]. This was the great cathedral of the city, whose dome was said to be held aloft by God alone, and which was directly connected to the palace so that the imperial family could attend services without passing through the streets. "The architectural form of the building was meant to reflect Justinian's programmatic harmony: the circular dome (a symbol of secular authority in classical Roman architecture) would be harmoniously combined with the rectangular form (typical for Christian and pre-Christian temples)."[[ ^39 ]] The dedication took place on 26 December 537 in the presence of the emperor, who was later reported to have exclaimed, "O [[ Solomon | solomons-temple ]], I have outdone thee!"[[ ^40 ]] Hagia Sophia was served by 600 people, including 80 priests, and cost 20,000 pounds of gold to build.[[ ^41 ]]
+
+Justinian also had Anthemius and Isidore demolish and replace the original [[ Church of the Holy Apostles ]] and Hagia Irene, built by Constantine, with new churches under the same dedication. The Justinianic Church of the Holy Apostles was designed in the form of an equal-armed cross with five domes and ornamented with beautiful mosaics. This church was to remain the burial place of the emperors from Constantine himself until the 11th century. When the city fell to the Turks in 1453, the church was demolished to make room for the tomb of Sultan [[ Mehmed II ]] the Conqueror. Justinian was also concerned with other aspects of the city's built environment, legislating against the abuse of laws prohibiting building within 100 ft (30 m) of the sea front, in order to protect the view.[[ ^42 ]]
+
+During Justinian I's reign, the city's population reached approximately 500,000 people, with some scholars suggesting it could have been higher.[[ ^43 ]][[ ^44 ]][[ ^45 ]][[ ^46 ]] However, the social fabric of Constantinople was also damaged by the onset of the [[ Plague of Justinian ]] between 541 and 542 AD. It resulted in the death of up to 20% to 40% of the city's inhabitants, though revisionist historians suggest that the number of deaths was lower.[[ ^47 ]][[ ^48 ]][[ ^49 ]] Lasting two months, the plague is noted to have caused widespread civil disruption, including the inability of the population to bury the dead and attend relatives' funerals.[[ ^50 ]]
+
+== Survival, 565–717: Constantinople during the Byzantine Dark Ages
+
+In the early 7th century, the [[ Avars | avars-carpathians ]] and later the [[ Bulgars ]] overwhelmed much of the [[ Balkans ]], threatening Constantinople with attack from the west. Simultaneously, the [[ Persian | persia ]] [[ Sassanids | sassanid ]] overwhelmed the Prefecture of the East, penetrating deep into [[ Anatolia ]]. [[ Heraclius ]], son of the [[ exarch ]] of Africa, set sail for the city and assumed the throne. He found the military situation so dire that he is said to have contemplated withdrawing the imperial capital to Carthage, but relented after the people of Constantinople begged him to stay. The citizens lost their right to free grain in 618 when Heraclius realized that the city could no longer be supplied from Egypt as a result of the Persian wars: the population fell substantially as a result.[[ ^51 ]]
+
+While the city withstood a [[ siege | siege-of-constantinople-626 ]] by the Sassanids and Avars in 626, Heraclius campaigned deep into Persian territory. Eventually he managed to briefly restore the status quo in 628, when the Persians surrendered all their conquests. However, the Byzantine Empire was soon threatened by a new adversary, as it became one of the primary targets of Arab invaders, who expanded their empire across the vast majority of the [[ Middle East ]] and [[ North Africa ]], through a series of conquest campaigns, historically known as the [[ Early Muslim conquests ]]. Constantinople was besieged by the invading armies of the Arab [[ Umayyad Caliphate ]] firstly from [[ 674 to 678 | siege-of-constantinople-674678 ]], and secondly from [[ 717 to 718 | siege-of-constantinople-717718 ]]. The [[ Theodosian Walls ]] kept the city impenetrable from the land, while a newly discovered incendiary substance known as [[ Greek fire ]] allowed the [[ Byzantine navy ]] to destroy the Arab fleets and keep the city supplied. In the second siege, the second ruler of [[ Bulgaria ]], [[ Khan Tervel | tervel-of-bulgaria ]], rendered decisive help. He was called the //Saviour of Europe//.[[ ^52 ]]
+
+== 717–1025: Constantinople during the Macedonian Renaissance
+
+In the 730s [[ Leo III | leo-iii-the-isaurian ]] carried out extensive repairs of the Theodosian walls, which had been damaged by frequent and violent attacks; this work was financed by a special tax on all the subjects of the Empire.[[ ^53 ]]
+
+Theodora, widow of the Emperor [[ Theophilus | theophilos-emperor ]] (died 842), acted as regent during the minority of her son [[ Michael III ]], who was said to have been introduced to dissolute habits by her brother Bardas. When Michael assumed power in 856, he became known for excessive drunkenness, appeared in the hippodrome as a charioteer and burlesqued the religious processions of the clergy. He removed Theodora from the Great Palace to the Carian Palace and later to the [[ monastery of Gastria | sancaktar-hayrettin-mosque ]], but, after the death of Bardas, she was released to live in the palace of St Mamas; she also had a rural residence at the Anthemian Palace, where Michael was assassinated in 867.[[ ^54 ]]
+
+In 860, an [[ attack | rusbyzantine-war-860 ]] was made on the city by a new principality set up a few years earlier at [[ Kiev | kyiv ]] by [[ Askold and Dir ]], two [[ Varangian ]] chiefs: two hundred small vessels passed through the Bosporus and plundered the monasteries and other properties on the suburban [[ Princes' Islands ]]. [[ Oryphas | niketas-oryphas ]], the admiral of the Byzantine fleet, alerted the emperor Michael, who promptly put the invaders to flight; but the suddenness and savagery of the onslaught made a deep impression on the citizens.[[ ^55 ]]
+
+In 980, the emperor [[ Basil II ]] received an unusual gift from Prince [[ Vladimir | vladimir-i-of-kiev ]] of Kiev: 6,000 [[ Varangian ]] warriors, which Basil formed into a new bodyguard known as the [[ Varangian Guard ]]. They were known for their ferocity, honour, and loyalty — though following the death of an Emperor they became known also for plunder in the Imperial palaces.[[ ^56 ]] Later in the 11th century the Varangian Guard became dominated by [[ Anglo-Saxons ]] who preferred this way of life to subjugation by the [[ new Norman kings of England | norman-conquest-of-england ]].[[ ^57 ]]
+
+The //[[ Book of the Eparch ]]//, which dates to the 10th century, gives a detailed picture of the city's commercial life and its organization at that time. The corporations in which the tradesmen of Constantinople were organised were supervised by the Eparch, who regulated such matters as production, prices, import, and export. Each guild had its own monopoly, and tradesmen might not belong to more than one. It is an impressive testament to the strength of tradition how little these arrangements had changed since the office, then known by the Latin version of its title, had been set up in 330 to mirror the urban prefecture of Rome.[[ ^59 ]]
+
+In the 9th and 10th centuries, Constantinople had a population of between 500,000 and 800,000.[[ ^60 ]]
+
+== Iconoclast controversy in Constantinople
+
+In the 8th and 9th centuries, the [[ iconoclast | byzantine-iconoclasm ]] movement caused serious political unrest throughout the Empire. The emperor [[ Leo III | leo-iii-the-isaurian ]] issued a decree in 726 against images, and ordered the destruction of a statue of Christ over one of the doors of the Chalke, an act that was fiercely resisted by the citizens.[[ ^61 ]] [[ Constantine V ]] convoked a [[ church council in 754 | council-of-hieria ]], which condemned the worship of images, after which many treasures were broken, burned, or painted over with depictions of trees, birds or animals: one source refers to the [[ church of the Holy Virgin | church-of-st.-mary-of-blachernae-istanbul ]] at [[ Blachernae ]] as having been transformed into a "fruit store and aviary".[[ ^62 ]] Following the death of her husband [[ Leo IV | leo-iv-the-khazar ]] in 780, the empress [[ Irene | irene-empress ]] restored the veneration of images through the agency of the [[ Second Council of Nicaea ]] in 787.
+
+The controversy returned in the early 9th century, only to be resolved once more in 843 during the regency of Empress [[ Theodora | theodora-9th-century ]], who restored the icons. These controversies contributed to the deterioration of relations between the [[ Western | roman-catholic ]] and the [[ Eastern | eastern-orthodox-church ]] Churches.
+
+== 1025–1081: Constantinople after Basil II
+
+In the late 11th century catastrophe struck with the unexpected and calamitous defeat of the imperial armies at the [[ Battle of Manzikert ]] in Armenia in 1071. The Emperor [[ Romanus | romanos-iv ]] Diogenes was captured. The peace terms demanded by [[ Alp Arslan ]], sultan of the Seljuk Turks, were not excessive, and Romanus accepted them. On his release, however, Romanus found that enemies had placed their own candidate on the throne in his absence; he surrendered to them and suffered death by torture, and the new ruler, [[ Michael VII ]] Ducas, refused to honour the treaty.
+
+In response, the Turks began to move into Anatolia in 1073. The collapse of the old defensive system meant that they met no opposition, and the empire's resources were distracted and squandered in a series of civil wars. Thousands of [[ Turkoman | turkmen-people ]] tribesmen crossed the unguarded frontier and moved into Anatolia. By 1080, a huge area had been lost to the Empire, and the Turks were within striking distance of Constantinople.
+
+== 1081–1185: Constantinople under the Komneni
+
+Under the Komnenian dynasty (1081–1185), Byzantium staged a remarkable recovery. In 1090–91, the nomadic [[ Pechenegs ]] reached the walls of Constantinople, where Emperor Alexius I with the aid of the [[ Kipchaks ]] annihilated their army.[[ ^63 ]] In response to a call for aid from [[ Alexius | alexios-i-komnenos ]], the [[ First Crusade ]] assembled at Constantinople in 1096, but, declining to put itself under Byzantine command, set out for [[ Jerusalem ]] on its own account.[[ ^64 ]] [[ John II | john-ii-komnenos ]] built the monastery of the Pantocrator (Almighty) with a hospital for the poor of 50 beds.[[ ^65 ]]
+
+With the restoration of firm central government, the empire became fabulously wealthy. The population was rising — estimates for Constantinople in the 12th century vary from some 100,000 to 500,000 — and towns and cities across the realm flourished, while the volume of money in circulation dramatically increased. This was reflected in Constantinople by the construction of the Blachernae palace, the creation of brilliant new works of art, and general prosperity at this time: an increase in trade, made possible by the growth of the Italian city-states, may have helped the growth of the economy. It is certain that the [[ Venetians | venice ]] and others were active traders in Constantinople, making a living out of shipping goods between the Crusader Kingdoms of [[ Outremer ]] and the West, while also trading extensively with Byzantium and [[ Egypt ]]. The Venetians had factories on the north side of the Golden Horn, and large numbers of westerners were present in the city throughout the 12th century. Toward the end of [[ Manuel I Komnenos ]]'s reign, the number of foreigners in the city reached about 60,000–80,000 people out of a total population of about 400,000 people.[[ ^66 ]] In 1171, Constantinople also contained a small community of 2,500 Jews.[[ ^67 ]] In 1182, most Latin (Western European) inhabitants of Constantinople [[ were massacred | massacre-of-the-latins ]].[[ ^68 ]]
+
+In artistic terms, the 12th century was a very productive period. There was a revival in the [[ mosaic ]] art, for example: mosaics became more realistic and vivid, with an increased emphasis on depicting three-dimensional forms. There was an increased demand for art, with more people having access to the necessary wealth to commission and pay for such work.
+
+== 1185–1261: Constantinople during the Imperial Exile
+
+On 25 July 1197, Constantinople was struck by a [[ severe fire | constantine-stilbes#works ]] which burned the Latin Quarter and the area around the Gate of the Droungarios (Turkish: //Odun Kapısı//) on the Golden Horn.[[ ^70 ]][[ ^71 ]] Nevertheless, the destruction wrought by the 1197 fire paled in comparison with that brought by the Crusaders. In the course of a plot between [[ Philip of Swabia ]], [[ Boniface of Montferrat | boniface-i-of-montferrat ]] and the [[ Doge of Venice | enrico-dandolo ]], the [[ Fourth Crusade ]] was, despite papal excommunication, diverted in 1203 against Constantinople, ostensibly promoting the claims of [[ Alexios IV Angelos ]], brother-in-law of Philip and son of the deposed emperor [[ Isaac II Angelos ]]. The reigning emperor [[ Alexios III Angelos ]] had made no preparation. The Crusaders occupied [[ Galata ]], broke the [[ defensive chain | boom-navigational-barrier ]] protecting the [[ Golden Horn ]], and entered the harbour, where on 27 July they breached the sea walls: Alexios III fled. But the new Alexios IV Angelos found the Treasury inadequate, and was unable to make good the rewards he had promised to his western allies. Tension between the citizens and the Latin soldiers increased. In January 1204, the //[[ protovestiarius ]]// [[ Alexios Murzuphlos | alexios-v-doukas ]] provoked a riot, it is presumed, to intimidate Alexios IV, but whose only result was the destruction of the great statue of [[ Athena Promachos ]], the work of [[ Phidias ]], which stood in the principal forum facing west.
+
+In February 1204, the people rose again: Alexios IV was imprisoned and executed, and Murzuphlos took the purple as [[ Alexios V Doukas ]]. He made some attempt to repair the walls and organise the citizenry, but there had been no opportunity to bring in troops from the provinces and the guards were demoralised by the revolution. An attack by the Crusaders on 6 April failed, but a second from the Golden Horn on 12 April succeeded, and the invaders poured in. Alexios V fled. The Senate met in [[ Hagia Sophia ]] and offered the crown to [[ Theodore Lascaris | theodore-i-laskaris ]], who had married into the [[ Angelos dynasty ]], but it was too late. He came out with the Patriarch to the [[ Golden Milestone | milion ]] before the Great Palace and addressed the [[ Varangian Guard ]]. Then the two of them slipped away with many of the nobility and embarked for Asia. By the next day the Doge and the leading Franks were installed in the Great Palace, and the city was given over to pillage for three days.
+
+[[ Sir Steven Runciman ]], historian of the Crusades, wrote that the sack of Constantinople is "unparalleled in history".
+
+<blockquote
+  For nine centuries, [\...] the great city had been the capital of Christian
+  civilization. It was filled with works of art that had survived from ancient
+  Greece and with the masterpieces of its own exquisite craftsmen. The Venetians
+  [\...] seized treasures and carried them off to adorn [\...] their town. But
+  the Frenchmen and Flemings were filled with a lust for destruction. They
+  rushed in a howling mob down the streets and through the houses, snatching up
+  everything that glittered and destroying whatever they could not carry,
+  pausing only to murder or to rape, or to break open the wine-cellars [\...] .
+  Neither monasteries nor churches nor libraries were spared. In Hagia Sophia
+  itself, drunken soldiers could be seen tearing down the silken hangings and
+  pulling the great silver [[ iconostasis ]] to pieces, while sacred books and
+  icons were trampled under foot. While they drank merrily from the
+  altar-vessels a prostitute set herself on the Patriarch's throne and began to
+  sing a ribald French song. Nuns were ravished in their convents. Palaces and
+  hovels alike were entered and wrecked. Wounded women and children lay dying in
+  the streets. For three days the ghastly scenes [\...] continued, till the huge
+  and beautiful city was a shambles. [\...] When [\...] order was restored,
+  [\...] citizens were tortured to make them reveal the goods that they had
+  contrived to hide.[[ ^72 ]]
+
+For the next half-century, Constantinople was the seat of the [[ Latin Empire ]], and under its rulers the city declined both in population and in the condition of its buildings. [[ Alice-Mary Talbot ]] cites an estimated population for Constantinople of 400,000 inhabitants; after the destruction wrought by the Crusaders on the city, about one third were homeless, and numerous courtiers, nobility, and higher clergy followed various leading personages into exile. "As a result Constantinople became seriously depopulated," Talbot concludes.[[ ^73 ]]
+
+The Latins took over at least 20 churches and 13 monasteries, most prominently the Hagia Sophia, which became the cathedral of the Latin Patriarch of Constantinople. It is to these that E.H. Swift attributed the construction of a series of flying buttresses to shore up the walls of the church, which had been weakened over the centuries by earthquake tremors.[[ ^74 ]] However, this act of maintenance is an exception: for the most part, the Latin occupiers were too few to maintain all of the buildings, either secular and sacred, and many became targets for vandalism or dismantling. Bronze and lead were removed from the roofs of abandoned buildings and melted down and sold to provide money to the chronically under-funded Empire for defense and to support the court; Deno John Geanokoplos writes that "it may well be that a division is suggested here: Latin laymen stripped secular buildings, ecclesiastics, the churches."[[ ^75 ]] Buildings were not the only targets of officials looking to raise funds for the impoverished Latin Empire: the monumental sculptures which adorned the Hippodrome and fora of the city were pulled down and melted for coinage. "Among the masterpieces destroyed, writes Talbot, "were a Herakles attributed to the fourth-century B.C. sculptor [[ Lysippos ]], and monumental figures of Hera, Paris, and Helen."[[ ^76 ]]
+
+The Nicaean emperor [[ John III Vatatzes ]] reportedly saved several churches from being dismantled for their valuable building materials; by sending money to the Latins "to buy them off" (//exonesamenos//), he prevented the destruction of several churches.[[ ^77 ]] According to Talbot, these included the churches of Blachernae, [[ Rouphinianai ]], and St. Michael at Anaplous. He also granted funds for the restoration of the [[ Church of the Holy Apostles ]], which had been seriously damaged in an earthquake.[[ ^76 ]]
+
+The Byzantine nobility scattered, many going to [[ Nicaea | empire-of-nicaea ]], where Theodore Lascaris set up an imperial court, or to [[ Epirus | despotate-of-epirus ]], where Theodore Angelus did the same; others fled to [[ Trebizond | empire-of-trebizond ]], where one of the Comneni had already with Georgian support established an independent seat of empire.[[ ^78 ]] Nicaea and Epirus both vied for the imperial title, and tried to recover Constantinople. In 1261, Constantinople was [[ captured | reconquest-of-constantinople ]] from its last Latin ruler, [[ Baldwin II | baldwin-ii-of-constantinople ]], by the forces of the [[ Nicaean emperor | nicaean-empire ]] [[ Michael VIII Palaiologos ]] under the command of Caesar [[ Alexios Strategopoulos ]].
+
+== 1261–1453: Palaiologan Era and the Fall of Constantinople
+
+Although Constantinople was retaken by [[ Michael VIII Palaiologos ]], the Empire had lost many of its key economic resources, and struggled to survive. The [[ palace of Blachernae ]] in the north-west of the city became the main Imperial residence, with the old Great Palace on the shores of the [[ Bosporus ]] going into decline. When Michael VIII captured the city, its population was 35,000 people, but, by the end of his reign, he had succeeded in increasing the population to about 70,000 people.[[ ^79 ]] The Emperor achieved this by summoning former residents who had fled the city when the crusaders captured it, and by relocating Greeks from the recently reconquered [[ Peloponnese ]] to the capital.[[ ^80 ]] Military defeats, civil wars, earthquakes and natural disasters were joined by the [[ Black Death ]], which in 1347 spread to Constantinople, exacerbated the people's sense that they were doomed by God.[[ ^81 ]][[ ^82 ]]
+
+Castilian traveler and writer [[ Ruy González de Clavijo ]], who saw Constantinople in 1403, wrote that the area within the city walls included small neighborhoods separated by orchards and fields. The ruins of palaces and churches could be seen everywhere. The aqueducts and the most densely inhabited neighborhoods were along the coast of the Marmara Sea and Golden Horn. Only the coastal areas, in particular the commercial areas facing the Golden Horn, had a dense population. Although the Genoese colony in Galata was small, it was overcrowded and had magnificent mansions.[[ ^83 ]]
+
+By May 1453, the city no longer possessed the treasure troves of Aladdin that the Ottoman troops longingly imagined as they stared up at the walls. [[ Gennadios Scholarios ]], Patriarch of Constantinople from 1454 to 1464, was saying that the capital of the Empire, that was once the "city of wisdom", became "the city of ruins".[[ ^84 ]]
+
+When the [[ Ottoman Turks ]] [[ captured the city | fall-of-constantinople ]] (1453) it contained approximately 50,000 people.[[ ^85 ]] Tedaldi of Florence estimated the population at 30,000 to 36,000, while in Chronica Vicentina, the Italian Andrei di Arnaldo estimated it at 50,000. The plague epidemic of 1435 must have caused the population to drop.[[ ^83 ]]
+
+That decline showed on the walls. At the end of March 1453, emperor Constantine XI ordered a census of districts to record how many able-bodied men were in the city and whatever weapons each possessed for defense. George Sphrantzes, the faithful chancellor of the last emperor, recorded that "in spite of the great size of our city, our defenders amounted to 4,773 Greeks, as well as just 200 foreigners". In addition there were volunteers from outside, the "Genoese, Venetians and those who came secretly from Galata to help the defense", who numbered "hardly as many as three thousand", amounting to something under 8,000 men in total to defend a perimeter wall of twelve miles.[[ ^86 ]]
+
+Constantinople was conquered by the [[ Ottoman Empire ]] on 29 May 1453.[[ ^87 ]] Mehmed II intended to complete his father's mission and conquer Constantinople for the Ottomans. In 1452 he reached peace treaties with Hungary and Venice. He also began the construction of the Boğazkesen (later called the Rumelihisarı), a fortress at the narrowest point of the Bosphorus Strait, in order to restrict passage between the Black and Mediterranean seas. Mehmed then tasked the Hungarian gunsmith Urban with both arming Rumelihisarı and building a cannon powerful enough to bring down the walls of Constantinople. By March 1453 Urban's cannon had been transported from the Ottoman capital of Edirne to the outskirts of Constantinople. In April, having quickly seized Byzantine coastal settlements along the Black Sea and Sea of Marmara, Ottoman troops in Rumelia and Anatolia assembled outside the Byzantine capital. Their fleet moved from Gallipoli to nearby Diplokionion, and the sultan himself set out to meet his army.[[ ^88 ]] The Ottomans were commanded by 21-year-old Ottoman Sultan Mehmed II. The conquest of Constantinople followed a seven-week siege which had begun on 6 April 1453. The Empire fell on 29 May 1453.
+
+The number of people captured by the Ottomans after the fall of the city was around 33,000. The small number of people left in the city indicates that there could not have been many residents there. The primary concern of Mehmed II in the early years of his reign was the construction and settlement of the city. However, since an insufficient number of Muslims accepted his invitation, the settlement of 30 abandoned neighborhoods with the inhabitants of formerly conquered areas became necessary.[[ ^83 ]]
+
+== Culture
+
+Constantinople was the largest and richest urban center in the Eastern Mediterranean Sea during the late Eastern Roman Empire, mostly as a result of its strategic position commanding the trade routes between the Aegean Sea and the Black Sea. It would remain the capital of the eastern, Greek-speaking empire for over a thousand years and in some ways is the nexus of [[ Byzantine art ]] production. At its peak, roughly corresponding to the Middle Ages, it was one of the richest and largest cities in Europe. It exerted a powerful cultural pull and dominated much of the economic life in the Mediterranean. Visitors and merchants were especially struck by the beautiful monasteries and churches of the city, in particular the [[ Hagia Sophia ]], or the Church of Holy Wisdom. According to Russian 14th-century traveler [[ Stephen of Novgorod ]]: "There is much that amazes one there, which the human mind cannot express".[[ ^89 ]][[ ^90 ]]
+
+The city was especially important for preserving in its libraries manuscripts of Greek and Latin authors throughout a period when instability and disorder caused their mass-destruction in western Europe and north Africa: on the city's fall, thousands of these were brought by refugees to Italy, and played a key part in stimulating the Renaissance, and the transition to the modern world. The cumulative influence of the city on the west, over the many centuries of its existence, is incalculable. In terms of technology, art and culture, as well as sheer size, Constantinople was without parallel anywhere in Europe for a thousand years. Many languages were spoken there. A 16th century Chinese geographical treatise specifically recorded that there were translators living in the city, indicating it was multilingual, multicultural, and cosmopolitan.[[ ^91 ]]
+
+== Markets
+
+Even before Constantinople was founded, the markets of [[ Byzantion ]] were mentioned first by [[ Xenophon ]] and then by [[ Theopompus ]], who wrote that Byzantians "spent their time at the market and the harbour". In [[ Justinian ]]'s age the //Mese// street running across the city from east to west was a daily market. [[ Procopius ]] claimed "more than 500 prostitutes" did business along the market street. [[ Ibn Batutta ]], who traveled to the city in 1325, wrote of the bazaars "Astanbul" in which the "majority of the artisans and salespeople in them are women".[[ ^92 ]]
+
+== Architecture and coinage
+
+The Byzantine Empire used Roman and Greek architectural models and styles to create its own unique type of architecture, and the influence of Byzantine architecture and art can be seen in the copies taken from it throughout Europe. Particular examples include [[ St Mark's Basilica ]] in Venice,[[ ^93 ]] the basilicas of [[ Ravenna ]], and many churches throughout the Slavic East. Alone in Europe until the 13th-century Italian [[ florin | italian-coin-florin ]], the Empire continued to produce sound gold coinage, the [[ solidus ]] of [[ Diocletian ]] becoming the [[ bezant ]] prized throughout the Middle Ages. Its [[ city walls | theodosian-walls ]] were much imitated (for example, see [[ Caernarfon Castle ]]) and its urban infrastructure was moreover a marvel throughout the Middle Ages, keeping alive the art, skill and technical expertise of the Roman Empire. In the Ottoman period Islamic architecture and symbolism were used. Great [[ bathhouses | bath-house ]] were built in [[ Byzantine centers | byzantine-empire ]] such as Constantinople and [[ Antioch ]].[[ ^94 ]]
+
+== Religion
+
+Constantine's foundation gave prestige to the Bishop of Constantinople, who eventually came to be known as the [[ Ecumenical Patriarch | ecumenical-patriarch-of-constantinople ]], and made it a prime center of Christianity alongside Rome. This contributed to cultural and theological differences between Eastern and Western Christianity eventually leading to the [[ Great Schism | east-west-schism ]] that divided [[ Western Catholicism | roman-catholic-church ]] from [[ Eastern Orthodoxy ]] from 1054 onwards.
+
+== Education
+
+There were many institutions in ancient Constantinople such as the [[ Imperial University of Constantinople | university-of-constantinople ]], sometimes known as the University of the Palace Hall of Magnaura (Greek: Πανδιδακτήριον τῆς Μαγναύρας), an [[ Eastern Roman | eastern-roman-empire ]] educational institution that could trace its corporate origins to 425 AD, when the emperor [[ Theodosius II ]] founded the Pandidacterium (Medieval Greek: Πανδιδακτήριον).[[ ^95 ]]
+
+== International status
+
+The city acted as a defence for the eastern provinces of the old Roman Empire against the barbarian invasions of the 5th century. The 18-meter-tall (59 ft) walls built by [[ Theodosius II ]] were, in essence, impregnable to the barbarians coming from south of the [[ Danube river ]], who found easier targets to the west rather than the richer provinces to the east in Asia. From the 5th century, the city was also protected by the [[ Anastasian Wall ]], a 60-kilometer (37 mi) chain of walls across the [[ Thracian | thrace ]] [[ peninsula ]]. Many scholars argue that these sophisticated fortifications allowed the east to develop relatively unbothered while [[ Ancient Rome ]] and [[ the west | western-roman-empire ]] collapsed.[[ ^96 ]]
+
+Constantinople's fame was such that [[ it was described | sino-roman-relations ]] even in contemporary [[ Chinese histories | twenty-four-histories ]], the //[[ Old | old-book-of-tang ]]// and //[[ New Book of Tang ]]//, which mentioned its massive walls and gates as well as a purported [[ clepsydra | water-clock ]] mounted with a golden statue of a man.[[ ^97 ]][[ ^98 ]][[ ^99 ]] The Chinese histories even related how the city [[ had been besieged | siege-of-constantinople-674-678 ]] in the 7th century by [[ Mu'awiya I ]] and how he exacted [[ tribute ]] in a peace settlement.[[ ^98 ]][[ ^100 ]]
+
+[[ ^a ]]: English: [[ /ˌkɒnstæntɪˈnoʊpəl/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]] [[ //KON-stan-tin-OH-pəl// | https://en.wikipedia.org/wiki/Help%3APronunciation_respelling_key ]][[ Koine Greek | koine-greek-language ]]: Κωνστᾰντῑνούπολῐς, romanized: //Kōnstăntīnoúpolĭs//, [[ Medieval Greek | medieval-greek-language ]] pronunciation: [[ [konstandiˈnupolis\] | https://en.wikipedia.org/wiki/Help%3AIPA ]][[ Latin | latin-language ]]: //Cōnstantīnopolis//, pronounced [[ [kõːstantiːˈnɔpɔlɪs\] | https://en.wikipedia.org/wiki/Help%3AIPA%2FLatin ]]
+
+[[ ^6 ]]: Pounds, Norman John Greville. //An Historical Geography of Europe, 1500–1840//, p. 124. CUP Archive, 1979. ISBN [[ 0-521-22379-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-521-22379-2 ]].
+
+[[ ^7 ]]: [[ "Preserving The Intellectual Heritage\--Preface" | https://www.clir.org/pubs/reports/bellagio/bellag1/ ]]. //CLIR//. [[ Archived | https://web.archive.org/web/20171020090658/https://www.clir.org/pubs/reports/bellagio/bellag1.html ]] from the original on 20 October 2017. Retrieved 9 June 2021.
+
+[[ ^8 ]]: Treadgold, Warren (1997). [[ //A History of Byzantine State and Society// | https://archive.org/details/historybyzantine00trea_749 ]]. Stanford, CA: Stanford University Press. p. [[ 89 | https://archive.org/details/historybyzantine00trea_749/page/n107 ]].
+
+[[ ^9 ]]: [[ John Julius Norwich ]] writes: "To identity them all needs a good deal more credulity and imagination than is required for their Roman counterparts." //Byzantium: The Early Centuries// (1989), Guildhall Publishing, p. 76n
+
+[[ ^10 ]]: [[ "Istanbul, Turkey Metro Area Population (1950-2025) \| MacroTrends" | https://www.macrotrends.net/global-metrics/cities/22691/istanbul/population ]]. //www.macrotrends.net//. Retrieved 9 October 2025.
+
+[[ ^11 ]]: Harris 2017, p. 43.
+
+[[ ^12 ]]: Necdet Sakaoğlu (1993/94a): "İstanbul'un adları" ["The names of Istanbul"]. In: 'Dünden bugüne İstanbul ansiklopedisi', ed. Türkiye Kültür Bakanlığı, Istanbul.
+
+[[ ^13 ]]: Georgacas, Demetrius John (1947). "The Names of Constantinople". //Transactions and Proceedings of the American Philological Association// (The Johns Hopkins University Press) !!78!!: 347–67. doi:[[ 10.2307/283503 | https://doi.org/10.2307%2F283503 ]]. JSTOR [[ 283503 | https://www.jstor.org/stable/283503 ]].
+
+[[ ^14 ]]: Harris, 2007, p. 5
+
+[[ ^15 ]]: Stachowski, Marek; Woodhouse, Robert (2015). [[ "The Etymology of İstanbul: Making Optimal Use of the Evidence" | https://doi.org/10.4467%2F20843836SE.15.015.2801 ]]. //[[ Studia Etymologica Cracoviensia ]]//. !!20!!: 221–245. doi:[[ 10.4467/20843836SE.15.015.2801 | https://doi.org/10.4467%2F20843836SE.15.015.2801 ]].
+
+[[ ^16 ]]: Stanford and Ezel Shaw (1977): History of the Ottoman Empire and Modern Turkey. Cambridge: Cambridge University Press. Vol II, p. 386; Robinson (1965), The First Turkish Republic, p. 298
+
+[[ ^17 ]]: Tom Burham, //The Dictionary of Misinformation//, Ballantine, 1977.
+
+[[ ^18 ]]: Room, Adrian, (1993), //Place Name changes 1900–1991//, Metuchen, N.J., & London:The Scarecrow Press, Inc., ISBN [[ 0-8108-2600-3 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8108-2600-3 ]] pp. 46, 86.
+
+[[ ^19 ]]: [[ Britannica, Istanbul | http://concise.britannica.com/ebc/article-9368294/Istanbul ]] Archived 2007-12-18 at the [[ Wayback Machine ]].
+
+[[ ^20 ]]: Mango, Cyril (1991). "Constantinople". In [[ Kazhdan, Alexander | alexander-kazhdan ]] (ed.). //[[ The Oxford Dictionary of Byzantium | oxford-dictionary-of-byzantium ]]//. Oxford and New York: Oxford University Press. pp. 508–512. ISBN [[ 0-19-504652-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-19-504652-8 ]].
+
+[[ ^21 ]]: Pliny, IV, xi
+
+[[ ^22 ]]: //[[ Patria of Constantinople ]]//
+
+[[ ^23 ]]: Thucydides, I, 94
+
+[[ ^24 ]]: Harris, 2007, pp. 24–25
+
+[[ ^25 ]]: Harris, 2007, p. 45
+
+[[ ^26 ]]: Harris, 2007, pp. 44–45
+
+[[ ^27 ]]: Cassius Dio, ix, p. 195
+
+[[ ^28 ]]: Wasson, D. L. (9 April 2013). [[ "Constantinople" | https://web.archive.org/web/20210628145601/https://www.worldhistory.org/Constantinople/ ]]. //World History Encyclopedia//. Archived from [[ the original | https://www.worldhistory.org/Constantinople/ ]] on 28 June 2021.
+
+[[ ^29 ]]: Commemorative coins that were issued during the 330s already refer to the city as //Constantinopolis// (see, e.g., Michael Grant, //The climax of Rome// (London 1968), p. 133), or "Constantine's City". According to the //Reallexikon für Antike und Christentum//, vol. 164 (Stuttgart 2005), column 442, there is no evidence for the tradition that Constantine officially dubbed the city "New Rome" (//Nova Roma//). It is possible that the Emperor called the city "Second Rome" (Δευτέρα Ῥώμη, //Deutera Rhōmē//) by official decree, as reported by the 5th-century church historian [[ Socrates of Constantinople ]]: See [[ Names of Constantinople ]].
+
+[[ ^30 ]]: A description can be found in the [[ Notitia urbis Constantinopolitanae ]].
+
+[[ ^31 ]]: Socrates II.13, cited by J B Bury, History of the Later Roman Empire, p. 74.
+
+[[ ^32 ]]: J B Bury, History of the Later Roman Empire, p. 75. //et seqq//.
+
+[[ ^33 ]]: Bogdanović 2016, pp. 100.
+
+[[ ^34 ]]: //Liber insularum Archipelagi//, [[ Bibliothèque nationale de France ]], Paris.
+
+[[ ^35 ]]: Margaret Barker, Times Literary Supplement 4 May 2007, p. 26.
+
+[[ ^36 ]]: Greatrex, Geoffrey. “The Nika Riot: A Reappraisal.” //The Journal of Hellenic Studies//, vol. 117, 1997, pp. 60–86. doi:[[ 10.2307/632550 | https://doi.org/10.2307%2F632550 ]]. Accessed 9 Nov. 2023.
+
+[[ ^37 ]]: Procopius' // Secret History//: see P Neville-Ure, Justinian and his Age, 1951.
+
+[[ ^38 ]]: James Grout: [[ "The Nika Riot" | https://penelope.uchicago.edu/~grout/encyclopaedia_romana/circusmaximus/nika.html ]], part of the //Encyclopædia Romana//
+
+[[ ^39 ]]: Calian, Florin George (25 March 2021). [[ "Opinion \| The Hagia Sophia and Turkey's Neo-Ottomanism" | https://armenianweekly.com/2021/03/24/the-hagia-sophia-and-turkeys-neo-ottomanism/ ]]. //The Armenian Weekly//. Retrieved 7 January 2024.
+
+[[ ^40 ]]: Source for quote: //Scriptores originum Constantinopolitanarum//, ed T Preger I 105 (see [[ A. A. Vasiliev | alexander-vasiliev-historian ]], //History of the Byzantine Empire//, 1952, vol I, p. 188).
+
+[[ ^41 ]]: Madden, Thomas F. (2004). //Crusades: The Illustrated History//. University of Michigan Press. p. 114. ISBN [[ 9780472114634 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780472114634 ]].
+
+[[ ^42 ]]: Justinian, //Novellae// 63 and 165.
+
+[[ ^43 ]]: [[ Early Medieval and Byzantine Civilization: Constantine to Crusades | http://www.tulane.edu/~august/H303/handouts/Population.htm ]] Archived August 26, 2015, at the [[ Wayback Machine ]], Kenneth W. Harl.
+
+[[ ^44 ]]: Chandler, 3000 Years of Urban Growth, 1974, pp.304-305
+
+[[ ^45 ]]: [[ "THE POPULATION OF CONSTANTINOPLE IN THE BYZANTINE PERIOD \| History of Istanbul" | https://istanbultarihi.ist/460-the-population-of-constantinople-in-the-byzantine-period ]]. //istanbultarihi.ist//. Retrieved 14 July 2026.
+
+[[ ^46 ]]: Peter Charanis, "Observations on the Demography of the Byzantine Empire," in Studies on the Demography of the Byzantine Empire: Collected Studies, pp. 448-450
+
+(Note: Both Charanis and Ernst Stein suggest that the population of Constantinople was closer to 600,000 under Justinian)
+
+[[ ^47 ]]: [[ Past pandemics that ravaged Europe | http://news.bbc.co.uk/2/hi/health/4381924.stm ]] Archived 2017-10-07 at the [[ Wayback Machine ]], [[ BBC News ]], November 7, 2005.
+
+[[ ^48 ]]: Hancock, Spices, Scents and Silk, 2021, p.132
+
+[[ ^49 ]]: Mordechai, Lee; Eisenberg, Merle (August 1, 2019). "Rejecting Catastrophe: The Case of the Justinianic Plague".
+
+[[ ^50 ]]: Malalas, John (1 January 1986). //The Chronicle of John Malalas//. Leiden: Brill. pp. 286–287. ISBN [[ 978-90-04-34460-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-90-04-34460-0 ]].
+
+[[ ^51 ]]: Possibly from the largest city in the world with 500,000 inhabitants to just 40,000–70,000: The Inheritance of Rome, Chris Wickham, Penguin Books Ltd. 2009, ISBN [[ 978-0-670-02098-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-670-02098-0 ]] (p. 260)
+
+[[ ^52 ]]: [[ "Exposition, Dedicated to Khan Tervel" | https://web.archive.org/web/20160507131353/http://www.programata.bg/?p=62&c=1&id=51493&l=2 ]]. //Programata//. Archived from [[ the original | http://www.programata.bg/?p=62&c=1&id=51493&l=2 ]] on 7 May 2016. Retrieved 28 August 2014.
+
+[[ ^53 ]]: Vasiliev 1952, p. 251.
+
+[[ ^54 ]]: George Finlay, History of the Byzantine Empire, Dent, London, 1906, pp. 156–161.
+
+[[ ^55 ]]: Finlay, 1906, pp. 174–175.
+
+[[ ^56 ]]: Enoksen, Lars Magnar. (1998). //Runor : historia, tydning, tolkning//. Historiska Media, Falun. ISBN [[ 91-88930-32-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F91-88930-32-7 ]] p. 135.
+
+[[ ^57 ]]: J M Hussey, The Byzantine World, Hutchinson, London, 1967, p. 92.
+
+[[ ^58 ]]: Freeman, Evan (2021). "Hagia Sophia's Deesis Mosaic". [[ //Smarthistory Guide to Byzantine Art// | https://pressbooks.pub/smarthistoryguidetobyzantineart/chapter/late-byzantine-naturalism-hagia-sophias-deesis-mosaic/ ]].
+
+[[ ^59 ]]: Vasiliev 1952, pp. 343–344.
+
+[[ ^60 ]]: [[ Silk Road Seattle – Constantinople | http://depts.washington.edu/silkroad/cities/turkey/istanbul/istanbul.html ]] Archived 2006-09-17 at the [[ Wayback Machine ]], Daniel C. Waugh.
+
+[[ ^61 ]]: The officer given the task was killed by the crowd, and in the end the image was removed rather than destroyed: It was to be restored by [[ Irene | irene-empress ]] and removed again by [[ Leo V | leo-v-the-armenian ]]: Finlay 1906, p. 111.
+
+[[ ^62 ]]: Vasiliev 1952, p. 261.
+
+[[ ^63 ]]: [[ "The Pechenegs" | https://web.archive.org/web/20050829210704/http://www.geocities.com/egfroth1/Pechenegs ]]. Archived from [[ the original | http://www.geocities.com/egfroth1/Pechenegs ]] on 29 August 2005. Retrieved 27 October 2009., Steven Lowe and Dmitriy V. Ryaboy.
+
+[[ ^64 ]]: There is a source for these events: the writer and historian [[ Anna Comnena | anna-komnene ]] in her work [[ The Alexiad ]].
+
+[[ ^65 ]]: Vasiliev 1952, p. 472.
+
+[[ ^66 ]]: J. Phillips, //The Fourth Crusade and the Sack of Constantinople//, 144.
+
+[[ ^67 ]]: J. Phillips, //The Fourth Crusade and the Sack of Constantinople//, 155.
+
+[[ ^68 ]]: [[ //The Cambridge Illustrated History of the Middle Ages: 950–1250// | https://archive.org/details/cambridgeillustr00robe ]]. Cambridge University Press. 1986. pp. [[ 506 | https://archive.org/details/cambridgeillustr00robe/page/506 ]]–508. ISBN [[ 978-0-521-26645-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-521-26645-1 ]]. Retrieved 19 February 2016.
+
+[[ ^69 ]]: Freeman, Evan (2021). "Middle Byzantine Mosaics in Hagia Sophia". [[ //Smarthistory Guide to Byzantine Art// | https://pressbooks.pub/smarthistoryguidetobyzantineart/chapter/middle-byzantine-mosaics-in-hagia-sophia/ ]].
+
+[[ ^70 ]]: Stilbes, Constantine; Johannes M. Diethart; Wolfram Hörandner (2005). //Constantinus Stilbes Poemata//. Walter de Gruyter. pp. 16 line 184. ISBN [[ 978-3-598-71235-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-598-71235-7 ]].
+
+[[ ^71 ]]: Diethart and Hörandner (2005). p. 24, line 387
+
+[[ ^72 ]]: Steven Runciman, //A History of the Crusades//, Cambridge 1966 [1954], vol 3, p. 123.
+
+[[ ^73 ]]: [[ Talbot, Alice-Mary | alice-mary-talbot ]], [[ "The Restoration of Constantinople under Michael VIII" | https://www.jstor.org/stable/1291680 ]] Archived 2020-11-27 at the [[ Wayback Machine ]], //Dumbarton Oaks Papers//, !!47!! (1993), p. 246
+
+[[ ^74 ]]: Talbot, "Restoration of Constantinople", p. 247
+
+[[ ^75 ]]: Geanakoplos, //Emperor Michael Palaeologus and the West// (Harvard University Press, 1959), p. 124 n. 26
+
+[[ ^76 ]]: Talbot, "Restoration of Constantinople", p. 248
+
+[[ ^77 ]]: Geanakoplos, //Emperor Michael//, p. 124
+
+[[ ^78 ]]: Hussey 1967, p. 70.
+
+[[ ^79 ]]: T. Madden, //Crusades: The Illustrated History//, 113.
+
+[[ ^80 ]]: Norwich, John Julius (1996). //Byzantium: The Decline and Fall//. Penguin Books. p. 217. ISBN [[ 9780140114492 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780140114492 ]].
+
+[[ ^81 ]]: Tsiamis1, Costas; Poulakou-Rebelakou, Effie; Tsakris, Athanassios; Petridou, Eleni. [[ "Epidemic waves of the Black Death in the Byzantine Empire (1347–1453 AD)" | https://www.infezmed.it/media/journal/Vol_19_3_2011_10.pdf ]] (PDF). //Le Infezioni in Medicina// (3): 193–201. [[ Archived | https://web.archive.org/web/20201019170744/https://www.infezmed.it/media/journal/Vol_19_3_2011_10.pdf ]] (PDF) from the original on 19 October 2020. Retrieved 18 October 2020.``\{{cite journal}}``:  CS1 maint: numeric names: authors list ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_numeric_names%3A_authors_list ]])
+
+[[ ^82 ]]: [[ "The Black Death" | https://web.archive.org/web/20080625094232/http://www.channel4.com/history/microsites/H/history/a-b/blackdeath.html ]]. Archived from [[ the original | http://www.channel4.com/history/microsites/H/history/a-b/blackdeath.html ]] on 25 June 2008. Retrieved 3 November 2008., Channel 4 – History.
+
+[[ ^83 ]]: [[ "History of Istanbul" | https://istanbultarihi.ist/460-the-population-of-constantinople-in-the-byzantine-period ]]. //istanbultarihi.ist//. Retrieved 28 November 2023.
+
+[[ ^84 ]]: Crowley, Roger (18 April 2013). [[ //Constantinople// | https://archive.org/details/constantinople-the-last-great-siege-1453-roger-crowley/page/n25/mode/2up ]] (Main ed.). Faber & Faber. pp. 187–203. ISBN [[ 978-0-571-29820-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-571-29820-4 ]]. Retrieved 29 November 2023.
+
+[[ ^85 ]]: Nicolle, David (2005). //Constantinople 1453: The end of Byzantium//. Praeger. p. 32. ISBN [[ 9780275988562 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780275988562 ]].
+
+[[ ^86 ]]: Crowley, Roger (18 April 2013). [[ //Constantinople// | https://archive.org/details/constantinople-the-last-great-siege-1453-roger-crowley/page/n25/mode/2up ]] (Main ed.). Faber & Faber. pp. 95–110. ISBN [[ 978-0-571-29820-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-571-29820-4 ]]. Retrieved 29 November 2023.
+
+[[ ^87 ]]: [[ "fall of Constantinople \| Facts, Summary, & Significance" | https://www.britannica.com/event/Fall-of-Constantinople-1453 ]]. //Encyclopedia Britannica//. [[ Archived | https://web.archive.org/web/20200819143934/https://www.britannica.com/event/Fall-of-Constantinople-1453 ]] from the original on 19 August 2020. Retrieved 15 October 2018.
+
+[[ ^88 ]]: [[ "Encyclopedia Britannica \| Britannica" | https://www.britannica.com/ ]]. //www.britannica.com//. [[ Archived | https://web.archive.org/web/20180909130055/https://www.britannica.com/biography/Edward-Willis-Scripps ]] from the original on 9 September 2018. Retrieved 4 April 2023.
+
+[[ ^89 ]]: Harris 2017, pp. 177–178.
+
+[[ ^90 ]]: Majeska, George P. (1984). [[ //Russian Travelers to Constantinople in the Fourteenth and Fifteenth Centuries// | https://books.google.com/books?id=teyNhL3AuGEC ]]. Dumbarton Oaks. p. 28. ISBN [[ 978-0-88402-101-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-88402-101-8 ]]. \...There are many other marble stone columns standing around the city with many large inscriptions carved on them from top to bottom. There is much that amazes [one there, much] which the human mind cannot express. [For example,] iron cannot [cut] this stone\...
+
+[[ ^91 ]]: Chen, Yuan Julian (11 October 2021). [[ "Between the Islamic and Chinese Universal Empires: The Ottoman Empire, Ming Dynasty, and Global Age of Explorations" | https://www.academia.edu/59068575 ]]. //Journal of Early Modern History//. !!25!! (5): 422–456. doi:[[ 10.1163/15700658-bja10030 | https://doi.org/10.1163%2F15700658-bja10030 ]]. ISSN [[ 1385-3783 | https://search.worldcat.org/issn/1385-3783 ]]. S2CID [[ 244587800 | https://api.semanticscholar.org/CorpusID:244587800 ]]. [[ Archived | https://web.archive.org/web/20220417192653/https://www.academia.edu/59068575 ]] from the original on 17 April 2022. Retrieved 28 March 2022.
+
+[[ ^92 ]]: Dalby, Andrew. //Tastes of Byzantium: The Cuisine of a Legendary Empire//. I.B. Tauris. pp. 61–63.
+
+[[ ^93 ]]: [[ "San Marco Basilica \| cathedral, Venice, Italy" | https://www.britannica.com/topic/San-Marco-Basilica ]]. //Encyclopedia Britannica//. [[ Archived | https://web.archive.org/web/20210206093006/https://www.britannica.com/topic/San-Marco-Basilica ]] from the original on 6 February 2021. Retrieved 15 October 2018.
+
+[[ ^94 ]]: [[ Kazhdan, Alexander | alexander-kazhdan ]], ed. (1991), //Oxford Dictionary of Byzantium//, Oxford University Press, ISBN [[ 978-0-19-504652-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-504652-6 ]]
+
+[[ ^95 ]]: "The Formation of the Hellenic Christian Mind" by [[ Demetrios Constantelos ]], ISBN [[ 0-89241-588-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-89241-588-6 ]]: "The fifth century marked a definite turning point in Byzantine higher education. Theodosios ΙΙ founded in 425 a major university with 31 chairs for law, philosophy, medicine, arithmetic, geometry, astronomy, music, rhetoric and other subjects. Fifteen chairs were assigned to Latin and 16 to Greek. The university was reorganized by Michael III (842–867) and flourished down to the fourteenth century".
+
+[[ ^96 ]]: [[ "Constantinople" | http://www.civilization.org.uk/decline-and-fall/constantine/constantinople ]]. //Barbarism and Civilization//. [[ Archived | https://web.archive.org/web/20180505130920/http://www.civilization.org.uk/decline-and-fall/constantine/constantinople ]] from the original on 5 May 2018. Retrieved 9 April 2018.
+
+[[ ^97 ]]: Ball (2016), pp. 152–153; see also endnote No. 114.
+
+[[ ^98 ]]: Hirth (2000) [1885], [[ East Asian History Sourcebook | http://sourcebooks.fordham.edu/halsall/eastasia/romchin1.asp ]] Archived 2016-10-09 at the [[ Wayback Machine ]]. Retrieved 24 September 2016.
+
+[[ ^99 ]]: Yule (1915), 46–48; see also footnote No. 1 on p. 49.
+
+[[ ^100 ]]: Yule (1915), 46–49; see footnote No. 1 on p. 49 for discussion about the Byzantine diplomat sent to [[ Damascus ]] who was named in Chinese sources.

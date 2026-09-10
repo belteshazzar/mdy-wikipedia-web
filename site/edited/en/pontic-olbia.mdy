@@ -1,0 +1,292 @@
++++
+title: Pontic Olbia
+description: Archaeological site of Miletian Black Sea colony
+key-facts:
+  - name: Founded
+    value: 7th century BC
+    from: "built: 7th century BC"
+  - name: Founded by
+    value: Settlers from Miletus
+    from: "built-by: Settlers from Miletus"
+  - name: Abandoned
+    value: 4th century AD
+    from: "abandoned: 4th century AD"
+  - name: Covers
+    value: 50 ha (120 acres)
+    from: "area: 50 ha (120 acres)"
+  - name: Excavated
+    value: 1901–1915, 1924–1926
+    from: "excavation-dates: 1901–1915, 1924–1926"
+  - name: Where
+    value: Parutyne, Mykolaiv Oblast, Ukraine
+    from: "location: Parutyne, Mykolaiv Oblast, Ukraine"
+image-plan:
+  - file: AncientTownOlvia.jpg
+    role: hero
+    section: lead
+    caption: The ruins of Olbia, on the shore of the Bug estuary near the village
+      of Parutyne.
+  - file: Greek_colonies_of_the_Northern_Euxine_Sea_(Black_Sea).svg
+    role: full
+    section: layout
+    caption: Olbia among the Greek colonies strung along the north coast of the
+      Black Sea (the Euxine Sea), 8th to 3rd century BCE.
+  - file: SARMATIA,_Olbia._Circa_5th-4th_Century_BC.jpg
+    role: inline
+    section: archaic-and-classical-periods
+    caption: Olbia's money in the shape of a leaping dolphin, circa 5th–4th
+      century BC – cast bronze, where the rest of the Greek world struck round
+      coins.
+  - file: Borysthenes_coins.jpg
+    role: inline
+    section: hellenistic-and-roman-periods
+    caption: Two coins from Olbia (3rd-1st century BC)[[ ^8 ]] with the bearded
+      head of the river-god Borysthenes – the river the town itself was often
+      named after.
+further:
+  - slug: miletus
+    why: The mother city whose colonists founded Olbia, and whose treaty with it
+      still regulated their relations in the 4th century BCE.
+  - slug: alexander-the-great
+    why: Olbia and Miletus coordinated their operations against his general
+      Zopyrion.
+coordinates:
+  lat: 46.6925
+  lon: 31.90361111
+image: https://upload.wikimedia.org/wikipedia/commons/1/16/AncientTownOlvia.jpg
+images:
+  - file: Greek_colonies_of_the_Northern_Euxine_Sea_(Black_Sea).svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Greek_colonies_of_the_Northern_Euxine_Sea_%28Black_Sea%29.svg/330px-Greek_colonies_of_the_Northern_Euxine_Sea_%28Black_Sea%29.svg.png
+    width: 1080
+    height: 463
+    caption: Olbia and other Greek colonies along the north coast of the Black Sea
+      (Euxine Sea), 8th to 3rd century BCE
+  - file: Borysthenes_coins.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Borysthenes_coins.jpg/330px-Borysthenes_coins.jpg
+    width: 1000
+    height: 1000
+    caption: Two coins from Olbia (3rd-1st century BC) depicting the bearded head
+      of the river-god Borysthenes
+  - file: SARMATIA,_Olbia._Circa_5th-4th_Century_BC.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SARMATIA%2C_Olbia._Circa_5th-4th_Century_BC.jpg/250px-SARMATIA%2C_Olbia._Circa_5th-4th_Century_BC.jpg
+    width: 325
+    height: 53
+    caption: Distinctive Olbian "Dolphin" coin, circa 5th–4th century BC
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AncientTownOlvia.jpg/330px-AncientTownOlvia.jpg
+    caption: The ruins of Olbia
+  type: Settlement
+  periods: Archaic Greek to Roman Imperial
+  cultures: Greek, Roman
+  location: Parutyne, Mykolaiv Oblast, Ukraine
+  history:
+    built: 7th century BC
+    built-by: Settlers from Miletus
+    abandoned: 4th century AD
+  site-notes:
+    length: 1 mi (1.6 km)
+    width: 0.5 mi (0.80 km)
+    area: 50 ha (120 acres)
+    excavation-dates: 1901–1915, 1924–1926
+    archaeologists: Boris Farmakovsky
+    condition: Ruined
+  immovable-monument-of-national-significance-of-ukraine:
+    official-name: Стародавнє місто Ольвія (Ancient city of Olbia)
+    type: Archaeology
+    reference-no: 140027-Н
+sections:
+  - level: 2
+    id: layout
+    title: Layout
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: archaic-and-classical-periods
+    title: Archaic and Classical periods
+  - level: 3
+    id: hellenistic-and-roman-periods
+    title: Hellenistic and Roman periods
+  - level: 2
+    id: excavation
+    title: Excavation
+wikidata:
+  id: Q1143233
+  label: Olbia
+  description: ancient Greek city and archaeological site in Ukraine
+  claims:
+    commons-category: Olbia (Ukraine)
+    coordinate-location:
+      - lat: 46.7
+        lon: 31.9
+      - lat: 46.691895
+        lon: 31.901597
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/AncientTownOlvia.jpg
+    located-in-the-administrative-territorial-entity: Kutsurub rural hromada
+    country: Ukraine
+    instance-of:
+      - emporium
+      - archaeological site
+      - polis
+      - ancient city
+    described-by-source:
+      - New Encyclopedic Dictionary
+      - Russian translation of Lübker's Antiquity Lexicon
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+      - Armenian Soviet Encyclopedia, vol. 12
+    different-from: Olbia
+    topic-s-main-category: Category:Olbia (Ukraine)
+    inception: 7th century BC
+    significant-event:
+      value: Siege of Pontic Olbia
+      when: 331 BC
+    native-label: Ὀλβία
+    culture: Ancient Greece
+    dissolved-abolished-or-demolished: 4th century
+    on-focus-list-of-wikimedia-project: WikiProject Ukraine
+    location: Parutyne
+    population: "15000"
+link-titles:
+  acropolis: Acropolis
+  agora: Agora
+  alexander-the-great: Alexander the Great
+  ancient-greece: Ancient Greece
+  ancient-greek-language: Ancient Greek language
+  ancient-greek-religion: Ancient Greek religion
+  apollo: Apollo
+  apollo-delphinios: Apollo Delphinios
+  archaeological-site: Archaeological site
+  archaic-greece: Archaic Greece
+  berezan-island: Berezan Island
+  black-sea: Black Sea
+  boris-farmakovsky: Boris Farmakovsky
+  borysthenes: Borysthenes
+  bug-estuary: Bug estuary
+  burebista: Burebista
+  colonies-in-antiquity: Colonies in antiquity
+  dio-of-prusa: Dio of Prusa
+  dolphins: Dolphins
+  emporia-ancient-greece: Emporia (ancient Greece)
+  getae: Getae
+  gorgon: Gorgon
+  gothic-wars: Gothic Wars
+  greece: Greece
+  hermitage-museum: Hermitage Museum
+  herodotus: Herodotus
+  list-of-historic-reserves-in-ukraine: List of historic reserves in Ukraine
+  martin-litchfield-west: Martin Litchfield West
+  miletus: Miletus
+  mithridates-eupator: Mithridates Eupator
+  moesia: Moesia
+  mykolaiv-raion: Mykolaiv Raion
+  nasu-institute-of-archaeology: NASU Institute of Archaeology
+  national-academy-of-sciences-of-ukraine: National Academy of Sciences of Ukraine
+  national-museum-in-warsaw: National Museum in Warsaw
+  orphicism: Orphicism
+  parutyne: Parutyne
+  romanization-of-ukrainian: Romanization of Ukrainian
+  saint-petersburg: Saint Petersburg
+  scythia: Scythia
+  shamanism: Shamanism
+  skilurus: Skilurus
+  smyrna: Smyrna
+  southern-bug: Southern Bug
+  ukraine: Ukraine
+  ukrainian-language: Ukrainian language
+  zopyrion: Zopyrion
+source:
+  site: Wikipedia
+  lang: en
+  title: Pontic Olbia
+  url: https://en.wikipedia.org/wiki/Pontic_Olbia
+  page-id: 1281069
+  revision: "1364717987"
+  modified: 2026-07-18T03:17:44Z
+  retrieved: 2026-09-09
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Pontic
+    Olbia" (revision 1364717987), by Wikipedia contributors, used under CC
+    BY-SA 4.0.
+rewritten:
+  of: corpus/en/pontic-olbia.mdy
+  source-digest: 86df593230cf12fa
+  source-revision: "1364717987"
+  model: claude-opus-5
+  left-out: The "History" heading has no prose of its own in the source – only
+    its two subsections – so its body is empty. Several passages in the source
+    carry no footnote (the name's meaning, the origin of the coin money, the
+    M. L. West paragraph's first sentence, most of the Hellenistic and Roman
+    section, and most of Excavation), so the rewritten sentences from them
+    carry none either. The hero image is the infobox photograph
+    (AncientTownOlvia.jpg), which is not in the images list but is named in
+    the front matter. The source's dates for the Musin-Pushkin ban (before
+    1902) and Farmakovsky's first campaign (from 1901) sit oddly together;
+    both are kept as given.
+  verified: true
+  verdict: clean
+  reviewed: false
++++
+The name in Greek means "happy" or "rich". The harbour was one of the main [[ emporia | emporia-ancient-greece ]] on the [[ Black Sea ]]: cereals, fish and slaves went out to [[ Greece ]], and Attic goods came in for [[ Scythia ]].[[ ^1 ]] !!Pontic Olbia!! (Ancient Greek: [[ Ὀλβία | https://en.wiktionary.org/wiki/Ὀλβία ]] [[ Ποντική | https://en.wiktionary.org/wiki/Ποντικός ]]; Ukrainian: Ольвія, [[ romanized | romanization-of-ukrainian ]]: //Olviia//), or simply !!Olbia!!, was a Hellenic city founded in the 7th century BC by [[ colonists | colonies-in-antiquity#greek-colonies ]] from [[ Miletus ]], on the shore of the [[ Southern | southern-bug ]] [[ Bug estuary ]] (//Hypanis// or // [[ Ὕπανις | https://en.wiktionary.org/wiki/Ὕπανις ]]//) in [[ Ukraine ]], near the village of [[ Parutyne ]].
+
+What is left is an [[ archaeological site ]] of an [[ ancient Greek | ancient-greece ]] city, protected as the [[ National Historic and Archaeological Reserve | list-of-historic-reserves-in-ukraine ]]. The reserve is a research and science institute of the [[ National Academy of Sciences of Ukraine ]]; in 1938–1993 it was a department of the [[ NASU Institute of Archaeology ]].
+
+== Layout
+
+The colony covers fifty hectares, and its fortifications trace an isosceles triangle about a mile long and half a mile wide.[[ ^2 ]] Around it lay several villages (modern Victorovka and Dneprovskoe) which may also have been settled by Greeks.[[ ^2 ]]
+
+The town had two levels. The lower town, now largely submerged by the Bug river, was given over chiefly to the dockyards and the houses of artisans; the upper town was the main residential quarter, laid out in square blocks around the [[ agora ]]; and a defensive stone wall with towers ringed the whole.[[ ^3 ]] The upper town is also where the first settlement stood, in the [[ archaic period | archaic-greece ]].[[ ^2 ]] From the 6th century there is evidence that the town was laid out on a grid plan – one of the first after the town of [[ Smyrna ]].[[ ^2 ]]
+
+Later the city gained an [[ acropolis ]] and, from the 6th century BCE, a religious sanctuary.[[ ^2 ]] In the early 5th century a temple to [[ Apollo Delphinios | apollo ]] was built as well.[[ ^2 ]]
+
+== History
+
+
+
+== Archaic and Classical periods
+
+The colony was highly important commercially, and it endured for a millennium. The earliest evidence of Greeks here, though, is not at Olbia itself but on [[ Berezan Island ]], where pottery has been found dating from the late 7th century.[[ ^4 ]] The name in Greek means "happy" or "rich". It is possible that Berezan had been the site of an earlier native settlement, and it may even have been a peninsula rather than an island in antiquity.[[ ^4 ]] The town there is now thought to have survived until the 5th century BCE, when it was possibly absorbed into the growing Olbian settlement on the mainland.[[ ^4 ]]
+
+During the 5th century BCE [[ Herodotus ]] visited, and his is still our best description from antiquity of the city and its inhabitants.[[ ^5 ]]
+
+In the same century the city was casting its own bronze money, in two forms: circular tokens with [[ Gorgon ]] heads, and coins in the shape of leaping [[ dolphins ]].[[ ^6 ]] Both are unusual beside the struck, round coins common in the [[ Greek world | ancient-greece ]]. This form of money is said to have originated as sacrificial tokens used in the Temple of [[ Apollo Delphinios ]].
+
+[[ M. L. West | martin-litchfield-west ]] speculated that early [[ Greek religion | ancient-greek-religion ]], and the [[ Orphic Mysteries | orphicism ]] in particular, was heavily influenced by Central Asian [[ shamanistic | shamanism ]] practices. A significant amount of Orphic graffiti unearthed in Olbia seems to testify that the colony was one major point of contact.[[ ^7 ]]
+
+== Hellenistic and Roman periods
+
+In the 4th century BCE the town adopted a democratic constitution, and a treaty came to regulate its relations with [[ Miletus ]][[ ^9 ]] – one that allowed both states to coordinate their operations against [[ Alexander the Great ]]'s general [[ Zopyrion ]] in the 4th century BCE. By the end of the 3rd century the town had declined economically[[ ^1 ]] and accepted the overlordship of King [[ Skilurus ]] of [[ Scythia ]]. It flourished under [[ Mithridates Eupator ]]. Then the [[ Getae ]] under [[ Burebista ]] sacked it, a catastrophe which brought Olbia's economic prominence to an abrupt end.
+
+Two-thirds of its settled area was lost. The Romans restored Olbia, but on a small scale and probably with a largely barbarian population. [[ Dio of Prusa ]] visited the town and described it in his //Borysthenic Discourse// – the town was often called [[ Borysthenes ]], after the river.
+
+Incorporated into the Roman province of Lower [[ Moesia ]], the settlement was eventually abandoned in the 4th century CE, a century in which it was burnt at least twice in the course of the [[ Gothic Wars ]].
+
+== Excavation
+
+The site, designated an archaeological reservation, lies near the village of [[ Parutyne ]] in [[ Mykolaiv Raion ]]. Before 1902 it belonged to the Counts Musin-Pushkins, who did not allow any excavations on their estate. Professional excavation came under [[ Boris Farmakovsky ]], from 1901 to 1915 and again from 1924 to 1926. Because the site was never reoccupied, the finds – inscriptions and sculpture in particular – proved rich. Many of the more notable finds from the period can be seen in the [[ Hermitage Museum ]] in [[ Saint Petersburg ]], Russia.
+
+The work is not finished, and there is pressure on archaeologists to explore the site, which the [[ Black Sea ]] is eroding. In 2016 the Polish Archaeological Mission "Olbia" of the [[ National Museum in Warsaw ]], headed by Alfred Twardecki, started excavations at Olbia.
+
+Among the notable finds from the town are an archaic Greek house in a good state of preservation, from the area of the later acropolis, and a private letter written on a lead tablet around 500 BCE, complaining about an attempt to claim a slave.[[ ^4 ]]
+
+[[ ^1 ]]: //Encyclopedia of Ancient Greece// (ed. by Nigel Guy Wilson). Routledge (UK), 2005. ISBN [[ 0-415-97334-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-415-97334-1 ]]. Page 510.
+
+[[ ^2 ]]: Boardman, John (1980). [[ //The Greeks Overseas: Their Early Colonies and Trade// | https://archive.org/details/greeksoverseas00boar ]]. London: Thames and Hudson Ltd. pp. [[ 251 | https://archive.org/details/greeksoverseas00boar/page/251 ]]. ISBN [[ 9780500250693 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780500250693 ]].
+
+[[ ^3 ]]: Wasowicz, Aleksandra. //Olbia Pontique et son territoire : l'aménagement de l'espace// Paris: Belles-lettres, 1975. OCLC 3035787
+
+[[ ^4 ]]: Boardman, John (1980). [[ //The Greeks Overseas: Their Early Colonies and Trade// | https://archive.org/details/greeksoverseas00boar ]]. London: Thames and Hudson Ltd. pp. [[ 250 | https://archive.org/details/greeksoverseas00boar/page/250 ]]. ISBN [[ 9780500250693 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780500250693 ]].
+
+[[ ^5 ]]: [[ Herodotus ]], //Histories//, 4.19
+
+[[ ^6 ]]: [[ "Olbia" | http://www.museum.com.ua/en/istor/sev-zap/olviya/olvia.htm ]]. Odessa Numismatic Museum.
+
+[[ ^7 ]]: West, M. L., //The Orphic Poems//, Oxford : Clarendon Press, 1983. ISBN [[ 0198148542 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0198148542 ]]. Cf. p.146
+
+[[ ^8 ]]: Sear, David R. (1978). //Greek Coins and Their Values //. Volume I: Europe (pp. 168, coin # 1685). Seaby Ltd., London. ISBN [[ 0 900652 46 2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0_900652_46_2 ]]
+
+[[ ^9 ]]: Serhii Plokhy (2015) "The Gates of Europe : A History of Ukraine" New York : Basic Books
+
+[[ ^1 ]]: A board of food commissioners was set up to distribute cereals among the population.

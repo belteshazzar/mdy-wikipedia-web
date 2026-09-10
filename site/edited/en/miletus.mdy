@@ -1,0 +1,1899 @@
++++
+title: Miletus
+description: Ancient Greek city in Asia-Minor
+hook: After Persia crushed the Ionian Revolt at the Battle of Lade in 494 BC,
+  it punished Miletus by selling all of the women and children into slavery,
+  killing the men, and expelling all of the young men as eunuchs, "thereby
+  assuring that no Miletus citizen would ever be born again". A year later the
+  Athenians fined a playwright for putting the city's capture on stage.
+standfirst: An ancient Greek city on the western coast of Anatolia, near the
+  mouth of the Maeander in present-day Turkey. Renowned in antiquity for its
+  wealth, maritime power and colonies, it was a centre of trade and innovation
+  from the Bronze Age to the Roman period, and the home of Thales, Anaximander
+  and Anaximenes.
+key-facts:
+  - name: Where it is
+    value: Balat, Didim, Aydın Province, Turkey
+    from: "  location: Balat, Didim, Aydın Province, Turkey"
+  - name: Region
+    value: Aegean Region
+    from: "  region: Aegean Region"
+  - name: Built by
+    value: Minoans (later Mycenaeans) and then Ionians (the later on a former
+      Anatolian site)
+    from: "    built-by: Minoans (later Mycenaeans) and then Ionians (the later on
+      a former Anatolian site)"
+  - name: Area of the site
+    value: 90 ha (220 acres)
+    from: |2-
+        site-notes:
+          area: 90 ha (220 acres)
+          public-access: Yes
+          website: Miletus Archaeological Site
+  - name: Open to visitors
+    value: Yes, as the Miletus Archaeological Site
+    from: |2-
+          public-access: Yes
+          website: Miletus Archaeological Site
+  - name: Its name in Greek
+    value: Μίλητος
+    from: "    native-label: Μίλητος"
+pull-quotes:
+  - text: Miletus was first founded and fortified above the sea by Cretans, where
+      the Miletus of olden times is now situated, being settled by Sarpedon,
+      who brought colonists from the Cretan Miletus and named the city after
+      that Miletus
+    attribution: Ephorus, quoted by Strabo
+    section: minoan-period
+  - text: he destroyed the trees and the crops of the land, and so returned to
+      where he came from; for as the Milesians had command of the sea, it was
+      of no use for his army to besiege their city
+    attribution: Herodotus, describing the tactics of Alyattes against the
+      Milesian countryside
+    section: economy-and-land-use
+  - text: Thales, the founder of this kind of philosophy, stated it to be water.
+      (This is why he declared that the earth rests on water.)
+    attribution: Aristotle
+    section: philosophy
+  - text: The things that are perish into the things from which they come to be,
+      according to necessity, for they pay penalty and retribution to each
+      other for their injustice in accordance with the ordering of time, as he
+      says in rather poetical language.
+    attribution: Aristotle, via Simplicius, on Anaximander
+    section: philosophy
+timeline:
+  - when: 3500–3000 BC
+    what: A Neolithic population inhabits the islands on which Miletus was
+      originally placed.
+    from: >-
+      The earliest available archaeological evidence indicates that the
+      islands on
+
+      which Miletus was originally placed were inhabited by a [[ Neolithic ]]
+
+      population in 3500–3000 BC.[[ ^4 ]] Pollen in [[ core samples |
+      core-sample ]]
+  - when: 2000 BC
+    what: The earliest Minoan settlement of Miletus.
+    from: The earliest Minoan settlement of Miletus dates to 2000 BC.[[ ^5 ]]
+      Beginning
+  - when: 1600 BC
+    what: Wikidata places Miletus in Ionia, from 1600 BC to 1453.
+    from: |2-
+            - value: Ionia
+              from: 1600 BC
+              to: "1453"
+  - when: c. 1450 to 1100 BC
+    what: Miletus is a Mycenaean stronghold on the coast of Asia Minor.
+    from: >-
+      Miletus was a [[ Mycenaean | mycenae ]] stronghold on the coast of Asia
+      Minor
+
+      from c. 1450 to 1100 BC.[[ ^10 ]] In c. 1320 BC, the city supported an
+  - when: c. 1320 BC
+    what: The city backs Uhha-Ziti's anti-Hittite rebellion; Muršili's generals
+      raid Millawanda and burn parts of it.
+    from: >-
+      anti-Hittite rebellion of [[ Uhha-Ziti ]] of nearby [[ Arzawa ]].
+
+      [[ Muršili | muršili-ii ]] ordered his generals Mala-Ziti and [[ Gulla
+      ]] to
+
+      raid Millawanda, and they proceeded to burn parts of it; damage from
+
+      [[ LHIIIA | helladic-period ]] found on-site has been associated with
+      this
+
+      raid.[[ ^11 ]] In addition the town was fortified according to a Hittite
+
+      plan.[[ ^12 ]]
+  - when: 11th century BC
+    what: The inception recorded in Wikidata.
+    from: "    inception: 11th century BC"
+  - when: 494 BC
+    what: Persia quashes the Ionian Revolt at the Battle of Lade and destroys the
+      citizen body of Miletus.
+    from: >-
+      [[ Battle of Lade ]] in 494 BC and punished Miletus by selling all of
+      the
+
+      women and children into slavery, killing the men, and expelling all of
+      the
+
+      young men as eunuchs, thereby assuring that no Miletus citizen would
+      ever be
+
+      born again. A year afterward, [[ Phrynicus | phrynichus-tragic-poet ]]
+  - when: 479 BC
+    what: The Greeks defeat the Persians at Plataea and Miletus is freed from
+      Persian rule.
+    from: >-
+      In 479 BC, the Greeks decisively defeated the Persians on the Greek
+      mainland
+
+      at the [[ Battle of Plataea ]], and Miletus was freed from Persian rule.
+  - when: 387 BC
+    what: The Peace of Antalcidas gives Artaxerxes II control of the Ionian
+      city-states, Miletus among them.
+    from: >-
+      In 387 BC, the [[ Peace of Antalcidas ]] gave the Persian
+
+      [[ Achaemenid Empire ]] under king [[ Artaxerxes II ]] control of the
+      Greek
+
+      city-states of [[ Ionia ]], including Miletus.
+  - when: 334 BC
+    what: Alexander's forces take the city in the Siege of Miletus; it reaches its
+      greatest extent, about 90 hectares (220 acres).
+    from: >-
+      In 334 BC, the [[ Siege of Miletus ]] by the forces of
+
+      [[ Alexander the Great ]] of Macedonia conquered the city. The conquest
+      of
+
+      most of the rest of Asia Minor soon followed. In this period, the city
+      reached
+
+      its greatest extent, occupying within its walls an area of approximately
+      90
+
+      hectares (220 acres).[[ ^24 ]]
+  - when: 323 BC
+    what: Alexander dies and Miletus passes to Ptolemy, governor of Caria, and his
+      satrap of Lydia, Asander.
+    from: >-
+      When Alexander died in 323 BC, Miletus came under the control of
+      Ptolemy,
+
+      governor of [[ Caria ]], and his satrap of Lydia, [[ Asander ]], who had
+
+      become autonomous.[[ ^25 ]] In 312 BC, Macedonian general
+  - when: 280/279 BC
+    what: The Milesians adopt a new chronological system based on the Seleucids.
+    from: >-
+      he was defeated by the Seleucids at the [[ Battle of Corupedium ]]. In
+      280/279
+
+      BC the Milesians adopted a new chronological system based on the
+      Seleucids.
+  - when: 279 BC
+    what: Ptolemy II Philadelphus takes the city from Antiochus I; Egyptian sway
+      lasts to the end of the century.
+    from: >-
+      In 279 BC, the city was taken from Seleucid king [[ Antiochus I ]] by
+      Egyptian
+
+      king [[ Ptolemy II Philadelphus ]], who donated a large area of land to
+      cement
+
+      their friendship, and it remained under Egyptian sway until the end of
+      the
+
+      century.[[ ^26 ]]
+  - when: 133 BC
+    what: After an alliance with Rome, Miletus becomes part of the province of
+      Asia.
+    from: >-
+      After an alliance with Rome, in 133 BC the city became part of the
+      province of
+
+      Asia.
+  - when: 57 AD
+    what: The New Testament has the Apostle Paul meet the elders of the church of
+      Ephesus at Miletus.
+    from: >-
+      The [[ New Testament ]] mentions Miletus as the site where the Apostle
+
+      [[ Paul | paul-of-tarsus ]] in 57 AD met the elders of the
+
+      [[ church | mother-church ]] of [[ Ephesus ]] near the close of his
+      Third
+
+      Missionary Journey, as recorded in [[ Acts of the Apostles ]] (Acts
+      20:15–38).
+  - when: "262"
+    what: New city walls are built.
+    from: In 262 new city walls were built.
+  - when: "538"
+    what: Justinian rebuilds the walls, but Miletus has become a small town.
+    from: >-
+      However the harbour was silting up and the economy was in decline. In
+      538
+
+      emperor [[ Justinian ]] rebuilt the walls but it had become a small
+      town.
+  - when: "1369"
+    what: The archbishopric of Miletus is assumed by Stauropolis as the Anatolian
+      Beyliks press in.
+    from: >-
+      headed by a [[ curator | curator-bonis ]].[[ ^27 ]][[ ^28 ]] In 1369,
+      the
+
+      archbishopric of Miletus, along with the one of
+
+      [[ Antioch on the Meander | antioch-on-the-maeander ]], were assumed by
+
+      [[ Stauropolis | stauropolis-diocese ]] due to their decline, as a
+      result of
+
+      the threat posed by the [[ Anatolian Beyliks ]].[[ ^29 ]]
+  - when: 14th century
+    what: Seljuk Turks conquer the city and use it as a port for trade with Venice.
+    from: >-
+      [[ Seljuk Turks ]] conquered the city in the 14th century and used
+      Miletus as
+
+      a port to trade with [[ Venice ]].
+  - when: 15th century
+    what: The Ottomans use Miletus as a harbour; as it silts up the city is
+      abandoned.
+    from: >-
+      In the 15th century, the [[ Ottomans | ottoman-turks ]] utilized the
+      city as a
+
+      harbour during their rule in [[ Anatolia ]]. As the harbour became
+      silted up,
+
+      the city was abandoned. Due to ancient and subsequent
+  - when: "1403"
+    what: The Ilyas Bey Complex with its mosque is built.
+    from: >-
+      The [[ Ilyas Bey Complex | ilyas-bey-mosque ]] from 1403 with its mosque
+      is a
+
+      [[ Europa Nostra ]] awarded cultural heritage site in Miletus.
+  - when: "1873"
+    what: Olivier Rayet conducts the first excavations at Miletus.
+    from: >-
+      The first excavations in Miletus were conducted by the French
+      archaeologist
+
+      [[ Olivier Rayet ]] in 1873, followed by the German archaeologists
+      Julius
+
+      Hülsen and [[ Theodor Wiegand ]][[ ^31 ]][[ ^32 ]][[ ^33 ]] between 1899
+      and
+
+      1931.
+image-plan:
+  - file: The_Ionic_Stoa_of_Miletus.jpg
+    role: hero
+    section: lead
+    caption: The Ionic Stoa stood on the Sacred Way, the ceremonial road that ran
+      from the city to the sanctuary of [[ Apollo ]] at [[ Didyma ]], roughly
+      18 kilometers south.[[ ^60 ]]
+  - file: Map_of_Lydia_ancient_times.jpg
+    role: inline
+    section: history
+    caption: Miletus and other cities within the Lydian Empire. The city's
+      independence survived a 12-year war fought against the [[ Lydian Empire
+      ]].[[ ^18 ]]
+  - file: Miletos_stadsplan_400.jpg
+    role: full
+    section: classical-greek-period
+    caption: The plan of Milet in the Classical period, when the grid was carried
+      across the whole area within the city wall. It became known as the
+      "Hippodamian plan", after [[ Hippodamus of Miletus ]].[[ ^20 ]]
+  - file: Rilievo_egizio_di_dea_madre,_da_santuario_di_atena_a_mileto,_VII_sec_ac.JPG
+    role: inline
+    section: egyptian-period
+    caption: An Egyptian artefact found in Miletus.
+  - file: Palation_Castle.jpg
+    role: inline
+    section: byzantine-period
+    caption: Palation, the small Byzantine castle built on the hill beside the city.
+  - file: İlyas_Bey.jpg
+    role: inline
+    section: turkish-rule
+    caption: The Ottoman [[ Ilyas Bey mosque ]] on the Miletus site. The [[ Ilyas
+      Bey Complex | ilyas-bey-mosque ]] of 1403 is a [[ Europa Nostra ]]
+      awarded cultural heritage site.
+  - file: Markttor_zu_Milet-Pergamonmuseum-2018.jpg
+    role: full
+    section: archaeological-excavations
+    caption: The [[ Market Gate of Miletus ]], taken to Germany piece by piece
+      after the first excavations of the 19th century and reassembled in the
+      [[ Pergamon Museum ]] in [[ Berlin ]].
+  - file: Miletus_Bay_silting_evolution_map-en.svg
+    role: full
+    section: geography
+    caption: Miletus at the [[ Maeander River | büyük-menderes-river ]]'s mouth.
+      Sedimentation of the harbor began at about 1000 BC, and by 300 AD [[
+      Lake Bafa ]] had been created.[[ ^39 ]]
+  - file: Colonies_of_Miletus.svg
+    role: full
+    section: colonies
+    caption: Major Milesian colonial foundations around the Black Sea, phased by
+      date. [[ Pliny the Elder ]] says Miletus founded over 90 colonies.
+  - file: Milète_sanctuaire_d'Apollon.jpg
+    role: inline
+    section: apollo-delphinion
+    caption: Sanctuary of Apollo. The Delphinion, sanctuary of Apollo Delphinios,
+      originated in the 6th century BCE and remained in use through the Roman
+      period.[[ ^62 ]]
+  - file: Delphinion_Miletus_3D_Reconstruction.png
+    role: inline
+    section: apollo-delphinion
+    caption: "A 3D reconstruction of the Delphinion: a rectangular peristyle
+      courtyard lined with colonnades,[[ ^66 ]] the complex measuring
+      approximately 60 × 50 m.[[ ^67 ]]"
+  - file: Illustrerad_Verldshistoria_band_I_Ill_107.jpg
+    role: inline
+    section: notable-people
+    caption: "[[ Thales of Miletus ]], mathematician, astronomer and pre-Socratic
+      philosopher from the city, historically recognized as the first
+      individual known to have entertained and engaged in scientific
+      philosophy."
+glossary:
+  - term: Milesian school
+    gloss: "Thales, Anaximander and Anaximenes together: 6th-century BCE thinkers
+      who investigated the material basis of the cosmos through rational,
+      systematic inquiry rather than mythological narrative."
+    from: >-
+      Miletus played a foundational role in the origins of Western
+      philosophical
+
+      inquiry. In the 6th century BCE, thinkers such as [[ Thales ]],
+
+      [[ Anaximander ]], and [[ Anaximenes | anaximenes-of-miletus
+      ]]—collectively
+
+      known as the [[ Milesian school ]]—began to investigate the material
+      basis of
+
+      the cosmos through rational, systematic inquiry rather than mythological
+
+      narrative.[[ ^54 ]]
+  - term: apeiron
+    gloss: "Anaximander's term for the infinite or indefinite: the arkhē and
+      element of things that are, neither water nor any of the other things
+      called elements."
+    from: >-
+      Thales' student Anaximander introduced the concept of the [[ apeiron ]]
+      (the
+
+      infinite or indefinite) as a more abstract source of existence.
+      According to
+
+      Aristotle (via [[ Simplicius | simplicius-of-cilicia ]]):
+      "Anaximander\...
+
+      said that the apeiron was the arkhē and element of things that are, and
+      he was
+
+      the first to introduce this name for the arkhē. \...He says that the
+      arkhē is
+
+      neither water nor any of the other things called elements, but some
+      other
+
+      nature which is apeiron, out of which come to be all the heavens and the
+
+      worlds in them. The things that are perish into the things from which
+      they
+  - term: Sacred Way
+    gloss: The ceremonial road from Miletus to Didyma, a route for ritual
+      processions and pilgrimage festivals.
+    from: >-
+      Miletus had several significant religious institutions, the most
+      important of
+
+      which was the sanctuary of [[ Apollo ]] at [[ Didyma ]], located roughly
+      18
+
+      kilometers south of the city. The sanctuary was connected to the city by
+      a
+
+      ceremonial road known as the Sacred Way, which served as a route for
+      ritual
+
+      processions and pilgrimage festivals.[[ ^60 ]]
+  - term: Molpoi
+    gloss: The guild responsible for musical and ceremonial functions at Miletus,
+      whose duties were administered from the Delphinion.
+    from: >-
+      Ritual duties of the Molpoi, the guild responsible for musical and
+      ceremonial
+
+      functions, were administered from the site. Their responsibilities
+      included
+
+      offerings at designated stations along the Sacred Way, the ca. 18 km
+
+      processional route leading from the Delphinion to the oracle of Apollo
+      at
+
+      Didyma.[[ ^64 ]] The sanctuary's shoreline placement, the presence of
+      Kosmoi
+  - term: Hippodamian plan
+    gloss: The gridlike layout designed by Hippodamus of Miletus, which became the
+      basic layout for new Hellenistic and Roman foundations.
+    from: >-
+      Archaic appearances.[[ ^23 ]] The city's gridlike layout was also
+      constructed
+
+      across all the area within the city wall, designed by
+
+      [[ Hippodamus of Miletus ]]. It later became famous and was known as the
+
+      "Hippodamian plan", serving as the basic layout for the new foundations
+      of
+
+      Hellenistic and [[ Roman | ancient-rome ]] cities.[[ ^20 ]]
+  - term: stasis
+    gloss: Internal conflict within a Greek city, one of the political factors
+      that pushed Milesians overseas.
+    from: >-
+      easily available in [[ Ionia ]]. Political factors, such as
+
+      [[ stasis | stasis-political-history ]] (internal conflict) and the
+      impact of
+
+      foreign powers like [[ Lydia ]] and [[ Persia | achaemenid-empire ]],
+      also
+
+      contributed, sometimes prompting groups or exiles to establish new
+      settlements
+  - term: Fikellura
+    gloss: A pottery fabric named after a site on Rhodes to which it was once
+      attributed; its production centre is now established as Miletus.
+    from: >2-
+          The name Fikellura derives from a site on the island of Rhodes to
+      which this
+          fabric has been attributed. It is now established that the center of
+          production was Miletus.
+  - term: mi-ra-ti-ja
+    gloss: Mycenaean Greek for "women from Miletus", written in Linear B and used
+      of female slaves at Pylos.
+    from: >-
+      In the last stage of LHIIIB, the citadel of Bronze Age [[ Pylos ]]
+      counted
+
+      among its female slaves a // mi-ra-ti-ja//, [[ Mycenaean Greek ]] for
+      "women
+
+      from Miletus", written in [[ Linear B ]] syllabic script.[[ ^14 ]]
+further:
+  - slug: achaemenid-empire
+    why: "Persia ruled Miletus twice: after Cyrus defeated Croesus of Lydia, and
+      again under the Peace of Antalcidas of 387 BC."
+  - slug: alexander-the-great
+    why: His forces took the city in the Siege of Miletus in 334 BC, after which
+      it reached its greatest extent.
+  - slug: ancient-greece
+    why: Miletus founded dozens of colonies around the Mediterranean and Black
+      Sea, significantly shaping the Greek world's expansion.
+anchors:
+  hook: >-
+    When [[ Cyrus | cyrus-the-great ]] of Persia defeated [[ Croesus ]] of
+    Lydia
+
+    in the middle of the 6th century BC, Miletus fell under
+
+    [[ Persian | achaemenid-empire ]] rule. In 499 BC, Miletus's [[ tyrant ]]
+
+    [[ Aristagoras ]] became the leader of the [[ Ionian Revolt ]] against the
+
+    Persians, who, under [[ Darius the Great ]], quashed this rebellion in the
+
+    [[ Battle of Lade ]] in 494 BC and punished Miletus by selling all of the
+
+    women and children into slavery, killing the men, and expelling all of the
+
+    young men as eunuchs, thereby assuring that no Miletus citizen would ever
+    be
+
+    born again. A year afterward, [[ Phrynicus | phrynichus-tragic-poet ]]
+
+    produced the tragedy //The Capture of Miletus// in Athens. The Athenians
+    fined
+
+    him for reminding them of their loss.[[ ^22 ]]
+  standfirst: >-
+    !!Miletus!! (Ancient Greek: Μίλητος,
+
+    [[ romanised | romanization-of-ancient-greek ]]: //Mílētos//) was an
+
+    influential ancient Greek city on the western coast of [[ Anatolia ]],
+    near
+
+    the mouth of the [[ Maeander River ]] in present day [[ Turkey ]].
+    Renowned in
+
+    antiquity for its wealth, maritime power, and extensive network of
+    colonies,
+
+    Miletus was a major center of trade, culture, and innovation from the
+
+    [[ Bronze Age ]] through the [[ Roman period ]]. The city played a
+
+    foundational role in the development of early [[ Greek philosophy ]] and
+
+    science, serving as the home of the [[ Milesian school ]] with thinkers
+    such
+
+    as [[ Thales ]], [[ Anaximander ]], and
+
+    [[ Anaximenes | anaximenes-of-miletus ]].
+coordinates:
+  lat: 37.53027778
+  lon: 27.27833333
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Miletus_-_Ancient_Greek_theatre_02.jpg/3840px-Miletus_-_Ancient_Greek_theatre_02.jpg
+images:
+  - file: Map_of_Lydia_ancient_times.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Map_of_Lydia_ancient_times.jpg/250px-Map_of_Lydia_ancient_times.jpg
+    width: 400
+    height: 277
+    caption: Map of Miletus and other cities within the Lydian Empire
+  - file: The_Ionic_Stoa_of_Miletus.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Ionic_Stoa_of_Miletus.jpg/330px-The_Ionic_Stoa_of_Miletus.jpg
+    width: 4032
+    height: 1860
+    caption: The Ionic Stoa on the Sacred Way in Miletus
+  - file: Miletos_stadsplan_400.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Miletos_stadsplan_400.jpg/250px-Miletos_stadsplan_400.jpg
+    width: 1027
+    height: 1317
+    caption: The plan of Milet in the Classical period
+  - file: Rilievo_egizio_di_dea_madre,_da_santuario_di_atena_a_mileto,_VII_sec_ac.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rilievo_egizio_di_dea_madre%2C_da_santuario_di_atena_a_mileto%2C_VII_sec_ac.JPG/250px-Rilievo_egizio_di_dea_madre%2C_da_santuario_di_atena_a_mileto%2C_VII_sec_ac.JPG
+    width: 1160
+    height: 2704
+    caption: Egyptian artefact found in Miletus
+  - file: Palation_Castle.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Palation_Castle.jpg/250px-Palation_Castle.jpg
+    width: 3163
+    height: 2030
+    caption: Byzantine Palation Castle
+  - file: İlyas_Bey.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%C4%B0lyas_Bey.jpg/250px-%C4%B0lyas_Bey.jpg
+    width: 3872
+    height: 2592
+    caption: The Ottoman Ilyas Bey mosque from the Turkish period at the Miletus site
+  - file: Markttor_zu_Milet-Pergamonmuseum-2018.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Markttor_zu_Milet-Pergamonmuseum-2018.jpg/250px-Markttor_zu_Milet-Pergamonmuseum-2018.jpg
+    width: 3648
+    height: 2432
+    caption: The Market Gate of Miletus at the Pergamon Museum in Berlin
+  - file: Miletus_Bay_silting_evolution_map-en.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Miletus_Bay_silting_evolution_map-en.svg/250px-Miletus_Bay_silting_evolution_map-en.svg.png
+    width: 1857
+    height: 1349
+    caption: Location of Miletus at the Maeander River's mouth
+  - file: Colonies_of_Miletus.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Colonies_of_Miletus.svg/500px-Colonies_of_Miletus.svg.png
+    width: 695
+    height: 466
+    caption: Map of the Black Sea, featuring the chronological phasing of major
+      Milesian colonial foundations
+  - file: Milète_sanctuaire_d'Apollon.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mil%C3%A8te_sanctuaire_d%27Apollon.jpg/250px-Mil%C3%A8te_sanctuaire_d%27Apollon.jpg
+    width: 2560
+    height: 1920
+    caption: Sanctuary of Apollo
+  - file: Delphinion_Miletus_3D_Reconstruction.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Delphinion_Miletus_3D_Reconstruction.png/250px-Delphinion_Miletus_3D_Reconstruction.png
+    width: 2940
+    height: 1511
+    caption: 3D reconstruction of the Apollo Delphinion at Miletus
+  - file: Illustrerad_Verldshistoria_band_I_Ill_107.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illustrerad_Verldshistoria_band_I_Ill_107.jpg/250px-Illustrerad_Verldshistoria_band_I_Ill_107.jpg
+    width: 1541
+    height: 2345
+    caption: Thales of Miletus was a Greek mathematician, astronomer and
+      pre-Socratic philosopher from the city. He is otherwise historically
+      recognized as the first individual known to have entertained and engaged
+      in scientific philosophy.
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Miletus_-_Ancient_Greek_theatre_02.jpg/330px-Miletus_-_Ancient_Greek_theatre_02.jpg
+  type: Settlement
+  location: Balat, Didim, Aydın Province, Turkey
+  region: Aegean Region
+  history:
+    built-by: Minoans (later Mycenaeans) and then Ionians (the later on a former
+      Anatolian site)
+  site-notes:
+    area: 90 ha (220 acres)
+    public-access: Yes
+    website: Miletus Archaeological Site
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: neolithic
+    title: Neolithic
+  - level: 3
+    id: middle-bronze-age
+    title: Middle Bronze Age
+  - level: 4
+    id: minoan-period
+    title: Minoan period
+  - level: 3
+    id: late-bronze-age
+    title: Late Bronze Age
+  - level: 4
+    id: mycenaean-period
+    title: Mycenaean period
+  - level: 4
+    id: fall-of-miletus
+    title: Fall of Miletus
+  - level: 3
+    id: dark-age
+    title: Dark Age
+  - level: 3
+    id: archaic-period
+    title: Archaic period
+  - level: 4
+    id: ties-with-megara
+    title: Ties with Megara
+  - level: 3
+    id: first-achaemenid-period
+    title: First Achaemenid period
+  - level: 3
+    id: classical-greek-period
+    title: Classical Greek period
+  - level: 3
+    id: second-achaemenid-period
+    title: Second Achaemenid period
+  - level: 3
+    id: macedonian-period
+    title: Macedonian period
+  - level: 3
+    id: seleucid-period
+    title: Seleucid period
+  - level: 3
+    id: egyptian-period
+    title: Egyptian period
+  - level: 3
+    id: roman-period
+    title: Roman period
+  - level: 3
+    id: byzantine-period
+    title: Byzantine period
+  - level: 3
+    id: turkish-rule
+    title: Turkish rule
+  - level: 3
+    id: archaeological-excavations
+    title: Archaeological excavations
+  - level: 3
+    id: examples-of-the-milesian-vase
+    title: Examples of the Milesian Vase
+  - level: 2
+    id: geography
+    title: Geography
+  - level: 3
+    id: geology
+    title: Geology
+  - level: 2
+    id: gallery
+    title: Gallery
+  - level: 2
+    id: economy-and-land-use
+    title: Economy and Land Use
+  - level: 2
+    id: colonies
+    title: Colonies
+  - level: 2
+    id: philosophy
+    title: Philosophy
+  - level: 2
+    id: religion-and-the-sacred-way
+    title: Religion and the Sacred Way
+  - level: 2
+    id: apollo-delphinion
+    title: Apollo Delphinion
+  - level: 2
+    id: notable-people
+    title: Notable people
+  - level: 2
+    id: references-and-sources
+    title: References and sources
+wikidata:
+  id: Q169460
+  label: Miletus
+  description: ancient city of Ionia, in modern-day Turkey
+  claims:
+    located-in-the-administrative-territorial-entity:
+      - value: Balat
+        from: 20th century
+      - value: Ionia
+        from: 1600 BC
+        to: "1453"
+      - value: Aydın Province
+      - value: Didim
+    instance-of:
+      - polis
+      - archaeological site
+    commons-category: Miletus
+    coordinate-location:
+      - lat: 37.531111
+        lon: 27.275556
+      - lat: 37.530233
+        lon: 27.278369
+    member-of: Delian League
+    topic-s-main-category: Category:Miletus
+    country: Turkey
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/The_Theater_of_Miletus.jpg
+    part-of: Ancient Greece
+    official-website: http://www.muze.gov.tr/miletus-en
+    category-of-associated-people: Category:Ancient Milesians
+    category-for-people-born-here: Q20203383
+    category-for-people-who-died-here: Q20203386
+    described-by-source:
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Sytin Military Encyclopedia
+      - Russian translation of Lübker's Antiquity Lexicon
+      - The Nuttall Encyclopædia
+      - Great Soviet Encyclopedia (1926–1947)
+      - Meyers Konversations-Lexikon, 4th edition (1885–1890)
+      - Encyclopædia Britannica 11th edition
+      - The New Student's Reference Work
+      - Jewish Encyclopedia of Brockhaus and Efron
+      - Armenian Soviet Encyclopedia, vol. 7
+      - Meyer’s Universum, Dreizehnter Band
+    significant-event: Siege of Miletus
+    native-label: Μίλητος
+    affiliation: Museum Directorate of Milet
+    bathymetry-image: https://commons.wikimedia.org/wiki/Special:FilePath/Aegean_Sea_map_bathymetry-fr.jpg
+    inception: 11th century BC
+    dissolved-abolished-or-demolished: 15th century
+    state-of-conservation: preserved
+    located-in-on-physical-feature: Aegean Region
+link-titles:
+  1-corinthians: 1 Corinthians
+  2-timothy: 2 Timothy
+  abydos-hellespont: Abydos (Hellespont)
+  achaeans-homer: Achaeans (Homer)
+  achaemenid-empire: Achaemenid Empire
+  acts-of-the-apostles: Acts of the Apostles
+  aegean-sea: Aegean Sea
+  aeschines-of-miletus: Aeschines of Miletus
+  alexander-polyhistor: Alexander Polyhistor
+  alexander-the-great: Alexander the Great
+  alluvium: Alluvium
+  alyattes: Alyattes
+  amisos: Amisos
+  amphimachus: Amphimachus
+  amphora: Amphora
+  anatolia: Anatolia
+  anatolian-beyliks: Anatolian beyliks
+  anatolians: Anatolians
+  anaximander: Anaximander
+  anaximenes-of-miletus: Anaximenes of Miletus
+  ancient-athenian-empire: Ancient Athenian Empire
+  ancient-corinth: Ancient Corinth
+  ancient-greece: Ancient Greece
+  ancient-greek-language: Ancient Greek language
+  ancient-olympic-games: Ancient Olympic Games
+  ancient-rome: Ancient Rome
+  antigonus-i-monophthalmus: Antigonus I Monophthalmus
+  antioch-on-the-maeander: Antioch on the Maeander
+  antiochus-i: Antiochus I
+  apeiron: Apeiron
+  aphrodite: Aphrodite
+  apollo: Apollo
+  archaic-greece: Archaic Greece
+  arctinus-of-miletus: Arctinus of Miletus
+  aristagoras: Aristagoras
+  aristides-of-miletus: Aristides of Miletus
+  aristotle: Aristotle
+  artaxerxes-ii: Artaxerxes II
+  artaxerxes-iii: Artaxerxes III
+  arzawa: Arzawa
+  asander: Asander
+  asia-minor: Asia Minor
+  asklepius: Asklepius
+  aspasia: Aspasia
+  atriyaactioneditredlink1: Atriya?action=edit&redlink=1
+  aydın: Aydın
+  aydın-province: Aydın Province
+  baccheius-of-miletus: Baccheius of Miletus
+  balat-didim: Balat, Didim
+  battle-of-corupedium: Battle of Corupedium
+  battle-of-ipsus: Battle of Ipsus
+  battle-of-lade: Battle of Lade
+  battle-of-plataea: Battle of Plataea
+  batıköy-didim: Batıköy, Didim
+  before-present: Before Present
+  berezan-island: Berezan Island
+  berlin: Berlin
+  black-sea: Black Sea
+  bochum: Bochum
+  bronze-age: Bronze Age
+  byzantine-empire: Byzantine Empire
+  büyük-menderes-river: Büyük Menderes River
+  cadmus-of-miletus: Cadmus of Miletus
+  car-greek-mythology: Car (Greek mythology)
+  car-king-of-caria: Car (King of Caria)
+  cardia-thrace: Cardia (Thrace)
+  caria: Caria
+  carians: Carians
+  cassander: Cassander
+  cius: Cius
+  classical-greece: Classical Greece
+  climax-forest: Climax forest
+  codrus: Codrus
+  colonae-hellespont: Colonae (Hellespont)
+  constanța: Constanța
+  core-sample: Core sample
+  cotyora: Cotyora
+  crete: Crete
+  croesus: Croesus
+  curator-bonis: Curator bonis
+  cyrus-the-great: Cyrus the Great
+  cyzicus: Cyzicus
+  darius-the-great: Darius the Great
+  deforestation: Deforestation
+  delphi: Delphi
+  demetrius-poliorcetes: Demetrius Poliorcetes
+  demodamas: Demodamas
+  didim: Didim
+  didyma: Didyma
+  diocese: Diocese
+  dioscurias: Dioscurias
+  electrum: Electrum
+  ephesus: Ephesus
+  ephorus: Ephorus
+  erosion: Erosion
+  escarpment: Escarpment
+  europa-nostra: Europa Nostra
+  f.-e.-peters: F. E. Peters
+  feodosiya: Feodosiya
+  geothermal-activity: Geothermal activity
+  germany: Germany
+  grazing: Grazing
+  greek-dark-ages: Greek Dark Ages
+  greek-philosophy: Greek philosophy
+  greeks: Greeks
+  gulla: Gulla
+  harbor: Harbor
+  hecataeus-of-miletus: Hecataeus of Miletus
+  helladic-period: Helladic period
+  hellenistic-civilization: Hellenistic civilization
+  hellenistic-period: Hellenistic period
+  hermonassa-pontus: Hermonassa (Pontus)
+  herodotus: Herodotus
+  heroön: Heroön
+  hesychius-of-miletus: Hesychius of Miletus
+  hippodamus-of-miletus: Hippodamus of Miletus
+  histiaeus: Histiaeus
+  histria-sinoe: Histria (Sinoe)
+  hittite-empire: Hittite empire
+  homer: Homer
+  isbn-identifier: ISBN (identifier)
+  ionia: Ionia
+  ionian-league: Ionian League
+  ionian-revolt: Ionian Revolt
+  isidore-of-miletus: Isidore of Miletus
+  julius-hülsenactioneditredlink1: Julius Hülsen?action=edit&redlink=1
+  justinian: Justinian
+  karabiga: Karabiga
+  karst: Karst
+  kepoi: Kepoi
+  kerasous: Kerasous
+  king-of-athens: King of Athens
+  knossos: Knossos
+  kupanta-kurunta: Kupanta-Kurunta
+  lake-bafa: Lake Bafa
+  lampsacus: Lampsacus
+  late-antiquity: Late Antiquity
+  latmus: Latmus
+  lelantine-war: Lelantine War
+  leleges: Leleges
+  leonidaion: Leonidaion
+  leros: Leros
+  leucippus: Leucippus
+  limnae-bithynia: Limnae (Bithynia)
+  linear-b: Linear B
+  luwian: Luwian
+  lydia: Lydia
+  lydian-empire: Lydian Empire
+  lysimachus: Lysimachus
+  maeander: Maeander
+  maeander-river: Maeander River
+  manapa-tarhunta-letter: Manapa-Tarhunta letter
+  maquis-shrubland: Maquis shrubland
+  market-gate-of-miletus: Market Gate of Miletus
+  mediterranean-sea: Mediterranean Sea
+  megara: Megara
+  metropolitan-bishopric: Metropolitan bishopric
+  milawata-letter: Milawata letter
+  milesian-school: Milesian school
+  milesian-tale: Milesian tale
+  miletopolis: Miletopolis
+  miletus-mythology: Miletus (mythology)
+  minoan-civilization: Minoan civilization
+  mithridates-vi-eupator: Mithridates VI Eupator
+  monime: Monime
+  mother-church: Mother Church
+  muršili-ii: Muršili II
+  mycenae: Mycenae
+  mycenaean-greece: Mycenaean Greece
+  mycenaean-greek: Mycenaean Greek
+  myrmekion: Myrmekion
+  myus: Myus
+  natural-history-pliny: Natural History (Pliny)
+  neanthes-of-cyzicus: Neanthes of Cyzicus
+  near-east: Near East
+  neleus: Neleus
+  neolithic: Neolithic
+  new-testament: New Testament
+  nymphaion-crimea: Nymphaion (Crimea)
+  olbia-ukraine: Olbia, Ukraine
+  olivier-rayet: Olivier Rayet
+  ottoman-turks: Ottoman Turks
+  overgrazing: Overgrazing
+  paesus: Paesus
+  pan-deism: Pan-deism
+  panticapaeum: Panticapaeum
+  parium: Parium
+  pastoralism: Pastoralism
+  patraeus-city: Patraeus (city)
+  paul-of-tarsus: Paul of Tarsus
+  pausanias-geographer: Pausanias (geographer)
+  peace-of-antalcidas: Peace of Antalcidas
+  pergamon-museum: Pergamon Museum
+  periander: Periander
+  pericles: Pericles
+  persian-wars: Persian Wars
+  phanagoria: Phanagoria
+  phasis-town: Phasis (town)
+  phocylides: Phocylides
+  phoroneus: Phoroneus
+  phrynichus-tragic-poet: Phrynichus (tragic poet)
+  pityus: Pityus
+  piyama-radu: Piyama-Radu
+  pleistocene: Pleistocene
+  pliny-the-elder: Pliny the Elder
+  polis: Polis
+  pontic-olbia: Pontic Olbia
+  pre-socratic-philosophy: Pre-Socratic philosophy
+  priene: Priene
+  proconnesus-city: Proconnesus (city)
+  ptolemy-i-soter: Ptolemy I Soter
+  ptolemy-ii-philadelphus: Ptolemy II Philadelphus
+  pylos: Pylos
+  religious-studies: Religious studies
+  return-of-the-heraclids: Return of the Heraclids
+  rift-valley: Rift valley
+  roman-empire: Roman Empire
+  roman-period: Roman period
+  romanization-of-ancient-greek: Romanization of Ancient Greek
+  ruhr-university: Ruhr University
+  sacred-way-miletusactioneditredlink1: Sacred Way (Miletus)?action=edit&redlink=1
+  sarpedon: Sarpedon
+  scepsis: Scepsis
+  sea-peoples: Sea Peoples
+  sediment: Sediment
+  see-of-miletus: See of Miletus
+  seleucid-empire: Seleucid Empire
+  seleucus-i-nicator: Seleucus I Nicator
+  seljuk-turks: Seljuk Turks
+  siege-of-miletus: Siege of Miletus
+  simplicius-of-cilicia: Simplicius of Cilicia
+  sinop-turkey: Sinop, Turkey
+  soil-degradation: Soil degradation
+  sozopol: Sozopol
+  spring-hydrology: Spring (hydrology)
+  stasis-political-history: Stasis (political history)
+  stauropolis-diocese: Stauropolis (diocese)
+  strabo: Strabo
+  tanais: Tanais
+  tawagalawa-letter: Tawagalawa letter
+  tenedos: Tenedos
+  thales: Thales
+  thales-of-miletus: Thales of Miletus
+  theodor-wiegand: Theodor Wiegand
+  thrasybulus-tyrant: Thrasybulus (tyrant)
+  tium: Tium
+  topography: Topography
+  trapezunt: Trapezunt
+  trojan-war: Trojan War
+  trophimus: Trophimus
+  turkey: Turkey
+  tyrant: Tyrant
+  tyras: Tyras
+  tyritake: Tyritake
+  uhha-ziti: Uhha-Ziti
+  varna-bulgaria: Varna, Bulgaria
+  venice: Venice
+  ilyas-bey-mosque: İlyas Bey Mosque
+source:
+  site: Wikipedia
+  lang: en
+  title: Miletus
+  url: https://en.wikipedia.org/wiki/Miletus
+  page-id: 70997
+  revision: "1368321533"
+  modified: 2026-08-08T10:48:05Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Miletus"
+    (revision 1368321533), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/miletus.mdy
+  source-digest: 0f4b984cfeec4ea3
+  source-revision: "1368321533"
+  model: claude-opus-5
+  left-out: The "History" section has no prose of its own in the source, only a
+    map figure; its body here is a single bridging sentence assembled from
+    claims made in its subsections, and the map is placed there in the image
+    plan. Several pictures in the article are not among the supplied file
+    names — the panoramic view of the theatre, the Didyma temple and Apollo
+    statue in "Ties with Megara", the electrum and silver coinage, the vase
+    fragments in "Examples of the Milesian Vase" and the eight gallery
+    photographs — so they have no image-plan entries; "Gallery" and "Examples
+    of the Milesian Vase" are kept as their original captions and the one line
+    of prose the latter carries. "Second Achaemenid period", "Roman period",
+    "Fall of Miletus", "Late Bronze Age", "Middle Bronze Age", "Archaic
+    period" and "Geography" carry no footnote references in the source, so
+    none could be carried into the rewrite. The list sections ("Colonies",
+    "Notable people", "References and sources") are reproduced as lists rather
+    than turned into prose.
+  verified: true
+  verdict: minor-only
+  findings: 1
+  reviewed: false
++++
+!!Miletus!! (Ancient Greek: Μίλητος,
+[[ romanised | romanization-of-ancient-greek ]]: //Mílētos//) stood on the
+western coast of [[ Anatolia ]], near the mouth of the [[ Maeander River ]] in
+present day [[ Turkey ]]. From the [[ Bronze Age ]] through the
+[[ Roman period ]] it was a major center of trade, culture, and innovation,
+renowned in antiquity for its wealth, maritime power, and extensive network of
+colonies. It was also where early [[ Greek philosophy ]] and science began: the
+home of the [[ Milesian school ]], with thinkers such as [[ Thales ]],
+[[ Anaximander ]], and [[ Anaximenes | anaximenes-of-miletus ]].
+
+Two things paid for that. One was the city's strategic coastal location; the
+other was the productivity of its surrounding rural hinterland, which supported
+thriving agriculture and facilitated wide-ranging commercial activity. Miletus
+established dozens of colonies around the
+[[ Mediterranean | mediterranean-sea ]] and [[ Black Sea ]], significantly
+shaping the [[ Greek world | ancient-greece ]]'s expansion.
+
+Archaeological investigations have revealed a rich material culture: the
+sanctuary of [[ Apollo ]] at [[ Didyma ]], remnants of the city's distinctive
+grid plan, and evidence of long-term agricultural and rural management.
+Throughout its history, Miletus experienced periods of autonomy and foreign
+rule, serving as a cultural crossroads between [[ Greek | greeks ]],
+[[ Anatolian | anatolians ]], and later [[ Persian | achaemenid-empire ]] and
+[[ Roman | roman-empire ]] spheres. The city's enduring legacy is reflected in
+its contributions to philosophy, urban planning, and the spread of Greek
+civilization.
+
+== History
+
+Occupation at Miletus runs from a [[ Neolithic ]] population on the islands at
+the mouth of the [[ Maeander ]] in 3500–3000 BC[[ ^4 ]] to an Ottoman harbour
+abandoned once it had silted up.
+
+== Neolithic
+
+The earliest available archaeological evidence indicates that the islands on
+which Miletus was originally placed were inhabited by a [[ Neolithic ]]
+population in 3500–3000 BC.[[ ^4 ]] Inland, pollen in
+[[ core samples | core-sample ]] from [[ Lake Bafa ]] in the
+[[ Latmus | latmus#prehistory ]] region suggests that a lightly
+[[ grazed | grazing ]] [[ climax forest ]] prevailed in the [[ Maeander ]]
+valley, otherwise untenanted. Settlement was sparse and clustered at
+[[ springs | spring-hydrology ]], numerous and sometimes
+[[ geothermal | geothermal-activity ]] in this [[ karst ]],
+[[ rift valley ]] [[ topography ]].
+
+The islands offshore were settled perhaps for their strategic significance at
+the mouth of the Maeander, a route inland protected by
+[[ escarpments | escarpment ]]. The [[ graziers | pastoralism ]] in the valley
+may have belonged to them, but the location looked to the sea.
+
+== Middle Bronze Age
+
+The prehistoric archaeology of the Early and Middle Bronze Age portrays a city
+heavily influenced by society and events elsewhere in the Aegean, rather than
+inland.
+
+== Minoan period
+
+The earliest Minoan settlement of Miletus dates to 2000 BC.[[ ^5 ]] Beginning
+at about 1900 BC artifacts of the [[ Minoan civilization ]] acquired by trade
+arrived at the site.[[ ^4 ]] For some centuries the location received a strong
+impulse from that civilization, an archaeological fact that tends to support
+but not necessarily confirm the founding legend, a population influx from
+[[ Crete ]]. According to [[ Strabo ]]:[[ ^6 ]]
+
+<blockquote
+  Ephorus says: Miletus was first founded and fortified above the sea by
+  Cretans, where the Miletus of olden times is now situated, being settled by
+  Sarpedon, who brought colonists from the Cretan Miletus and named the city
+  after that Miletus, the place formerly being in possession of the
+  [[ Leleges ]].
+
+[[ Pausanias | pausanias-geographer ]] tells it differently: Miletus was a
+friend of Sarpedon from [[ Crete ]], after whom the city was named.[[ ^7 ]]
+Miletus had a son named Kelados, and the [[ heroon | heroön ]] of Kelados
+has been found at Panormos, a port of Miletus near [[ Didyma ]].[[ ^8 ]]
+
+The legends recounted as history by the ancient historians and geographers are
+perhaps the strongest; the late mythographers have nothing historically
+significant to relate.[[ ^9 ]]
+
+== Late Bronze Age
+
+Recorded history at Miletus begins with the records of the
+[[ Hittite Empire ]] and the Mycenaean records of [[ Pylos ]] and
+[[ Knossos ]], in the Late Bronze Age.
+
+== Mycenaean period
+
+Miletus was a [[ Mycenaean | mycenae ]] stronghold on the coast of Asia Minor
+from c. 1450 to 1100 BC.[[ ^10 ]] In c. 1320 BC, the city supported an
+anti-Hittite rebellion of [[ Uhha-Ziti ]] of nearby [[ Arzawa ]], and paid for
+it: [[ Muršili | muršili-ii ]] ordered his generals Mala-Ziti and
+[[ Gulla ]] to raid Millawanda, and they proceeded to burn parts of it. Damage
+from [[ LHIIIA | helladic-period ]] found on-site has been associated with this
+raid.[[ ^11 ]] In addition the town was fortified according to a Hittite
+plan.[[ ^12 ]]
+
+Miletus is then mentioned in the "[[ Tawagalawa letter ]]", part of a series
+including the [[ Manapa-Tarhunta letter ]] and the [[ Milawata letter ]], all
+of which are less securely dated. The Tawagalawa letter notes that Milawata had
+a governor, Atpa, who was under the jurisdiction of
+//[[ Ahhiyawa | achaeans-homer#hittite-documents ]]// (a growing state probably
+in [[ LHIIIB | helladic-period ]] [[ Mycenaean Greece ]]); and that the town of
+Atriya was under Milesian jurisdiction. The Manapa-Tarhunta letter also
+mentions Atpa. Together the two letters tell that the adventurer
+[[ Piyama-Radu ]] had humiliated Manapa-Tarhunta before Atpa (in addition to
+other misadventures); a Hittite king then chased Piyama-Radu into Millawanda
+and, in the Tawagalawa letter, requested Piyama-Radu's extradition to
+[[ Hatti | hittite-empire ]].
+
+The Milawata letter mentions a joint expedition by the Hittite king and a
+[[ Luwian ]] vassal (probably [[ Kupanta-Kurunta ]] of Mira) against Miletus,
+and notes that the city (together with Atriya) was now under Hittite control.
+
+[[ Homer ]] mentions that during the time of the [[ Trojan War ]], Miletus was
+an ally of Troy and was city of the [[ Carians ]], under Nastes and
+[[ Amphimachus ]].[[ ^13 ]]
+
+The city also turns up in an inventory of the enslaved. In the last stage of
+LHIIIB, the citadel of Bronze Age [[ Pylos ]] counted among its female slaves a
+// mi-ra-ti-ja//, [[ Mycenaean Greek ]] for "women from Miletus", written in
+[[ Linear B ]] syllabic script.[[ ^14 ]]
+
+== Fall of Miletus
+
+During the collapse of Bronze Age civilization, Miletus was burnt again,
+presumably by the [[ Sea Peoples ]].
+
+== Dark Age
+
+Mythographers told that Neleus, a son of [[ Codrus ]] the last
+[[ King of Athens ]], had come to Miletus after the
+"[[ Return of the Heraclids ]]" (so, during the [[ Greek Dark Ages ]]). A
+[[ heroon | heroön ]] for Neleus was allegedly located outside of the city
+wall of Roman Miletus, which probably marks the former city center
+contemporary to Neleus.[[ ^15 ]][[ ^8 ]]
+
+The Ionians killed the men of Miletus and married their
+[[ Carian | carians ]] widows. This is the mythical commencement of the
+enduring alliance between Athens and Miletus, which played an important role in
+the subsequent [[ Persian Wars ]].
+
+== Archaic period
+
+The city of Miletus became one of the twelve [[ Ionian | ionia ]] city-states
+of [[ Asia Minor ]] to form the [[ Ionian League ]]. It was one of the cities
+involved in the [[ Lelantine War ]] of the 8th century BC.
+
+== Ties with Megara
+
+Miletus is known to have early ties with [[ Megara ]] in Greece. According to
+some scholars, these two cities had built up a "colonisation alliance". In the
+7th/6th century BC, they acted in accordance with each other.[[ ^16 ]] Both
+cities acted under the leadership and sanction of an [[ Apollo ]] oracle:
+Megara cooperated with that of [[ Delphi ]], while Miletus had her own oracle
+of Apollo //Didymeus Milesios// in [[ Didyma ]]. There are also many parallels
+in the political organization of both cities.[[ ^16 ]]
+
+According to [[ Pausanias | pausanias-geographer ]], the Megarians said that
+their town owed its origin to [[ Car | car-greek-mythology ]], the son of
+[[ Phoroneus ]], who built the city citadel called 'Caria'.[[ ^17 ]] This 'Car
+of Megara' may or may not be the same as the 'Car of the Carians,' also known
+as [[ Car (King of Caria) ]].
+
+In the late 7th century BC, the tyrant [[ Thrasybulus | thrasybulus-tyrant ]]
+preserved the independence of Miletus during a 12-year war fought against the
+[[ Lydian Empire ]].[[ ^18 ]] Thrasybulus was an ally of the famous
+[[ Corinthian | ancient-corinth ]] tyrant [[ Periander ]].
+
+Miletus was an important centre of philosophy and science, producing such men
+as [[ Thales ]], [[ Anaximander ]], and
+[[ Anaximenes | anaximenes-of-miletus ]]. Referring to this period,
+[[ religious studies ]] professor [[ F. E. Peters ]] described
+//[[ pan-deism ]]// as "the legacy of the Milesians".[[ ^19 ]] As well as being
+a philosopher, [[ Thales | thales-of-miletus ]] was also suggested to have
+initiated the famous grid plan of the city.[[ ^8 ]] An archaic orthogonal
+street system at Miletus has been confirmed by archaeological survey, but this
+system would not cover the entire urban centre of Miletus until the classical
+period.[[ ^20 ]]
+
+By the 6th century BC, Miletus had earned a maritime empire with many colonies,
+mainly scattered around the [[ Black Sea ]]. Miletus and its numerous colonies
+were culturally tied by, for example, the cult of [[ Aphrodite ]], a deity
+associated with seafaring in the cultural context of Miletus. However, its
+maritime hegemony declined as a result of the Persian occupation in the early
+fourth century BC, and the vacuum of power was later filled by
+[[ Athens | ancient-athenian-empire ]].[[ ^21 ]]
+
+== First Achaemenid period
+
+When [[ Cyrus | cyrus-the-great ]] of Persia defeated [[ Croesus ]] of Lydia
+in the middle of the 6th century BC, Miletus fell under
+[[ Persian | achaemenid-empire ]] rule. In 499 BC, Miletus's [[ tyrant ]]
+[[ Aristagoras ]] became the leader of the [[ Ionian Revolt ]] against the
+Persians, who, under [[ Darius the Great ]], quashed this rebellion in the
+[[ Battle of Lade ]] in 494 BC and punished Miletus by selling all of the women
+and children into slavery, killing the men, and expelling all of the young men
+as eunuchs, thereby assuring that no Miletus citizen would ever be born again.
+
+A year afterward, [[ Phrynicus | phrynichus-tragic-poet ]] produced the tragedy
+//The Capture of Miletus// in Athens. The Athenians fined him for reminding
+them of their loss.[[ ^22 ]]
+
+== Classical Greek period
+
+In 479 BC, the Greeks decisively defeated the Persians on the Greek mainland at
+the [[ Battle of Plataea ]], and Miletus was freed from Persian rule. Many
+sanctuaries of Miletus had been destroyed by the Persians, and the restoration
+of them was prohibited by the "Oath of the Ionians", which aimed to retain the
+ruins as memorials. The Milesians observed that oath only partially, with some
+sanctuaries being restored back to their Archaic appearances.[[ ^23 ]]
+
+The city's gridlike layout was also constructed across all the area within the
+city wall, designed by [[ Hippodamus of Miletus ]]. It later became famous and
+was known as the "Hippodamian plan", serving as the basic layout for the new
+foundations of Hellenistic and [[ Roman | ancient-rome ]] cities.[[ ^20 ]]
+
+== Second Achaemenid period
+
+In 387 BC, the [[ Peace of Antalcidas ]] gave the Persian
+[[ Achaemenid Empire ]] under king [[ Artaxerxes II ]] control of the Greek
+city-states of [[ Ionia ]], including Miletus.
+
+In 358 BC, Artaxerxes II died and was succeeded by his son
+[[ Artaxerxes III ]], who, in 355 BC, forced Athens to conclude a peace, which
+required its forces to leave Asia Minor (Anatolia) and acknowledge the
+independence of its rebellious allies.
+
+== Macedonian period
+
+In 334 BC, the [[ Siege of Miletus ]] by the forces of
+[[ Alexander the Great ]] of Macedonia conquered the city, and the conquest of
+most of the rest of Asia Minor soon followed. In this period, the city reached
+its greatest extent, occupying within its walls an area of approximately 90
+hectares (220 acres).[[ ^24 ]]
+
+When Alexander died in 323 BC, Miletus came under the control of Ptolemy,
+governor of [[ Caria ]], and his satrap of Lydia, [[ Asander ]], who had become
+autonomous.[[ ^25 ]] In 312 BC, Macedonian general
+[[ Antigonus I Monophthalmus ]] sent Docimus and Medeius to free the city and
+grant autonomy, restoring the democratic patrimonial regime. In 301 BC, after
+Antigonus I was killed in the [[ Battle of Ipsus ]] by the coalition of
+[[ Lysimachus ]], [[ Cassander ]], and [[ Seleucus I Nicator ]], founder of the
+[[ Seleucid Empire ]], Miletus maintained good relations with all the
+successors after Seleucus I Nicator made substantial donations to the sanctuary
+of Didyma and returned the statue of Apollo that had been stolen by the
+Persians in 494 BC.
+
+In 295 BC, Antigonus I's son [[ Demetrius Poliorcetes ]] was the eponymous
+archon (stephanephorus) in the city, which allied with [[ Ptolemy I Soter ]] of
+Egypt, while Lysimachus assumed power in the region, enforcing a strict policy
+towards the Greek cities by imposing high taxes, forcing Miletus to resort to
+lending.
+
+== Seleucid period
+
+Around 287/286 BC Demetrius Poliorcetes returned, but failed to maintain his
+possessions and was imprisoned in Syria. Nicocles of Sidon, the commander of
+Demetrius' fleet surrendered the city. Lysimachus dominated until 281 BC, when
+he was defeated by the Seleucids at the [[ Battle of Corupedium ]]. In 280/279
+BC the Milesians adopted a new chronological system based on the Seleucids.
+
+== Egyptian period
+
+The Seleucid hold was brief. In 279 BC, the city was taken from Seleucid king
+[[ Antiochus I ]] by Egyptian king [[ Ptolemy II Philadelphus ]], who donated a
+large area of land to cement their friendship, and it remained under Egyptian
+sway until the end of the century.[[ ^26 ]]
+
+[[ Aristides of Miletus ]], founder of the bawdy
+[[ Miletian school of literature | milesian-tale ]], flourished in the 2nd
+century BC.
+
+== Roman period
+
+After an alliance with Rome, in 133 BC the city became part of the province of
+Asia. Miletus benefited from Roman rule and most of the present monuments date
+to this period.
+
+The [[ New Testament ]] mentions Miletus as the site where the Apostle
+[[ Paul | paul-of-tarsus ]] in 57 AD met the elders of the
+[[ church | mother-church ]] of [[ Ephesus ]] near the close of his Third
+Missionary Journey, as recorded in [[ Acts of the Apostles ]] (Acts 20:15–38).
+It is believed that Paul stopped by the Great Harbour Monument and sat on its
+steps. He might have met the Ephesian elders there and then bade them farewell
+on the nearby beach. Miletus is also the city where Paul left [[ Trophimus ]],
+one of his travelling companions, to recover from an illness ([[ 2 Timothy ]]
+4:20). Because this cannot be the same visit as Acts 20 (in which Trophimus
+accompanied Paul all the way to Jerusalem, according to Acts 21:29), Paul must
+have made at least one additional visit to Miletus, perhaps as late as 65 or 66
+AD. Paul's previous successful three-year ministry in nearby [[ Ephesus ]]
+resulted in the evangelization of the entire province of Asia (see Acts 19:10,
+20; [[ 1 Corinthians ]] 16:9). It is safe to assume that at least by the time
+of the apostle's second visit to Miletus, a fledgling Christian community was
+established in Miletus.
+
+In 262 new city walls were built. However the harbour was silting up and the
+economy was in decline. In 538 emperor [[ Justinian ]] rebuilt the walls but it
+had become a small town.
+
+== Byzantine period
+
+During the [[ Byzantine | byzantine-empire ]] age the [[ see of Miletus ]] was
+raised to an [[ archbishopric | diocese ]] and later a
+[[ metropolitan bishopric ]]. The small Byzantine castle called Palation
+located on the hill beside the city, was built at this time. Miletus was headed
+by a [[ curator | curator-bonis ]].[[ ^27 ]][[ ^28 ]]
+
+In 1369, the archbishopric of Miletus, along with the one of
+[[ Antioch on the Meander | antioch-on-the-maeander ]], were assumed by
+[[ Stauropolis | stauropolis-diocese ]] due to their decline, as a result of
+the threat posed by the [[ Anatolian Beyliks ]].[[ ^29 ]]
+
+== Turkish rule
+
+[[ Seljuk Turks ]] conquered the city in the 14th century and used Miletus as a
+port to trade with [[ Venice ]]. In the 15th century, the
+[[ Ottomans | ottoman-turks ]] utilized the city as a harbour during their rule
+in [[ Anatolia ]]. As the harbour became silted up, the city was abandoned.
+
+Due to ancient and subsequent [[ deforestation ]],[[ ^30 ]]
+[[ overgrazing ]] (mostly by goat herds), [[ erosion ]] and
+[[ soil degradation ]], the ruins of the city lie some 10 km (6.2 mi) from the
+sea with [[ sediments | sediment ]] filling the plain and bare hill ridges
+without soils and trees, a [[ maquis shrubland ]] remaining.
+
+The [[ Ilyas Bey Complex | ilyas-bey-mosque ]] from 1403 with its mosque is a
+[[ Europa Nostra ]] awarded cultural heritage site in Miletus.
+
+== Archaeological excavations
+
+The first excavations in Miletus were conducted by the French archaeologist
+[[ Olivier Rayet ]] in 1873, followed by the German archaeologists Julius
+Hülsen and [[ Theodor Wiegand ]][[ ^31 ]][[ ^32 ]][[ ^33 ]] between 1899 and
+1931. Excavations, however, were interrupted several times by wars and various
+other events. Carl Weickart excavated for a short season in 1938 and again
+between 1955 and 1957.[[ ^34 ]][[ ^35 ]][[ ^36 ]] He was followed by Gerhard
+Kleiner and then by Wolfgang Muller-Wiener. Today, excavations are organized by
+the [[ Ruhr University ]] of [[ Bochum ]], [[ Germany ]].
+
+One remarkable artifact recovered from the city during the first excavations of
+the 19th century, the [[ Market Gate of Miletus ]], was transported piece by
+piece to Germany and reassembled. It is currently exhibited at the
+[[ Pergamon Museum ]] in [[ Berlin ]]. The main collection of artifacts resides
+in the //Miletus Museum// in [[ Didim ]], [[ Aydın ]], serving since \1973.
+
+Archaeologists discovered a cave under the city's theatre and believe that it
+is a "sacred" cave which belonged to the cult of
+[[ Asklepius ]].[[ ^37 ]][[ ^38 ]]
+
+== Examples of the Milesian Vase
+
+A group of vase fragments and flasks, shown in the original as an artifact
+gallery.
+
+The name Fikellura derives from a site on the island of Rhodes to which this
+fabric has been attributed. It is now established that the center of production
+was Miletus.
+
+== Geography
+
+The ruins appear on satellite maps at 37°31.8'N 27°16.7'E, about 3 km north of
+[[ Balat | balat-didim ]] and 3 km east of [[ Batıköy | batıköy-didim ]] in
+[[ Aydın Province ]], [[ Turkey ]].
+
+In antiquity the city possessed a [[ harbor ]] at the southern entry of a large
+bay, on which two more of the traditional twelve Ionian cities stood:
+[[ Priene ]] and [[ Myus ]]. The harbor of Miletus was additionally protected
+by the nearby small island of Lade. Over the centuries the gulf silted up with
+[[ alluvium ]] carried by the [[ Meander | büyük-menderes-river ]] River.
+Priene and Myus had lost their harbors by the Roman era, and Miletus itself
+became an inland town in the early Christian era; all three were abandoned to
+ruin as their economies were strangled by the lack of access to the sea.
+
+There is a Great Harbor Monument where, according to the New Testament account,
+the apostle Paul stopped on his way back to Jerusalem by boat. He met the
+Ephesian Elders and then headed out to the beach to bid them farewell, recorded
+in the book of Acts 20:17-38.
+
+== Geology
+
+During the [[ Pleistocene ]] epoch the Miletus region was submerged in the
+[[ Aegean Sea ]]. It subsequently emerged slowly, the sea reaching a low level
+of about 130 meters (430 ft) below present level at about
+18,000 [[ BP | before-present ]]. The site of Miletus was part of the mainland.
+
+A gradual rise brought a level of about 1.75 meters (5 ft 9 in) below present
+at about 5500 BP, creating several [[ karst ]] block islands of limestone, the
+location of the first settlements at Miletus. At about 1500 BC the karst
+shifted due to small crustal movements and the islands consolidated into a
+peninsula. Since then the sea has risen 1.75 m but the peninsula has been
+surrounded by sediment from the [[ Maeander ]] river and is now land-locked.
+Sedimentation of the harbor began at about 1000 BC, and by 300 AD
+[[ Lake Bafa ]] had been created.[[ ^39 ]]
+
+== Gallery
+
+A gallery of views of the site and its finds:
+
+- Sculpture from Baths of Faustina
+- Faustina Baths in Miletus
+- The Sacred Way from Miletus with the remains of the stoa
+- The Ionic Stoa on the Sacred Way
+- Remains of the stoa connecting the main Bath of Faustina to the Palaestra
+- Illustration of Miletus
+- Right entrance of the ancient Greek theatre
+- Ancient Greek theatre
+
+== Economy and Land Use
+
+The economic prosperity of Miletus during the [[ Archaic | archaic-greece ]]
+and [[ Classical | classical-greece ]] periods depended heavily on its rural
+hinterland. Archaeological surveys and remote sensing analyses have revealed
+systems of terraces, field boundaries, and enclosures across the Milesian
+peninsula. These are interpreted as evidence of long-standing agro-pastoral
+activity, possibly dating as far back as the Archaic period and extending into
+[[ Late Antiquity ]].[[ ^40 ]]
+
+That countryside was worth attacking, and worth leaving standing.
+[[ Herodotus ]], describing the tactics of [[ Alyattes ]] against the Milesian
+countryside, writes: "He sent his army, marching to the sound of pipes and
+harps and bass and treble flutes, to invade when the crops in the land were
+ripe; and whenever he came to the Milesian territory, he neither demolished
+nor burnt nor tore the doors off the country dwellings, but let them stand
+unharmed; but he destroyed the trees and the crops of the land, and so
+returned to where he came from; for as the Milesians had command of the sea,
+it was of no use for his army to besiege their city. The reason that the
+Lydian did not destroy the houses was this: that the Milesians might have
+homes from which to plant and cultivate their land, and that there might be
+the fruit of their toil for his invading army to lay waste."[[ ^41 ]]
+
+These rural systems supported olive cultivation, animal herding, and
+small-scale farming. Faunal remains suggest that herding was a major component
+of the rural economy. Excavations have shown a predominance of goat bones over
+sheep, possibly reflecting the influence of [[ Cretan | crete ]] animal
+husbandry techniques adopted in early Miletus.[[ ^42 ]]
+
+[[ Strabo ]], citing [[ Ephorus ]], relates: "Miletus was first founded and
+fortified by the Cretans on the spot above the sea-coast where at present the
+ancient Miletus is situated, and that [[ Sarpedon ]] conducted thither
+settlers from the Miletus in Crete, and gave it the same name; that
+[[ Leleges ]] were the former occupiers of the country, and that afterwards
+[[ Neleus ]] built the present city."[[ ^43 ]]
+
+Farmsteads, oil presses, cisterns, and possible pastoral installations such as
+shepherding stations have been identified in the countryside, suggesting a
+decentralized but productive economy.[[ ^44 ]] The northern plains and Maeander
+valley, both under Milesian control, were especially fertile, providing grain
+and supporting livestock crucial to the city's sustenance and export
+economy.[[ ^45 ]]
+
+In addition to grain and wool, Miletus likely exported surplus olive oil during
+favorable years. Archaic Milesian [[ amphorae | amphora ]], widely distributed
+and characterized by thickened rims, may have been used for oil
+transport.[[ ^46 ]] Botanical evidence from the Milesian countryside also
+reveals the cultivation of figs and lentils. Carbonized fig remains have been
+found in large numbers, and fig trees were likely common along field margins,
+significantly influencing the diet in the region.[[ ^47 ]]
+
+Both literary and archaeological evidence demonstrate that Miletus'
+agricultural base was essential for sustaining its urban population, supporting
+rural life, and providing the surpluses that underpinned Milesian colonization
+and trade.
+
+== Colonies
+
+Miletus became known for the great number of colonies it founded. It was
+considered the greatest Greek metropolis and founded more colonies than any
+other Greek city. [[ Pliny the Elder ]]
+(//[[ Natural History | natural-history-pliny ]]//, 5.31) says that Miletus
+founded over 90 colonies.
+
+The extent of Milesian colonization was shaped by a convergence of economic,
+social, and political factors. Like other Greek [[ poleis | polis ]], Miletus
+faced pressures from population growth and competition for arable land, which
+drove many citizens to seek new opportunities overseas. Economic motivations
+included expanding trade networks and accessing new resources, especially along
+the Black Sea coast, which offered grain, fish, and raw materials not easily
+available in [[ Ionia ]]. Political factors, such as
+[[ stasis | stasis-political-history ]] (internal conflict) and the impact of
+foreign powers like [[ Lydia ]] and [[ Persia | achaemenid-empire ]], also
+contributed, sometimes prompting groups or exiles to establish new settlements
+abroad. Scholars note that Milesian colonization was characterized both by
+"proactive" ventures seeking commercial gain and "reactive" migrations
+resulting from disruptions at home.[[ ^48 ]][[ ^49 ]][[ ^50 ]]
+
+The Black Sea region became a primary focus of Milesian colonial expansion from
+the seventh century BCE onward. Milesian foundations such as
+[[ Sinope | sinop-turkey ]], [[ Olbia | pontic-olbia ]], and
+[[ Panticapaeum ]] quickly grew into major trading hubs and centres for the
+exchange of goods between Greeks and indigenous populations. These colonies
+enabled Miletus to dominate regional commerce in grain, fish, and slaves,
+contributing significantly to the city's wealth. The choice of the Black Sea
+also reflected both strategies to exploit new resources and responses to
+population and political pressures in Ionia.[[ ^51 ]][[ ^52 ]][[ ^50 ]]
+
+Sinope, located on the southern coast of the Black Sea, was one of the earliest
+and most prosperous Milesian colonies, traditionally founded in the late
+seventh century BCE.[[ ^51 ]] Olbia, on the northwestern Black Sea coast,
+likewise became a major economic centre, especially for grain exports to the
+Greek world.[[ ^51 ]][[ ^52 ]]
+
+Milesian colonization not only expanded the city's economic and political reach
+but also established enduring cultural connections across the Mediterranean and
+Black Sea, with many settlements continuing to thrive and influence local
+societies for centuries.[[ ^48 ]][[ ^50 ]] While some Milesian colonies
+ultimately declined or were absorbed by neighbouring powers, many—such as
+Sinope and Olbia—remained prominent centres of trade and
+[[ Hellenic culture | hellenistic-civilization ]] well into the
+[[ Hellenistic | hellenistic-period ]] and Roman periods. The archaeological
+remains and historical records of these colonies continue to shed light on the
+reach and legacy of Milesian influence throughout
+antiquity.[[ ^53 ]][[ ^48 ]][[ ^50 ]]
+
+Some colonies founded include:
+
+- [[ Abydos | abydos-hellespont ]]
+- [[ Amisos ]]
+- [[ Apollonia Pontica | sozopol ]]
+- [[ Borysthenites | berezan-island ]] (Berezan)
+- [[ Cardia | cardia-thrace ]]
+- [[ Cius ]]
+- [[ Colonae | colonae-hellespont ]]
+- [[ Cotyora ]]
+- [[ Cyzicus ]]
+- [[ Dioscurias ]]
+- [[ Hermonassa | hermonassa-pontus ]]
+- [[ Histria | histria-sinoe ]]
+- [[ Kepoi ]]
+- [[ Kerasous ]]
+- [[ Lampsacus ]]
+- [[ Leros ]]
+- [[ Limnae | limnae-bithynia ]]
+- [[ Miletopolis ]]
+- [[ Myrmekion ]] (?)
+- [[ Nymphaion | nymphaion-crimea ]]
+- [[ Odessos | varna-bulgaria ]]
+- [[ Olbia | olbia-ukraine ]]
+- [[ Paesus ]]
+- [[ Panticapaeum ]]
+- [[ Parium ]]
+- [[ Patraeus | patraeus-city ]]
+- [[ Phanagoria ]]
+- [[ Phasis | phasis-town ]]
+- [[ Pityus ]]
+- [[ Priapus | karabiga ]]
+- [[ Proconnesus | proconnesus-city ]]
+- [[ Prusias | cius ]] (?)
+- [[ Sinope | sinop-turkey ]]
+- [[ Scepsis ]]
+- [[ Tanais ]]
+- [[ Theodosia | feodosiya ]]
+- [[ Tieion | tium ]]
+- [[ Tomis | constanța ]]
+- [[ Tyras ]]
+- [[ Tyritake ]]
+- [[ Trapezunt ]]
+
+== Philosophy
+
+Miletus played a foundational role in the origins of Western philosophical
+inquiry. In the 6th century BCE, thinkers such as [[ Thales ]],
+[[ Anaximander ]], and [[ Anaximenes | anaximenes-of-miletus ]]—collectively
+known as the [[ Milesian school ]]—began to investigate the material basis of
+the cosmos through rational, systematic inquiry rather than mythological
+narrative.[[ ^54 ]]
+
+[[ Aristotle ]] records that, "Thales, the founder of this kind of philosophy,
+stated it to be water. (This is why he declared that the earth rests on
+water.) \...water is the principle of the nature of moist things."[[ ^55 ]]
+Aristotle further notes, "Some say [the earth] rests on water. This is the
+oldest account that we have inherited, and they say that Thales of Miletus
+said this. It rests because it floats like wood or some other such
+thing\...for nothing is by nature such as to rest on air, but on
+water."[[ ^55 ]]
+
+Thales' student Anaximander introduced the concept of the [[ apeiron ]] (the
+infinite or indefinite) as a more abstract source of existence. According to
+Aristotle (via [[ Simplicius | simplicius-of-cilicia ]]): "Anaximander\...
+said that the apeiron was the arkhē and element of things that are, and he was
+the first to introduce this name for the arkhē. \...He says that the arkhē is
+neither water nor any of the other things called elements, but some other
+nature which is apeiron, out of which come to be all the heavens and the
+worlds in them. The things that are perish into the things from which they
+come to be, according to necessity, for they pay penalty and retribution to
+each other for their injustice in accordance with the ordering of time, as he
+says in rather poetical language."[[ ^56 ]] Aristotle also states that for
+Anaximander, the apeiron "is deathless and indestructible\...for it is
+divine."[[ ^57 ]]
+
+[[ Anaximenes | anaximenes-of-miletus ]], in turn, posited air (//aēr//) as
+the basic element, suggesting it could transform into other forms of matter
+through rarefaction and condensation: "Anaximenes\... declared that air is the
+underlying principle and that all the rest come to be from it by rarefaction
+and condensation. Fire, when air is rarefied; wind, then cloud, when
+condensed; water, then earth, then stones, and the rest come into being from
+these."[[ ^58 ]]
+
+The emergence of this rational mode of thinking was likely influenced by
+Miletus's cosmopolitanism and its contact with the ancient cultures of the
+[[ Near East ]].[[ ^59 ]] These intellectual foundations laid the groundwork
+for later developments in Greek philosophy and science.
+
+== Religion and the Sacred Way
+
+Miletus had several significant religious institutions, the most important of
+which was the sanctuary of [[ Apollo ]] at [[ Didyma ]], located roughly 18
+kilometers south of the city. The sanctuary was connected to the city by a
+ceremonial road known as the Sacred Way, which served as a route for ritual
+processions and pilgrimage festivals.[[ ^60 ]]
+
+Didyma was renowned for its oracle, second in prestige only to that of
+[[ Delphi ]]. Prophecies were delivered by a priestess within a richly adorned
+temple complex. Archaeological discoveries along the Sacred Way have uncovered
+rows of consecrated statues and inscriptions, often commissioned by Milesian
+elites and foreign notables.[[ ^61 ]]
+
+The sanctuary was a hub for both religion and politics, reinforcing Miletus'
+influence within [[ Ionia ]] and the wider [[ Aegean | aegean-sea ]].
+Religious practices at Didyma, including oracular consultation and ritual
+dedication, reflected and shaped the city's cultural identity and its
+connections with other Ionian communities.
+
+== Apollo Delphinion
+
+The Delphinion, sanctuary of Apollo Delphinios, was one of the most important
+civic–religious institutions of ancient Miletus. Constructed along the eastern
+edge of the Lions' Harbour, the sanctuary originated in the 6th century BCE and
+remained in use through the Roman period. Its Archaic form was destroyed in the
+Persian sack of 494 BCE but was rebuilt swiftly, highlighting its importance in
+Milesian political and ritual life.[[ ^62 ]]
+
+The sanctuary functioned both as a religious center and a civic archive.
+Inscriptions recording citizenship scrutiny, ephebic oaths, lists of eponymous
+officials, decrees, and treaties attest to its administrative role.[[ ^63 ]]
+Ritual duties of the Molpoi, the guild responsible for musical and ceremonial
+functions, were administered from the site. Their responsibilities included
+offerings at designated stations along the Sacred Way, the ca. 18 km
+processional route leading from the Delphinion to the oracle of Apollo at
+Didyma.[[ ^64 ]] The sanctuary's shoreline placement, the presence of Kosmoi
+magistrates (a Cretan institutional title), and cultic implements described in
+inscriptions reflect its Cretan-linked origins within Milesian identity
+formation.[[ ^65 ]]
+
+Architecturally, the Delphinion consisted of a large rectangular peristyle
+courtyard lined with colonnades and enclosed by exterior masonry walls,
+partially roofed with fired-clay imbrex and tegula tiles. Excavation reports
+and inscriptions indicate the presence of internal altars, statue bases, and
+cult installations distributed across the courtyard.[[ ^66 ]] The complex
+measured approximately 60 × 50 m. A published plan by the Foundation of the
+Hellenic World documents the arrangement of columns, entrances, and interior
+monuments.[[ ^67 ]]
+
+Modern archaeological understanding of the Delphinion derives primarily from
+late 19th-century French excavations and early 20th-century German
+investigations. Contemporary digital reconstructions, informed by these
+excavation plans and inscriptions, illustrate the sanctuary's architectural
+organization and its role as a central institution in Milesian civic and ritual
+practices.
+
+== Notable people
+
+- [[ Arctinus of Miletus ]] (775 BC – 741 BC), epic poet
+- [[ Thales ]] (c. 624 BC – c. 546 BC), [[ Pre-Socratic | pre-socratic-philosophy ]] philosopher
+- [[ Anaximander ]] (c. 610 BC – c. 546 BC), Pre-Socratic philosopher and geographer
+- [[ Cadmus | cadmus-of-miletus ]] (fl. c. 550 BC), writer
+- [[ Anaximenes | anaximenes-of-miletus ]] (c. 585 BC – c. 525 BC), Pre-Socratic philosopher
+- [[ Aristagoras ]] (fl. 6th-5th century BC), Tyrant of Miletus
+- [[ Phocylides ]] (born c. 560 BC), Greek gnomic poet
+- [[ Hecataeus | hecataeus-of-miletus ]] (c. 550 BC – c. 476 BC), Greek historian
+- [[ Histiaeus ]] (died 493 BC), ruler of Miletus
+- [[ Leucippus ]] (fl. first half of 5th century BC), philosopher and originator of Atomism (his association with Miletus is traditional, but disputed)
+- [[ Hippodamus | hippodamus-of-miletus ]] (c. 498 – 408 BC), urban planner
+- [[ Aspasia ]] (c. 470 – 400 BC) courtesan, and mistress of [[ Pericles ]], was born in Miletus
+- [[ Aristides | aristides-of-miletus ]] (fl. 2nd century BC), writer
+- [[ Monime ]] (died 72/71 BC), a Greek noblewoman and one of the wives of [[ Mithridates VI Eupator ]]
+- [[ Alexander Polyhistor ]] (fl. 1st century AD), Greek scholar, born in Miletus before being taken as a slave to Rome
+- [[ Aeschines of Miletus ]] (fl. 1st century AD), a distinguished orator in the Asiatic style
+- [[ Isidore | isidore-of-miletus ]] (fl. 6th century AD), Greek architect
+- [[ Hesychius | hesychius-of-miletus ]] (fl. 6th century AD), Greek chronicler and biographer
+- Timagenes or Timogenes, historian and rhetor[[ ^68 ]]
+- Philiscus of Miletus, rhetor. Teacher of [[ Neanthes of Cyzicus ]][[ ^69 ]]
+- Hellanicus, historian[[ ^70 ]]
+- Dionysicles (Ancient Greek: Διονυσικλῆς) of Miletus, sculptor. One of his famous works was a statue, at [[ Leonidaion ]], of Democrates of [[ Tenedos ]] who was an [[ ancient Olympic | ancient-olympic-games ]] winner at wrestling [[ ^71 ]]
+- [[ Demodamas ]], Explorer, general and Satrap of Bactria and Sogdiana
+- [[ Baccheius or Bacchius of Miletus | baccheius-of-miletus ]] (Βακχεῖος), a writer. He wrote a work on agriculture.[[ ^72 ]]
+
+== References and sources
+
+<dl
+  <dt>References
+
+<dl
+  <dt>Sources
+
+- Crouch, Dora P. (2004). //Geology and Settlement: Greco-Roman Patterns//. New York: Oxford University Press. ISBN[[ 9780195083248 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780195083248 ]].
+
+[[ ^4 ]]: Crouch (2004) page 183.
+
+[[ ^5 ]]: Steadman, Sharon R.; McMahon, Gregory (15 September 2011). [[ //The Oxford Handbook of Ancient Anatolia: (10,000-323 BCE)// | https://books.google.com/books?id=TY3t4y_L5SQC ]]. OUP USA. p. 369. ISBN [[ 978-0-19-537614-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-537614-2 ]].
+
+[[ ^6 ]]: Book 14 Section 1.6.
+
+[[ ^7 ]]: [[ "Pausanias, Description of Greece, Book 7, chapter 2, section 5" | https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0160%3Abook%3D7%3Achapter%3D2%3Asection%3D5 ]]. //www.perseus.tufts.edu//. Retrieved 8 March 2025.
+
+[[ ^8 ]]: Herda, Alexander (2013), [[ "Burying A Sage: The Heroon Of Thales In The Agora Of Miletos" | https://doi.org/10.4000/books.ifeagd.2156 ]], //Le Mort dans la ville//, İstanbul: Institut français d'études anatoliennes, pp. 67–122, doi:[[ 10.4000/books.ifeagd.2156 | https://doi.org/10.4000%2Fbooks.ifeagd.2156 ]], ISBN [[ 978-2-36245-009-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-2-36245-009-9 ]], retrieved 8 March 2025
+
+[[ ^9 ]]: The late fantasy fiction of [[ Antoninus Liberalis ]], //Metamorphoses// XXX 1–2 after Nicander, can be safely disregarded as being in any way history. His entertaining tales have the imaginary character named [[ Miletus | miletus-hero ]] fleeing [[ Crete ]] to avoid being forced to become the [[ eromenos ]] of King [[ Minos ]]. He founds the city only after slaying a giant named Asterius, son of [[ Anax | anax-mythology ]], after whom the region known as Miletus was called 'Anactoria', "place of Anax". [[ Anax ]] in Greek means "the king" and [[ Asterius | asterius-mythology ]] is "starry".
+
+[[ ^10 ]]: Hajnal, Ivo. [[ "Graeco-Anatolian Contacts in the Mycenaean Period" | https://www.academia.edu/1822403 ]]. University of Innsbruck. Retrieved 22 September 2013.
+
+[[ ^11 ]]: Christopher Mee, //Anatolia and the Aegean in the Late Bronze Age//, p. 142
+
+[[ ^12 ]]: Mee, //Anatolia and the Aegean//, p. 139
+
+[[ ^13 ]]: https://www.poetryintranslation.com/PITBR/Greek/Iliad2.php#BkII811, Iliad, book II
+
+[[ ^14 ]]: [[ Palaeolexicon | http://www.palaeolexicon.com/default.aspx?static=12&wid=329 ]], Word study tool of ancient languages
+
+[[ ^15 ]]: [[ "Pausanias, Description of Greece, Book 7, chapter 2, section 6" | https://www.perseus.tufts.edu/hopper/text?doc=Paus+7.2.6&fromdoc=Perseus%3Atext%3A1999.01.0154 ]]. //www.perseus.tufts.edu//. Retrieved 8 March 2025.
+
+[[ ^16 ]]: Alexander Herda (2015), [[ Megara and Miletos: Colonising with Apollo. A Structural Comparison of Religious and Political Institutions in Two Archaic Greek Polis States | https://www.academia.edu/12530869 ]]; see Abstract at [[ Alexander Herda research | https://hu-berlin.academia.edu/AlexanderHerda ]]
+
+[[ ^17 ]]: Paus. i. 39. § 5, i. 40. § 6
+
+[[ ^18 ]]: //Miletos, the ornament of Ionia: history of the city to 400 B.C.E// by Vanessa B. Gorman (University of Michigan Press) 2001 – pg 123
+
+[[ ^19 ]]: [[ Francis Edward Peters ]] (1967). [[ //Greek Philosophical Terms: A Historical Lexicon// | https://archive.org/details/greekphilosophic0000pete ]]. NYU Press. p. [[ 169 | https://archive.org/details/greekphilosophic0000pete/page/169 ]]. ISBN [[ 0814765521 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0814765521 ]].
+
+[[ ^20 ]]: Weber, B (2007). "Der Stadtplan von Milet". In Cobet, J; von Graeve, V; Niemeier, W.D.; Zimmermann, A (eds.). //Frühes Ionien. Eine Bestandsaufnahme//. Mainz am Rhein. pp. 327–362.``\{{cite book}}``:  CS1 maint: location missing publisher ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_location_missing_publisher ]])
+
+[[ ^21 ]]: Greaves, Alan M., ed. (2002). //Miletos: a history//. London New York: Routledge. ISBN [[ 978-0-203-99393-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-203-99393-4 ]].
+
+[[ ^22 ]]: Herodotus (5 March 1998), "Histories", in Waterfield, Robin; Dewald, Carolyn (eds.), //Oxford World's Classics: Herodotus: The Histories//, Oxford University Press, doi:[[ 10.1093/oseo/instance.00271233 | https://doi.org/10.1093%2Foseo%2Finstance.00271233 ]], ISBN [[ 978-0-19-953566-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-953566-8 ]], retrieved 4 May 2022
+
+[[ ^23 ]]: Herda, Alexander (2019), [[ "Copy and paste? Miletos before and after the Persian Wars" | https://doi.org/10.1484/m.supsec-eb.5.118517 ]], //Reconstruire les villes//, Turnhout, Belgium: Brepols Publishers, pp. 91–120, doi:[[ 10.1484/m.supsec-eb.5.118517 | https://doi.org/10.1484%2Fm.supsec-eb.5.118517 ]], ISBN [[ 978-2-503-58631-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-2-503-58631-1 ]], retrieved 8 March 2025
+
+[[ ^24 ]]: Chant, Colin (1999). [[ "Greece" | https://books.google.com/books?id=MAhVazSIKM8C&pg=PA61 ]]. In Chant, Colin; Goodman, David (eds.). //Pre-industrial Cities and Technology//. London: Routledge. p. 61. ISBN [[ 9780415200752 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780415200752 ]].
+
+[[ ^25 ]]: [[ 'The Life of Alexander the Great' by John Williams, Henry Ketcham, p. 89 | https://books.google.com/books?id=0dsLAAAAYAAJ&pg=PA89 ]]
+
+[[ ^26 ]]: Foundation of the Hellenic World. [[ "Hellenistic Period" | http://www.fhw.gr/choros/miletus/en/elinistiki.php?menu_id=5 ]]. //www.fhw.gr//.
+
+[[ ^27 ]]: The Byzantine aristocracy and its military function, Volume 859 of the Variorum collected studies series, Jean-Claude Cheynet, Ashgate Pub., 2006. ISBN [[ 978-0-7546-5902-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-7546-5902-0 ]]
+
+[[ ^28 ]]: Studies in Byzantine Sigillography, Volume 10, Jean-Claude Cheynet, Claudia Sode, published by Walter de Gruyter, 2010. ISBN [[ 978-3-11-022704-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-11-022704-8 ]]
+
+[[ ^29 ]]: [[ Vryonis, Speros | speros-vryonis ]] (1971). [[ The Decline of Medieval Hellenism in Asia Minor and the Process of Islamisation from the Eleventh through the Fifteenth Century. Berkeley: California University Press. | //archive.org/details/declineofmedieva0000vryo ]] p. 296
+
+[[ ^30 ]]: [[ "Miletus (Site)" | https://www.perseus.tufts.edu/hopper/artifact?name=Miletus&object=Site ]]. //www.perseus.tufts.edu//. Retrieved 20 January 2024.
+
+[[ ^31 ]]: Olivier Rayet and Thomas, Milet Et Le Golfe Latmique, Fouilles Et Explorations Archeologiques Publ, 1877 (reprint Nabu Press 2010 ISBN [[ 1-141-62992-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-141-62992-5 ]]
+
+[[ ^32 ]]: Theodor Wiegand and Julius Hülsen [Das Nymphaeum von Milet, Museen zu Berlin 1919] and Kurt Krausem, Die Milesische Landschaft, Milet II, vol. 2, Schoetz, 1929
+
+[[ ^33 ]]: Theodor Wiegand et al., Der Latmos, Milet III, vol. 1, G. Reimer, 1913
+
+[[ ^34 ]]: Carl Weickert, Grabungen in Milet 1938, Bericht über den VI internationalen Kongress für Archäologie, pp. 325-332, 1940
+
+[[ ^35 ]]: Carl Weickert, Die Ausgrabung beim Athena-Tempel in Milet 1955, Istanbuler Mitteilungen, Deutsche Archaeologische Institut, vol. 7, pp.102-132, 1957
+
+[[ ^36 ]]: Carl Weickert, Neue Ausgrabungen in Milet,
+Neue deutsche Ausgrabungen im Mittelmeergebiet und im Vorderen Orient, pp. 181-96, 1959
+
+[[ ^37 ]]: [[ 'Sacred Cave' in ancient Miletos awaits visitors | https://www.hurriyetdailynews.com/photo-sacred-cave-in-ancient-miletos-awaits-visitors-168323#photo-1 ]]
+
+[[ ^38 ]]: [[ The Ancient City of Miletos's "Sacred Cave" Opened to Visitors | https://arkeonews.net/the-ancient-city-of-miletoss-sacred-cave-opened-to-visitors/ ]]
+
+[[ ^39 ]]: Crouch (2004) page 180.
+
+[[ ^40 ]]: Wilkinson, Toby C., and Anja Slawisch. "An Agro-Pastoral Palimpsest: New Insights into the Historical Rural Economy of the Milesian Peninsula." //Anatolian Studies//, vol. 70, 2020, p. 15.
+
+[[ ^41 ]]: Herodotus. //Histories// 1.17.
+
+[[ ^42 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, p. 31.
+
+[[ ^43 ]]: Strabo, //Geography// 14.1.6.
+
+[[ ^44 ]]: Wilkinson, Toby C., and Anja Slawisch. "An Agro-Pastoral Palimpsest: New Insights into the Historical Rural Economy of the Milesian Peninsula." //Anatolian Studies//, vol. 70, 2020, pp. 2–3.
+
+[[ ^45 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, p. 23.
+
+[[ ^46 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, p. 27.
+
+[[ ^47 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, p. 30.
+
+[[ ^48 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, pp. 74–78.
+
+[[ ^49 ]]: Knight, John Brendan. //The proactive and reactive stimuli of Archaic Milesian colonization in the Black Sea before 494 B.C.E.// The Open University, 2012, pp. 27–43.
+
+[[ ^50 ]]: Sacks, David. //Encyclopedia of the Ancient Greek World//. Facts on File, 2005, p. 97.
+
+[[ ^51 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, pp. 104–107.
+
+[[ ^52 ]]: Knight, John Brendan. //The proactive and reactive stimuli of Archaic Milesian colonisation in the Black Sea before 494 B.C.E.// The Open University, 2012, pp. 27–43.
+
+[[ ^53 ]]: Wilkinson, Toby C., and Anja Slawisch. "An Agro-Pastoral Palimpsest: New Insights into the Historical Rural Economy of the Milesian Peninsula." //Anatolian Studies//, vol. 70, 2020, pp. 1–26.
+
+[[ ^54 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, pp. 4–5.
+
+[[ ^55 ]]: Aristotle. //Metaphysics//. 983b6–27.
+
+[[ ^56 ]]: Simplicius, in Aristotle. //Physics//. 24.13–21.
+
+[[ ^57 ]]: Aristotle. //Physics//. 203b10–15.
+
+[[ ^58 ]]: Simplicius, in Aristotle. //Physics//. 24.26–25.1.
+
+[[ ^59 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, p. 117.
+
+[[ ^60 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, p. 118; Loy, Michael S., and Anja Slawisch. "Shedding Light on the Matter: Dedications and Ritual Change in Ionia during the Ionian Revolt." //Journal of Greek Archaeology//, vol. 6, 2021, p. 117.
+
+[[ ^61 ]]: Greaves, Alan M. //Miletos: A History//. Routledge, 2002, p. 118.
+
+[[ ^62 ]]: Gorman, Vanessa B. (2004). //Miletos, the Ornament of Ionia: A History of the City to 400 B.C//. University of Michigan Press. pp. 168–171.
+
+[[ ^63 ]]: Gorman, Vanessa B. (2004). //Miletos, the Ornament of Ionia//. pp. 170–171.
+
+[[ ^64 ]]: Faraone, Christopher A. (2018). "Seaside Altars of Apollo Delphinios, Embedded Hymns, and the Tripartite Structure of the Homeric Hymn to Apollo". //Greece & Rome//. !!65!! (1): 15–33.
+
+[[ ^65 ]]: Bachvarova, Mary R. (2022). "Ceremonies, Feasts and Festivities in Ancient Mesopotamia and the Mediterranean World". In Da Riva, Arroyo & Debourse (ed.). //Greco-Anatolian Identity-Making in the Milesian Molpoi-Procession//. Zaphon Verlag. pp. 51–56.
+
+[[ ^66 ]]: Bachvarova, Mary R. (2022). pp. 52–53. ``\{{cite book}}``: Missing or empty ``|title=`` ([[ help | https://en.wikipedia.org/wiki/Help%3ACS1_errors#citation missing title ]])
+
+[[ ^67 ]]: [[ "Delphinion of Miletus" | https://www.fhw.gr/choros/miletus/en/delfinio.php?mp=map6a ]]. //Foundation of the Hellenic World//.
+
+[[ ^68 ]]: [[ Suda, tau, 590 | https://topostext.org/work/240#tau.590 ]]
+
+[[ ^69 ]]: [[ Suda, nu, 114 | https://www.cs.uky.edu/~raphael/sol/sol-entries/nu/114 ]]
+
+[[ ^70 ]]: [[ Suda, epsilon, 738 | http://www.stoa.org/sol-entries/epsilon/738 ]]
+
+[[ ^71 ]]: [[ Pausanias, Description of Greece, 6.17.1 | https://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.17.1 ]]
+
+[[ ^72 ]]: [[ A Dictionary of Greek and Roman biography and mythology, Baccheius | https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DB%3Aentry+group%3D1%3Aentry%3Dbaccheius-bio-1 ]]

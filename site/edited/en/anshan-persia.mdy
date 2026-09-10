@@ -1,0 +1,323 @@
++++
+title: Anshan (Persia)
+description: Ancient city in Iran
+key-facts:
+  - name: Built
+    value: 4th millennium BC
+    from: "built: 4th millennium BC"
+  - name: Location
+    value: Fars province, Iran
+    from: "location: Fars province, Iran"
+  - name: Periods
+    value: Bronze Age, Iron Age
+    from: "periods: Bronze Age, Iron Age"
+  - name: Excavated
+    value: 1968–1978, 1999, 2000
+    from: "excavation-dates: 1968–1978, 1999, 2000"
+  - name: Archaeologists
+    value: William Sumner, Kamyar Abdi
+    from: "archaeologists: William Sumner, Kamyar Abdi"
+  - name: Site area
+    value: around 200 hectares
+    from: The site of Anshan covers around 200 hectares.[[ ^10 ]]
+image-plan:
+  - file: Elam_Map-en.svg
+    role: hero
+    section: lead
+    caption: Anshan in the highlands of the Elamite empire, with Susa, the other
+      Elamite capital, to its west. The approximate [[ Bronze Age ]] extension
+      of the [[ Persian Gulf ]] is shown.
+  - file: Keramik_aus_Iran.jpg
+    role: drop
+    section: archaeology
+    caption: Ceramics from Iran; the document says nothing about where or when
+      this pottery is from, so it cannot be captioned honestly.
+further:
+  - slug: susa
+    why: The lowland capital Anshan was paired with in the royal title "King of
+      Anshan and Susa", and the city it was five times the size of in the
+      Banesh period.
+  - slug: ur
+    why: The city Anshan's Elamites sacked in 2004 BC, carrying off its king
+      Ibbi-Sin and the statue of its god.
+  - slug: persepolis
+    why: The Achaemenid capital 43 kilometres to the east, built by the dynasty
+      that began by calling itself kings of Anshan.
+coordinates:
+  lat: 30.01138889
+  lon: 52.40861111
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Elam_Map-en.svg/960px-Elam_Map-en.svg.png
+images:
+  - file: Elam_Map-en.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Elam_Map-en.svg/330px-Elam_Map-en.svg.png
+    width: 555
+    height: 480
+    caption: Location of Anshan within the Elamite empire. The approximate Bronze
+      Age extension of the Persian Gulf is shown.
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/250px-Iran_relief_location_map.jpg
+  type: settlement
+  periods: Bronze Age, Iron Age
+  location: Fars province, Iran
+  history:
+    built: 4th millennium BC
+  site-notes:
+    excavation-dates: 1968–1978, 1999, 2000
+    archaeologists: William Sumner, Kamyar Abdi
+    condition: Ruined
+    owner: Public
+    public-access: Yes
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 2
+    id: archaeology
+    title: Archaeology
+wikidata:
+  id: Q569107
+  label: Anshan Persia
+  description: ancient city of Elam
+  claims:
+    located-in-the-administrative-territorial-entity:
+      - Fars Province
+      - Persis
+    coordinate-location:
+      lat: 30.011666666667
+      lon: 52.407777777778
+    instance-of:
+      - ancient city
+      - archaeological site
+      - city-state
+    country: Iran
+    commons-category: Anshan (Persia)
+    capital-of:
+      - Elam
+      - Persis
+    topic-s-main-category: Category:Anshan (Persia)
+    replaces: Parsua
+    pronunciation-audio: https://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913_(ron)-KlaudiuMihaila-Awan.wav
+    different-from: Anshan
+    inception: 4000 BC
+    dissolved-abolished-or-demolished:
+      value: "675"
+      sourcing: circa
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Keramik_aus_Iran.jpg
+    has-part-s:
+      - value: archaeological period
+        from: 4000 BC
+        to: 3500 BC
+        sourcing: circa
+      - value: archaeological period
+        from: 3300 BC
+        to: 2900 BC
+        sourcing: circa
+      - value: archaeological period
+        from: 2900 BC
+        to: 2600 BC
+        sourcing: circa
+      - value: archaeological period
+        from: 5th millennium BC
+        to: 4000 BC
+        sourcing: circa
+      - value: archaeological period
+        from: 2200 BC
+        to: 1600 BC
+        sourcing: circa
+      - value: archaeological period
+        from: 1600 BC
+        to: 900 BC
+        sourcing: circa
+      - value: archaeological period
+        from: 600 BC
+        to: 300 BC
+        sourcing: circa
+      - value: archaeological period
+        from: 300 BC
+        to: 50 BC
+        sourcing: circa
+      - value: archaeological period
+        from: 50 BC
+        to: "600"
+        sourcing: circa
+      - value: archaeological period
+        from: 3400 BC
+        to: 3300 BC
+        sourcing: circa
+link-titles:
+  achaemenid: Achaemenid
+  akkadian-empire: Akkadian Empire
+  akkadian-language: Akkadian language
+  ancient-persia: Ancient Persia
+  aratta: Aratta
+  awan-ancient-city: Awan (ancient city)
+  awan-dynasty: Awan dynasty
+  banesh: Banesh
+  beveled-rim-bowls: Beveled rim bowls
+  beyza: Beyza
+  bronze-age: Bronze Age
+  cultural-heritage-organization-of-iran: Cultural Heritage Organization of Iran
+  cuneiform: Cuneiform
+  cyrus-the-great: Cyrus the Great
+  dartmouth-college: Dartmouth College
+  elam: Elam
+  elamite-cuneiform: Elamite cuneiform
+  elamite-language: Elamite language
+  elamites: Elamites
+  enmerkar-and-the-lord-of-aratta: Enmerkar and the Lord of Aratta
+  fars-province: Fars province
+  fereidoon-tavallali: Fereidoon Tavallali
+  gudea: Gudea
+  gungunum: Gungunum
+  ibbi-sin: Ibbi-Sin
+  iran: Iran
+  iranian-revolution: Iranian revolution
+  kutik-inshushinak: Kutik-Inshushinak
+  lagash: Lagash
+  larsa: Larsa
+  manishtushu: Manishtushu
+  marv-dasht: Marv Dasht
+  mesopotamians: Mesopotamians
+  middle-elamite-period: Middle Elamite Period
+  neo-sumerian: Neo-Sumerian
+  ohio-state-university: Ohio State University
+  old-babylonian-period: Old Babylonian period
+  persepolis: Persepolis
+  persian-empire: Persian Empire
+  persian-gulf: Persian Gulf
+  persian-language: Persian language
+  persis: Persis
+  proto-elamite: Proto-Elamite
+  ramjerd: Ramjerd
+  shiraz: Shiraz
+  shu-sin: Shu-Sin
+  shulgi: Shulgi
+  sin-mythology: Sin (mythology)
+  sumerian-king-list: Sumerian King List
+  sumerian-language: Sumerian language
+  susa: Susa
+  teispes-of-anshan: Teispes of Anshan
+  university-of-pennsylvania: University of Pennsylvania
+  ur: Ur
+  uruk: Uruk
+  zagros: Zagros
+  zagros-mountains: Zagros Mountains
+source:
+  site: Wikipedia
+  lang: en
+  title: Anshan (Persia)
+  url: https://en.wikipedia.org/wiki/Anshan_(Persia)
+  page-id: 1620140
+  revision: "1365084009"
+  modified: 2026-07-20T04:34:18Z
+  retrieved: 2026-09-09
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Anshan
+    (Persia)" (revision 1365084009), by Wikipedia contributors, used under CC
+    BY-SA 4.0.
+rewritten:
+  of: corpus/en/anshan-persia.mdy
+  source-digest: b04eb2de5820b4fc
+  source-revision: "1365084009"
+  model: claude-opus-5
+  left-out: The hero caption says Susa lies to Anshan's west; the map itself is
+    the only support for that in the document, since the prose gives no
+    bearing between the two cities — cut the clause if the verifier needs
+    prose. The front matter's excavation dates (1968–1978, 1999, 2000) and the
+    prose (Abdi returned in 2004) disagree about the last season; I kept each
+    where it stood rather than reconcile them. The infobox image
+    (Iran_relief_location_map.jpg) is a bare locator map and is not in the
+    image list, so it is not planned; the Wikidata image Keramik_aus_Iran.jpg
+    is listed as a drop because nothing in the document says what it shows.
+  verified: true
+  verdict: minor-only
+  findings: 1
+  reviewed: false
++++
+Anshan is a city that ancient texts name and that modern scholars, until 1973, could not place on a map; what settled the question was artifacts uncovered through archaeological digs at Tall-i Malyan.[[ ^2 ]][[ ^3 ]] !!Anshan!! ([[ Elamite | elamite-language ]] [[ cuneiform | elamite-cuneiform ]]: 𒀭𒍝𒀭 //Anzan//; Sumerian: 𒀭𒊓𒀭𒆠 //Ansanᴷᴵ//, 𒀭𒊭𒀭𒆠 //Anšanᴷᴵ//), modern !!Tall-e Malyan!! (Persian: تل ملیان), also Tall-i Malyan, was an [[ Elamite | elam ]] and [[ ancient Persian | ancient-persia ]] city.[[ ^1 ]] It lay in the [[ Zagros Mountains ]] of southwestern [[ Iran ]], in the [[ Beyza ]]/[[ Ramjerd ]] plain in the province of [[ Fars | fars-province ]], approximately 46 kilometres (29 mi) north of [[ Shiraz ]] and 43 kilometres (27 mi) west of [[ Persepolis ]].
+
+It was one of the earliest urban states to exist, and from the late 4th millennium BC one of the earliest capitals of [[ Elam ]]. In the 7th century BC it fell under the rule of the Persians, and then became one of the early capitals of [[ Persia | persis ]] in its turn.
+
+Most of what is known about Anshan comes from two places: ancient artifacts discovered in archaeological digs at Tall-e Malyan, and passages in early Mesopotamian and Elamite texts.
+
+== History
+
+Anshan is considered to be the origin of one of the world's oldest known civilizations. The site was occupied continuously from before 4000 BC to 1000 BC, and through that span it was politically tied to the [[ Elamites ]] at Susa, as well as to the [[ Mesopotamians ]]. Its exact location was unknown to scholars until 1973; before that they could say only that it lay somewhere in the central [[ Zagros ]] mountain range. That year, artifacts uncovered through archaeological digs at Tall-i Malyan confirmed its location.[[ ^2 ]][[ ^3 ]]
+
+During the [[ Proto-Elamite ]] period (late fourth millennium BC), Anshan became one of the main cities of the region, thanks to its location on important trade routes. During the '[[ Banesh ]] period' (3400–2800), it covered 50 hectares (120 acres) — 5 times the size of [[ Susa ]].[[ ^4 ]]
+
+The highland city sits in the [[ Marv Dasht ]] area, a complex of several interconnected valleys and plains. During the mid-late Banesh Period (3100-2800 BC) Anshan also had a walled area of 200 hectares, together with a number of subsidiary villages and campsites.[[ ^5 ]][[ ^6 ]]
+
+The Elamite city makes an appearance in the early Sumerian epic //[[ Enmerkar and the Lord of Aratta ]]//, lying //en route// between [[ Uruk ]] and the legendary [[ Aratta ]], supposedly around the time writing was developed. At various times Anshan provided, in its own right, the source for a number of Elamite dynasties, which sometimes competed for extent and influence with other prominent Elamite cities.
+
+The earliest evidence of Anshan is in the //[[ Sumerian King List ]]//, which makes many references to rulers of [[ Awan | awan-ancient-city ]]. [[ Manishtushu ]] claimed to have subjugated Anshan; but as the [[ Akkadian Empire ]] weakened under his successors, the native governor of [[ Susa ]], [[ Kutik-Inshushinak ]], a scion of the [[ Awan dynasty ]], proclaimed his independence from Akkad and captured the city. [[ Gudea ]] of [[ Lagash ]] then claimed to have subjugated Anshan in 2200 BC, and the [[ Neo-Sumerian ]] rulers [[ Shulgi ]] and [[ Shu-Sin ]] of [[ Ur ]] are said to have maintained their own governors over the place. Their successor [[ Ibbi-Sin ]] seems to have spent his reign in a losing struggle to maintain control over Anshan. It ended with the Elamite sack of Ur in 2004 BC, when the statue of [[ Nanna | sin-mythology ]], and Ibbi-Sin himself, were captured and removed to Anshan.[[ ^2 ]][[ ^7 ]] In the Old Babylonian period, king [[ Gungunum ]] of [[ Larsa ]] dated his 5th regnal year after the destruction of Anshan.
+
+During the early Elamite period the rulers were known as the kings of Awan; later on they are referred to as the kings of Anzan, Susa, and Elam. There is also evidence suggesting that Awan may have been a political district that was part of a larger Anshan, particularly since it has been discovered that Anshan was politically and culturally advanced.[[ ^2 ]] From the 15th century BC, Elamite rulers at Susa began using the title "King of Anshan and Susa" (in Akkadian texts the toponyms are reversed, as "King of Susa and Anshan"),[[ ^8 ]] and it seems probable that Anshan and Susa were in fact unified for much of the "Middle Elamite period". The last king to claim this title was Shutruk-Nahhunte II (ca. 717-699 BC).[[ ^7 ]]
+
+In the 7th century BC Anshan fell under [[ Persis ]] [[ Achaemenid ]] rule, captured by [[ Teispes | teispes-of-anshan ]] (675–640 BC), an ancestor of [[ Cyrus the Great ]] who styled himself "the great king, king of Anshan".[[ ^9 ]] For another century, during the period of Elamite decline, Anshan was a minor kingdom. Then, in the 6th century BC, the Achaemenids embarked on a series of conquests from Anshan, which became the nucleus of the [[ Persian Empire ]]. The most famous conqueror who rose from Anshan was [[ Cyrus the Great ]].
+
+The connection to the Achaemenid Empire can be traced through the writings on the Cyrus Cylinder, which set out the lineage of [[ Cyrus the Great ]]. Cyrus is referred to there as the "king of the city of Anshan", and his ancestors as "the great king, king of the city of Anshan".[[ ^9 ]]
+
+== Archaeology
+
+The site of Anshan covers around 200 hectares.[[ ^10 ]] Its main feature is a low flat-topped mound of about 130 hectares, rising 4–6 metres (13–20 ft). On three sides are the remains of a city wall, 5 kilometres (3.1 mi) in length and 20 meters wide, which dates from the Late Banesh and Kaftari periods.[[ ^5 ]][[ ^11 ]][[ ^12 ]] About 300 meters northeast of the main mound is a small site the excavators termed the TUV Mound. It was occupied only during the Banesh phase of the late fourth millennium BC, when it covered 3 hectares and the main site had an area of about 50 hectares. Proto-Elamite tablets were found at TUV at the same level as in the main mound, and so were [[ Beveled rim bowls ]].[[ ^13 ]]
+
+The site was first worked by Hassan Nader and [[ Fereidoon Tavallali ]] of the Archaeological Service of Iran in 1961. No records or publications of that effort appear to exist, though some artifacts ended up in the Persepolis Museum.
+
+Scientific excavation began in 1971, after a survey in 1968, with a team led by William Sumner from the [[ University of Pennsylvania ]] and [[ Ohio State University ]].[[ ^14 ]][[ ^15 ]][[ ^16 ]] The dig continued for several seasons, until 1978, when the [[ Iranian revolution ]] intervened. Most recently, Tal-i Malyan was excavated by Kamyar Abdi in 1999.[[ ^17 ]][[ ^18 ]] Abdi returned for a further six week dig in 2004 by the [[ Cultural Heritage Organization of Iran ]] and [[ Dartmouth College ]].[[ ^19 ]]
+
+The most notable find was an inscribed brick, found at an unspecified location at the site in 1971. A photograph of it was published in a French archaeological publication, and the inscriptions it showed were key to identifying the lost city of Anshan.[[ ^20 ]] They were written in Elamite and are believed to be part of a temple built by the Elamite kings to honor the gods at Anshan; the inscription contained the name of the Elamite ruler Hutelutush-Inshushinak and his sons and daughters. The following season a group of tablets was found at the site, and after translating them Erica Reiner, from the University of Chicago's Oriental Institute, was able to match their writings to those on the brick. They also matched the writings on tablets discovered by the Pennsylvania team which did, specifically, name Anshan. In 1973, it was confirmed that this site was the lost city of Anshan.[[ ^21 ]][[ ^3 ]]
+
+The Pennsylvania team found three separate groups of tablets at the site. The oldest group contains 33 tablets and fragments made of unbaked clay that date back to the third millennium BC (in Level III). Some were found in excavation area ABC in the main mound, in monumental building structures, and the rest in smaller structures in Operation TUV. That set has not been translated, because the writing is [[ Proto-Elamite ]].[[ ^22 ]]
+
+The next set is inscribed in [[ Cuneiform ]], in the Old Babylonian variant of the [[ Akkadian language ]], and dates back to the [[ Old Babylonian period ]] c. 1800 BC; these tablets signify a Mesopotamian influence. The third set (in Level II), in [[ Elamite cuneiform ]], are the tablets Erica Reiner used to positively identify Anshan's location. They date from the later part of the [[ Middle Elamite Period ]] and are mostly part of an archive. The building containing them was destroyed by fire, which baked the tablets but in collapsing damaged a number of them. About 50 tablets are complete.[[ ^23 ]]
+
+The researchers and the Iranian government agreed that the government could choose ten artifacts and that the remaining items would be divided evenly between the two parties. The Iranian government chose to take several of the tablets in their choice of the original ten items.[[ ^3 ]]
+
+[[ ^1 ]]: [[ https://archive.org/download/ElamischesWorterbuch.1/1.A-H.pdf | https://archive.org/download/ElamischesWorterbuch.1/1.A-H.pdf ]] Hinz, Walther, and Heidemarie Koch, "Elamisches Wörterbuch. T. 1.2.", Archaeologische Mitteilungen aus Iran/Ergänzungsband 17, 1987
+
+[[ ^2 ]]: Hansman, John (1972). "Elamites, Aghaemenians and Anshan". //Iran//. !!10!!: 101–125. doi:[[ 10.2307/4300468 | https://doi.org/10.2307%2F4300468 ]]. JSTOR [[ 4300468 | https://www.jstor.org/stable/4300468 ]].
+
+[[ ^3 ]]: [[ https://www.sciencenews.org/archive/lost-city-anshan | https://www.sciencenews.org/archive/lost-city-anshan ]]"The Lost City of Anshan". //Science News//. !!103!! (14): 220–221. 1973-04-07. doi:[[ 10.2307/3957995 | https://doi.org/10.2307%2F3957995 ]]. ISSN [[ 0036-8423 | https://search.worldcat.org/issn/0036-8423 ]]. JSTOR [[ 3957995 | https://www.jstor.org/stable/3957995 ]].
+
+[[ ^4 ]]: D. T. Potts, [[ //A Companion to the Archaeology of the Ancient Near East.// | https://books.google.com/books?id=7lK6l7oF_ccC&pg=PA743 ]] Volume 94 of Blackwell Companions to the Ancient World. John Wiley & Sons, 2012 ISBN [[ 1405189886 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1405189886 ]] p743
+
+[[ ^5 ]]: William Sumner, "The Proto-Elamite City Wall at Tal-i Malyan", Iran, vol. 23, pp. 153–161, 1985
+
+[[ ^6 ]]: Ilene M. Nicholas, The Proto-Elamite Settlement at Tuv, Malyan Excavation Reports Volume 1, [[ University of Pennsylvania Museum ]] Publication, 1990, ISBN [[ 0-934718-86-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-934718-86-5 ]]
+
+[[ ^7 ]]: Gershevitch, I.; Fisher, William Bayne (1985-06-06). [[ //The Cambridge History of Iran// | https://books.google.com/books?id=BBbyr932QdYC&q=%22king+of+anshan+and+susa%22&pg=PA31 ]]. Cambridge University Press. pp. 26–27. ISBN [[ 9780521200912 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780521200912 ]].
+
+[[ ^8 ]]: Curtis, Vesta Sarkhosh; Stewart, Sarah; Institute, London Middle East; Museum, British (2005-11-29). [[ //Birth of the Persian Empire// | https://books.google.com/books?id=a0IF9IdkdYEC&q=%22king+of+anshan+and+susa%22&pg=PA15 ]]. I.B.Tauris. p. 15. ISBN [[ 9781845110628 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9781845110628 ]].
+
+[[ ^9 ]]: //Birth of the Persian Empire//. Curtis, Vesta Sarkhosh., Stewart, Sarah (Sarah Rosemary Anne), London Middle East Institute., British Museum. London: I.B. Tauris in association with the London Middle East Institute at SOAS and the British Museum. 2005. ISBN [[ 978-1845110628 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1845110628 ]]. OCLC [[ 60419092 | https://search.worldcat.org/oclc/60419092 ]].``\{{cite book}}``:  CS1 maint: others ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_others ]])
+
+[[ ^10 ]]: Moorey, P. R. S. (2000-01-01). "Excavations at Anshan (Tal-e Malyan): The Middle Elamite Period. Elizabeth Carter". //Journal of Near Eastern Studies//. !!59!! (1): 34–35. doi:[[ 10.1086/468768 | https://doi.org/10.1086%2F468768 ]]. ISSN [[ 0022-2968 | https://search.worldcat.org/issn/0022-2968 ]].
+
+[[ ^11 ]]: Miller, Naomi F., and William M. Sumner, "The Banesh-Kaftari Interface. The View from Operation H5, Malyan", Iran, vol. 41, pp. 7–19, 2003
+
+[[ ^12 ]]: Miller, Naomi F., and William M. Sumner, "The Banesh-Kaftari Interface: The View from Operation H5, Malyan", Iran, vol. 42, pp. 77–89, 2004
+
+[[ ^13 ]]: [[ https://www.persee.fr/doc/paleo_0153-9345_1987_num_13_2_4429 | https://www.persee.fr/doc/paleo_0153-9345_1987_num_13_2_4429 ]] Nicholas, Ilene M, "The function of bevelled-rim bowls: a case study at the TUV mound, Tal-e Malyan, Iran", Paléorient, vol. 13, no. 2, pp. 61–72, 1987 JSTOR [[ 41492255 | https://www.jstor.org/stable/41492255 ]]
+
+[[ ^14 ]]: William Sumner, "Excavations at Tall-i Malyan 1971-72", Iran, vol. 12, pp. 155–180, 1974
+
+[[ ^15 ]]: William Sumner, "Excavations at Tall-i Malyan 1974", Iran, vol. 14, pp. 103–115, 1976
+
+[[ ^16 ]]: John R. Alden and Jack Martin Balcer, "Excavations at Tal-i Malyan", Iran, vol. 16, iss 1, pp. 79-92, 1978
+
+[[ ^17 ]]: Kamyar Abdi, "Malyan 1999", Iran, vol. 39, pp. 73-98, 2001
+
+[[ ^18 ]]: Kamyar Abdi, "Back to Malyan", Antiquity, vol. 74, pp. 473–74, 2000
+
+[[ ^19 ]]: John R. Alden et al., "Fars Archaeology Project 2004: Excavations at Tal-e Malyan", Iran, vol. 43, pp. 39-47, 2005
+
+[[ ^20 ]]: Lambert, Maurice, "Hutelutush-Insushnak et le pays d’Anzan", RA 66, pp. 61–76, 1972
+
+[[ ^21 ]]: Reiner, Erica, "The location of Anšan", Revue d’Assyriologie et d’archéologie Orientale, vol. 67, no. 1, pp. 57–62, 1973
+
+[[ ^22 ]]: Stolper, Matthew W., "Proto-Elamite texts from Tall-I Malyan", vol. 24, no. 1-2, pp. 1-12, 1985
+
+[[ ^23 ]]: [[ https://archive.org/download/TextsFromTell-IMalyanElamiteAdministrativeTexts1972-1974/StolpertextFromtallemaliyan1984.pdf | https://archive.org/download/TextsFromTell-IMalyanElamiteAdministrativeTexts1972-1974/StolpertextFromtallemaliyan1984.pdf ]] Matthew W. Stolper, "Texts from Tall-i Malyan Vol. 1: Elamite Administrative Texts (1972–74)", University of Pennsylvania Museum Publication, 1984 ISBN [[ 0-934718-61-X | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-934718-61-X ]]

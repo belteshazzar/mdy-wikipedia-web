@@ -1,0 +1,14 @@
+slug: miletus
+findings:
+  - kind: unsupported
+    quote: "It was also where early [[ Greek philosophy ]] and science began: the
+      home of the [[ Milesian school ]], with thinkers such as [[ Thales ]],
+      [[ Anaximander ]], and [[ Anaximenes | anaximenes-of-miletus ]]."
+    why: The source's lead says the city "played a foundational role in the
+      development of early Greek philosophy and science, serving as the home
+      of the Milesian school", and its Philosophy section says Miletus "played
+      a foundational role in the origins of Western philosophical inquiry".
+      Neither says Greek philosophy and science began at Miletus; the rewrite
+      turns a foundational role into an origin point.
+    severity: minor
+verdict: minor-only

@@ -1,0 +1,12 @@
+slug: sparta
+findings:
+  - kind: unsupported
+    quote: What ended Sparta as a military power was not a lost battle but a lost
+      workforce.
+    why: The source attributes the terminal decline to the loss of Messenian slave
+      labour but does not exclude the battle; elsewhere it says "Sparta never
+      fully recovered from its losses at Leuctra in 371 BC and the subsequent
+      helot revolts." The flat denial that a lost battle was the cause is the
+      rewrite's own.
+    severity: minor
+verdict: minor-only

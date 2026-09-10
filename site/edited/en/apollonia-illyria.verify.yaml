@@ -1,0 +1,18 @@
+slug: apollonia-illyria
+findings:
+  - kind: unsupported
+    quote: The worst damage was not ancient.
+    why: The source makes no comparative judgement about which damage to the site
+      was worst. It records the 1967 machinery and bunker construction as
+      having 'seriously and irrevocably damaged' the site, and separately
+      records WWII damage, post-1990 plundering and the 2020 vandalism, but
+      never ranks them.
+    severity: minor
+  - kind: altered-value
+    quote: Who counted as an Apolloniate stayed narrow for three centuries.
+    why: The source says the social system 'suggests a strict endogamy and it was
+      preserved three centuries after the foundation of the city' — i.e. still
+      in force three centuries on, not that it lasted three centuries and then
+      ended.
+    severity: minor
+verdict: minor-only

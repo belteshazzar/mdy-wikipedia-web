@@ -1314,7 +1314,8 @@ rewritten:
     inconsistencies in footnote numbering (for example duplicated [[ ^432 ]],
     and low numbers such as [[ ^5 ]]–[[ ^41 ]] appearing beside three-digit
     ones) are reproduced exactly as given rather than corrected.
-  verified: false
+  verified: true
+  verdict: clean
   reviewed: false
 +++
 !!Palmyra!![[ ^1 ]] is an ancient city in central [[ Syria ]], in the eastern part of the [[ Levant ]]. Archaeological finds date back to the [[ Neolithic ]] period, and documents first mention the city in the early second millennium BCE. Palmyra changed hands on a number of occasions between different empires before becoming a subject of the [[ Roman Empire ]] in the first century CE.

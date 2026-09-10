@@ -1,0 +1,21 @@
+slug: nimrud
+findings:
+  - kind: altered-value
+    quote: In 1847 he brought two of the colossi weighing 9 tonnes (10 short tons)
+      each, one lion and one bull, to the [[ British Museum ]].
+    why: The source says that in 1847 Layard brought the two colossi "to London",
+      and that only "After 18 months and several near disasters he succeeded
+      in bringing them to the British Museum". The rewrite attaches 1847 to
+      their arrival at the British Museum and attaches the 18 months and near
+      disasters to getting them to London, reversing the two destinations the
+      source gives.
+    severity: minor
+  - kind: unsupported
+    quote: The tradition was still attached to the mounds seventy years later.
+    why: The source says only that Niebuhr recorded "Nimrud" as the local name in
+      March 1760, and separately that Buckingham in 1830 reported a tradition
+      of a palace built by Nimrod. It never says a tradition (as opposed to
+      the name) existed in Niebuhr's time, so the continuity across "seventy
+      years" is the rewrite's inference, not the source's claim.
+    severity: minor
+verdict: minor-only

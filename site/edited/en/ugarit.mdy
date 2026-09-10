@@ -1,0 +1,1381 @@
++++
+title: Ugarit
+description: Ancient port city in western Syria and northern levant
+hook: Discovered in 1928, this coastal city in what is now northern Syria has
+  yielded the oldest known systematic use of an alphabet — and texts in a
+  language previously unknown to anyone, Ugaritic.
+standfirst: Ugarit began in the Neolithic Fertile Crescent, occupied from the
+  end of the 8th millennium BC and settled on through the Chalcolithic and
+  Bronze Ages. In the Late Bronze Age (c. 1500 – c. 1200 BC) it grew into the
+  Kingdom of Ugarit, and c. 1185 BC it was destroyed.
+key-facts:
+  - name: Built
+    value: c. 7000 BC
+    from: "built: c. 7000 BC"
+  - name: Abandoned
+    value: c. 1185 BC, in the Bronze Age Collapse
+    from: "abandoned: c. 1185 BC event: Bronze Age Collapse"
+  - name: Where it is
+    value: Latakia Governorate, Syria, in the Fertile Crescent
+    from: "location: Latakia Governorate, Syria region: Fertile Crescent"
+  - name: Periods
+    value: Neolithic, Late Bronze Age
+    from: "periods: Neolithic, Late Bronze Age"
+  - name: Excavated
+    value: 1928–1939, 1950–2008
+    from: "excavation-dates: 1928–1939, 1950–2008"
+  - name: Visiting
+    value: Ruins, publicly owned, open to the public
+    from: "condition: Ruins owner: Public public-access: Yes"
+pull-quotes:
+  - text: "So you had written to me: “Could I not have demanded my needs [from]
+      the Great King, the king of Egypt, my lord? I demand this request: [In]
+      the land of Ugarit there is a severe hunger (bi-ru-ú dan-niš): May my
+      lord save [the land of Ugarit], and may the king give grain (ZÍZ.AN.MEŠ)
+      to save my life … and to save the citizens of the land of Ugarit.[[ ^24
+      ]]"
+    attribution: The ruler of Ugarit, quoted back in a letter from the Egyptian
+      pharaoh Merenptah (r. 1213 – 1203 BC)
+    section: destruction
+  - text: "My father, behold, the enemy's ships came (here); my cities(?) were
+      burned, and they did evil things in my country. Does not my father know
+      that all my troops and chariots(?) are in the Land of [[ Hatti |
+      hittites ]], and all my ships are in the Land of [[ Lukka ]]? \\...
+      Thus, the country is abandoned to itself. May my father know it: the
+      seven ships of the enemy that came here inflicted much damage upon us.[[
+      ^27 ]]"
+    attribution: Ammurapi, the last king of Ugarit, responding to the king of
+      Alashiya's appeal for assistance
+    section: destruction
+  - text: "As for the matter concerning those enemies: (it was) the people from
+      your country (and) your own ships (who) did this! And (it was) the
+      people from your country (who) committed these transgression(s) \\... I
+      am writing to inform you and protect you. Be aware![[ ^23 ]]"
+    attribution: Eshuwara, the senior governor of Alashiya
+    section: destruction
+  - text: When your messenger arrived, the army was humiliated and the city was
+      sacked. Our food in the threshing floors was burnt and the vineyards
+      were also destroyed. Our city is sacked. May you know it! May you know
+      it![[ ^23 ]]
+    attribution: A letter written to the Hittite viceroy at Karkemiš after the destruction
+    section: destruction
+  - text: Thus Kušmešuša, king of Alašiya, say to Niqmaddu, king of Ugarit, my
+      son. All is well with me, my households, my countries, my wives, my
+      sons, my troops, my horses and my chariots.… In exchange of the gift
+      which you had sent me, I sent to you thirty-three (ingots of) copper;
+      their weight is thirty talents and six-thousand and five-hundred
+      shekels.[[ ^85 ]]
+    attribution: Kušmešuša, king of Alašiya, to Niqmaddu, king of Ugarit
+    section: cuneiform-tablets
+timeline:
+  - when: c. 7000 BC
+    what: The settlement is built.
+    from: "built: c. 7000 BC"
+  - when: the end of the 8th millennium BC
+    what: The site is occupied, and stays a settlement through the Chalcolithic
+      and Bronze Ages.
+    from: The site was occupied from the end of the 8th millennium BC and
+      continued as a settlement through the Near Eastern [[ Chalcolithic ]]
+      and [[ Bronze Ages | bronze-age ]] until its destruction c. 1185 BC.
+  - when: 6th millennium BC
+    what: Wikidata's date for the city's inception.
+    from: "inception: 6th millennium BC"
+  - when: Around 1820 BC
+    what: The Great Kingdom of Yamhad (Aleppo) emerges under King Sumu-Epuh;
+      Ugarit would eventually become its vassal.
+    from: Around 1820 BC (MB IIA), the [[ Great Kingdom of Yamhad | yamhad ]]
+      (Aleppo) emerged under its King [[ Sumu-Epuh ]] as a regional power.
+      Ugarit (Stratum 7) would eventually become a vassal of Yamhad along with
+      several other petty kingdoms in the Northern Levant (Syria).[[ ^10 ]]
+  - when: c. 1765 BC
+    what: The Mari Archive mentions Ugarit.
+    from: The !!Mari Archive!! (c. 1765 BC) mentions Ugarit.
+  - when: around 1620
+    what: Hattusili I of Hatti attacks Yamhad; raids by Mursili I around 1600/1590
+      BC bring Yamhad down.
+    from: In MB IIB (c. 1628 – c. 1590 BC), the Hattusili I of Hatti attacked
+      Yamhad around 1620 with Mursili I of Hatti making new raids around
+      1600/1590 BC, causing the Great Kingdom of Yamhad to collapse.
+  - when: around 1400 BC
+    what: Scribes in Ugarit appear to have developed the oldest systematically
+      used alphabet, of 30 letters.
+    from: Scribes in Ugarit appear to have developed the oldest systematically
+      used [[  alphabet | ugaritic-alphabet ]] around 1400 BC; 30 letters,
+      corresponding to sounds, were inscribed on clay tablets.
+  - when: c. 1350 – c. 1315 BC
+    what: Under Niqmaddu II, Ugarit becomes a vassal of the Hittite Empire.
+    from: During the reign of his son [[ Niqmaddu II ]] (c. 1350 – c. 1315 BC)
+      Ugarit became a vassal of the [[ Hittite Empire ]], first under a
+      viceroy in [[ Karkemiš ]] and then, with the Hititte collapse, directly
+      under Karkemiš.[[ ^17 ]][[ ^18 ]][[ ^19 ]]
+  - when: 1194 BC
+    what: Chancellor Bay's known term of office sets an upper limit on the year of
+      Ugarit's destruction.
+    from: "It was already established that Bay was in office from approximately
+      1194 to 1192 BC. The two pieces of evidence together thus set an upper
+      limit on the year of Ugarit's destruction: 1194 BC."
+  - when: between 1192 and 1190 BC
+    what: Radiocarbon dating, cuneiform records and a dated eclipse indicate the
+      destruction.
+    from: "[[ Radiocarbon dating ]] combined with translations of cuneiform
+      records and the absolute dating of recorded astronomical events, e.g.,
+      an [[ eclipse ]] in 1192 BC, indicate destruction between 1192 and 1190
+      BC."
+  - when: 1190s BC
+    what: Wikidata's date for the city's dissolution.
+    from: "dissolved-abolished-or-demolished: 1190s BC"
+  - when: c. 1185 BC
+    what: Ugarit is abandoned, in the Bronze Age Collapse.
+    from: "abandoned: c. 1185 BC event: Bronze Age Collapse"
+  - when: "1928"
+    what: A peasant plowing a field accidentally opens an old tomb, and the
+      forgotten site is found.
+    from: After its destruction in the early 12th century BC, Ugarit's location
+      was forgotten until 1928 when a peasant accidentally opened an old tomb
+      while plowing a field.
+  - when: "1929"
+    what: The French Mission de Ras Shamra begins excavating, led by Claude
+      Schaeffer.
+    from: Beginning in 1929 excavations of Ugarit were conducted by a French team
+      called the Mission de Ras Shamra led by archaeologist [[ Claude
+      Schaeffer | claude-frédéric-armand-schaeffer ]] from the [[ Musée
+      archéologique | musée-archéologique-strasbourg ]] in [[ Strasbourg ]].
+  - when: "1939"
+    what: Work is interrupted by the outbreak of World War II.
+    from: Work continued until 1939 when it was interrupted by the outbreak of [[
+      World War II ]].
+  - when: "1950"
+    what: The French excavation resumes, again under Claude Schaeffer, until 1970.
+    from: The French excavation, now the Mission Archeologique Française de Ras
+      Shamra-Ougarit, resumed in 1950, led again by Claude Schaeffer until
+      1970.
+  - when: "2011"
+    what: Excavations are interrupted by the Syrian civil war.
+    from: Excavations were interrupted by the [[ Syrian civil war ]], which began
+      in 2011.
+image-plan:
+  - file: Ugarit_Corbel.jpg
+    role: hero
+    section: lead
+    caption: The corbelled entrance to the [[ Royal Palace of Ugarit ]], a
+      building constructed over several major phases between the 15th and 13th
+      centuries BC.[[ ^74 ]][[ ^4 ]]
+  - file: Ugarit_Tomba_-_GAR_-_3-01.JPG
+    role: full
+    section: late-bronze-age
+    caption: A tomb in the Royal palace's courtyard. Beneath two of the palace's
+      northern rooms lay three large corbel-vaulted family tombs, found devoid
+      of any contents.[[ ^91 ]]
+  - file: Baal_Ugarit_Louvre_AO17330.jpg
+    role: inline
+    section: ugaritic-literature
+    caption: A [[ Baal ]] statuette from Ugarit. The [[ Ba'al tales | baal-cycle
+      ]] detail Baal-[[ Hadad ]]'s conflicts with [[ Yam | yam-god ]] and [[
+      Mot | mot-semitic-god ]] for pre-eminence under the God [[ El | el-deity
+      ]].[[ ^31 ]]
+  - file: Boar_rhyton_Louvre_AO18521.jpg
+    role: inline
+    section: archaeology
+    caption: Mycenaean ceramic imported to Ugarit, 14th–13th century BC — the city
+      traded with [[ Aegean | aegean-sea ]] states across its golden age.[[
+      ^13 ]]
+  - file: Text_of_Law_in_Akkadian_by_King_Niqmepa_with_dynastic_seal_Ras_Shamra_Louvre_Museum.jpg
+    role: inline
+    section: cuneiform-tablets
+    caption: A text of law in Akkadian by King [[ Niqmepa ]], carrying the
+      dynastic seal. From Ras Shamra; Louvre Museum.
+  - file: Ugarit_Royal_Palace_archives_space_3912.jpg
+    role: inline
+    section: royal-palace
+    caption: One of the palace's archive spaces. Tablets were found in archives
+      located across the palace, from reports on outlying regions to practice
+      writing by young scribes.[[ ^87 ]]
+  - file: 5.9_Ugarit.jpg
+    role: inline
+    section: royal-palace
+    caption: The palace reception hall. Rooms were arranged around courtyards,
+      encompassing 6,500 square meters before the city's destruction.[[ ^74
+      ]][[ ^4 ]]
+  - file: 5.6_Ugarit.jpg
+    role: inline
+    section: acropolis
+    caption: Ugarit. Only the highest—the newest—levels of the city's ruins have
+      been excavated.
+  - file: Ugarit_Dagan_aka_Dagon_temple_3971.jpg
+    role: inline
+    section: acropolis
+    caption: The temple of [[ Dagon ]] on the acropolis, excavated between 1929
+      and 1937.[[ ^73 ]][[ ^74 ]]
+  - file: Dagan_temple_3D.png
+    role: inline
+    section: acropolis
+    caption: A 3D reconstruction of the Temple of Dagan. Its foundation walls were
+      thickest on the north side of the naos, at 4.4 metres; it is proposed
+      this supported a stairway and a sacrificial site on the terrace.[[ ^92
+      ]]
+  - file: Maison_aux_alabaster.png
+    role: inline
+    section: the-house-of-alabaster-vessels
+    caption: A 3D reconstruction of The House of Alabaster Vessels, in the
+      residential quarter east of the royal palace, a location where high
+      officials reside.[[ ^74 ]]
+  - file: RasIbnHani,tomb1.jpg
+    role: inline
+    section: ras-ibn-hani-and-minet-el-beida
+    caption: A tomb in the north palace at Ras Ibn Hani. A "royal palace", elite
+      housing and tombs were found there, along with about 169 cuneiform
+      tablets, most in the Ugaritic language.[[ ^97 ]][[ ^48 ]]
+  - file: Sceau_Minet_el_Beida_AO15771.jpg
+    role: inline
+    section: ras-ibn-hani-and-minet-el-beida
+    caption: "A steatite cylinder seal from Minet el-Beida: a warrior holding a
+      head stuck on a pike, with a winged disc, a lioness, a twist, the bust
+      of a man, globules, caprids around a tree and a hand. Cylinder seals
+      were among the finds at the port.[[ ^104 ]][[ ^105 ]]"
+  - file: TempleOfRhytonUgarit.png
+    role: inline
+    section: the-temple-of-rhyton
+    caption: A 3D digital reconstruction of the Temple of Rhyton in [[ Blender |
+      blender-software ]]. Its main hall is rectangular, roughly 6 × 7 metres,
+      with benches and a stepped platform or [[ altar ]].[[ ^74 ]]
+  - file: StatueOfEl.png
+    role: inline
+    section: the-temple-of-rhyton
+    caption: A 3D digital reconstruction of the statue of [[ El | el-deity ]].
+      Some scholars have argued the complex should be identified as the Temple
+      of El on the basis of this limestone [[ cult statue | cult-image ]].[[
+      ^106 ]]
+glossary:
+  - term: Rhyton
+    gloss: A ceremonial drinking vessel for libation; a large number were found
+      near the temple that is named after them.
+    from: It is likely named after the large amount of [[ rhytons | rhyton ]]
+      (ceremonial drinking vessels for [[ libation ]]) discovered in its
+      vicinity.[[ ^5 ]]
+  - term: Tell
+    gloss: The mound a long-occupied site leaves behind; at Ugarit its southern
+      slope is under orange groves, which prevents excavation.
+    from: The southern slope of the mound, or [[ tell | tell-archaeology ]], is
+      covered by orange groves, preventing excavation.[[ ^49 ]]
+  - term: Pronaos and naos
+    gloss: "The two parts of a temple: the porch (pronaos) and the sanctuary
+      proper (naos)."
+    from: Both temples are composed of a pronaos (porch) and a naos (sanctuary
+      proper), aligned from north-northeast to south-southwest.
+  - term: Ashlar
+    gloss: Squared building stone; at Ugarit's palace, preserved ashlar blocks
+      reach heights of up to 4 meters.
+    from: The palace was well constructed, predominantly crafted from stone, with
+      preserved ashlar blocks reaching heights of up to 4 meters.
+  - term: Ugaritic King List (UKL)
+    gloss: The king list that is essentially the only source for Ugarit's rulers
+      before roughly 1350 BC; it originally carried 52 names.
+    from: Because all texts found at Ugarit date between roughly 1350 BC and 1185
+      BC, essentially all that is known about earlier rulers of Ugarit comes
+      from the Ugaritic King List (UKL).
+  - term: Dingir
+    gloss: The cuneiform character that precedes each of the 52 names on the king
+      list, indicating that the ruler had been deified.
+    from: All 52 names are preceded by a [[ Dingir ]] character indicating that
+      that ruler had been deified.
+  - term: Glyptics
+    gloss: Cylinder seals, scarabs, impressions and seal rings; at Ugarit they are
+      decorative, religious, or royal.
+    from: Glyptics, or cylinder seals, scarabs, impressions, and seal rings, were
+      found to be of [[ Hyksos ]] and [[ Hittite | hittites ]] influence, and
+      the types of glyptics being decorative, religious, or royal.[[ ^106 ]]
+  - term: Marzēah
+    gloss: A Levantine communal celebration in honour of a deity, accompanied by
+      wine and music, and often descending into excess.
+    from: In addition to the cultic function, the Temple has also been identified
+      as a site for //Marzēah//, a [[ Levantine | levant ]] communal
+      celebration in honour of a certain deity, including El. The bouquets are
+      described as indulgent and abundant, accompanied by wine and music, and
+      often descending into excess.
+further:
+  - slug: carchemish
+    why: Karkemiš was the seat of the Hittite viceroy Ugarit answered to, and the
+      last place Ammurapi begged for troops as the enemy advanced.
+  - slug: mari-syria
+    why: The Mari Archive of c. 1765 BC mentions Ugarit, and Zimri-Lim of Mari
+      made a state visit; Mari correspondence is how we know Ugarit was active
+      early in the millennium.
+  - slug: byblos
+    why: In the Amarna letter EA 89, Rib-Hadda of Byblos likens the palace at Tyre
+      to the grandeur of the palace inside Ugarit's walls.
+anchors:
+  hook: "!!Ugarit!! ([[ /juːˈɡɑːrɪt, uː-/ |
+    https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]]; Ugaritic: [[
+    𐎜𐎂𐎗𐎚 | https://en.wiktionary.org/wiki/𐎜𐎂𐎗𐎚 ]], //ủgrt//
+    /ʾUgarītu/) was an ancient [[ Levantine | levant ]] coastal city located
+    in what is today northern [[ Syria ]], at a site known in [[ Arabic ]] as
+    !!Ras Shamra!! or !!Tell Shamra!!. Since its discovery in 1928, the site
+    has revealed the [[ oldest known systematic use of an alphabet |
+    ugaritic-alphabet ]]. [[ Ugaritic texts ]] were written in a previously
+    unknown [[ Northwest Semitic | northwest-semitic-languages ]] tongue—the
+    [[ Ugaritic ]] language."
+  standfirst: Ugarit has its origins in the [[ Neolithic ]] period of the [[
+    Fertile Crescent ]]. The site was occupied from the end of the 8th
+    millennium BC and continued as a settlement through the Near Eastern [[
+    Chalcolithic ]] and [[ Bronze Ages | bronze-age ]] until its destruction
+    c. 1185 BC.[[ ^3 ]][[ ^4 ]] During the [[ Late Bronze Age ]] (c. 1500 – c.
+    1200 BC) the settlement saw significant growth, culminating in the
+    establishment of the Kingdom of Ugarit.[[ ^5 ]]
+images:
+  - file: Ugarit_Tomba_-_GAR_-_3-01.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ugarit_Tomba_-_GAR_-_3-01.JPG/250px-Ugarit_Tomba_-_GAR_-_3-01.JPG
+    width: 1536
+    height: 2048
+    caption: A tomb in the Royal palace's courtyard
+  - file: Baal_Ugarit_Louvre_AO17330.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Baal_Ugarit_Louvre_AO17329.jpg/250px-Baal_Ugarit_Louvre_AO17329.jpg
+    width: 900
+    height: 1658
+    caption: A Baal statuette from Ugarit
+  - file: Boar_rhyton_Louvre_AO18521.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Boar_rhyton_Louvre_AO18521.jpg/250px-Boar_rhyton_Louvre_AO18521.jpg
+    width: 1615
+    height: 1860
+    caption: Mycenaean ceramic imported to Ugarit, 14th–13th century BC.
+  - file: Ugarit_Corbel.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ugarit_Corbel.jpg/250px-Ugarit_Corbel.jpg
+    width: 2560
+    height: 1920
+    caption: Entrance to the Royal Palace of Ugarit
+  - file: Text_of_Law_in_Akkadian_by_King_Niqmepa_with_dynastic_seal_Ras_Shamra_Louvre_Museum.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Text_of_Law_in_Akkadian_by_King_Niqmepa_with_dynastic_seal_Ras_Shamra_Louvre_Museum.jpg/250px-Text_of_Law_in_Akkadian_by_King_Niqmepa_with_dynastic_seal_Ras_Shamra_Louvre_Museum.jpg
+    width: 1130
+    height: 1301
+    caption: Text of Law in Akkadian by King Niqmepa with dynastic seal Ras Shamra
+      Louvre Museum
+  - file: Ugarit_Royal_Palace_archives_space_3912.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ugarit_Royal_Palace_archives_space_3912.jpg/250px-Ugarit_Royal_Palace_archives_space_3912.jpg
+    width: 4256
+    height: 2832
+    caption: Ugarit Royal Palace archives space
+  - file: 5.9_Ugarit.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/5.9_Ugarit.jpg/250px-5.9_Ugarit.jpg
+    width: 4860
+    height: 3132
+    caption: Ugarit Royal Palace reception hall
+  - file: 5.6_Ugarit.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/5.6_Ugarit.jpg/250px-5.6_Ugarit.jpg
+    width: 4860
+    height: 3132
+    caption: Ugarit
+  - file: Ugarit_Dagan_aka_Dagon_temple_3971.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ugarit_Dagan_aka_Dagon_temple_3971.jpg/250px-Ugarit_Dagan_aka_Dagon_temple_3971.jpg
+    width: 4256
+    height: 2832
+    caption: Dagon temple
+  - file: Dagan_temple_3D.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dagan_temple_3D.png/250px-Dagan_temple_3D.png
+    width: 978
+    height: 690
+    caption: a 3D reconstruction of the Temple of Dagan
+  - file: Maison_aux_alabaster.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Maison_aux_alabaster.png/250px-Maison_aux_alabaster.png
+    width: 2400
+    height: 1726
+    caption: 3D reconstruction of The House of Alabaster Vessels
+  - file: RasIbnHani,tomb1.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/RasIbnHani%2Ctomb1.jpg/250px-RasIbnHani%2Ctomb1.jpg
+    width: 1920
+    height: 1322
+    caption: Ras Ibn Hani, tomb in north palace
+  - file: Sceau_Minet_el_Beida_AO15771.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sceau_Minet_el_Beida_AO15771.jpg/250px-Sceau_Minet_el_Beida_AO15771.jpg
+    width: 3541
+    height: 2564
+    caption: "Cylinder seal, steatite, representing a warrior holding a head stuck
+      on a pike, and various figures: winged disc, lioness, twist, bust of a
+      man, globules, caprids around a tree, hand, etc. From Minet el-Beida"
+  - file: TempleOfRhytonUgarit.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TempleOfRhytonUgarit.png/250px-TempleOfRhytonUgarit.png
+    width: 7387
+    height: 3707
+    caption: 3D digital reconstruction of the Temple of Rhyton in Blender
+  - file: StatueOfEl.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/StatueOfEl.png/250px-StatueOfEl.png
+    width: 623
+    height: 834
+    caption: 3D digital reconstruction of the statue of El
+infobox:
+  image:
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Syria_physical_location_map.svg/250px-Syria_physical_location_map.svg.png
+  type: Settlement
+  periods: Neolithic, Late Bronze Age
+  location: Latakia Governorate, Syria
+  region: Fertile Crescent
+  history:
+    built: c. 7000 BC
+    abandoned: c. 1185 BC
+    event: Bronze Age Collapse
+  site-notes:
+    excavation-dates: 1928–1939, 1950–2008
+    archaeologists: Claude Schaeffer, Henri de Contenson, Jean Margueron,
+      Marguerite Yon, Yves Calvet, Bassam Jamous
+    condition: Ruins
+    owner: Public
+    public-access: Yes
+sections:
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: neolithic-chalcolithic-age
+    title: Neolithic, Chalcolithic Age
+  - level: 3
+    id: early-bronze-age
+    title: Early Bronze Age
+  - level: 3
+    id: middle-bronze-age
+    title: Middle Bronze Age
+  - level: 4
+    id: middle-bronze-i
+    title: Middle Bronze I
+  - level: 4
+    id: middle-bronze-iia
+    title: Middle Bronze IIA
+  - level: 4
+    id: middle-bronze-iib
+    title: Middle Bronze IIB
+  - level: 3
+    id: late-bronze-age
+    title: Late Bronze Age
+  - level: 3
+    id: destruction
+    title: Destruction
+  - level: 2
+    id: language-and-literature
+    title: Language and literature
+  - level: 3
+    id: alphabet
+    title: Alphabet
+  - level: 3
+    id: ugaritic-language
+    title: Ugaritic language
+  - level: 3
+    id: ugaritic-literature
+    title: Ugaritic literature
+  - level: 2
+    id: rulers
+    title: Rulers
+  - level: 2
+    id: archaeology
+    title: Archaeology
+  - level: 3
+    id: discovery-and-excavations
+    title: Discovery and excavations
+  - level: 3
+    id: cuneiform-tablets
+    title: Cuneiform tablets
+  - level: 3
+    id: royal-palace
+    title: Royal palace
+  - level: 3
+    id: acropolis
+    title: Acropolis
+  - level: 3
+    id: the-house-of-alabaster-vessels
+    title: The House of Alabaster Vessels
+  - level: 3
+    id: ras-ibn-hani-and-minet-el-beida
+    title: Ras Ibn Hani and Minet el Beida
+  - level: 3
+    id: the-temple-of-rhyton
+    title: The Temple of Rhyton
+  - level: 2
+    id: iconography
+    title: Iconography
+  - level: 3
+    id: stone-work
+    title: Stone Work
+  - level: 3
+    id: metal-work
+    title: Metal Work
+  - level: 3
+    id: ivories
+    title: Ivories
+  - level: 3
+    id: glyptics-and-ceramics
+    title: Glyptics and Ceramics
+wikidata:
+  id: Q191369
+  label: Ugarit
+  description: ancient port city in northern Syria
+  claims:
+    commons-category: Ugarit
+    coordinate-location:
+      lat: 35.601944
+      lon: 35.785556
+    topic-s-main-category: Category:Ugarit
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Ugarit_Corbel.jpg
+    inception: 6th millennium BC
+    located-in-the-administrative-territorial-entity:
+      - Latakia Governorate
+      - Phoenicia
+    dissolved-abolished-or-demolished: 1190s BC
+    instance-of:
+      - city-state
+      - culture
+      - historical country
+      - polity
+      - tributary state
+      - ancient city
+    country: Syria
+    culture: Canaan
+    on-focus-list-of-wikimedia-project:
+      - value: Wikipedia:Vital articles/Level/4
+        when: 2022-10-31
+      - value: Preservation of Digital Documents – Syria Project (LM5 2025–2026)
+    native-label: 𐎜𐎂𐎗𐎚
+link-titles:
+  accusative: Accusative
+  adjective: Adjective
+  adjectives: Adjectives
+  aegean-sea: Aegean Sea
+  aegean-civilization: Aegean civilization
+  ahatmilku: Ahatmilku
+  akhenaten: Akhenaten
+  akkadian-empire: Akkadian Empire
+  akkadian-language: Akkadian language
+  alashiya: Alashiya
+  alawite-state: Alawite State
+  altar: Altar
+  amarna-letters: Amarna letters
+  amenemhet-iii: Amenemhet III
+  amenhotep-iii: Amenhotep III
+  ammittamru-i: Ammittamru I
+  ammittamru-ii: Ammittamru II
+  ammurapi: Ammurapi
+  amurru-kingdom: Amurru kingdom
+  anatolia: Anatolia
+  ancient-egypt: Ancient Egypt
+  ancient-history-of-cyprus: Ancient history of Cyprus
+  arabic: Arabic
+  aramaic: Aramaic
+  arhalba: Arhalba
+  ascalon: Ascalon
+  baal: Baal
+  baal-cycle: Baal cycle
+  baal-with-thunderbolt: Baal with Thunderbolt
+  bay-chancellor: Bay (chancellor)
+  blender-software: Blender (software)
+  bronze-age: Bronze Age
+  bronze-age-collapse: Bronze Age collapse
+  byblos: Byblos
+  calcarenite: Calcarenite
+  canaan: Canaan
+  carchemish: Carchemish
+  carnelian: Carnelian
+  chalcolithic: Chalcolithic
+  chancellor-bay: Chancellor Bay
+  chronological-dating: Chronological dating
+  chronology-of-the-ancient-near-east: Chronology of the ancient Near East
+  claude-frédéric-armand-schaeffer: Claude Frédéric-Armand Schaeffer
+  climate-change: Climate change
+  crete: Crete
+  cult-religious-practice: Cult (religious practice)
+  cult-image: Cult image
+  cuneiform: Cuneiform
+  cylinder-seal: Cylinder seal
+  cypro-minoan-syllabary: Cypro-Minoan syllabary
+  cyprus: Cyprus
+  dagon: Dagon
+  danel: Danel
+  dingir: Dingir
+  dual-grammatical-number: Dual (grammatical number)
+  eclipse: Eclipse
+  egyptian-chronology: Egyptian chronology
+  el-deity: El (deity)
+  emar: Emar
+  fertile-crescent: Fertile Crescent
+  genders: Genders
+  genitive: Genitive
+  grammar: Grammar
+  grammatical-aspect: Grammatical aspect
+  grammatical-case: Grammatical case
+  hadad: Hadad
+  harvest: Harvest
+  hathor: Hathor
+  hebrew: Hebrew
+  helladic-chronology: Helladic chronology
+  hellenistic-period: Hellenistic period
+  henri-de-contenson: Henri de Contenson
+  hexaplex-trunculus: Hexaplex trunculus
+  hittite-empire: Hittite Empire
+  hittites: Hittites
+  hurrians: Hurrians
+  hyksos: Hyksos
+  ibiranu: Ibiranu
+  jean-claude-margueronactioneditredlink1: Jean-Claude Margueron?action=edit&redlink=1
+  kadashman-harbe-ii: Kadashman-Harbe II
+  karkemiš: Karkemiš
+  latakia: Latakia
+  latakia-governorate: Latakia Governorate
+  late-bronze-age: Late Bronze Age
+  late-bronze-age-collapse: Late Bronze Age collapse
+  legend-of-keret: Legend of Keret
+  letter-of-piha-walwi: Letter of Piha-walwi
+  levant: Levant
+  libation: Libation
+  lukka: Lukka
+  mainland-greece: Mainland Greece
+  marguerite-yon: Marguerite Yon
+  mari-syria: Mari, Syria
+  meli-shipak-ii: Meli-Shipak II
+  merneptah: Merneptah
+  middle-kingdom-of-egypt: Middle Kingdom of Egypt
+  minet-el-beida: Minet el-Beida
+  minoan-civilization: Minoan civilization
+  mot-semitic-god: Mot (Semitic god)
+  mursili-ii: Mursili II
+  musée-archéologique-strasbourg: Musée archéologique (Strasbourg)
+  mycenaean-greece: Mycenaean Greece
+  mycenaean-period: Mycenaean period
+  mycenaean-pottery: Mycenaean pottery
+  near-east: Near East
+  necropolis: Necropolis
+  neolithic: Neolithic
+  niqmaddu-ii: Niqmaddu II
+  niqmaddu-iii: Niqmaddu III
+  niqmepa: Niqmepa
+  nominative: Nominative
+  northwest-semitic-languages: Northwest Semitic languages
+  noun: Noun
+  nouns: Nouns
+  oil-mill: Oil mill
+  pantheon-religion: Pantheon (religion)
+  phoenician-alphabet: Phoenician alphabet
+  phoenician-language: Phoenician language
+  plant-disease: Plant disease
+  plural: Plural
+  portico: Portico
+  possession-linguistics: Possession (linguistics)
+  pottery-of-ancient-cyprus: Pottery of ancient Cyprus
+  radiocarbon-dating: Radiocarbon dating
+  ramesses-iii: Ramesses III
+  ras-ibn-hani: Ras Ibn Hani
+  rhyton: Rhyton
+  rib-hadda: Rib-Hadda
+  royal-palace-of-ugarit: Royal Palace of Ugarit
+  sacristy: Sacristy
+  senusret-i: Senusret I
+  senusret-iii: Senusret III
+  singulative-number: Singulative number
+  sondage: Sondage
+  stela: Stela
+  strasbourg: Strasbourg
+  subject-object-verb: Subject-object-verb
+  sumu-epuh: Sumu-Epuh
+  suppiluliuma-i: Suppiluliuma I
+  suppiluliuma-ii: Suppiluliuma II
+  suteans: Suteans
+  syria: Syria
+  syrian-civil-war: Syrian civil war
+  tell-archaeology: Tell (archaeology)
+  tell-sukas: Tell Sukas
+  tell-tweini: Tell Tweini
+  temple-of-the-obelisks: Temple of the Obelisks
+  tuttul: Tuttul
+  twosret: Twosret
+  tyre-lebanon: Tyre, Lebanon
+  tyrian-purple: Tyrian purple
+  ugaritic: Ugaritic
+  ugaritic-unicode-block: Ugaritic (Unicode block)
+  ugaritic-alphabet: Ugaritic alphabet
+  ugaritic-language: Ugaritic language
+  ugaritic-texts: Ugaritic texts
+  vassal-state: Vassal state
+  verb: Verb
+  verbsubjectobject: Verb–subject–object
+  vestibule-architecture: Vestibule (architecture)
+  world-war-ii: World War II
+  yam-god: Yam (god)
+  yamhad: Yamhad
+  zimri-lim: Zimri-Lim
+source:
+  site: Wikipedia
+  lang: en
+  title: Ugarit
+  url: https://en.wikipedia.org/wiki/Ugarit
+  page-id: 203595
+  revision: "1370981002"
+  modified: 2026-08-24T01:02:13Z
+  retrieved: 2026-09-01
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Ugarit"
+    (revision 1370981002), by Wikipedia contributors, used under CC BY-SA 4.0.
+rewritten:
+  of: corpus/en/ugarit.mdy
+  source-digest: 2016c50627436dd2
+  source-revision: "1370981002"
+  model: claude-opus-5
+  left-out: The "Language and literature" heading has no prose of its own in the
+    source — only its three subsections — so its body is empty rather than
+    filled with invented linking text. "Neolithic, Chalcolithic Age" and
+    "Early Bronze Age" are bare stratum lists and are left as they were.
+    "Middle Bronze IIB" carries no footnote references at all in the source,
+    so the rewrite carries none. The two large tables (the LBA rulers, and the
+    occupation strata) are reproduced rather than turned into prose. The
+    infobox's location-map image is not in the supplied image list and is not
+    planned; the article's Baal figure links a file
+    (Baal_Ugarit_Louvre_AO17329.jpg) that differs from the one given in the
+    front-matter image list (Baal_Ugarit_Louvre_AO17330.jpg), and the
+    front-matter name was used. The article places the acropolis in the
+    northwest section in "Discovery and excavations" and in the northeastern
+    section in "Acropolis"; both are kept as written.
+  verified: true
+  verdict: clean
+  reviewed: false
++++
+!!Ugarit!! ([[ /juːˈɡɑːrɪt, uː-/ | https://en.wikipedia.org/wiki/Help%3AIPA%2FEnglish ]]; Ugaritic: [[ 𐎜𐎂𐎗𐎚 | https://en.wiktionary.org/wiki/𐎜𐎂𐎗𐎚 ]], //ủgrt// /ʾUgarītu/) was an ancient [[ Levantine | levant ]] coastal city in what is today northern [[ Syria ]], at a site known in [[ Arabic ]] as !!Ras Shamra!! or !!Tell Shamra!!. It lies 10 km (6.2 mi) north of the Syrian city [[ Latakia ]], and at its zenith it ruled an area roughly equivalent to the modern [[ Latakia Governorate ]].
+
+Since the site was discovered in 1928 it has revealed the [[ oldest known systematic use of an alphabet | ugaritic-alphabet ]]. The [[ Ugaritic texts ]] found there were written in a previously unknown [[ Northwest Semitic | northwest-semitic-languages ]] tongue—the [[ Ugaritic ]] language.
+
+Excavation shows people living on the site since the 8th millennium BC, but the digging has concentrated on the late [[ Bronze Age ]] levels, and relatively little is known about the earlier occupation.[[ ^1 ]][[ ^2 ]]
+
+== History
+
+Ugarit has its origins in the [[ Neolithic ]] period of the [[ Fertile Crescent ]]. The site was occupied from the end of the 8th millennium BC and continued as a settlement through the Near Eastern [[ Chalcolithic ]] and [[ Bronze Ages | bronze-age ]] until its destruction c. 1185 BC.[[ ^3 ]][[ ^4 ]] The growth came late: during the [[ Late Bronze Age ]] (c. 1500 – c. 1200 BC) the settlement expanded sharply, and out of that growth came the Kingdom of Ugarit.[[ ^5 ]]
+
+The city had close ties to the [[ Hittite Empire ]], in later periods as a [[ vassal state ]]. It sent tribute to [[ Egypt | ancient-egypt ]] at times, and maintained trade and diplomatic relations with [[ Alashiya ]] (possibly [[ Cyprus ]]),[[ ^6 ]] as documented in archives recovered from the site and corroborated by [[ Mycenaean | mycenaean-greece ]] and Cypriot pottery found there. The polity was at its height from c. 1450 – c. 1185 BC,[[ ^3 ]] when it was destroyed, along with the sites of many other polities that fell in the [[ Late Bronze Age collapse ]] of 12th century BC. Both [[ Tell Sukas ]] and nearby [[ Tell Tweini ]] (proposed as ancient Gibala), a coastal city at the southern edge of the Kingdom of Ugarit, were destroyed at the same time.[[ ^7 ]]
+
+== Neolithic, Chalcolithic Age
+
+- Pre-Pottery Neolithic, Stratum 16
+- Pre-Pottery Neolithic, Stratum 15
+- Halafian Chalcolithic, Stratum 14
+- Halafian Chalcolithic, Stratum 13
+- Chalcolithic Ugarit Stratum 12
+
+== Early Bronze Age
+
+- EB I-II - Ugarit Stratum 11
+- EB III - Ugarit Stratum 10
+- EB IV - Ugarit Stratum 9
+
+== Middle Bronze Age
+
+A major drought event ended around 2020 BC, and the Middle Bronze Age emerged after it. In Mesopotamia, the Fall of Ur III led to the Isin-Larsa period.[[ ^8 ]]
+
+== Middle Bronze I
+
+The material from MB I comes from Ugarit's Stratum \8.[[ ^9 ]]
+
+== Middle Bronze IIA
+
+Around 1820 BC (MB IIA), the [[ Great Kingdom of Yamhad | yamhad ]] (Aleppo) emerged under its King [[ Sumu-Epuh ]] as a regional power. Ugarit (Stratum 7) would eventually become a vassal of Yamhad, along with several other petty kingdoms in the Northern Levant (Syria).[[ ^10 ]]
+
+The !!Mari Archive!! (c. 1765 BC) mentions Ugarit. Mari was a kingdom on the Middle Euphrates, east of the Yamhad Empire, and the archive contained cuneiform tablets written in Akkadian. Trade would have gone from Ugarit, Aleppo, Emar, Mari down to Babylon. [[ Zimri-Lim ]] of Mari (r. 1775–1760 BC) also made a state visit to Ugarit.[[ ^11 ]]
+
+Ugarit had contacts with the [[ Egyptian Middle Kingdom | middle-kingdom-of-egypt ]] (c. 2000 – c. 1700 BC). One artifact is a [[ carnelian ]] bead inscribed with the name of [[ Senusret I ]].[[ ^12 ]] A [[ stela ]] and a statuette from the Egyptian pharaohs [[ Senusret III ]] and [[ Amenemhet III ]] have also been recovered; it is unclear at what time these objects were brought to Ugarit.
+
+== Middle Bronze IIB
+
+In MB IIB (c. 1628 – c. 1590 BC), the Hattusili I of Hatti attacked Yamhad around 1620, with Mursili I of Hatti making new raids around 1600/1590 BC, causing the Great Kingdom of Yamhad to collapse. Ugarit (Stratum 6) was relatively shielded, lying on the coast behind a mountain range, while large parts of Inner Syria were devastated by the Hittite onslaught that ended MB IIB. In the Northern Levant there is no MB IIC (c. 1590 – c. 1550 BC) as in the Southern Levant; instead the material culture changes to LB IA.
+
+== Late Bronze Age
+
+The city reached its golden age between 1500 BC and 1200 BC, when it ruled a mercantile coastal kingdom trading with Egypt, Cyprus, [[ Aegean | aegean-sea ]] states (primarily [[ Minoan | minoan-civilization ]] [[ Crete ]]), polities in Syria, the Hittites, cities of the Levantine core (including [[ Ascalon ]] in [[ Canaan ]]), and much of the eastern Mediterranean.[[ ^13 ]] Five of the Egyptian [[ Amarna letters ]] from the mid-14th century BC were written in Ugarit.[[ ^14 ]] The population of Ugarit in this period is estimated to be between 7,000 and 8,000 individuals,[[ ^15 ]] and the kingdom controlled about 2,000 km^^2^^ on average.[[ ^16 ]]
+
+In the mid-14th century BC, Ugarit was ruled by king [[ Ammittamru I ]]. A letter (EA45) sent by him, probably to pharaoh [[ Amenhotep III ]] (1388–1351 BC), expresses cordial diplomatic relations between the two. During the reign of his son [[ Niqmaddu II ]] (c. 1350 – c. 1315 BC) Ugarit became a vassal of the [[ Hittite Empire ]], first under a viceroy in [[ Karkemiš ]] and then, with the Hititte collapse, directly under Karkemiš.[[ ^17 ]][[ ^18 ]][[ ^19 ]] During the reign of [[ Niqmaddu III ]] Ugarit was one of several vassals which supplied troops to support the Hittites against the [[ Suteans ]] in a battle at [[ Tuttul ]] (possibly modern Tell Bi’a, though there were two cities with that name in the region).[[ ^20 ]] Diplomatic relations with Egypt continued, as two more letters show: one sent by Niqmaddu II (EA49) and one by his wife Ḫeba (EA48), probably sent to [[ Akhenaten ]] (1351–1334 BC). The former includes a request from the Egyptian king to send a physician to Ugarit.[[ ^14 ]][[ ^21 ]][[ ^22 ]]
+
+== Destruction
+
+From the late 13th century into the early 12th century BC the eastern Mediterranean faced severe and widespread food shortages, possibly from [[ crop failures | harvest#crop-failure ]] due to [[ climate change ]][[ ^23 ]] or [[ plant disease ]]. The kings of Ugarit—a major supplier and transporter of foodstuffs—received a number of desperate pleas for food from neighboring states. Eventually Ugarit itself faced shortage and hunger. A letter from Egyptian pharaoh [[ Merenptah | merneptah ]] (r. 1213 – 1203 BC) quotes back a message sent by the ruler of Ugarit:
+
+<blockquote
+  So you had written to me: “Could I not have demanded my needs [from] the Great
+  King, the king of Egypt, my lord? I demand this request: [In] the land of
+  Ugarit there is a severe hunger (bi-ru-ú dan-niš): May my lord save [the land
+  of Ugarit], and may the king give grain (ZÍZ.AN.MEŠ) to save my life … and to
+  save the citizens of the land of Ugarit.[[ ^24 ]]
+
+The last king of Ugarit, [[ Ammurapi ]] (c. 1215 – c. 1180 BC), was a contemporary of the last known [[ Hittite | hittites ]] king, [[ Suppiluliuma II ]]. A letter by Ammurapi stresses the seriousness of [[ the crisis | bronze-age-collapse ]] faced by many [[ Near Eastern | near-east ]] states due to attacks from outsiders.[[ ^23 ]] Ugarit's army and navy joined with Hittite forces to stem the oncoming enemy; the allies eventually had to fall back from [[ Anatolia ]] to the Syrian frontier.[[ ^25 ]][[ ^26 ]] Ammurapi's response to the king of [[ Alashiya ]]'s appeal for assistance highlights the desperate situation in Ugarit and across the eastern Mediterranean:
+
+<blockquote
+  My father, behold, the enemy's ships came (here); my cities(?) were burned,
+  and they did evil things in my country. Does not my father know that all my
+  troops and chariots(?) are in the Land of [[ Hatti | hittites ]], and all my
+  ships are in the Land of [[ Lukka ]]? \... Thus, the country is abandoned to
+  itself. May my father know it: the seven ships of the enemy that came here
+  inflicted much damage upon us.[[ ^27 ]]
+
+Eshuwara, the senior governor of Alashiya, responded:
+
+<blockquote
+  As for the matter concerning those enemies: (it was) the people from your
+  country (and) your own ships (who) did this! And (it was) the people from your
+  country (who) committed these transgression(s) \... I am writing to inform you
+  and protect you. Be aware![[ ^23 ]]
+
+In the end Ammurapi begged for forces from the Hittite viceroy at [[ Karkemiš | carchemish ]]. The invaders had captured the kingdom's other port, [[ Ra’šu | ras-ibn-hani ]], and were advancing on the city of Ugarit.
+
+<blockquote
+  To the king, my lord say, thus Ammurapi, your servant.… I wrote you twice,
+  thrice, [new]s regarding the enemy! … May my lord know that now the enemy
+  forces are stationed at Ra’šu, and their avant-guard forces were sent to
+  Ugarit. Now may my lord send me forces and chariots, and may my lord save me
+  from the forces of this enemy![[ ^24 ]]
+
+The viceroy sent troops to assist Ugarit, but Ugarit had already been sacked when the Hittite forces reached the city. A letter written to the viceroy after the destruction said:
+
+<blockquote
+  When your messenger arrived, the army was humiliated and the city was sacked.
+  Our food in the threshing floors was burnt and the vineyards were also
+  destroyed. Our city is sacked. May you know it! May you know it![[ ^23 ]]
+
+== Language and literature
+
+
+
+== Alphabet
+
+Scribes in Ugarit appear to have developed the oldest systematically used [[  alphabet | ugaritic-alphabet ]] around 1400 BC; 30 letters, corresponding to sounds, were inscribed on clay tablets. The exact logic behind the design of Ugaritic letters is still unknown, and proving a single origin has remained difficult up until today. The letters show little or no formal similarity to the Phoenician, but the standard letter order (seen in the [[ Phoenician alphabet ]] as ʔ, B, G, D, H, W, Z, Ḥ, Ṭ, Y, K, L, M, N, S, ʕ, P, Ṣ, Q, R, Š, T) shows strong similarities between the two, suggesting that the Phoenician and Ugaritic systems were not wholly independent inventions.[[ ^28 ]] A [[ Unicode block | ugaritic-unicode-block ]] for Ugaritic has been defined.[[ ^29 ]]
+
+== Ugaritic language
+
+The existence of the [[ Ugaritic language ]] is attested to in texts from the 14th through the 12th century BC. Ugaritic is usually classified as a [[ Northwest Semitic language | northwest-semitic-languages ]] and therefore related to [[ Hebrew ]], [[ Aramaic ]], and [[ Phoenician | phoenician-language ]], among others, while its [[ grammatical | grammar ]] features are highly similar to those found in [[ Classical Arabic | arabic ]] and [[ Akkadian | akkadian-language ]]. It possesses two [[ genders ]] (masculine and feminine), three [[ cases | grammatical-case ]] for [[ nouns ]] and [[ adjectives ]] ([[ nominative ]], [[ accusative ]], and [[ genitive ]]); three numbers: ([[ singular | singulative-number ]], [[ dual | dual-grammatical-number ]], and [[ plural ]]); and [[ verb ]] [[ aspects | grammatical-aspect ]] similar to those found in other Northwest Semitic languages. The word order in Ugaritic is [[ verb–subject–object ]] (VSO) and [[ subject-object-verb ]] (SOV); [[ possessed–possessor | possession-linguistics ]] (NG) (first element dependent on the function and second always in genitive case); and [[ noun ]]–[[ adjective ]] (NA) (both in the same case (i.e. congruent)).[[ ^30 ]]
+
+== Ugaritic literature
+
+Apart from royal correspondence with neighboring Bronze Age monarchs, the Ugaritic literature from tablets found in the city's libraries includes mythological texts written in a poetic narrative, letters, legal documents such as land transfers, a few international treaties, and a number of administrative lists. Fragments of several poetic works have been identified: the "[[ Legend of Keret ]]", the "Legend of [[ Danel ]]", and the [[ Ba'al tales | baal-cycle ]] that detail [[ Baal ]]-[[ Hadad ]]'s conflicts with [[ Yam | yam-god ]] and [[ Mot | mot-semitic-god ]], for pre-eminence under the God [[ El | el-deity ]],[[ ^31 ]] among other fragments.[[ ^32 ]][[ ^33 ]]
+
+== Rulers
+
+All the texts found at Ugarit date between roughly 1350 BC and 1185 BC, so essentially all that is known about earlier rulers of Ugarit comes from the Ugaritic King List (UKL). It is, however, known from [[ Mari | mari-syria ]] correspondence that Ugarit was active earlier in the millennium, though it is not clear that the site maintained continuity of occupation in the intervening period.[[ ^34 ]][[ ^35 ]] The first UKL exemplar found, alphabetic [[ cuneiform ]] KTU 1.113 (RS 24.257), was written in the [[ Akkadian language ]], and only a fragment survives, with the names of only some of the rulers. It was determined that there were originally 52 names on the list. It was not clear if the list ran in direct or retrograde order.[[ ^36 ]][[ ^37 ]][[ ^38 ]]
+
+Four more exemplars have since been found: syllabic cuneiform RS 88.2012, RS 94.2518, RS 94.2528 and RS 94.2501 (incomplete), also written in the Akkadian language. All 52 names are preceded by a [[ Dingir ]] character indicating that that ruler had been deified. Deification of rulers first appeared in the [[ Akkadian Empire ]] period and by the Old Babylonian period had become relatively common.[[ ^39 ]][[ ^40 ]] Attempts have been made to link one ruler entry, Krt, with the figure Kirta known from the literary composition "The Legend of Kirta".[[ ^41 ]]
+
+A number of Late Bronze Age Ugarit rulers used a [[ cylinder seal ]] (not yet found) reading "Yaqarum, son of Niqmaddu, king of Ugarit". Yaqarum is the first, or in some interpretations the last, name on the UKL. It is assumed that this seal was an heirloom used to add legitimacy to the current ruler; an alternate view was that Yaqarum was a tradition mythical name for the Ugarit ruler.[[ ^34 ]][[ ^42 ]][[ ^43 ]] There were two exemplars of the seal, one well cut and dated to the Middle Bronze Age and one crudely cut and dated to the Late Bronze Age. Late Bronze rulers also occasionally used a ring seal.[[ ^44 ]]
+
+<table
+  <tbody
+    <tr
+      <th>LBA Ruler
+
+      <th>Reigned
+
+      <th>Comments
+
+    <tr
+      <td>[[ Ammittamru I ]]
+
+      <td>c. 13xx – c. 1350 BC
+
+      <td>[[ ^45 ]]
+
+    <tr
+      <td>[[ Niqmaddu II ]]
+
+      <td>c. 1350 – c. 1315 BC
+
+      <td>Contemporary of [[ Hittite | hittites ]] ruler [[ Suppiluliuma I ]]
+
+    <tr
+      <td>[[ Arhalba ]]
+
+      <td>c. 1315 – c. 1313 BC
+
+      <td>Contemporary of [[ Hittite | hittites ]] ruler [[ Mursili II ]]
+
+    <tr
+      <td>[[ Niqmepa ]]
+
+      <td>c. 1313 – c. 1260 BC
+
+      <td>Treaty with Mursili II; Son of Niqmadu II; Queen was [[ Ahatmilku ]]
+
+    <tr
+      <td>[[ Ammittamru II ]]
+
+      <td>c. 1260 – c. 1235 BC
+
+      <td>Contemporary of [[ Amurru | amurru-kingdom ]] ruler Bentisina; Son of Niqmepa
+
+    <tr
+      <td>[[ Ibiranu ]]
+
+      <td>c. 1235 – c. 1225 BC
+
+      <td>Addressee of the [[ letter of Piha-walwi ]]
+
+    <tr
+      <td>[[ Niqmaddu III ]]
+
+      <td>c. 1225 – c. 1215 BC
+
+      <td
+
+    <tr
+      <td>[[ Ammurapi ]]
+
+      <td>c. 1200 BC
+
+      <td>Contemporary of [[ Chancellor Bay ]] of [[ Egypt | ancient-egypt ]]. Ugarit is destroyed in his reign.
+
+== Archaeology
+
+Archaeological [[ soundings | sondage ]] of Ugarit indicate that it was first occupied in the [[ Neolithic ]] period, no later than the eighth millennium BC. Only the highest—i.e., the newest—levels of the city's ruins have been excavated, so the recovered evidence gives a picture of Ugaritic civilization just before its destruction in the [[ Late Bronze Age collapse ]] of the early 12th century BC. This evidence includes many caches of [[ cuneiform ]] tablets found inside libraries.
+
+The [[ chronology of the ancient Near East ]] and that of [[ ancient Egypt | egyptian-chronology ]] are not perfectly synchronized,[[ ^46 ]] but the trove of Ugaritic texts and artifacts has proven invaluable for precise [[ chronological dating ]].
+
+For example, a recovered tablet shows that [[ Chancellor Bay | bay-chancellor ]], an official of the Egyptian queen [[ Twosret ]], was in communication with [[ Ammurapi ]], the last ruler of Ugarit. It was already established that Bay was in office from approximately 1194 to 1192 BC. The two pieces of evidence together thus set an upper limit on the year of Ugarit's destruction: 1194 BC.
+
+By the same method, the Ugarit trove allowed archaeologists to establish dates across the eastern Mediterranean with greater precision. For example:
+
+1. The destruction levels of the ruins—i.e., the archaeological strata comprising Ugarit when it was destroyed—contain [[ Late Helladic (LH) IIIB | helladic-chronology ]] pottery but no pottery of the succeeding LH IIIC phase (see [[ Mycenaean period ]]). To fix an end date of Ugarit would thus prove crucial to establishing the chronology of the LH IIIC phase in [[ mainland Greece ]].
+2. An Egyptian sword bearing the name of pharaoh [[ Merneptah ]] was recovered from the destruction levels. A recovered cuneiform tablet showed that Ugarit was destroyed sometime after Merneptah's death in 1203 BC.
+3. An early consensus held that Ugarit was destroyed by no later than the eighth year of the reign of pharaoh [[ Ramesses III ]], 1178 BC.
+4. [[ Radiocarbon dating ]] combined with translations of cuneiform records and the absolute dating of recorded astronomical events, e.g., an [[ eclipse ]] in 1192 BC, indicate destruction between 1192 and 1190 BC.
+5. The beginning of the LH IIIC in mainland Greece could thus be dated to 1190 BC.[[ ^47 ]]
+
+A large number of arrowheads were recovered from the destruction level in \2021. Their typology has not been published as yet.[[ ^1 ]]
+
+== Discovery and excavations
+
+After its destruction in the early 12th century BC, Ugarit's location was forgotten until 1928, when a peasant accidentally opened an old tomb while plowing a field. At that time the region was part of the [[ Alawite State ]] and not in Syria. The uncovered area was the [[ necropolis ]] of Ugarit, located in the nearby seaport of [[ Minet el-Beida ]]. Excavations have since revealed a city with a prehistory reaching back to c. 6000 BC.[[ ^48 ]]
+
+The site covers an area of about 28 hectares with a maximum height of 20 meters at the top of the acropolis. It is surrounded by a city wall with one known fortified gate, though four gates are believed to have existed. Since the Late Bronze Age about 50 meters have been eroded from the north end of the site by the Nahr Chbayyeb river, and the southern slope of the mound, or [[ tell | tell-archaeology ]], is covered by orange groves, preventing excavation.[[ ^49 ]]
+
+A brief investigation of a looted tomb at the necropolis of [[ Minet el-Beida ]] was conducted by Léon Albanèse in 1928, who then examined the main tell of Ras Shamra.[[ ^50 ]] Beginning in 1929 excavations of Ugarit were conducted by a French team called the Mission de Ras Shamra, led by archaeologist [[ Claude Schaeffer | claude-frédéric-armand-schaeffer ]] from the [[ Musée archéologique | musée-archéologique-strasbourg ]] in [[ Strasbourg ]].[[ ^51 ]][[ ^52 ]][[ ^53 ]][[ ^54 ]] Work continued until 1939, when it was interrupted by the outbreak of [[ World War II ]].[[ ^55 ]][[ ^56 ]][[ ^57 ]]
+
+The French excavation, now the Mission Archeologique Française de Ras Shamra-Ougarit, resumed in 1950, led again by Claude Schaeffer until 1970.[[ ^58 ]][[ ^59 ]] At that point directorship passed to [[ Henri de Contenson ]], then to Jean-Claude Margueron from 1975 to 1976.[[ ^48 ]][[ ^60 ]][[ ^61 ]][[ ^62 ]][[ ^63 ]][[ ^64 ]][[ ^65 ]][[ ^66 ]] [[ Marguerite Yon ]] would direct the mission from 1978 to 1998.[[ ^67 ]] After 44 excavation seasons all of the numerous finds and their findspots were collated.[[ ^68 ]][[ ^69 ]] In 2005 the excavation became a joint French and Syrian effort led by Valérie Matoïan and Khozama Al-Bahloul.[[ ^70 ]][[ ^71 ]] Excavations were interrupted by the [[ Syrian civil war ]], which began in 2011.[[ ^72 ]]
+
+Archaeologists have defined a number of occupation strata at the site based on the excavations:[[ ^68 ]]
+
+<table
+  <caption
+
+  <tbody
+    <tr
+      <th>Name
+
+      <th>Years
+
+      <th>Notes
+
+    <tr
+      <td>Stratum 15
+
+      <td>c. 4500 BC
+
+      <td>Pre-Pottery Neolithic = RS 5-C
+
+    <tr
+      <td>Stratum 14
+
+      <td>c. 4000 BC
+
+      <td>Neolithic with pottery = RS 5 A-B
+
+    <tr
+      <td>Stratum 13
+
+      <td>4000–3400 BC
+
+      <td>Halaf chalcolithic = RS 4-C (4 A-B)
+
+    <tr
+      <td>Stratum 12
+
+      <td>c. 3300 BC
+
+      <td>'Ubayd chalcolithic = RS 4 A-B (with some RS 3)
+
+    <tr
+      <td>Stratum 11
+
+      <td>c. 2800 BC
+
+      <td>Early Bronze 1 - 2 = RS 3/1 or III B-C; = UA 1
+
+    <tr
+      <td>Stratum 10
+
+      <td>2500–2300 BC
+
+      <td>Early Bronze 3 = RS 3/2 or III A 2 + 3; = UA 2
+
+    <tr
+      <td>Stratum 9
+
+      <td>2300–2100 BC
+
+      <td>Early Bronze 4 = RS 3/3 or III A; = UA 3
+
+    <tr
+      <td>Stratum 8
+
+      <td>2100–1900 BC
+
+      <td>Middle Bronze = RS 2/1 = UM 1
+
+    <tr
+      <td>Stratum 7
+
+      <td>1900–1750 BC
+
+      <td>Middle Bronze '2' = RS 2/2 = UM 2 = Middle Minoan 2
+
+    <tr
+      <td>Stratum 6
+
+      <td>1750–1650 BC
+
+      <td>Middle Bronze '3' = RS 2/3 = UM 2
+
+    <tr
+      <td>Lacuna
+
+      <td>1650–1550 BC
+
+      <td>No occupation
+
+    <tr
+      <td>Stratum 5
+
+      <td>1550–1450 BC
+
+      <td>Late Bronze 1 = RS 1/1 = UR 1
+
+    <tr
+      <td>Stratum 4
+
+      <td>1450–1365 BC
+
+      <td>Late Bronze 1-2 = RS 1/2 = UR2
+
+    <tr
+      <td>Stratum 3
+
+      <td>1365–1200 BC
+
+      <td>Late Bronze 2 = RS 1/3 = UR 3
+
+    <tr
+      <td>Stratum 2
+
+      <td>1200–1100 BC
+
+      <td>Iron Age
+
+    <tr
+      <td>Lacuna
+
+      <td>900–600 BC
+
+      <td>No occupation
+
+    <tr
+      <td>Strata 1
+
+      <td>500–300 BC
+
+      <td>Helenistic up thru Arabi
+
+A number of areas lay within the fortifications of Ugarit. In the northwest section was an acropolis with the temples of [[ Dagon ]] and [[ Baal ]], excavated between 1929 and 1937. In the west was the Royal Zone, including the [[ Royal Palace | royal-palace-of-ugarit ]]; a fortress protecting that area was excavated, with the earliest elements dating back to the Middle Bronze Age. To the west of that lies the modern village of Ras Shamra. There were densely populated residential areas to the east of the Royal Zone and on the southern slope of the tell.[[ ^73 ]][[ ^74 ]]
+
+Excavation has now resumed in the Latakia region under a joint Syrian-Italian mission team, at Tell Semhane.[[ ^75 ]][[ ^76 ]]
+
+== Cuneiform tablets
+
+Several thousand cuneiform tablets have been found.[[ ^77 ]][[ ^78 ]][[ ^79 ]][[ ^80 ]][[ ^81 ]] By the Late Bronze Age Ugarit had a thriving dual-scribal system. Primarily it used the East Semitic [[ Akkadian language ]], which acted as the lingua franca throughout the region for diplomacy, business, and administrative purposes. Other languages were also used "including Sumerian, Hittite, Hurrian, Egyptian, Cypro-Minoan, Phoenician, and Luwian".[[ ^82 ]] In parallel, there was scribal activity in the local Northwest Semitic [[ Ugaritic ]] language.[[ ^83 ]] A few scribes are known to have worked in both writing systems.
+
+A number of archives were found, the largest being that of the household of Urtēnu, a merchant with trading ties as far afield as [[ Emar ]].[[ ^84 ]] This area of the tell was under military control at the time and about 100 tablets were found in the rubble from military construction; later excavation found several hundred tablets in the actual home. One tablet mentions the enthronement of Kassite ruler [[ Kadashman-Harbe II ]] (c. 1223 BC), whose rule lasted less than a year, allowing a tight synchronism. The latest datable text was from the reign of Kassite ruler [[ Meli-Shipak II ]] (c. 1186 – c. 1172 BC), about the time of the destruction of Ugarit.[[ ^24 ]] An example of the archive, involving one ton of copper:
+
+<blockquote
+  Thus Kušmešuša, king of Alašiya, say to Niqmaddu, king of Ugarit, my son. All
+  is well with me, my households, my countries, my wives, my sons, my troops, my
+  horses and my chariots.… In exchange of the gift which you had sent me, I sent
+  to you thirty-three (ingots of) copper; their weight is thirty talents and
+  six-thousand and five-hundred shekels.[[ ^85 ]]
+
+One small tablet written in [[ Cypro-Minoan | cypro-minoan-syllabary ]] was found on the surface of the tell.[[ ^86 ]][[ ^87 ]] While it traditionally has been assumed that syllabic texts are in the Akkadian language and alphabetic texts are in Ugaritic, it has been suggested that much of the syllabic writing, especially in administrative documents, is actually in "a jargon where an Akkadian dialect is hard to detect given the great amount of Ugaritic elements it contained".[[ ^88 ]][[ ^89 ]]
+
+== Royal palace
+
+The Royal Palace was constructed over several major phases between the 15th and 13th centuries BC. It comprised rooms arranged around courtyards, encompassing 6,500 square meters before the city's destruction in the early 12th century BC. In a tablet from the 14th century BC found in the [[ Amarna archives | amarna-letters ]], EA 89, [[ Rib-Hadda ]] of [[ Byblos ]] likens the palace at [[ Tyre | tyre-lebanon ]] to the grandeur found in the palace within Ugarit's walls.[[ ^90 ]] The palace was well constructed, predominantly crafted from stone, with preserved ashlar blocks reaching heights of up to 4 meters. Wooden crossbeams were also incorporated, inserted into slots within the stone masonry, and a thick layer of plain plaster covered the walls. To the west of the palace was a set aside 10,000 square meter Royal Zone.[[ ^74 ]][[ ^4 ]]
+
+Archaeological findings within the ruins have included ivory carvings, stone stele, figurines, and numerous tablets.[[ ^87 ]] These tablets were discovered in archives located across the palace; their contents encompass reports on outlying regions, judicial records—particularly from the south-central archives of the palace—and examples of practice writing by young scribes. Below ground, beneath two northern rooms, lay family tombs: three large chambers constructed with corbelled vaults, found devoid of any contents.[[ ^91 ]] The vanished upper floor likely accommodated the private quarters of the royal family, accessed via twelve staircases.[[ ^4 ]]
+
+== Acropolis
+
+The Acropolis, positioned in the Ugarit's northeastern section, housed the city's primary temples, dedicated to Baal and his father, Dagan. Though the existing remnants date to the Late Bronze Age, these temples might have their origins in the Middle Bronze Age. An arrangement of mortised stone blocks, similar to the [[ Temple of the Obelisks ]] in Byblos, was found under ground level in the southeastern courtyard of the Temple of Dagan, hinting at a cultic installation from the Middle Bronze Age, before the construction of the temple structure. Objects found in the fill of the pronaos foundations, such as 9 crescent-shaped alabaster dagger pommels, were dated to the Middle Bronze Age as well.[[ ^92 ]] Stelae discovered in this area portray or name these gods, affirming their identification for the respective cults. Within the Temple of Baal, discoveries include the [[ Baal with Thunderbolt ]], depicting Baal holding a club aloft, portrayed in a typical Near Eastern and Egyptian artistic style, as well as a stela bearing a dedication to Baal of Sapan.[[ ^87 ]] Numerous statues, stelai—some offered by Egyptians—and sixteen stone anchors were found as votive offerings in this vicinity.[[ ^4 ]][[ ^74 ]] Three steles were found within the Temple of Dagan complex, all dating to the end of the Late Bronze Age. Two were dedicated to Dagan, and the remaining one bore an astral symbol.[[ ^93 ]]
+
+Both temples are composed of a pronaos (porch) and a naos (sanctuary proper), aligned from north-northeast to south-southwest. The foundation walls of the Temple of Dagan were thickest on the north side of the naos, measuring at 4.4 metres; it is proposed this is to support a stairway and a sacrificial site on the terrace. A stone glacis wall with a rubble-and-earth core lined the western exterior of the naos. Walls enclosed an open area to the south of the temple, encompassing a courtyard where the aforementioned mortised blocks were buried. It is possible, though far from conclusive, that the courtyard contained an open-air altar or served a similar ritualistic purpose while the temple was in use. There were two entrances, a monumental gate to the south, and a rectangular annex to the southwest of the enclosure, with two doors connecting the outside to the courtyard.[[ ^92 ]] Remnants of the Temple of Baal encompass sections of an enclosing wall, a likely courtyard altar, monumental steps leading to the elevated pronaos and naos, and another presumed altar within the naos.[[ ^4 ]] That temple was destroyed, possibly by an earthquake, in the mid 13th century and not rebuilt. The Temple of Dagan was also destroyed at that time but was rebuilt.[[ ^94 ]]
+
+Another significant structure within the Acropolis was the House of the High Priest, situated west of the Temple of Dagan.[[ ^74 ]] This large, two-story residence, largely well-constructed, contained tablets containing mythological poems. Some tablets demonstrated writing exercises and included syllabic and bilingual lexicons, implying the building's use as a center for scribe training. Its proximity to the primary temples and the discovery of bronze tools, particularly four small adzes and a dedicated hoe, hints at its potential role as the residence of the city's chief priest.[[ ^87 ]] Among a cache of seventy-four bronze items uncovered beneath a doorway threshold inside the house was an elegant tripod adorned with pomegranate-shaped pendants.[[ ^4 ]]
+
+Since the abandonment of Ugarit, the Acropolis had seen destruction from looting and its use as a quarry for nearby settlements. This has caused the erasure of surface and buried site remains, such as in the Temple of Dagan, where the entire southwest corner of the pronaos had been dug out in a large pit likely dating to the 6th and 5th centuries BC.[[ ^92 ]]
+
+== The House of Alabaster Vessels
+
+The House of Alabaster Vessels (French: Maison aux Albâtres) is named after the alabaster vessels found during the excavation of the complex. It is located in the residential quarter of Ugarit to the east of the royal palace, a location where high officials reside.[[ ^74 ]] The complex is a large, two-story structure primarily serving residential purposes. Its triangular shape features sides measuring approximately 45 m to the east, 30 m to the south, and 50 m to the west.[[ ^95 ]] Located on a steep slope, the complex is divided into higher and lower sections. Originally, the house functioned as a single architectural unit engaged in human activities through several phases; in its final phase, archaeological evidence suggested that the complex had been divided into several individual houses.
+
+A significant amount of material with Egyptian characteristics was found during excavation, including scarab imprints and sphinx beads.[[ ^95 ]] Archaeological findings in the ruins and the location of the structure suggest that the house was occupied by Egyptians residing in Ugarit, and the occupants likely held a high social status.
+
+The upper level of the structure has collapsed; the only evidence indicating the existence of a second floor is a stone staircase discovered on-site.[[ ^95 ]] The feature is constructed similarly to other structures discovered in Ugarit, with courtyards and tombs incorporated into the house. Archaeological finds suggest that the structure includes rooms designated for residential use, such as a kitchen and a bathroom on the lower floor, as well as rooms serving industrial purposes: pierced stone slabs and jars for liquid production were found during the excavation of the lower floor.[[ ^95 ]]
+
+== Ras Ibn Hani and Minet el Beida
+
+Two other sites within the city of Ugarit, [[ Ras Ibn Hani ]] and Minet el Beida, have also been excavated. Ras Ibn Hani, on a promontory overlooking the Mediterranean 5 kilometers south of the city, was discovered during commercial construction in 1977. Salvage excavation occurred in 1977, followed by regular excavation which has continued to the present by a Syrian-French team led by A. Bounni and J. Lagarce.[[ ^96 ]] Occupation began in the mid-13th century BC. Abandoned along with Ugarit, it was re-occupied in the [[ Hellenistic period ]], including the construction of a defensive fortress. A "royal palace", elite housing, and tombs were found, along with about 169 cuneiform tablets, most in the Ugaritic language.[[ ^97 ]][[ ^48 ]]
+
+One of the two ports of ancient Ugarit (the other, Ra’šu, is unlocated but suggested to be Ras Ibn Hani) was located 1.5 kilometers west of the main city, at the natural harbor of Minet el Beida (Arabic for "White Harbor"). The 28 hectare site was excavated between 1929 and 1935 by Claude Schaeffer; it is currently a military port and unavailable for excavation.[[ ^98 ]][[ ^99 ]] Its name in the Late Bronze Age is believed to have been Maʾḫadu.[[ ^100 ]] Archaeological excavations carried out on the southern side of the bay, now reduced in size due to alluvial fill, unveiled remnants of a settlement established in the 14th century BC, and perhaps earlier, in the late 15th century.[[ ^101 ]] This port town, featuring an urban layout akin to the city of Ugarit, displays irregular street formations. Dwellings were structured around courtyards with adjacent rooms, including provisions like wells, ovens, and occasionally subterranean tombs. Besides residential spaces and shrines, warehouses were present for storing diverse goods earmarked for import or export. One of them was discovered still housing eighty shipping jars that remain remarkably intact.[[ ^102 ]][[ ^103 ]]
+
+Artifacts discovered in the port indicate the predominance of native Ugaritians within the local populace, accompanied by a significant presence of various foreign communities such as [[ Egyptians | ancient-egypt ]], [[ Cypriots | ancient-history-of-cyprus ]], [[ Hittites ]], [[ Hurrians ]], and [[ Aegean | aegean-civilization ]] peoples.[[ ^100 ]] Among the discoveries were [[ Cypriot pottery | pottery-of-ancient-cyprus ]] (both imported and locally crafted), [[ Mycenaean pottery ]], ivory cosmetic containers from Egypt, a terracotta depiction of [[ Hathor ]], bronze tools and weaponry, cylinder seals, stone weights, remnants of [[ banded dye-murex shells | hexaplex-trunculus ]] used in the production of [[ purple dye | tyrian-purple ]], and inscribed tablets.[[ ^104 ]][[ ^105 ]]
+
+The site is thought to have been largely evacuated before it was burned (resulting in a thick ash layer) and destroyed, as few valuables were found in the residences or in the southern palace. About 130 cuneiform tablets were found in the northern palace. After the destruction the site was occupied by simple residences, termed a village by the excavators. Aegean style pottery and loom weights were found in this Iron Age I level.[[ ^7 ]]
+
+== The Temple of Rhyton
+
+Right in the city centre of Ugarit is a [[ Late Bronze Age ]] [[ cult | cult-religious-practice ]] complex named the Temple of the Rhyton. It is likely named after the large amount of [[ rhytons | rhyton ]] (ceremonial drinking vessels for [[ libation ]]) discovered in its vicinity.[[ ^5 ]] Some scholars, however, have argued that the complex should be identified as the Temple of [[ El | el-deity ]], the head of the Ugaritic [[ pantheon | pantheon-religion ]], on the basis of a limestone [[ cult statue | cult-image ]] thought to represent this deity.[[ ^106 ]] The figure depicts an older, bearded figure seated on a high-backed throne, wearing a high crown and a long garment. The location of the Temple is noteworthy: it stands in the middle of a residential area, rather than as a standalone monument, and its main sanctuary is connected with the adjacent residences. The [[ oil press | oil-mill ]] to the north, accessible by the same street, is believed to be an industrial unit providing financial support and belonging to the complex,[[ ^107 ]] highlighting the extent of socioeconomic and religious integration in the lives of the Ugaritic people.
+
+Architecturally, the building material is dune [[ calcarenite ]].[[ ^108 ]] The complex consists of a two-columned [[ portico ]] facing northeast, leading indirectly through a corridor into a main hall with benches and a stepped platform or [[ altar ]]. The hall is rectangular in plan and measures approximately 6 × 7 metres.[[ ^74 ]] A set of small rooms attached to the hall in the northeast likely served as [[ sacristy ]], annexes or storage for offerings.[[ ^5 ]] The building's access from the street is exceptional due to the U-shape turn from the [[ vestibule | vestibule-architecture ]] or two other indirect doors. In addition to the cultic function, the Temple has also been identified as a site for //Marzēah//, a [[ Levantine | levant ]] communal celebration in honour of a certain deity, including El. The bouquets are described as indulgent and abundant, accompanied by wine and music, and often descending into excess. Locations interpreted as a venue for //Marzēah// shared the features of benches along the wall, large rectangular rooms and side rooms for food storage.[[ ^109 ]]
+
+== Iconography
+
+There are multiple types of Ugaritic iconography, divided into classifications such as stone sculptures, metal work, ivories, glyptics, and ceramics.[[ ^106 ]]
+
+== Stone Work
+
+Stone statue sculptures primarily exhibit Egyptian influence in its statues (MBA), while statues such as the 25 cm long calcite statue of [[ El | el-deity ]] found in the Temple of Rhyton do not have political influence.[[ ^106 ]] Stone stelae, another type of iconographic stone work present in Ugarit, carry primarily local, Egyptian, and Anatolian elements. One of its most known pieces is the stele of "Baal With Thunderbolt", a limestone stela with a Height 142 cm, Width 50 cm, and a Diameter of 28 cm, showing a young man striding, clothed in a line cloth, wielding a club menacingly. Some other notable stelae include "The stele of Mami dedicated to Baal of Saphon" and "Stele with dedication to the God Dagan".[[ ^5 ]]
+
+== Metal Work
+
+Metal work in Ugaritic iconographies shows advanced metallurgy in some works, with heavy Egyptian influence present.[[ ^106 ]] There is also an exceedingly greater amount of metal works compared to the stone works present, though many have been lost by later looting for smelting.[[ ^5 ]] Iconographic metal images of deities primarily have 3 groups in the Syria-Palestine region: warrior figures, standing peaceful figures and seating peaceful figures,[[ ^110 ]] with archaeological examples such as "the statue of the God El", made of bronze and gold with Egyptian-local influences, which shows a statue of the type of "a seated peaceful one" (Damascus Museum).[[ ^106 ]] Another influential metal working object of the city state is a bowl found in a Baal temple,[[ ^111 ]] which reflects Egyptian and Aegean influences.[[ ^106 ]]
+
+== Ivories
+
+Excavations in Tell Ras Shamra have shown that Ugarit hosts the greatest collection of late Bronze Age Syrian Ivories, which reflect Aegean, Egyptian, Hittite, and local influences,[[ ^106 ]] with the ivories matching cosmetic boxes, beds, and chairs of the time.[[ ^106 ]] The greatest piece of ivory is a set of 16 narratives known as the "Bed Pannel of Carved Ivory", with a height of 50 cm and a width of 100 cm, which shows Egyptian influences (e.g. using furniture types of Tut-Ankh-Amun).[[ ^5 ]] Another ivory piece is a head of a young man (or god), but the gender is debated, as other archaeologists say it is the face of a woman or goddess.[[ ^112 ]]
+
+== Glyptics and Ceramics
+
+Glyptics, or cylinder seals, scarabs, impressions, and seal rings, were found to be of [[ Hyksos ]] and [[ Hittite | hittites ]] influence, and the types of glyptics being decorative, religious, or royal.[[ ^106 ]] Glyptics such as "a modern impression of a Cypriot cylinder seals", with a height of 2 cm and a diameter of 1.2 cm, of soapstone, show Aegean influence and how iconographic imports were found in Ugarit.[[ ^5 ]][[ ^106 ]] Ceramics on the other hand present local styles, with imported Aegean pottery as well.[[ ^106 ]] Some ceramics include a mug of a priest depicting Baal serving the seated El, which may reflect Egyptian influences, and a decorated "terracotta" found in the temple of rhythons, which depicts a priest praying with an Egyptian like sun god.[[ ^106 ]]
+
+[[ ^1 ]]: Boyes, Philip J., "The Impact and Legacy of Alphabetic Cuneiform", Script and Society: The Social Context of Writing Practices in Late Bronze Age Ugarit, Oxbow Books, pp. 261–76, (2021). doi:[[ 10.2307/j.ctv2npq9cv | https://doi.org/10.2307%2Fj.ctv2npq9cv ]].JSTOR [[ j.ctv2npq9cv | https://www.jstor.org/stable/j.ctv2npq9cv ]].
+
+[[ ^2 ]]: Huehnergard, John (2012). [[ //An Introduction to Ugaritic// | https://books.google.com/books?id=IfHQx5FUZW8C&q=The+site+of+Ugarit+and+its+indigenous+language+were+discovered+by+accident+in+1928%E2%80%931929.&pg=PA1 ]]. Hendrickson Publishers. ISBN [[ 978-1-59856-820-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-59856-820-2 ]].
+
+[[ ^3 ]]: Kemp, Luke; Cline, Eric H., "Systemic Risk and Resilience: The Bronze Age Collapse and Recovery", in: Adam Izdebski, John Haldon, and Piotr Filipkowski (eds.), Perspectives on Public Policy in Societal-Environmental Crises, Springer, pp. 207-223, (2022). ISBN [[ 978-3-030-94137-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-030-94137-6 ]]. [[ p. 206 | https://library.oapen.org/bitstream/handle/20.500.12657/57905/978-3-030-94137-6.pdf?sequence=1#page=206 ]].
+
+[[ ^4 ]]: Gates, Charles (2011). [[ //Ancient cities: the archaeology of urban life in the ancient Near East and Egypt, Greece and Rome// | https://archive.org/details/ancient-cities-the-archaeology-of-urban-life-in-the-ancient-near-east-and-egypt- ]] (2nd ed.). London: Routledge. ISBN [[ 978-0-203-83057-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-203-83057-4 ]].
+
+[[ ^5 ]]: Yon, Marguerite, "The City of Ugarit at Tell Ras Shamra". Eisenbrauns, 2006
+
+[[ ^6 ]]: Helène Whittaker, "Mycenaean cult buildings: a study of their architecture and function in the context of the Aegean and the Eastern Mediterranean", Monographs from the Norwegian Institute at Athens, v. 1. Bergen: Norwegian Institute at Athens, 1997 ISBN [[ 9788291626031 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9788291626031 ]].
+
+[[ ^7 ]]: Bretschneider, Joachim, Jan Driessen, and Athanasia Kanta, "Cyprus and Ugarit at the end of the Late Bronze Age: insights from Pyla-Kokkinokremos", Ougarit, un anniversaire: bilans et recherches en cours, Vol. 28. Peeters, pp. 607-638, (2021). doi:[[ 10.2307/j.ctv27vt4z3.30 | https://doi.org/10.2307%2Fj.ctv27vt4z3.30 ]]. JSTOR [[ j.ctv27vt4z3.30 | https://www.jstor.org/stable/j.ctv27vt4z3.30 ]].
+
+[[ ^8 ]]: Frankfort, Henri (1996). //The art and architecture of the ancient Orient//. Yale University Press Pelican history of art (5th ed.). New Haven, Conn.: Yale Univ. Press. p. 93. ISBN [[ 978-0-300-06470-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-300-06470-4 ]].
+
+[[ ^9 ]]: Courtois, J.-C. (1974). Ugarit Grid, Strata, and Find-Localizations: A Re-assessment. Zeitschrift Des Deutschen Palästina-Vereins (1953-), 90(2), 97–114. http://www.jstor.org/stable/27930989
+
+[[ ^10 ]]: Healey, John F. (1985). [[ "Ugarit in Retrospect: 50 Years of Ugarit and Ugaritic. Gordon D. Young" | https://www.journals.uchicago.edu/doi/10.1086/373110 ]]. //Journal of Near Eastern Studies//. !!44!! (1): 72–74. doi:[[ 10.1086/373110 | https://doi.org/10.1086%2F373110 ]].
+
+[[ ^11 ]]: Charpin, Dominique (2019). [[ "«Lorsque mon seigneur est allé à Ugarit…» : Le «voyage» de Zimri-Lim de Mari à la Méditerranée" | https://www.persee.fr/doc/crai_0065-0536_2019_num_163_4_96944 ]]. //Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres//. !!163!! (4): 1223–1244. doi:[[ 10.3406/crai.2019.96944 | https://doi.org/10.3406%2Fcrai.2019.96944 ]].
+
+[[ ^12 ]]: Yon, Marguerite, "Geography and History", in The City of Ugarit at Tell Ras Shamra, University Park, USA: Penn State University Press, pp. 9-26, (2006).
+
+[[ ^13 ]]: Heltzer, M., "The Metal Trade of Ugarit and the Problem of Transportation of Commercial Goods", Iraq, vol. 39, no. 2, pp. 203–11, 1977
+
+[[ ^14 ]]: Anson F. Rainey; Zipora Cochavi-Rainey (2015). //The El-Amarna Correspondence: A New Edition of the Cuneiform Letters from the Site of El-Amarna based on Collations of all Extant Tablets//. Vol. 2. BRILL. pp. 1389–1393. ISBN [[ 978-90-04-28145-5 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-90-04-28145-5 ]].
+
+[[ ^15 ]]: Garr, W. Randall, "A Population Estimate of Ancient Ugarit", Bulletin of the American Schools of Oriental Research, no. 266, pp. 31–43, 1987
+
+[[ ^16 ]]: Pardee, Dennis. "Ugaritic", in //[[ The Ancient Languages of Syria-Palestine and Arabia | https://books.google.com/books?id=vTrT-bZyuPcC&pg=PA5 ]]//, Roger D. Woodard, editor. Cambridge University Press, (2008). ISBN [[ 0-521-68498-6 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-521-68498-6 ]]. ISBN [[ 978-0-521-68498-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-521-68498-9 ]].
+
+[[ ^17 ]]: Yaron, R., "A Royal Divorce at Ugarit", Orientalia, 32(1), pp. 21–31, 1963
+
+[[ ^18 ]]: van Soldt, Wilfred. H., "Ugarit as a Hittite Vassal State", Altorientalische Forschungen, vol. 37, no. 2,  pp. 198-207, 2010
+
+[[ ^19 ]]: Barra, Vita; Pablo, Juan, "[[ The Hittites in the administrative texts of Ugarit | https://digital.csic.es/bitstream/10261/284131/3/Hittites_admin_texts_ugarit.pdf ]]", KASKAL, 18, pp. 111-126, (2021)
+
+[[ ^20 ]]: Torrecilla, Eduardo, "Sutean Tribes on the Borders between Ḫatti and Assyria: A Case of ‘Displaced Peoples’?", Journal of Ancient Near Eastern History, Walter de Gruyter GmbH, Berlin/Boston, 2026
+
+[[ ^21 ]]: Rainey, Anson F.; Schniedewind, William M. (2015). //The El-Amarna Correspondence: A New Edition of the Cuneiform Letters from the Site of El-Amarna based on Collations of all Extant Tablets//. Brill. pp. 369–381. ISBN [[ 978-90-04-28147-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-90-04-28147-9 ]].
+
+[[ ^22 ]]: Moran, William L., "The Amarna Letters", Baltimore: Johns Hopkins University Press, (1992) ISBN [[ 0-8018-4251-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-8018-4251-4 ]]
+
+[[ ^23 ]]: [[ Cline, Eric H. | eric-h.-cline ]], Translation of letter RS 20.18 in "[[ 1177 B.C.: The Year Civilization Collapsed ]]". Princeton University Press. p. 151, (2014).
+
+[[ ^24 ]]: Cohen, Yoram, et al., "The "Hunger Years" and the "Sea Peoples": preliminary observations on the recently published letters from the "house of Urtenu" Archive at Ugarit", Ve-'Ed Ya'aleh (Gen 2: 6): Essays in Biblical and Ancient Near Eastern Studies Presented to Edward L, pp. 47-61, (2021). doi:[[ 10.2307/j.ctv1zm2ts1 | https://doi.org/10.2307%2Fj.ctv1zm2ts1 ]]. JSTOR [[ j.ctv1zm2ts1 | https://www.jstor.org/stable/j.ctv1zm2ts1 ]].
+
+[[ ^25 ]]: [[ Astour, Michael C. | michael-astour ]], "New Evidence on the Last Days of Ugarit", American Journal of Archaeology, 69(3), pp. 253–58, 1965
+
+[[ ^26 ]]: Rainey, A. F., "The Military Personnel of Ugarit", Journal of Near Eastern Studies, vol. 24, no. 1/2, pp. 17–27, 1965
+
+[[ ^27 ]]: [[ Nougayrol, Jean | jean-nougayrol ]]; [[ Laroche, Emmanuel | emmanuel-laroche ]]; [[ Virolleaud, Charles | charles-virolleaud ]] and [[ Schaeffer, Claude F.-A. | claude-frédéric-armand-schaeffer ]] (eds.), "Ugaritica V. Nouveaux textes accadiens, hourrites et ugaritiques des archives et bibliothèques privées d’Ugarit, commentaires des textes historiques", Mission de Ras Shamra !!16!!, Paris, (1968).
+
+[[ ^28 ]]: Pardee, Dennis, "[[ The Ugaritic Alphabetic Cuneiform Writing System in the Context of Other Alphabetic Systems | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/saoc60.pdf ]]", Studies in Ancient Oriental Civilization, Oriental Institute, !!60!!, pp. 181–200, (2007).
+
+[[ ^29 ]]: [[ Ugaritic Range: 10380–1039F, The Unicode Standard, Version 15.1. | https://unicode.org/charts/PDF/U10380.pdf ]]
+
+[[ ^30 ]]: Stanislav Segert, "[[ A basic Grammar of the Ugaritic Language: with selected texts and glossary | https://archive.org/details/segert-a-basic-grammar-of-the-ugaritic-language-1984 ]]", (1984). ISBN [[ 9780520039995 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780520039995 ]].
+
+[[ ^31 ]]: Gibson, J. C. L. (1984). [[ "The Theology of the Ugaritic Baal Cycle" | https://www.jstor.org/stable/43075262 ]]. //Orientalia//. !!53!! (2): 202–219. ISSN [[ 0030-5367 | https://search.worldcat.org/issn/0030-5367 ]].
+
+[[ ^32 ]]: Wyatt, Nicolas, "[[ Religious texts from Ugarit: the worlds of Ilimilku and his colleagues | https://archive.org/details/religioustextsfr0000wyat ]]", //The Biblical Seminar//, !!53!!. Sheffield, England: Sheffield Academic Press, (1998).
+
+[[ ^33 ]]: Bordreuil, Pierre; Pardee, Dennis (2009). //A Manual of Ugaritic//. Linguistic Studies in Ancient West Semitic. Vol. 3. University Park, USA: Penn State University Press. doi:[[ 10.5325/j.ctv1bxh4zp | https://doi.org/10.5325%2Fj.ctv1bxh4zp ]]. ISBN [[ 978-1575061535 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1575061535 ]]. JSTOR [[ j.ctv1bxh4zp | https://www.jstor.org/stable/j.ctv1bxh4zp ]].
+
+[[ ^34 ]]: Di Paolo, Silvana, et al., "Changing space, time, and meaning: the seal of Yaqaru from Ugarit–a reconversion", Time and History in the Ancient Near East. Proceedings of the 56th Rencontre Assyriologique Internationale at Barcelona, 26–30 July 2010, pp. 79-90, 2013
+
+[[ ^35 ]]: [[ https://knowledge.uchicago.edu/record/286/files/Buck_uchicago_0330D_14194.pdf | https://knowledge.uchicago.edu/record/286/files/Buck_uchicago_0330D_14194.pdf ]] Buck, Mary Ellen, "The Amorite dynasty of Ugarit: The historical origins of the Bronze age polity of Ugarit based upon linguistic, literary, and archaeological evidence", Dissertation, The University of Chicago, 2018
+
+[[ ^36 ]]: Kitchen, Κ. Α., "The King List of Ugarit", UF (9), pp. 131-142, 1977
+
+[[ ^37 ]]: Aboud, J., "Die Rolle des Königs und seiner Familie nach den Texten von Ugarit", Münster, 1994 ISBN [[ 978-3-927120-20-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3-927120-20-4 ]]
+
+[[ ^38 ]]: Pardee, D., "Ritual and Cult at Ugarit", Atlanta, 2002
+
+[[ ^39 ]]: Arnaud, D., "Prolégomènes à la rédaction d’une histoire d'Ougarit, II: Les borderaux de rois divi-nisés", Studi Micenei ed Egeo-Anatolici 41/2, pp. 155–73, 1999
+
+[[ ^40 ]]: Stieglitz, Robert R., "The Ideology of Divine KingshIp at Ugarit", Visions of Life in Biblical Times: Essays in Honor of Meir Lubetski, Sheffield: Sheffield Phoenix Press Ltd, pp. 220-229, 2015
+
+[[ ^41 ]]: Knoppers, Gary N., "Dissonance and Disaster in the Legend of Kirta", Journal of the American Oriental Society, vol. 114, no. 4, pp. 572–82, 1994
+
+[[ ^42 ]]: Vidal, Jordi, "The Origins of the Last Ugaritic Dynasty", Altorientalische Forschungen, 33(1), pp. 168-175, 2006
+
+[[ ^43 ]]: Schmidt, B., "A Re-evaluation of the Ugaritic King List", in Ugarit, Religion, and Culture. Edited by N. Wyatt, W. Watson, and J. Lloyd, Münster: Ugarit-Verlag, pp. 289–304, 1996 ISBN [[ 3927120375 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F3927120375 ]]
+
+[[ ^44 ]]: [[ https://repository.bilkent.edu.tr/server/api/core/bitstreams/fd33b731-0e37-4f0d-9c9a-361d5126153b/content | https://repository.bilkent.edu.tr/server/api/core/bitstreams/fd33b731-0e37-4f0d-9c9a-361d5126153b/content ]] Kabatiarova, B. R., "Ugaritic seal metamorphoses as a reflection of the Hittite administration and the Egyptian influence in the Late Bronze Age in Western Syria", Dissertation, Bilkent Universitesi (Turkey), 2006
+
+[[ ^45 ]]: Heltzer, M., "Ammistamru I of Ugarit", NABU 2001/1, (2001).
+
+[[ ^46 ]]: Freu, J. "[[ La tablette RS 86.2230 et la phase finale du Royaume d’Ugarit | https://www.persee.fr/doc/syria_0039-7946_1988_num_65_3_7086 ]]", Syria, (65), pp. 395–398, (1988).
+
+[[ ^47 ]]: Kaniewski D, Van Campo E, Van Lerberghe K, Boiy T, Vansteenhuyse K, et al., "The Sea Peoples, from Cuneiform Tablets to Carbon Dating.", PLoS ONE 6(6), (2011). doi:[[ 10.1371/journal.pone.0020232 | https://doi.org/10.1371%2Fjournal.pone.0020232 ]].
+
+[[ ^48 ]]: Yon, Marguerite, "Introduction: History of Excavations", The City of Ugarit at Tell Ras Shamra, University Park, USA: Penn State University Press, (2006), pp. 7-8. doi:[[ 10.5325/j.ctv1bxh50p | https://doi.org/10.5325%2Fj.ctv1bxh50p ]]. JSTOR [[ j.ctv1bxh50p | https://www.jstor.org/stable/j.ctv1bxh50p ]].
+
+[[ ^49 ]]: Calvet, Yves, "Ugarit: The Kingdom and the City—Urban Features", Ugarit at Seventy-Five, edited by K. Lawson Younger Jr., University Park, USA: Penn State University Press, pp. 101-112, (2007). ISBN [[ 1-57506-143-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-57506-143-0 ]].
+
+[[ ^50 ]]: Léon Albanèse, "Note sur Ras Shamra", Syria, vol. 10, pp.16–21, 1929
+
+[[ ^51 ]]: Schaeffer, Claude F. A., "Les Fouilles de Ras Shamra-Ugarit. Sixième Campagne (Printemps 1934). Rapport Sommaire", Syria, !!16!!(2), pp. 141–76, (1935).
+
+[[ ^52 ]]: Schaeffer, Claude F.-A., "Les Fouilles de Ras Shamra-Ugarit. Septième Campagne (Printemps 1935) Rapport Sommaire", Syria, !!7!!(2), pp. 105–49, (1936).
+
+[[ ^53 ]]: Schaeffer, Claude F.-A., "Les Fouilles de Ras Shamra-Ugarit Huitième Campagne (Printemps 1936): Rapport Sommaire", Syria, !!18!!(2), pp. 125–54, (1937).
+
+[[ ^54 ]]: Schaeffer, Claude F.-A., "Les Fouilles de Ras Shamra-Ugarit: Neuvième Campagne (Printemps 1937). Rapport Sommaire", Syria, !!19!!(4), pp. 313–34, (1938).
+
+[[ ^55 ]]: Schaeffer, Claude F.-A., "Les Fouilles de Ras Shamra-Ugarit. Neuvième Campagne (Printemps 1937): Rapport Sommaire", Syria, !!19!!(3), pp. 193–255, (1938).
+
+[[ ^56 ]]: Schaeffer, Claude F.-A., "Les Fouilles de Ras Sharma-Ugarit: Dixième et Onzième Campagnes (Automne et Hiver 1938-39). Rapport Sommaire", Syria, !!20!!(4), pp. 277–95, (1939).
+
+[[ ^57 ]]: Schaeffer, C. F. A., "Nouvelles Campagnes de Fouilles à Ras Shamra-Ugarit (IX-X : 1938-1939)", Revue Archéologique, !!14!!,  pp. 67–69, (1939).
+
+[[ ^58 ]]: Claude F.-A. Schaeffer, "Les Fouilles de Ras Shamra-Ugarit. Quinzième, Seizième et Dix-Septième Campagnes (1951, 1952 et 1953). Rapport Sommaire", Syria, vol. 31, no. 1/2, pp. 14–67, (1954).
+
+[[ ^59 ]]: Schaeffer, C. F. A., "Note Additionnelle Sur Les Fouilles Dans Le Palais Nord d’Ugarit", Syria, vol. 49, no. 1/2, pp. 27–33, (1972). doi:[[ 10.3406/syria.1972.6320 | https://doi.org/10.3406%2Fsyria.1972.6320 ]]. JSTOR [[ 4197785 | https://www.jstor.org/stable/4197785 ]].
+
+[[ ^60 ]]: Contenson, Henri de; Courtois, Jacques-Claude; Lagarce, Élisabeth; Lagarce, Jacques; Stucky, Rolf: "La XXXIIIe Campagne de Fouilles a Ras Shamra En 1972. Rapport Préliminaire", Syria 50, no. 3/4, pp. 283–309, (1973). doi:[[ 10.3406/syria.1973.6404 | https://doi.org/10.3406%2Fsyria.1973.6404 ]].
+
+[[ ^61 ]]: Contenson, Henri de; Courtois, Jacques-Claude; Lagarce, Élisabeth; Lagarce, Jacques; Stucky, Rolf: "La XXXIVe Campagne de Fouilles a Ras Shamra En 1973 Rapport Préliminaire", Syria 51, no. 1/2, pp. 1–30, (1974). doi:[[ 10.3406/syria.1974.6432 | https://doi.org/10.3406%2Fsyria.1974.6432 ]]. JSTOR [[ 4197925 | https://www.jstor.org/stable/4197925 ]].
+
+[[ ^62 ]]: Margueron, Jean, "Ras Shamra 1975 et 1976 Rapport Préliminaire Sur Les Campagnes d'Automne", Syria 54, no. 3/4, pp. 151–88, (1977). doi:[[ 10.3406/SYRIA.1977.6601 | https://doi.org/10.3406%2FSYRIA.1977.6601 ]]. JSTOR [[ 4198125 | https://www.jstor.org/stable/4198125 ]].
+
+[[ ^63 ]]: Yon, Marguerite; Caubet, A.; Mallet, J.; Desfarges, Patrick: "Ras Shamra-Ougarit, 38, 39 et 40e Campagnes (1978, 1979 et 1980)", Syria 59, no. 3/4, pp. 169–97, (1982). doi:[[ 10.3406/syria.1982.6769 | https://doi.org/10.3406%2Fsyria.1982.6769 ]]. JSTOR [[ 4198305 | https://www.jstor.org/stable/4198305 ]].
+
+[[ ^64 ]]: Yon, Marguerite; Caubet, A.; Mallet, J.; Lombard, P.; Doumet, C.; Desfarges, P., "Fouilles de Ras Shamra-Ougarit 1981-1983 (41e, 42e et 43e Campagnes)", Syria 60, no. 3/4, pp. 201–24, (1983). doi:[[ 10.3406/syria.1983.6814 | https://doi.org/10.3406%2Fsyria.1983.6814 ]]. JSTOR [[ 4198360 | https://www.jstor.org/stable/4198360 ]].
+
+[[ ^65 ]]: Yon, Marguerite; Gachet, J.; Lombard, P., "Fouilles de Ras Shamra-Ougarit 1984-1987 (44e-47e Campagnes)", Syria 64, no. 3/4, pp. 171–91, (1987). doi:[[ 10.3406/syria.1987.6998 | https://doi.org/10.3406%2Fsyria.1987.6998 ]]. JSTOR [[ 4198621 | https://www.jstor.org/stable/4198621 ]].
+
+[[ ^66 ]]: Yon, Marguerite; Gachet, J.; Lombard, P., Mallet, J., "Fouilles de La 48e Campagne (1988) à Ras Shamra-Ougarit", Syria 67, no. 1, pp. 1–29, (1990). doi:[[ 10.3406/syria.1990.7135 | https://doi.org/10.3406%2Fsyria.1990.7135 ]].
+
+[[ ^67 ]]: Yon, Marguerite, "Foreword: The Discovery", The City of Ugarit at Tell Ras Shamra, University Park, USA: Penn State University Press, (2006), pp. 3-6. doi:[[ 10.5325/j.ctv1bxh50p | https://doi.org/10.5325%2Fj.ctv1bxh50p ]]. JSTOR [[ j.ctv1bxh50p | https://www.jstor.org/stable/j.ctv1bxh50p ]].
+
+[[ ^68 ]]: North, Robert, "Ugarit Grid, Strata, and Find-Localizations", Zeitschrift Des Deutschen Palästina-Vereins (1953-), !!89!!(2), pp. 113–60, (1973). JSTOR [[ 27930963 | https://www.jstor.org/stable/27930963 ]].
+
+[[ ^69 ]]: Courtois, Jacques-Claude, "Ugarit Grid, Strata, and Find-Localizations: A Re-Assessment", Zeitschrift Des Deutschen Palästina-Vereins (1953-), vol. 90, no. 2, pp. 97–114, (1974). ISSN [[ 0012-1169 | https://search.worldcat.org/issn/0012-1169 ]]. JSTOR [[ 27930989 | https://www.jstor.org/stable/27930989 ]].
+
+[[ ^70 ]]: Al-Maqdissi, Michel; Bahloul, Khozama; Callot, Olivier; Calvet, Yves; Matoïan, Valéri; Sauvage, Caroline: "Rapport Préliminaire Sur Les Activités De La Mission Syro-Française De Ras Shamra-Ougarit en 2005 et 2006 (65e et 66e Campagnes)", Syria 84, pp. 33–55, (2007). doi:[[ 10.4000/syria.1954 | https://doi.org/10.4000%2Fsyria.1954 ]]. JSTOR [[ 20723413 | https://www.jstor.org/stable/20723413 ]].
+
+[[ ^71 ]]: Al-Maqdissi, Michel; Calvet, Yves; Matoïan, Valérie; Al-Bahloul, Khozama; Benech, Christophe; Bessac, Jean-Claude; Coqueugniot, Éric; et al., "Rapport Préliminaire Sur Les Activités De La Mission Syro-Française De Ras Shamra-Ougarit En 2007 et 2008 (67e Et 68e Campagnes)", Syria 87, pp. 21–51, (2010). doi:[[ 10.4000/syria.643 | https://doi.org/10.4000%2Fsyria.643 ]]. JSTOR [[ 41681329 | https://www.jstor.org/stable/41681329 ]].
+
+[[ ^72 ]]: Boyes, Philip J., "[[ Script and Society: The social context of writing practices in Late Bronze Age Ugarit | https://library.oapen.org/bitstream/handle/20.500.12657/52589/1/external_content.pdf ]]", Oxbow Books, (2021). doi:[[ 10.2307/j.ctv2npq9cv | https://doi.org/10.2307%2Fj.ctv2npq9cv ]]. JSTOR [[ j.ctv2npq9cv | https://www.jstor.org/stable/j.ctv2npq9cv ]].
+
+[[ ^73 ]]: Yon, Marguerite, "Ugarit: The Urban Habitat The Present State of the Archaeological Picture", Bulletin of the American Schools of Oriental Research, no. 286, pp. 19–34, 1992
+
+[[ ^74 ]]: Yon, Marguerite, "Description of the Tell", The City of Ugarit at Tell Ras Shamra, University Park, USA: Penn State University Press, pp. 27-122, 2006 doi:[[ 10.5325/j.ctv1bxh50p | https://doi.org/10.5325%2Fj.ctv1bxh50p ]]. JSTOR [[ j.ctv1bxh50p | https://www.jstor.org/stable/j.ctv1bxh50p ]].
+
+[[ ^75 ]]: [[ Excavations resume at ancient Ugarit near Latakia after 14-year pause - Jerusalem Post - NOVEMBER 10, 2025 | https://www.jpost.com/archaeology/article-873317 ]]
+
+[[ ^76 ]]: [[ Unearthing the Birthplace of the Alphabet: Archaeologists Return After 14 Years of Silence - Arkeonews - 10 November 2025 | https://arkeonews.net/unearthing-the-birthplace-of-the-alphabet-archaeologists-return-after-14-years-of-silence/ ]]
+
+[[ ^77 ]]: Charles Virolleaud, "Les Inscriptions Cunéiformes de Ras Shamra", Syria, vol. 10, pp. 304–310, (1929). JSTOR [[ 4236960 | https://www.jstor.org/stable/4236960 ]].
+
+[[ ^78 ]]: Schaeffer, Claude F. A., "[[ The Cuneiform Texts of Ras Shamra-Ugarit | https://archive.org/details/cuneiformtextsof0000scha ]]", (1939). doi:[[ 10.2307/4340808 | https://doi.org/10.2307%2F4340808 ]]..
+
+[[ ^79 ]]: Schaeffer, Claude F. A., The Cuneiform Texts of Ras Shamra-Ugarit: The Schweich Lectures of the British Academy 1937, Periodicals Service Co., (1986). ISBN [[ 3-601-00536-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F3-601-00536-0 ]].
+
+[[ ^80 ]]: Schaeffer, Claude F. A., et al., Le Palais Royal D'Ugarit III: Textes Accadiens et Hourrites Des Archives Est, Ouest et Centrales, Two Volumes (Mission De Ras Shamra Tome VI), Imprimerie Nationale, (1955). OL [[ 28402679M | https://openlibrary.org/books/OL28402679M ]].
+
+[[ ^81 ]]: Sauvage, Caroline, and Christine Lorre, ed., "À la découverte du royaume d'Ougarit (Syrie du IIe millénaire). Les fouilles de C.F.A. Schaeffer à Minet el-Beida et Ras Shamra (1929‒1937)", Austrian Academy of Sciences Press (Contributions to the Archaeology of Egypt, Nubia and the Levant 7), (2023). doi:[[ 10.2307/jj.3508405 | https://doi.org/10.2307%2Fjj.3508405 ]]. JSTOR [[ jj.3508405 | https://www.jstor.org/stable/jj.3508405 ]].
+
+[[ ^82 ]]: Singletary, J., "The Evidence from Ugarit", in Objects, Qualities, and Attributes as Deities in the Ancient Near East. Leiden, The Netherlands: Brill, pp. 104–118, 2025
+
+[[ ^83 ]]: Hawley, Robert, Pardee, Dennis and Roche-Hawley, Carole, "The Scribal Culture of Ugarit", //Journal of Ancient Near Eastern History//, !!2!!(2), pp. 229-267, (2016). doi:[[ 10.1515/janeh-2016-0011 | https://doi.org/10.1515%2Fjaneh-2016-0011 ]].
+
+[[ ^84 ]]: Atwood, Roger, "The Ugarit Archives", //Archaeology//, !!74!!(4), pp. 24–31, (2021).
+
+[[ ^85 ]]: Lackenbacher, S./F. Malbran-Labat, "Lettres en akkadien de la "Maison d’Urtēnu": fouilles de 1994 (RSOu. 23)", Leuven, (2016). ISBN [[ 9789042933750 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9789042933750 ]].
+
+[[ ^86 ]]: Schaeffer C. F. A., "Nouvelles découvertes à Ras Shamra-Ugarit et à Enkomi-Alasia (Chypre) en 1953", CRAI, pp. 97‑106, (1954).
+
+[[ ^87 ]]: Yon, Marguerite, "Artifacts Illustrating Official and Everyday Life", The City of Ugarit at Tell Ras Shamra, University Park, USA: Penn State University Press, pp. 123-172, (2006). doi:[[ 10.5325/j.ctv1bxh50p | https://doi.org/10.5325%2Fj.ctv1bxh50p ]]. JSTOR [[ j.ctv1bxh50p | https://www.jstor.org/stable/j.ctv1bxh50p ]].
+
+[[ ^88 ]]: Kottsieper, Ingo; Neumann, Hans (ed.), [[ Literaturkontakte Ugarits, Wurzeln und Entfaltungen | https://digital.csic.es/bitstream/10261/243915/5/Administrative_Texts_in_Ugarit.pdf ]], Zaphon, pp. 189-198, (2021). doi:[[ 10.2307/jj.18654659 | https://doi.org/10.2307%2Fjj.18654659 ]]. JSTOR [[ jj.18654659 | https://www.jstor.org/stable/jj.18654659 ]].
+
+[[ ^89 ]]: Hawley, Robert: "[[ On the Alphabetic Scribal Curriculum at Ugarit | https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/saoc62.pdf ]]", Robert D. Biggs, Jennie Myers, and Martha T. Roth, eds., in Proceedings of the 51st Rencontre Assyriologique Internationale, Held at the Oriental Institute of the University of Chicago, July 18–22, 2005, Studies in Ancient Oriental Civilization 62, Chicago: The Oriental Institute, pp. 57-68, (2008). ISBN [[ 978-1-885923-54-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-885923-54-7 ]].
+
+[[ ^90 ]]: Albright, W. F., Moran, William L., "Rib-Adda of Byblos and the Affairs of Tyre (EA 89)", //Journal of Cuneiform Studies//, !!4!!(3), pp. 163–68, (1950). doi:[[ 10.2307/1359188 | https://doi.org/10.2307%2F1359188 ]]. ISBN [[ 9789004369832 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9789004369832 ]]. JSTOR [[ 1359188 | https://www.jstor.org/stable/1359188 ]].
+
+[[ ^91 ]]: Pitard, Wayne T., "The 'Libation Installations' of the Tombs at Ugarit", //The Biblical Archaeologist//, !!57!!(1), pp. 20–37, (1994). doi:[[ 10.2307/3210393 | https://doi.org/10.2307%2F3210393 ]].
+
+[[ ^92 ]]: Callot, Olivier: //Les sanctuaires de l’acropole d’Ougarit. Les temples de Baal et de Dagan.// Lyon : Maison de l'Orient et de la Méditerranée Jean Pouilloux, 2011. pp. 5-237. (Ras Shamra-Ougarit, 19); https://www.persee.fr/doc/mom_1762-0503_2011_mon_19_1
+
+[[ ^93 ]]: Marguerite, Yon, "Les stèles de pierre", //Arts et Industries de la pierre// (Ras Shamra - Ougarit 4), pp. 273–344, (1991). ISBN [[ 2-86538-218-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F2-86538-218-0 ]] ``\{{isbn}}``: Check ``isbn`` value: checksum ([[ help | https://en.wikipedia.org/wiki/Template%3AIsbn ]])
+
+[[ ^94 ]]: Boyes, Philip J., "Social Change in Late Bronze Age Ugarit", Script and Society: The Social Context of Writing Practices in Late Bronze Age Ugarit, Oxbow Books, pp. 225–44, (2021). ISBN [[ 978-1789255836 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1789255836 ]].
+
+[[ ^95 ]]: de Contenson, H., Courtois, J.-C., Lagarce, É., Lagarce, J., & Rolf Stucky. (1974). La XXXIVe campagne de fouilles a Ras Shamra en 1973 Rapport préliminaire. Syria, 51(1/2), 1–30. http://www.jstor.org/stable/4197925
+
+[[ ^96 ]]: Bounni (A.) and Lagarce (E. and J.), "Ras Ibn Hani I: Le Palais Nord du Bronze Récent", BAH, Beirut, (1998). doi:[[ 10.2307/1357521 | https://doi.org/10.2307%2F1357521 ]].
+
+[[ ^97 ]]: Vita, Juan-Pablo; Bordreuil, Pierre; Dennis Pardee et Carole Roche-Hawley, "Ras Ibn Hani II. Les textes en écritures cunéiformes de l’âge du Bronze récent (fouilles 1977 à 2022)" Syria. Archéologie, art et histoire, (2023). doi:[[ 10.4000/syria.14920 | https://doi.org/10.4000%2Fsyria.14920 ]]. ISBN [[ 978-2-35159-756-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-2-35159-756-9 ]].
+
+[[ ^98 ]]: Morton, W. H., "Ras Shamra-Ugarit and Old Testament Exegesis", //Review & Expositor//, !!45!!(1), pp. 63-80, (1948). doi:[[ 10.1177/003463734804500105 | https://doi.org/10.1177%2F003463734804500105 ]].
+
+[[ ^99 ]]: Schaeffer, F. A., "The French Excavations at Minet el Beida and Ras Shamra in Syria", //Antiquity//, !!4!!(16), pp. 460-466, (1930). doi:[[ 10.1017/S0003598X00005275 | https://doi.org/10.1017%2FS0003598X00005275 ]].
+
+[[ ^100 ]]: Astour, Michael C., "Maʾḫadu, the Harbor of Ugarit", //Journal of the Economic and Social History of the Orient//, vol. 13, no. 2, pp. 113–27, (1970). JSTOR [[ 3596082 | https://www.jstor.org/stable/3596082 ]].
+
+[[ ^101 ]]: Curtis, A. H., "Ras Shamra, Minet el-Beida and Ras Ibn Hani: The Material Sources", In Wilfred G. E. Watson and Nicolas Wyatt (ed) Handbook of Ugaritic studies, Brill, pp. 5-27, (1999). ISBN [[ 90-04-10988-9 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F90-04-10988-9 ]].
+
+[[ ^102 ]]: Sauvage, Caroline, "Nouvelle réflexion sur le "dépôt aux 80 jarres" de Minet el-Beida", De l'île d'Aphrodite au Paradis perdu, itinéraire d'un gentilhomme lyonnais. En hommage à Yves Calvet, hrsg. v. Bernard Geyer, Valérie Matoïan (Ras Shamra - Ougarit 22)., pp. 63-76, (2015).
+
+[[ ^103 ]]: Yon (M.), "Ougarit et le port de Mahadou–Minet el-Beida", in Res Maritimae, ed. S. Swiny, R. Hoh-felder, and L. Swiny, Atlanta, pp. 357–69, (1997).
+
+[[ ^104 ]]: Barber, E. J.W., "Dyes", in Prehistoric Textiles: The Development of Cloth in the Neolithic and Bronze Ages with Special Reference to the Aegean, Princeton: Princeton University Press, pp. 223-244, (1991). doi:[[ 10.2307/j.ctv1xp9q1s | https://doi.org/10.2307%2Fj.ctv1xp9q1s ]]. JSTOR [[ j.ctv1xp9q1s | https://www.jstor.org/stable/j.ctv1xp9q1s ]].
+
+[[ ^105 ]]: Schaeffer, C. F. A., "Les fouilles de Minet-el-Beida et de Ras Shamra. Troisieme campagne (printemps 1931). Rapport sommaire", Syria 13, pp. 1-27, (1932).
+
+[[ ^106 ]]: Watson, Wilfred, and Nicolas Wyatt, "Handbook of Ugaritic studies", Vol. 39. Brill, 2016 ISBN [[ 9789004294103 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9789004294103 ]]
+
+[[ ^107 ]]: Callot, Oliver (1987). //Les huileries du bronze récent à Ougarit, premiers éléments pour une étude// (in French). Revue Ras Shamra-Ougarit.
+
+[[ ^108 ]]: Devolder, Maud; Kreimerman, Igor (2020-06-25). [[ //Ashlar: Exploring the Materiality of Cut-Stone Masonry in the Eastern Mediterranean Bronze Age// | https://books.google.com/books?id=5n8IEAAAQBAJ ]]. Presses universitaires de Louvain. ISBN [[ 978-2-87558-964-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-2-87558-964-4 ]].
+
+[[ ^109 ]]: Ruiz-Gálvez, Marisa; Galán, Eduardo (January 2013). //A Meal Fit for a Hero: On the Origins of Roasted Meat, Spits, and the Male Ideal//. p. 52.
+
+[[ ^110 ]]: Negbi, Ora, "Canaanite gods in metal: an archaeological study of ancient Syro-Palestinian figurines", Publications of the Institute of Archaeology, 1976
+
+[[ ^111 ]]: Schaeffer, Claude (1949). //Ugaritica. II: nouvelles études relatives aux découvertes de Ras Shamra//.
+
+[[ ^112 ]]: Schaeffer, Claude (1962). //Ugaritica. IV: Découvertes des 18e et 19e campagnes, 1954-1955 : fondements préhistoriques d'Ugarit et nouveaux sondages, études anthropologiques, poteries grecques et monnaies islamiques de Ras Shamra et environs// (in French).

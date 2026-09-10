@@ -1,0 +1,14 @@
+slug: borsippa
+findings:
+  - kind: unsupported
+    quote: "These are the closing years of the Ur III empire, and Puzur-Tutu seems
+      to have read them correctly: a text from the ruler of [[ Kazallu ]]
+      states that he changed sides at the end and supported [[ Išbi-Erra |
+      ishbi-erra ]] (c. 2017—1986 BC) ruler of [[ Isin ]].[[ ^5 ]]"
+    why: The source records only that a text from the ruler of Kazallu states
+      Puzur-Tutu changed sides at the end and supported Isbi-Erra. It says
+      nothing about his judgement or foresight, and it also gives an
+      alternative reading of the same text, so the inference that he 'read
+      them correctly' is the rewriter's.
+    severity: minor
+verdict: minor-only

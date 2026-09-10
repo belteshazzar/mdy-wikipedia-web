@@ -1,0 +1,2224 @@
++++
+title: Sparta
+description: City-state in ancient Greece
+coordinates:
+  lat: 37.08194444
+  lon: 22.42361111
+image: https://upload.wikimedia.org/wikipedia/commons/d/db/Spartan_Territory_Before_371_BC.png
+infobox:
+  capital: Sparta 37°4′55″N 22°25′25″E / 37.08194°N 22.42361°E
+  common-languages: Doric Greek
+  religion: Greek polytheism
+  government: Spartan politeia
+  c-930-900-bc: Agis I
+  489-480-bc: Leonidas I
+  207-192-bc: Nabis
+  legislature:
+    - Ephors
+    - Gerousia
+  historical-era: Classical antiquity
+  foundation: Greek Dark Ages c.900 BC
+  first-messenian-war-second-messenian-war: 743–724 BC, c. 660–650 BC
+  foundation-of-the-peloponnesian-league: c. 550 BC
+  war-against-argos: 494 BC
+  battle-of-thermopylae: 480 BC
+  battle-of-plataea: 479 BC
+  peloponnesian-war: 431–404 BC
+  spartan-hegemony: 404–371 BC
+  battle-of-leuctra: 371 BC
+  battle-of-sellasia: 222 BC
+  war-against-nabis: 195 BC
+  annexed-by-achaean-league: 188 BC
+images:
+  - file: Eurotas.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Eurotas.JPG/250px-Eurotas.JPG
+    width: 2304
+    height: 1728
+    caption: Eurotas River
+  - file: Menelaion.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Menelaion.jpg/330px-Menelaion.jpg
+    width: 1579
+    height: 1050
+    caption: Hollow Lacedaemon. Site of the Menelaion, the ancient shrine to Helen
+      and Menelaus constructed in the Bronze Age city that stood on the hill of
+      Therapne on the left bank of the Eurotas River overlooking the future site
+      of Dorian Sparta. Across the valley the successive ridges of Mount
+      Taygetus are in evidence.
+  - file: Antique_Map_of_Classical_City_of_Sparta.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Antique_Map_of_Classical_City_of_Sparta.jpg/250px-Antique_Map_of_Classical_City_of_Sparta.jpg
+    width: 2218
+    height: 2071
+    caption: Antique map of classical city of Sparta (based on ancient sources and
+      not archaeology)
+  - file: Ancient_sparta_theater.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ancient_sparta_theater.jpg/250px-Ancient_sparta_theater.jpg
+    width: 786
+    height: 520
+    caption: The theatre of ancient Sparta with Mt. Taygetus in the background
+  - file: The_remains_of_the_Temple_of_Artemis_Orthia_in_Sparta_on_15_May_2019.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_remains_of_the_Temple_of_Artemis_Orthia_in_Sparta_on_15_May_2019.jpg/250px-The_remains_of_the_Temple_of_Artemis_Orthia_in_Sparta_on_15_May_2019.jpg
+    width: 6000
+    height: 4000
+    caption: Ruins of the Temple of Artemis Orthia
+  - file: The_last_remaining_section_of_wall_thats_surrounded_ancient_Sparta.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_last_remaining_section_of_wall_thats_surrounded_ancient_Sparta.jpg/250px-The_last_remaining_section_of_wall_thats_surrounded_ancient_Sparta.jpg
+    width: 3648
+    height: 2432
+    caption: Remaining section of wall that surrounded ancient Sparta
+  - file: The_Menelaion_(Sanctuary_of_Menelaus_and_Helen)_in_Sparta.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Menelaion_%28Sanctuary_of_Menelaus_and_Helen%29_in_Sparta.jpg/250px-The_Menelaion_%28Sanctuary_of_Menelaus_and_Helen%29_in_Sparta.jpg
+    width: 6000
+    height: 4000
+    caption: The Menelaion
+  - file: Lycurgus.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/5/57/Lycurgus.jpg
+    width: 162
+    height: 216
+    caption: Lycurgus
+  - file: Ancient_Sparta.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ancient_Sparta.jpg/250px-Ancient_Sparta.jpg
+    width: 1483
+    height: 989
+    caption: Ancient Sparta.
+  - file: Nuremberg_chronicles_-_f_28v.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nuremberg_chronicles_-_f_28v.png/250px-Nuremberg_chronicles_-_f_28v.png
+    width: 850
+    height: 555
+    caption: Medieval depiction of Sparta from the Nuremberg Chronicle (1493)
+  - file: SpartaGreatRhetra.png
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/SpartaGreatRhetra.png/500px-SpartaGreatRhetra.png
+    width: 1420
+    height: 905
+    caption: Structure of the Spartan Constitution
+  - file: Rider_BM_B1.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rider_BM_B1.jpg/250px-Rider_BM_B1.jpg
+    width: 1680
+    height: 1680
+    caption: Name vase of the Spartan artist known as the Rider Painter (Laconian
+      black-figured kylix, c. 550–530 BC)
+  - file: Jean-Pierre_Saint-Ours_-_Gericht_über_die_Neugeborenen_Spartas_-_2358_-_Bavarian_State_Painting_Collections.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jean-Pierre_Saint-Ours_-_Gericht_%C3%BCber_die_Neugeborenen_Spartas_-_2358_-_Bavarian_State_Painting_Collections.jpg/330px-Jean-Pierre_Saint-Ours_-_Gericht_%C3%BCber_die_Neugeborenen_Spartas_-_2358_-_Bavarian_State_Painting_Collections.jpg
+    width: 972
+    height: 540
+    caption: Jean-Pierre Saint-Ours, The Selection of Children in Sparta, 1785. A
+      Neoclassical imaging of what Plutarch describes.
+  - file: Spartan_swordman.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Spartan_swordman.jpg/250px-Spartan_swordman.jpg
+    width: 479
+    height: 817
+    caption: Bronze appliqué of Spartan manufacture, possibly depicting Orestes,
+      550–525 BC (Getty Villa)
+  - file: Helmed_Hoplite_Sparta.JPG
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Helmed_Hoplite_Sparta.JPG/250px-Helmed_Hoplite_Sparta.JPG
+    width: 590
+    height: 856
+    caption: The so-called Leonidas sculpture (5th century BC), Archaeological
+      Museum of Sparta, Greece
+  - file: Leónidas_en_las_Termópilas,_por_Jacques-Louis_David.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Le%C3%B3nidas_en_las_Term%C3%B3pilas%2C_por_Jacques-Louis_David.jpg/250px-Le%C3%B3nidas_en_las_Term%C3%B3pilas%2C_por_Jacques-Louis_David.jpg
+    width: 4892
+    height: 3626
+    caption: Leonidas at Thermopylae, 1814 painting by Jacques-Louis David
+  - file: Young_Spartans_Exercising_National_Gallery_NG3860.jpg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Young_Spartans_Exercising_National_Gallery_NG3860.jpg/250px-Young_Spartans_Exercising_National_Gallery_NG3860.jpg
+    width: 6000
+    height: 4250
+    caption: Young Spartans Exercising by Edgar Degas (1834–1917)
+wikidata:
+  id: Q5690
+  label: Sparta
+  description: city and city-state in ancient Greece
+  claims:
+    commons-category: Sparta
+    coordinate-location:
+      - lat: 37.081944444444
+        lon: 22.423611111111
+      - lat: 37.073678
+        lon: 22.430937
+    topic-s-main-category: Category:Sparta
+    image: https://commons.wikimedia.org/wiki/Special:FilePath/Sparta.jpg
+    locator-map-image:
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Sparta_territory.jpg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/Sparta_Territory.svg
+      - https://commons.wikimedia.org/wiki/Special:FilePath/TerritorioEspartano.svg
+    basic-form-of-government:
+      - oligarchy
+      - republic
+    religion-or-worldview: Ancient Greek religion
+    legislative-body:
+      - Gerousia
+      - Ecclesia
+    dissolved-abolished-or-demolished: 192 BC
+    country:
+      value: Greece
+      from: 1821-03-25
+    located-in-the-administrative-territorial-entity:
+      value: Sparta Municipality
+      from: "1832"
+    instance-of:
+      - ancient city
+      - polis
+      - Ancient Greek archaeological site
+    described-by-source:
+      - Armenian Soviet Encyclopedia
+      - Brockhaus and Efron Encyclopedic Dictionary
+      - Small Brockhaus and Efron Encyclopedic Dictionary
+      - Bible Encyclopedia of Archimandrite Nicephorus
+      - Russian translation of Lübker's Antiquity Lexicon
+      - The Nuttall Encyclopædia
+      - Encyclopædia Britannica 11th edition
+      - Meyers Konversations-Lexikon, 4th edition (1885–1890)
+      - The New Student's Reference Work
+    category-for-people-who-died-here: Q9220038
+    category-for-people-born-here: Q9227477
+    category-of-associated-people: Category:Ancient Spartans
+    official-language: Ancient Greek
+    continent: Europe
+    language-used: Ancient Greek
+    area: 1.182 square kilometre
+    significant-event:
+      - Siege of Sparta
+      - Battle of Thermopylae
+    inception: 900s BC
+    on-focus-list-of-wikimedia-project:
+      value: Wikipedia:Vital articles/Level/4
+      when: 2022-10-31
+    native-label: Λακεδαίμων
+    demonym: Σπαρτιάτης
+    different-from: Esparta
+    has-part-s:
+      - Sanctuary of Ammon  in Sparta
+      - Sanctuary of Ares Theritas on Sparta-Therapne road
+      - Sanctuary of Zeus Plousios on Sparta-Therapne road
+      - Sanctuary of Achilles on road out of Sparta
+      - Sanctuary of Mysian Artemis on Sparta-Arcadia road
+      - Issorion Artemis shrine (Sparta)
+    capital-of: Lacedaemon
+    partially-coincident-with: Lacedaemon
+    member-of: Peloponnesian League
+categories:
+  - Diarchies
+  - Former populated places in Greece
+  - Greek city-states
+  - Hellenistic states
+  - Places in Greek mythology
+  - Populated places in Laconia
+  - Sparta
+  - States and territories disestablished in the 2nd century BC
+  - States and territories established in the 11th century BC
+langlinks:
+  af: Sparta
+  gsw: Sparta
+  ar: إسبرطة (اليونان)
+  arz: سپارتا
+  ast: Esparta
+  az: Sparta
+  sgs: Sparta
+  be: Спарта
+  be-tarask: Спарта
+  bg: Древна Спарта
+  bn: স্পার্টা
+  br: Sparta (kêr)
+  bs: Sparta
+  ca: Esparta
+  ceb: Spárti
+  cs: Sparta
+  cv: Спарта (патшалӑх)
+  cy: Sparta
+  da: Sparta
+  de: Sparta
+  dtp: Sparta
+  el: Αρχαία Σπάρτη
+  eo: Sparto
+  es: Esparta
+  et: Sparta
+  eu: Esparta
+  ext: Esparta
+  fa: اسپارت
+  fi: Sparta
+  fr: Sparte
+  fy: Sparta
+  ga: Sparta
+  gl: Esparta
+  he: ספרטה
+  hi: स्पार्टा
+  hr: Sparta
+  hu: Spárta
+  hy: Սպարտա
+  ia: Sparta
+  id: Sparta
+  io: Sparta
+  is: Sparta
+  it: Sparta
+  ja: スパルタ
+  jv: Sparta
+  ka: სპარტა
+  kk: Спарта
+  kn: ಸ್ಪಾರ್ಟಾ
+  ko: 스파르타
+  ku: Sparta
+  la: Lacedaemon
+  lb: Sparta
+  lt: Sparta
+  lv: Sparta
+  mk: Спарта
+  ml: സ്പാർട്ട
+  mn: Спарта
+  ms: Sparta
+  my: စပါတာ
+  mzn: اسپارت
+  nds: Sparta (Antike)
+  ne: स्पार्टा
+  new: स्पार्ता
+  nl: Sparta (Griekenland)
+  nn: Spárti
+  nb: Sparta
+  oc: Esparta
+  pa: ਸਪਾਰਟਾ
+  pl: Sparta
+  pnb: سپارٹا
+  ps: سپارتا
+  pt: Esparta
+  ro: Sparta
+  roa-tara: Sparta
+  ru: Спарта
+  scn: Sparta
+  sco: Sparta
+  sh: Sparta
+  si: ස්පාර්ටාව
+  simple: Sparta
+  sk: Sparta (starovek)
+  sl: Antična Šparta
+  sq: Sparta
+  sr: Спарта
+  sv: Sparta
+  ta: எசுபார்த்தா
+  th: สปาร์ตา
+  tk: Sparta
+  tl: Isparta
+  tr: Sparta
+  uk: Спарта
+  ur: سپارٹا
+  uz: Sparta (davlat)
+  vec: Sparta
+  vi: Sparta
+  war: Sparta
+  wuu: 斯巴达
+  zh: 斯巴达
+  lzh: 古斯巴達
+  nan: Sparta
+  yue: 古斯巴達
+link-titles:
+  1-maccabees: 1 Maccabees
+  464-bc-sparta-earthquake: 464 BC Sparta earthquake
+  abraham: Abraham
+  achaean-league: Achaean League
+  achaean-war: Achaean War
+  achaemenid-empire: Achaemenid empire
+  acropolis: Acropolis
+  administrative-centre: Administrative centre
+  adolf-hitler: Adolf Hitler
+  agesilaus-ii: Agesilaus II
+  agis-i: Agis I
+  agis-ii: Agis II
+  agis-iii: Agis III
+  agis-iv: Agis IV
+  agoge: Agoge
+  alaric-i: Alaric I
+  alexander-the-great: Alexander the Great
+  american-school-of-classical-studies-at-athens: American School of Classical Studies at Athens
+  amyclae: Amyclae
+  anatolia: Anatolia
+  ancient-athens: Ancient Athens
+  ancient-corinth: Ancient Corinth
+  ancient-greece: Ancient Greece
+  ancient-greek: Ancient Greek
+  ancient-greek-language: Ancient Greek language
+  antigonus-doson: Antigonus Doson
+  antipater: Antipater
+  arcadia-ancient-region: Arcadia (ancient region)
+  arcadia-regional-unit: Arcadia (regional unit)
+  archaeological-museum-of-sparta: Archaeological Museum of Sparta
+  archaeological-excavation: Archaeological excavation
+  archaeology: Archaeology
+  archidamus-ii: Archidamus II
+  archidamus-iii: Archidamus III
+  areus-i: Areus I
+  argive: Argive
+  argos-peloponnese: Argos, Peloponnese
+  aristotle: Aristotle
+  aspis: Aspis
+  athena: Athena
+  athenian-empire: Athenian Empire
+  athens: Athens
+  attica: Attica
+  back-formation: Back-formation
+  battle-of-aegospotami: Battle of Aegospotami
+  battle-of-cnidus: Battle of Cnidus
+  battle-of-corinth-146-bc: Battle of Corinth (146 BC)
+  battle-of-leuctra: Battle of Leuctra
+  battle-of-megalopolis: Battle of Megalopolis
+  battle-of-plataea: Battle of Plataea
+  battle-of-sellasia: Battle of Sellasia
+  battle-of-thermopylae: Battle of Thermopylae
+  battle-of-thermopylae-in-popular-culture: Battle of Thermopylae in popular culture
+  battle-of-the-granicus: Battle of the Granicus
+  bibliotheca-pseudo-apollodorus: Bibliotheca (Pseudo-Apollodorus)
+  black-figure: Black-figure
+  brasidas: Brasidas
+  british-school-at-athens: British School at Athens
+  bronze: Bronze
+  bronze-age: Bronze Age
+  byzantine: Byzantine
+  caracalla: Caracalla
+  charites: Charites
+  cheirisophus-general: Cheirisophus (general)
+  chilon-of-sparta: Chilon of Sparta
+  chionis-of-sparta: Chionis of Sparta
+  chronicon-eusebius: Chronicon (Eusebius)
+  city-wall: City wall
+  classical-athens: Classical Athens
+  classical-antiquity: Classical antiquity
+  clearchus-of-sparta: Clearchus of Sparta
+  cleombrotus-i: Cleombrotus I
+  cleomenes-i: Cleomenes I
+  cleomenes-iii: Cleomenes III
+  cleonymus-of-sparta: Cleonymus of Sparta
+  cleta: Cleta
+  cohort-military-unit: Cohort (military unit)
+  conon: Conon
+  corinthian-war: Corinthian War
+  crete: Crete
+  crypteia: Crypteia
+  cynisca: Cynisca
+  declaration-of-war: Declaration of war
+  defensive-wall: Defensive wall
+  demaratus: Demaratus
+  denudation: Denudation
+  dercylidas: Dercylidas
+  deutero-canonical: Deutero-canonical
+  diadochi-wars: Diadochi Wars
+  diarchy: Diarchy
+  diet-of-ancient-greece: Diet of Ancient Greece
+  diodorus-siculus: Diodorus Siculus
+  diphridas: Diphridas
+  discourse-on-the-arts-and-sciences: Discourse on the Arts and Sciences
+  dorians: Dorians
+  doric-greek: Doric Greek
+  earthquake: Earthquake
+  ecclesia-sparta: Ecclesia (Sparta)
+  edgar-degas: Edgar Degas
+  elder-administrative-title: Elder (administrative title)
+  epaminondas: Epaminondas
+  ephors: Ephors
+  epikleroi: Epikleroi
+  epikleros: Epikleros
+  epitadeus: Epitadeus
+  ethnography: Ethnography
+  etymological-dictionary: Etymological dictionary
+  eugenics: Eugenics
+  eurotas-mythology: Eurotas (mythology)
+  eurotas-river: Eurotas River
+  eurydice-of-argos: Eurydice of Argos
+  eusebius-of-caesarea: Eusebius of Caesarea
+  evil-eye: Evil eye
+  evrotas-river: Evrotas River
+  evrotas-valley: Evrotas Valley
+  first-book-of-maccabees: First Book of Maccabees
+  first-macedonian-war: First Macedonian War
+  first-peloponnesian-war: First Peloponnesian War
+  fortification: Fortification
+  françois-ollieractioneditredlink1: François Ollier?action=edit&redlink=1
+  free-city-classical-antiquity: Free city (classical antiquity)
+  geographic-coordinate-system: Geographic coordinate system
+  geronthrae: Geronthrae
+  gerousia: Gerousia
+  getty-villa: Getty Villa
+  glossary-of-archaeology: Glossary of archaeology
+  gorgo-queen-of-sparta: Gorgo, Queen of Sparta
+  great-rhetra: Great Rhetra
+  greave: Greave
+  greco-persian-war: Greco-Persian War
+  greece: Greece
+  greece-in-the-roman-era: Greece in the Roman era
+  greek-mythology: Greek mythology
+  gylippus: Gylippus
+  gymnopaedia: Gymnopaedia
+  gytheio: Gytheio
+  hegemony: Hegemony
+  helen-of-troy: Helen of Troy
+  hellenistic-period: Hellenistic period
+  helot: Helot
+  helot-revolt: Helot revolt
+  helots: Helots
+  heracles: Heracles
+  heraclids: Heraclids
+  herodian: Herodian
+  herodotus: Herodotus
+  heroon: Heroon
+  hesychius-of-alexandria: Hesychius of Alexandria
+  high-priest-of-israel: High Priest of Israel
+  history-of-sparta: History of Sparta
+  homer: Homer
+  hoplite: Hoplite
+  invasion: Invasion
+  ionia: Ionia
+  isidore-of-seville: Isidore of Seville
+  isocrates: Isocrates
+  jacques-louis-david: Jacques-Louis David
+  jean-jacques-rousseau: Jean-Jacques Rousseau
+  jean-pierre-saint-ours: Jean-Pierre Saint-Ours
+  jews: Jews
+  john-aylmer-english-constitutionalist: John Aylmer (English constitutionalist)
+  jonathan-apphus: Jonathan Apphus
+  josephus: Josephus
+  kantharos: Kantharos
+  karl-otfried-müller: Karl Otfried Müller
+  kibbutz: Kibbutz
+  king-amyclas-of-sparta: King Amyclas of Sparta
+  krypteia: Krypteia
+  kylix-cup: Kylix (cup)
+  lacedaemon-mythology: Lacedaemon (mythology)
+  laconia: Laconia
+  laconian-gulf: Laconian Gulf
+  laconic-phrase: Laconic phrase
+  laconophilia: Laconophilia
+  lakonia: Lakonia
+  land-reform-in-sparta: Land reform in Sparta
+  last-stand: Last stand
+  latin: Latin
+  league-of-corinth: League of Corinth
+  leonidas: Leonidas
+  leonidas-sculpture: Leonidas (sculpture)
+  leonidas-i: Leonidas I
+  leonidas-at-thermopylae: Leonidas at Thermopylae
+  lexicon: Lexicon
+  linear-b: Linear B
+  list-of-kings-of-sparta: List of Kings of Sparta
+  lochos: Lochos
+  lucius-mummius-achaicus: Lucius Mummius Achaicus
+  lycurgus: Lycurgus
+  lycurgus-king-of-sparta: Lycurgus (king of Sparta)
+  lycurgus-of-sparta: Lycurgus of Sparta
+  lysander: Lysander
+  macedon: Macedon
+  macedonian-phalanx: Macedonian phalanx
+  machiavelli: Machiavelli
+  maniots: Maniots
+  megalopolis-greece: Megalopolis, Greece
+  menelaion: Menelaion
+  menelaus: Menelaus
+  mess: Mess
+  messenia-ancient-region: Messenia (ancient region)
+  middle-ages: Middle Ages
+  military-education-and-training: Military education and training
+  monemvasia: Monemvasia
+  moralia: Moralia
+  mosaic: Mosaic
+  mothax: Mothax
+  mycenaean-greece: Mycenaean Greece
+  mycenaean-greek: Mycenaean Greek
+  myron-of-priene: Myron of Priene
+  mystras: Mystras
+  nsdap: NSDAP
+  nabis-of-sparta: Nabis of Sparta
+  name-vase: Name vase
+  neoclassicism: Neoclassicism
+  neolithic: Neolithic
+  nichoria: Nichoria
+  nicomedes-of-sparta: Nicomedes of Sparta
+  nuremberg-chronicle: Nuremberg Chronicle
+  oligarchy: Oligarchy
+  onias-i: Onias I
+  operation-barbarossa: Operation Barbarossa
+  orestes: Orestes
+  orosius: Orosius
+  otto-of-greece: Otto of Greece
+  paganism: Paganism
+  palmach: Palmach
+  parnon: Parnon
+  parthian-empire: Parthian Empire
+  parthian-war-of-caracalla: Parthian war of Caracalla
+  pausanias-geographer: Pausanias (geographer)
+  pausanias-the-regent: Pausanias the Regent
+  peace-of-antalcidas: Peace of Antalcidas
+  pederasty-in-ancient-greece: Pederasty in ancient Greece
+  peloponnese: Peloponnese
+  peloponnesian-league: Peloponnesian League
+  peloponnesian-war: Peloponnesian War
+  peplos: Peplos
+  perioeci: Perioeci
+  perseids-mythology: Perseids (mythology)
+  persia: Persia
+  phaenna: Phaenna
+  phalanx: Phalanx
+  phalanx-formation: Phalanx formation
+  philip-ii-of-macedon: Philip II of Macedon
+  pileus-hat: Pileus (hat)
+  plutarch: Plutarch
+  polis: Polis
+  polyandry: Polyandry
+  polygamy: Polygamy
+  pottery: Pottery
+  prefectures-of-greece: Prefectures of Greece
+  provinces-of-greece: Provinces of Greece
+  ptolemaic-kingdom: Ptolemaic kingdom
+  pyrrhus-of-epirus: Pyrrhus of Epirus
+  pythia: Pythia
+  renaissance: Renaissance
+  retaining-wall: Retaining wall
+  rider-painter: Rider Painter
+  roman-republic: Roman Republic
+  roman-emperor: Roman emperor
+  sanctuary-of-artemis-orthia: Sanctuary of Artemis Orthia
+  second-messenian-war: Second Messenian War
+  second-persian-invasion-of-greece: Second Persian invasion of Greece
+  serf: Serf
+  serfs: Serfs
+  social-mobility: Social mobility
+  social-system: Social system
+  sparta-mythology: Sparta (mythology)
+  sparta-in-popular-culture: Sparta in popular culture
+  sparta-laconia: Sparta, Laconia
+  spartan-constitution: Spartan Constitution
+  spartan-army: Spartan army
+  spartan-hegemony: Spartan hegemony
+  spartiate: Spartiate
+  spartiates: Spartiates
+  syssitia: Syssitia
+  taygete: Taygete
+  taygetus: Taygetus
+  teenage-pregnancy: Teenage pregnancy
+  ten-thousand: Ten Thousand
+  thalamae-laconia: Thalamae (Laconia)
+  theatre-of-ancient-greece: Theatre of ancient Greece
+  theban-hegemony: Theban hegemony
+  thebes-greece: Thebes, Greece
+  therapne: Therapne
+  therapnes: Therapnes
+  thespiae: Thespiae
+  thibron-harmost: Thibron (harmost)
+  thucydides: Thucydides
+  trophimoi: Trophimoi
+  tsakonia: Tsakonia
+  tsakonian-language: Tsakonian language
+  tudor-period: Tudor period
+  tyrtaeus: Tyrtaeus
+  visigoths: Visigoths
+  votive-offering: Votive offering
+  war-against-nabis: War against Nabis
+  western-culture: Western culture
+  wet-nurse: Wet nurse
+  william-martin-leake: William Martin Leake
+  women-in-classical-athens: Women in Classical Athens
+  women-in-ancient-sparta: Women in ancient Sparta
+  womens-rights: Women's rights
+  xanthippus-of-carthage: Xanthippus of Carthage
+  xenophon: Xenophon
+  xerxes-i: Xerxes I
+  yitzhak-tabenkin: Yitzhak Tabenkin
+  young-spartans-exercising: Young Spartans Exercising
+  zeus: Zeus
+sections:
+  - level: 2
+    id: names
+    title: Names
+  - level: 2
+    id: geography
+    title: Geography
+  - level: 2
+    id: mythology
+    title: Mythology
+  - level: 2
+    id: archaeology-of-the-classical-period
+    title: Archaeology of the classical period
+  - level: 3
+    id: menelaion
+    title: Menelaion
+  - level: 2
+    id: history
+    title: History
+  - level: 3
+    id: prehistory-and-dark-age
+    title: Prehistory and "dark age"
+  - level: 3
+    id: archaic-sparta
+    title: Archaic Sparta
+  - level: 3
+    id: classical-sparta
+    title: Classical Sparta
+  - level: 4
+    id: greco-persian-wars
+    title: Greco-Persian Wars
+  - level: 4
+    id: peloponnesian-war-and-spartan-hegemony
+    title: Peloponnesian War and Spartan hegemony
+  - level: 4
+    id: end-of-spartan-hegemony
+    title: End of Spartan hegemony
+  - level: 4
+    id: sparta-and-the-league-of-corinth
+    title: Sparta and the League of Corinth
+  - level: 3
+    id: hellenistic-sparta
+    title: Hellenistic Sparta
+  - level: 3
+    id: roman-sparta
+    title: Roman Sparta
+  - level: 3
+    id: post-classical-and-modern-sparta
+    title: Post-classical and modern Sparta
+  - level: 2
+    id: structure-of-classical-spartan-society
+    title: Structure of Classical Spartan society
+  - level: 3
+    id: constitution
+    title: Constitution
+  - level: 3
+    id: citizenship
+    title: Citizenship
+  - level: 3
+    id: non-citizens
+    title: Non citizens
+  - level: 4
+    id: helots
+    title: Helots
+  - level: 4
+    id: perioikoi
+    title: Perioikoi
+  - level: 3
+    id: economy
+    title: Economy
+  - level: 2
+    id: life-in-classical-sparta
+    title: Life in Classical Sparta
+  - level: 3
+    id: birth-and-death
+    title: Birth and death
+  - level: 3
+    id: education
+    title: Education
+  - level: 3
+    id: military-life
+    title: Military life
+  - level: 3
+    id: agriculture-food-and-diet
+    title: Agriculture, food, and diet
+  - level: 3
+    id: marriage
+    title: Marriage
+  - level: 2
+    id: role-of-women
+    title: Role of women
+  - level: 3
+    id: political-social-and-economic-equality
+    title: Political, social, and economic equality
+  - level: 3
+    id: historic-women
+    title: Historic women
+  - level: 2
+    id: laconophilia
+    title: Laconophilia
+  - level: 2
+    id: notable-ancient-spartans
+    title: Notable ancient Spartans
+source:
+  site: Wikipedia
+  lang: en
+  title: Sparta
+  url: https://en.wikipedia.org/wiki/Sparta
+  page-id: 36487
+  revision: "1373325524"
+  modified: 2026-09-05T09:13:11Z
+  retrieved: 2026-09-09
+  license: CC BY-SA 4.0
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  attribution: This document contains text from the Wikipedia article "Sparta"
+    (revision 1373325524), by Wikipedia contributors, used under CC BY-SA 4.0.
++++
+= Sparta
+
+!!Sparta!![[ ^a ]] was a prominent [[ ancient Greek | ancient-greece ]]
+[[ polis ]] in [[ Laconia ]]. In [[ classical antiquity ]], the state was
+known as !!Lacedaemon!!
+([[ Λακεδαίμων | https://en.wiktionary.org/wiki/Λακεδαίμων ]],
+//Lakedaímōn//), while //Sparta// referred to its capital, a group of villages
+in the [[ valley | evrotas-valley ]] of the [[ Evrotas River ]] in
+[[ Laconia ]], in southeastern [[ Peloponnese ]].[[ ^1 ]] During the 7th
+century BC, it rose to become the most prominent land military power in the
+Greek world, a status it retained until its defeat at
+[[ Leuctra | battle-of-leuctra ]] in 371 BC.
+
+In the 6th century BC Sparta founded the [[ Peloponnesian League ]],
+establishing its [[ hegemony ]] over most of Peloponnese. During the
+[[ second Persian invasion of Greece ]], Sparta was recognised as the leading
+land force of the Hellenic alliance that also included the rising maritime
+power of [[ Athens | classical-athens ]].[[ ^2 ]] The [[ Spartan army ]] was
+crucial in the battles of [[ Thermopylae | battle-of-thermopylae ]] and
+[[ Plataea | battle-of-plataea ]] under the leadership of [[ Leonidas ]] and
+[[ Pausanias | pausanias-the-regent ]] respectively.
+Sparta led the
+Peloponnesian League against the [[ Athenian Empire ]] during the
+[[ Peloponnesian War ]] (431–404 BC),[[ ^3 ]] from which it emerged victorious
+after [[ Lysander ]]'s victory at the naval [[ Battle of Aegospotami ]]. A
+short period of [[ Spartan hegemony ]] followed, when Spartan armies under
+[[ Agesilaus II ]] led a series of campaigns in western
+[[ Anatolian | anatolia ]] satrapies of the [[ Achaemenid empire ]] to protect
+the [[ Ionian | ionia ]] cities.
+However, [[ Epaminondas ]]' victory over
+Sparta at Leuctra in 371 BC started the Theban hegemony while
+[[ Messenia | messenia-ancient-region ]] was freed from Spartan rule; the loss
+of the slave labour this region provided sent the city into terminal decline
+as a military power.
+
+Nonetheless, Sparta tried to reclaim its hegemony in Peloponnese several times
+until it was annexed by the [[ Achaean League ]] in early 2nd century BC.
+The
+city recovered some autonomy after the
+[[ Roman conquest of Greece | greece-in-the-roman-era ]] in
+[[ 146 BC | battle-of-corinth-146-bc ]] and became a tourist destination
+during the Roman era, restoring some measure of prosperity. However, Sparta
+was sacked in 396 AD by the [[ Visigothic | visigoths ]] king
+[[ Alaric | alaric-i ]], and underwent a long period of decline into the
+[[ medieval period | middle-ages ]], when much of its population relocated to
+the nearby [[ Mystras ]]. [[ Modern Sparta | sparta-laconia ]] is a provincial
+town and the [[ seat | administrative-centre ]] of the [[ Laconia ]] regional
+administration.
+
+Sparta was unique in ancient Greece for its [[ social system ]] and
+[[ constitution | spartan-constitution ]], which were supposedly introduced by
+the semi-mythical lawgiver [[ Lycurgus | lycurgus-of-sparta ]]. Spartan
+society was exceptionally militarised, focusing the entire attention of the
+Spartiate class on [[ military training | military-education-and-training ]]
+and physical development to the point of legally barring them from productive
+economic activity. The inhabitants of Sparta were rigidly stratified into
+[[ Spartiates | spartiate ]] (citizens with full rights),
+[[ mothakes | mothax ]] and [[ perioikoi | perioeci ]] (free non-citizens),
+and [[ helots ]] (state-owned enslaved non-Spartan locals), with helots making
+up the vast majority of the population; [[ social mobility ]] was nearly
+nonexistent. Spartiate men underwent the harsh //[[ agoge ]]// training
+regimen, and Spartan [[ phalanx | phalanx-formation ]] units were widely
+considered to be among the best in battle, though this was as much a matter of
+propaganda as battlefield prowess.[[ ^4 ]] Free
+[[ Spartiate women | women-in-ancient-sparta ]] enjoyed somewhat greater
+[[ legal rights | womens-rights ]] than elsewhere in
+[[ classical antiquity ]], though helots suffered exceptionally harsh
+treatment at the hands of the Spartiates (particularly the [[ Crypteia ]]),
+causing [[ repeated revolts | helot-revolt ]]. Sparta was a subject of
+fascination in its own day, as well as in later [[ Western culture ]]
+following the revival of classical learning. The admiration of Sparta is known
+as [[ Laconophilia ]].
+
+== Names
+
+The [[ ancient Greeks | ancient-greece ]] used one of three words to refer to
+the Spartan city-state and its location. First, "Sparta" refers primarily to
+the main cluster of settlements in the valley of the
+[[ Eurotas River ]].[[ ^5 ]] The second word, "Lacedaemon"
+(Λακεδαίμων),[[ ^6 ]] was often used as an adjective and is the name
+referenced in the works of [[ Homer ]] and the historians [[ Herodotus ]] and
+[[ Thucydides ]]. The third term, "Laconice" (Λακωνική), referred to the
+immediate area around the town of Sparta, the plateau east of the Taygetos
+mountains,[[ ^7 ]] and sometimes to all the regions under direct Spartan
+control, including [[ Messenia | messenia-ancient-region ]].
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Eurotas.JPG/250px-Eurotas.JPG" height="188" width="250"
+
+  <figcaption>Eurotas River
+
+The earliest attested term referring to Lacedaemon is the
+[[ Mycenaean Greek ]] 𐀨𐀐𐀅𐀖𐀛𐀍, //ra-ke-da-mi-ni-jo//, "Lakedaimonian",
+written in [[ Linear B ]] syllabic script,[[ ^8 ]][[ ^1 ]] the equivalent of
+the later [[ Greek | ancient-greek ]] Λακεδαιμόνιος, //Lakedaimonios//
+([[ Latin ]]: //Lacedaemonius//).[[ ^14 ]][[ ^15 ]]
+
+[[ Herodotus ]] seems to use "Lacedaemon" for the
+[[ Mycenaean Greek | mycenaean-greece ]] citadel at [[ Therapne ]], in
+contrast to the lower town of Sparta. This term could be used synonymously
+with Sparta, but typically it denoted the region in which the city was
+located.[[ ^16 ]] In Homer it is typically combined with epithets of the
+countryside: wide, lovely, shining and most often hollow and broken (full of
+ravines),[[ ^17 ]] suggesting the [[ Eurotas Valley | eurotas-river ]].
+"Sparta" on the other hand is described as "the country of lovely women", an
+epithet for people.
+
+The residents of Sparta were often called Lacedaemonians. This epithet
+utilised the plural of the adjective Lacedaemonius (Greek: Λακεδαιμόνιοι;
+Latin: //Lacedaemonii//, but also //Lacedaemones//). The ancients sometimes
+used a [[ back-formation ]], referring to the land of Lacedaemon as
+//Lacedaemonian country//. As most words for "country" were feminine, the
+adjective was in the feminine: //Lacedaemonia// (Λακεδαιμονία,
+//Lakedaimonia//). Eventually, the adjective came to be used alone.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Menelaion.jpg/330px-Menelaion.jpg" height="206" width="310"
+
+  <figcaption>Hollow Lacedaemon. Site of the Menelaion, the ancient shrine to Helen and Menelaus constructed in the Bronze Age city that stood on the hill of [[ Therapne | therapnes ]] on the left bank of the [[ Eurotas River ]] overlooking the future site of Dorian Sparta. Across the valley the successive ridges of Mount [[ Taygetus ]] are in evidence.
+
+"Lacedaemonia" was not in general use during the classical period and before.
+It does occur in Greek as an equivalent of Laconia and Messenia during the
+Roman and early Byzantine periods, mostly in [[ ethnographers | ethnography ]]
+and [[ lexica | lexicon ]] of place names. For example,
+[[ Hesychius of Alexandria ]]'s //Lexicon// (5th century AD) defines Agiadae
+as a "place in Lacedaemonia" named after Agis.[[ ^18 ]] The actual transition
+may be captured by [[ Isidore of Seville ]]'s //Etymologiae// (7th century
+AD), an [[ etymological dictionary ]]. Isidore relied heavily on
+[[ Orosius ]]'s //Historiarum Adversum Paganos// (5th century AD) and
+[[ Eusebius of Caesarea ]]'s //[[ Chronicon | chronicon-eusebius ]]// (early
+5th century AD), as did Orosius. The latter defines Sparta to be
+//Lacedaemonia Civitas//,[[ ^19 ]] but Isidore defines Lacedaemonia as founded
+by Lacedaemon, son of Semele, which is consistent with Eusebius's
+explanation.[[ ^20 ]] There is a rare use, perhaps the earliest of
+"Lacedaemonia", in [[ Diodorus Siculus ]]'s //The Library of
+History//,[[ ^21 ]] but probably with Χώρα (//chōra//, "country") suppressed.
+
+Lakedaimona was until 2006 the name of a [[ province | provinces-of-greece ]]
+in the modern Greek [[ prefecture | prefectures-of-greece ]] of [[ Laconia ]].
+
+== Geography
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Antique_Map_of_Classical_City_of_Sparta.jpg/250px-Antique_Map_of_Classical_City_of_Sparta.jpg" height="233" width="250"
+
+  <figcaption>Antique map of classical city of Sparta (based on ancient sources and not archaeology)
+
+Sparta is located in the region of Laconia, in the south-eastern
+[[ Peloponnese ]]. Ancient Sparta was built on the banks of the
+[[ Eurotas | evrotas-river ]], the largest river of Laconia, which provided it
+with a source of fresh water. The [[ Eurotas valley | evrotas-valley ]] was a
+natural fortress, bounded to the west by [[ Mt. Taygetus | taygetus ]] (2,407
+m) and to the east by [[ Mt. Parnon | parnon ]] (1,935 m). To the north,
+Laconia is separated from [[ Arcadia | arcadia-regional-unit ]] by hilly
+uplands reaching 1000 m in altitude. These natural defences worked to Sparta's
+advantage and protected it from sacking and [[ invasion ]]. Though landlocked,
+Sparta had a vassal harbour, [[ Gytheio ]], on the [[ Laconian Gulf ]].
+
+== Mythology
+
+[[ Lacedaemon | lacedaemon-mythology ]] (Greek: Λακεδαίμων) was a
+[[ mythical | greek-mythology ]] king of Laconia.[[ ^22 ]] The son of
+[[ Zeus ]] by the nymph [[ Taygete ]], he married
+[[ Sparta | sparta-mythology ]], the daughter of
+[[ Eurotas | eurotas-mythology ]], by whom he became the father of
+[[ Amyclas | king-amyclas-of-sparta ]], [[ Eurydice | eurydice-of-argos ]],
+and Asine. As king, he named his country after himself and the city after his
+wife.[[ ^22 ]] He was believed to have built the sanctuary of the
+[[ Charites ]], which stood between Sparta and [[ Amyclae ]], and to have
+given to those divinities the names of [[ Cleta ]] and [[ Phaenna ]]. A
+[[ shrine | heroon ]] was erected to him in the neighbourhood of
+[[ Therapne ]].
+
+[[ Tyrtaeus ]], an archaic era Spartan writer, is the earliest source to
+connect the origin myth of the Spartans to the lineage of the hero
+[[ Heracles ]]; later authors, such as [[ Diodorus Siculus ]], Herodotus, and
+[[ Apollodorus | bibliotheca-pseudo-apollodorus ]], also made mention of
+Spartans understanding themselves to be descendants of
+Heracles.[[ ^23 ]][[ ^24 ]][[ ^25 ]][[ ^26 ]]
+
+== Archaeology of the classical period
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ancient_sparta_theater.jpg/250px-Ancient_sparta_theater.jpg" height="165" width="250"
+
+  <figcaption>The theatre of ancient Sparta with [[ Mt. Taygetus | taygetus ]] in the background
+
+[[ Thucydides ]] wrote:
+
+<blockquote
+  Suppose the city of Sparta to be deserted, and nothing left but the temples
+  and the ground-plan, distant ages would be very unwilling to believe that the
+  power of the Lacedaemonians was at all equal to their fame. Their city is not
+  built continuously, and has no splendid temples or other edifices; it rather
+  resembles a group of villages, like the ancient towns of Hellas, and would
+  therefore make a poor show.[[ ^27 ]][[ ^28 ]]
+
+Until the early 20th century, the chief ancient buildings at Sparta were the
+[[ theatre | theatre-of-ancient-greece ]], of which, however, little showed
+above ground except portions of the [[ retaining walls | retaining-wall ]];
+the so-called Tomb of [[ Leonidas ]], a quadrangular building, perhaps a
+temple, constructed of immense blocks of stone and containing two chambers;
+the foundation of an ancient bridge over the Eurotas; the ruins of a circular
+structure; some remains of late Roman [[ fortifications | fortification ]];
+several brick buildings and [[ mosaic pavements. | mosaic ]][[ ^27 ]]
+
+The remaining archaeological wealth consisted of inscriptions, sculptures, and
+other objects collected in the local museum, founded by Stamatakis in 1872 and
+enlarged in 1907. Partial [[ excavation | archaeology ]] of the round building
+was undertaken in 1892 and 1893 by the
+[[ American School at Athens | american-school-of-classical-studies-at-athens ]].
+The structure has been since found to be a semicircular retaining wall of
+Hellenic origin that was partly restored during the Roman period.[[ ^27 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_remains_of_the_Temple_of_Artemis_Orthia_in_Sparta_on_15_May_2019.jpg/250px-The_remains_of_the_Temple_of_Artemis_Orthia_in_Sparta_on_15_May_2019.jpg" height="167" width="250"
+
+  <figcaption>Ruins of the Temple of Artemis Orthia
+
+In 1904, the [[ British School at Athens ]] began a thorough exploration of
+[[ Laconia ]], and in the following year excavations were made at
+[[ Thalamae | thalamae-laconia ]], [[ Geronthrae ]], and Angelona near
+[[ Monemvasia ]]. In 1906, excavations began in Sparta itself.[[ ^27 ]]
+
+A "small circus" (as described by [[ Leake | william-martin-leake ]]) proved
+to be a theatre-like building constructed soon after 200 AD around the altar
+and in front of the
+[[ Temple of Artemis Orthia | sanctuary-of-artemis-orthia ]]. It is believed
+that musical and gymnastic contests took place here, as well as the famous
+flogging ordeal administered to Spartan boys
+(//[[ diamastigosis | sanctuary-of-artemis-orthia#diamastigosis ]]//). The
+temple, which can be dated to the 2nd century BC, rests on the foundation of
+an older temple of the 6th century, and close beside it were found the remains
+of a yet earlier temple, dating from the 9th or even the 10th century. The
+[[ votive offerings | votive-offering ]] in clay, amber, bronze, ivory and
+lead dating from the 9th to the 4th centuries BC, which were found in great
+profusion within the precinct range, supply invaluable information about early
+Spartan art.[[ ^27 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_last_remaining_section_of_wall_thats_surrounded_ancient_Sparta.jpg/250px-The_last_remaining_section_of_wall_thats_surrounded_ancient_Sparta.jpg" height="167" width="250"
+
+  <figcaption>Remaining section of wall that surrounded ancient Sparta
+
+In 1907, the location of the sanctuary of [[ Athena ]] "of the Brazen House"
+(Χαλκίοικος, Chalkioikos) was determined to be on the [[ acropolis ]]
+immediately above the theatre. Though the actual temple is almost completely
+destroyed, the site has produced the longest extant archaic inscription in
+Laconia, numerous bronze nails and plates, and a considerable number of votive
+offerings. The [[ city wall ]], built in successive stages from the 4th to the
+2nd century, was traced for a great part of its circuit, which measured 48
+stades or nearly 10 km (6 miles) (Polyb. 1X. 21). The late Roman wall
+enclosing the acropolis, part of which probably dates from the years following
+the Gothic raid of 262 AD, was also investigated. Besides the actual buildings
+discovered, a number of points were situated and mapped in a general study of
+Spartan topography, based upon the description of
+[[ Pausanias | pausanias-geographer ]].[[ ^27 ]]
+
+In terms of domestic archaeology, little is known about Spartan houses and
+villages before the Archaic period, but the best evidence comes from
+excavations at [[ Nichoria ]] in [[ Messenia | messenia-ancient-region ]]
+where postholes have been found. These villages were open and consisted of
+small and simple houses built with stone foundations and clay walls.[[ ^29 ]]
+
+=== Menelaion
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Menelaion_%28Sanctuary_of_Menelaus_and_Helen%29_in_Sparta.jpg/250px-The_Menelaion_%28Sanctuary_of_Menelaus_and_Helen%29_in_Sparta.jpg" height="167" width="250"
+
+  <figcaption>The [[ Menelaion ]]
+
+The [[ Menelaion ]] is a shrine associated with [[ Menelaus ]], located east
+of Sparta, by the river [[ Eurotas | evrotas-river ]], on the hill
+[[ Profitis Ilias | taygetus ]]
+([[ Coordinates | geographic-coordinate-system ]]:
+[[ 37°03′57″N 22°27′13″E﻿ / ﻿37.0659°N 22.4536°E | https://geohack.toolforge.org/geohack.php?pagename=Sparta&params=37.0659_N_22.4536_E_type:landmark_region:GR_scale:500 ]]).
+Built around the early 8th century BC, the Spartans believed it had been the
+former residence of Menelaus. In 1970, the British School in Athens started
+excavations around the Menelaion in an attempt to locate Mycenaean remains in
+the area. There are remains of three Mycenaean mansions which were likely
+destroyed by [[ earthquakes | earthquake ]] or fire. The offerings dedicated
+to [[ Helen | helen-of-troy ]] and Menelaus made during the Classical period
+were also found at the site.[[ ^30 ]][[ ^31 ]]
+
+[[ Excavations | archaeological-excavation ]] made from the early 1990s to the
+present suggest that the area around the Menelaion in the southern part of the
+Eurotas valley seems to have been the centre of
+[[ Mycenaean Laconia | mycenaean-greece ]].[[ ^32 ]] The Mycenaean settlement
+was roughly triangular in shape, with its apex pointed towards the north. Its
+area was approximately equal to that of the "newer" Sparta, but
+[[ denudation ]] has wreaked havoc with its buildings and nothing is left of
+its original structures save for ruined foundations and broken
+[[ potsherds | glossary-of-archaeology ]].[[ ^27 ]]
+
+== History
+
+=== Prehistory and "dark age"
+
+The prehistory of Sparta is difficult to reconstruct because the literary
+evidence was written far later than the events it describes and is distorted
+by oral tradition.[[ ^33 ]] The earliest certain evidence of human settlement
+in the region of Sparta consists of [[ pottery ]] dating from the Middle
+[[ Neolithic ]] period, found in the vicinity of Kouphovouno some two
+kilometres (1.2 miles) south-southwest of Sparta.[[ ^34 ]]
+
+This civilisation seems to have fallen into decline by the late
+[[ Bronze Age ]], when, according to Herodotus, Macedonian tribes from the
+north (called [[ Dorians ]] by those they conquered) marched into the
+Peloponnese and, subjugating the local tribes, settled there.[[ ^33 ]] The
+Dorians seem to have set about expanding the frontiers of Spartan territory
+almost before they had established their own state.[[ ^35 ]] They fought
+against the [[ Argive ]] Dorians to the east and southeast, and also the
+[[ Arcadian | arcadia-ancient-region ]] Achaeans to the northwest. The
+evidence suggests that Sparta, relatively inaccessible because of the
+topography of the Taygetan plain, was secure from early on: it was never
+fortified.[[ ^35 ]]
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Lycurgus.jpg" height="216" width="162"
+
+  <figcaption>[[ Lycurgus | lycurgus-of-sparta ]]
+
+Nothing distinctive in the archaeology of the Eurotas River Valley identifies
+the Dorians or the Dorian Spartan state. The prehistory of the Neolithic, the
+Bronze Age and the Dark Age (the Early Iron Age) at this moment must be
+treated apart from the stream of Dorian Spartan history.
+
+The legendary period of Spartan history is believed to fall into the Dark Age.
+It treats the mythic heroes such as the [[ Heraclids ]] and the
+[[ Perseids | perseids-mythology ]], offering a view of the occupation of the
+Peloponnesus that contains both fantastic and possibly historical elements.
+The subsequent proto-historic period, combining both legend and historical
+fragments, offers the first credible history.
+
+=== Archaic Sparta
+
+Between the 8th and 7th centuries BC the Spartans experienced a period of
+lawlessness and civil strife, later attested by both Herodotus and
+Thucydides.[[ ^36 ]] As a result, they carried out a series of political and
+social reforms of their own society which they later attributed to a
+semi-mythical lawgiver, [[ Lycurgus | lycurgus-of-sparta ]].[[ ^37 ]] Several
+writers throughout antiquity, including Herodotus, [[ Xenophon ]], and
+[[ Plutarch ]] have attempted to explain Spartan exceptionalism as a result of
+the so-called Lycurgan Reforms.[[ ^38 ]][[ ^39 ]][[ ^40 ]][[ ^41 ]]
+
+In the [[ Second Messenian War ]], Sparta established itself as a local power
+in the Peloponnesus and the rest of Greece. During the following centuries,
+Sparta's reputation as a land-fighting force was unequalled.[[ ^42 ]] At its
+peak around 500 BC, Sparta had some 20,000–35,000 citizens, plus numerous
+helots and perioikoi. The likely total of 40,000–50,000 made Sparta one of the
+larger Greek city-states;[[ ^43 ]][[ ^44 ]] however, according to Thucydides,
+the population of Athens in 431 BC was 360,000–610,000, making it much
+larger.[[ ^2 ]]
+
+=== Classical Sparta
+
+==== Greco-Persian Wars
+
+In 480 BC, a small force led by King [[ Leonidas | leonidas-i ]] (about 300
+full Spartiates, 700 Thespians, and 400 Thebans, although these numbers were
+lessened by earlier casualties[[ ^46 ]]) made a legendary [[ last stand ]] at
+the [[ Battle of Thermopylae ]] against the massive Persian army, led by
+[[ Xerxes | xerxes-i ]].[[ ^47 ]] The Spartans received advance warning of the
+Persian invasion from their deposed king [[ Demaratus ]], which prompted them
+to consult the Delphic oracle. According to Herodotus, the [[ Pythia ]]
+proclaimed that either one of the kings of Sparta had to die or Sparta would
+be destroyed.[[ ^48 ]] This prophecy was fulfilled after king Leonidas died in
+the battle. The superior weaponry, strategy, and [[ bronze ]] armour of the
+Greek [[ hoplites | hoplite ]] and their [[ phalanx | phalanx-formation ]]
+fighting formation again proved their worth one year later when Sparta
+assembled its full strength and led a Greek alliance against the Persians at
+the [[ Battle of Plataea ]] in 479 BC.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ancient_Sparta.jpg/250px-Ancient_Sparta.jpg" height="167" width="250"
+
+  <figcaption>Ancient Sparta.
+
+The decisive Greek victory at Plataea put an end to the
+[[ Greco-Persian War ]] along with Persian ambitions to expand into Europe.
+Even though this war was won by a pan-Greek army, credit was given to Sparta,
+who besides providing the leading forces at Thermopylae and Plataea, had been
+the leader of the entire Greek expedition.[[ ^49 ]]
+
+==== Peloponnesian War and Spartan hegemony
+
+In 464 BC, a violent [[ earthquake | 464-bc-sparta-earthquake ]] occurred
+along the Sparta faultline destroying much of what was Sparta and many other
+city-states in ancient Greece. This earthquake is marked by scholars as one of
+the key events that led to the [[ First Peloponnesian War ]].
+
+In later Classical times, Sparta along with [[ Athens ]],
+[[ Thebes | thebes-greece ]], and [[ Persia ]] were the main powers fighting
+for supremacy in the northeastern Mediterranean. In the course of the
+[[ Peloponnesian War ]], Sparta, a traditional land power, acquired a navy
+which managed to overpower the previously dominant flotilla of Athens, ending
+the [[ Athenian Empire ]]. At the peak of its power in the early 4th century
+BC, Sparta had subdued many of the main Greek states and even invaded the
+Persian provinces in Anatolia (modern day Turkey), a period known as the
+[[ Spartan hegemony ]].
+
+During the [[ Corinthian War ]], Sparta faced a coalition of the leading Greek
+states: [[ Thebes | thebes-greece ]], [[ Athens ]],
+[[ Corinth | ancient-corinth ]], and [[ Argos | argos-peloponnese ]]. The
+alliance was initially backed by Persia, which feared further Spartan
+expansion into Asia.[[ ^50 ]] Sparta achieved a series of land victories, but
+many of her ships were destroyed at the [[ Battle of Cnidus ]] by a
+Greek-Phoenician mercenary fleet that Persia had provided to Athens. The event
+severely damaged Sparta's naval power but did not end its aspirations of
+invading further into Persia, until [[ Conon ]] the Athenian ravaged the
+Spartan coastline and provoked the old Spartan fear of a [[ helot ]]
+revolt.[[ ^51 ]]
+
+After a few more years of fighting, in 387 BC the [[ Peace of Antalcidas ]]
+was established, according to which all Greek cities of [[ Ionia ]] would
+return to Persian control, and Persia's Asian border would be free of the
+Spartan threat.[[ ^51 ]] The effects of the war were to reaffirm Persia's
+ability to interfere successfully in Greek politics and to affirm Sparta's
+weakened hegemonic position in the Greek political system.[[ ^52 ]]
+
+==== End of Spartan hegemony
+
+Sparta suffered a severe military defeat to [[ Epaminondas ]] of
+[[ Thebes | theban-hegemony ]] at the [[ Battle of Leuctra ]].[[ ^53 ]]
+
+As Spartan citizenship was inherited by blood, Sparta increasingly faced a
+helot population that vastly outnumbered its citizens.[[ ^54 ]] The alarming
+decline of Spartan citizens was commented on by [[ Aristotle ]].
+
+Sparta never fully recovered from its losses at Leuctra in 371 BC and the
+subsequent [[ helot revolts | helots#helot-revolts ]].
+
+==== Sparta and the League of Corinth
+
+In 338 BC, [[ Philip II | philip-ii-of-macedon ]] invaded and devastated much
+of Laconia, turning the Spartans out, though he did not seize Sparta
+itself.[[ ^55 ]] Even during its decline, Sparta never forgot its claim to be
+the "defender of Hellenism" and its [[ Laconic wit | laconic-phrase ]]. An
+anecdote has it that when Philip II sent a message to Sparta saying "If I
+invade Laconia, I shall turn you out.",[[ ^56 ]] the Spartans responded with
+the single, terse reply: αἴκα, "if".[[ ^57 ]][[ ^58 ]][[ ^59 ]] When Philip
+created the [[ League of Corinth ]] on the pretext of unifying Greece against
+Persia, the Spartans chose not to join, since they had no interest in joining
+a pan-Greek expedition unless it were under Spartan leadership. Thus, upon
+defeating the Persians at the [[ Battle of the Granicus ]],
+[[ Alexander the Great ]] sent to Athens 300 suits of Persian armour with the
+following inscription: "Alexander, son of Philip, and all the Greeks except
+the Spartans, give these offerings taken from the foreigners who live in
+Asia".
+
+The Spartan king [[ Agis III ]] sent a force to [[ Crete ]] in 333 BC to
+secure the island for the Persian interest.[[ ^60 ]][[ ^61 ]] Agis next took
+action against [[ Macedon ]] by laying siege to
+[[ Megalopolis | megalopolis-greece ]] in 331 BC, while Alexander campaigned
+against the Persians in Asia as leader of the
+[[ Hellenic league | league-of-corinth ]]. However, a large Macedonian army
+under general [[ Antipater ]] marched to its relief and defeated the
+Spartan-led force in a [[ pitched battle | battle-of-megalopolis ]].[[ ^62 ]]
+More than 5,300 of the Spartans and their allies were killed in battle, and
+3,500 of Antipater's troops.[[ ^63 ]] Agis, now wounded and unable to stand,
+ordered his men to leave him behind to face the advancing Macedonian army so
+that he could buy them time to retreat. On his knees, the Spartan king slew
+several enemy soldiers before being finally killed by a javelin.[[ ^64 ]]
+Alexander was merciful, and he only forced the Spartans to join the League of
+Corinth, which they had previously refused.[[ ^65 ]]
+
+=== Hellenistic Sparta
+
+After the [[ Diadochi Wars ]], Sparta continued to be one of the Peloponesian
+powers until its eventual loss of independence in 192 BC. In 272 BC
+[[ Pyrrhus of Epirus ]] failed to besiege Sparta. [[ Cleomenes III ]] allied
+with the [[ Ptolemaic kingdom ]] and tried to make Sparta the dominant power
+of the Peloponnese against the Achaean League with initial successes but he
+was finally defeated in 222 BC at the [[ battle of Sellasia ]] from a
+Macedonian-Achaean alliance under [[ Antigonus Doson ]]. During the
+[[ First Macedonian War ]], Sparta was an ally of the [[ Roman Republic ]].
+Spartan political independence was put to an end when it was eventually forced
+into the [[ Achaean League ]] by Philopoemen, after its defeat in the decisive
+[[ Laconian War | war-against-nabis ]] by a coalition of other Greek
+city-states and Rome, and the resultant overthrow of its final king
+[[ Nabis | nabis-of-sparta ]], in 192 BC. Sparta played no active part in the
+[[ Achaean War ]] in 146 BC when the Achaean League was defeated by the Roman
+general [[ Lucius Mummius | lucius-mummius-achaicus ]].
+
+=== Roman Sparta
+
+Subsequently, Sparta became a [[ free city | free-city-classical-antiquity ]]
+under Roman rule, some of the institutions of
+[[ Lycurgus | lycurgus-of-sparta ]] were restored,[[ ^66 ]] and the city
+became a tourist attraction for the Roman elite who came to observe exotic
+Spartan customs.[[ ^3 ]]
+
+In 214 AD, [[ Roman emperor ]] [[ Caracalla ]], in his preparation for
+[[ his campaign | parthian-war-of-caracalla ]] against
+[[ Parthia | parthian-empire ]], recruited a 500-man Spartan
+[[ cohort | cohort-military-unit ]] (//[[ lokhos | lochos ]]//).
+[[ Herodian ]] described this unit as a //[[ phalanx ]]//, implying it fought
+like the old Spartans as hoplites, or even as a [[ Macedonian phalanx ]].
+Despite this, a gravestone of a fallen legionary named Marcus Aurelius Alexys
+shows him lightly armed, with a [[ pilos-like | pileus-hat ]] cap and a wooden
+club. The unit was presumably discharged in 217 after Caracalla was
+assassinated.[[ ^71 ]]
+
+An exchange of letters in the [[ deutero-canonical ]]
+[[ First Book of Maccabees ]] expresses a [[ Jewish | jews ]] claim to kinship
+with the Spartans:
+
+<blockquote
+  Areus king of the Lacedemonians to [[ Onias | onias-i ]] the high priest,
+  greeting: It is found in writing, that the Lacedemonians and Jews are
+  brethren, and that they are of the stock of [[ Abraham ]]: Now therefore,
+  since this is come to our knowledge, ye shall do well to write unto us of your
+  prosperity. We do write back again to you, that your cattle and goods are
+  ours, and ours are yours.
+
+— Authorized King James Version [[ 1 Maccabees 12.20 | 1-maccabees ]]
+
+The letters are reproduced in a variant form by [[ Josephus ]].[[ ^72 ]]
+Jewish historian Uriel Rappaport notes that the relationship between the Jews
+and the Spartans expressed in this correspondence has "intrigued many
+scholars, and various explanations have been suggested for the problems raised
+\... including the historicity of the Jewish leader and
+[[ high priest | high-priest-of-israel ]] [[ Jonathan | jonathan-apphus ]]'s
+letter to the Spartans, the authenticity of the letter of Arius to Onias,
+cited in Jonathan's letter, and the supposed 'brotherhood' of the Jews and the
+Spartans." Rappaport is clear that "the authenticity of [the reply] letter of
+Arius is based on even less firm foundations than the letter of
+Jonathan".[[ ^73 ]]
+
+Spartans long spurned the idea of building a [[ defensive wall ]] around their
+city, believing they made the city's men soft in terms of their warrior
+abilities. A wall was finally erected after 184 BC, after the peak of the
+city-state's power had come and gone.[[ ^74 ]]
+
+=== Post-classical and modern Sparta
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nuremberg_chronicles_-_f_28v.png/250px-Nuremberg_chronicles_-_f_28v.png" height="163" width="250"
+
+  <figcaption>Medieval depiction of Sparta from the //[[ Nuremberg Chronicle ]]// (1493)
+
+In 396 AD, Sparta was sacked by [[ Visigoths ]] under
+[[ Alaric I ]].[[ ^75 ]][[ ^76 ]]
+According to [[ Byzantine ]] sources,
+[[ some parts | maniots ]] of the Laconian region remained
+[[ pagan | paganism ]] until well into the 10th century. The
+[[ Tsakonian language ]] still spoken in [[ Tsakonia ]] is the only surviving
+descendant of the ancient [[ Doric language | doric-greek ]].[[ ^77 ]] In the
+Middle Ages, the political and cultural centre of Laconia shifted to the
+nearby settlement of [[ Mystras ]], and Sparta fell further in even local
+importance. Modern [[ Sparta | sparta-laconia ]] was re-founded in 1834, by a
+decree of King [[ Otto of Greece ]]. Today it is a provincial town and the
+capital of the [[ Laconia ]] administrative region in [[ Greece ]].
+
+== Structure of Classical Spartan society
+
+=== Constitution
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/SpartaGreatRhetra.png/500px-SpartaGreatRhetra.png" height="319" width="500"
+
+  <figcaption>Structure of the Spartan Constitution
+
+Sparta was an [[ oligarchy ]]. The state was ruled by two
+[[ hereditary kings | diarchy ]] of the
+[[ Agiad and Eurypontid | list-of-kings-of-sparta ]] families,[[ ^78 ]] both
+supposedly descendants of [[ Heracles ]] and equal in authority, so that one
+could not act against the power and political enactments of his
+colleague.[[ ^27 ]]
+
+The duties of the kings were primarily religious, judicial, and martial. As
+chief priests of the state, they maintained communication with the Delphian
+sanctuary, whose pronouncements exercised great authority in Spartan politics.
+In the time of Herodotus c. 450 BC, their judicial functions had been
+restricted to cases dealing with heiresses ([[ epikleroi ]]), adoptions and
+the public roads (the meaning of the last term is unclear in Herodotus's text
+and has been interpreted in a number of ways). [[ Aristotle ]] describes the
+kingship at Sparta as "a kind of unlimited and perpetual generalship" (Pol.
+iii. 1285a), while [[ Isocrates ]] refers to the Spartans as "subject to an
+oligarchy at home, to a kingship on campaign" (iii. 24).[[ ^27 ]]
+
+Civil and criminal cases were decided by a group of officials known as the
+[[ ephors ]], as well as a council of
+[[ elders | elder-administrative-title ]] known as the [[ Gerousia ]]. The
+Gerousia consisted of 28 elders over the age of 60, elected for life and
+usually part of the royal households, and the two kings.[[ ^79 ]] High state
+decisions were discussed by this council, who could then propose policies to
+the //damos//, the collective body of Spartan citizenry, who would
+[[ select one of the alternatives by vote | great-rhetra ]].[[ ^80 ]][[ ^81 ]]
+
+Royal prerogatives were curtailed over time. From the period of the Persian
+wars, the king lost the right to [[ declare war | declaration-of-war ]] and
+was accompanied in the field by two ephors. He was supplanted by the ephors
+also in the control of foreign policy. Over time, the kings became mere
+figureheads except in their capacity as generals. Political power was
+transferred to the ephors and Gerousia.[[ ^27 ]]
+
+An assembly of citizens called the [[ Ekklesia | ecclesia-sparta ]] was
+responsible for electing men to the Gerousia for life.
+
+=== Citizenship
+
+The Spartan education process known as the //[[ agoge ]]// was essential for
+full citizenship. However, usually the only boys eligible for the //agoge//
+were [[ Spartiates ]], those who could trace their ancestry to the original
+inhabitants of the city.
+
+There were two exceptions. //[[ Trophimoi ]]// or "foster sons" were foreign
+students invited to study. The Athenian general [[ Xenophon ]], for example,
+sent his two sons to Sparta as trophimoi. Also, the son of a helot could be
+enrolled as a //syntrophos//[[ ^82 ]] if a Spartiate formally adopted him and
+paid his way; if he did exceptionally well in training, he might be sponsored
+to become a Spartiate.[[ ^83 ]] Spartans who could not afford to pay the
+expenses of the //agoge// could lose their citizenship.
+
+These laws meant that Sparta could not readily replace citizens lost in battle
+or otherwise, which eventually proved near fatal as citizens became greatly
+outnumbered by non-citizens, and even more dangerously by helots.
+
+=== Non citizens
+
+The other classes were the [[ perioikoi | perioeci ]], free inhabitants who
+were non-citizens, and the [[ helots ]],[[ ^84 ]] state-owned [[ serfs ]].
+Descendants of non-Spartan citizens were forbidden the //agoge//.
+
+==== Helots
+
+The Spartans were a minority of the Lakonian population. The largest class of
+inhabitants were the helots (in [[ Classical Greek | ancient-greek-language ]]
+Εἵλωτες / //Heílôtes//).[[ ^85 ]][[ ^86 ]]
+
+The helots were originally free Greeks from the areas of
+[[ Messenia | messenia-ancient-region ]] and [[ Lakonia ]] whom the Spartans
+had defeated in battle and subsequently enslaved.[[ ^87 ]] The helots'
+position has been described as "serf-like" and they were treated harshly by
+their masters.[[ ^88 ]] The Spartan helots were not only agricultural workers,
+but were also household servants, both male and female would be assigned
+domestic duties, such as wool-working.[[ ^89 ]] However, the helots were not
+the private property of individual Spartan citizens, regardless of their
+household duties, and were instead owned by the state through the //kleros//
+system.[[ ^90 ]]
+
+Helots did not have voting or political rights. The Spartan poet
+[[ Tyrtaios | tyrtaeus ]] refers to Helots being allowed to marry and
+retaining 50% of the fruits of their labour.[[ ^91 ]] They also seem to have
+been allowed to practice religious rites and, according to Thucydides, own a
+limited amount of personal property.[[ ^92 ]]
+Initially, helots couldn't be
+freed but during the middle [[ Hellenistic period ]], some 6,000 helots
+accumulated enough wealth to buy their freedom, for example, in 227 BC.
+
+In other Greek city-states, free citizens were part-time soldiers who, when
+not at war, carried on other trades. Since Spartan men were full-time
+soldiers, they were not available to carry out manual labour.[[ ^93 ]] The
+helots were used as unskilled [[ serfs | serf ]], tilling Spartan land. Helot
+women were often used as [[ wet nurses | wet-nurse ]]. Helots also travelled
+with the Spartan army as non-combatant serfs. At the last stand of the
+[[ Battle of Thermopylae ]], the Greek dead included not just the legendary
+three hundred Spartan soldiers but also several hundred
+[[ Thespian | thespiae ]] and [[ Theban | thebes-greece ]] troops and a number
+of helots.[[ ^94 ]]
+
+There was at least one helot revolt (c. 465–460 BC) that led to prolonged
+conflict. By the tenth year of this war the Spartans and Messenians had
+reached an agreement in which Messenian rebels were allowed to leave the
+Peloponnese.[[ ^95 ]] They were given safe passage under the terms that they
+would be re-enslaved if they tried to return. This agreement ended the most
+serious incursion into Spartan territory since their expansion in the seventh
+and eighth centuries BC.[[ ^96 ]] Thucydides remarked that "Spartan policy is
+always mainly governed by the necessity of taking precautions against the
+helots."[[ ^97 ]][[ ^98 ]] On the other hand, the Spartans trusted their
+helots enough in 479 BC to take a force of 35,000 with them to Plataea,
+something they could not have risked if they feared the helots would attack
+them or run away. Slave revolts occurred elsewhere in the Greek world, and in
+413 BC 20,000 Athenian slaves ran away to join the Spartan forces occupying
+Attica.[[ ^99 ]] The homogeneous population of Messenian helots who could form
+families, kept kinship ties and owned some personal items posed a constant
+threat of rebellion.[[ ^88 ]]
+
+As the Spartiate population declined and the helot population continued to
+grow, the imbalance of power caused increasing tension. According to
+[[ Myron of Priene ]][[ ^100 ]] of the middle 3rd century BC:
+
+<blockquote
+  They assign to the Helots every shameful task leading to disgrace. For they
+  ordained that each one of them must wear a dogskin cap (κυνῆ / //kunễ//) and
+  wrap himself in skins (διφθέρα / //diphthéra//) and receive a stipulated
+  number of beatings every year regardless of any wrongdoing, so that they would
+  never forget they were slaves. Moreover, if any exceeded the vigour proper to
+  a slave's condition, they made death the penalty; and they allotted a
+  punishment to those controlling them if they failed to rebuke those who were
+  growing fat.[[ ^101 ]]
+
+Plutarch also states that Spartans treated the helots "harshly and cruelly":
+they compelled them to drink pure wine (which was considered dangerous –
+[[ wine | diet-of-ancient-greece#wine ]] usually being cut with water)
+"\...and to lead them in that condition into their public halls, that the
+children might see what a sight a drunken man is; they made them to dance low
+dances, and sing ridiculous songs\..." during //[[ syssitia ]]// (obligatory
+banquets).[[ ^102 ]]
+
+Each year when the Ephors took office, they ritually declared war on the
+helots, allowing Spartans to kill them without risk of ritual
+pollution.[[ ^103 ]] This fight seems to have been carried out by //kryptai//
+(sing. κρύπτης //kryptēs//), graduates of the //agoge// who took part in the
+mysterious institution known as the //[[ Krypteia | crypteia ]]//.[[ ^104 ]]
+Thucydides states:
+
+<blockquote
+  The helots were invited by a proclamation to pick out those of their number
+  who claimed to have most distinguished themselves against the enemy, in order
+  that they might receive their freedom; the object being to test them, as it
+  was thought that the first to claim their freedom would be the most high
+  spirited and the most apt to rebel. As many as two thousand were selected
+  accordingly, who crowned themselves and went round the temples, rejoicing in
+  their new freedom. The Spartans, however, soon afterwards did away with them,
+  and no one ever knew how each of them perished.[[ ^105 ]]
+
+==== Perioikoi
+
+The Perioikoi came from similar origins as the helots but occupied a
+significantly different position in Spartan society. Although they did not
+enjoy full citizen-rights, they were free and not subjected to the same
+restrictions as the helots. The exact nature of their subjection to the
+Spartans is not clear, but they seem to have served partly as a kind of
+military reserve, partly as skilled craftsmen and partly as agents of foreign
+trade.[[ ^106 ]] Perioikoic hoplites served increasingly with the Spartan
+army, explicitly at the [[ Battle of Plataea ]], and although they may also
+have fulfilled functions such as the manufacture and repair of armour and
+weapons,[[ ^107 ]] they were increasingly integrated into the combat units of
+the Spartan army as the Spartiate population declined.[[ ^108 ]]
+
+=== Economy
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rider_BM_B1.jpg/250px-Rider_BM_B1.jpg" height="250" width="250"
+
+  <figcaption>[[ Name vase ]] of the Spartan artist known as the [[ Rider Painter ]] (Laconian [[ black-figured | black-figure ]] [[ kylix | kylix-cup ]], c. 550–530 BC)
+
+Full citizen Spartiates were barred by law from trade or manufacture, which
+consequently rested in the hands of the Perioikoi.[[ ^27 ]] This lucrative
+monopoly, in a fertile territory with a good harbours, ensured the loyalty of
+the perioikoi.[[ ^109 ]] Despite the prohibition on menial labour or trade,
+there is evidence of Spartan sculptors,[[ ^110 ]] and Spartans were certainly
+poets, magistrates, ambassadors, and governors as well as soldiers.
+
+Allegedly, Spartans were prohibited from possessing gold and silver coins, and
+according to legend Spartan currency consisted of iron bars to discourage
+hoarding.[[ ^111 ]] Though the conspicuous display of wealth appears to have
+been discouraged, this did not preclude the production of very fine decorated
+bronze, ivory and wooden works of art as well as exquisite jewellery, attested
+in archaeology.[[ ^112 ]]
+
+Allegedly as part of the Lycurgan Reforms in the mid-8th century BC, a massive
+[[ land reform | land-reform-in-sparta ]] had divided property into 9,000
+equal portions. Each citizen received one estate, a //kleros//, which was
+expected to provide his living.[[ ^113 ]] The land was worked by helots who
+retained half the yield. From the other half, the Spartiate was expected to
+pay his mess (//syssitia//) fees, and the //agoge// fees for his children.
+However, nothing is known of matters of wealth such as how land was bought,
+sold, and inherited, or whether daughters received dowries.[[ ^114 ]] However,
+from early on there were marked differences of wealth within the state, and
+these became more serious after the law of [[ Epitadeus ]] some time after the
+[[ Peloponnesian War ]], which removed the legal prohibition on the gift or
+bequest of land.[[ ^27 ]][[ ^115 ]] By the mid-5th century, land had become
+concentrated in the hands of a tiny elite, and the notion that all Spartan
+citizens were equals had become an empty pretence. By Aristotle's day (384–322
+BC) citizenship had been reduced from 9,000 to less than 1,000, then further
+decreased to 700 at the accession of [[ Agis IV ]] in 244 BC. Attempts were
+made to remedy this by imposing legal penalties upon bachelors,[[ ^27 ]] but
+this could not reverse the trend.
+
+== Life in Classical Sparta
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jean-Pierre_Saint-Ours_-_Gericht_%C3%BCber_die_Neugeborenen_Spartas_-_2358_-_Bavarian_State_Painting_Collections.jpg/330px-Jean-Pierre_Saint-Ours_-_Gericht_%C3%BCber_die_Neugeborenen_Spartas_-_2358_-_Bavarian_State_Painting_Collections.jpg" height="161" width="290"
+
+  <figcaption>[[ Jean-Pierre Saint-Ours ]], //The Selection of Children in Sparta//, 1785. A [[ Neoclassical | neoclassicism ]] imaging of what [[ Plutarch ]] describes.
+
+=== Birth and death
+
+Sparta was above all a militarist state, and emphasis on military fitness
+began virtually at birth. According to Plutarch, after birth, a mother would
+bathe her child in wine to see whether the child was strong. If the child
+survived, it was brought before the Gerousia by the child's father. The
+Gerousia then decided whether it was to be reared or not.[[ ^27 ]] It is
+commonly stated that if they considered it "puny and deformed", the baby was
+thrown into a chasm on [[ Mount Taygetos | taygetus ]] known euphemistically
+as the //Apothetae// (Gr., //ἀποθέται//, "Deposits").[[ ^116 ]][[ ^117 ]] This
+would, in effect, be a primitive form of [[ eugenics ]].[[ ^116 ]] Plutarch is
+the sole historical source for the Spartan practice of systemic infanticide
+motivated by eugenics.[[ ^118 ]] Sparta is often viewed as being unique in
+this regard, however, anthropologist Laila Williamson notes: "Infanticide has
+been practiced on every continent and by people on every level of cultural
+complexity, from hunter gatherers to high civilisations. Rather than being an
+exception, then, it has been the rule."[[ ^119 ]] There is controversy about
+the matter in Sparta, since excavations in the chasm only uncovered adult
+remains, likely belonging to criminals[[ ^120 ]] and Greek sources
+contemporary to Sparta do not mention systemic infanticide motivated solely by
+eugenics.[[ ^121 ]]
+
+Spartan burial customs changed over time. The Archaic Spartan poet
+[[ Tyrtaeus ]] spoke of the Spartan war-dead as follows:
+
+<blockquote
+  Never do his [the war-dead's] name and good fame perish,But even though he is
+  beneath the earth he is immortal,Young and old alike mourn him,All the city is
+  distressed by the painful loss,and his tomb and children are pointed out among
+  the people,and his children's children and his line after them.[[ ^122 ]]
+
+When Spartans died, marked headstones would only be granted to soldiers who
+died in combat during a victorious campaign or women who died either in
+service of a divine office or in childbirth.[[ ^123 ]] These headstones likely
+acted as memorials, rather than as grave markers. Evidence of Spartan burials
+is provided by the Tomb of the Lacedaimonians in Athens. Excavations at the
+cemetery of classical Sparta, uncovered ritually pierced
+[[ kantharoid | kantharos ]]-like ceramic vessels, the ritual slaughter of
+horses, and specific burial enclosures alongside individual 'plots'. Some of
+the graves were reused over time.[[ ^124 ]][[ ^125 ]]
+
+In the Hellenistic Period, grander, two-storey monumental tombs are found at
+Sparta. Ten of these have been found for this period.[[ ^125 ]]
+
+=== Education
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Spartan_swordman.jpg/250px-Spartan_swordman.jpg" height="341" width="200"
+
+  <figcaption>Bronze appliqué of Spartan manufacture, possibly depicting [[ Orestes ]], 550–525 BC ([[ Getty Villa ]])
+
+When male Spartans began military training at age seven, they would enter the
+//[[ agoge ]]// system. The //agoge// was designed to encourage discipline and
+physical toughness and to emphasise the importance of the Spartan state. Boys
+lived in communal [[ messes | mess ]] and, according to Xenophon, whose sons
+attended the //agoge//, the boys were fed "just the right amount for them
+never to become sluggish through being too full, while also giving them a
+taste of what it is not to have enough."[[ ^126 ]] In addition, they were
+trained to survive in times of privation, even if it meant stealing.[[ ^127 ]]
+Besides physical and weapons training, boys studied reading, writing, music
+and dancing. Special punishments were imposed if boys failed to answer
+questions sufficiently "[[ laconically | laconic-phrase ]]" (i.e. briefly and
+wittily).[[ ^128 ]]
+
+Spartan boys were expected to take an older male mentor, usually an unmarried
+young man. According to some sources, the older man was expected to function
+as a kind of substitute father and role model to his junior partner; however,
+others believe it was reasonably certain that they had sexual relations (the
+exact nature of [[ Spartan pederasty | pederasty-in-ancient-greece#sparta ]]
+is not entirely clear). Xenophon, an admirer of the Spartan educational system
+whose sons attended the //agoge//, explicitly denies the sexual nature of the
+relationship.[[ ^129 ]][[ ^126 ]]
+
+Some Spartan youth apparently became members of an irregular unit known as the
+//[[ Krypteia ]]//. The immediate objective of this unit was to seek out and
+kill vulnerable helot Laconians as part of the larger program of terrorising
+and intimidating the helot population.[[ ^130 ]]
+
+Less information is available about the education of Spartan girls, but they
+seem to have gone through a fairly extensive formal educational cycle, broadly
+similar to that of the boys but with less emphasis on military training.
+Spartan girls received an education known as //mousikē//. This included music,
+dancing, singing and poetry. Choral dancing was taught so Spartan girls could
+participate in ritual activities, including the cults of Helen and
+Artemis.[[ ^131 ]] In this respect, classical Sparta was unique in ancient
+Greece. In no other city-state did women receive any kind of formal
+education.[[ ^132 ]]
+
+=== Military life
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Helmed_Hoplite_Sparta.JPG/250px-Helmed_Hoplite_Sparta.JPG" height="276" width="190"
+
+  <figcaption>The so-called [[ Leonidas | leonidas-sculpture ]] sculpture (5th century BC), [[ Archaeological Museum of Sparta ]], Greece
+
+At age 20, the Spartan citizen began his membership in one of the
+//[[ syssitia ]]// (dining messes or clubs), composed of about fifteen members
+each, of which every citizen was required to be a member.[[ ^27 ]] Here each
+group learned how to bond and rely on one another. The Spartans were not
+eligible for election for public office until the age of 30. Only native
+Spartans were considered full citizens and were obliged to undergo the
+training as prescribed by law, as well as participate in and contribute
+financially to one of the //syssitia//.[[ ^133 ]]
+
+Sparta is thought to be the first city to practice athletic nudity, and some
+scholars claim that it was also the first to formalize pederasty.[[ ^134 ]]
+According to these sources, the Spartans believed that the love of an older,
+accomplished aristocrat for an adolescent was essential to his formation as a
+free citizen. The //[[ agoge ]]//, the education of the ruling class, was,
+they claim, founded on pederastic relationships required of each
+citizen,[[ ^135 ]] with the lover responsible for the boy's training.
+
+However, other scholars question this interpretation. Xenophon explicitly
+denies it,[[ ^126 ]] but not Plutarch.[[ ^136 ]]
+
+Spartan men remained in the active reserve until age 60. Men were encouraged
+to marry at age 20 but could not live with their families until they left
+their active military service at age 30. They called themselves "//homoioi//"
+(equals), pointing to their common lifestyle and the discipline of the
+[[ phalanx | phalanx-formation ]], which demanded that no soldier be superior
+to his comrades.[[ ^137 ]] Insofar as [[ hoplite ]] warfare could be
+perfected, the Spartans did so.[[ ^138 ]]
+
+Thucydides reports that when a Spartan man went to war, his wife (or another
+woman of some significance) would customarily present him with his [[ aspis ]]
+(shield) and say: "With this, or upon this" (Ἢ τὰν ἢ ἐπὶ τᾶς, //Èi tàn èi èpì
+tàs//), meaning that true Spartans could only return to Sparta either
+victorious (with their shield in hand) or dead (carried upon it).[[ ^139 ]]
+This is almost certainly propaganda. Spartans buried their battle dead on or
+near the battle field; corpses were not brought back on their
+shield.[[ ^140 ]] Nevertheless, it is fair to say that it was less of a
+disgrace for a soldier to lose his helmet, breastplate or
+[[ greaves | greave ]] than his shield, since the former were designed to
+protect one man, whereas the shield also protected the man on his left. Thus,
+the shield was symbolic of the individual soldier's subordination to his unit,
+his integral part in its success, and his solemn responsibility to his
+comrades in arms – messmates and friends, often close blood relations.
+
+Aristotle wrote on the Spartan customs
+
+<blockquote
+  It is the standards of civilized men not of beasts that must be kept in mind,
+  for it is good men not beasts who are capable of real courage. Those like the
+  Spartans who concentrate on the one and ignore the other in their education
+  turn men into machines and in devoting themselves to one single aspect of
+  city's life, end up making them inferior even in that.[[ ^141 ]]
+
+One of the most persistent myths about Sparta is the notion that Spartan
+mothers were without feelings toward their off-spring and helped enforce a
+militaristic lifestyle on their sons and husbands.[[ ^142 ]][[ ^143 ]] The
+myth can be traced back to Plutarch, who includes no less than 17 "sayings" of
+"Spartan women", all of which paraphrase or elaborate on the theme that
+Spartan mothers rejected their own offspring if they showed any kind of
+cowardice. In some of these sayings, mothers revile their sons in insulting
+language merely for surviving a battle. These sayings purporting to be from
+Spartan women were far more likely to be of Athenian origin and designed to
+portray Spartan women as unnatural and so undeserving of pity.[[ ^140 ]]
+
+=== Agriculture, food, and diet
+
+Sparta's agriculture consisted mainly of barley, wine, cheese, grain, and
+figs. These items were grown locally on each Spartan citizen's kleros and were
+tended to by helots. Spartan citizens were required to donate a certain amount
+of what they yielded from their kleros to their syssitia, or mess. These
+donations to the syssitia were a requirement for every Spartan citizen. All
+the donated food was then redistributed to feed the Spartan population of that
+syssitia.[[ ^144 ]] The helots who tended to the lands were fed using a
+portion of what they harvested.[[ ^145 ]]
+
+=== Marriage
+
+Plutarch reports the peculiar customs associated with the Spartan wedding
+night:
+
+<blockquote
+  The custom was to capture women for marriage\... The so-called 'bridesmaid'
+  took charge of the captured girl. She first shaved her head to the scalp, then
+  dressed her in a man's cloak and sandals, and laid her down alone on a
+  mattress in the dark. The bridegroom – who was not drunk and thus not
+  impotent, but was sober as always – first had dinner in the messes, then would
+  slip in, undo her belt, lift her and carry her to the bed.[[ ^146 ]]
+
+The husband continued to visit his wife in secret for some time after the
+marriage. These customs, unique to the Spartans, have been interpreted in
+various ways. One of them decidedly supports the need to disguise the bride as
+a man in order to help the bridegroom consummate the marriage, so unaccustomed
+were men to women's looks at the time of their first intercourse. The
+"abduction" may have served to ward off the [[ evil eye ]], and the cutting of
+the wife's hair was perhaps part of a rite of passage that signalled her
+entrance into a new life.[[ ^147 ]]
+
+== Role of women
+
+=== Political, social, and economic equality
+
+Spartan women, of the citizenry class, enjoyed a status, power, and respect
+that was unknown in the rest of the classical world. The higher status of
+females in Spartan society started at birth; unlike Athens, Spartan girls were
+fed the same food as their brothers.[[ ^148 ]] Nor were they confined to their
+father's house and prevented from exercising or getting fresh air as in
+Athens, but exercised and even competed in sports.[[ ^148 ]] Most important,
+rather than being married off at the age of 12 or 13, Spartan law forbade the
+marriage of a girl until she was in her late teens or early 20s. The reasons
+for delaying marriage were to ensure the birth of healthy children, but the
+effect was to spare Spartan women the hazards and lasting health damage
+associated with [[ pregnancy among adolescents | teenage-pregnancy ]]. Spartan
+women, better fed from childhood and fit from exercise, stood a far better
+chance of reaching old age than their sisters in other Greek cities, where the
+median age for death was 34.6 years or roughly 10 years below that of
+men.[[ ^149 ]]
+
+Unlike [[ Athenian women | women-in-classical-athens ]] who wore heavy,
+concealing clothes and were rarely seen outside the house, Spartan women wore
+dresses ([[ peplos ]]) slit up the side to allow freer movement and moved
+freely about the city, either walking or driving chariots. Girls as well as
+boys exercised, possibly in the nude, and young women as well as young men may
+have participated in the [[ Gymnopaedia ]] ("Festival of Nude
+Youths").[[ ^150 ]][[ ^151 ]]
+
+Another practice that was mentioned by many visitors to Sparta was the
+practice of "wife-sharing". In accordance with the Spartan belief that
+breeding should be between the most physically fit parents, many older men
+allowed younger, more fit men, to impregnate their wives. Other unmarried or
+childless men might even request another man's wife to bear his children if
+she had previously been a strong child bearer.[[ ^152 ]] For this reason many
+considered Spartan women [[ polygamous | polygamy ]] or
+[[ polyandrous | polyandry ]].[[ ^153 ]] This practice was encouraged in order
+that women bear as many strong-bodied children as they could. The Spartan
+population was hard to maintain due to the constant absence and loss of the
+men in battle and the intense physical inspection of newborns.[[ ^154 ]]
+
+Spartan women were also literate and numerate, a rarity in the ancient world.
+Furthermore, as a result of their education and the fact that they moved
+freely in society engaging with their fellow (male) citizens, they were
+notorious for speaking their minds even in public.[[ ^155 ]] Plato, in the
+middle of the fourth century, described women's curriculum in Sparta as
+consisting of gymnastics and mousike (music and arts). Plato praised Spartan
+women's ability when it came to philosophical discussion.[[ ^156 ]]
+
+Most importantly, Spartan women had economic power because they controlled
+their own properties, and those of their husbands. It is estimated that in
+later Classical Sparta, when the male population was in serious decline, women
+were the sole owners of at least 35% of all land and property in
+Sparta.[[ ^157 ]] The laws regarding a divorce were the same for both men and
+women. Unlike women in Athens, if a Spartan woman became the heiress of her
+father because she had no living brothers to inherit (an //[[ epikleros ]]//),
+the woman was not required to divorce her current spouse in order to marry her
+nearest paternal relative.[[ ^157 ]]
+
+=== Historic women
+
+Many women played a significant role in the [[ history of Sparta ]].[[ ^158 ]]
+[[ Gorgo | gorgo-queen-of-sparta ]], daughter of [[ Cleomenes I ]] and the
+wife of [[ Leonidas I ]], was an influential and well-documented figure.
+Herodotus records that as a small girl she advised her father to resist a
+bribe. She was later said to be responsible for decoding a warning that the
+Persian forces were about to invade Greece; after Spartan generals could not
+decode a wooden tablet covered in wax, she ordered them to clear the wax,
+revealing the warning.[[ ^159 ]] Plutarch's //[[ Moralia ]]// contains a
+collection of "Sayings of Spartan Women", including a laconic quip attributed
+to Gorgo: when asked by a woman from [[ Attica ]] why Spartan women were the
+only women in the world who could rule men, she replied "Because we are the
+only women who are mothers of men".[[ ^160 ]] In 396, [[ Cynisca ]], sister of
+the Eurypontid king [[ Agesilaus II ]], became the first woman in Greece to
+win an Olympic chariot race. She won again in 392, and dedicated two monuments
+to commemorate her victory, these being an inscription in Sparta and a set of
+bronze equestrian statues at the Olympic temple of Zeus.[[ ^161 ]][[ ^162 ]]
+
+== Laconophilia
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Le%C3%B3nidas_en_las_Term%C3%B3pilas%2C_por_Jacques-Louis_David.jpg/250px-Le%C3%B3nidas_en_las_Term%C3%B3pilas%2C_por_Jacques-Louis_David.jpg" alt="See caption" height="185" width="250"
+
+  <figcaption>//[[ Leonidas at Thermopylae ]]//, 1814 painting by [[ Jacques-Louis David ]]
+
+Laconophilia is love or admiration of Sparta and its culture or constitution.
+Sparta was subject of considerable admiration in its day, even in rival
+[[ Athens | ancient-athens ]]. In ancient times "Many of the noblest and best
+of the Athenians always considered the Spartan state nearly as an ideal theory
+realised in practice."[[ ^163 ]] Many Greek philosophers, especially
+Platonists, would often describe Sparta as an ideal state, strong, brave, and
+free from the corruptions of commerce and money. The French classicist
+François Ollier in his 1933 book //Le mirage spartiate// (The Spartan Mirage)
+warned that a major scholarly problem is that all surviving accounts of Sparta
+were by non-Spartans who often excessively idealised their subject.[[ ^164 ]]
+The term "Spartan Mirage" has come to refer to "idealized distortions and
+inventions regarding the character of Spartan society in the works of
+non-Spartan writers," beginning in Greek and Roman antiquity and continuing
+through the medieval and modern eras.[[ ^165 ]] These accounts of Sparta are
+typically associated with the social or political concerns of the
+writer.[[ ^165 ]] No accounts survive by the Spartans themselves, if such were
+ever written.
+
+<figure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Young_Spartans_Exercising_National_Gallery_NG3860.jpg/250px-Young_Spartans_Exercising_National_Gallery_NG3860.jpg" height="177" width="250"
+
+  <figcaption>//[[ Young Spartans Exercising ]]// by [[ Edgar Degas ]] (1834–1917)
+
+With the revival of classical learning in
+[[ Renaissance Europe | renaissance ]], Laconophilia re-appeared, for example
+in the writings of [[ Machiavelli ]]. The Elizabethan English
+constitutionalist [[ John Aylmer | john-aylmer-english-constitutionalist ]]
+compared the mixed government of [[ Tudor England | tudor-period ]] to the
+Spartan republic, stating that "Lacedemonia [was] the noblest and best city
+governed that ever was". He commended it as a model for England. The
+philosopher [[ Jean-Jacques Rousseau ]] contrasted Sparta favourably with
+Athens in his //[[ Discourse on the Arts and Sciences ]]//, arguing that its
+austere constitution was preferable to the more sophisticated Athenian life.
+Sparta was also used as a model of austere purity by Revolutionary and
+Napoleonic France.[[ ^166 ]]
+
+A German strain of Laconophilia was initiated by [[ Karl Otfried Müller ]],
+who linked Spartan ideals to the supposed racial superiority of the Dorians,
+the ethnic sub-group of the Greeks to which the Spartans belonged. In the 20th
+century, this developed into admiration of Spartan ideals by the
+[[ National Socialists | nsdap ]]. [[ Adolf Hitler ]] praised the Spartans,
+recommending in 1928 that Germany should imitate them by limiting "the number
+allowed to live". He added that "The Spartans were once capable of such a wise
+measure\... The subjugation of 350,000 Helots by 6,000 Spartans was only
+possible because of the racial superiority of the Spartans." The Spartans had
+created "the first racialist state".[[ ^167 ]] Following
+[[ the invasion of the USSR | operation-barbarossa ]], Hitler viewed citizens
+of the USSR as like the helots under the Spartans: "They [the Spartans] came
+as conquerors, and they took everything", and so should the Germans. A Nazi
+officer specified that "the Germans would have to assume the position of the
+Spartiates, while\... the Russians were the Helots."[[ ^167 ]]
+
+Certain early Zionists, and particularly the founders of [[ Kibbutz ]]
+movement in Israel, were influenced by Spartan ideals, particularly in
+education. [[ Tabenkin | yitzhak-tabenkin ]], a founding father of the Kibbutz
+movement and the [[ Palmach ]] strikeforce, prescribed that education for
+warfare "should begin from the nursery", that children should from
+kindergarten be taken to "spend nights in the mountains and
+valleys".[[ ^168 ]][[ ^169 ]]
+
+In modern times, the adjective "Spartan" means simple, frugal, avoiding luxury
+and comfort.[[ ^170 ]] The term "[[ laconic phrase ]]" describes the very
+terse and direct speech characteristic of the Spartans.
+
+Sparta also features prominently in modern
+[[ popular culture | sparta-in-popular-culture ]], most famously the
+[[ Battle of Thermopylae ]] (see
+[[ Battle of Thermopylae in popular culture ]]).
+
+== Notable ancient Spartans
+
+- [[ Agesilaus II ]] – king
+- [[ Agis I ]] – king
+- [[ Agis II ]] – king
+- [[ Agis III ]] – king
+- [[ Archidamus II ]] – king
+- [[ Archidamus III ]] – king
+- [[ Areus I ]] – king
+- [[ Brasidas ]] – general
+- [[ Chilon | chilon-of-sparta ]] – philosopher
+- [[ Chionis | chionis-of-sparta ]] (7th century BC) – athlete
+- [[ Cleomenes I ]] – king
+- [[ Cleomenes III ]] – king and reformer
+- [[ Cleombrotus I ]] – king
+- [[ Clearchus of Sparta ]] – general of the [[ Ten Thousand ]]
+- [[ Cheirisophus (general) ]] – general of the Ten Thousand
+- [[ Cleonymus of Sparta ]] – member of royal Spartan family
+- [[ Cynisca ]] (4th century BC) – princess and athlete
+- [[ Dercylidas ]] – general
+- [[ Diphridas ]] – general
+- [[ Gorgo | gorgo-queen-of-sparta ]] – queen and politician
+- [[ Gylippus ]] – general
+- [[ Helen | helen-of-troy ]] – princess in the Trojan War
+- [[ Leonidas I ]] (c.520–480 BC) – king, commander at the [[ Battle of Thermopylae ]]
+- [[ Lycurgus ]] (quasi-mythical, century unclear) — lawgiver
+- [[ Lycurgus (king of Sparta) ]] (3rd century BC) — abolished the diarchy
+- [[ Lysander ]] (5th–4th century BC) – general
+- [[ Menelaus ]] – king during the Trojan War
+- [[ Nicomedes of Sparta ]] – general
+- [[ Nabis | nabis-of-sparta ]] – king
+- [[ Pausanias the Regent ]] – general
+- [[ Thibron (harmost) ]] – general
+- [[ Xanthippus of Carthage ]] – Spartan mercenary general that defeated the [[ Romans | roman-republic ]] in battle in the First Punic War
+
+[[ ^a ]]: [[ Doric Greek | doric-greek-language ]]: [[ Σπάρτα | https://en.wiktionary.org/wiki/Σπάρτα ]], romanised: //Spártā//; [[ Attic Greek | attic-greek-language ]]: [[ Σπάρτη | https://en.wiktionary.org/wiki/Σπάρτη ]], romanised: //Spártē//
+
+[[ ^1 ]]: Cartledge 2002, p. 91.
+
+[[ ^2 ]]: Cartledge 2002, p. 174.
+
+[[ ^3 ]]: Cartledge 2002, p. 192.
+
+[[ ^4 ]]: Devereaux, Bret (20 September 2019). [[ "Collections: This. Isn't. Sparta. Part VI: Spartan Battle" | https://acoup.blog/2019/09/20/collections-this-isnt-sparta-part-vi-spartan-battle/ ]]. //A Collection of Unmitigated Pedantry//. Retrieved 29 September 2025.
+
+[[ ^5 ]]: Liddell & Scott 1940. Σπάρτη.
+
+[[ ^6 ]]: Liddell & Scott 1940. Λακεδαίμων.
+
+[[ ^7 ]]: Cartledge 2002, p. 4.
+
+[[ ^8 ]]: [[ "The Linear B word ra-ke-da-mi-ni-jo" | http://www.palaeolexicon.com/ShowWord.aspx?Id=16881 ]]. //Palaeolexicon. Word study tool of Ancient languages//.
+
+[[ ^1 ]]: Found on the following [[ tablets | clay-tablet ]]: [[ TH | thebes-greece ]] Fq 229, TH Fq 258, TH Fq 275, TH Fq 253, TH Fq 284, TH Fq 325, TH Fq 339, TH Fq 382. There are also words like 𐀨𐀐𐀅𐀖𐀛𐀍𐀄𐀍, //ra-ke-da-mo-ni-jo-u-jo// – found on the TH Gp 227 tablet – that could perhaps mean "son of the Spartan". Moreover, the attested words 𐀨𐀐𐀅𐀜 , //ra-ke-da-no// and 𐀐𐀅𐀜𐀩, //ra-ke-da-no-re// could possibly be Linear B forms of //Lacedaemon// itself; the latter, found on the [[ MY | mycenae ]] Ge 604 tablet, is considered to be the [[ dative case ]] form of the former which is found on the MY Ge 603 tablet. It is considered much more probable though that //ra-ke-da-no// and //ra-ke-da-no-re// correspond to the [[ anthroponym ]] Λακεδάνωρ, //Lakedanor//, though the latter is thought to be related etymologically to //Lacedaemon//.
+
+[[ ^14 ]]: Liddell & Scott 1940. Λακεδαιμόνιος, s.v. Λακεδαίμων.
+
+[[ ^15 ]]: Lacedaemonius, s.v. Lacedaemon. Charlton T. Lewis and Charles Short. //[[ A Latin Dictionary ]]// on [[ Perseus Project ]].
+
+[[ ^16 ]]: [[ MacBean, Alexander | alexander-macbean ]]; Johnson, Samuel (1773). [[ "Lacedaemon" | https://books.google.com/books?id=EqwBAAAAYAAJ ]]. //A Dictionary of Ancient Geography [etc.]// London: G. Robinson [etc.].
+
+[[ ^17 ]]: Autenrieth 1891, [[ Λακεδαίμων | https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0073%3Aalphabetic+letter%3Dl%3Aentry+group%3D1%3Aentry%3D*lakedai%2Fmwn ]].
+
+[[ ^18 ]]: Schmidt, Maurice, ed. (1863). [[ "s.v. Ἀγιάδαι" | https://archive.org/stream/hesychiialexand00schmgoog#page/n24/mode/1up ]]. //Hesychii Alexandrini Lexicon// (in Greek). Jena: Frederick Mauk.. At the [[ Internet Archive ]]
+
+[[ ^19 ]]: [[ Orosius, 1.21.12 | http://attalus.org/translate/orosius1B.html#21 ]].
+
+[[ ^20 ]]: Wiener, Leo (1920). //Contributions toward a History of Arabico-Gothic Culture//. Volume III: Tacitus' Germania & Other Forgeries. Philadelphia: Innes & Sones. p. 20.
+
+[[ ^21 ]]: Diodorus Siculus, //Library//, [[ 19.70.2 | https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/19D*.html#note24 ]].
+
+[[ ^22 ]]: Pausanias 1918, Description of Greece, [[ ΙΙΙ.1.2 | https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0160%3Abook%3D3%3Achapter%3D1%3Asection%3D2 ]].
+
+[[ ^23 ]]: Diodorus Siculus, 4.57-8
+
+[[ ^24 ]]: Apollodorus, 2.8.2–4
+
+[[ ^25 ]]: Kennel, Nigel. [[ "Spartans: A New History \| Wiley" | https://www.wiley.com/en-us/Spartans%3A+A+New+History-p-9781444360530 ]]. //Wiley.com//. pp. 37–39. Retrieved 3 February 2021.
+
+[[ ^26 ]]: Hdt., 9.26.2
+
+[[ ^27 ]]: One or more of the preceding sentences incorporates text from a publication now in the [[ public domain ]]: [[ Tod, Marcus Niebuhr | marcus-niebuhr-tod ]] (1911). "[[ Sparta | https://en.wikisource.org/wiki/1911%20Encyclopædia%20Britannica/Sparta ]]". In [[ Chisholm, Hugh | hugh-chisholm ]] (ed.). //[[ Encyclopædia Britannica | encyclopædia-britannica-eleventh-edition ]]//. Vol. 25 (11th ed.). Cambridge University Press. pp. 609–614.
+
+[[ ^28 ]]: Thucydides, i. 10
+
+[[ ^29 ]]: Cavanagh, William (2018). "An Archaeology of Ancient Sparta with Reference to Laconia and Messenia". //A COMPANION TO SPARTA//. Vol. 1. Hoboken USA: Wiley Blackwell. p. 62.
+
+[[ ^30 ]]: The British School at Athens, [[ Home | http://www.bsa.ac.uk/index.php?option=com_content&view=category&layout=blog&id=14&Itemid=101 ]].
+
+[[ ^31 ]]: [[ "Hero Shrine of Menelaus – University of Warwick Classics Module Database" | https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/clunbf/ ]]. //warwick.ac.uk//. Retrieved 1 June 2026.
+
+[[ ^32 ]]: //The Mycenaean presence in the southeastern Eurotas valley: Vouno Panagias and Ayios Georgios//, by Emilia Banou.
+
+[[ ^33 ]]: Herodot, Book I, 56.3
+
+[[ ^34 ]]: Cartledge 2002, p. 28.
+
+[[ ^35 ]]: Ehrenberg 2002, p. 31.
+
+[[ ^36 ]]: Ehrenberg 2002, p. 36.
+
+[[ ^37 ]]: Ehrenberg 2002, p. 33.
+
+[[ ^38 ]]: [[ Xenophon, Constitution of the Lacedaimonians, chapter 1 | https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0210%3Atext%3DConst.%20Lac.%3Achapter%3D1 ]]
+
+[[ ^39 ]]: Xenophon, //Constitution of the Lacedaemonians//, 1
+
+[[ ^40 ]]: Herodotus, 1.65–66
+
+[[ ^41 ]]: Plutarch, //Life of Lycurgus//, 6.1–2
+
+[[ ^42 ]]: "A Historical Commentary on Thucydides". David Cartwright, p. 176
+
+[[ ^43 ]]: Morris, Ian (December 2005), [[ //The growth of Greek cities in the first millennium BC. v.1// | http://www.princeton.edu/~pswpc/pdfs/morris/120509.pdf ]] (PDF), Princeton/Stanford Working Papers in Classics, [[ archived | https://ghostarchive.org/archive/20221009/http://www.princeton.edu/~pswpc/pdfs/morris/120509.pdf ]] (PDF) from the original on 9 October 2022
+
+[[ ^44 ]]: Nielsen, Thomas Heine (29 December 2017). [[ //Once Again: Studies in the Ancient Greek Polis// | https://books.google.com/books?id=oafCBYBbMRgC&pg=PA22 ]]. Franz Steiner Verlag. ISBN [[ 9783515084383 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9783515084383 ]] – via Google Books.
+
+[[ ^2 ]]: According to Thucydides, the Athenian citizens at the beginning of the Peloponnesian War (5th century BC) numbered 40,000, making a total of 140,000 people when including their families. The metics, i.e. those who did not have citizen rights and paid for the right to reside in Athens, numbered a further 70,000, while slaves were estimated at between 150,000 and 400,000.
+
+[[ ^46 ]]: Herodotus, 7.202, 7.228
+
+[[ ^47 ]]: Green 1998, p. 10.
+
+[[ ^48 ]]: Herodotus, 7.220–7.225
+
+[[ ^49 ]]: Britannica ed. 2006, "Sparta"
+
+[[ ^50 ]]: "Dictionary of Ancient & Medieval Warfare". Matthew Bennett, p. 86
+
+[[ ^51 ]]: "The Oxford Illustrated History of Greece and the Hellenistic World" p. 141, John Boardman, Jasper Griffin, Oswyn Murray
+
+[[ ^52 ]]: Fine, //The Ancient Greeks//, 556–59
+
+[[ ^53 ]]: Rahe, Paul Anthony (27 September 2016). [[ //The Spartan Regime: Its Character, Origins and Grand Strategy// | https://books.google.com/books?id=eXrsDAAAQBAJ&pg=PT173 ]]. Yale University Press. ISBN [[ 978-0-300-22461-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-300-22461-0 ]].
+
+[[ ^54 ]]: Rahe, Paul Anthony (January 2016). [[ //The Spartan Regime: Its Character, Origins, and Grand Strategy// | https://books.google.com/books?id=hDn2DAAAQBAJ&dq=helots%20of%20the%20two%20regions%20appear%20to%20have%20outnumbered%20their%20masters%20by%20a%20margin%20of%20four%20%2C%20some%20say%20%2C%20but%20quite%20possibly%20even%20seven%20to%20one%20%3B%2021%20and%20in%20an%20emergency%20%2C%20the%20Spartans%20could%20never%20be%20fully%20confident%20that%20their%20associates%20w&pg=PA11 ]]. Yale University Press. ISBN [[ 978-0-300-21901-2 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-300-21901-2 ]].
+
+[[ ^55 ]]: Cartledge 2002, p. 273 "Philip laid Lakonia waste as far south as Gytheion and formally deprived Sparta of Dentheliatis (and apparently the territory on the Messenian Gulf as far as the Little Pamisos river), Belminatis, the territory of Karyai and the east Parnon foreland."
+
+[[ ^56 ]]: [[ Plutarch ]]; W.C.Helmbold. [[ "De Garrulitate" | http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0287%3Asection%3D17 ]]. //Perseus Digital Library//. Tufts University. Retrieved 5 May 2021. ἂν ἐμβάλω εἰς τὴν Λακωνικήν, ἀναστάτους ὑμᾶς ποιήσω
+
+[[ ^57 ]]: Davies 1997, p. 133.
+
+[[ ^58 ]]: Plutarch 1874, De garrulitate, [[ 17 | https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0288%3Asection%3D17 ]].
+
+[[ ^59 ]]: Plutarch 1891, De garrulitate, [[ 17 | https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0286%3Asection%3D17 ]]; in Greek.
+
+[[ ^60 ]]: [[ "Agis III – Livius" | https://web.archive.org/web/20130508045716/http://www.livius.org/ag-ai/agis/agis_iii.html ]]. //www.livius.org//. Archived from [[ the original | https://www.livius.org/ag-ai/agis/agis_iii.html ]] on 8 May 2013. Retrieved 26 March 2020.
+
+[[ ^61 ]]: Cartledge, Paul; Spawforth, Antony (2002). //Hellenistic and Roman Sparta : a tale of two cities// (2nd ed.). London: Routledge. p. 21. ISBN [[ 0415262771 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0415262771 ]].
+
+[[ ^62 ]]: Badian, E. (29 December 1967). "Agis III". //Hermes//. !!95!! (2): 170–92. JSTOR [[ 4475455 | https://www.jstor.org/stable/4475455 ]].
+
+[[ ^63 ]]: Diodorus, //World History//
+
+[[ ^64 ]]: Diodorus, //World History//, 17.62.1–63.4; tr. C.B. Welles
+
+[[ ^65 ]]: //Alexander the Great and his time//. By Agnes Savill. p. 44 ISBN [[ 0-88029-591-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-88029-591-0 ]]
+
+[[ ^66 ]]: Cartledge & Spawforth 2001, p. 82.
+
+[[ ^3 ]]: Especially the Diamastigosis at the Sanctuary of Artemis Orthia, Limnai outside Sparta. There an amphitheatre was built in the 3rd century AD to observe the ritual whipping of Spartan youths. Visiting Romans came to see Sparta as having degraded to a disgusting cult of fetish brutality.
+
+[[ ^71 ]]: Cartledge & Spawforth 2001, p. 108.
+
+[[ ^72 ]]: Erich S. Gruen, //Heritage and Hellenism: The Reinvention of Jewish Tradition//, 1998, p. 254, ISBN [[ 0-520-23506-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-520-23506-1 ]] (2002)
+
+[[ ^73 ]]: Rappaport, U., //47. 1 Maccabees// in Barton, J. and Muddiman, J. (2001), [[ The Oxford Bible Commentary | https://b-ok.org/dl/946961/8f5f43 ]] Archived 22 November 2017 at the [[ Wayback Machine ]], p. 729
+
+[[ ^74 ]]: Keenan-Jones, Duncan (29 April 2021). [[ "What were the Spartans like? Note to Lego Masters: they didn't build city walls" | https://theconversation.com/what-were-the-spartans-like-note-to-lego-masters-they-didnt-build-city-walls-159910 ]]. //The Conversation//.
+
+[[ ^75 ]]: Alexander Gillespie (7 October 2011). [[ //A History of the Laws of War: Volume 2: The Customs and Laws of War with \...// | https://books.google.com/books?id=qIt6BAAAQBAJ&q=alaric+sacked+sparta&pg=PT204 ]] Bloomsbury. ISBN [[ 9781847318626 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9781847318626 ]] – via Google Książki.
+
+[[ ^76 ]]: Howatson, M. C. (22 August 2013). [[ //The Oxford Companion to Classical Literature// | https://books.google.com/books?id=IVGcAQAAQBAJ&q=alaric+sacked+sparta+slavery&pg=PA535 ]]. OUP Oxford. ISBN [[ 9780199548552 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9780199548552 ]] – via Google Książki.
+
+[[ ^77 ]]: Liosis, Nikos. [[ "Tsakonian Studies: The State-of-the-Art" | https://www.researchgate.net/publication/337949879 ]]. //researchgate//. Institute of Modern Greek Studies. Retrieved 4 July 2022.
+
+[[ ^78 ]]: Cartledge 2002, p. 89.
+
+[[ ^79 ]]: //The Greeks at War// By Philip De Souza, Waldemar Heckel, Lloyd Llewellyn-Jones, Victor Davis Hanson
+
+[[ ^80 ]]: //The Politics By Aristotle//, Thomas Alan Sinclair, Trevor J. Saunders
+
+[[ ^81 ]]: //A companion to Greek studies//
+ By Leonard Whibley
+
+[[ ^82 ]]: Liddell & Scott 1940. σύντροφος.
+
+[[ ^83 ]]: Powell, Anton (1987). //The Greek World//. [[ Routledge ]].
+
+[[ ^84 ]]: //Ancient Greece// By [[ Sarah B. Pomeroy ]], Stanley M. Burstein, Walter Donlan, Jennifer Tolbert Roberts
+
+[[ ^85 ]]: Herodotus (IX, 28–29)
+
+[[ ^86 ]]: Xenophon, //Hellenica//, III, 3, 5
+
+[[ ^87 ]]: [[ "Sparta" | https://www.history.com/topics/ancient-history/sparta ]]. //HISTORY//. 12 November 2009. Retrieved 3 August 2021.
+
+[[ ^88 ]]: Tridimas, George (2023). [[ "Choice of slavery institutions in Ancient Greece: Athenian chattels and Spartan helots" | https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/choice-of-slavery-institutions-in-ancient-greece-athenian-chattels-and-spartan-helots/DA904BD5451B7DD8741DBDDFA5BC7DFF ]]. //Journal of Institutional Economics//. !!19!! (6). Retrieved 1 June 2026.
+
+[[ ^89 ]]: Kennell, Nigel M. "Helots and Perioeci" //Sparta: A New History.// Wiley-Blackwell pp. 136. 2010
+
+[[ ^90 ]]: Figueira, Thomas, "Helotage and the Spartan Economy," p. 566-574. In //A Companion to Sparta,// edited by Anton Powell, 565–589. Volume 1 of //A Companion to Sparta.// Hoboken, NJ: Wiley Balckwell, 2018.
+
+[[ ^91 ]]: West 1999, p. 24.
+
+[[ ^92 ]]: Cartledge 2002, p. 141.
+
+[[ ^93 ]]: Cartledge 2002, p. 140.
+
+[[ ^94 ]]: Ehrenberg 2002, p. 159.
+
+[[ ^95 ]]: Thucydides; Mynott, Jeremy (2013), "Third year of the war, 429–28 [II 71–103]", //Thucydides//, Cambridge: Cambridge University Press, pp. 135–161, doi:[[ 10.1017/cbo9781139050371.014 | https://doi.org/10.1017%2Fcbo9781139050371.014 ]], ISBN [[ 978-1-139-05037-1 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-139-05037-1 ]], retrieved 24 February 2021
+
+[[ ^96 ]]: Kennell, Nigel M. (2010). //Spartans: A New History//. Wiley-Blackwell. p. 122.
+
+[[ ^97 ]]: Thucydides (IV, 80); the Greek is ambiguous
+
+[[ ^98 ]]: Cartledge 2002, p. 211.
+
+[[ ^99 ]]: Thucydides (VII, 27)
+
+[[ ^100 ]]: Talbert, p. 26.
+
+[[ ^101 ]]: Apud Athenaeus, 14, 647d = //FGH// 106 F 2. Trans. by Cartledge, p. 305.
+
+[[ ^102 ]]: Plutarch, //Life of Lycurgus// 28, 8–10. See also, //Life of Demetrios//, 1, 5; //Constitution of the Lacedemonians// 30; //De Cohibenda Ira// 6; //De Commmunibus Notitiis// 19.
+
+[[ ^103 ]]: Plutarch, //Life of Lycurgus// 28, 7.
+
+[[ ^104 ]]: Powell 2001, p. 254.
+
+[[ ^105 ]]: Thucydides (Book IV 80.4).
+
+[[ ^106 ]]: Cartledge 2002, pp. 153–155.
+
+[[ ^107 ]]: Cartledge 2002, pp. 158, 178.
+
+[[ ^108 ]]: "Population Patterns in Late Archaic and Classical Sparta" by Thomas Figueira, //Transactions of the American Philological Association// 116 (1986), pp. 165–213
+
+[[ ^109 ]]: Paul Cartledge, //Sparta and Lakonia//, Routledge, London, 1979, pp. 154–59
+
+[[ ^110 ]]: Conrad Stibbe, //Das Andere Sparta//, Verlag Philipp von Zabern, Mainz, 1996, pp. 111–27
+
+[[ ^111 ]]: Excel HSC //Ancient History// By Peter Roberts, ISBN [[ 1-74125-178-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F1-74125-178-8 ]], [[ 978-1-74125-178-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-74125-178-4 ]]
+
+[[ ^112 ]]: Conrad Stibbe, //Das Andere Sparta//, Verlag Philipp von Zabern, Mainz, 1996
+
+[[ ^113 ]]: A.H.M. Jones, //Sparta//, Basel Blackwell and Mott Ltd.,1967, pp. 40–43
+
+[[ ^114 ]]: Stephen Hodkinson, //Property and Wealth in Classical Sparta//, The Classical Press of Wales, Swansea, 2000. See also Paul Cartledge's discussion of property in Sparta in //Sparta and Lakonia//, pp. 142–44.
+
+[[ ^115 ]]: //Social Conflict in Ancient Greece// By Alexander Fuks, ISBN [[ 965-223-466-4 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F965-223-466-4 ]], [[ 978-965-223-466-7 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-965-223-466-7 ]]
+
+[[ ^116 ]]: Cartledge 2001, p. 84.
+
+[[ ^117 ]]: Plutarch 2005, p. 20.
+
+[[ ^118 ]]: Bayliss, Andrew J. (26 May 2022). "4. Raising a Spartan". //The Spartans: A Very Short Introduction//: 59–76. doi:[[ 10.1093/actrade/9780198787600.003.0004 | https://doi.org/10.1093%2Factrade%2F9780198787600.003.0004 ]]. ISBN [[ 978-0-19-878760-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0-19-878760-0 ]].``\{{cite journal}}``:  CS1 maint: periodical has ISBN ([[ link | https://en.wikipedia.org/wiki/Category%3ACS1_maint%3A_periodical_has_ISBN ]])
+
+[[ ^119 ]]: Williamson, Laila (1978). "Infanticide: an anthropological analysis". In Kohl, Marvin (ed.). //Infanticide and the Value of Life//. NY: [[ Prometheus Books ]]. pp. 61–75 [61].
+
+[[ ^120 ]]: Theodoros K. Pitsios (2010). [[ "Ancient Sparta – Research Program of Keadas Cavern" | https://web.archive.org/web/20131002192630/http://www.anthropologie.ch/d/publikationen/archiv/2010/documents/03PITSIOSreprint.pdf ]] (PDF). //Bulletin der Schweizerischen Gesellschaft für Anthropologie//. !!16!! (1–2): 13–22. Archived from [[ the original | http://www.anthropologie.ch/d/publikationen/archiv/2010/documents/03PITSIOSreprint.pdf ]] (PDF) on 2 October 2013.
+
+[[ ^121 ]]: Sneed (2021). "Disability and Infanticide in Ancient Greece". //Hesperia: The Journal of the American School of Classical Studies at Athens//. !!90!! (4): 747. doi:[[ 10.2972/hesperia.90.4.0747 | https://doi.org/10.2972%2Fhesperia.90.4.0747 ]]. S2CID [[ 245045967 | https://api.semanticscholar.org/CorpusID:245045967 ]].
+
+[[ ^122 ]]: Tyrtaeus, fr.12 lines 27–32
+
+[[ ^123 ]]: Plutarch, //Life of Lycurgus// 27.2–3. However this may be conflating later practice with that of the classical period. See Not the Classical Ideal: Athens and the Construction of the Other in Greek Art ed. Beth Cohen, p. 263, note 33, 2000, Brill.
+
+[[ ^124 ]]: Tsouli, M. (2016). Testimonia on Funerary Banquets in Ancient Sparta. In: Draycott, C. M., Stamatopoulou, M., & Peeters, U. (eds.), Dining and Death: Interdisciplinary Perspectives on the 'Funerary Banquet' in Ancient Art, Burial and Belief, Peeters, 353–383.
+
+[[ ^125 ]]: Christesen, P. (2018). The typology and topography of Spartan burials from the Protogeometric to the Hellenistic period: rethinking Spartan exceptionalism and the ostensible cessation of adult intramural burials in the Greek world. //Annual of the British School at Athens//, //113//, 307–363.
+
+[[ ^126 ]]: Xenophon, Spartan Society, 2
+
+[[ ^127 ]]: Kagan, Donald; Ozment, Steven; Frank, Turner; Frank, Alison (2013). "The Rise of Greek Civilization". //Western Heritage//. Pearson. pp. 44, Spartan Society.
+
+[[ ^128 ]]: Cartledge 2001, p. 85.
+
+[[ ^129 ]]: Cartledge 2001, pp. 91–105.
+
+[[ ^130 ]]: Cartledge 2001, p. 88.
+
+[[ ^131 ]]: Millender, Ellen G. (2018). Powell, Anton (ed.). //A Companion to Sparta//. Wiley-Blackwell. p. 504.
+
+[[ ^132 ]]: Cartledge 2001, pp. 83–84.
+
+[[ ^133 ]]: David, E. (1984). //Aristophanes and Athenian Society of the Early Fourth Century B.C//. Brill Archive. ISBN [[ 9004070621 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F9004070621 ]].
+
+[[ ^134 ]]: Scanlon, Thomas F. (2005). "The Dispersion of Pederasty and the Athletic Revolution in Sixth-Century BC Greece". //J Homosex//. !!49!! (3–4): 63–85. doi:[[ 10.1300/j082v49n03_03 | https://doi.org/10.1300%2Fj082v49n03_03 ]]. PMID [[ 16338890 | https://pubmed.ncbi.nlm.nih.gov/16338890 ]]. S2CID [[ 19140503 | https://api.semanticscholar.org/CorpusID:19140503 ]]. //Same-Sex Desire and Love in Greco-Roman Antiquity and in the Classical Tradition of the West//, pp. 64–70.
+
+[[ ^135 ]]: [[ Erich Bethe ]], //Die Dorische Knabenliebe: ihre Ethik und ihre Ideen// (The Doric pederasty: their ethics and their ideas),  Sauerländer, 1907, 441, 444. ISBN [[ 978-3921495773 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-3921495773 ]]
+
+[[ ^136 ]]: Plutarch, //Life of Lycurgus// 18.
+
+[[ ^137 ]]: Readers Companion Military Hist p. 438. Cowley
+
+[[ ^138 ]]: Adcock 1957, pp. 8–9.
+
+[[ ^139 ]]: Plutarch 2004, p. 465.
+
+[[ ^140 ]]: Helena P. Schrader (2011). [[ "Sons and Mothers" | http://www.sparta.markoulakispublications.org.uk/index.php?id=316 ]]. //ΣPARTA: Journal of Ancient Spartan and Greek History//. !!7!! (4). Markoulakis Publications. ISSN [[ 1751-0007 | https://search.worldcat.org/issn/1751-0007 ]]. Retrieved 14 September 2013. (subscription required)
+
+[[ ^141 ]]: Forrest 1968, p. 53.
+
+[[ ^142 ]]: Pomeroy 2002, p. .
+
+[[ ^143 ]]: //The Greeks//, H. D. F. Kitto, ISBN [[ 0-202-30910-X | https://en.wikipedia.org/wiki/Special%3ABookSources%2F0-202-30910-X ]], [[ 978-0202309101 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-0202309101 ]]
+
+[[ ^144 ]]: Langridge-Noti, Elizabeth (2015). "Unchanging Tastes: First Steps Towards Correlation of the Evidence for Food Preparation and Consumption in Ancient Laconia". In Spataro, Michela; Villing, Alexandra (eds.). //Ceramics, Cuisine and Culture//. United Kingdom: Oxbow Books. pp. 148–55. ISBN [[ 978-1-78297-947-0 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-78297-947-0 ]].
+
+[[ ^145 ]]: Figueira, Thomas (1984). "Mess Contributions and Subsistence at Sparta". //Transactions of the American Philological Association//. !!114!!: 87–109. doi:[[ 10.2307/284141 | https://doi.org/10.2307%2F284141 ]]. JSTOR [[ 284141 | https://www.jstor.org/stable/284141 ]].
+
+[[ ^146 ]]: Plutarch, //The Life of Lycurgus//
+
+[[ ^147 ]]: Pomeroy 2002, p. 42.
+
+[[ ^148 ]]: Xenophon, Spartan Society, 1
+
+[[ ^149 ]]: Blundell 1999, p. .
+
+[[ ^150 ]]: Guttentag and Secord, 1983; Finley, 1982; Pomeroy, 1975
+
+[[ ^151 ]]: Pomeroy 2002, p. 34.
+
+[[ ^152 ]]: Powell 2001, p. 248.
+
+[[ ^153 ]]: Blundell 1999, p. 154.
+
+[[ ^154 ]]: Powell 2001, p. 246.
+
+[[ ^155 ]]: Maria Dettenhofer, "Die Frauen von Sparta", Reine Männer Sache, Munich, Deutscher Taschenbuch Verlag, 1994, p. 25.
+
+[[ ^156 ]]: Pomeroy 2002, p. 9.
+
+[[ ^157 ]]: Pomeroy, Sarah B. //Goddess, Whores, Wives, and Slaves: Women in Classical Antiquity//. New York: Schocken Books, 1995 pp. 60–62
+
+[[ ^158 ]]: [[ "Gorgo and Spartan Women" | https://web.archive.org/web/20091027062542/http://www.geocities.com/Athens/Aegean/7849/spwomen.html ]]. 27 October 2009. Archived from [[ the original | http://www.geocities.com/Athens/Aegean/7849/spwomen.html ]] on 27 October 2009. Retrieved 10 August 2011.
+
+[[ ^159 ]]: Helena Schrader (11 July 2010). [[ "Sparta Reconsidered—Spartan Women" | http://www.elysiumgates.com/~helena/Women.html ]]. Elysiumgates.com. Retrieved 10 August 2011.
+
+[[ ^160 ]]: Plutarch 2004, p. 457.
+
+[[ ^161 ]]: Pausanias, 6.1.6
+
+[[ ^162 ]]: Millender, Ellen G., "Spartan Women" p. 500-525. In //A Companion to Sparta,// edited by Anton Powell, Volume 1 of //A Companion to Sparta.// Hoboken, NJ: Wiley Blackwell, 2018.
+
+[[ ^163 ]]: Mueller: //Dorians// II, 192
+
+[[ ^164 ]]: Hodkinson, Stephen "The Imaginary Spartan //Politeria//" pp. 22–81 from //The Imaginary Polis: Symposium, 7–10 January 2004// edited by Mogens Herman Hansen, Copenhagen: Danske Videnskabernes Selskab, 2005 p. 222.
+
+[[ ^165 ]]: Hodkinson S (31 December 2002). "Introduction". //Sparta: Beyond the Mirage//. The Classical Press of Wales. doi:[[ 10.2307/j.ctv1n357hd | https://doi.org/10.2307%2Fj.ctv1n357hd ]]. ISBN [[ 978-1-914535-20-8 | https://en.wikipedia.org/wiki/Special%3ABookSources%2F978-1-914535-20-8 ]].
+
+[[ ^166 ]]: [[ Žižek, Slavoj | slavoj-žižek ]]. [[ "The True Hollywood Left" | http://www.lacan.com/zizhollywood.htm ]]. www.lacan.com.
+
+[[ ^167 ]]: Kiernan, Ben. [[ "Hitler, Pol Pot, and Hutu Power: Distinguishing Themes of Genocidal Ideology" | https://www.un.org/sites/un2.un.org/files/dpj_i.pdf ]] (PDF). p. 19. [[ Archived | https://web.archive.org/web/20210428080325/https://www.un.org/sites/un2.un.org/files/dpj_i.pdf ]] (PDF) from the original on 28 April 2021. Retrieved 28 April 2021.
+
+[[ ^168 ]]: //The Making of Israeli Militarism//, By Uri Ben-Eliezer, Indiana University Press, 1998, p. 63
+
+[[ ^169 ]]: //Land and Power: The Zionist Resort to Force, 1881–1948//, By Anita Shapira, Stanford University Press 1999, 300
+
+[[ ^170 ]]: [[ "Spartan" | https://www.merriam-webster.com/dictionary/Spartan ]]. //Merriam-Webster.com Dictionary//. Merriam-Webster. Retrieved 5 October 2021.

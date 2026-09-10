@@ -1,0 +1,19 @@
+slug: thebes-greece
+findings:
+  - kind: unsupported
+    quote: Ancient Thebes was the largest and leading [[ polis ]] of the [[
+      Boeotian League ]], and it spent most of its history on the losing side
+      of Greek memory.
+    why: The source lead says only that ancient Thebes was the largest and leading
+      polis of the Boeotian League. The clause about spending most of its
+      history on the losing side of Greek memory is an added editorial
+      characterisation the source nowhere makes.
+    severity: minor
+  - kind: unsupported
+    quote: The city's own name is on those tablets.
+    why: The source says the attested name forms and relevant terms appear on
+      tablets "found locally or elsewhere" — it does not say the name is on
+      the Linear B tablets from the Mycenaean cist graves at Thebes that the
+      preceding sentence describes.
+    severity: minor
+verdict: minor-only
