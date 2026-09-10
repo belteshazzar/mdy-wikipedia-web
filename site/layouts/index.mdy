@@ -4,7 +4,7 @@
   <p class="eyebrow">{{ req.cities.length }} cities · {{ req.ring.length }} topics they need · {{ req.images }} images, all credited
   <h1>{{ req.site.title }}
   <p>{{ req.site.description }}
-  <p class="index-map">[[ See all {{ req.located }} of them on the map | /places/ ]]
+  <p class="index-map">[[ See all {{ req.located }} of them on the map | {{ req.site.base }}/places/ ]]
 
 < section class="band-head"
   <h2>The cities
